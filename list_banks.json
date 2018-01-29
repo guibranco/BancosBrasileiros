@@ -1,0 +1,2270 @@
+[
+  {
+    "IdBank": 1,
+    "Code": "001",
+    "Name": "BANCO DO BRASIL",
+    "CreatedAt": "2017-04-19 15:52:42.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 2,
+    "Code": "341",
+    "Name": "ITAÚ",
+    "CreatedAt": "2017-04-19 15:53:59.107",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 3,
+    "Code": "104",
+    "Name": "CAIXA ECONÔMICA FEDERAL",
+    "CreatedAt": "2017-04-19 15:54:41.200",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 4,
+    "Code": "033",
+    "Name": "SANTANDER",
+    "CreatedAt": "2017-04-19 15:55:59.197",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 5,
+    "Code": "070",
+    "Name": "BRB - BANCO DE BRASÌLIA",
+    "CreatedAt": "2017-04-19 15:58:17.387",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 6,
+    "Code": "077",
+    "Name": "BANCO INTERMEDIUM",
+    "CreatedAt": "2017-04-19 15:58:39.887",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 7,
+    "Code": "237",
+    "Name": "BRADESCI",
+    "CreatedAt": "2017-04-19 16:00:31.407",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 8,
+    "Code": "745",
+    "Name": "CITIBANK",
+    "CreatedAt": "2017-04-19 16:01:50.353",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 9,
+    "Code": "422",
+    "Name": "BANCO SAFRA",
+    "CreatedAt": "2017-04-19 16:04:20.790",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 10,
+    "Code": "399",
+    "Name": "BANCO HSBC",
+    "CreatedAt": "2017-04-19 16:05:20.353",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 11,
+    "Code": "756",
+    "Name": "BANCOOB",
+    "CreatedAt": "2017-08-01 22:29:11.827",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 12,
+    "Code": "212",
+    "Name": "BANCO ORIGINAL",
+    "CreatedAt": "2017-10-11 20:33:06.803",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 14,
+    "Code": "002",
+    "Name": "BANCO CENTRAL DO BRASIL",
+    "CreatedAt": "2018-01-29 15:12:24.270",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 15,
+    "Code": "003",
+    "Name": "BANCO DA AMAZONIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.270",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 16,
+    "Code": "004",
+    "Name": "BANCO DO NORDESTE DO BRASIL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.270",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 17,
+    "Code": "007",
+    "Name": "BANCO NAC DESENV. ECO. SOCIAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.270",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 18,
+    "Code": "008",
+    "Name": "BANCO MERIDIONAL DO BRASIL",
+    "CreatedAt": "2018-01-29 15:12:24.270",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 19,
+    "Code": "020",
+    "Name": "BANCO DO ESTADO DE ALAGOAS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.270",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 20,
+    "Code": "021",
+    "Name": "BANCO DO ESTADO DO ESPIRITO SANTO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.270",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 21,
+    "Code": "022",
+    "Name": "BANCO DE CREDITO REAL DE MINAS GERAIS SA",
+    "CreatedAt": "2018-01-29 15:12:24.273",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 22,
+    "Code": "024",
+    "Name": "BANCO DO ESTADO DE PERNAMBUCO",
+    "CreatedAt": "2018-01-29 15:12:24.273",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 23,
+    "Code": "025",
+    "Name": "BANCO ALFA S/A",
+    "CreatedAt": "2018-01-29 15:12:24.273",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 24,
+    "Code": "026",
+    "Name": "BANCO DO ESTADO DO ACRE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.273",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 25,
+    "Code": "027",
+    "Name": "BANCO DO ESTADO DE SANTA CATARINA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.273",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 26,
+    "Code": "028",
+    "Name": "BANCO DO ESTADO DA BAHIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.277",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 27,
+    "Code": "029",
+    "Name": "BANCO DO ESTADO DO RIO DE JANEIRO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.277",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 28,
+    "Code": "030",
+    "Name": "BANCO DO ESTADO DA PARAIBA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.277",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 29,
+    "Code": "031",
+    "Name": "BANCO DO ESTADO DE GOIAS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.277",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 30,
+    "Code": "032",
+    "Name": "BANCO DO ESTADO DO MATO GROSSO S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.277",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 32,
+    "Code": "034",
+    "Name": "BANCO DO ESADO DO AMAZONAS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.280",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 33,
+    "Code": "035",
+    "Name": "BANCO DO ESTADO DO CEARA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.280",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 34,
+    "Code": "036",
+    "Name": "BANCO DO ESTADO DO MARANHAO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.280",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 35,
+    "Code": "037",
+    "Name": "BANCO DO ESTADO DO PARA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.280",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 36,
+    "Code": "038",
+    "Name": "BANCO DO ESTADO DO PARANA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.280",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 37,
+    "Code": "039",
+    "Name": "BANCO DO ESTADO DO PIAUI S.A",
+    "CreatedAt": "2018-01-29 15:12:24.280",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 38,
+    "Code": "041",
+    "Name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.283",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 39,
+    "Code": "047",
+    "Name": "BANCO DO ESTADO DE SERGIPE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.283",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 40,
+    "Code": "048",
+    "Name": "BANCO DO ESTADO DE MINAS GERAIS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.283",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 41,
+    "Code": "059",
+    "Name": "BANCO DO ESTADO DE RONDONIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.283",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 44,
+    "Code": "106",
+    "Name": "BANCO ITABANCO S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.287",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 45,
+    "Code": "107",
+    "Name": "BANCO BBM S.A",
+    "CreatedAt": "2018-01-29 15:12:24.287",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 46,
+    "Code": "109",
+    "Name": "BANCO CREDIBANCO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.290",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 47,
+    "Code": "116",
+    "Name": "BANCO B.N.L DO BRASIL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.290",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 48,
+    "Code": "148",
+    "Name": "MULTI BANCO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.290",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 49,
+    "Code": "151",
+    "Name": "CAIXA ECONOMICA DO ESTADO DE SAO PAULO",
+    "CreatedAt": "2018-01-29 15:12:24.290",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 50,
+    "Code": "153",
+    "Name": "CAIXA ECONOMICA DO ESTADO DO R.G.SUL",
+    "CreatedAt": "2018-01-29 15:12:24.290",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 51,
+    "Code": "165",
+    "Name": "BANCO NORCHEM S.A",
+    "CreatedAt": "2018-01-29 15:12:24.290",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 52,
+    "Code": "166",
+    "Name": "BANCO INTER-ATLANTICO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.293",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 53,
+    "Code": "168",
+    "Name": "BANCO C.C.F. BRASIL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.293",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 54,
+    "Code": "175",
+    "Name": "CONTINENTAL BANCO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.293",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 55,
+    "Code": "184",
+    "Name": "BBA - CREDITANSTALT S.A",
+    "CreatedAt": "2018-01-29 15:12:24.293",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 56,
+    "Code": "199",
+    "Name": "BANCO FINANCIAL PORTUGUES",
+    "CreatedAt": "2018-01-29 15:12:24.293",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 57,
+    "Code": "200",
+    "Name": "BANCO FRICRISA AXELRUD S.A",
+    "CreatedAt": "2018-01-29 15:12:24.297",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 58,
+    "Code": "201",
+    "Name": "BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.297",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 59,
+    "Code": "204",
+    "Name": "BANCO S.R.L S.A",
+    "CreatedAt": "2018-01-29 15:12:24.297",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 60,
+    "Code": "205",
+    "Name": "BANCO SUL AMERICA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.297",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 61,
+    "Code": "206",
+    "Name": "BANCO MARTINELLI S.A",
+    "CreatedAt": "2018-01-29 15:12:24.297",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 62,
+    "Code": "208",
+    "Name": "BANCO PACTUAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.300",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 63,
+    "Code": "210",
+    "Name": "DEUTSCH SUDAMERIKANICHE BANK AG",
+    "CreatedAt": "2018-01-29 15:12:24.300",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 64,
+    "Code": "211",
+    "Name": "BANCO SISTEMA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.300",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 66,
+    "Code": "213",
+    "Name": "BANCO ARBI S.A",
+    "CreatedAt": "2018-01-29 15:12:24.300",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 67,
+    "Code": "214",
+    "Name": "BANCO DIBENS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.303",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 68,
+    "Code": "215",
+    "Name": "BANCO AMERICA DO SUL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.303",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 69,
+    "Code": "216",
+    "Name": "BANCO REGIONAL MALCON S.A",
+    "CreatedAt": "2018-01-29 15:12:24.303",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 70,
+    "Code": "217",
+    "Name": "BANCO AGROINVEST S.A",
+    "CreatedAt": "2018-01-29 15:12:24.303",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 71,
+    "Code": "218",
+    "Name": "BBS - BANCO BONSUCESSO S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.303",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 72,
+    "Code": "219",
+    "Name": "BANCO DE CREDITO DE SAO PAULO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.307",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 73,
+    "Code": "220",
+    "Name": "BANCO CREFISUL",
+    "CreatedAt": "2018-01-29 15:12:24.307",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 74,
+    "Code": "221",
+    "Name": "BANCO GRAPHUS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.307",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 75,
+    "Code": "222",
+    "Name": "BANCO AGF BRASIL S. A.",
+    "CreatedAt": "2018-01-29 15:12:24.307",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 76,
+    "Code": "223",
+    "Name": "BANCO INTERUNION S.A",
+    "CreatedAt": "2018-01-29 15:12:24.307",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 77,
+    "Code": "224",
+    "Name": "BANCO FIBRA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.307",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 78,
+    "Code": "225",
+    "Name": "BANCO BRASCAN S.A",
+    "CreatedAt": "2018-01-29 15:12:24.310",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 79,
+    "Code": "228",
+    "Name": "BANCO ICATU S.A",
+    "CreatedAt": "2018-01-29 15:12:24.310",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 80,
+    "Code": "229",
+    "Name": "BANCO CRUZEIRO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.310",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 81,
+    "Code": "230",
+    "Name": "BANCO BANDEIRANTES S.A",
+    "CreatedAt": "2018-01-29 15:12:24.310",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 82,
+    "Code": "231",
+    "Name": "BANCO BOAVISTA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.310",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 83,
+    "Code": "232",
+    "Name": "BANCO INTERPART S.A",
+    "CreatedAt": "2018-01-29 15:12:24.310",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 84,
+    "Code": "233",
+    "Name": "BANCO MAPPIN S.A",
+    "CreatedAt": "2018-01-29 15:12:24.313",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 85,
+    "Code": "234",
+    "Name": "BANCO LAVRA S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.313",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 86,
+    "Code": "235",
+    "Name": "BANCO LIBERAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.313",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 87,
+    "Code": "236",
+    "Name": "BANCO CAMBIAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.313",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 89,
+    "Code": "239",
+    "Name": "BANCO BANCRED S.A",
+    "CreatedAt": "2018-01-29 15:12:24.317",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 90,
+    "Code": "240",
+    "Name": "BANCO DE CREDITO REAL DE MINAS GERAIS S.",
+    "CreatedAt": "2018-01-29 15:12:24.317",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 91,
+    "Code": "241",
+    "Name": "BANCO CLASSICO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.317",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 92,
+    "Code": "242",
+    "Name": "BANCO EUROINVEST S.A",
+    "CreatedAt": "2018-01-29 15:12:24.317",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 93,
+    "Code": "243",
+    "Name": "BANCO STOCK S.A",
+    "CreatedAt": "2018-01-29 15:12:24.317",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 94,
+    "Code": "244",
+    "Name": "BANCO CIDADE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.320",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 95,
+    "Code": "245",
+    "Name": "BANCO EMPRESARIAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.320",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 96,
+    "Code": "246",
+    "Name": "BANCO ABC ROMA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.320",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 97,
+    "Code": "247",
+    "Name": "BANCO OMEGA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.320",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 98,
+    "Code": "249",
+    "Name": "BANCO INVESTCRED S.A",
+    "CreatedAt": "2018-01-29 15:12:24.320",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 99,
+    "Code": "250",
+    "Name": "BANCO SCHAHIN CURY S.A",
+    "CreatedAt": "2018-01-29 15:12:24.320",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 100,
+    "Code": "251",
+    "Name": "BANCO SAO JORGE S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.323",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 101,
+    "Code": "252",
+    "Name": "BANCO FININVEST S.A",
+    "CreatedAt": "2018-01-29 15:12:24.323",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 102,
+    "Code": "254",
+    "Name": "BANCO PARANA BANCO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.323",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 103,
+    "Code": "255",
+    "Name": "MILBANCO S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.323",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 104,
+    "Code": "256",
+    "Name": "BANCO GULVINVEST S.A",
+    "CreatedAt": "2018-01-29 15:12:24.323",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 105,
+    "Code": "258",
+    "Name": "BANCO INDUSCRED S.A",
+    "CreatedAt": "2018-01-29 15:12:24.327",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 106,
+    "Code": "261",
+    "Name": "BANCO VARIG S.A",
+    "CreatedAt": "2018-01-29 15:12:24.327",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 107,
+    "Code": "262",
+    "Name": "BANCO BOREAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.327",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 108,
+    "Code": "263",
+    "Name": "BANCO CACIQUE",
+    "CreatedAt": "2018-01-29 15:12:24.327",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 109,
+    "Code": "264",
+    "Name": "BANCO PERFORMANCE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.330",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 110,
+    "Code": "265",
+    "Name": "BANCO FATOR S.A",
+    "CreatedAt": "2018-01-29 15:12:24.330",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 111,
+    "Code": "266",
+    "Name": "BANCO CEDULA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.330",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 112,
+    "Code": "267",
+    "Name": "BANCO BBM-COM.C.IMOB.CFI S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.330",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 113,
+    "Code": "275",
+    "Name": "BANCO REAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.330",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 114,
+    "Code": "277",
+    "Name": "BANCO PLANIBANC S.A",
+    "CreatedAt": "2018-01-29 15:12:24.330",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 115,
+    "Code": "282",
+    "Name": "BANCO BRASILEIRO COMERCIAL",
+    "CreatedAt": "2018-01-29 15:12:24.330",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 116,
+    "Code": "291",
+    "Name": "BANCO DE CREDITO NACIONAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.333",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 117,
+    "Code": "294",
+    "Name": "BCR - BANCO DE CREDITO REAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.333",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 118,
+    "Code": "295",
+    "Name": "BANCO CREDIPLAN S.A",
+    "CreatedAt": "2018-01-29 15:12:24.333",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 119,
+    "Code": "300",
+    "Name": "BANCO DE LA NACION ARGENTINA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.333",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 120,
+    "Code": "302",
+    "Name": "BANCO DO PROGRESSO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.337",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 121,
+    "Code": "303",
+    "Name": "BANCO HNF S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.337",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 122,
+    "Code": "304",
+    "Name": "BANCO PONTUAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.337",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 123,
+    "Code": "308",
+    "Name": "BANCO COMERCIAL BANCESA S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.337",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 124,
+    "Code": "318",
+    "Name": "BANCO B.M.G. S.A",
+    "CreatedAt": "2018-01-29 15:12:24.337",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 125,
+    "Code": "320",
+    "Name": "BANCO INDUSTRIAL E COMERCIAL",
+    "CreatedAt": "2018-01-29 15:12:24.340",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 127,
+    "Code": "346",
+    "Name": "BANCO FRANCES E BRASILEIRO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.340",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 128,
+    "Code": "347",
+    "Name": "BANCO SUDAMERIS BRASIL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.340",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 129,
+    "Code": "351",
+    "Name": "BANCO BOZANO SIMONSEN S.A",
+    "CreatedAt": "2018-01-29 15:12:24.340",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 130,
+    "Code": "353",
+    "Name": "BANCO GERAL DO COMERCIO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.340",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 131,
+    "Code": "356",
+    "Name": "ABN AMRO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.340",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 132,
+    "Code": "366",
+    "Name": "BANCO SOGERAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.343",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 133,
+    "Code": "369",
+    "Name": "PONTUAL",
+    "CreatedAt": "2018-01-29 15:12:24.343",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 134,
+    "Code": "370",
+    "Name": "BEAL - BANCO EUROPEU PARA AMERICA LATINA",
+    "CreatedAt": "2018-01-29 15:12:24.343",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 135,
+    "Code": "372",
+    "Name": "BANCO ITAMARATI S.A",
+    "CreatedAt": "2018-01-29 15:12:24.347",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 136,
+    "Code": "375",
+    "Name": "BANCO FENICIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.347",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 137,
+    "Code": "376",
+    "Name": "CHASE MANHATTAN BANK S.A",
+    "CreatedAt": "2018-01-29 15:12:24.347",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 138,
+    "Code": "388",
+    "Name": "BANCO MERCANTIL DE DESCONTOS S/A",
+    "CreatedAt": "2018-01-29 15:12:24.347",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 139,
+    "Code": "389",
+    "Name": "BANCO MERCANTIL DO BRASIL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.347",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 140,
+    "Code": "392",
+    "Name": "BANCO MERCANTIL DE SAO PAULO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.350",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 141,
+    "Code": "394",
+    "Name": "BANCO B.M.C. S.A",
+    "CreatedAt": "2018-01-29 15:12:24.350",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 143,
+    "Code": "409",
+    "Name": "UNIBANCO - UNIAO DOS BANCOS BRASILEIROS",
+    "CreatedAt": "2018-01-29 15:12:24.350",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 144,
+    "Code": "412",
+    "Name": "BANCO NACIONAL DA BAHIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.350",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 145,
+    "Code": "415",
+    "Name": "BANCO NACIONAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.350",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 146,
+    "Code": "420",
+    "Name": "BANCO NACIONAL DO NORTE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.350",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 148,
+    "Code": "424",
+    "Name": "BANCO NOROESTE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.353",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 149,
+    "Code": "434",
+    "Name": "BANCO FORTALEZA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.353",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 150,
+    "Code": "453",
+    "Name": "BANCO RURAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.353",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 151,
+    "Code": "456",
+    "Name": "BANCO TOKIO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.353",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 152,
+    "Code": "464",
+    "Name": "BANCO SUMITOMO BRASILEIRO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.357",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 153,
+    "Code": "466",
+    "Name": "BANCO MITSUBISHI BRASILEIRO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.357",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 154,
+    "Code": "472",
+    "Name": "LLOYDS BANK PLC",
+    "CreatedAt": "2018-01-29 15:12:24.357",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 155,
+    "Code": "473",
+    "Name": "BANCO FINANCIAL PORTUGUES S.A",
+    "CreatedAt": "2018-01-29 15:12:24.357",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 156,
+    "Code": "477",
+    "Name": "CITIBANK N.A",
+    "CreatedAt": "2018-01-29 15:12:24.357",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 157,
+    "Code": "479",
+    "Name": "BANCO DE BOSTON S.A",
+    "CreatedAt": "2018-01-29 15:12:24.360",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 158,
+    "Code": "480",
+    "Name": "BANCO PORTUGUES DO ATLANTICO-BRASIL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.360",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 159,
+    "Code": "483",
+    "Name": "BANCO AGRIMISA S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.360",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 160,
+    "Code": "487",
+    "Name": "DEUTSCHE BANK S.A - BANCO ALEMAO",
+    "CreatedAt": "2018-01-29 15:12:24.360",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 161,
+    "Code": "488",
+    "Name": "BANCO J. P. MORGAN S.A",
+    "CreatedAt": "2018-01-29 15:12:24.360",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 162,
+    "Code": "489",
+    "Name": "BANESTO BANCO URUGAUAY S.A",
+    "CreatedAt": "2018-01-29 15:12:24.360",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 163,
+    "Code": "492",
+    "Name": "INTERNATIONALE NEDERLANDEN BANK N.V.",
+    "CreatedAt": "2018-01-29 15:12:24.363",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 164,
+    "Code": "493",
+    "Name": "BANCO UNION S.A.C.A",
+    "CreatedAt": "2018-01-29 15:12:24.363",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 165,
+    "Code": "494",
+    "Name": "BANCO LA REP. ORIENTAL DEL URUGUAY",
+    "CreatedAt": "2018-01-29 15:12:24.363",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 166,
+    "Code": "495",
+    "Name": "BANCO LA PROVINCIA DE BUENOS AIRES",
+    "CreatedAt": "2018-01-29 15:12:24.363",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 167,
+    "Code": "496",
+    "Name": "BANCO EXTERIOR DE ESPANA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.363",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 168,
+    "Code": "498",
+    "Name": "CENTRO HISPANO BANCO",
+    "CreatedAt": "2018-01-29 15:12:24.367",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 169,
+    "Code": "499",
+    "Name": "BANCO IOCHPE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.367",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 170,
+    "Code": "501",
+    "Name": "BANCO BRASILEIRO IRAQUIANO S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.367",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 171,
+    "Code": "502",
+    "Name": "BANCO SANTANDER S.A",
+    "CreatedAt": "2018-01-29 15:12:24.367",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 172,
+    "Code": "504",
+    "Name": "BANCO MULTIPLIC S.A",
+    "CreatedAt": "2018-01-29 15:12:24.367",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 173,
+    "Code": "505",
+    "Name": "BANCO GARANTIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.370",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 174,
+    "Code": "600",
+    "Name": "BANCO LUSO BRASILEIRO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.370",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 175,
+    "Code": "601",
+    "Name": "BFC BANCO S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.370",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 176,
+    "Code": "602",
+    "Name": "BANCO PATENTE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.370",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 177,
+    "Code": "604",
+    "Name": "BANCO INDUSTRIAL DO BRASIL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.370",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 178,
+    "Code": "607",
+    "Name": "BANCO SANTOS NEVES S.A",
+    "CreatedAt": "2018-01-29 15:12:24.373",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 179,
+    "Code": "608",
+    "Name": "BANCO OPEN S.A",
+    "CreatedAt": "2018-01-29 15:12:24.373",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 180,
+    "Code": "610",
+    "Name": "BANCO V.R. S.A",
+    "CreatedAt": "2018-01-29 15:12:24.373",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 181,
+    "Code": "611",
+    "Name": "BANCO PAULISTA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.373",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 182,
+    "Code": "612",
+    "Name": "BANCO GUANABARA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.377",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 183,
+    "Code": "613",
+    "Name": "BANCO PECUNIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.377",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 184,
+    "Code": "616",
+    "Name": "BANCO INTERPACIFICO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.377",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 185,
+    "Code": "617",
+    "Name": "BANCO INVESTOR S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.377",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 186,
+    "Code": "618",
+    "Name": "BANCO TENDENCIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.377",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 187,
+    "Code": "621",
+    "Name": "BANCO APLICAP S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.380",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 188,
+    "Code": "622",
+    "Name": "BANCO DRACMA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.380",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 189,
+    "Code": "623",
+    "Name": "BANCO PANAMERICANO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.380",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 190,
+    "Code": "624",
+    "Name": "BANCO GENERAL MOTORS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.380",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 191,
+    "Code": "625",
+    "Name": "BANCO ARAUCARIA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.380",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 192,
+    "Code": "626",
+    "Name": "BANCO FICSA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.380",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 193,
+    "Code": "627",
+    "Name": "BANCO DESTAK S.A",
+    "CreatedAt": "2018-01-29 15:12:24.383",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 194,
+    "Code": "628",
+    "Name": "BANCO CRITERIUM S.A",
+    "CreatedAt": "2018-01-29 15:12:24.383",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 195,
+    "Code": "629",
+    "Name": "BANCORP BANCO COML. E. DE INVESTMENTO",
+    "CreatedAt": "2018-01-29 15:12:24.383",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 196,
+    "Code": "630",
+    "Name": "BANCO INTERCAP S.A",
+    "CreatedAt": "2018-01-29 15:12:24.383",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 197,
+    "Code": "633",
+    "Name": "BANCO REDIMENTO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.383",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 198,
+    "Code": "634",
+    "Name": "BANCO TRIANGULO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.387",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 199,
+    "Code": "635",
+    "Name": "BANCO DO ESTADO DO AMAPA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.387",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 200,
+    "Code": "637",
+    "Name": "BANCO SOFISA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.387",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 201,
+    "Code": "638",
+    "Name": "BANCO PROSPER S.A",
+    "CreatedAt": "2018-01-29 15:12:24.387",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 202,
+    "Code": "639",
+    "Name": "BIG S.A. - BANCO IRMAOS GUIMARAES",
+    "CreatedAt": "2018-01-29 15:12:24.387",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 203,
+    "Code": "640",
+    "Name": "BANCO DE CREDITO METROPOLITANO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.390",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 204,
+    "Code": "641",
+    "Name": "BANCO EXCEL ECONOMICO S/A",
+    "CreatedAt": "2018-01-29 15:12:24.390",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 205,
+    "Code": "643",
+    "Name": "BANCO SEGMENTO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.390",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 206,
+    "Code": "645",
+    "Name": "BANCO DO ESTADO DE RORAIMA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.390",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 207,
+    "Code": "647",
+    "Name": "BANCO MARKA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.390",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 208,
+    "Code": "648",
+    "Name": "BANCO ATLANTIS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.390",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 209,
+    "Code": "649",
+    "Name": "BANCO DIMENSAO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.390",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 210,
+    "Code": "650",
+    "Name": "BANCO PEBB S.A",
+    "CreatedAt": "2018-01-29 15:12:24.393",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 211,
+    "Code": "652",
+    "Name": "BANCO FRANCES E BRASILEIRO SA",
+    "CreatedAt": "2018-01-29 15:12:24.393",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 212,
+    "Code": "653",
+    "Name": "BANCO INDUSVAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.393",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 213,
+    "Code": "654",
+    "Name": "BANCO A. J. RENNER S.A",
+    "CreatedAt": "2018-01-29 15:12:24.393",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 214,
+    "Code": "655",
+    "Name": "BANCO VOTORANTIM S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.393",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 215,
+    "Code": "656",
+    "Name": "BANCO MATRIX S.A",
+    "CreatedAt": "2018-01-29 15:12:24.397",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 216,
+    "Code": "657",
+    "Name": "BANCO TECNICORP S.A",
+    "CreatedAt": "2018-01-29 15:12:24.397",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 217,
+    "Code": "658",
+    "Name": "BANCO PORTO REAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.397",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 218,
+    "Code": "702",
+    "Name": "BANCO SANTOS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.397",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 219,
+    "Code": "705",
+    "Name": "BANCO INVESTCORP S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 220,
+    "Code": "707",
+    "Name": "BANCO DAYCOVAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 221,
+    "Code": "711",
+    "Name": "BANCO VETOR S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 222,
+    "Code": "713",
+    "Name": "BANCO CINDAM S.A",
+    "CreatedAt": "2018-01-29 15:12:24.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 223,
+    "Code": "715",
+    "Name": "BANCO VEGA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 224,
+    "Code": "718",
+    "Name": "BANCO OPERADOR S.A",
+    "CreatedAt": "2018-01-29 15:12:24.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 225,
+    "Code": "719",
+    "Name": "BANCO PRIMUS S.A",
+    "CreatedAt": "2018-01-29 15:12:24.400",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 226,
+    "Code": "720",
+    "Name": "BANCO MAXINVEST S.A",
+    "CreatedAt": "2018-01-29 15:12:24.403",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 227,
+    "Code": "721",
+    "Name": "BANCO CREDIBEL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.403",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 228,
+    "Code": "722",
+    "Name": "BANCO INTERIOR DE SAO PAULO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.403",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 229,
+    "Code": "724",
+    "Name": "BANCO PORTO SEGURO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.403",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 230,
+    "Code": "725",
+    "Name": "BANCO FINABANCO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.407",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 231,
+    "Code": "726",
+    "Name": "BANCO UNIVERSAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.407",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 232,
+    "Code": "728",
+    "Name": "BANCO FITAL S.A",
+    "CreatedAt": "2018-01-29 15:12:24.407",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 233,
+    "Code": "729",
+    "Name": "BANCO FONTE S.A",
+    "CreatedAt": "2018-01-29 15:12:24.407",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 234,
+    "Code": "730",
+    "Name": "BANCO COMERCIAL PARAGUAYO S.A",
+    "CreatedAt": "2018-01-29 15:12:24.407",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 235,
+    "Code": "731",
+    "Name": "BANCO GNPP S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.410",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 236,
+    "Code": "732",
+    "Name": "BANCO PREMIER S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.410",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 237,
+    "Code": "733",
+    "Name": "BANCO NACOES S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.410",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 238,
+    "Code": "734",
+    "Name": "BANCO GERDAU S.A",
+    "CreatedAt": "2018-01-29 15:12:24.410",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 239,
+    "Code": "735",
+    "Name": "BACO POTENCIAL",
+    "CreatedAt": "2018-01-29 15:12:24.410",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 240,
+    "Code": "736",
+    "Name": "BANCO UNITED S.A",
+    "CreatedAt": "2018-01-29 15:12:24.410",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 241,
+    "Code": "737",
+    "Name": "THECA",
+    "CreatedAt": "2018-01-29 15:12:24.413",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 242,
+    "Code": "738",
+    "Name": "MARADA",
+    "CreatedAt": "2018-01-29 15:12:24.413",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 243,
+    "Code": "739",
+    "Name": "BGN",
+    "CreatedAt": "2018-01-29 15:12:24.413",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 244,
+    "Code": "740",
+    "Name": "BCN BARCLAYS",
+    "CreatedAt": "2018-01-29 15:12:24.413",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 245,
+    "Code": "741",
+    "Name": "BRP",
+    "CreatedAt": "2018-01-29 15:12:24.413",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 246,
+    "Code": "742",
+    "Name": "EQUATORIAL",
+    "CreatedAt": "2018-01-29 15:12:24.417",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 247,
+    "Code": "743",
+    "Name": "BANCO EMBLEMA S.A",
+    "CreatedAt": "2018-01-29 15:12:24.417",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 248,
+    "Code": "744",
+    "Name": "THE FIRST NATIONAL BANK OF BOSTON",
+    "CreatedAt": "2018-01-29 15:12:24.417",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 250,
+    "Code": "746",
+    "Name": "MODAL S\\A",
+    "CreatedAt": "2018-01-29 15:12:24.417",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 251,
+    "Code": "747",
+    "Name": "RAIBOBANK DO BRASIL",
+    "CreatedAt": "2018-01-29 15:12:24.420",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 252,
+    "Code": "748",
+    "Name": "SICREDI",
+    "CreatedAt": "2018-01-29 15:12:24.420",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 253,
+    "Code": "749",
+    "Name": "BRMSANTIL SA",
+    "CreatedAt": "2018-01-29 15:12:24.420",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 254,
+    "Code": "750",
+    "Name": "BANCO REPUBLIC NATIONAL OF NEW YORK (BRA",
+    "CreatedAt": "2018-01-29 15:12:24.420",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 255,
+    "Code": "751",
+    "Name": "DRESDNER BANK LATEINAMERIKA-BRASIL S/A",
+    "CreatedAt": "2018-01-29 15:12:24.420",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 256,
+    "Code": "752",
+    "Name": "BANCO BANQUE NATIONALE DE PARIS BRASIL S",
+    "CreatedAt": "2018-01-29 15:12:24.420",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 257,
+    "Code": "753",
+    "Name": "BANCO COMERCIAL URUGUAI S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.423",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 258,
+    "Code": "755",
+    "Name": "BANCO MERRILL LYNCH S.A",
+    "CreatedAt": "2018-01-29 15:12:24.423",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 260,
+    "Code": "757",
+    "Name": "BANCO KEB DO BRASIL S.A.",
+    "CreatedAt": "2018-01-29 15:12:24.423",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 261,
+    "Code": "735",
+    "Name": "BANCO NEON",
+    "CreatedAt": "2018-01-29 16:47:35.090",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 262,
+    "Code": "260",
+    "Name": "NUBANK",
+    "CreatedAt": "2018-01-29 16:47:35.153",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "IdBank": 263,
+    "Code": "102",
+    "Name": "XP INVESTIMENTOS",
+    "CreatedAt": "2018-01-29 16:47:35.210",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  }
+]
