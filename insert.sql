@@ -246,3 +246,5 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (753,'BANCO COMERCIAL 
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (755,'BANCO MERRILL LYNCH S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (756,'BANCO COOPERATIVO DO BRASIL S.A.', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (757,'BANCO KEB DO BRASIL S.A.', '');
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (260,'NUBANK S.A', '');
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (102,'XP INVESTIMENTOS', '');
