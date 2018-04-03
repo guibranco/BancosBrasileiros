@@ -1,15 +1,20 @@
 # Bancos Brasileiros
 Listagem de bancos comerciais brasileiros
 
-A listagem contém 250 bancos com as sequintes informações:
+A listagem contém 250 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
- - Código do banco - FEBRABAN / BCB
- - Razão Social
- - CNPJ
- 
- Os formatos disponíveis são: 
- - **T-SQL**;
+ - **T-SQL**
+    - Código do banco - FEBRABAN / BCB
+    - Razão Social
+    - CNPJ (**TODO**)
  - **JSON**
+    - Código sequencial
+    - Código do banco - FEBRABAN / BCB
+    - Razão Social
+    - Data de cadastro no schema
+    - Data de alteração no schema
+    - Data de remoção no schema
+    - Flag indicativa se está deletado ou não
 
  **================================ TODO =================================**
 - Adicionar os formatos: **CSV** e **XML**
