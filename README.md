@@ -18,12 +18,11 @@ A listagem contém 250 bancos cadastrados, nos seguintes formatos e informaçõe
 
 ---
 ### TODO
----
+
 - Adicionar os formatos: **CSV** e **XML**
 
 ---
 ### Changelog
----
 
 - 2018-01-28: Adicionado 250 bancos no formato **JSON** - [@raphaelcunha](https://github.com/raphaelcunha)
 - 2018-01-28: Adicionado 2 bancos (XP Investimentos & NuBank), totalizando 250 bancos - [@raphaelcunha](https://github.com/raphaelcunha)
