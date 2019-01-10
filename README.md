@@ -17,12 +17,12 @@ A listagem contém 250 bancos cadastrados, nos seguintes formatos e informaçõe
     - Flag indicativa se está deletado ou não
 
 ---
-###TODO
+### TODO
 ---
 - Adicionar os formatos: **CSV** e **XML**
 
 ---
-###Changelog
+### Changelog
 ---
 
 - 2018-01-28: Adicionado 250 bancos no formato **JSON** - [@raphaelcunha](https://github.com/raphaelcunha)
