@@ -24,7 +24,7 @@ A listagem contém 250 bancos cadastrados, nos seguintes formatos e informaçõe
 ---
 ### Changelog
 
-- 2019-01-15: Closes #3 - Adicionado banco Inter (77) ao arquivo bancos.sql - [@diegolourenco](https://github.com/DiegoLourenco)
+- 2019-01-15: [Issue #3](https://github.com/guibranco/BancosBrasileiros/issues/3) - Adicionado banco Inter (77) ao arquivo bancos.sql - [@diegolourenco](https://github.com/DiegoLourenco)
 - 2019-01-15: Renomeado arquivos para bancos.extensão - [@guibranco](https://github.com/guibranco)
 - 2018-01-28: Adicionado 250 bancos no formato **JSON** - [@raphaelcunha](https://github.com/raphaelcunha)
 - 2018-01-28: Adicionado 2 bancos (XP Investimentos & NuBank), totalizando 250 bancos - [@raphaelcunha](https://github.com/raphaelcunha)
