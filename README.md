@@ -24,6 +24,7 @@ A listagem contém 250 bancos cadastrados, nos seguintes formatos e informaçõe
 ---
 ### Changelog
 
+- 2019-04-03 - [PR #7](https://github.com/guibranco/BancosBrasileiros/pull/7) - Corrigido nome do Bradesco no arquivo bancos.json) - [@jesobreira](https://github.com/jesobreira)
 - 2019-01-15: [Issue #3](https://github.com/guibranco/BancosBrasileiros/issues/3) - Adicionado banco Inter (77) ao arquivo bancos.sql - [@diegolourenco](https://github.com/DiegoLourenco)
 - 2019-01-15: Renomeado arquivos para bancos.extensão - [@guibranco](https://github.com/guibranco)
 - 2018-01-28: Adicionado 250 bancos no formato **JSON** - [@raphaelcunha](https://github.com/raphaelcunha)
