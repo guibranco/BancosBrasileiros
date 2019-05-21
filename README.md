@@ -1,29 +1,47 @@
 # Bancos Brasileiros
 Listagem de bancos comerciais brasileiros
 
-A listagem contém 250 bancos cadastrados, nos seguintes formatos e informações disponíveis:
+A listagem contém 252 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
  - **T-SQL**
     - Código do banco - FEBRABAN / BCB
     - Razão Social
-    - CNPJ (**TODO**)
+    - Documento CNPJ (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
  - **JSON**
-    - Código sequencial
     - Código do banco - FEBRABAN / BCB
-    - Razão Social
+    - Razão Social / Nome fantasia
+    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
     - Data de cadastro no schema
     - Data de alteração no schema
     - Data de remoção no schema
     - Flag indicativa se está deletado ou não
-
+- **CSV**
+    - Código do banco - FEBRABAN / BCB
+    - Razão Social / Nome fantasia
+    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+    - Data de cadastro no schema
+    - Data de alteração no schema
+    - Data de remoção no schema
+    - Flag indicativa se está deletado ou não
+- **XML**
+    - Código do banco - FEBRABAN / BCB
+    - Razão Social / Nome fantasia
+    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+    - Data de cadastro no schema
+    - Data de alteração no schema
+    - Data de remoção no schema
+    - Flag indicativa se está deletado ou não
 ---
+
 ### TODO
 
-- Adicionar os formatos: **CSV** e **XML**
+- Obter CNPJ dos bancos restantes [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
 
 ---
 ### Changelog
 
+- 2019-05-21: [Issue #5](https://github.com/guibranco/BancosBrasileiros/issues/5) e [Issue #6](https://github.com/guibranco/BancosBrasileiros/issues/6) - Adicionado versões CSV e XML dos dados - [@guibranco](https://github.com/guibranco)
+- 2019-05-21: [Issue #8](https://github.com/guibranco/BancosBrasileiros/issues/8) - Adicionado banco BS2 - [@guibranco](https://github.com/guibranco)
 - 2019-04-03: [PR #7](https://github.com/guibranco/BancosBrasileiros/pull/7) - Corrigido nome do Bradesco no arquivo bancos.json - [@jesobreira](https://github.com/jesobreira)
 - 2019-01-15: [Issue #3](https://github.com/guibranco/BancosBrasileiros/issues/3) - Adicionado banco Inter (77) ao arquivo bancos.sql - [@diegolourenco](https://github.com/DiegoLourenco)
 - 2019-01-15: Renomeado arquivos para bancos.extensão - [@guibranco](https://github.com/guibranco)
