@@ -43,6 +43,7 @@ A listagem contém 252 bancos cadastrados, nos seguintes formatos e informaçõe
 ---
 ### Changelog
 
+- 2019-05-21: [Issue #10](https://github.com/guibranco/BancosBrasileiros/issues/10) - Adicionado versão inglês do **README.md** - [@guibranco](https://github.com/guibranco)
 - 2019-05-21: [Issue #5](https://github.com/guibranco/BancosBrasileiros/issues/5) e [Issue #6](https://github.com/guibranco/BancosBrasileiros/issues/6) - Adicionado versões **CSV** e **XML** dos dados - [@guibranco](https://github.com/guibranco)
 - 2019-05-21: [Issue #8](https://github.com/guibranco/BancosBrasileiros/issues/8) - Adicionado banco BS2 - [@guibranco](https://github.com/guibranco)
 - 2019-04-03: [PR #7](https://github.com/guibranco/BancosBrasileiros/pull/7) - Corrigido nome do Bradesco no arquivo bancos.json - [@jesobreira](https://github.com/jesobreira)
