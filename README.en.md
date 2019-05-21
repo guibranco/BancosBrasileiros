@@ -1,7 +1,7 @@
 # Bancos Brasileiros
 List of brazilian banks 
 
-Para a versão em portugu~es do README.md, por favor [siga me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)
+***Para a versão em português do README.md, por favor [siga me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)***
 
 For those that are not familiar with brazilian entities, **BCB** means Banco Central do Brasil and **FEBRABAN** means Federação Brasileira de Bancos.
 

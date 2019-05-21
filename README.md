@@ -1,7 +1,7 @@
 # Bancos Brasileiros
 Listagem de bancos comerciais brasileiros
 
-For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)
+***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
 
 A listagem contém 252 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
