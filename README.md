@@ -1,6 +1,8 @@
 # Bancos Brasileiros
 Listagem de bancos comerciais brasileiros
 
+For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)
+
 A listagem contém 252 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
  - **T-SQL**
@@ -35,12 +37,13 @@ A listagem contém 252 bancos cadastrados, nos seguintes formatos e informaçõe
 
 ### TODO
 
-- Obter CNPJ dos bancos restantes [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+- Obter CNPJ dos bancos [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+- Obter sites dos bancos [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)
 
 ---
 ### Changelog
 
-- 2019-05-21: [Issue #5](https://github.com/guibranco/BancosBrasileiros/issues/5) e [Issue #6](https://github.com/guibranco/BancosBrasileiros/issues/6) - Adicionado versões CSV e XML dos dados - [@guibranco](https://github.com/guibranco)
+- 2019-05-21: [Issue #5](https://github.com/guibranco/BancosBrasileiros/issues/5) e [Issue #6](https://github.com/guibranco/BancosBrasileiros/issues/6) - Adicionado versões **CSV** e **XML** dos dados - [@guibranco](https://github.com/guibranco)
 - 2019-05-21: [Issue #8](https://github.com/guibranco/BancosBrasileiros/issues/8) - Adicionado banco BS2 - [@guibranco](https://github.com/guibranco)
 - 2019-04-03: [PR #7](https://github.com/guibranco/BancosBrasileiros/pull/7) - Corrigido nome do Bradesco no arquivo bancos.json - [@jesobreira](https://github.com/jesobreira)
 - 2019-01-15: [Issue #3](https://github.com/guibranco/BancosBrasileiros/issues/3) - Adicionado banco Inter (77) ao arquivo bancos.sql - [@diegolourenco](https://github.com/DiegoLourenco)
