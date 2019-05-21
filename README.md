@@ -6,7 +6,7 @@ A listagem contém 252 bancos cadastrados, nos seguintes formatos e informaçõe
  - **T-SQL**
     - Código do banco - FEBRABAN / BCB
     - Razão Social
-    - Documento CNPJ (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
  - **JSON**
     - Código do banco - FEBRABAN / BCB
     - Razão Social / Nome fantasia
