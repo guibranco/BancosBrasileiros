@@ -3,7 +3,10 @@ List of brazilian banks
 
 ***Para a versão em português do README.md, por favor [siga me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)***
 
-For those that are not familiar with brazilian entities, **BCB** means Banco Central do Brasil and **FEBRABAN** means Federação Brasileira de Bancos.
+For those that are not familiar with brazilian entities:
+	- **BCB** - Banco Central do Brasil (Federal Reserver Bank)
+    - **FEBRABAN** - Federação Brasileira de Bancos (regulatory authority)
+	- **CNPJ** - Cadastro Nacional de Pessoa Juridica - (like ENI or VAT number, each company has it owns)
 
 The list contains 252 banks registereds, in the following formats and data available:
 
