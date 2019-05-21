@@ -58,7 +58,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (214,'BANCO DIBENS S.A
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (215,'BANCO AMERICA DO SUL S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (216,'BANCO REGIONAL MALCON S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (217,'BANCO AGROINVEST S.A', '');
-INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (218,'BBS - BANCO BONSUCESSO S.A.', '');
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (218,'BS2', '71.027.866/0001-34');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (219,'BANCO DE CREDITO DE SAO PAULO S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (220,'BANCO CREFISUL', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (221,'BANCO GRAPHUS S.A', '');
