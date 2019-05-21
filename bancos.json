@@ -2,6 +2,7 @@
   {
     "Code": "001",
     "Name": "BANCO DO BRASIL",
+	"Document": "00.000.000/0001-91",
     "CreatedAt": "2017-04-19 15:52:42.400",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -42,6 +43,7 @@
   {
     "Code": "077",
     "Name": "BANCO INTERMEDIUM",
+	"Document": "00.416.968/0001-01",
     "CreatedAt": "2017-04-19 15:58:39.887",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -522,6 +524,7 @@
   {
     "Code": "218",
     "Name": "BS2",
+	"Document": "71.027.866/0001-34",
     "CreatedAt": "2018-01-29 15:12:24.303",
     "UpdatedAt": "2019-05-21 08:14:51.000",
     "DeletedAt": null,
