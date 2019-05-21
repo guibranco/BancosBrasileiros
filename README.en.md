@@ -48,4 +48,4 @@ The list contains 252 banks registereds, in the following formats and data avail
 ---
 ### Changelog
 
-*Changelog only exists in the PT-BR version for simplicity** [PT-BR version of this file](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)
+**Changelog only exists in the PT-BR version for simplicity** [PT-BR version of this file](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)
