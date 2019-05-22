@@ -1,23 +1,23 @@
 # Bancos Brasileiros
-List of brazilian banks 
+Listing of Brazilian commercial banks
 
 ***Para a versão em português do README.md, por favor [siga me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)***
 
 For those that are not familiar with brazilian entities:
-- **BCB** - Banco Central do Brasil (Federal Reserver Bank)
+- **BCB** - Banco Central do Brasil (Federal Reserve Bank)
 - **FEBRABAN** - Federação Brasileira de Bancos (regulatory authority)
-- **CNPJ** - Cadastro Nacional de Pessoa Juridica - (like ENI or VAT number, each company has it owns)
+- **CNPJ** - Cadastro Nacional de Pessoa Juridica (like ENI or VAT number, each company has it owns)
 
-The list contains 252 banks registereds, in the following formats and data available:
+This list contains 252 registered banks in the following formats and information available:
 
 - **T-SQL**
     - Bank code - FEBRABAN / BCB
     - Company Name
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+    - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
  - **JSON**
     - Bank code - FEBRABAN / BCB
     - Company Name
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+    - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
 	- Date of registration in schema
 	- Date of change in schema
 	- Date of remotion in schema
@@ -25,7 +25,7 @@ The list contains 252 banks registereds, in the following formats and data avail
 - **CSV**
     - Bank code - FEBRABAN / BCB
     - Company Name
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+    - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
 	- Date of registration in schema
 	- Date of change in schema
 	- Date of remotion in schema
@@ -33,7 +33,7 @@ The list contains 252 banks registereds, in the following formats and data avail
 - **XML**
     - Bank code - FEBRABAN / BCB
     - Company Name
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+    - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
 	- Date of registration in schema
 	- Date of change in schema
 	- Date of remotion in schema

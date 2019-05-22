@@ -3,7 +3,12 @@ Listagem de bancos comerciais brasileiros
 
 ***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
 
-A listagem contém 252 bancos cadastrados, nos seguintes formatos e informações disponíveis:
+Para aqueles que não estão familiarizados com entidades brasileiras:
+- **BCB** - Banco Central do Brasil
+- **FEBRABAN** - Federação Brasileira de Bancos (autoridade reguladora)
+- **CNPJ** - Cadastro Nacional de Pessoa Juridica
+
+Esta lista contém 252 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
  - **T-SQL**
     - Código do banco - FEBRABAN / BCB
