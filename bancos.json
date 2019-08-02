@@ -2,7 +2,7 @@
   {
     "Code": "001",
     "Name": "BANCO DO BRASIL",
-	"Document": "00.000.000/0001-91",
+	  "Document": "00.000.000/0001-91",
     "CreatedAt": "2017-04-19 15:52:42.400",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -2014,6 +2014,15 @@
     "Code": "102",
     "Name": "XP INVESTIMENTOS",
     "CreatedAt": "2018-01-29 16:47:35.210",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "Code": "336",
+    "Name": "BANCO C6 S.A.",
+    "Document": "31.872.495/0001-72",
+    "CreatedAt": "2019-08-02 13:11:00.000",
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false

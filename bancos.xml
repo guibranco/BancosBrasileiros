@@ -2019,4 +2019,12 @@
 		<Name>XP INVESTIMENTOS</Name>
 		<UpdatedAt null="true" />
 	</bank>
+	<bank>
+		<Code>336</Code>
+		<CreatedAt>2019-08-02 13:11:00.000</CreatedAt>
+		<DeletedAt null="true" />
+		<IsDeleted>false</IsDeleted>
+		<Name>BANCO C6 S.A.</Name>
+		<UpdatedAt null="true" />
+	</bank>
 </banks>

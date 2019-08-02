@@ -114,6 +114,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (304,'BANCO PONTUAL S.
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (308,'BANCO COMERCIAL BANCESA S.A.', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (318,'BANCO B.M.G. S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (320,'BANCO INDUSTRIAL E COMERCIAL', '');
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (336,'BANCO C6 S.A.', '31.872.495/0001-72');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (341,'BANCO ITAU S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (346,'BANCO FRANCES E BRASILEIRO S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (347,'BANCO SUDAMERIS BRASIL S.A', '');
