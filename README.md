@@ -4,7 +4,7 @@ Listagem de bancos comerciais brasileiros
 ***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
 
 Para aqueles que não estão familiarizados com entidades brasileiras:
-- **BCB** - Banco Central do Brasil
+- **BCB** - Banco Central do Brasil (também conhecido como Bacen ou apenas BC)
 - **FEBRABAN** - Federação Brasileira de Bancos (autoridade reguladora)
 - **CNPJ** - Cadastro Nacional de Pessoa Juridica
 
