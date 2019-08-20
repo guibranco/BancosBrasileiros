@@ -4,9 +4,10 @@ Listing of Brazilian commercial banks
 ***Para a versão em português do README.md, por favor [siga me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)***
 
 For those that are not familiar with brazilian entities:
-- **BCB** - Banco Central do Brasil (Federal Reserve Bank)
-- **FEBRABAN** - Federação Brasileira de Bancos (regulatory authority)
-- **CNPJ** - Cadastro Nacional de Pessoa Juridica (like ENI or VAT number, each company has it owns)
+- **BCB** - [Banco Central do Brasil (AKA BC or BACEN)](https://www.bcb.gov.br/) (Federal Reserve Bank)
+- **FEBRABAN** - [Federação Brasileira de Bancos (autoridade reguladora)](https://portal.febraban.org.br) (regulatory authority)
+- **CNPJ** - [Cadastro Nacional de Pessoa Juridica](http://receita.economia.gov.br/orientacao/tributaria/cadastros/consultas-cnpj)(like ENI or VAT number, each company has it owns)
+- **CIP** - [Câmara Interbancária de Pagamentos](https://www.cip-bancos.org.br) (payments exchange agency, an official non-lucrative society that process bank slips)
 
 This list contains 252 registered banks in the following formats and information available:
 
