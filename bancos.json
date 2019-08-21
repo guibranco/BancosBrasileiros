@@ -2026,5 +2026,14 @@
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
+  },
+  {
+    "Code": "290",
+    "Name": "PagSeguro Interne S.A.",
+    "Document": "08.561.701/0001-01",
+    "CreatedAt": "2019-08-21 12:48:00.000",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
   }
 ]

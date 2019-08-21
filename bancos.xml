@@ -2027,4 +2027,12 @@
 		<Name>BANCO C6 S.A.</Name>
 		<UpdatedAt null="true" />
 	</bank>
+	<bank>
+		<Code>290</Code>
+		<CreatedAt>2019-08-21 12:49:00.000</CreatedAt>
+		<DeletedAt null="true" />
+		<IsDeleted>false</IsDeleted>
+		<Name>PagSeguro Internet S.A></Name>
+		<UpdatedAt null="true" />
+	</bank>
 </banks>

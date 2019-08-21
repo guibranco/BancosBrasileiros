@@ -104,6 +104,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (267,'BANCO BBM-COM.C.
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (275,'BANCO REAL S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (277,'BANCO PLANIBANC S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (282,'BANCO BRASILEIRO COMERCIAL', '');
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (290,'PagSeguro Internet S.A.', '08.561.701/0001-01');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (291,'BANCO DE CREDITO NACIONAL S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (294,'BCR - BANCO DE CREDITO REAL S.A', '');
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`) VALUES (295,'BANCO CREDIPLAN S.A', '');
