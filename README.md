@@ -9,7 +9,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - **CNPJ** - [Cadastro Nacional de Pessoa Juridica](http://receita.economia.gov.br/orientacao/tributaria/cadastros/consultas-cnpj)
 - **CIP** - [Câmara Interbancária de Pagamentos](https://www.cip-bancos.org.br)
 
-Esta lista contém 252 bancos cadastrados, nos seguintes formatos e informações disponíveis:
+Esta lista contém 254 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
  - **T-SQL**
     - Código do banco - FEBRABAN / BCB
