@@ -9,7 +9,7 @@ For those that are not familiar with brazilian entities:
 - **CNPJ** - [Cadastro Nacional de Pessoa Juridica](http://receita.economia.gov.br/orientacao/tributaria/cadastros/consultas-cnpj) (like ENI or VAT number, each company has it owns)
 - **CIP** - [Câmara Interbancária de Pagamentos](https://www.cip-bancos.org.br) (non-lucrative society that process bank slips between banks)
 
-This list contains 252 registered banks in the following formats and information available:
+This list contains 254 registered banks in the following formats and information available:
 
 - **T-SQL**
     - Bank code - FEBRABAN / BCB
