@@ -2,7 +2,7 @@
 name: Request new bank
 about: Request a new bank to be added to the lists
 title: Add [BANK NAME]
-labels: enhancement
+labels: addbank, enhancement
 assignees: guibranco
 
 ---
