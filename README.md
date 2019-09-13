@@ -53,7 +53,7 @@ Esta lista contém 254 bancos cadastrados, nos seguintes formatos e informaçõe
 
 ### Changelog
 
-- 2019-09-13: [Issue #15](https://github.com/guibranco/BancosBrasileiros/issues/15) - Adicionado Mercado Pago (MercadoPago.com Representações Ltda) - [@guibranco](https://github.com/guibranco))
+- 2019-09-13: [Issue #15](https://github.com/guibranco/BancosBrasileiros/issues/15) - Adicionado Mercado Pago (MercadoPago.com Representações Ltda) - [@guibranco](https://github.com/guibranco)
 - 2019-08-21: [Issue #12](https://github.com/guibranco/BancosBrasileiros/issues/12) - Adicionado PagBank (PagSeguro Internet S.A.) - [@guibranco](https://github.com/guibranco)
 - 2019-08-02: [Issue #11](https://github.com/guibranco/BancosBrasileiros/issues/11) - Adicionado banco C6 - [@guibranco](https://github.com/guibranco)
 - 2019-05-21: [Issue #10](https://github.com/guibranco/BancosBrasileiros/issues/10) - Adicionado versão inglês do **README.md** - [@guibranco](https://github.com/guibranco)
