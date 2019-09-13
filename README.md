@@ -1,9 +1,11 @@
 # Bancos Brasileiros
+
 Listagem de bancos comerciais brasileiros
 
 ***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
 
 Para aqueles que não estão familiarizados com entidades brasileiras:
+
 - **BCB** - [Banco Central do Brasil (também conhecido como Bacen ou apenas BC)](https://www.bcb.gov.br/)
 - **FEBRABAN** - [Federação Brasileira de Bancos (autoridade reguladora)](https://portal.febraban.org.br)
 - **CNPJ** - [Cadastro Nacional de Pessoa Juridica](http://receita.economia.gov.br/orientacao/tributaria/cadastros/consultas-cnpj)
@@ -11,44 +13,47 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 Esta lista contém 254 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
- - **T-SQL**
-    - Código do banco - FEBRABAN / BCB
-    - Razão Social
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
- - **JSON**
-    - Código do banco - FEBRABAN / BCB
-    - Razão Social / Nome fantasia
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-    - Data de cadastro no schema
-    - Data de alteração no schema
-    - Data de remoção no schema
-    - Flag indicativa se está deletado ou não
+- **T-SQL**
+  - Código do banco - FEBRABAN / BCB
+  - Razão Social
+  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+- **JSON**
+  - Código do banco - FEBRABAN / BCB
+  - Razão Social / Nome fantasia
+  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+  - Data de cadastro no schema
+  - Data de alteração no schema
+  - Data de remoção no schema
+  - Flag indicativa se está deletado ou não
 - **CSV**
-    - Código do banco - FEBRABAN / BCB
-    - Razão Social / Nome fantasia
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-    - Data de cadastro no schema
-    - Data de alteração no schema
-    - Data de remoção no schema
-    - Flag indicativa se está deletado ou não
+  - Código do banco - FEBRABAN / BCB
+  - Razão Social / Nome fantasia
+  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+  - Data de cadastro no schema
+  - Data de alteração no schema
+  - Data de remoção no schema
+  - Flag indicativa se está deletado ou não
 - **XML**
-    - Código do banco - FEBRABAN / BCB
-    - Razão Social / Nome fantasia
-    - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-    - Data de cadastro no schema
-    - Data de alteração no schema
-    - Data de remoção no schema
-    - Flag indicativa se está deletado ou não
+  - Código do banco - FEBRABAN / BCB
+  - Razão Social / Nome fantasia
+  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+  - Data de cadastro no schema
+  - Data de alteração no schema
+  - Data de remoção no schema
+  - Flag indicativa se está deletado ou não
+
 ---
 
-### TODO
+## TODO
 
 - Obter CNPJ dos bancos [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
 - Obter sites dos bancos [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)
 
 ---
+
 ### Changelog
 
+- 2019-09-13: [Issue #15](https://github.com/guibranco/BancosBrasileiros/issues/15) - Adicionado Mercado Pago (MercadoPago.com Representações Ltda) - [@guibranco](https://github.com/guibranco))
 - 2019-08-21: [Issue #12](https://github.com/guibranco/BancosBrasileiros/issues/12) - Adicionado PagBank (PagSeguro Internet S.A.) - [@guibranco](https://github.com/guibranco)
 - 2019-08-02: [Issue #11](https://github.com/guibranco/BancosBrasileiros/issues/11) - Adicionado banco C6 - [@guibranco](https://github.com/guibranco)
 - 2019-05-21: [Issue #10](https://github.com/guibranco/BancosBrasileiros/issues/10) - Adicionado versão inglês do **README.md** - [@guibranco](https://github.com/guibranco)

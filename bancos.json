@@ -2029,9 +2029,19 @@
   },
   {
     "Code": "290",
-    "Name": "PagSeguro Interne S.A.",
+    "Name": "PagSeguro Internet S.A.",
     "Document": "08.561.701/0001-01",
     "CreatedAt": "2019-08-21 12:48:00.000",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  }
+  ,
+  {
+    "Code": "323",
+    "Name": "MercadoPago.com Representações Ltda.",
+    "Document": "10.573.521/0001-91",
+    "CreatedAt": "2019-09-13 15:23:00.000",
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
