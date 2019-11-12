@@ -1836,11 +1836,11 @@
   },
   {
     "Code": "735",
-    "Name": "BACO POTENCIAL",
+    "Name": "BANCO NEON",
     "CreatedAt": "2018-01-29 15:12:24.410",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "UpdatedAt": "2019-11-12 19:15:00.000",
+    "DeletedAt": "2019-11-12 19:15:00.000",
+    "IsDeleted": true
   },
   {
     "Code": "736",
@@ -1990,14 +1990,6 @@
     "Code": "757",
     "Name": "BANCO KEB DO BRASIL S.A.",
     "CreatedAt": "2018-01-29 15:12:24.423",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
-  },
-  {
-    "Code": "735",
-    "Name": "BANCO NEON",
-    "CreatedAt": "2018-01-29 16:47:35.090",
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false

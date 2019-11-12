@@ -1838,10 +1838,10 @@
 	<bank>
 		<Code>735</Code>
 		<CreatedAt>2018-01-29 15:12:24.410</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
-		<Name>BACO POTENCIAL</Name>
-		<UpdatedAt null="true" />
+		<DeletedAt>2019-11-12 19:15:00.000</DeletedAt>
+		<IsDeleted>true</IsDeleted>
+		<Name>BANCO POTENCIAL</Name>
+		<UpdatedAt>2019-11-12 19:15:00.000</UpdatedAt>
 	</bank>
 	<bank>
 		<Code>736</Code>
@@ -1993,14 +1993,6 @@
 		<DeletedAt null="true" />
 		<IsDeleted>false</IsDeleted>
 		<Name>BANCO KEB DO BRASIL S.A.</Name>
-		<UpdatedAt null="true" />
-	</bank>
-	<bank>
-		<Code>735</Code>
-		<CreatedAt>2018-01-29 16:47:35.090</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
-		<Name>BANCO NEON</Name>
 		<UpdatedAt null="true" />
 	</bank>
 	<bank>

@@ -14,30 +14,31 @@ This list contains 252 registered banks in the following formats and information
     - Bank code - FEBRABAN / BCB
     - Company Name
     - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
+        - Flag if the item is removed or not
  - **JSON**
     - Bank code - FEBRABAN / BCB
     - Company Name
     - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-	- Date of registration in schema
-	- Date of change in schema
-	- Date of remotion in schema
-	- Flag if the item is removed or not
+    - Date of registration in schema
+    - Date of change in schema
+    - Date of remotion in schema
+    - Flag if the item is removed or not
 - **CSV**
     - Bank code - FEBRABAN / BCB
     - Company Name
     - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-	- Date of registration in schema
-	- Date of change in schema
-	- Date of remotion in schema
-	- Flag if the item is removed or not
+    - Date of registration in schema
+    - Date of change in schema
+    - Date of remotion in schema
+    - Flag if the item is removed or not
 - **XML**
     - Bank code - FEBRABAN / BCB
     - Company Name
     - Identifier number (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-	- Date of registration in schema
-	- Date of change in schema
-	- Date of remotion in schema
-	- Flag if the item is removed or not
+    - Date of registration in schema
+    - Date of change in schema
+    - Date of remotion in schema
+    - Flag if the item is removed or not
 ---
 
 ### TODO
