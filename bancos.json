@@ -2038,4 +2038,13 @@
     "DeletedAt": null,
     "IsDeleted": false
   }
+  ,
+  {
+    "Code": "332",
+    "Name": "Acesso Soluções de Pagamento S.A.",
+    "CreatedAt": "2019-12-26 15:00:00.000",
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  }
 ]
