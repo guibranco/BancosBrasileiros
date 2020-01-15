@@ -116,7 +116,8 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (308,'BAN
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (318,'BANCO B.M.G. S.A', '', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (320,'BANCO INDUSTRIAL E COMERCIAL', '', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (323,'MercadoPago.com Representações Ltda.', '10.573.521/0001-91', 0);
-INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (332,'Acesso Soluções de Pagamento S.A.', '', 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (332,'Órama DTVM S.A.', '13.293.225/0001-25', 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (332,'Acesso Soluções de Pagamento S.A.', '13.140.088/0001-99', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (336,'BANCO C6 S.A.', '31.872.495/0001-72', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (341,'BANCO ITAU S.A', '', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (346,'BANCO FRANCES E BRASILEIRO S.A', '', 0);

@@ -2037,10 +2037,20 @@
 	</bank>
 	<bank>
 		<Code>332</Code>
+		<Document>13.140.088/0001-99</Document>
 		<CreatedAt>2019-12-26 15:00:00.000</CreatedAt>
 		<DeletedAt null="true" />
 		<IsDeleted>false</IsDeleted>
 		<Name>Acesso Soluções de Pagamento S.A.</Name>
+		<UpdatedAt null="true" />
+	</bank>
+	<bank>
+		<Code>325</Code>
+		<Document>13.293.225/0001-25</Document>
+		<CreatedAt>2020-01-15 19:27:00.000</CreatedAt>
+		<DeletedAt null="true" />
+		<IsDeleted>false</IsDeleted>
+		<Name>Órama DTVM S.A.</Name>
 		<UpdatedAt null="true" />
 	</bank>
 </banks>
