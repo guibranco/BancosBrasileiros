@@ -93,7 +93,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (254,'BAN
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (255,'MILBANCO S.A.', '', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (256,'BANCO GULVINVEST S.A', '', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (258,'BANCO INDUSCRED S.A', '', 0);
-INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (260,'NUBANK S.A', '', 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (260,'Nu Pagamentos S.A', '18.236.120/0001-58', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (261,'BANCO VARIG S.A', '', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (262,'BANCO BOREAL S.A', '', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `IsDeleted`) VALUES (263,'BANCO CACIQUE', '', 0);

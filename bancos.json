@@ -1996,7 +1996,8 @@
   },
   {
     "Code": "260",
-    "Name": "NUBANK",
+    "Name": "Nu Pagamentos S.A",
+    "Document": "18.236.120/0001-58",
     "CreatedAt": "2018-01-29 16:47:35.153",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -2042,7 +2043,7 @@
   {
     "Code": "332",
     "Name": "Acesso Soluções de Pagamento S.A.",
-	"Document": "13.140.088/0001-99",
+    "Document": "13.140.088/0001-99",
     "CreatedAt": "2019-12-26 15:00:00.000",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -2053,7 +2054,7 @@
     "Code": "325",
     "Name": "Órama DTVM S.A.",
     "CreatedAt": "2020-01-15 19:27:00.000",
-	"Document": "13.293.225/0001-25",
+    "Document": "13.293.225/0001-25",
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
