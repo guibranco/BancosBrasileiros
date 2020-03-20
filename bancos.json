@@ -2029,8 +2029,7 @@
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
-  }
-  ,
+  },
   {
     "Code": "323",
     "Name": "MercadoPago.com Representações Ltda.",
@@ -2039,8 +2038,7 @@
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
-  }
-  ,
+  },
   {
     "Code": "332",
     "Name": "Acesso Soluções de Pagamento S.A.",
@@ -2049,8 +2047,7 @@
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
-  }
-  ,
+  },
   {
     "Code": "325",
     "Name": "Órama DTVM S.A.",
@@ -2065,6 +2062,15 @@
     "Name": "COOPERATIVA CENTRAL DE CREDITO - AILOS",
     "Document": "05.463.212/0001-29",
     "CreatedAt": "2020-03-20 18:04:00.000",    
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
+  {
+    "Code": "125",
+    "Name": "PLURAL S.A. BANCO MULTIPLO",
+    "Document": "45.246.410/0001-55",
+    "CreatedAt": "2020-03-20 18:13:00.000",    
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
