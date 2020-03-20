@@ -692,9 +692,10 @@
   },
   {
     "Code": "243",
-    "Name": "BANCO STOCK S.A",
+    "Name": "BANCO MÁXIMA S.A",
+    "Document": "33.923.798/0001-00",
     "CreatedAt": "2018-01-29 15:12:24.317",
-    "UpdatedAt": null,
+    "UpdatedAt": "2020-03-20 17:00:00.000",
     "DeletedAt": null,
     "IsDeleted": false
   },
@@ -2053,8 +2054,8 @@
   {
     "Code": "325",
     "Name": "Órama DTVM S.A.",
-    "CreatedAt": "2020-01-15 19:27:00.000",
     "Document": "13.293.225/0001-25",
+    "CreatedAt": "2020-01-15 19:27:00.000",    
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false

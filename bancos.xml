@@ -693,11 +693,13 @@
 	</bank>
 	<bank>
 		<Code>243</Code>
+		<Document>33.923.798/0001-00</Document>
+		<Website>https://www.bancomaxima.com.br</Website>
 		<CreatedAt>2018-01-29 15:12:24.317</CreatedAt>
 		<DeletedAt null="true" />
 		<IsDeleted>false</IsDeleted>
-		<Name>BANCO STOCK S.A</Name>
-		<UpdatedAt null="true" />
+		<Name>BANCO MÁXIMA S.A></Name>
+		<UpdatedAt>2020-03-20 17:00:00.000</UpdateAt>
 	</bank>
 	<bank>
 		<Code>244</Code>
