@@ -29,6 +29,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VAL
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (059,'BANCO DO ESTADO DE RONDONIA S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (070,'BANCO DE BRASILIA S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (077,'BANCO INTER S.A', '00.416.968/0001-01', NULL, 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (085,'COOPERATIVA CENTRAL DE CREDITO - AILOS', '05.463.212/0001-29', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (102,'XP INVESTIMENTOS', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (104,'CAIXA ECONOMICA FEDERAL', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (106,'BANCO ITABANCO S.A.', '', NULL, 0);

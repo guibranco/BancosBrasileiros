@@ -2055,4 +2055,14 @@
 		<Name>Órama DTVM S.A.</Name>
 		<UpdatedAt null="true" />
 	</bank>
+	<bank>
+		<Code>85</Code>
+		<Document>05.463.212/0001-29</Document>
+		<Name>COOPERATIVA CENTRAL DE CREDITO - AILOS</Name>
+		<Website>https://www.ailos.coop.br</Website>
+		<CreatedAt>2020-03-20 18:04:00.000</CreatedAt>
+		<DeletedAt null="true" />
+		<IsDeleted>false</IsDeleted>		
+		<UpdatedAt null="true" />
+	</bank>
 </banks>

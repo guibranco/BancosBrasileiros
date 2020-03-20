@@ -2059,5 +2059,14 @@
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
+  },
+  {
+    "Code": "85",
+    "Name": "COOPERATIVA CENTRAL DE CREDITO - AILOS",
+    "Document": "05.463.212/0001-29",
+    "CreatedAt": "2020-03-20 18:04:00.000",    
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
   }
 ]
