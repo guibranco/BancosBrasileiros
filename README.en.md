@@ -9,7 +9,7 @@ For those that are not familiar with brazilian entities:
 - **FEBRABAN** - Federação Brasileira de Bancos (regulatory authority)
 - **CNPJ** - Cadastro Nacional de Pessoa Juridica (like ENI or VAT number, each company has it owns)
 
-This list contains 254 registered banks in the following formats and information available:
+This list contains more than 255 registered banks in the following formats and information available:
 
 - **T-SQL**
   - Bank code - FEBRABAN / BCB
