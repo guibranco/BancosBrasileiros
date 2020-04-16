@@ -1,6 +1,6 @@
 {
-  "name": "bancos-brasil",
-  "version": "1.0.0",
+  "name": "bancos-brasileiros",
+  "version": "1.1.0",
   "description": "A list in various formats (XML, JSON, SQL, CSV) of brasilian commercial banks",
   "main": "banks.json",
   "scripts": {
