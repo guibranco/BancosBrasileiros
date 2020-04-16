@@ -1,6 +1,9 @@
 # Bancos Brasileiros
 Listagem de bancos comerciais brasileiros
 
+![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
+![GitHub](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
+
 ***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
 
 Para aqueles que não estão familiarizados com entidades brasileiras:
@@ -53,6 +56,7 @@ Esta lista contém mais de 255 bancos cadastrados, nos seguintes formatos e info
 
 ## Changelog
 
+- 2020-04-15: Add badges - [@guibranco](https://github.com/guibranco)
 - 2020-03-20: [Issue #25](https://github.com/guibranco/BancosBrasileiros/issues/25) - Corrigido acentuação do Banco de Brasília - [@luisccf](https://github.com/luisccf)
 - 2020-03-20: [Issue #28](https://github.com/guibranco/BancosBrasileiros/issues/28) - Adicionado Banco Brasil Plural - [@lucastorress](https://github.com/lucastorress)
 - 2020-03-20: [Issue #27](https://github.com/guibranco/BancosBrasileiros/issues/27) - Adicionado Cooperativa Central de Crédito - AILOS - [@olvsamuel](https://github.com/olvsamuel)
