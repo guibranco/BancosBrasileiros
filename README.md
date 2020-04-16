@@ -56,7 +56,7 @@ Esta lista contém mais de 255 bancos cadastrados, nos seguintes formatos e info
 
 ## Changelog
 
-- 2020-04-15: Add badges - [@guibranco](https://github.com/guibranco)
+- 2020-04-15: Adicionado badges - [@guibranco](https://github.com/guibranco)
 - 2020-03-20: [Issue #25](https://github.com/guibranco/BancosBrasileiros/issues/25) - Corrigido acentuação do Banco de Brasília - [@luisccf](https://github.com/luisccf)
 - 2020-03-20: [Issue #28](https://github.com/guibranco/BancosBrasileiros/issues/28) - Adicionado Banco Brasil Plural - [@lucastorress](https://github.com/lucastorress)
 - 2020-03-20: [Issue #27](https://github.com/guibranco/BancosBrasileiros/issues/27) - Adicionado Cooperativa Central de Crédito - AILOS - [@olvsamuel](https://github.com/olvsamuel)
