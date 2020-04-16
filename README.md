@@ -56,6 +56,7 @@ Esta lista contém mais de 255 bancos cadastrados, nos seguintes formatos e info
 
 ## Changelog
 
+- 2020-04-15: [Issue #30](https://github.com/guibranco/BancosBrasileiros/issues/30) - Adicionado package.json para listar no NPM - [@RauppRafael](https://github.com/RauppRafael)
 - 2020-04-15: Adicionado badges - [@guibranco](https://github.com/guibranco)
 - 2020-03-20: [Issue #25](https://github.com/guibranco/BancosBrasileiros/issues/25) - Corrigido acentuação do Banco de Brasília - [@luisccf](https://github.com/luisccf)
 - 2020-03-20: [Issue #28](https://github.com/guibranco/BancosBrasileiros/issues/28) - Adicionado Banco Brasil Plural - [@lucastorress](https://github.com/lucastorress)

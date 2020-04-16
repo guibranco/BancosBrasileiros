@@ -1,0 +1,38 @@
+{
+  "name": "bancosbrasileiros",
+  "version": "1.0.0",
+  "description": "A list in various formats (XML, JSON, SQL, CSV) of brasilian commercial banks",
+  "main": "banks.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guibranco/BancosBrasileiros.git"
+  },
+  "keywords": [
+    "banks",
+    "brasilian",
+    "bank",
+    "commercial",
+    "list",
+    "json",
+    "xml",
+    "sql",
+    "csv",
+    "febraban",
+    "abbc",
+    "cip",
+    "bcb",
+    "bacen",
+    "bc",
+    "cnpj",
+    "isbp"
+  ],
+  "author": "Guilherme Branco Stracini",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/guibranco/BancosBrasileiros/issues"
+  },
+  "homepage": "https://github.com/guibranco/BancosBrasileiros#readme"
+}
