@@ -4,9 +4,9 @@ Brazilian commercial banks list
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
 ![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
-![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)
+[![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)](https://github.com/guibranco/BancosBrasileiros/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
-***Para a versão em português do README.md, por favor [siga me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)***
+***Para a versão em português do README.md, por favor [siga me](/README.md)***
 
 --- 
 
