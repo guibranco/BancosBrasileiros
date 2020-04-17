@@ -75,7 +75,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 - Obter CNPJ dos bancos: [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4).
 - Obter sites dos bancos: [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9).
-- Obter códigos ISPB: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
+- Obter código ISPB: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
 
 ---
 
