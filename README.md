@@ -8,9 +8,16 @@ Listagem de bancos comerciais brasileiros
 
 Para aqueles que não estão familiarizados com entidades brasileiras:
 
-- **BCB** - Banco Central do Brasil
-- **FEBRABAN** - Federação Brasileira de Bancos (autoridade reguladora)
+- **BCB** - Banco Central do Brasil (autoridade reguladora)
+- **FEBRABAN** - Federação Brasileira de Bancos
+- **ABBC** - Associação Brasileira de Bancos 
 - **CNPJ** - Cadastro Nacional de Pessoa Juridica
+- **CPF** - Cadastro Pessoa Física
+- **CIP** - Câmara Interbancária de Pagamentos
+- **SPB** - Sistema de Pagamentos brasileiro
+- **SFN** - Sistema Financeiro Nacional
+- **RSFN** - Rede do SFN
+- **PIX** - Pagamentos instantâneos
 
 Esta lista contém mais de 255 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
