@@ -42,7 +42,7 @@ Each of the lists has the following information:
 ## NPM - Node Package Manager
 
 This repository is available at NPM under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
-Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and published version 1.0.0 on NPM.
+Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publish version 1.0.0 on NPM.
 
 ```bash
 
@@ -74,12 +74,12 @@ For those unfamiliar with Brazilian entities:
 
 ## TODO ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted)
 
-- Gather the banks documents (CNPJ) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-- Gather the banks website (url/link) [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)
-- Gather the ISPB numbers [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)
+- Gather the banks documents (CNPJ): [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4).
+- Gather the banks website (url/link): [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9).
+- Gather the ISPB numbers: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
 
 ---
 
 ## Changelog
 
-**Changelog only exists in the PT-BR version for simplicity** [PT-BR version of this file](https://github.com/guibranco/BancosBrasileiros/blob/master/README.md)
+**Changelog only exists in the PT-BR version for simplicity** [PT-BR version of this file](/README.md)
