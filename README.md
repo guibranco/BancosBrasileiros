@@ -54,18 +54,18 @@ npm i bancos-brasileiros
 
 Para aqueles que não estão familiarizados com entidades brasileiras:
 
+- **ABBC** - Associação Brasileira de Bancos
 - **BCB** - Banco Central do Brasil (autoridade reguladora)
-- **FEBRABAN** - Federação Brasileira de Bancos
-- **ABBC** - Associação Brasileira de Bancos 
-- **CNPJ** - Cadastro Nacional de Pessoa Juridica
-- **CPF** - Cadastro Pessoa Física
 - **CIP** - Câmara Interbancária de Pagamentos
-- **SPB** - Sistema de Pagamentos Brasileiro
-- **ISPB** - Identificação de SPB
+- **CNPJ** - Cadastro Nacional de Pessoa Juridica
 - **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
-- **SFN** - Sistema Financeiro Nacional
-- **RSFN** - Rede do SFN
+- **CPF** - Cadastro Pessoa Física
+- **FEBRABAN** - Federação Brasileira de Bancos
+- **ISPB** - Identificação de SPB
 - **PIX** - Pagamentos Instantâneos
+- **RSFN** - Rede do SFN
+- **SFN** - Sistema Financeiro Nacional
+- **SPB** - Sistema de Pagamentos Brasileiro
 - **STR** - Sistema de Transferência de Reserva
 
 ---
