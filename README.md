@@ -73,15 +73,15 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## TODO ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted)
 
-- Obter CNPJ dos bancos [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-- Obter sites dos bancos [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)
-- Obter ISPB dos bancos [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)
+- Obter CNPJ dos bancos: [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4).
+- Obter sites dos bancos: [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9).
+- Obter códigos ISPB: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
 
 ---
 
 ## Changelog
 
-- 2020-04-17: Atualização do readme.md e do readme.en.md
+- 2020-04-17: Atualização do readme.md e do readme.en.md, publicação do github.io pages
 - 2020-04-15: [Issue #30](https://github.com/guibranco/BancosBrasileiros/issues/30) - Adicionado package.json para listar no NPM - [@RauppRafael](https://github.com/RauppRafael)
 - 2020-04-15: Adicionado badges - [@guibranco](https://github.com/guibranco)
 - 2020-03-20: [Issue #25](https://github.com/guibranco/BancosBrasileiros/issues/25) - Corrigido acentuação do Banco de Brasília - [@luisccf](https://github.com/luisccf)
