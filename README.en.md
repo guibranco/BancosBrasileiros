@@ -55,18 +55,18 @@ npm i bancos-brasileiros
 
 For those unfamiliar with Brazilian entities:
 
-- **BCB** - Central Bank of Brazil (regulatory authority)
-- **FEBRABAN** - Brazilian Federation of Banks
 - **ABBC** - Brazilian Association of Banks
-- **CNPJ** - National Register of Legal Entities
-- **CPF** - Individual Taxpayer Registration
+- **BCB** - Central Bank of Brazil (regulatory authority)
 - **CIP** - Interbank Payments Chamber
-- **SPB** - Brazilian Payment System
-- **ISPB** - SPB identification
+- **CNPJ** - National Register of Legal Entities
 - **COMPE** - Clearing System for Checks and Other Papers
-- **SFN** - National Financial System
-- **RSFN** - SFN Network
+- **CPF** - Individual Taxpayer Registration
+- **FEBRABAN** - Brazilian Federation of Banks
+- **ISPB** - SPB identification
 - **PIX** - Instant Payments
+- **RSFN** - SFN Network
+- **SFN** - National Financial System
+- **SPB** - Brazilian Payment System
 - **STR** - Reservation Transfer System
 
 ---
