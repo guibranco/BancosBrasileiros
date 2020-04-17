@@ -1,5 +1,5 @@
-# Bancos Brasileiros
-Listagem de bancos comerciais brasileiros
+# Bancos Brasileiros 
+Listagem de bancos comerciais brasileiros 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
 ![GitHub](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
@@ -14,43 +14,44 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - **CNPJ** - Cadastro Nacional de Pessoa Juridica
 - **CPF** - Cadastro Pessoa Física
 - **CIP** - Câmara Interbancária de Pagamentos
-- **SPB** - Sistema de Pagamentos brasileiro
+- **SPB** - Sistema de Pagamentos Brasileiro
+- **ISPB** - Identificação de SPB
+- **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
 - **SFN** - Sistema Financeiro Nacional
 - **RSFN** - Rede do SFN
-- **PIX** - Pagamentos instantâneos
+- **PIX** - Pagamentos Instantâneos
+- **STR** - Sistema de Transferência de Reserva
 
-Esta lista contém mais de 255 bancos cadastrados, nos seguintes formatos e informações disponíveis:
+Esta lista contém 259 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
-- **T-SQL**
-  - Código do banco - FEBRABAN / BCB
-  - Razão Social
-  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-  - Data de alteração no schema
-  - Flag indicativa se está deletado ou não
-- **JSON**
-  - Código do banco - FEBRABAN / BCB
-  - Razão Social / Nome fantasia
-  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-  - Data de cadastro no schema
-  - Data de alteração no schema
-  - Data de remoção no schema
-  - Flag indicativa se está deletado ou não
-- **CSV**
-  - Código do banco - FEBRABAN / BCB
-  - Razão Social / Nome fantasia
-  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-  - Data de cadastro no schema
-  - Data de alteração no schema
-  - Data de remoção no schema
-  - Flag indicativa se está deletado ou não
-- **XML**
-  - Código do banco - FEBRABAN / BCB
-  - Razão Social / Nome fantasia
-  - Documento (CNPJ) (**TODO**) [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
-  - Data de cadastro no schema
-  - Data de alteração no schema
-  - Data de remoção no schema
-  - Flag indicativa se está deletado ou não
+- **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
+- **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
+- **SQL**: [bancos.sql](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.sql)
+- **XML**: [bancos.xml](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.xml)
+
+| Coluna | Descrição | Observações |
+|-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
+| COMPE | Código do Banco - COMPE | 3 dígitos |
+| ISPB | Código do Banco - ISPB | 8 dígitos TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31) |
+| Razão Social | Razão Social do Banco | - |
+| CNPJ | Documento do Banco | TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4) |
+| Data de cadastro | Data de cadastor no schema | - |
+| Data de alteração | Data de alteração no schema | TODO em bancos.sql |
+| Data de remoção | Data de remoção no schema | TODO em bancos.sql |
+| Removido | Flag indicativa se está deletado ou não | - |
+
+---
+
+## NPM - Node Package Manager
+
+Este repositório está disponível no NPM com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros)
+Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter idealizado e criado a versão 1.0.0 no NPM.
+
+```bash
+
+npm i bancos-brasileiros
+
+```
 
 ---
 
@@ -58,6 +59,7 @@ Esta lista contém mais de 255 bancos cadastrados, nos seguintes formatos e info
 
 - Obter CNPJ dos bancos [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
 - Obter sites dos bancos [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)
+- Obter ISPB dos bancos [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)
 
 ---
 
