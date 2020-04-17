@@ -27,13 +27,13 @@ Cada uma das listas possui as seguintes informações:
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
 | COMPE | Código do Banco - COMPE | 3 dígitos |
-| ISPB | Código do Banco - ISPB | 8 dígitos (TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) |
+| ISPB | Código do Banco - ISPB | 8 dígitos (TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
 | Name | Razão Social ou Nome Fantasia do Banco | - |
-| CNPJ | Documento do Banco | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) |
-| Url  | Url do website | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) |
-| Data de cadastro | Data de cadastro no schema | (TODO bancos.sql) |
+| CNPJ | Documento do Banco | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
+| Url  | Url do website | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
+| Data de cadastro | Data de cadastro no schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
 | Data de alteração | Data de alteração no schema | - |
-| Data de remoção | Data de remoção no schema | (TODO bancos.sql) |
+| Data de remoção | Data de remoção no schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
 | Removido | Flag indicativa se este banco foi removido ou não | DELETE lógico |
 
 ---
