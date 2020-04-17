@@ -38,7 +38,7 @@ Esta lista contém 259 bancos cadastrados, nos seguintes formatos e informaçõe
 | Data de cadastro | Data de cadastor no schema | - |
 | Data de alteração | Data de alteração no schema | TODO em bancos.sql |
 | Data de remoção | Data de remoção no schema | TODO em bancos.sql |
-| Removido | Flag indicativa se está deletado ou não | - |
+| Removido | Flag indicativa se este banco foi removido ou não | DELETE lógico |
 
 ---
 
