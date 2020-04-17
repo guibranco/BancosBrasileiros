@@ -27,7 +27,7 @@ Cada uma das listas possui as seguintes informações:
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
 | COMPE | Código do Banco - COMPE | 3 dígitos |
 | ISPB | Código do Banco - ISPB | 8 dígitos (TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) |
-| Razão Social | Razão Social do Banco | - |
+| Name | Razão Social ou Nome Fantasia do Banco | - |
 | CNPJ | Documento do Banco | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) |
 | Url  | Url do website | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) |
 | Data de cadastro | Data de cadastro no schema | (TODO bancos.sql) |
