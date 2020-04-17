@@ -62,7 +62,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
 - **CPF** - Cadastro Pessoa Física
 - **FEBRABAN** - Federação Brasileira de Bancos
-- **ISPB** - Identificação de SPB
+- **ISPB** - Identificação do SPB
 - **PIX** - Pagamentos Instantâneos
 - **RSFN** - Rede do SFN
 - **SFN** - Sistema Financeiro Nacional
