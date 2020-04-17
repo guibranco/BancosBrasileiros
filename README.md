@@ -30,12 +30,10 @@ Cada uma das listas possui as seguintes informações:
 | Razão Social | Razão Social do Banco | - |
 | CNPJ | Documento do Banco | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) |
 | Url  | Url do website | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) |
-| Data de cadastro | Data de cadastro no schema | * |
+| Data de cadastro | Data de cadastro no schema | (TODO bancos.sql) |
 | Data de alteração | Data de alteração no schema | - |
-| Data de remoção | Data de remoção no schema | * |
+| Data de remoção | Data de remoção no schema | (TODO bancos.sql) |
 | Removido | Flag indicativa se este banco foi removido ou não | DELETE lógico |
-
-* O arquivo **bancos.sql** não dispõe das colunas **Data de cadastro** e nem **Data de remoção** por enquanto!
 
 ---
 
