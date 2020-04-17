@@ -3,6 +3,7 @@ Listagem de bancos comerciais brasileiros
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
 ![GitHub](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
+![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)
 
 ***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
 
@@ -70,7 +71,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ---
 
-## TODO
+## TODO ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted)
 
 - Obter CNPJ dos bancos [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)
 - Obter sites dos bancos [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)
