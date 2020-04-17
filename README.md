@@ -6,21 +6,9 @@ Listagem de bancos comerciais brasileiros
 
 ***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
 
-Para aqueles que não estão familiarizados com entidades brasileiras:
+--- 
 
-- **BCB** - Banco Central do Brasil (autoridade reguladora)
-- **FEBRABAN** - Federação Brasileira de Bancos
-- **ABBC** - Associação Brasileira de Bancos 
-- **CNPJ** - Cadastro Nacional de Pessoa Juridica
-- **CPF** - Cadastro Pessoa Física
-- **CIP** - Câmara Interbancária de Pagamentos
-- **SPB** - Sistema de Pagamentos Brasileiro
-- **ISPB** - Identificação de SPB
-- **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
-- **SFN** - Sistema Financeiro Nacional
-- **RSFN** - Rede do SFN
-- **PIX** - Pagamentos Instantâneos
-- **STR** - Sistema de Transferência de Reserva
+## Lista de bancos
 
 Esta lista contém 259 bancos cadastrados, nos seguintes formatos e informações disponíveis:
 
@@ -52,6 +40,26 @@ Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter ideal
 npm i bancos-brasileiros
 
 ```
+
+---
+
+## Singlas e abreviações
+
+Para aqueles que não estão familiarizados com entidades brasileiras:
+
+- **BCB** - Banco Central do Brasil (autoridade reguladora)
+- **FEBRABAN** - Federação Brasileira de Bancos
+- **ABBC** - Associação Brasileira de Bancos 
+- **CNPJ** - Cadastro Nacional de Pessoa Juridica
+- **CPF** - Cadastro Pessoa Física
+- **CIP** - Câmara Interbancária de Pagamentos
+- **SPB** - Sistema de Pagamentos Brasileiro
+- **ISPB** - Identificação de SPB
+- **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
+- **SFN** - Sistema Financeiro Nacional
+- **RSFN** - Rede do SFN
+- **PIX** - Pagamentos Instantâneos
+- **STR** - Sistema de Transferência de Reserva
 
 ---
 
