@@ -10,23 +10,32 @@ Listagem de bancos comerciais brasileiros
 
 ## Lista de bancos
 
-Esta lista contém 259 bancos cadastrados, nos seguintes formatos e informações disponíveis:
+### Formatos
+
+Esta lista contém 259 bancos cadastrados, nos seguintes formatos:
 
 - **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
 - **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
 - **SQL**: [bancos.sql](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.sql)
 - **XML**: [bancos.xml](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.xml)
 
+### Dados disponíves
+
+Cada uma das listas possui as seguintes informações:
+
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
 | COMPE | Código do Banco - COMPE | 3 dígitos |
-| ISPB | Código do Banco - ISPB | 8 dígitos TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31) |
+| ISPB | Código do Banco - ISPB | 8 dígitos (TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) |
 | Razão Social | Razão Social do Banco | - |
-| CNPJ | Documento do Banco | TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4) |
-| Data de cadastro | Data de cadastor no schema | - |
-| Data de alteração | Data de alteração no schema | TODO em bancos.sql |
-| Data de remoção | Data de remoção no schema | TODO em bancos.sql |
+| CNPJ | Documento do Banco | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) |
+| Url  | Url do website | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) |
+| Data de cadastro | Data de cadastro no schema | * |
+| Data de alteração | Data de alteração no schema | - |
+| Data de remoção | Data de remoção no schema | * |
 | Removido | Flag indicativa se este banco foi removido ou não | DELETE lógico |
+
+* O arquivo **bancos.sql** não dispõe das colunas **Data de cadastro** e nem **Data de remoção** por enquanto!
 
 ---
 
@@ -43,7 +52,7 @@ npm i bancos-brasileiros
 
 ---
 
-## Singlas e abreviações
+## Siglas e abreviações
 
 Para aqueles que não estão familiarizados com entidades brasileiras:
 
@@ -73,6 +82,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2020-04-17: Atualização do readme.md e do readme.en.md
 - 2020-04-15: [Issue #30](https://github.com/guibranco/BancosBrasileiros/issues/30) - Adicionado package.json para listar no NPM - [@RauppRafael](https://github.com/RauppRafael)
 - 2020-04-15: Adicionado badges - [@guibranco](https://github.com/guibranco)
 - 2020-03-20: [Issue #25](https://github.com/guibranco/BancosBrasileiros/issues/25) - Corrigido acentuação do Banco de Brasília - [@luisccf](https://github.com/luisccf)
