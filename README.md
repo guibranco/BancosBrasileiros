@@ -5,7 +5,7 @@ Listagem de bancos comerciais brasileiros
 ![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
 ![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)
 
-***For a english version of README.md, please [follow me](https://github.com/guibranco/BancosBrasileiros/blob/master/README.en.md)***
+***For a english version of README.md, please [follow me](README.en.md)***
 
 --- 
 
