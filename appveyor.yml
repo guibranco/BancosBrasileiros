@@ -8,6 +8,6 @@ install:
 - ps: Install-Product node $env:nodejs_version
 - ps: npm install --loglevel=error
       "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
-build_Script:
+build_script:
 - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
 - ps: npm publish
