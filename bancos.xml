@@ -1926,12 +1926,14 @@
 		<UpdatedAt null="true" />
 	</bank>
 	<bank>
-		<Code>747</Code>
+	    <Code>747</Code>
+		<Document>01.023.570/0001-60</Document>
+		<Name>RABOBANK DO BRASIL</Name>
+		<Website>https://www.rabobank.com.br</Website>
 		<CreatedAt>2018-01-29 15:12:24.420</CreatedAt>
 		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
-		<Name>RAIBOBANK DO BRASIL</Name>
-		<UpdatedAt null="true" />
+		<IsDeleted>false</IsDeleted>	
+		<UpdatedAt>2020-04-23 22:00:00.000</UpdatedAt>
 	</bank>
 	<bank>
 		<Code>748</Code>

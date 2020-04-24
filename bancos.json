@@ -1917,7 +1917,7 @@
   },
   {
     "Code": "746",
-    "Name": "MODAL S\\A",
+    "Name": "MODAL S.A.",
     "CreatedAt": "2018-01-29 15:12:24.417",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -1925,9 +1925,10 @@
   },
   {
     "Code": "747",
-    "Name": "RAIBOBANK DO BRASIL",
+    "Name": "RABOBANK DO BRASIL",
+    "Document": "01.023.570/0001-60",
     "CreatedAt": "2018-01-29 15:12:24.420",
-    "UpdatedAt": null,
+    "UpdatedAt": "2020-04-23 22:00:00.000",
     "DeletedAt": null,
     "IsDeleted": false
   },
