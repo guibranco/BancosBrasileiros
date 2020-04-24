@@ -1,15 +1,13 @@
 version: 1.2.{build}
-build: off
 branches:
     only:
     - master
 environment:
     nodejs_version: 6
 install:
- - ps: Install-Product node $env:nodejs_version
- - ps: npm install --loglevel=error
-  
+- ps: Install-Product node $env:nodejs_version
+- ps: npm install --loglevel=error
       "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
-after_deploy:
- - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
- - ps: npm publish
+build_Script:
+- npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
+- ps: npm publish
