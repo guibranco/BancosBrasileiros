@@ -12,5 +12,7 @@ install:
     "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
 
 build_script:
+- git config user.email "build@appveyor.com"
+- git config user.name "AppVeyor"
 - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
 - npm publish
