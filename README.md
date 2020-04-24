@@ -82,6 +82,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2020-04-23: [Issue #34](https://github.com/guibranco/BancosBrasileiros/issues/34) - Publicação automática do pacote NPM - [@guibranco](https://github.com/guibranco)
 - 2020-04-23: [Issue #32](https://github.com/guibranco/BancosBrasileiros/issues/32) - Corrigido dados do Banco Órama em bancos.sql - [@VGsss](https://github.com/VGsss)
 - 2020-04-23: [Issue #33](https://github.com/guibranco/BancosBrasileiros/issues/33) - Corrigido dados do RaboBank - [@rpenha](https://github.com/rpenha)
 - 2020-04-17: Atualização do readme.md e do readme.en.md, publicação do github.io pages
