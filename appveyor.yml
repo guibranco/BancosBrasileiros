@@ -2,15 +2,22 @@ version: 1.2.{build}
 branches:
     only:
     - master
+skip_commits:
+    message: /^v(\.?[0-9]+)+$/g       # Regex for matching version commit messages
 environment:
     nodejs_version: 6
+    GITHUB_TOKEN:
+        secure: IEDiCuYBM8BnfdT90PGnvnKGEfHHHgzziGqfoZUUqTi1FgSkBXoMrAGbdLP6jNok
 install:
-- ps: >-
-    Install-Product node $env:nodejs_version
+- ps: Install-Product node $env:nodejs_version
+- ps: >- 
     npm install --loglevel=error
 
     "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
 
 build_script:
+- git config --global credential.helper store
+- ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:GITHUB_TOKEN):x-oauth-basic@github.com`n"
+- git push
 - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
-- ps: npm publish
+- npm publish
