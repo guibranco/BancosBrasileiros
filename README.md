@@ -1,6 +1,8 @@
-# Bancos Brasileiros 
-Listagem de bancos comerciais brasileiros 
+# Bancos Brasileiros
 
+Listagem de bancos comerciais brasileiros
+
+[![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
 ![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
 ![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
 [![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)](https://github.com/guibranco/BancosBrasileiros/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
@@ -8,7 +10,7 @@ Listagem de bancos comerciais brasileiros
 
 ***For a english version of README.md, please [follow me](/README.en.md)***
 
---- 
+---
 
 ## Lista de bancos
 
@@ -39,7 +41,10 @@ Cada uma das listas possui as seguintes informações:
 
 ---
 
-## NPM - Node Package Manager [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
+## NPM - Node Package Manager
+
+[![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
+![npm](https://img.shields.io/npm/dy/bancos-brasileiros)
 
 Este repositório está disponível no NPM com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter idealizado e criado a versão 1.0.0 no NPM.

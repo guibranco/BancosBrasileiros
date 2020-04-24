@@ -1,4 +1,6 @@
 version: 1.2.{build}
+skip_commits:
+    message: /(Create|Update).*\.(png|jpg|jpeg|bmp|gif|md)/
 branches:
     only:
     - master

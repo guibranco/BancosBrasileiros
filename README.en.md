@@ -2,13 +2,15 @@
 
 Brazilian commercial banks list
 
+[![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
 ![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
 ![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
 [![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)](https://github.com/guibranco/BancosBrasileiros/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
+[![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 
 ***Para a versão em português do README.md, por favor [siga me](/README.md)***
 
---- 
+---
 
 ## List of banks
 
@@ -33,13 +35,16 @@ Each of the lists has the following information:
 | CNPJ | Bank's document | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
 | Url  | Website url | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
 | Data de cadastro | Registration date on schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Data de alteração | Change date on schena | - |
+| Data de alteração | Change date on schema | - |
 | Data de remoção | Removal date in the schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
 | Removido | Flag indicating whether this bank has been removed or not | Logical DELETE |
 
 ---
 
 ## NPM - Node Package Manager
+
+[![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
+![npm](https://img.shields.io/npm/dy/bancos-brasileiros)
 
 This repository is available at NPM under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publish version 1.0.0 on NPM.
