@@ -2077,4 +2077,14 @@
 		<IsDeleted>false</IsDeleted>		
 		<UpdatedAt null="true" />
 	</bank>
+	<bank>
+		<Code>197</Code>
+		<Document>16.501.555/0002-38</Document>
+		<Name>STONE PAGAMENTOS S.A.</Name>
+		<Website>https://www.stone.com.br/</Website>
+		<CreatedAt>2020-04-24 12:58:00.000</CreatedAt>
+		<DeletedAt null="true" />
+		<IsDeleted>false</IsDeleted>		
+		<UpdatedAt null="true" />
+	</bank>
 </banks>

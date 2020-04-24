@@ -45,6 +45,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VAL
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (168,'BANCO C.C.F. BRASIL S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (175,'CONTINENTAL BANCO S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (184,'BBA - CREDITANSTALT S.A', '', NULL, 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (197,'STONE PAGAMENTOS S.A.', '16.501.555/0002-38', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (199,'BANCO FINANCIAL PORTUGUES', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (200,'BANCO FRICRISA AXELRUD S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (201,'BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A', '', NULL, 0);

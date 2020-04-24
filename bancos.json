@@ -2075,5 +2075,14 @@
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
-  }
+  },
+  {
+    "Code": "197",
+    "Name": "STONE PAGAMENTOS S.A.",
+    "Document": "16.501.555/0002-38",
+    "CreatedAt": "2020-04-24 12:58:00.000",    
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
+  },
 ]
