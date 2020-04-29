@@ -47,8 +47,8 @@
 		<DeletedAt null="true" />
 		<Document>00.416.968/0001-01</Document>
 		<IsDeleted>false</IsDeleted>
-		<Name>BANCO INTERMEDIUM</Name>
-		<UpdatedAt null="true" />
+		<Name>BANCO INTER</Name>
+		<UpdatedAt>2020-04-29 11:08:00.000</UpdatedAt>
 	</bank>
 	<bank>
 		<Code>237</Code>
