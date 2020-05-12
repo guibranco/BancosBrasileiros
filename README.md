@@ -87,6 +87,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrige data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrige nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
 - 2020-04-28: Removido virgula em excesso no arquivo bancos.json - [@wesleydeveloper](https://github.com/wesleydeveloper)
 - 2020-04-24: [Issue #35](https://github.com/guibranco/BancosBrasileiros/issues/35) - Adicionado Stone Pagamentos S.A. - [@lucastorress](https://github.com/lucastorress)
