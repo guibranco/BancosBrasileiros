@@ -16,7 +16,7 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 260 bancos cadastrados, nos seguintes formatos:
+Esta lista contém 259 bancos cadastrados, nos seguintes formatos:
 
 - **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
 - **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
@@ -26,7 +26,7 @@ Esta lista contém 260 bancos cadastrados, nos seguintes formatos:
 
 ### Dados disponíves
 
-Cada uma das listas possui as seguintes informações:
+Cada uma das listas possui as seguintes informações (esquema):
 
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
@@ -83,6 +83,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 ## Changelog
 
 - 2020-05-17: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
+- 2020-05-17: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
 - 2020-05-17: [Issue #36](http://github.com/guibranco/BancosBrasileiros/issues/36) - Listas normalizadas (dados e estrutura) - [@guibranco](https://github.com/guibranco)
 - 2020-05-17: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
 - 2020-05-17: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
