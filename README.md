@@ -18,15 +18,15 @@ Listagem de bancos comerciais brasileiros
 
 Esta lista contém 259 bancos cadastrados, nos seguintes formatos:
 
-- **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
-- **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
-- **Markdown**: [bancos.md](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.md)
-- **SQL**: [bancos.sql](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.sql)
-- **XML**: [bancos.xml](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.xml)
+- **CSV**: [bancos.csv](/data/bancos.csv)
+- **JSON**: [bancos.json](/data/bancos.json)
+- **Markdown**: [bancos.md](/data/bancos.md)
+- **SQL**: [bancos.sql](/data/bancos.sql)
+- **XML**: [bancos.xml](/data/bancos.xml)
 
 ### Dados disponíves
 
-Cada uma das listas possui as seguintes informações (esquema):
+Cada uma das listas possui as seguintes informações (schema):
 
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
@@ -41,25 +41,27 @@ Cada uma das listas possui as seguintes informações (esquema):
 | DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
 | IsRemoved | Flag indicativa se este banco foi removido ou não | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
 
-Um arquivo de schema está disponível na pasta [schemas](schemas) para as lista do tipo: [JSON](schemas/schema.json), [SQL](schemas/schema.sql), [XML](schemas/schema.xml) e as classes nas linguagens: [C#](schemas/csharp.cs), [Java](schemas/java.java), [TypeScript](schemas/typescript.ts), [PHP](schemas/php.php), [Rust](schemas/rust.rs).
-
 ---
 
-## Esquemas e classes
+## Schemas e classes
 
-Um arquivo de esquema está disponível na pasta [schemas](schemas) para as listas do tipo:
+Um arquivo de esquema está disponível na pasta [schemas](/schemas) para as listas do tipo:
 
-- [JSON](schemas/schema.json)
-- [SQL](schemas/schema.sql)
-- [XML](schemas/schema.xml)
+- [JSON](/schemas/schema.json)
+- [SQL](/schemas/schema.sql)
+- [XML](/schemas/schema.xml)
 
 E classes (DTO - Data Transport Object) das seguintes linguagens:
 
-- [C#](schemas/csharp.cs)
-- [Java](schemas/java.java)
-- [PHP](schemas/php.php)
-- [Rust](schemas/rust.rs)
-- [TypeScript](schemas/typescript.ts)
+- [C#](/schemas/csharp.cs)
+- [Go](/schemas/go.go)
+- [Java](/schemas/java.java)
+- [JavaScript](/schemas/javascript.js)
+- [Kotlin](/schemas/kotlin.kt)
+- [PHP](/schemas/php.php)
+- [Pyhton](/schemas/python.py)
+- [Rust](/schemas/rust.rs)
+- [TypeScript](/schemas/typescript.ts)
 
 ---
 

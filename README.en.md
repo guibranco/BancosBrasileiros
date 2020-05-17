@@ -18,11 +18,11 @@ Brazilian commercial banks list
 
 This list contains 259 registered banks, in the following formats:
 
-- **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
-- **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
-- **Markdown**: [bancos.md](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.md)
-- **SQL**: [bancos.sql](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.sql)
-- **XML**: [bancos.xml](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.xml)
+- **CSV**: [bancos.csv](/data/bancos.csv)
+- **JSON**: [bancos.json](/data/bancos.json)
+- **Markdown**: [bancos.md](/data/bancos.md)
+- **SQL**: [bancos.sql](/data/bancos.sql)
+- **XML**: [bancos.xml](/data/bancos.xml)
 
 ### Available data
 
@@ -45,7 +45,7 @@ Each of the lists has the following information (schema):
 
 ## Schemas and classes
 
-A schema file is available in the folder [schemas](schemas) for lists of type:
+A schema file is available in the folder [schemas](/schemas) for lists of type:
 
 - [JSON](schemas/schema.json)
 - [SQL](schemas/schema.sql)
@@ -53,11 +53,15 @@ A schema file is available in the folder [schemas](schemas) for lists of type:
 
 And classes (DTO - Data Transport Object) in the following languages:
 
-- [C#](schemas/csharp.cs)
-- [Java](schemas/java.java)
-- [PHP](schemas/php.php)
-- [Rust](schemas/rust.rs)
-- [TypeScript](schemas/typescript.ts)
+- [C#](/schemas/csharp.cs)
+- [Go](/schemas/go.go)
+- [Java](/schemas/java.java)
+- [JavaScript](/schemas/javascript.js)
+- [Kotlin](/schemas/kotlin.kt)
+- [PHP](/schemas/php.php)
+- [Pyhton](/schemas/python.py)
+- [Rust](/schemas/rust.rs)
+- [TypeScript](/schemas/typescript.ts)
 
 ---
 
