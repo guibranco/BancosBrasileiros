@@ -20,7 +20,7 @@ Esta lista contém 260 bancos cadastrados, nos seguintes formatos:
 
 - **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
 - **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
-- **MarkDown**: [bancos.md](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.md)
+- **Markdown**: [bancos.md](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.md)
 - **SQL**: [bancos.sql](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.sql)
 - **XML**: [bancos.xml](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.xml)
 
@@ -35,7 +35,7 @@ Cada uma das listas possui as seguintes informações:
 | Document | Documento do banco - CNPJ | 14 números - 18 dígitos (formatado) |
 | FiscalName | Razão social do banco | Conforme Receita Federal do Brasil |
 | FantasyName | Nome fantasia do banco | Nome comercial |
-| Url  | Url do website | - |
+| Url | Url do website | - |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
 | DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |

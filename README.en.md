@@ -35,7 +35,7 @@ Each of the lists has the following information:
 | Document | Bank's document - CNPJ | 14 numbers - 18 digits (formatted) |
 | FiscalName | Bank's corporate name  | According to the Federal Revenue Service of Brazil |
 | FantasyName | Bank's fantasy name | Commercial/trade name |
-| Url  | Website url | - |
+| Url | Website url | - |
 | DateRegistered | Registration date on schema | - |
 | DateUpdated | Change date on schema | - |
 | DateRemoved | Removal date in the schema | [Soft Delete](https://www.brentozar.com/archive/2020/02/what-are-soft-deletes-and-how-are-they-implemented/) |

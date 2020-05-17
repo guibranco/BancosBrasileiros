@@ -27,7 +27,8 @@
     "bacen",
     "bc",
     "cnpj",
-    "isbp"
+    "isbp",
+    "markdown"
   ],
   "author": "Guilherme Branco Stracini",
   "license": "UNLICENSED",
