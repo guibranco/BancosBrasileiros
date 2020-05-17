@@ -16,35 +16,59 @@ Brazilian commercial banks list
 
 ### Formats
 
-This list contains 260 registered banks, in the following formats:
+This list contains 259 registered banks, in the following formats:
 
-- **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
-- **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
-- **SQL**: [bancos.sql](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.sql)
-- **XML**: [bancos.xml](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.xml)
+- **CSV**: [bancos.csv](/data/bancos.csv)
+- **JSON**: [bancos.json](/data/bancos.json)
+- **Markdown**: [bancos.md](/data/bancos.md)
+- **SQL**: [bancos.sql](/data/bancos.sql)
+- **XML**: [bancos.xml](/data/bancos.xml)
 
 ### Available data
 
-Each of the lists has the following information:
+Each of the lists has the following information (schema):
 
 | Column | Description | Observations |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
-| COMPE | Bank Code - COMPE | 3 digits |
-| ISPB | Bank Code - ISPB | 8 digits (TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Nome | Bank's corporate or fantasy/trade name  | - |
-| CNPJ | Bank's document | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Url  | Website url | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Data de cadastro | Registration date on schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Data de alteração | Change date on schema | - |
-| Data de remoção | Removal date in the schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Removido | Flag indicating whether this bank has been removed or not | Logical DELETE |
+| COMPE | Bank code - COMPE | 3 digits |
+| ISPB | Bank code - ISPB | 8 digits |
+| Document | Bank's document - CNPJ | 14 numbers - 18 digits (formatted) |
+| FiscalName | Bank's corporate name  | According to the Federal Revenue Service of Brazil |
+| FantasyName | Bank's fantasy name | Commercial/trade name |
+| Url | Website url | - |
+| DateRegistered | Registration date on schema | - |
+| DateUpdated | Change date on schema | - |
+| DateRemoved | Removal date in the schema | [Soft Delete](https://www.brentozar.com/archive/2020/02/what-are-soft-deletes-and-how-are-they-implemented/) |
+| IsRemoved | Flag indicating whether this bank has been removed or not | [Soft Delete](https://www.brentozar.com/archive/2020/02/what-are-soft-deletes-and-how-are-they-implemented/) |
+
+---
+
+## Schemas and classes
+
+A schema file is available in the folder [schemas](/schemas) for lists of type:
+
+- [JSON](schemas/schema.json)
+- [SQL](schemas/schema.sql)
+- [XML](schemas/schema.xml)
+
+And classes (DTO - Data Transport Object) in the following languages:
+
+- [C#](/schemas/csharp.cs)
+- [Go](/schemas/go.go)
+- [Java](/schemas/java.java)
+- [JavaScript](/schemas/javascript.js)
+- [Kotlin](/schemas/kotlin.kt)
+- [PHP](/schemas/php.php)
+- [Pyhton](/schemas/python.py)
+- [Rust](/schemas/rust.rs)
+- [TypeScript](/schemas/typescript.ts)
 
 ---
 
 ## NPM - Node Package Manager
 
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
-![npm](https://img.shields.io/npm/dy/bancos-brasileiros)
+[![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
 This repository is available at NPM under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publish version 1.0.0 on NPM.
@@ -70,18 +94,11 @@ For those unfamiliar with Brazilian entities:
 - **FEBRABAN** - Brazilian Federation of Banks
 - **ISPB** - SPB identification
 - **PIX** - Instant Payments
+- **RFB** - Federal Revenue Service of Brazil
 - **RSFN** - SFN Network
 - **SFN** - National Financial System
 - **SPB** - Brazilian Payment System
 - **STR** - Reservation Transfer System
-
----
-
-## TODO ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted)
-
-- Gather the banks documents (CNPJ): [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4).
-- Gather the banks website (url/link): [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9).
-- Gather the ISPB numbers: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
 
 ---
 

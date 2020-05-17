@@ -16,35 +16,59 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 260 bancos cadastrados, nos seguintes formatos:
+Esta lista contém 259 bancos cadastrados, nos seguintes formatos:
 
-- **CSV**: [bancos.csv](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.csv)
-- **JSON**: [bancos.json](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.json)
-- **SQL**: [bancos.sql](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.sql)
-- **XML**: [bancos.xml](https://github.com/guibranco/BancosBrasileiros/blob/master/bancos.xml)
+- **CSV**: [bancos.csv](/data/bancos.csv)
+- **JSON**: [bancos.json](/data/bancos.json)
+- **Markdown**: [bancos.md](/data/bancos.md)
+- **SQL**: [bancos.sql](/data/bancos.sql)
+- **XML**: [bancos.xml](/data/bancos.xml)
 
 ### Dados disponíves
 
-Cada uma das listas possui as seguintes informações:
+Cada uma das listas possui as seguintes informações (schema):
 
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
-| COMPE | Código do Banco - COMPE | 3 dígitos |
-| ISPB | Código do Banco - ISPB | 8 dígitos (TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Name | Razão Social ou Nome Fantasia do Banco | - |
-| CNPJ | Documento do Banco | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Url  | Url do website | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Data de cadastro | Data de cadastro no schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Data de alteração | Data de alteração no schema | - |
-| Data de remoção | Data de remoção no schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Removido | Flag indicativa se este banco foi removido ou não | DELETE lógico |
+| COMPE | Código do banco - COMPE | 3 dígitos |
+| ISPB | Código do banco - ISPB | 8 dígitos |
+| Document | Documento do banco - CNPJ | 14 números - 18 dígitos (formatado) |
+| FiscalName | Razão social do banco | Conforme Receita Federal do Brasil |
+| FantasyName | Nome fantasia do banco | Nome comercial |
+| Url | Url do website | - |
+| DateRegistered | Data de cadastro no schema | - |
+| DateUpdated | Data de alteração no schema | - |
+| DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
+| IsRemoved | Flag indicativa se este banco foi removido ou não | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
+
+---
+
+## Schemas e classes
+
+Um arquivo de esquema está disponível na pasta [schemas](/schemas) para as listas do tipo:
+
+- [JSON](/schemas/schema.json)
+- [SQL](/schemas/schema.sql)
+- [XML](/schemas/schema.xml)
+
+E classes (DTO - Data Transport Object) das seguintes linguagens:
+
+- [C#](/schemas/csharp.cs)
+- [Go](/schemas/go.go)
+- [Java](/schemas/java.java)
+- [JavaScript](/schemas/javascript.js)
+- [Kotlin](/schemas/kotlin.kt)
+- [PHP](/schemas/php.php)
+- [Pyhton](/schemas/python.py)
+- [Rust](/schemas/rust.rs)
+- [TypeScript](/schemas/typescript.ts)
 
 ---
 
 ## NPM - Node Package Manager
 
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
-![npm](https://img.shields.io/npm/dy/bancos-brasileiros)
+[![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
 Este repositório está disponível no NPM com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter idealizado e criado a versão 1.0.0 no NPM.
@@ -62,14 +86,15 @@ npm i bancos-brasileiros
 Para aqueles que não estão familiarizados com entidades brasileiras:
 
 - **ABBC** - Associação Brasileira de Bancos
-- **BCB** - Banco Central do Brasil (autoridade reguladora)
+- **BCB** - Banco Central do Brasil (autoridade reguladora) (também chamado de Bacen ou BC)
 - **CIP** - Câmara Interbancária de Pagamentos
-- **CNPJ** - Cadastro Nacional de Pessoa Juridica
+- **CNPJ** - Cadastro Nacional de Pessoa Jurídica - RFB
 - **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
 - **CPF** - Cadastro Pessoa Física
 - **FEBRABAN** - Federação Brasileira de Bancos
 - **ISPB** - Identificação do SPB
 - **PIX** - Pagamentos Instantâneos
+- **RFB** - Receita Federal do Brasil
 - **RSFN** - Rede do SFN
 - **SFN** - Sistema Financeiro Nacional
 - **SPB** - Sistema de Pagamentos Brasileiro
@@ -77,16 +102,15 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ---
 
-## TODO ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted)
-
-- Obter CNPJ dos bancos: [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4).
-- Obter sites dos bancos: [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9).
-- Obter código ISPB: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
-
----
-
 ## Changelog
 
+- 2020-05-17: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
+- 2020-05-17: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
+- 2020-05-17: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
+- 2020-05-17: [Issue #36](http://github.com/guibranco/BancosBrasileiros/issues/36) - Listas normalizadas (dados e estrutura) - [@guibranco](https://github.com/guibranco)
+- 2020-05-17: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
+- 2020-05-17: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
+- 2020-05-17: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrige data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrige nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
 - 2020-04-28: Removido virgula em excesso no arquivo bancos.json - [@wesleydeveloper](https://github.com/wesleydeveloper)

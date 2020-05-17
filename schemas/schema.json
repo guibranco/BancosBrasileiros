@@ -1,0 +1,86 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/BankElement"
+    },
+    "definitions": {
+        "BankElement": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "COMPE": {
+                    "type": "string"
+                },
+                "ISPB": {
+                    "type": "string"
+                },
+                "Document": {
+                    "type": "string"
+                },
+                "FiscalName": {
+                    "type": "string"
+                },
+                "FantasyName": {
+                    "type": "string"
+                },
+                "Url": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string",
+                            "format": "uri",
+                            "qt-uri-protocols": [
+                                "https"
+                            ]
+                        }
+                    ]
+                },
+                "DateRegistered": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "DateUpdated": {
+                    "anyOf": [
+                        {
+                            "type": "string",
+                            "format": "date-time"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ]
+                },
+                "DateRemoved": {
+                    "anyOf": [
+                        {
+                            "type": "string",
+                            "format": "date-time"
+                        },
+                        {
+                            "type": "null"
+                        }
+                    ]
+                },
+                "IsRemoved": {
+                    "type": "boolean"
+                }
+            },
+            "required": [
+                "COMPE",
+                "DateRegistered",
+                "DateRemoved",
+                "DateUpdated",
+                "Document",
+                "FantasyName",
+                "FiscalName",
+                "ISPB",
+                "IsRemoved",
+                "Url"
+            ],
+            "title": "BankElement"
+        }
+    }
+}
