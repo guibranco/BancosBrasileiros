@@ -7,7 +7,7 @@
 		<FiscalName>Banco do Brasil S.A.</FiscalName>
 		<FantasyName>Banco do Brasil</FantasyName>
 		<Url>https://bb.com.br</Url>
-		<DateRegistered>2017-04-19 15:52:42.400</DateRegistered>
+		<DateRegistered>2017-04-19T15:52:42.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -19,7 +19,7 @@
 		<FiscalName>ITAÚ</FiscalName>
 		<FantasyName>ITAÚ</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 15:53:59.107</DateRegistered>
+		<DateRegistered>2017-04-19T15:53:59.107-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -31,7 +31,7 @@
 		<FiscalName>CAIXA ECONÔMICA FEDERAL</FiscalName>
 		<FantasyName>CAIXA ECONÔMICA FEDERAL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 15:54:41.200</DateRegistered>
+		<DateRegistered>2017-04-19T15:54:41.200-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -43,7 +43,7 @@
 		<FiscalName>SANTANDER</FiscalName>
 		<FantasyName>SANTANDER</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 15:55:59.197</DateRegistered>
+		<DateRegistered>2017-04-19T15:55:59.197-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -55,7 +55,7 @@
 		<FiscalName>BRB - BANCO DE BRASÍLIA</FiscalName>
 		<FantasyName>BRB - BANCO DE BRASÍLIA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 15:58:17.387</DateRegistered>
+		<DateRegistered>2017-04-19T15:58:17.387-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -67,7 +67,7 @@
 		<FiscalName>BANCO INTER</FiscalName>
 		<FantasyName>BANCO INTER</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 15:58:39.887</DateRegistered>
+		<DateRegistered>2017-04-19T15:58:39.887-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -79,7 +79,7 @@
 		<FiscalName>BANCO BRADESCO S.A.</FiscalName>
 		<FantasyName>Bradesco</FantasyName>
 		<Url>https://banco.bradesco</Url>
-		<DateRegistered>2017-04-19 16:00:31.407</DateRegistered>
+		<DateRegistered>2017-04-19T16:00:31.407-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -91,7 +91,7 @@
 		<FiscalName>CITIBANK</FiscalName>
 		<FantasyName>CITIBANK</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 16:01:50.353</DateRegistered>
+		<DateRegistered>2017-04-19T16:01:50.353-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -103,7 +103,7 @@
 		<FiscalName>BANCO SAFRA</FiscalName>
 		<FantasyName>BANCO SAFRA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 16:04:20.790</DateRegistered>
+		<DateRegistered>2017-04-19T16:04:20.790-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -115,7 +115,7 @@
 		<FiscalName>BANCO HSBC</FiscalName>
 		<FantasyName>BANCO HSBC</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-04-19 16:05:20.353</DateRegistered>
+		<DateRegistered>2017-04-19T16:05:20.353-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -127,7 +127,7 @@
 		<FiscalName>BANCOOB</FiscalName>
 		<FantasyName>BANCOOB</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-08-01 22:29:11.827</DateRegistered>
+		<DateRegistered>2017-08-01T22:29:11.827-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -139,7 +139,7 @@
 		<FiscalName>BANCO ORIGINAL</FiscalName>
 		<FantasyName>BANCO ORIGINAL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2017-10-11 20:33:06.803</DateRegistered>
+		<DateRegistered>2017-10-11T20:33:06.803-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -151,7 +151,7 @@
 		<FiscalName>BANCO CENTRAL DO BRASIL</FiscalName>
 		<FantasyName>BANCO CENTRAL DO BRASIL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.270-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -163,7 +163,7 @@
 		<FiscalName>BANCO DA AMAZONIA S.A</FiscalName>
 		<FantasyName>BANCO DA AMAZONIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.270-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -175,7 +175,7 @@
 		<FiscalName>BANCO DO NORDESTE DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO DO NORDESTE DO BRASIL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.270-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -187,7 +187,7 @@
 		<FiscalName>BANCO NAC DESENV. ECO. SOCIAL S.A</FiscalName>
 		<FantasyName>BANCO NAC DESENV. ECO. SOCIAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.270-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -199,7 +199,7 @@
 		<FiscalName>BANCO MERIDIONAL DO BRASIL</FiscalName>
 		<FantasyName>BANCO MERIDIONAL DO BRASIL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.270-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -211,7 +211,7 @@
 		<FiscalName>BANCO DO ESTADO DE ALAGOAS S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE ALAGOAS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.270-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -223,7 +223,7 @@
 		<FiscalName>BANCO DO ESTADO DO ESPIRITO SANTO S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO ESPIRITO SANTO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.270-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -235,7 +235,7 @@
 		<FiscalName>BANCO DE CREDITO REAL DE MINAS GERAIS SA</FiscalName>
 		<FantasyName>BANCO DE CREDITO REAL DE MINAS GERAIS SA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.273-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -247,7 +247,7 @@
 		<FiscalName>BANCO DO ESTADO DE PERNAMBUCO</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE PERNAMBUCO</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.273-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -259,7 +259,7 @@
 		<FiscalName>BANCO ALFA S/A</FiscalName>
 		<FantasyName>BANCO ALFA S/A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.273-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -271,7 +271,7 @@
 		<FiscalName>BANCO DO ESTADO DO ACRE S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO ACRE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.273-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -283,7 +283,7 @@
 		<FiscalName>BANCO DO ESTADO DE SANTA CATARINA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE SANTA CATARINA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.273-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -295,7 +295,7 @@
 		<FiscalName>BANCO DO ESTADO DA BAHIA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DA BAHIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.277-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -307,7 +307,7 @@
 		<FiscalName>BANCO DO ESTADO DO RIO DE JANEIRO S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO RIO DE JANEIRO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.277-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -319,7 +319,7 @@
 		<FiscalName>BANCO DO ESTADO DA PARAIBA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DA PARAIBA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.277-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -331,7 +331,7 @@
 		<FiscalName>BANCO DO ESTADO DE GOIAS S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE GOIAS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.277-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -343,7 +343,7 @@
 		<FiscalName>BANCO DO ESTADO DO MATO GROSSO S.A.</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO MATO GROSSO S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.277-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -355,7 +355,7 @@
 		<FiscalName>BANCO DO ESADO DO AMAZONAS S.A</FiscalName>
 		<FantasyName>BANCO DO ESADO DO AMAZONAS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.280-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -367,7 +367,7 @@
 		<FiscalName>BANCO DO ESTADO DO CEARA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO CEARA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.280-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -379,7 +379,7 @@
 		<FiscalName>BANCO DO ESTADO DO MARANHAO S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO MARANHAO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.280-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -391,7 +391,7 @@
 		<FiscalName>BANCO DO ESTADO DO PARA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO PARA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.280-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -403,7 +403,7 @@
 		<FiscalName>BANCO DO ESTADO DO PARANA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO PARANA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.280-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -415,7 +415,7 @@
 		<FiscalName>BANCO DO ESTADO DO PIAUI S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO PIAUI S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.280-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -427,7 +427,7 @@
 		<FiscalName>BANCO DO ESTADO DO RIO GRANDE DO SUL S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO RIO GRANDE DO SUL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.283-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -439,7 +439,7 @@
 		<FiscalName>BANCO DO ESTADO DE SERGIPE S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE SERGIPE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.283-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -451,7 +451,7 @@
 		<FiscalName>BANCO DO ESTADO DE MINAS GERAIS S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE MINAS GERAIS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.283-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -463,7 +463,7 @@
 		<FiscalName>BANCO DO ESTADO DE RONDONIA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE RONDONIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.283-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -475,7 +475,7 @@
 		<FiscalName>BANCO ITABANCO S.A.</FiscalName>
 		<FantasyName>BANCO ITABANCO S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.287</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.287-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -487,7 +487,7 @@
 		<FiscalName>BANCO BBM S.A</FiscalName>
 		<FantasyName>BANCO BBM S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.287</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.287-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -499,7 +499,7 @@
 		<FiscalName>BANCO CREDIBANCO S.A</FiscalName>
 		<FantasyName>BANCO CREDIBANCO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.290-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -511,7 +511,7 @@
 		<FiscalName>BANCO B.N.L DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO B.N.L DO BRASIL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.290-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -523,7 +523,7 @@
 		<FiscalName>MULTI BANCO S.A</FiscalName>
 		<FantasyName>MULTI BANCO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.290-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -535,7 +535,7 @@
 		<FiscalName>CAIXA ECONOMICA DO ESTADO DE SAO PAULO</FiscalName>
 		<FantasyName>CAIXA ECONOMICA DO ESTADO DE SAO PAULO</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.290-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -547,7 +547,7 @@
 		<FiscalName>CAIXA ECONOMICA DO ESTADO DO R.G.SUL</FiscalName>
 		<FantasyName>CAIXA ECONOMICA DO ESTADO DO R.G.SUL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.290-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -559,7 +559,7 @@
 		<FiscalName>BANCO NORCHEM S.A</FiscalName>
 		<FantasyName>BANCO NORCHEM S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.290-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -571,7 +571,7 @@
 		<FiscalName>BANCO INTER-ATLANTICO S.A</FiscalName>
 		<FantasyName>BANCO INTER-ATLANTICO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.293-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -583,7 +583,7 @@
 		<FiscalName>BANCO C.C.F. BRASIL S.A</FiscalName>
 		<FantasyName>BANCO C.C.F. BRASIL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.293-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -595,7 +595,7 @@
 		<FiscalName>CONTINENTAL BANCO S.A</FiscalName>
 		<FantasyName>CONTINENTAL BANCO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.293-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -607,7 +607,7 @@
 		<FiscalName>BBA - CREDITANSTALT S.A</FiscalName>
 		<FantasyName>BBA - CREDITANSTALT S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.293-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -619,7 +619,7 @@
 		<FiscalName>BANCO FINANCIAL PORTUGUES</FiscalName>
 		<FantasyName>BANCO FINANCIAL PORTUGUES</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.293-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -631,7 +631,7 @@
 		<FiscalName>BANCO FRICRISA AXELRUD S.A</FiscalName>
 		<FantasyName>BANCO FRICRISA AXELRUD S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.297-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -643,7 +643,7 @@
 		<FiscalName>BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A</FiscalName>
 		<FantasyName>BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.297-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -655,7 +655,7 @@
 		<FiscalName>BANCO S.R.L S.A</FiscalName>
 		<FantasyName>BANCO S.R.L S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.297-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -667,7 +667,7 @@
 		<FiscalName>BANCO SUL AMERICA S.A</FiscalName>
 		<FantasyName>BANCO SUL AMERICA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.297-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -679,7 +679,7 @@
 		<FiscalName>BANCO MARTINELLI S.A</FiscalName>
 		<FantasyName>BANCO MARTINELLI S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.297-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -691,7 +691,7 @@
 		<FiscalName>BANCO PACTUAL S.A</FiscalName>
 		<FantasyName>BANCO PACTUAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.300-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -703,7 +703,7 @@
 		<FiscalName>DEUTSCH SUDAMERIKANICHE BANK AG</FiscalName>
 		<FantasyName>DEUTSCH SUDAMERIKANICHE BANK AG</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.300-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -715,7 +715,7 @@
 		<FiscalName>BANCO SISTEMA S.A</FiscalName>
 		<FantasyName>BANCO SISTEMA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.300-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -727,7 +727,7 @@
 		<FiscalName>BANCO ARBI S.A</FiscalName>
 		<FantasyName>BANCO ARBI S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.300-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -739,7 +739,7 @@
 		<FiscalName>BANCO DIBENS S.A</FiscalName>
 		<FantasyName>BANCO DIBENS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.303-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -751,7 +751,7 @@
 		<FiscalName>BANCO AMERICA DO SUL S.A</FiscalName>
 		<FantasyName>BANCO AMERICA DO SUL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.303-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -763,7 +763,7 @@
 		<FiscalName>BANCO REGIONAL MALCON S.A</FiscalName>
 		<FantasyName>BANCO REGIONAL MALCON S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.303-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -775,7 +775,7 @@
 		<FiscalName>BANCO AGROINVEST S.A</FiscalName>
 		<FantasyName>BANCO AGROINVEST S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.303-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -787,7 +787,7 @@
 		<FiscalName>BS2</FiscalName>
 		<FantasyName>BS2</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.303-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -799,7 +799,7 @@
 		<FiscalName>BANCO DE CREDITO DE SAO PAULO S.A</FiscalName>
 		<FantasyName>BANCO DE CREDITO DE SAO PAULO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.307-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -811,7 +811,7 @@
 		<FiscalName>BANCO CREFISUL</FiscalName>
 		<FantasyName>BANCO CREFISUL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.307-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -823,7 +823,7 @@
 		<FiscalName>BANCO GRAPHUS S.A</FiscalName>
 		<FantasyName>BANCO GRAPHUS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.307-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -835,7 +835,7 @@
 		<FiscalName>BANCO AGF BRASIL S. A.</FiscalName>
 		<FantasyName>BANCO AGF BRASIL S. A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.307-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -847,7 +847,7 @@
 		<FiscalName>BANCO INTERUNION S.A</FiscalName>
 		<FantasyName>BANCO INTERUNION S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.307-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -859,7 +859,7 @@
 		<FiscalName>BANCO FIBRA S.A</FiscalName>
 		<FantasyName>BANCO FIBRA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.307-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -871,7 +871,7 @@
 		<FiscalName>BANCO BRASCAN S.A</FiscalName>
 		<FantasyName>BANCO BRASCAN S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.310-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -883,7 +883,7 @@
 		<FiscalName>BANCO ICATU S.A</FiscalName>
 		<FantasyName>BANCO ICATU S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.310-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -895,7 +895,7 @@
 		<FiscalName>BANCO CRUZEIRO S.A</FiscalName>
 		<FantasyName>BANCO CRUZEIRO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.310-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -907,7 +907,7 @@
 		<FiscalName>BANCO BANDEIRANTES S.A</FiscalName>
 		<FantasyName>BANCO BANDEIRANTES S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.310-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -919,7 +919,7 @@
 		<FiscalName>BANCO BOAVISTA S.A</FiscalName>
 		<FantasyName>BANCO BOAVISTA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.310-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -931,7 +931,7 @@
 		<FiscalName>BANCO INTERPART S.A</FiscalName>
 		<FantasyName>BANCO INTERPART S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.310-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -943,7 +943,7 @@
 		<FiscalName>BANCO MAPPIN S.A</FiscalName>
 		<FantasyName>BANCO MAPPIN S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.313-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -955,7 +955,7 @@
 		<FiscalName>BANCO LAVRA S.A.</FiscalName>
 		<FantasyName>BANCO LAVRA S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.313-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -967,7 +967,7 @@
 		<FiscalName>BANCO LIBERAL S.A</FiscalName>
 		<FantasyName>BANCO LIBERAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.313-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -979,7 +979,7 @@
 		<FiscalName>BANCO CAMBIAL S.A</FiscalName>
 		<FantasyName>BANCO CAMBIAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.313-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -991,7 +991,7 @@
 		<FiscalName>BANCO BANCRED S.A</FiscalName>
 		<FantasyName>BANCO BANCRED S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.317-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1003,7 +1003,7 @@
 		<FiscalName>BANCO DE CREDITO REAL DE MINAS GERAIS S.</FiscalName>
 		<FantasyName>BANCO DE CREDITO REAL DE MINAS GERAIS S.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.317-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1015,7 +1015,7 @@
 		<FiscalName>BANCO CLASSICO S.A</FiscalName>
 		<FantasyName>BANCO CLASSICO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.317-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1027,7 +1027,7 @@
 		<FiscalName>BANCO EUROINVEST S.A</FiscalName>
 		<FantasyName>BANCO EUROINVEST S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.317-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1039,7 +1039,7 @@
 		<FiscalName>BANCO MÁXIMA S.A></FiscalName>
 		<FantasyName>BANCO MÁXIMA S.A></FantasyName>
 		<Url>https://www.bancomaxima.com.br</Url>
-		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.317-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1051,7 +1051,7 @@
 		<FiscalName>BANCO CIDADE S.A</FiscalName>
 		<FantasyName>BANCO CIDADE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.320-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1063,7 +1063,7 @@
 		<FiscalName>BANCO EMPRESARIAL S.A</FiscalName>
 		<FantasyName>BANCO EMPRESARIAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.320-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1075,7 +1075,7 @@
 		<FiscalName>BANCO ABC ROMA S.A</FiscalName>
 		<FantasyName>BANCO ABC ROMA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.320-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1087,7 +1087,7 @@
 		<FiscalName>BANCO OMEGA S.A</FiscalName>
 		<FantasyName>BANCO OMEGA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.320-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1099,7 +1099,7 @@
 		<FiscalName>BANCO INVESTCRED S.A</FiscalName>
 		<FantasyName>BANCO INVESTCRED S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.320-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1111,7 +1111,7 @@
 		<FiscalName>BANCO SCHAHIN CURY S.A</FiscalName>
 		<FantasyName>BANCO SCHAHIN CURY S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.320-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1123,7 +1123,7 @@
 		<FiscalName>BANCO SAO JORGE S.A.</FiscalName>
 		<FantasyName>BANCO SAO JORGE S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.323-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1135,7 +1135,7 @@
 		<FiscalName>BANCO FININVEST S.A</FiscalName>
 		<FantasyName>BANCO FININVEST S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.323-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1147,7 +1147,7 @@
 		<FiscalName>BANCO PARANA BANCO S.A</FiscalName>
 		<FantasyName>BANCO PARANA BANCO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.323-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1159,7 +1159,7 @@
 		<FiscalName>MILBANCO S.A.</FiscalName>
 		<FantasyName>MILBANCO S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.323-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1171,7 +1171,7 @@
 		<FiscalName>BANCO GULVINVEST S.A</FiscalName>
 		<FantasyName>BANCO GULVINVEST S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.323-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1183,7 +1183,7 @@
 		<FiscalName>BANCO INDUSCRED S.A</FiscalName>
 		<FantasyName>BANCO INDUSCRED S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.327-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1195,7 +1195,7 @@
 		<FiscalName>BANCO VARIG S.A</FiscalName>
 		<FantasyName>BANCO VARIG S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.327-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1207,7 +1207,7 @@
 		<FiscalName>BANCO BOREAL S.A</FiscalName>
 		<FantasyName>BANCO BOREAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.327-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1219,7 +1219,7 @@
 		<FiscalName>BANCO CACIQUE</FiscalName>
 		<FantasyName>BANCO CACIQUE</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.327-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1231,7 +1231,7 @@
 		<FiscalName>BANCO PERFORMANCE S.A</FiscalName>
 		<FantasyName>BANCO PERFORMANCE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.330-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1243,7 +1243,7 @@
 		<FiscalName>BANCO FATOR S.A</FiscalName>
 		<FantasyName>BANCO FATOR S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.330-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1255,7 +1255,7 @@
 		<FiscalName>BANCO CEDULA S.A</FiscalName>
 		<FantasyName>BANCO CEDULA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.330-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1267,7 +1267,7 @@
 		<FiscalName>BANCO BBM-COM.C.IMOB.CFI S.A.</FiscalName>
 		<FantasyName>BANCO BBM-COM.C.IMOB.CFI S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.330-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1279,7 +1279,7 @@
 		<FiscalName>BANCO REAL S.A</FiscalName>
 		<FantasyName>BANCO REAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.330-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1291,7 +1291,7 @@
 		<FiscalName>BANCO PLANIBANC S.A</FiscalName>
 		<FantasyName>BANCO PLANIBANC S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.330-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1303,7 +1303,7 @@
 		<FiscalName>BANCO BRASILEIRO COMERCIAL</FiscalName>
 		<FantasyName>BANCO BRASILEIRO COMERCIAL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.330-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1315,7 +1315,7 @@
 		<FiscalName>BANCO DE CREDITO NACIONAL S.A</FiscalName>
 		<FantasyName>BANCO DE CREDITO NACIONAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.333-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1327,7 +1327,7 @@
 		<FiscalName>BCR - BANCO DE CREDITO REAL S.A</FiscalName>
 		<FantasyName>BCR - BANCO DE CREDITO REAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.333-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1339,7 +1339,7 @@
 		<FiscalName>BANCO CREDIPLAN S.A</FiscalName>
 		<FantasyName>BANCO CREDIPLAN S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.333-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1351,7 +1351,7 @@
 		<FiscalName>BANCO DE LA NACION ARGENTINA S.A</FiscalName>
 		<FantasyName>BANCO DE LA NACION ARGENTINA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.333-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1363,7 +1363,7 @@
 		<FiscalName>BANCO DO PROGRESSO S.A</FiscalName>
 		<FantasyName>BANCO DO PROGRESSO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.337-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1375,7 +1375,7 @@
 		<FiscalName>BANCO HNF S.A.</FiscalName>
 		<FantasyName>BANCO HNF S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.337-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1387,7 +1387,7 @@
 		<FiscalName>BANCO PONTUAL S.A</FiscalName>
 		<FantasyName>BANCO PONTUAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.337-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1399,7 +1399,7 @@
 		<FiscalName>BANCO COMERCIAL BANCESA S.A.</FiscalName>
 		<FantasyName>BANCO COMERCIAL BANCESA S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.337-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1411,7 +1411,7 @@
 		<FiscalName>BANCO B.M.G. S.A</FiscalName>
 		<FantasyName>BANCO B.M.G. S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.337-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1423,7 +1423,7 @@
 		<FiscalName>BANCO INDUSTRIAL E COMERCIAL</FiscalName>
 		<FantasyName>BANCO INDUSTRIAL E COMERCIAL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.340-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1435,7 +1435,7 @@
 		<FiscalName>BANCO FRANCES E BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO FRANCES E BRASILEIRO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.340-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1447,7 +1447,7 @@
 		<FiscalName>BANCO SUDAMERIS BRASIL S.A</FiscalName>
 		<FantasyName>BANCO SUDAMERIS BRASIL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.340-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1459,7 +1459,7 @@
 		<FiscalName>BANCO BOZANO SIMONSEN S.A</FiscalName>
 		<FantasyName>BANCO BOZANO SIMONSEN S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.340-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1471,7 +1471,7 @@
 		<FiscalName>BANCO GERAL DO COMERCIO S.A</FiscalName>
 		<FantasyName>BANCO GERAL DO COMERCIO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.340-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1483,7 +1483,7 @@
 		<FiscalName>ABN AMRO S.A</FiscalName>
 		<FantasyName>ABN AMRO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.340-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1495,7 +1495,7 @@
 		<FiscalName>BANCO SOGERAL S.A</FiscalName>
 		<FantasyName>BANCO SOGERAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.343-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1507,7 +1507,7 @@
 		<FiscalName>PONTUAL</FiscalName>
 		<FantasyName>PONTUAL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.343-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1519,7 +1519,7 @@
 		<FiscalName>BEAL - BANCO EUROPEU PARA AMERICA LATINA</FiscalName>
 		<FantasyName>BEAL - BANCO EUROPEU PARA AMERICA LATINA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.343-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1531,7 +1531,7 @@
 		<FiscalName>BANCO ITAMARATI S.A</FiscalName>
 		<FantasyName>BANCO ITAMARATI S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.347-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1543,7 +1543,7 @@
 		<FiscalName>BANCO FENICIA S.A</FiscalName>
 		<FantasyName>BANCO FENICIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.347-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1555,7 +1555,7 @@
 		<FiscalName>CHASE MANHATTAN BANK S.A</FiscalName>
 		<FantasyName>CHASE MANHATTAN BANK S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.347-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1567,7 +1567,7 @@
 		<FiscalName>BANCO MERCANTIL DE DESCONTOS S/A</FiscalName>
 		<FantasyName>BANCO MERCANTIL DE DESCONTOS S/A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.347-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1579,7 +1579,7 @@
 		<FiscalName>BANCO MERCANTIL DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO MERCANTIL DO BRASIL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.347-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1591,7 +1591,7 @@
 		<FiscalName>BANCO MERCANTIL DE SAO PAULO S.A</FiscalName>
 		<FantasyName>BANCO MERCANTIL DE SAO PAULO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.350-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1603,7 +1603,7 @@
 		<FiscalName>BANCO B.M.C. S.A</FiscalName>
 		<FantasyName>BANCO B.M.C. S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.350-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1615,7 +1615,7 @@
 		<FiscalName>UNIBANCO - UNIAO DOS BANCOS BRASILEIROS</FiscalName>
 		<FantasyName>UNIBANCO - UNIAO DOS BANCOS BRASILEIROS</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.350-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1627,7 +1627,7 @@
 		<FiscalName>BANCO NACIONAL DA BAHIA S.A</FiscalName>
 		<FantasyName>BANCO NACIONAL DA BAHIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.350-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1639,7 +1639,7 @@
 		<FiscalName>BANCO NACIONAL S.A</FiscalName>
 		<FantasyName>BANCO NACIONAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.350-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1651,7 +1651,7 @@
 		<FiscalName>BANCO NACIONAL DO NORTE S.A</FiscalName>
 		<FantasyName>BANCO NACIONAL DO NORTE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.350-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1663,7 +1663,7 @@
 		<FiscalName>BANCO NOROESTE S.A</FiscalName>
 		<FantasyName>BANCO NOROESTE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.353-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1675,7 +1675,7 @@
 		<FiscalName>BANCO FORTALEZA S.A</FiscalName>
 		<FantasyName>BANCO FORTALEZA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.353-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1687,7 +1687,7 @@
 		<FiscalName>BANCO RURAL S.A</FiscalName>
 		<FantasyName>BANCO RURAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.353-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1699,7 +1699,7 @@
 		<FiscalName>BANCO TOKIO S.A</FiscalName>
 		<FantasyName>BANCO TOKIO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.353-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1711,7 +1711,7 @@
 		<FiscalName>BANCO SUMITOMO BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO SUMITOMO BRASILEIRO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.357-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1723,7 +1723,7 @@
 		<FiscalName>BANCO MITSUBISHI BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO MITSUBISHI BRASILEIRO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.357-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1735,7 +1735,7 @@
 		<FiscalName>LLOYDS BANK PLC</FiscalName>
 		<FantasyName>LLOYDS BANK PLC</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.357-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1747,7 +1747,7 @@
 		<FiscalName>BANCO FINANCIAL PORTUGUES S.A</FiscalName>
 		<FantasyName>BANCO FINANCIAL PORTUGUES S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.357-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1759,7 +1759,7 @@
 		<FiscalName>CITIBANK N.A</FiscalName>
 		<FantasyName>CITIBANK N.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.357-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1771,7 +1771,7 @@
 		<FiscalName>BANCO DE BOSTON S.A</FiscalName>
 		<FantasyName>BANCO DE BOSTON S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.360-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1783,7 +1783,7 @@
 		<FiscalName>BANCO PORTUGUES DO ATLANTICO-BRASIL S.A</FiscalName>
 		<FantasyName>BANCO PORTUGUES DO ATLANTICO-BRASIL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.360-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1795,7 +1795,7 @@
 		<FiscalName>BANCO AGRIMISA S.A.</FiscalName>
 		<FantasyName>BANCO AGRIMISA S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.360-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1807,7 +1807,7 @@
 		<FiscalName>DEUTSCHE BANK S.A - BANCO ALEMAO</FiscalName>
 		<FantasyName>DEUTSCHE BANK S.A - BANCO ALEMAO</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.360-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1819,7 +1819,7 @@
 		<FiscalName>BANCO J. P. MORGAN S.A</FiscalName>
 		<FantasyName>BANCO J. P. MORGAN S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.360-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1831,7 +1831,7 @@
 		<FiscalName>BANESTO BANCO URUGAUAY S.A</FiscalName>
 		<FantasyName>BANESTO BANCO URUGAUAY S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.360-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1843,7 +1843,7 @@
 		<FiscalName>INTERNATIONALE NEDERLANDEN BANK N.V.</FiscalName>
 		<FantasyName>INTERNATIONALE NEDERLANDEN BANK N.V.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.363-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1855,7 +1855,7 @@
 		<FiscalName>BANCO UNION S.A.C.A</FiscalName>
 		<FantasyName>BANCO UNION S.A.C.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.363-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1867,7 +1867,7 @@
 		<FiscalName>BANCO LA REP. ORIENTAL DEL URUGUAY</FiscalName>
 		<FantasyName>BANCO LA REP. ORIENTAL DEL URUGUAY</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.363-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1879,7 +1879,7 @@
 		<FiscalName>BANCO LA PROVINCIA DE BUENOS AIRES</FiscalName>
 		<FantasyName>BANCO LA PROVINCIA DE BUENOS AIRES</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.363-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1891,7 +1891,7 @@
 		<FiscalName>BANCO EXTERIOR DE ESPANA S.A</FiscalName>
 		<FantasyName>BANCO EXTERIOR DE ESPANA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.363-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1903,7 +1903,7 @@
 		<FiscalName>CENTRO HISPANO BANCO</FiscalName>
 		<FantasyName>CENTRO HISPANO BANCO</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.367-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1915,7 +1915,7 @@
 		<FiscalName>BANCO IOCHPE S.A</FiscalName>
 		<FantasyName>BANCO IOCHPE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.367-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1927,7 +1927,7 @@
 		<FiscalName>BANCO BRASILEIRO IRAQUIANO S.A.</FiscalName>
 		<FantasyName>BANCO BRASILEIRO IRAQUIANO S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.367-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1939,7 +1939,7 @@
 		<FiscalName>BANCO SANTANDER S.A</FiscalName>
 		<FantasyName>BANCO SANTANDER S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.367-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1951,7 +1951,7 @@
 		<FiscalName>BANCO MULTIPLIC S.A</FiscalName>
 		<FantasyName>BANCO MULTIPLIC S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.367-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1963,7 +1963,7 @@
 		<FiscalName>BANCO GARANTIA S.A</FiscalName>
 		<FantasyName>BANCO GARANTIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.370-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1975,7 +1975,7 @@
 		<FiscalName>BANCO LUSO BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO LUSO BRASILEIRO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.370-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1987,7 +1987,7 @@
 		<FiscalName>BFC BANCO S.A.</FiscalName>
 		<FantasyName>BFC BANCO S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.370-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -1999,7 +1999,7 @@
 		<FiscalName>BANCO PATENTE S.A</FiscalName>
 		<FantasyName>BANCO PATENTE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.370-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2011,7 +2011,7 @@
 		<FiscalName>BANCO INDUSTRIAL DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO INDUSTRIAL DO BRASIL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.370-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2023,7 +2023,7 @@
 		<FiscalName>BANCO SANTOS NEVES S.A</FiscalName>
 		<FantasyName>BANCO SANTOS NEVES S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.373-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2035,7 +2035,7 @@
 		<FiscalName>BANCO OPEN S.A</FiscalName>
 		<FantasyName>BANCO OPEN S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.373-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2047,7 +2047,7 @@
 		<FiscalName>BANCO V.R. S.A</FiscalName>
 		<FantasyName>BANCO V.R. S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.373-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2059,7 +2059,7 @@
 		<FiscalName>BANCO PAULISTA S.A</FiscalName>
 		<FantasyName>BANCO PAULISTA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.373-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2071,7 +2071,7 @@
 		<FiscalName>BANCO GUANABARA S.A</FiscalName>
 		<FantasyName>BANCO GUANABARA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.377-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2083,7 +2083,7 @@
 		<FiscalName>BANCO PECUNIA S.A</FiscalName>
 		<FantasyName>BANCO PECUNIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.377-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2095,7 +2095,7 @@
 		<FiscalName>BANCO INTERPACIFICO S.A</FiscalName>
 		<FantasyName>BANCO INTERPACIFICO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.377-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2107,7 +2107,7 @@
 		<FiscalName>BANCO INVESTOR S.A.</FiscalName>
 		<FantasyName>BANCO INVESTOR S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.377-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2119,7 +2119,7 @@
 		<FiscalName>BANCO TENDENCIA S.A</FiscalName>
 		<FantasyName>BANCO TENDENCIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.377-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2131,7 +2131,7 @@
 		<FiscalName>BANCO APLICAP S.A.</FiscalName>
 		<FantasyName>BANCO APLICAP S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.380-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2143,7 +2143,7 @@
 		<FiscalName>BANCO DRACMA S.A</FiscalName>
 		<FantasyName>BANCO DRACMA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.380-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2155,7 +2155,7 @@
 		<FiscalName>BANCO PANAMERICANO S.A</FiscalName>
 		<FantasyName>BANCO PANAMERICANO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.380-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2167,7 +2167,7 @@
 		<FiscalName>BANCO GENERAL MOTORS S.A</FiscalName>
 		<FantasyName>BANCO GENERAL MOTORS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.380-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2179,7 +2179,7 @@
 		<FiscalName>BANCO ARAUCARIA S.A</FiscalName>
 		<FantasyName>BANCO ARAUCARIA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.380-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2191,7 +2191,7 @@
 		<FiscalName>BANCO FICSA S.A</FiscalName>
 		<FantasyName>BANCO FICSA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.380-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2203,7 +2203,7 @@
 		<FiscalName>BANCO DESTAK S.A</FiscalName>
 		<FantasyName>BANCO DESTAK S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.383-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2215,7 +2215,7 @@
 		<FiscalName>BANCO CRITERIUM S.A</FiscalName>
 		<FantasyName>BANCO CRITERIUM S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.383-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2227,7 +2227,7 @@
 		<FiscalName>BANCORP BANCO COML. E. DE INVESTMENTO</FiscalName>
 		<FantasyName>BANCORP BANCO COML. E. DE INVESTMENTO</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.383-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2239,7 +2239,7 @@
 		<FiscalName>BANCO INTERCAP S.A</FiscalName>
 		<FantasyName>BANCO INTERCAP S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.383-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2251,7 +2251,7 @@
 		<FiscalName>BANCO REDIMENTO S.A</FiscalName>
 		<FantasyName>BANCO REDIMENTO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.383-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2263,7 +2263,7 @@
 		<FiscalName>BANCO TRIANGULO S.A</FiscalName>
 		<FantasyName>BANCO TRIANGULO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.387-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2275,7 +2275,7 @@
 		<FiscalName>BANCO DO ESTADO DO AMAPA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO AMAPA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.387-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2287,7 +2287,7 @@
 		<FiscalName>BANCO SOFISA S.A</FiscalName>
 		<FantasyName>BANCO SOFISA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.387-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2299,7 +2299,7 @@
 		<FiscalName>BANCO PROSPER S.A</FiscalName>
 		<FantasyName>BANCO PROSPER S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.387-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2311,7 +2311,7 @@
 		<FiscalName>BIG S.A. - BANCO IRMAOS GUIMARAES</FiscalName>
 		<FantasyName>BIG S.A. - BANCO IRMAOS GUIMARAES</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.387-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2323,7 +2323,7 @@
 		<FiscalName>BANCO DE CREDITO METROPOLITANO S.A</FiscalName>
 		<FantasyName>BANCO DE CREDITO METROPOLITANO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.390-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2335,7 +2335,7 @@
 		<FiscalName>BANCO EXCEL ECONOMICO S/A</FiscalName>
 		<FantasyName>BANCO EXCEL ECONOMICO S/A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.390-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2347,7 +2347,7 @@
 		<FiscalName>BANCO SEGMENTO S.A</FiscalName>
 		<FantasyName>BANCO SEGMENTO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.390-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2359,7 +2359,7 @@
 		<FiscalName>BANCO DO ESTADO DE RORAIMA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE RORAIMA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.390-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2371,7 +2371,7 @@
 		<FiscalName>BANCO MARKA S.A</FiscalName>
 		<FantasyName>BANCO MARKA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.390-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2383,7 +2383,7 @@
 		<FiscalName>BANCO ATLANTIS S.A</FiscalName>
 		<FantasyName>BANCO ATLANTIS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.390-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2395,7 +2395,7 @@
 		<FiscalName>BANCO DIMENSAO S.A</FiscalName>
 		<FantasyName>BANCO DIMENSAO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.390-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2407,7 +2407,7 @@
 		<FiscalName>BANCO PEBB S.A</FiscalName>
 		<FantasyName>BANCO PEBB S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.393-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2419,7 +2419,7 @@
 		<FiscalName>BANCO FRANCES E BRASILEIRO SA</FiscalName>
 		<FantasyName>BANCO FRANCES E BRASILEIRO SA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.393-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2431,7 +2431,7 @@
 		<FiscalName>BANCO INDUSVAL S.A</FiscalName>
 		<FantasyName>BANCO INDUSVAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.393-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2443,7 +2443,7 @@
 		<FiscalName>BANCO A. J. RENNER S.A</FiscalName>
 		<FantasyName>BANCO A. J. RENNER S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.393-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2455,7 +2455,7 @@
 		<FiscalName>BANCO VOTORANTIM S.A.</FiscalName>
 		<FantasyName>BANCO VOTORANTIM S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.393-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2467,7 +2467,7 @@
 		<FiscalName>BANCO MATRIX S.A</FiscalName>
 		<FantasyName>BANCO MATRIX S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.397-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2479,7 +2479,7 @@
 		<FiscalName>BANCO TECNICORP S.A</FiscalName>
 		<FantasyName>BANCO TECNICORP S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.397-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2491,7 +2491,7 @@
 		<FiscalName>BANCO PORTO REAL S.A</FiscalName>
 		<FantasyName>BANCO PORTO REAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.397-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2503,7 +2503,7 @@
 		<FiscalName>BANCO SANTOS S.A</FiscalName>
 		<FantasyName>BANCO SANTOS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.397-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2515,7 +2515,7 @@
 		<FiscalName>BANCO INVESTCORP S.A.</FiscalName>
 		<FantasyName>BANCO INVESTCORP S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2527,7 +2527,7 @@
 		<FiscalName>BANCO DAYCOVAL S.A</FiscalName>
 		<FantasyName>BANCO DAYCOVAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2539,7 +2539,7 @@
 		<FiscalName>BANCO VETOR S.A.</FiscalName>
 		<FantasyName>BANCO VETOR S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2551,7 +2551,7 @@
 		<FiscalName>BANCO CINDAM S.A</FiscalName>
 		<FantasyName>BANCO CINDAM S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2563,7 +2563,7 @@
 		<FiscalName>BANCO VEGA S.A</FiscalName>
 		<FantasyName>BANCO VEGA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2575,7 +2575,7 @@
 		<FiscalName>BANCO OPERADOR S.A</FiscalName>
 		<FantasyName>BANCO OPERADOR S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2587,7 +2587,7 @@
 		<FiscalName>BANCO PRIMUS S.A</FiscalName>
 		<FantasyName>BANCO PRIMUS S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.400-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2599,7 +2599,7 @@
 		<FiscalName>BANCO MAXINVEST S.A</FiscalName>
 		<FantasyName>BANCO MAXINVEST S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.403-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2611,7 +2611,7 @@
 		<FiscalName>BANCO CREDIBEL S.A</FiscalName>
 		<FantasyName>BANCO CREDIBEL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.403-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2623,7 +2623,7 @@
 		<FiscalName>BANCO INTERIOR DE SAO PAULO S.A</FiscalName>
 		<FantasyName>BANCO INTERIOR DE SAO PAULO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.403-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2635,7 +2635,7 @@
 		<FiscalName>BANCO PORTO SEGURO S.A</FiscalName>
 		<FantasyName>BANCO PORTO SEGURO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.403-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2647,7 +2647,7 @@
 		<FiscalName>BANCO FINABANCO S.A</FiscalName>
 		<FantasyName>BANCO FINABANCO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.407-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2659,7 +2659,7 @@
 		<FiscalName>BANCO UNIVERSAL S.A</FiscalName>
 		<FantasyName>BANCO UNIVERSAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.407-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2671,7 +2671,7 @@
 		<FiscalName>BANCO FITAL S.A</FiscalName>
 		<FantasyName>BANCO FITAL S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.407-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2683,7 +2683,7 @@
 		<FiscalName>BANCO FONTE S.A</FiscalName>
 		<FantasyName>BANCO FONTE S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.407-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2695,7 +2695,7 @@
 		<FiscalName>BANCO COMERCIAL PARAGUAYO S.A</FiscalName>
 		<FantasyName>BANCO COMERCIAL PARAGUAYO S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.407-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2707,7 +2707,7 @@
 		<FiscalName>BANCO GNPP S.A.</FiscalName>
 		<FantasyName>BANCO GNPP S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.410-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2719,7 +2719,7 @@
 		<FiscalName>BANCO PREMIER S.A.</FiscalName>
 		<FantasyName>BANCO PREMIER S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.410-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2731,7 +2731,7 @@
 		<FiscalName>BANCO NACOES S.A.</FiscalName>
 		<FantasyName>BANCO NACOES S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.410-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2743,7 +2743,7 @@
 		<FiscalName>BANCO GERDAU S.A</FiscalName>
 		<FantasyName>BANCO GERDAU S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.410-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2755,9 +2755,9 @@
 		<FiscalName>BANCO NEON</FiscalName>
 		<FantasyName>BANCO NEON</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
-		<DateUpdated>2019-11-12 19:15:00.000</DateUpdated>
-		<DateRemoved>2019-11-12 19:15:00.000</DateRemoved>
+		<DateRegistered>2018-01-29T15:12:24.410-0300</DateRegistered>
+		<DateUpdated>2019-11-12T19:15:00.000-0300</DateUpdated>
+		<DateRemoved>2019-11-12T19:15:00.000-0300</DateRemoved>
 		<IsRemoved>true</IsRemoved>
 	</bank>
 	<bank>
@@ -2767,7 +2767,7 @@
 		<FiscalName>BANCO UNITED S.A</FiscalName>
 		<FantasyName>BANCO UNITED S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.410-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2779,7 +2779,7 @@
 		<FiscalName>THECA</FiscalName>
 		<FantasyName>THECA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.413-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2791,7 +2791,7 @@
 		<FiscalName>MARADA</FiscalName>
 		<FantasyName>MARADA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.413-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2803,7 +2803,7 @@
 		<FiscalName>BGN</FiscalName>
 		<FantasyName>BGN</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.413-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2815,7 +2815,7 @@
 		<FiscalName>BCN BARCLAYS</FiscalName>
 		<FantasyName>BCN BARCLAYS</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.413-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2827,7 +2827,7 @@
 		<FiscalName>BRP</FiscalName>
 		<FantasyName>BRP</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.413-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2839,7 +2839,7 @@
 		<FiscalName>EQUATORIAL</FiscalName>
 		<FantasyName>EQUATORIAL</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.417-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2851,7 +2851,7 @@
 		<FiscalName>BANCO EMBLEMA S.A</FiscalName>
 		<FantasyName>BANCO EMBLEMA S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.417-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2863,7 +2863,7 @@
 		<FiscalName>THE FIRST NATIONAL BANK OF BOSTON</FiscalName>
 		<FantasyName>THE FIRST NATIONAL BANK OF BOSTON</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.417-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2875,7 +2875,7 @@
 		<FiscalName>MODAL S\A</FiscalName>
 		<FantasyName>MODAL S\A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.417-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2887,7 +2887,7 @@
 		<FiscalName>RABOBANK DO BRASIL</FiscalName>
 		<FantasyName>RABOBANK DO BRASIL</FantasyName>
 		<Url>https://www.rabobank.com.br</Url>
-		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.420-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2899,7 +2899,7 @@
 		<FiscalName>SICREDI</FiscalName>
 		<FantasyName>SICREDI</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.420-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2911,7 +2911,7 @@
 		<FiscalName>BRMSANTIL SA</FiscalName>
 		<FantasyName>BRMSANTIL SA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.420-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2923,7 +2923,7 @@
 		<FiscalName>BANCO REPUBLIC NATIONAL OF NEW YORK (BRA</FiscalName>
 		<FantasyName>BANCO REPUBLIC NATIONAL OF NEW YORK (BRA</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.420-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2935,7 +2935,7 @@
 		<FiscalName>DRESDNER BANK LATEINAMERIKA-BRASIL S/A</FiscalName>
 		<FantasyName>DRESDNER BANK LATEINAMERIKA-BRASIL S/A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.420-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2947,7 +2947,7 @@
 		<FiscalName>BANCO BANQUE NATIONALE DE PARIS BRASIL S</FiscalName>
 		<FantasyName>BANCO BANQUE NATIONALE DE PARIS BRASIL S</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.420-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2959,7 +2959,7 @@
 		<FiscalName>BANCO COMERCIAL URUGUAI S.A.</FiscalName>
 		<FantasyName>BANCO COMERCIAL URUGUAI S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.423-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2971,7 +2971,7 @@
 		<FiscalName>BANCO MERRILL LYNCH S.A</FiscalName>
 		<FantasyName>BANCO MERRILL LYNCH S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.423-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2983,7 +2983,7 @@
 		<FiscalName>BANCO KEB DO BRASIL S.A.</FiscalName>
 		<FantasyName>BANCO KEB DO BRASIL S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
+		<DateRegistered>2018-01-29T15:12:24.423-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -2995,7 +2995,7 @@
 		<FiscalName>NUBANK</FiscalName>
 		<FantasyName>NUBANK</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 16:47:35.153</DateRegistered>
+		<DateRegistered>2018-01-29T16:47:35.153-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3007,7 +3007,7 @@
 		<FiscalName>XP INVESTIMENTOS</FiscalName>
 		<FantasyName>XP INVESTIMENTOS</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2018-01-29 16:47:35.210</DateRegistered>
+		<DateRegistered>2018-01-29T16:47:35.210-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3019,7 +3019,7 @@
 		<FiscalName>BANCO C6 S.A.</FiscalName>
 		<FantasyName>BANCO C6 S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2019-08-02 13:11:00.000</DateRegistered>
+		<DateRegistered>2019-08-02T13:11:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3031,7 +3031,7 @@
 		<FiscalName>PagSeguro Internet S.A</FiscalName>
 		<FantasyName>PagSeguro Internet S.A</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2019-08-21 12:49:00.000</DateRegistered>
+		<DateRegistered>2019-08-21T12:49:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3043,7 +3043,7 @@
 		<FiscalName>MercadoPago.com Representações Ltda.</FiscalName>
 		<FantasyName>MercadoPago.com Representações Ltda.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2019-09-13 15:23:00.000</DateRegistered>
+		<DateRegistered>2019-09-13T15:23:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3055,7 +3055,7 @@
 		<FiscalName>Acesso Soluções de Pagamento S.A.</FiscalName>
 		<FantasyName>Acesso Soluções de Pagamento S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2019-12-26 15:00:00.000</DateRegistered>
+		<DateRegistered>2019-12-26T15:00:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3067,7 +3067,7 @@
 		<FiscalName>Órama DTVM S.A.</FiscalName>
 		<FantasyName>Órama DTVM S.A.</FantasyName>
 		<Url null="true" />
-		<DateRegistered>2020-01-15 19:27:00.000</DateRegistered>
+		<DateRegistered>2020-01-15T19:27:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3079,7 +3079,7 @@
 		<FiscalName>COOPERATIVA CENTRAL DE CREDITO - AILOS</FiscalName>
 		<FantasyName>COOPERATIVA CENTRAL DE CREDITO - AILOS</FantasyName>
 		<Url>>https://www.ailos.coop.br</Url>		
-		<DateRegistered>2020-03-20 18:04:00.000</DateRegistered>
+		<DateRegistered>2020-03-20T18:04:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3091,7 +3091,7 @@
 		<FiscalName>PLURAL S.A. BANCO MULTIPLO</FiscalName>
 		<FantasyName>PLURAL S.A. BANCO MULTIPLO</FantasyName>
 		<Url>https://www.bancoplural.com/</Url>
-		<DateRegistered>2020-03-20 18:13:00.000</DateRegistered>
+		<DateRegistered>2020-03-20T18:13:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
@@ -3103,7 +3103,7 @@
 		<FiscalName>STONE PAGAMENTOS S.A.</FiscalName>
 		<FantasyName>STONE PAGAMENTOS S.A.</FantasyName>
 		<Url>https://www.stone.com.br/</Url>
-		<DateRegistered>2020-04-24 12:58:00.000</DateRegistered>
+		<DateRegistered>2020-04-24T12:58:00.000-0300</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
 		<IsRemoved>false</IsRemoved>
