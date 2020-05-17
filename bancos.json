@@ -1,2088 +1,2088 @@
 [
   {
-    "Code": "001",
+    "COMPE": "001",
     "Name": "BANCO DO BRASIL",
 	  "Document": "00.000.000/0001-91",
-    "CreatedAt": "2017-04-19 15:52:42.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 15:52:42.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "341",
+    "COMPE": "341",
     "Name": "ITAÚ",
-    "CreatedAt": "2017-04-19 15:53:59.107",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 15:53:59.107",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "104",
+    "COMPE": "104",
     "Name": "CAIXA ECONÔMICA FEDERAL",
-    "CreatedAt": "2017-04-19 15:54:41.200",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 15:54:41.200",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "033",
+    "COMPE": "033",
     "Name": "SANTANDER",
-    "CreatedAt": "2017-04-19 15:55:59.197",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 15:55:59.197",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "070",
+    "COMPE": "070",
     "Name": "BRB - BANCO DE BRASÍLIA",
-    "CreatedAt": "2017-04-19 15:58:17.387",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 15:58:17.387",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "077",
+    "COMPE": "077",
     "Name": "BANCO INTER",
     "Document": "00.416.968/0001-01",
-    "CreatedAt": "2017-04-19 15:58:39.887",
-    "UpdatedAt": "2020-04-29 11:08:00.000",
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 15:58:39.887",
+    "DateUpdated": "2020-04-29 11:08:00.000",
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "237",
+    "COMPE": "237",
     "Name": "BRADESCO",
-    "CreatedAt": "2017-04-19 16:00:31.407",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 16:00:31.407",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "745",
+    "COMPE": "745",
     "Name": "CITIBANK",
-    "CreatedAt": "2017-04-19 16:01:50.353",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 16:01:50.353",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "422",
+    "COMPE": "422",
     "Name": "BANCO SAFRA",
-    "CreatedAt": "2017-04-19 16:04:20.790",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 16:04:20.790",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "399",
+    "COMPE": "399",
     "Name": "BANCO HSBC",
-    "CreatedAt": "2017-04-19 16:05:20.353",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-04-19 16:05:20.353",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "756",
+    "COMPE": "756",
     "Name": "BANCOOB",
-    "CreatedAt": "2017-08-01 22:29:11.827",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-08-01 22:29:11.827",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "212",
+    "COMPE": "212",
     "Name": "BANCO ORIGINAL",
-    "CreatedAt": "2017-10-11 20:33:06.803",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2017-10-11 20:33:06.803",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "002",
+    "COMPE": "002",
     "Name": "BANCO CENTRAL DO BRASIL",
-    "CreatedAt": "2018-01-29 15:12:24.270",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.270",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "003",
+    "COMPE": "003",
     "Name": "BANCO DA AMAZONIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.270",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.270",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "004",
+    "COMPE": "004",
     "Name": "BANCO DO NORDESTE DO BRASIL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.270",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.270",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "007",
+    "COMPE": "007",
     "Name": "BANCO NAC DESENV. ECO. SOCIAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.270",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.270",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "008",
+    "COMPE": "008",
     "Name": "BANCO MERIDIONAL DO BRASIL",
-    "CreatedAt": "2018-01-29 15:12:24.270",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.270",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "020",
+    "COMPE": "020",
     "Name": "BANCO DO ESTADO DE ALAGOAS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.270",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.270",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "021",
+    "COMPE": "021",
     "Name": "BANCO DO ESTADO DO ESPIRITO SANTO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.270",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.270",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "022",
+    "COMPE": "022",
     "Name": "BANCO DE CREDITO REAL DE MINAS GERAIS SA",
-    "CreatedAt": "2018-01-29 15:12:24.273",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.273",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "024",
+    "COMPE": "024",
     "Name": "BANCO DO ESTADO DE PERNAMBUCO",
-    "CreatedAt": "2018-01-29 15:12:24.273",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.273",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "025",
+    "COMPE": "025",
     "Name": "BANCO ALFA S/A",
-    "CreatedAt": "2018-01-29 15:12:24.273",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.273",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "026",
+    "COMPE": "026",
     "Name": "BANCO DO ESTADO DO ACRE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.273",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.273",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "027",
+    "COMPE": "027",
     "Name": "BANCO DO ESTADO DE SANTA CATARINA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.273",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.273",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "028",
+    "COMPE": "028",
     "Name": "BANCO DO ESTADO DA BAHIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.277",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.277",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "029",
+    "COMPE": "029",
     "Name": "BANCO DO ESTADO DO RIO DE JANEIRO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.277",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.277",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "030",
+    "COMPE": "030",
     "Name": "BANCO DO ESTADO DA PARAIBA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.277",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.277",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "031",
+    "COMPE": "031",
     "Name": "BANCO DO ESTADO DE GOIAS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.277",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.277",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "032",
+    "COMPE": "032",
     "Name": "BANCO DO ESTADO DO MATO GROSSO S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.277",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.277",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "034",
+    "COMPE": "034",
     "Name": "BANCO DO ESADO DO AMAZONAS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.280",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.280",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "035",
+    "COMPE": "035",
     "Name": "BANCO DO ESTADO DO CEARA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.280",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.280",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "036",
+    "COMPE": "036",
     "Name": "BANCO DO ESTADO DO MARANHAO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.280",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.280",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "037",
+    "COMPE": "037",
     "Name": "BANCO DO ESTADO DO PARA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.280",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.280",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "038",
+    "COMPE": "038",
     "Name": "BANCO DO ESTADO DO PARANA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.280",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.280",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "039",
+    "COMPE": "039",
     "Name": "BANCO DO ESTADO DO PIAUI S.A",
-    "CreatedAt": "2018-01-29 15:12:24.280",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.280",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "041",
+    "COMPE": "041",
     "Name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.283",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.283",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "047",
+    "COMPE": "047",
     "Name": "BANCO DO ESTADO DE SERGIPE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.283",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.283",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "048",
+    "COMPE": "048",
     "Name": "BANCO DO ESTADO DE MINAS GERAIS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.283",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.283",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "059",
+    "COMPE": "059",
     "Name": "BANCO DO ESTADO DE RONDONIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.283",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.283",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "106",
+    "COMPE": "106",
     "Name": "BANCO ITABANCO S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.287",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.287",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "107",
+    "COMPE": "107",
     "Name": "BANCO BBM S.A",
-    "CreatedAt": "2018-01-29 15:12:24.287",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.287",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "109",
+    "COMPE": "109",
     "Name": "BANCO CREDIBANCO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.290",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.290",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "116",
+    "COMPE": "116",
     "Name": "BANCO B.N.L DO BRASIL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.290",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.290",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "148",
+    "COMPE": "148",
     "Name": "MULTI BANCO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.290",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.290",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "151",
+    "COMPE": "151",
     "Name": "CAIXA ECONOMICA DO ESTADO DE SAO PAULO",
-    "CreatedAt": "2018-01-29 15:12:24.290",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.290",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "153",
+    "COMPE": "153",
     "Name": "CAIXA ECONOMICA DO ESTADO DO R.G.SUL",
-    "CreatedAt": "2018-01-29 15:12:24.290",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.290",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "165",
+    "COMPE": "165",
     "Name": "BANCO NORCHEM S.A",
-    "CreatedAt": "2018-01-29 15:12:24.290",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.290",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "166",
+    "COMPE": "166",
     "Name": "BANCO INTER-ATLANTICO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.293",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.293",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "168",
+    "COMPE": "168",
     "Name": "BANCO C.C.F. BRASIL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.293",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.293",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "175",
+    "COMPE": "175",
     "Name": "CONTINENTAL BANCO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.293",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.293",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "184",
+    "COMPE": "184",
     "Name": "BBA - CREDITANSTALT S.A",
-    "CreatedAt": "2018-01-29 15:12:24.293",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.293",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "199",
+    "COMPE": "199",
     "Name": "BANCO FINANCIAL PORTUGUES",
-    "CreatedAt": "2018-01-29 15:12:24.293",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.293",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "200",
+    "COMPE": "200",
     "Name": "BANCO FRICRISA AXELRUD S.A",
-    "CreatedAt": "2018-01-29 15:12:24.297",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.297",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "201",
+    "COMPE": "201",
     "Name": "BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.297",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.297",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "204",
+    "COMPE": "204",
     "Name": "BANCO S.R.L S.A",
-    "CreatedAt": "2018-01-29 15:12:24.297",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.297",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "205",
+    "COMPE": "205",
     "Name": "BANCO SUL AMERICA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.297",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.297",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "206",
+    "COMPE": "206",
     "Name": "BANCO MARTINELLI S.A",
-    "CreatedAt": "2018-01-29 15:12:24.297",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.297",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "208",
+    "COMPE": "208",
     "Name": "BANCO PACTUAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.300",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.300",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "210",
+    "COMPE": "210",
     "Name": "DEUTSCH SUDAMERIKANICHE BANK AG",
-    "CreatedAt": "2018-01-29 15:12:24.300",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.300",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "211",
+    "COMPE": "211",
     "Name": "BANCO SISTEMA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.300",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.300",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "213",
+    "COMPE": "213",
     "Name": "BANCO ARBI S.A",
-    "CreatedAt": "2018-01-29 15:12:24.300",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.300",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "214",
+    "COMPE": "214",
     "Name": "BANCO DIBENS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.303",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.303",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "215",
+    "COMPE": "215",
     "Name": "BANCO AMERICA DO SUL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.303",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.303",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "216",
+    "COMPE": "216",
     "Name": "BANCO REGIONAL MALCON S.A",
-    "CreatedAt": "2018-01-29 15:12:24.303",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.303",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "217",
+    "COMPE": "217",
     "Name": "BANCO AGROINVEST S.A",
-    "CreatedAt": "2018-01-29 15:12:24.303",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.303",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "218",
+    "COMPE": "218",
     "Name": "BS2",
 	"Document": "71.027.866/0001-34",
-    "CreatedAt": "2018-01-29 15:12:24.303",
-    "UpdatedAt": "2019-05-21 08:14:51.000",
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.303",
+    "DateUpdated": "2019-05-21 08:14:51.000",
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "219",
+    "COMPE": "219",
     "Name": "BANCO DE CREDITO DE SAO PAULO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.307",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.307",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "220",
+    "COMPE": "220",
     "Name": "BANCO CREFISUL",
-    "CreatedAt": "2018-01-29 15:12:24.307",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.307",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "221",
+    "COMPE": "221",
     "Name": "BANCO GRAPHUS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.307",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.307",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "222",
+    "COMPE": "222",
     "Name": "BANCO AGF BRASIL S. A.",
-    "CreatedAt": "2018-01-29 15:12:24.307",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.307",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "223",
+    "COMPE": "223",
     "Name": "BANCO INTERUNION S.A",
-    "CreatedAt": "2018-01-29 15:12:24.307",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.307",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "224",
+    "COMPE": "224",
     "Name": "BANCO FIBRA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.307",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.307",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "225",
+    "COMPE": "225",
     "Name": "BANCO BRASCAN S.A",
-    "CreatedAt": "2018-01-29 15:12:24.310",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.310",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "228",
+    "COMPE": "228",
     "Name": "BANCO ICATU S.A",
-    "CreatedAt": "2018-01-29 15:12:24.310",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.310",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "229",
+    "COMPE": "229",
     "Name": "BANCO CRUZEIRO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.310",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.310",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "230",
+    "COMPE": "230",
     "Name": "BANCO BANDEIRANTES S.A",
-    "CreatedAt": "2018-01-29 15:12:24.310",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.310",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "231",
+    "COMPE": "231",
     "Name": "BANCO BOAVISTA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.310",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.310",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "232",
+    "COMPE": "232",
     "Name": "BANCO INTERPART S.A",
-    "CreatedAt": "2018-01-29 15:12:24.310",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.310",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "233",
+    "COMPE": "233",
     "Name": "BANCO MAPPIN S.A",
-    "CreatedAt": "2018-01-29 15:12:24.313",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.313",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "234",
+    "COMPE": "234",
     "Name": "BANCO LAVRA S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.313",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.313",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "235",
+    "COMPE": "235",
     "Name": "BANCO LIBERAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.313",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.313",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "236",
+    "COMPE": "236",
     "Name": "BANCO CAMBIAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.313",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.313",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "239",
+    "COMPE": "239",
     "Name": "BANCO BANCRED S.A",
-    "CreatedAt": "2018-01-29 15:12:24.317",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.317",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "240",
+    "COMPE": "240",
     "Name": "BANCO DE CREDITO REAL DE MINAS GERAIS S.",
-    "CreatedAt": "2018-01-29 15:12:24.317",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.317",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "241",
+    "COMPE": "241",
     "Name": "BANCO CLASSICO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.317",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.317",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "242",
+    "COMPE": "242",
     "Name": "BANCO EUROINVEST S.A",
-    "CreatedAt": "2018-01-29 15:12:24.317",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.317",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "243",
+    "COMPE": "243",
     "Name": "BANCO MÁXIMA S.A",
     "Document": "33.923.798/0001-00",
-    "CreatedAt": "2018-01-29 15:12:24.317",
-    "UpdatedAt": "2020-03-20 17:00:00.000",
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.317",
+    "DateUpdated": "2020-03-20 17:00:00.000",
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "244",
+    "COMPE": "244",
     "Name": "BANCO CIDADE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.320",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.320",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "245",
+    "COMPE": "245",
     "Name": "BANCO EMPRESARIAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.320",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.320",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "246",
+    "COMPE": "246",
     "Name": "BANCO ABC ROMA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.320",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.320",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "247",
+    "COMPE": "247",
     "Name": "BANCO OMEGA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.320",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.320",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "249",
+    "COMPE": "249",
     "Name": "BANCO INVESTCRED S.A",
-    "CreatedAt": "2018-01-29 15:12:24.320",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.320",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "250",
+    "COMPE": "250",
     "Name": "BANCO SCHAHIN CURY S.A",
-    "CreatedAt": "2018-01-29 15:12:24.320",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.320",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "251",
+    "COMPE": "251",
     "Name": "BANCO SAO JORGE S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.323",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.323",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "252",
+    "COMPE": "252",
     "Name": "BANCO FININVEST S.A",
-    "CreatedAt": "2018-01-29 15:12:24.323",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.323",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "254",
+    "COMPE": "254",
     "Name": "BANCO PARANA BANCO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.323",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.323",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "255",
+    "COMPE": "255",
     "Name": "MILBANCO S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.323",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.323",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "256",
+    "COMPE": "256",
     "Name": "BANCO GULVINVEST S.A",
-    "CreatedAt": "2018-01-29 15:12:24.323",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.323",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "258",
+    "COMPE": "258",
     "Name": "BANCO INDUSCRED S.A",
-    "CreatedAt": "2018-01-29 15:12:24.327",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.327",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "261",
+    "COMPE": "261",
     "Name": "BANCO VARIG S.A",
-    "CreatedAt": "2018-01-29 15:12:24.327",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.327",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "262",
+    "COMPE": "262",
     "Name": "BANCO BOREAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.327",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.327",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "263",
+    "COMPE": "263",
     "Name": "BANCO CACIQUE",
-    "CreatedAt": "2018-01-29 15:12:24.327",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.327",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "264",
+    "COMPE": "264",
     "Name": "BANCO PERFORMANCE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.330",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.330",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "265",
+    "COMPE": "265",
     "Name": "BANCO FATOR S.A",
-    "CreatedAt": "2018-01-29 15:12:24.330",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.330",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "266",
+    "COMPE": "266",
     "Name": "BANCO CEDULA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.330",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.330",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "267",
+    "COMPE": "267",
     "Name": "BANCO BBM-COM.C.IMOB.CFI S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.330",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.330",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "275",
+    "COMPE": "275",
     "Name": "BANCO REAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.330",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.330",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "277",
+    "COMPE": "277",
     "Name": "BANCO PLANIBANC S.A",
-    "CreatedAt": "2018-01-29 15:12:24.330",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.330",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "282",
+    "COMPE": "282",
     "Name": "BANCO BRASILEIRO COMERCIAL",
-    "CreatedAt": "2018-01-29 15:12:24.330",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.330",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "291",
+    "COMPE": "291",
     "Name": "BANCO DE CREDITO NACIONAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.333",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.333",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "294",
+    "COMPE": "294",
     "Name": "BCR - BANCO DE CREDITO REAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.333",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.333",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "295",
+    "COMPE": "295",
     "Name": "BANCO CREDIPLAN S.A",
-    "CreatedAt": "2018-01-29 15:12:24.333",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.333",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "300",
+    "COMPE": "300",
     "Name": "BANCO DE LA NACION ARGENTINA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.333",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.333",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "302",
+    "COMPE": "302",
     "Name": "BANCO DO PROGRESSO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.337",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.337",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "303",
+    "COMPE": "303",
     "Name": "BANCO HNF S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.337",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.337",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "304",
+    "COMPE": "304",
     "Name": "BANCO PONTUAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.337",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.337",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "308",
+    "COMPE": "308",
     "Name": "BANCO COMERCIAL BANCESA S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.337",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.337",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "318",
+    "COMPE": "318",
     "Name": "BANCO B.M.G. S.A",
-    "CreatedAt": "2018-01-29 15:12:24.337",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.337",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "320",
+    "COMPE": "320",
     "Name": "BANCO INDUSTRIAL E COMERCIAL",
-    "CreatedAt": "2018-01-29 15:12:24.340",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.340",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "346",
+    "COMPE": "346",
     "Name": "BANCO FRANCES E BRASILEIRO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.340",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.340",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "347",
+    "COMPE": "347",
     "Name": "BANCO SUDAMERIS BRASIL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.340",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.340",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "351",
+    "COMPE": "351",
     "Name": "BANCO BOZANO SIMONSEN S.A",
-    "CreatedAt": "2018-01-29 15:12:24.340",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.340",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "353",
+    "COMPE": "353",
     "Name": "BANCO GERAL DO COMERCIO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.340",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.340",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "356",
+    "COMPE": "356",
     "Name": "ABN AMRO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.340",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.340",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "366",
+    "COMPE": "366",
     "Name": "BANCO SOGERAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.343",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.343",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "369",
+    "COMPE": "369",
     "Name": "PONTUAL",
-    "CreatedAt": "2018-01-29 15:12:24.343",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.343",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "370",
+    "COMPE": "370",
     "Name": "BEAL - BANCO EUROPEU PARA AMERICA LATINA",
-    "CreatedAt": "2018-01-29 15:12:24.343",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.343",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "372",
+    "COMPE": "372",
     "Name": "BANCO ITAMARATI S.A",
-    "CreatedAt": "2018-01-29 15:12:24.347",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.347",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "375",
+    "COMPE": "375",
     "Name": "BANCO FENICIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.347",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.347",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "376",
+    "COMPE": "376",
     "Name": "CHASE MANHATTAN BANK S.A",
-    "CreatedAt": "2018-01-29 15:12:24.347",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.347",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "388",
+    "COMPE": "388",
     "Name": "BANCO MERCANTIL DE DESCONTOS S/A",
-    "CreatedAt": "2018-01-29 15:12:24.347",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.347",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "389",
+    "COMPE": "389",
     "Name": "BANCO MERCANTIL DO BRASIL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.347",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.347",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "392",
+    "COMPE": "392",
     "Name": "BANCO MERCANTIL DE SAO PAULO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.350",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.350",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "394",
+    "COMPE": "394",
     "Name": "BANCO B.M.C. S.A",
-    "CreatedAt": "2018-01-29 15:12:24.350",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.350",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "409",
+    "COMPE": "409",
     "Name": "UNIBANCO - UNIAO DOS BANCOS BRASILEIROS",
-    "CreatedAt": "2018-01-29 15:12:24.350",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.350",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "412",
+    "COMPE": "412",
     "Name": "BANCO NACIONAL DA BAHIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.350",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.350",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "415",
+    "COMPE": "415",
     "Name": "BANCO NACIONAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.350",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.350",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "420",
+    "COMPE": "420",
     "Name": "BANCO NACIONAL DO NORTE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.350",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.350",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "424",
+    "COMPE": "424",
     "Name": "BANCO NOROESTE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.353",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.353",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "434",
+    "COMPE": "434",
     "Name": "BANCO FORTALEZA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.353",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.353",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "453",
+    "COMPE": "453",
     "Name": "BANCO RURAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.353",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.353",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "456",
+    "COMPE": "456",
     "Name": "BANCO TOKIO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.353",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.353",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "464",
+    "COMPE": "464",
     "Name": "BANCO SUMITOMO BRASILEIRO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.357",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.357",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "466",
+    "COMPE": "466",
     "Name": "BANCO MITSUBISHI BRASILEIRO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.357",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.357",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "472",
+    "COMPE": "472",
     "Name": "LLOYDS BANK PLC",
-    "CreatedAt": "2018-01-29 15:12:24.357",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.357",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "473",
+    "COMPE": "473",
     "Name": "BANCO FINANCIAL PORTUGUES S.A",
-    "CreatedAt": "2018-01-29 15:12:24.357",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.357",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "477",
+    "COMPE": "477",
     "Name": "CITIBANK N.A",
-    "CreatedAt": "2018-01-29 15:12:24.357",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.357",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "479",
+    "COMPE": "479",
     "Name": "BANCO DE BOSTON S.A",
-    "CreatedAt": "2018-01-29 15:12:24.360",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.360",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "480",
+    "COMPE": "480",
     "Name": "BANCO PORTUGUES DO ATLANTICO-BRASIL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.360",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.360",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "483",
+    "COMPE": "483",
     "Name": "BANCO AGRIMISA S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.360",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.360",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "487",
+    "COMPE": "487",
     "Name": "DEUTSCHE BANK S.A - BANCO ALEMAO",
-    "CreatedAt": "2018-01-29 15:12:24.360",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.360",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "488",
+    "COMPE": "488",
     "Name": "BANCO J. P. MORGAN S.A",
-    "CreatedAt": "2018-01-29 15:12:24.360",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.360",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "489",
+    "COMPE": "489",
     "Name": "BANESTO BANCO URUGAUAY S.A",
-    "CreatedAt": "2018-01-29 15:12:24.360",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.360",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "492",
+    "COMPE": "492",
     "Name": "INTERNATIONALE NEDERLANDEN BANK N.V.",
-    "CreatedAt": "2018-01-29 15:12:24.363",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.363",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "493",
+    "COMPE": "493",
     "Name": "BANCO UNION S.A.C.A",
-    "CreatedAt": "2018-01-29 15:12:24.363",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.363",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "494",
+    "COMPE": "494",
     "Name": "BANCO LA REP. ORIENTAL DEL URUGUAY",
-    "CreatedAt": "2018-01-29 15:12:24.363",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.363",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "495",
+    "COMPE": "495",
     "Name": "BANCO LA PROVINCIA DE BUENOS AIRES",
-    "CreatedAt": "2018-01-29 15:12:24.363",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.363",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "496",
+    "COMPE": "496",
     "Name": "BANCO EXTERIOR DE ESPANA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.363",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.363",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "498",
+    "COMPE": "498",
     "Name": "CENTRO HISPANO BANCO",
-    "CreatedAt": "2018-01-29 15:12:24.367",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.367",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "499",
+    "COMPE": "499",
     "Name": "BANCO IOCHPE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.367",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.367",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "501",
+    "COMPE": "501",
     "Name": "BANCO BRASILEIRO IRAQUIANO S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.367",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.367",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "502",
+    "COMPE": "502",
     "Name": "BANCO SANTANDER S.A",
-    "CreatedAt": "2018-01-29 15:12:24.367",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.367",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "504",
+    "COMPE": "504",
     "Name": "BANCO MULTIPLIC S.A",
-    "CreatedAt": "2018-01-29 15:12:24.367",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.367",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "505",
+    "COMPE": "505",
     "Name": "BANCO GARANTIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.370",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.370",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "600",
+    "COMPE": "600",
     "Name": "BANCO LUSO BRASILEIRO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.370",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.370",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "601",
+    "COMPE": "601",
     "Name": "BFC BANCO S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.370",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.370",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "602",
+    "COMPE": "602",
     "Name": "BANCO PATENTE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.370",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.370",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "604",
+    "COMPE": "604",
     "Name": "BANCO INDUSTRIAL DO BRASIL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.370",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.370",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "607",
+    "COMPE": "607",
     "Name": "BANCO SANTOS NEVES S.A",
-    "CreatedAt": "2018-01-29 15:12:24.373",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.373",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "608",
+    "COMPE": "608",
     "Name": "BANCO OPEN S.A",
-    "CreatedAt": "2018-01-29 15:12:24.373",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.373",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "610",
+    "COMPE": "610",
     "Name": "BANCO V.R. S.A",
-    "CreatedAt": "2018-01-29 15:12:24.373",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.373",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "611",
+    "COMPE": "611",
     "Name": "BANCO PAULISTA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.373",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.373",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "612",
+    "COMPE": "612",
     "Name": "BANCO GUANABARA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.377",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.377",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "613",
+    "COMPE": "613",
     "Name": "BANCO PECUNIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.377",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.377",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "616",
+    "COMPE": "616",
     "Name": "BANCO INTERPACIFICO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.377",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.377",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "617",
+    "COMPE": "617",
     "Name": "BANCO INVESTOR S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.377",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.377",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "618",
+    "COMPE": "618",
     "Name": "BANCO TENDENCIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.377",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.377",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "621",
+    "COMPE": "621",
     "Name": "BANCO APLICAP S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.380",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.380",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "622",
+    "COMPE": "622",
     "Name": "BANCO DRACMA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.380",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.380",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "623",
+    "COMPE": "623",
     "Name": "BANCO PANAMERICANO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.380",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.380",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "624",
+    "COMPE": "624",
     "Name": "BANCO GENERAL MOTORS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.380",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.380",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "625",
+    "COMPE": "625",
     "Name": "BANCO ARAUCARIA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.380",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.380",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "626",
+    "COMPE": "626",
     "Name": "BANCO FICSA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.380",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.380",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "627",
+    "COMPE": "627",
     "Name": "BANCO DESTAK S.A",
-    "CreatedAt": "2018-01-29 15:12:24.383",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.383",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "628",
+    "COMPE": "628",
     "Name": "BANCO CRITERIUM S.A",
-    "CreatedAt": "2018-01-29 15:12:24.383",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.383",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "629",
+    "COMPE": "629",
     "Name": "BANCORP BANCO COML. E. DE INVESTMENTO",
-    "CreatedAt": "2018-01-29 15:12:24.383",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.383",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "630",
+    "COMPE": "630",
     "Name": "BANCO INTERCAP S.A",
-    "CreatedAt": "2018-01-29 15:12:24.383",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.383",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "633",
+    "COMPE": "633",
     "Name": "BANCO REDIMENTO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.383",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.383",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "634",
+    "COMPE": "634",
     "Name": "BANCO TRIANGULO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.387",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.387",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "635",
+    "COMPE": "635",
     "Name": "BANCO DO ESTADO DO AMAPA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.387",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.387",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "637",
+    "COMPE": "637",
     "Name": "BANCO SOFISA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.387",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.387",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "638",
+    "COMPE": "638",
     "Name": "BANCO PROSPER S.A",
-    "CreatedAt": "2018-01-29 15:12:24.387",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.387",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "639",
+    "COMPE": "639",
     "Name": "BIG S.A. - BANCO IRMAOS GUIMARAES",
-    "CreatedAt": "2018-01-29 15:12:24.387",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.387",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "640",
+    "COMPE": "640",
     "Name": "BANCO DE CREDITO METROPOLITANO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.390",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.390",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "641",
+    "COMPE": "641",
     "Name": "BANCO EXCEL ECONOMICO S/A",
-    "CreatedAt": "2018-01-29 15:12:24.390",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.390",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "643",
+    "COMPE": "643",
     "Name": "BANCO SEGMENTO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.390",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.390",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "645",
+    "COMPE": "645",
     "Name": "BANCO DO ESTADO DE RORAIMA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.390",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.390",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "647",
+    "COMPE": "647",
     "Name": "BANCO MARKA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.390",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.390",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "648",
+    "COMPE": "648",
     "Name": "BANCO ATLANTIS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.390",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.390",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "649",
+    "COMPE": "649",
     "Name": "BANCO DIMENSAO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.390",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.390",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "650",
+    "COMPE": "650",
     "Name": "BANCO PEBB S.A",
-    "CreatedAt": "2018-01-29 15:12:24.393",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.393",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "652",
+    "COMPE": "652",
     "Name": "BANCO FRANCES E BRASILEIRO SA",
-    "CreatedAt": "2018-01-29 15:12:24.393",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.393",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "653",
+    "COMPE": "653",
     "Name": "BANCO INDUSVAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.393",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.393",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "654",
+    "COMPE": "654",
     "Name": "BANCO A. J. RENNER S.A",
-    "CreatedAt": "2018-01-29 15:12:24.393",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.393",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "655",
+    "COMPE": "655",
     "Name": "BANCO VOTORANTIM S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.393",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.393",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "656",
+    "COMPE": "656",
     "Name": "BANCO MATRIX S.A",
-    "CreatedAt": "2018-01-29 15:12:24.397",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.397",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "657",
+    "COMPE": "657",
     "Name": "BANCO TECNICORP S.A",
-    "CreatedAt": "2018-01-29 15:12:24.397",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.397",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "658",
+    "COMPE": "658",
     "Name": "BANCO PORTO REAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.397",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.397",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "702",
+    "COMPE": "702",
     "Name": "BANCO SANTOS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.397",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.397",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "705",
+    "COMPE": "705",
     "Name": "BANCO INVESTCORP S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "707",
+    "COMPE": "707",
     "Name": "BANCO DAYCOVAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "711",
+    "COMPE": "711",
     "Name": "BANCO VETOR S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "713",
+    "COMPE": "713",
     "Name": "BANCO CINDAM S.A",
-    "CreatedAt": "2018-01-29 15:12:24.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "715",
+    "COMPE": "715",
     "Name": "BANCO VEGA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "718",
+    "COMPE": "718",
     "Name": "BANCO OPERADOR S.A",
-    "CreatedAt": "2018-01-29 15:12:24.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "719",
+    "COMPE": "719",
     "Name": "BANCO PRIMUS S.A",
-    "CreatedAt": "2018-01-29 15:12:24.400",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.400",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "720",
+    "COMPE": "720",
     "Name": "BANCO MAXINVEST S.A",
-    "CreatedAt": "2018-01-29 15:12:24.403",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.403",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "721",
+    "COMPE": "721",
     "Name": "BANCO CREDIBEL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.403",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.403",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "722",
+    "COMPE": "722",
     "Name": "BANCO INTERIOR DE SAO PAULO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.403",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.403",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "724",
+    "COMPE": "724",
     "Name": "BANCO PORTO SEGURO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.403",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.403",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "725",
+    "COMPE": "725",
     "Name": "BANCO FINABANCO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.407",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.407",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "726",
+    "COMPE": "726",
     "Name": "BANCO UNIVERSAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.407",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.407",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "728",
+    "COMPE": "728",
     "Name": "BANCO FITAL S.A",
-    "CreatedAt": "2018-01-29 15:12:24.407",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.407",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "729",
+    "COMPE": "729",
     "Name": "BANCO FONTE S.A",
-    "CreatedAt": "2018-01-29 15:12:24.407",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.407",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "730",
+    "COMPE": "730",
     "Name": "BANCO COMERCIAL PARAGUAYO S.A",
-    "CreatedAt": "2018-01-29 15:12:24.407",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.407",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "731",
+    "COMPE": "731",
     "Name": "BANCO GNPP S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.410",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.410",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "732",
+    "COMPE": "732",
     "Name": "BANCO PREMIER S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.410",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.410",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "733",
+    "COMPE": "733",
     "Name": "BANCO NACOES S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.410",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.410",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "734",
+    "COMPE": "734",
     "Name": "BANCO GERDAU S.A",
-    "CreatedAt": "2018-01-29 15:12:24.410",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.410",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "735",
+    "COMPE": "735",
     "Name": "BANCO NEON",
-    "CreatedAt": "2018-01-29 15:12:24.410",
-    "UpdatedAt": "2019-11-12 19:15:00.000",
-    "DeletedAt": "2019-11-12 19:15:00.000",
-    "IsDeleted": true
+    "DateRegistered": "2018-01-29 15:12:24.410",
+    "DateUpdated": "2019-11-12 19:15:00.000",
+    "DateRemoved": "2019-11-12 19:15:00.000",
+    "IsRemoved": true
   },
   {
-    "Code": "736",
+    "COMPE": "736",
     "Name": "BANCO UNITED S.A",
-    "CreatedAt": "2018-01-29 15:12:24.410",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.410",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "737",
+    "COMPE": "737",
     "Name": "THECA",
-    "CreatedAt": "2018-01-29 15:12:24.413",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.413",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "738",
+    "COMPE": "738",
     "Name": "MARADA",
-    "CreatedAt": "2018-01-29 15:12:24.413",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.413",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "739",
+    "COMPE": "739",
     "Name": "BGN",
-    "CreatedAt": "2018-01-29 15:12:24.413",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.413",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "740",
+    "COMPE": "740",
     "Name": "BCN BARCLAYS",
-    "CreatedAt": "2018-01-29 15:12:24.413",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.413",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "741",
+    "COMPE": "741",
     "Name": "BRP",
-    "CreatedAt": "2018-01-29 15:12:24.413",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.413",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "742",
+    "COMPE": "742",
     "Name": "EQUATORIAL",
-    "CreatedAt": "2018-01-29 15:12:24.417",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.417",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "743",
+    "COMPE": "743",
     "Name": "BANCO EMBLEMA S.A",
-    "CreatedAt": "2018-01-29 15:12:24.417",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.417",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "744",
+    "COMPE": "744",
     "Name": "THE FIRST NATIONAL BANK OF BOSTON",
-    "CreatedAt": "2018-01-29 15:12:24.417",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.417",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "746",
+    "COMPE": "746",
     "Name": "MODAL S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.417",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.417",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "747",
+    "COMPE": "747",
     "Name": "RABOBANK DO BRASIL",
     "Document": "01.023.570/0001-60",
-    "CreatedAt": "2018-01-29 15:12:24.420",
-    "UpdatedAt": "2020-04-23 22:00:00.000",
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.420",
+    "DateUpdated": "2020-04-23 22:00:00.000",
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "748",
+    "COMPE": "748",
     "Name": "SICREDI",
-    "CreatedAt": "2018-01-29 15:12:24.420",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.420",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "749",
+    "COMPE": "749",
     "Name": "BRMSANTIL SA",
-    "CreatedAt": "2018-01-29 15:12:24.420",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.420",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "750",
+    "COMPE": "750",
     "Name": "BANCO REPUBLIC NATIONAL OF NEW YORK (BRA",
-    "CreatedAt": "2018-01-29 15:12:24.420",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.420",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "751",
+    "COMPE": "751",
     "Name": "DRESDNER BANK LATEINAMERIKA-BRASIL S/A",
-    "CreatedAt": "2018-01-29 15:12:24.420",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.420",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "752",
+    "COMPE": "752",
     "Name": "BANCO BANQUE NATIONALE DE PARIS BRASIL S",
-    "CreatedAt": "2018-01-29 15:12:24.420",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.420",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "753",
+    "COMPE": "753",
     "Name": "BANCO COMERCIAL URUGUAI S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.423",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.423",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "755",
+    "COMPE": "755",
     "Name": "BANCO MERRILL LYNCH S.A",
-    "CreatedAt": "2018-01-29 15:12:24.423",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.423",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "757",
+    "COMPE": "757",
     "Name": "BANCO KEB DO BRASIL S.A.",
-    "CreatedAt": "2018-01-29 15:12:24.423",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 15:12:24.423",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "260",
+    "COMPE": "260",
     "Name": "Nu Pagamentos S.A",
     "Document": "18.236.120/0001-58",
-    "CreatedAt": "2018-01-29 16:47:35.153",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 16:47:35.153",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "102",
+    "COMPE": "102",
     "Name": "XP INVESTIMENTOS",
-    "CreatedAt": "2018-01-29 16:47:35.210",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2018-01-29 16:47:35.210",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "336",
+    "COMPE": "336",
     "Name": "BANCO C6 S.A.",
     "Document": "31.872.495/0001-72",
-    "CreatedAt": "2019-08-02 13:11:00.000",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2019-08-02 13:11:00.000",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "290",
+    "COMPE": "290",
     "Name": "PagSeguro Internet S.A.",
     "Document": "08.561.701/0001-01",
-    "CreatedAt": "2019-08-21 12:48:00.000",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2019-08-21 12:48:00.000",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "323",
+    "COMPE": "323",
     "Name": "MercadoPago.com Representações Ltda.",
     "Document": "10.573.521/0001-91",
-    "CreatedAt": "2019-09-13 15:23:00.000",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2019-09-13 15:23:00.000",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "332",
+    "COMPE": "332",
     "Name": "Acesso Soluções de Pagamento S.A.",
     "Document": "13.140.088/0001-99",
-    "CreatedAt": "2019-12-26 15:00:00.000",
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2019-12-26 15:00:00.000",
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "325",
+    "COMPE": "325",
     "Name": "Órama DTVM S.A.",
     "Document": "13.293.225/0001-25",
-    "CreatedAt": "2020-01-15 19:27:00.000",    
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2020-01-15 19:27:00.000",    
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "85",
+    "COMPE": "85",
     "Name": "COOPERATIVA CENTRAL DE CREDITO - AILOS",
     "Document": "05.463.212/0001-29",
-    "CreatedAt": "2020-03-20 18:04:00.000",    
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2020-03-20 18:04:00.000",    
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "125",
+    "COMPE": "125",
     "Name": "PLURAL S.A. BANCO MULTIPLO",
     "Document": "45.246.410/0001-55",
-    "CreatedAt": "2020-03-20 18:13:00.000",    
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2020-03-20 18:13:00.000",    
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   },
   {
-    "Code": "197",
+    "COMPE": "197",
     "Name": "STONE PAGAMENTOS S.A.",
     "Document": "16.501.555/0002-38",
-    "CreatedAt": "2020-04-24 12:58:00.000",    
-    "UpdatedAt": null,
-    "DeletedAt": null,
-    "IsDeleted": false
+    "DateRegistered": "2020-04-24 12:58:00.000",    
+    "DateUpdated": null,
+    "DateRemoved": null,
+    "IsRemoved": false
   }
 ]

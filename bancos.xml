@@ -1,2090 +1,3117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <banks>
 	<bank>
-		<Code>001</Code>
-		<CreatedAt>2017-04-19 15:52:42.400</CreatedAt>
-		<DeletedAt null="true" />
+		<COMPE>001</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>00.000.000/0001-91</Document>
-		<IsDeleted>false</IsDeleted>
+		<DateRegistered>2017-04-19 15:52:42.400</DateRegistered>
+		<DateRemoved null="true" />		
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO BRASIL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>341</Code>
-		<CreatedAt>2017-04-19 15:53:59.107</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>341</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 15:53:59.107</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>ITAÚ</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>104</Code>
-		<CreatedAt>2017-04-19 15:54:41.200</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>104</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 15:54:41.200</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CAIXA ECONÔMICA FEDERAL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>033</Code>
-		<CreatedAt>2017-04-19 15:55:59.197</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>033</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 15:55:59.197</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>SANTANDER</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>070</Code>
-		<CreatedAt>2017-04-19 15:58:17.387</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>070</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 15:58:17.387</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BRB - BANCO DE BRASÍLIA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>077</Code>
-		<CreatedAt>2017-04-19 15:58:39.887</CreatedAt>
-		<DeletedAt null="true" />
+		<COMPE>077</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>00.416.968/0001-01</Document>
-		<IsDeleted>false</IsDeleted>
+		<DateRegistered>2017-04-19 15:58:39.887</DateRegistered>
+		<DateRemoved null="true" />
+		
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INTER</Name>
-		<UpdatedAt>2020-04-29 11:08:00.000</UpdatedAt>
+		<DateUpdated>2020-04-29 11:08:00.000</DateUpdated>
 	</bank>
 	<bank>
-		<Code>237</Code>
-		<CreatedAt>2017-04-19 16:00:31.407</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>237</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 16:00:31.407</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BRADESCO</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>745</Code>
-		<CreatedAt>2017-04-19 16:01:50.353</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>745</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 16:01:50.353</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CITIBANK</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>422</Code>
-		<CreatedAt>2017-04-19 16:04:20.790</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>422</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 16:04:20.790</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SAFRA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>399</Code>
-		<CreatedAt>2017-04-19 16:05:20.353</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>399</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-04-19 16:05:20.353</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO HSBC</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>756</Code>
-		<CreatedAt>2017-08-01 22:29:11.827</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>756</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-08-01 22:29:11.827</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCOOB</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>212</Code>
-		<CreatedAt>2017-10-11 20:33:06.803</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>212</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2017-10-11 20:33:06.803</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ORIGINAL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>002</Code>
-		<CreatedAt>2018-01-29 15:12:24.270</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>002</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CENTRAL DO BRASIL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>003</Code>
-		<CreatedAt>2018-01-29 15:12:24.270</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>003</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DA AMAZONIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>004</Code>
-		<CreatedAt>2018-01-29 15:12:24.270</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>004</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO NORDESTE DO BRASIL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>007</Code>
-		<CreatedAt>2018-01-29 15:12:24.270</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>007</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO NAC DESENV. ECO. SOCIAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>008</Code>
-		<CreatedAt>2018-01-29 15:12:24.270</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>008</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MERIDIONAL DO BRASIL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>020</Code>
-		<CreatedAt>2018-01-29 15:12:24.270</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>020</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE ALAGOAS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>021</Code>
-		<CreatedAt>2018-01-29 15:12:24.270</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>021</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO ESPIRITO SANTO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>022</Code>
-		<CreatedAt>2018-01-29 15:12:24.273</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>022</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DE CREDITO REAL DE MINAS GERAIS SA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>024</Code>
-		<CreatedAt>2018-01-29 15:12:24.273</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>024</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE PERNAMBUCO</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>025</Code>
-		<CreatedAt>2018-01-29 15:12:24.273</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>025</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ALFA S/A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>026</Code>
-		<CreatedAt>2018-01-29 15:12:24.273</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>026</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO ACRE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>027</Code>
-		<CreatedAt>2018-01-29 15:12:24.273</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>027</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE SANTA CATARINA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>028</Code>
-		<CreatedAt>2018-01-29 15:12:24.277</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>028</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DA BAHIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>029</Code>
-		<CreatedAt>2018-01-29 15:12:24.277</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>029</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO RIO DE JANEIRO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>030</Code>
-		<CreatedAt>2018-01-29 15:12:24.277</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>030</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DA PARAIBA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>031</Code>
-		<CreatedAt>2018-01-29 15:12:24.277</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>031</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE GOIAS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>032</Code>
-		<CreatedAt>2018-01-29 15:12:24.277</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>032</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO MATO GROSSO S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>034</Code>
-		<CreatedAt>2018-01-29 15:12:24.280</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>034</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESADO DO AMAZONAS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>035</Code>
-		<CreatedAt>2018-01-29 15:12:24.280</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>035</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO CEARA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>036</Code>
-		<CreatedAt>2018-01-29 15:12:24.280</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>036</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO MARANHAO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>037</Code>
-		<CreatedAt>2018-01-29 15:12:24.280</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>037</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO PARA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>038</Code>
-		<CreatedAt>2018-01-29 15:12:24.280</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>038</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO PARANA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>039</Code>
-		<CreatedAt>2018-01-29 15:12:24.280</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>039</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO PIAUI S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>041</Code>
-		<CreatedAt>2018-01-29 15:12:24.283</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>041</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO RIO GRANDE DO SUL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>047</Code>
-		<CreatedAt>2018-01-29 15:12:24.283</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>047</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE SERGIPE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>048</Code>
-		<CreatedAt>2018-01-29 15:12:24.283</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>048</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE MINAS GERAIS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>059</Code>
-		<CreatedAt>2018-01-29 15:12:24.283</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>059</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE RONDONIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>106</Code>
-		<CreatedAt>2018-01-29 15:12:24.287</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>106</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.287</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ITABANCO S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>107</Code>
-		<CreatedAt>2018-01-29 15:12:24.287</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>107</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.287</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BBM S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>109</Code>
-		<CreatedAt>2018-01-29 15:12:24.290</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>109</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CREDIBANCO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>116</Code>
-		<CreatedAt>2018-01-29 15:12:24.290</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>116</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO B.N.L DO BRASIL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>148</Code>
-		<CreatedAt>2018-01-29 15:12:24.290</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>148</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>MULTI BANCO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>151</Code>
-		<CreatedAt>2018-01-29 15:12:24.290</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>151</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CAIXA ECONOMICA DO ESTADO DE SAO PAULO</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>153</Code>
-		<CreatedAt>2018-01-29 15:12:24.290</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>153</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CAIXA ECONOMICA DO ESTADO DO R.G.SUL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>165</Code>
-		<CreatedAt>2018-01-29 15:12:24.290</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>165</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO NORCHEM S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>166</Code>
-		<CreatedAt>2018-01-29 15:12:24.293</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>166</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INTER-ATLANTICO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>168</Code>
-		<CreatedAt>2018-01-29 15:12:24.293</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>168</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO C.C.F. BRASIL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>175</Code>
-		<CreatedAt>2018-01-29 15:12:24.293</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>175</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CONTINENTAL BANCO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>184</Code>
-		<CreatedAt>2018-01-29 15:12:24.293</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>184</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BBA - CREDITANSTALT S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>199</Code>
-		<CreatedAt>2018-01-29 15:12:24.293</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>199</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FINANCIAL PORTUGUES</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>200</Code>
-		<CreatedAt>2018-01-29 15:12:24.297</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>200</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FRICRISA AXELRUD S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>201</Code>
-		<CreatedAt>2018-01-29 15:12:24.297</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>201</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>204</Code>
-		<CreatedAt>2018-01-29 15:12:24.297</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>204</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO S.R.L S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>205</Code>
-		<CreatedAt>2018-01-29 15:12:24.297</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>205</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SUL AMERICA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>206</Code>
-		<CreatedAt>2018-01-29 15:12:24.297</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>206</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MARTINELLI S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>208</Code>
-		<CreatedAt>2018-01-29 15:12:24.300</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>208</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PACTUAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>210</Code>
-		<CreatedAt>2018-01-29 15:12:24.300</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>210</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>DEUTSCH SUDAMERIKANICHE BANK AG</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>211</Code>
-		<CreatedAt>2018-01-29 15:12:24.300</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>211</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SISTEMA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>213</Code>
-		<CreatedAt>2018-01-29 15:12:24.300</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>213</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ARBI S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>214</Code>
-		<CreatedAt>2018-01-29 15:12:24.303</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>214</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DIBENS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>215</Code>
-		<CreatedAt>2018-01-29 15:12:24.303</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>215</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO AMERICA DO SUL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>216</Code>
-		<CreatedAt>2018-01-29 15:12:24.303</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>216</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO REGIONAL MALCON S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>217</Code>
-		<CreatedAt>2018-01-29 15:12:24.303</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>217</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO AGROINVEST S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>218</Code>
-		<CreatedAt>2018-01-29 15:12:24.303</CreatedAt>
-		<DeletedAt null="true" />
+		<COMPE>218</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>71.027.866/0001-34</Document>
-		<IsDeleted>false</IsDeleted>
+		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
+		<DateRemoved null="true" />		
+		<IsRemoved>false</IsRemoved>
 		<Name>BS2</Name>
-		<UpdatedAt>2019-05-21 08:14:51.000</UpdatedAt>
+		<DateUpdated>2019-05-21 08:14:51.000</DateUpdated>
 	</bank>
 	<bank>
-		<Code>219</Code>
-		<CreatedAt>2018-01-29 15:12:24.307</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>219</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DE CREDITO DE SAO PAULO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>220</Code>
-		<CreatedAt>2018-01-29 15:12:24.307</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>220</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CREFISUL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>221</Code>
-		<CreatedAt>2018-01-29 15:12:24.307</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>221</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GRAPHUS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>222</Code>
-		<CreatedAt>2018-01-29 15:12:24.307</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>222</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO AGF BRASIL S. A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>223</Code>
-		<CreatedAt>2018-01-29 15:12:24.307</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>223</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INTERUNION S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>224</Code>
-		<CreatedAt>2018-01-29 15:12:24.307</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>224</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FIBRA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>225</Code>
-		<CreatedAt>2018-01-29 15:12:24.310</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>225</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BRASCAN S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>228</Code>
-		<CreatedAt>2018-01-29 15:12:24.310</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>228</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ICATU S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>229</Code>
-		<CreatedAt>2018-01-29 15:12:24.310</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>229</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CRUZEIRO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>230</Code>
-		<CreatedAt>2018-01-29 15:12:24.310</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>230</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BANDEIRANTES S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>231</Code>
-		<CreatedAt>2018-01-29 15:12:24.310</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>231</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BOAVISTA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>232</Code>
-		<CreatedAt>2018-01-29 15:12:24.310</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>232</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INTERPART S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>233</Code>
-		<CreatedAt>2018-01-29 15:12:24.313</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>233</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MAPPIN S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>234</Code>
-		<CreatedAt>2018-01-29 15:12:24.313</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>234</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO LAVRA S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>235</Code>
-		<CreatedAt>2018-01-29 15:12:24.313</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>235</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO LIBERAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>236</Code>
-		<CreatedAt>2018-01-29 15:12:24.313</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>236</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CAMBIAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>239</Code>
-		<CreatedAt>2018-01-29 15:12:24.317</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>239</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BANCRED S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>240</Code>
-		<CreatedAt>2018-01-29 15:12:24.317</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>240</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DE CREDITO REAL DE MINAS GERAIS S.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>241</Code>
-		<CreatedAt>2018-01-29 15:12:24.317</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>241</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CLASSICO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>242</Code>
-		<CreatedAt>2018-01-29 15:12:24.317</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>242</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO EUROINVEST S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>243</Code>
+		<COMPE>243</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>33.923.798/0001-00</Document>
 		<Website>https://www.bancomaxima.com.br</Website>
-		<CreatedAt>2018-01-29 15:12:24.317</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MÁXIMA S.A></Name>
-		<UpdatedAt>2020-03-20 17:00:00.000</UpdateAt>
+		<DateUpdated>2020-03-20 17:00:00.000</UpdateAt>
 	</bank>
 	<bank>
-		<Code>244</Code>
-		<CreatedAt>2018-01-29 15:12:24.320</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>244</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CIDADE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>245</Code>
-		<CreatedAt>2018-01-29 15:12:24.320</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>245</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO EMPRESARIAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>246</Code>
-		<CreatedAt>2018-01-29 15:12:24.320</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>246</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ABC ROMA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>247</Code>
-		<CreatedAt>2018-01-29 15:12:24.320</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>247</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO OMEGA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>249</Code>
-		<CreatedAt>2018-01-29 15:12:24.320</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>249</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INVESTCRED S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>250</Code>
-		<CreatedAt>2018-01-29 15:12:24.320</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>250</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SCHAHIN CURY S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>251</Code>
-		<CreatedAt>2018-01-29 15:12:24.323</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>251</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SAO JORGE S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>252</Code>
-		<CreatedAt>2018-01-29 15:12:24.323</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>252</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FININVEST S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>254</Code>
-		<CreatedAt>2018-01-29 15:12:24.323</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>254</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PARANA BANCO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>255</Code>
-		<CreatedAt>2018-01-29 15:12:24.323</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>255</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>MILBANCO S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>256</Code>
-		<CreatedAt>2018-01-29 15:12:24.323</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>256</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GULVINVEST S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>258</Code>
-		<CreatedAt>2018-01-29 15:12:24.327</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>258</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INDUSCRED S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>261</Code>
-		<CreatedAt>2018-01-29 15:12:24.327</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>261</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO VARIG S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>262</Code>
-		<CreatedAt>2018-01-29 15:12:24.327</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>262</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BOREAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>263</Code>
-		<CreatedAt>2018-01-29 15:12:24.327</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>263</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CACIQUE</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>264</Code>
-		<CreatedAt>2018-01-29 15:12:24.330</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>264</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PERFORMANCE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>265</Code>
-		<CreatedAt>2018-01-29 15:12:24.330</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>265</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FATOR S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>266</Code>
-		<CreatedAt>2018-01-29 15:12:24.330</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>266</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CEDULA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>267</Code>
-		<CreatedAt>2018-01-29 15:12:24.330</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>267</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BBM-COM.C.IMOB.CFI S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>275</Code>
-		<CreatedAt>2018-01-29 15:12:24.330</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>275</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO REAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>277</Code>
-		<CreatedAt>2018-01-29 15:12:24.330</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>277</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PLANIBANC S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>282</Code>
-		<CreatedAt>2018-01-29 15:12:24.330</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>282</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BRASILEIRO COMERCIAL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>291</Code>
-		<CreatedAt>2018-01-29 15:12:24.333</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>291</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DE CREDITO NACIONAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>294</Code>
-		<CreatedAt>2018-01-29 15:12:24.333</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>294</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BCR - BANCO DE CREDITO REAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>295</Code>
-		<CreatedAt>2018-01-29 15:12:24.333</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>295</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CREDIPLAN S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>300</Code>
-		<CreatedAt>2018-01-29 15:12:24.333</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>300</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DE LA NACION ARGENTINA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>302</Code>
-		<CreatedAt>2018-01-29 15:12:24.337</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>302</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO PROGRESSO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>303</Code>
-		<CreatedAt>2018-01-29 15:12:24.337</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>303</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO HNF S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>304</Code>
-		<CreatedAt>2018-01-29 15:12:24.337</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>304</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PONTUAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>308</Code>
-		<CreatedAt>2018-01-29 15:12:24.337</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>308</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO COMERCIAL BANCESA S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>318</Code>
-		<CreatedAt>2018-01-29 15:12:24.337</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>318</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO B.M.G. S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>320</Code>
-		<CreatedAt>2018-01-29 15:12:24.340</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>320</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INDUSTRIAL E COMERCIAL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>346</Code>
-		<CreatedAt>2018-01-29 15:12:24.340</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>346</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FRANCES E BRASILEIRO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>347</Code>
-		<CreatedAt>2018-01-29 15:12:24.340</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>347</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SUDAMERIS BRASIL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>351</Code>
-		<CreatedAt>2018-01-29 15:12:24.340</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>351</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BOZANO SIMONSEN S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>353</Code>
-		<CreatedAt>2018-01-29 15:12:24.340</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>353</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GERAL DO COMERCIO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>356</Code>
-		<CreatedAt>2018-01-29 15:12:24.340</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>356</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>ABN AMRO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>366</Code>
-		<CreatedAt>2018-01-29 15:12:24.343</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>366</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SOGERAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>369</Code>
-		<CreatedAt>2018-01-29 15:12:24.343</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>369</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>PONTUAL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>370</Code>
-		<CreatedAt>2018-01-29 15:12:24.343</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>370</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BEAL - BANCO EUROPEU PARA AMERICA LATINA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>372</Code>
-		<CreatedAt>2018-01-29 15:12:24.347</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>372</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ITAMARATI S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>375</Code>
-		<CreatedAt>2018-01-29 15:12:24.347</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>375</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FENICIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>376</Code>
-		<CreatedAt>2018-01-29 15:12:24.347</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>376</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CHASE MANHATTAN BANK S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>388</Code>
-		<CreatedAt>2018-01-29 15:12:24.347</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>388</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MERCANTIL DE DESCONTOS S/A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>389</Code>
-		<CreatedAt>2018-01-29 15:12:24.347</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>389</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MERCANTIL DO BRASIL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>392</Code>
-		<CreatedAt>2018-01-29 15:12:24.350</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>392</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MERCANTIL DE SAO PAULO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>394</Code>
-		<CreatedAt>2018-01-29 15:12:24.350</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>394</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO B.M.C. S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>409</Code>
-		<CreatedAt>2018-01-29 15:12:24.350</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>409</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>UNIBANCO - UNIAO DOS BANCOS BRASILEIROS</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>412</Code>
-		<CreatedAt>2018-01-29 15:12:24.350</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>412</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO NACIONAL DA BAHIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>415</Code>
-		<CreatedAt>2018-01-29 15:12:24.350</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>415</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO NACIONAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>420</Code>
-		<CreatedAt>2018-01-29 15:12:24.350</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>420</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO NACIONAL DO NORTE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>424</Code>
-		<CreatedAt>2018-01-29 15:12:24.353</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>424</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO NOROESTE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>434</Code>
-		<CreatedAt>2018-01-29 15:12:24.353</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>434</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FORTALEZA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>453</Code>
-		<CreatedAt>2018-01-29 15:12:24.353</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>453</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO RURAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>456</Code>
-		<CreatedAt>2018-01-29 15:12:24.353</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>456</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO TOKIO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>464</Code>
-		<CreatedAt>2018-01-29 15:12:24.357</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>464</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SUMITOMO BRASILEIRO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>466</Code>
-		<CreatedAt>2018-01-29 15:12:24.357</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>466</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MITSUBISHI BRASILEIRO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>472</Code>
-		<CreatedAt>2018-01-29 15:12:24.357</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>472</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>LLOYDS BANK PLC</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>473</Code>
-		<CreatedAt>2018-01-29 15:12:24.357</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>473</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FINANCIAL PORTUGUES S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>477</Code>
-		<CreatedAt>2018-01-29 15:12:24.357</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>477</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CITIBANK N.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>479</Code>
-		<CreatedAt>2018-01-29 15:12:24.360</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>479</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DE BOSTON S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>480</Code>
-		<CreatedAt>2018-01-29 15:12:24.360</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>480</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PORTUGUES DO ATLANTICO-BRASIL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>483</Code>
-		<CreatedAt>2018-01-29 15:12:24.360</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>483</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO AGRIMISA S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>487</Code>
-		<CreatedAt>2018-01-29 15:12:24.360</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>487</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>DEUTSCHE BANK S.A - BANCO ALEMAO</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>488</Code>
-		<CreatedAt>2018-01-29 15:12:24.360</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>488</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO J. P. MORGAN S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>489</Code>
-		<CreatedAt>2018-01-29 15:12:24.360</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>489</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANESTO BANCO URUGAUAY S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>492</Code>
-		<CreatedAt>2018-01-29 15:12:24.363</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>492</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>INTERNATIONALE NEDERLANDEN BANK N.V.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>493</Code>
-		<CreatedAt>2018-01-29 15:12:24.363</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>493</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO UNION S.A.C.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>494</Code>
-		<CreatedAt>2018-01-29 15:12:24.363</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>494</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO LA REP. ORIENTAL DEL URUGUAY</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>495</Code>
-		<CreatedAt>2018-01-29 15:12:24.363</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>495</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO LA PROVINCIA DE BUENOS AIRES</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>496</Code>
-		<CreatedAt>2018-01-29 15:12:24.363</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>496</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO EXTERIOR DE ESPANA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>498</Code>
-		<CreatedAt>2018-01-29 15:12:24.367</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>498</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>CENTRO HISPANO BANCO</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>499</Code>
-		<CreatedAt>2018-01-29 15:12:24.367</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>499</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO IOCHPE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>501</Code>
-		<CreatedAt>2018-01-29 15:12:24.367</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>501</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BRASILEIRO IRAQUIANO S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>502</Code>
-		<CreatedAt>2018-01-29 15:12:24.367</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>502</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SANTANDER S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>504</Code>
-		<CreatedAt>2018-01-29 15:12:24.367</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>504</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MULTIPLIC S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>505</Code>
-		<CreatedAt>2018-01-29 15:12:24.370</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>505</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GARANTIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>600</Code>
-		<CreatedAt>2018-01-29 15:12:24.370</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>600</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO LUSO BRASILEIRO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>601</Code>
-		<CreatedAt>2018-01-29 15:12:24.370</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>601</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BFC BANCO S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>602</Code>
-		<CreatedAt>2018-01-29 15:12:24.370</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>602</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PATENTE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>604</Code>
-		<CreatedAt>2018-01-29 15:12:24.370</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>604</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INDUSTRIAL DO BRASIL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>607</Code>
-		<CreatedAt>2018-01-29 15:12:24.373</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>607</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SANTOS NEVES S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>608</Code>
-		<CreatedAt>2018-01-29 15:12:24.373</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>608</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO OPEN S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>610</Code>
-		<CreatedAt>2018-01-29 15:12:24.373</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>610</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO V.R. S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>611</Code>
-		<CreatedAt>2018-01-29 15:12:24.373</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>611</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PAULISTA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>612</Code>
-		<CreatedAt>2018-01-29 15:12:24.377</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>612</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GUANABARA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>613</Code>
-		<CreatedAt>2018-01-29 15:12:24.377</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>613</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PECUNIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>616</Code>
-		<CreatedAt>2018-01-29 15:12:24.377</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>616</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INTERPACIFICO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>617</Code>
-		<CreatedAt>2018-01-29 15:12:24.377</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>617</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INVESTOR S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>618</Code>
-		<CreatedAt>2018-01-29 15:12:24.377</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>618</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO TENDENCIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>621</Code>
-		<CreatedAt>2018-01-29 15:12:24.380</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>621</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO APLICAP S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>622</Code>
-		<CreatedAt>2018-01-29 15:12:24.380</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>622</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DRACMA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>623</Code>
-		<CreatedAt>2018-01-29 15:12:24.380</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>623</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PANAMERICANO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>624</Code>
-		<CreatedAt>2018-01-29 15:12:24.380</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>624</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GENERAL MOTORS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>625</Code>
-		<CreatedAt>2018-01-29 15:12:24.380</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>625</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ARAUCARIA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>626</Code>
-		<CreatedAt>2018-01-29 15:12:24.380</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>626</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FICSA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>627</Code>
-		<CreatedAt>2018-01-29 15:12:24.383</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>627</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DESTAK S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>628</Code>
-		<CreatedAt>2018-01-29 15:12:24.383</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>628</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CRITERIUM S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>629</Code>
-		<CreatedAt>2018-01-29 15:12:24.383</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>629</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCORP BANCO COML. E. DE INVESTMENTO</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>630</Code>
-		<CreatedAt>2018-01-29 15:12:24.383</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>630</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INTERCAP S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>633</Code>
-		<CreatedAt>2018-01-29 15:12:24.383</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>633</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO REDIMENTO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>634</Code>
-		<CreatedAt>2018-01-29 15:12:24.387</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>634</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO TRIANGULO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>635</Code>
-		<CreatedAt>2018-01-29 15:12:24.387</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>635</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DO AMAPA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>637</Code>
-		<CreatedAt>2018-01-29 15:12:24.387</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>637</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SOFISA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>638</Code>
-		<CreatedAt>2018-01-29 15:12:24.387</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>638</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PROSPER S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>639</Code>
-		<CreatedAt>2018-01-29 15:12:24.387</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>639</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BIG S.A. - BANCO IRMAOS GUIMARAES</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>640</Code>
-		<CreatedAt>2018-01-29 15:12:24.390</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>640</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DE CREDITO METROPOLITANO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>641</Code>
-		<CreatedAt>2018-01-29 15:12:24.390</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>641</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO EXCEL ECONOMICO S/A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>643</Code>
-		<CreatedAt>2018-01-29 15:12:24.390</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>643</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SEGMENTO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>645</Code>
-		<CreatedAt>2018-01-29 15:12:24.390</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>645</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DO ESTADO DE RORAIMA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>647</Code>
-		<CreatedAt>2018-01-29 15:12:24.390</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>647</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MARKA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>648</Code>
-		<CreatedAt>2018-01-29 15:12:24.390</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>648</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO ATLANTIS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>649</Code>
-		<CreatedAt>2018-01-29 15:12:24.390</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>649</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DIMENSAO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>650</Code>
-		<CreatedAt>2018-01-29 15:12:24.393</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>650</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PEBB S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>652</Code>
-		<CreatedAt>2018-01-29 15:12:24.393</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>652</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FRANCES E BRASILEIRO SA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>653</Code>
-		<CreatedAt>2018-01-29 15:12:24.393</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>653</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INDUSVAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>654</Code>
-		<CreatedAt>2018-01-29 15:12:24.393</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>654</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO A. J. RENNER S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>655</Code>
-		<CreatedAt>2018-01-29 15:12:24.393</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>655</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO VOTORANTIM S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>656</Code>
-		<CreatedAt>2018-01-29 15:12:24.397</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>656</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MATRIX S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>657</Code>
-		<CreatedAt>2018-01-29 15:12:24.397</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>657</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO TECNICORP S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>658</Code>
-		<CreatedAt>2018-01-29 15:12:24.397</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>658</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PORTO REAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>702</Code>
-		<CreatedAt>2018-01-29 15:12:24.397</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>702</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO SANTOS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>705</Code>
-		<CreatedAt>2018-01-29 15:12:24.400</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>705</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INVESTCORP S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>707</Code>
-		<CreatedAt>2018-01-29 15:12:24.400</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>707</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO DAYCOVAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>711</Code>
-		<CreatedAt>2018-01-29 15:12:24.400</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>711</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO VETOR S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>713</Code>
-		<CreatedAt>2018-01-29 15:12:24.400</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>713</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CINDAM S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>715</Code>
-		<CreatedAt>2018-01-29 15:12:24.400</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>715</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO VEGA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>718</Code>
-		<CreatedAt>2018-01-29 15:12:24.400</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>718</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO OPERADOR S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>719</Code>
-		<CreatedAt>2018-01-29 15:12:24.400</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>719</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PRIMUS S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>720</Code>
-		<CreatedAt>2018-01-29 15:12:24.403</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>720</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MAXINVEST S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>721</Code>
-		<CreatedAt>2018-01-29 15:12:24.403</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>721</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO CREDIBEL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>722</Code>
-		<CreatedAt>2018-01-29 15:12:24.403</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>722</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO INTERIOR DE SAO PAULO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>724</Code>
-		<CreatedAt>2018-01-29 15:12:24.403</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>724</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PORTO SEGURO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>725</Code>
-		<CreatedAt>2018-01-29 15:12:24.407</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>725</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FINABANCO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>726</Code>
-		<CreatedAt>2018-01-29 15:12:24.407</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>726</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO UNIVERSAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>728</Code>
-		<CreatedAt>2018-01-29 15:12:24.407</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>728</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FITAL S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>729</Code>
-		<CreatedAt>2018-01-29 15:12:24.407</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>729</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO FONTE S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>730</Code>
-		<CreatedAt>2018-01-29 15:12:24.407</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>730</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO COMERCIAL PARAGUAYO S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>731</Code>
-		<CreatedAt>2018-01-29 15:12:24.410</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>731</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GNPP S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>732</Code>
-		<CreatedAt>2018-01-29 15:12:24.410</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>732</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO PREMIER S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>733</Code>
-		<CreatedAt>2018-01-29 15:12:24.410</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>733</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO NACOES S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>734</Code>
-		<CreatedAt>2018-01-29 15:12:24.410</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>734</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO GERDAU S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>735</Code>
-		<CreatedAt>2018-01-29 15:12:24.410</CreatedAt>
-		<DeletedAt>2019-11-12 19:15:00.000</DeletedAt>
-		<IsDeleted>true</IsDeleted>
+		<COMPE>735</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRemoved>2019-11-12 19:15:00.000</DateRemoved>
+		<IsRemoved>true</IsRemoved>
 		<Name>BANCO NEON</Name>
-		<UpdatedAt>2019-11-12 19:15:00.000</UpdatedAt>
+		<DateUpdated>2019-11-12 19:15:00.000</DateUpdated>
 	</bank>
 	<bank>
-		<Code>736</Code>
-		<CreatedAt>2018-01-29 15:12:24.410</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>736</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO UNITED S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>737</Code>
-		<CreatedAt>2018-01-29 15:12:24.413</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>737</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>THECA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>738</Code>
-		<CreatedAt>2018-01-29 15:12:24.413</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>738</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>MARADA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>739</Code>
-		<CreatedAt>2018-01-29 15:12:24.413</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>739</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BGN</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>740</Code>
-		<CreatedAt>2018-01-29 15:12:24.413</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>740</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BCN BARCLAYS</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>741</Code>
-		<CreatedAt>2018-01-29 15:12:24.413</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>741</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BRP</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>742</Code>
-		<CreatedAt>2018-01-29 15:12:24.417</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>742</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>EQUATORIAL</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>743</Code>
-		<CreatedAt>2018-01-29 15:12:24.417</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>743</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO EMBLEMA S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>744</Code>
-		<CreatedAt>2018-01-29 15:12:24.417</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>744</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>THE FIRST NATIONAL BANK OF BOSTON</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>746</Code>
-		<CreatedAt>2018-01-29 15:12:24.417</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>746</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>MODAL S\A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-	    <Code>747</Code>
+		<COMPE>747</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>01.023.570/0001-60</Document>
 		<Name>RABOBANK DO BRASIL</Name>
 		<Website>https://www.rabobank.com.br</Website>
-		<CreatedAt>2018-01-29 15:12:24.420</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>	
-		<UpdatedAt>2020-04-23 22:00:00.000</UpdatedAt>
+		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>	
+		<DateUpdated>2020-04-23 22:00:00.000</DateUpdated>
 	</bank>
 	<bank>
-		<Code>748</Code>
-		<CreatedAt>2018-01-29 15:12:24.420</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>748</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>SICREDI</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>749</Code>
-		<CreatedAt>2018-01-29 15:12:24.420</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>749</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BRMSANTIL SA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>750</Code>
-		<CreatedAt>2018-01-29 15:12:24.420</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>750</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO REPUBLIC NATIONAL OF NEW YORK (BRA</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>751</Code>
-		<CreatedAt>2018-01-29 15:12:24.420</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>751</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>DRESDNER BANK LATEINAMERIKA-BRASIL S/A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>752</Code>
-		<CreatedAt>2018-01-29 15:12:24.420</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>752</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO BANQUE NATIONALE DE PARIS BRASIL S</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>753</Code>
-		<CreatedAt>2018-01-29 15:12:24.423</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>753</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO COMERCIAL URUGUAI S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>755</Code>
-		<CreatedAt>2018-01-29 15:12:24.423</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>755</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO MERRILL LYNCH S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>757</Code>
-		<CreatedAt>2018-01-29 15:12:24.423</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>757</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO KEB DO BRASIL S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>260</Code>
-		<CreatedAt>2018-01-29 16:47:35.153</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>260</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 16:47:35.153</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>NUBANK</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>102</Code>
-		<CreatedAt>2018-01-29 16:47:35.210</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>102</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2018-01-29 16:47:35.210</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>XP INVESTIMENTOS</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>336</Code>
-		<CreatedAt>2019-08-02 13:11:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>336</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2019-08-02 13:11:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>BANCO C6 S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>290</Code>
-		<CreatedAt>2019-08-21 12:49:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>290</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2019-08-21 12:49:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>PagSeguro Internet S.A</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>323</Code>
-		<CreatedAt>2019-09-13 15:23:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<COMPE>323</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
+		<Document null="true" />
+		<DateRegistered>2019-09-13 15:23:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>MercadoPago.com Representações Ltda.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>332</Code>
+		<COMPE>332</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>13.140.088/0001-99</Document>
-		<CreatedAt>2019-12-26 15:00:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<DateRegistered>2019-12-26 15:00:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>Acesso Soluções de Pagamento S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>325</Code>
+		<COMPE>325</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>13.293.225/0001-25</Document>
-		<CreatedAt>2020-01-15 19:27:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>
+		<DateRegistered>2020-01-15 19:27:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>
 		<Name>Órama DTVM S.A.</Name>
-		<UpdatedAt null="true" />
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>85</Code>
+		<COMPE>085</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>05.463.212/0001-29</Document>
 		<Name>COOPERATIVA CENTRAL DE CREDITO - AILOS</Name>
 		<Website>https://www.ailos.coop.br</Website>
-		<CreatedAt>2020-03-20 18:04:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>		
-		<UpdatedAt null="true" />
+		<DateRegistered>2020-03-20 18:04:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>		
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>125</Code>
+		<COMPE>125</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>45.246.410/0001-55</Document>
 		<Name>PLURAL S.A. BANCO MULTIPLO</Name>
 		<Website>https://www.bancoplural.com/</Website>
-		<CreatedAt>2020-03-20 18:13:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>		
-		<UpdatedAt null="true" />
+		<DateRegistered>2020-03-20 18:13:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>		
+		<DateUpdated null="true" />
 	</bank>
 	<bank>
-		<Code>197</Code>
+		<COMPE>197</COMPE>
+		<ISPB>0</ISPB>
+		<FiscalName null="true" />
+		<FantasyName null="true" />
 		<Document>16.501.555/0002-38</Document>
 		<Name>STONE PAGAMENTOS S.A.</Name>
 		<Website>https://www.stone.com.br/</Website>
-		<CreatedAt>2020-04-24 12:58:00.000</CreatedAt>
-		<DeletedAt null="true" />
-		<IsDeleted>false</IsDeleted>		
-		<UpdatedAt null="true" />
+		<DateRegistered>2020-04-24 12:58:00.000</DateRegistered>
+		<DateRemoved null="true" />
+		<IsRemoved>false</IsRemoved>		
+		<DateUpdated null="true" />
 	</bank>
 </banks>
