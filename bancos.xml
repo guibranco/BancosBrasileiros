@@ -2,11 +2,11 @@
 <banks>
 	<bank>
 		<COMPE>001</COMPE>
-		<ISPB>0</ISPB>
-		<FiscalName>BANCO DO BRASIL</FiscalName>
-		<FantasyName>BANCO DO BRASIL</FantasyName>
+		<ISPB>00000000</ISPB>
 		<Document>00.000.000/0001-91</Document>
-		<Url null="true" />
+		<FiscalName>Banco do Brasil S.A.</FiscalName>
+		<FantasyName>Banco do Brasil</FantasyName>
+		<Url>https://bb.com.br</Url>
 		<DateRegistered>2017-04-19 15:52:42.400</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
@@ -15,9 +15,9 @@
 	<bank>
 		<COMPE>341</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>ITAÚ</FiscalName>
 		<FantasyName>ITAÚ</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-04-19 15:53:59.107</DateRegistered>
 		<DateUpdated null="true" />
@@ -27,9 +27,9 @@
 	<bank>
 		<COMPE>104</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CAIXA ECONÔMICA FEDERAL</FiscalName>
 		<FantasyName>CAIXA ECONÔMICA FEDERAL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-04-19 15:54:41.200</DateRegistered>
 		<DateUpdated null="true" />
@@ -39,9 +39,9 @@
 	<bank>
 		<COMPE>033</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>SANTANDER</FiscalName>
 		<FantasyName>SANTANDER</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-04-19 15:55:59.197</DateRegistered>
 		<DateUpdated null="true" />
@@ -51,9 +51,9 @@
 	<bank>
 		<COMPE>070</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BRB - BANCO DE BRASÍLIA</FiscalName>
 		<FantasyName>BRB - BANCO DE BRASÍLIA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-04-19 15:58:17.387</DateRegistered>
 		<DateUpdated null="true" />
@@ -63,9 +63,9 @@
 	<bank>
 		<COMPE>077</COMPE>
 		<ISPB>0</ISPB>
+		<Document>00.416.968/0001-01</Document>
 		<FiscalName>BANCO INTER</FiscalName>
 		<FantasyName>BANCO INTER</FantasyName>
-		<Document>00.416.968/0001-01</Document>
 		<Url null="true" />
 		<DateRegistered>2017-04-19 15:58:39.887</DateRegistered>
 		<DateUpdated null="true" />
@@ -74,11 +74,11 @@
 	</bank>
 	<bank>
 		<COMPE>237</COMPE>
-		<ISPB>0</ISPB>
-		<FiscalName>BRADESCO</FiscalName>
-		<FantasyName>BRADESCO</FantasyName>
-		<Document null="true" />
-		<Url null="true" />
+		<ISPB>60746948</ISPB>
+		<Document>60.746.948/0001-12</Document>
+		<FiscalName>BANCO BRADESCO S.A.</FiscalName>
+		<FantasyName>Bradesco</FantasyName>
+		<Url>https://banco.bradesco</Url>
 		<DateRegistered>2017-04-19 16:00:31.407</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
@@ -87,9 +87,9 @@
 	<bank>
 		<COMPE>745</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CITIBANK</FiscalName>
 		<FantasyName>CITIBANK</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-04-19 16:01:50.353</DateRegistered>
 		<DateUpdated null="true" />
@@ -99,9 +99,9 @@
 	<bank>
 		<COMPE>422</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SAFRA</FiscalName>
 		<FantasyName>BANCO SAFRA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-04-19 16:04:20.790</DateRegistered>
 		<DateUpdated null="true" />
@@ -111,9 +111,9 @@
 	<bank>
 		<COMPE>399</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO HSBC</FiscalName>
 		<FantasyName>BANCO HSBC</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-04-19 16:05:20.353</DateRegistered>
 		<DateUpdated null="true" />
@@ -123,9 +123,9 @@
 	<bank>
 		<COMPE>756</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCOOB</FiscalName>
 		<FantasyName>BANCOOB</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-08-01 22:29:11.827</DateRegistered>
 		<DateUpdated null="true" />
@@ -135,9 +135,9 @@
 	<bank>
 		<COMPE>212</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ORIGINAL</FiscalName>
 		<FantasyName>BANCO ORIGINAL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2017-10-11 20:33:06.803</DateRegistered>
 		<DateUpdated null="true" />
@@ -147,9 +147,9 @@
 	<bank>
 		<COMPE>002</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CENTRAL DO BRASIL</FiscalName>
 		<FantasyName>BANCO CENTRAL DO BRASIL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
 		<DateUpdated null="true" />
@@ -159,9 +159,9 @@
 	<bank>
 		<COMPE>003</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DA AMAZONIA S.A</FiscalName>
 		<FantasyName>BANCO DA AMAZONIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
 		<DateUpdated null="true" />
@@ -171,9 +171,9 @@
 	<bank>
 		<COMPE>004</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO NORDESTE DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO DO NORDESTE DO BRASIL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
 		<DateUpdated null="true" />
@@ -183,9 +183,9 @@
 	<bank>
 		<COMPE>007</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NAC DESENV. ECO. SOCIAL S.A</FiscalName>
 		<FantasyName>BANCO NAC DESENV. ECO. SOCIAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
 		<DateUpdated null="true" />
@@ -195,9 +195,9 @@
 	<bank>
 		<COMPE>008</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MERIDIONAL DO BRASIL</FiscalName>
 		<FantasyName>BANCO MERIDIONAL DO BRASIL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
 		<DateUpdated null="true" />
@@ -207,9 +207,9 @@
 	<bank>
 		<COMPE>020</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE ALAGOAS S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE ALAGOAS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
 		<DateUpdated null="true" />
@@ -219,9 +219,9 @@
 	<bank>
 		<COMPE>021</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO ESPIRITO SANTO S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO ESPIRITO SANTO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.270</DateRegistered>
 		<DateUpdated null="true" />
@@ -231,9 +231,9 @@
 	<bank>
 		<COMPE>022</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DE CREDITO REAL DE MINAS GERAIS SA</FiscalName>
 		<FantasyName>BANCO DE CREDITO REAL DE MINAS GERAIS SA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
 		<DateUpdated null="true" />
@@ -243,9 +243,9 @@
 	<bank>
 		<COMPE>024</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE PERNAMBUCO</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE PERNAMBUCO</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
 		<DateUpdated null="true" />
@@ -255,9 +255,9 @@
 	<bank>
 		<COMPE>025</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ALFA S/A</FiscalName>
 		<FantasyName>BANCO ALFA S/A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
 		<DateUpdated null="true" />
@@ -267,9 +267,9 @@
 	<bank>
 		<COMPE>026</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO ACRE S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO ACRE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
 		<DateUpdated null="true" />
@@ -279,9 +279,9 @@
 	<bank>
 		<COMPE>027</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE SANTA CATARINA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE SANTA CATARINA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.273</DateRegistered>
 		<DateUpdated null="true" />
@@ -291,9 +291,9 @@
 	<bank>
 		<COMPE>028</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DA BAHIA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DA BAHIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
 		<DateUpdated null="true" />
@@ -303,9 +303,9 @@
 	<bank>
 		<COMPE>029</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO RIO DE JANEIRO S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO RIO DE JANEIRO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
 		<DateUpdated null="true" />
@@ -315,9 +315,9 @@
 	<bank>
 		<COMPE>030</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DA PARAIBA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DA PARAIBA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
 		<DateUpdated null="true" />
@@ -327,9 +327,9 @@
 	<bank>
 		<COMPE>031</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE GOIAS S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE GOIAS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
 		<DateUpdated null="true" />
@@ -339,9 +339,9 @@
 	<bank>
 		<COMPE>032</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO MATO GROSSO S.A.</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO MATO GROSSO S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.277</DateRegistered>
 		<DateUpdated null="true" />
@@ -351,9 +351,9 @@
 	<bank>
 		<COMPE>034</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESADO DO AMAZONAS S.A</FiscalName>
 		<FantasyName>BANCO DO ESADO DO AMAZONAS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
 		<DateUpdated null="true" />
@@ -363,9 +363,9 @@
 	<bank>
 		<COMPE>035</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO CEARA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO CEARA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
 		<DateUpdated null="true" />
@@ -375,9 +375,9 @@
 	<bank>
 		<COMPE>036</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO MARANHAO S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO MARANHAO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
 		<DateUpdated null="true" />
@@ -387,9 +387,9 @@
 	<bank>
 		<COMPE>037</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO PARA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO PARA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
 		<DateUpdated null="true" />
@@ -399,9 +399,9 @@
 	<bank>
 		<COMPE>038</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO PARANA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO PARANA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
 		<DateUpdated null="true" />
@@ -411,9 +411,9 @@
 	<bank>
 		<COMPE>039</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO PIAUI S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO PIAUI S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.280</DateRegistered>
 		<DateUpdated null="true" />
@@ -423,9 +423,9 @@
 	<bank>
 		<COMPE>041</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO RIO GRANDE DO SUL S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO RIO GRANDE DO SUL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
 		<DateUpdated null="true" />
@@ -435,9 +435,9 @@
 	<bank>
 		<COMPE>047</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE SERGIPE S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE SERGIPE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
 		<DateUpdated null="true" />
@@ -447,9 +447,9 @@
 	<bank>
 		<COMPE>048</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE MINAS GERAIS S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE MINAS GERAIS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
 		<DateUpdated null="true" />
@@ -459,9 +459,9 @@
 	<bank>
 		<COMPE>059</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE RONDONIA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE RONDONIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.283</DateRegistered>
 		<DateUpdated null="true" />
@@ -471,9 +471,9 @@
 	<bank>
 		<COMPE>106</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ITABANCO S.A.</FiscalName>
 		<FantasyName>BANCO ITABANCO S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.287</DateRegistered>
 		<DateUpdated null="true" />
@@ -483,9 +483,9 @@
 	<bank>
 		<COMPE>107</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BBM S.A</FiscalName>
 		<FantasyName>BANCO BBM S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.287</DateRegistered>
 		<DateUpdated null="true" />
@@ -495,9 +495,9 @@
 	<bank>
 		<COMPE>109</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CREDIBANCO S.A</FiscalName>
 		<FantasyName>BANCO CREDIBANCO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
 		<DateUpdated null="true" />
@@ -507,9 +507,9 @@
 	<bank>
 		<COMPE>116</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO B.N.L DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO B.N.L DO BRASIL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
 		<DateUpdated null="true" />
@@ -519,9 +519,9 @@
 	<bank>
 		<COMPE>148</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>MULTI BANCO S.A</FiscalName>
 		<FantasyName>MULTI BANCO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
 		<DateUpdated null="true" />
@@ -531,9 +531,9 @@
 	<bank>
 		<COMPE>151</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CAIXA ECONOMICA DO ESTADO DE SAO PAULO</FiscalName>
 		<FantasyName>CAIXA ECONOMICA DO ESTADO DE SAO PAULO</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
 		<DateUpdated null="true" />
@@ -543,9 +543,9 @@
 	<bank>
 		<COMPE>153</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CAIXA ECONOMICA DO ESTADO DO R.G.SUL</FiscalName>
 		<FantasyName>CAIXA ECONOMICA DO ESTADO DO R.G.SUL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
 		<DateUpdated null="true" />
@@ -555,9 +555,9 @@
 	<bank>
 		<COMPE>165</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NORCHEM S.A</FiscalName>
 		<FantasyName>BANCO NORCHEM S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.290</DateRegistered>
 		<DateUpdated null="true" />
@@ -567,9 +567,9 @@
 	<bank>
 		<COMPE>166</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INTER-ATLANTICO S.A</FiscalName>
 		<FantasyName>BANCO INTER-ATLANTICO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
 		<DateUpdated null="true" />
@@ -579,9 +579,9 @@
 	<bank>
 		<COMPE>168</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO C.C.F. BRASIL S.A</FiscalName>
 		<FantasyName>BANCO C.C.F. BRASIL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
 		<DateUpdated null="true" />
@@ -591,9 +591,9 @@
 	<bank>
 		<COMPE>175</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CONTINENTAL BANCO S.A</FiscalName>
 		<FantasyName>CONTINENTAL BANCO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
 		<DateUpdated null="true" />
@@ -603,9 +603,9 @@
 	<bank>
 		<COMPE>184</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BBA - CREDITANSTALT S.A</FiscalName>
 		<FantasyName>BBA - CREDITANSTALT S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
 		<DateUpdated null="true" />
@@ -615,9 +615,9 @@
 	<bank>
 		<COMPE>199</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FINANCIAL PORTUGUES</FiscalName>
 		<FantasyName>BANCO FINANCIAL PORTUGUES</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.293</DateRegistered>
 		<DateUpdated null="true" />
@@ -627,9 +627,9 @@
 	<bank>
 		<COMPE>200</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FRICRISA AXELRUD S.A</FiscalName>
 		<FantasyName>BANCO FRICRISA AXELRUD S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
 		<DateUpdated null="true" />
@@ -639,9 +639,9 @@
 	<bank>
 		<COMPE>201</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A</FiscalName>
 		<FantasyName>BANCO AUGUSTA INDUSTRIA E COMERCIAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
 		<DateUpdated null="true" />
@@ -651,9 +651,9 @@
 	<bank>
 		<COMPE>204</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO S.R.L S.A</FiscalName>
 		<FantasyName>BANCO S.R.L S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
 		<DateUpdated null="true" />
@@ -663,9 +663,9 @@
 	<bank>
 		<COMPE>205</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SUL AMERICA S.A</FiscalName>
 		<FantasyName>BANCO SUL AMERICA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
 		<DateUpdated null="true" />
@@ -675,9 +675,9 @@
 	<bank>
 		<COMPE>206</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MARTINELLI S.A</FiscalName>
 		<FantasyName>BANCO MARTINELLI S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.297</DateRegistered>
 		<DateUpdated null="true" />
@@ -687,9 +687,9 @@
 	<bank>
 		<COMPE>208</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PACTUAL S.A</FiscalName>
 		<FantasyName>BANCO PACTUAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
 		<DateUpdated null="true" />
@@ -699,9 +699,9 @@
 	<bank>
 		<COMPE>210</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>DEUTSCH SUDAMERIKANICHE BANK AG</FiscalName>
 		<FantasyName>DEUTSCH SUDAMERIKANICHE BANK AG</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
 		<DateUpdated null="true" />
@@ -711,9 +711,9 @@
 	<bank>
 		<COMPE>211</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SISTEMA S.A</FiscalName>
 		<FantasyName>BANCO SISTEMA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
 		<DateUpdated null="true" />
@@ -723,9 +723,9 @@
 	<bank>
 		<COMPE>213</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ARBI S.A</FiscalName>
 		<FantasyName>BANCO ARBI S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.300</DateRegistered>
 		<DateUpdated null="true" />
@@ -735,9 +735,9 @@
 	<bank>
 		<COMPE>214</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DIBENS S.A</FiscalName>
 		<FantasyName>BANCO DIBENS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
 		<DateUpdated null="true" />
@@ -747,9 +747,9 @@
 	<bank>
 		<COMPE>215</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO AMERICA DO SUL S.A</FiscalName>
 		<FantasyName>BANCO AMERICA DO SUL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
 		<DateUpdated null="true" />
@@ -759,9 +759,9 @@
 	<bank>
 		<COMPE>216</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO REGIONAL MALCON S.A</FiscalName>
 		<FantasyName>BANCO REGIONAL MALCON S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
 		<DateUpdated null="true" />
@@ -771,9 +771,9 @@
 	<bank>
 		<COMPE>217</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO AGROINVEST S.A</FiscalName>
 		<FantasyName>BANCO AGROINVEST S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
 		<DateUpdated null="true" />
@@ -783,9 +783,9 @@
 	<bank>
 		<COMPE>218</COMPE>
 		<ISPB>0</ISPB>
+		<Document>71.027.866/0001-34</Document>
 		<FiscalName>BS2</FiscalName>
 		<FantasyName>BS2</FantasyName>
-		<Document>71.027.866/0001-34</Document>
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.303</DateRegistered>
 		<DateUpdated null="true" />
@@ -795,9 +795,9 @@
 	<bank>
 		<COMPE>219</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DE CREDITO DE SAO PAULO S.A</FiscalName>
 		<FantasyName>BANCO DE CREDITO DE SAO PAULO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
 		<DateUpdated null="true" />
@@ -807,9 +807,9 @@
 	<bank>
 		<COMPE>220</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CREFISUL</FiscalName>
 		<FantasyName>BANCO CREFISUL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
 		<DateUpdated null="true" />
@@ -819,9 +819,9 @@
 	<bank>
 		<COMPE>221</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GRAPHUS S.A</FiscalName>
 		<FantasyName>BANCO GRAPHUS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
 		<DateUpdated null="true" />
@@ -831,9 +831,9 @@
 	<bank>
 		<COMPE>222</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO AGF BRASIL S. A.</FiscalName>
 		<FantasyName>BANCO AGF BRASIL S. A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
 		<DateUpdated null="true" />
@@ -843,9 +843,9 @@
 	<bank>
 		<COMPE>223</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INTERUNION S.A</FiscalName>
 		<FantasyName>BANCO INTERUNION S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
 		<DateUpdated null="true" />
@@ -855,9 +855,9 @@
 	<bank>
 		<COMPE>224</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FIBRA S.A</FiscalName>
 		<FantasyName>BANCO FIBRA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.307</DateRegistered>
 		<DateUpdated null="true" />
@@ -867,9 +867,9 @@
 	<bank>
 		<COMPE>225</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BRASCAN S.A</FiscalName>
 		<FantasyName>BANCO BRASCAN S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
 		<DateUpdated null="true" />
@@ -879,9 +879,9 @@
 	<bank>
 		<COMPE>228</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ICATU S.A</FiscalName>
 		<FantasyName>BANCO ICATU S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
 		<DateUpdated null="true" />
@@ -891,9 +891,9 @@
 	<bank>
 		<COMPE>229</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CRUZEIRO S.A</FiscalName>
 		<FantasyName>BANCO CRUZEIRO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
 		<DateUpdated null="true" />
@@ -903,9 +903,9 @@
 	<bank>
 		<COMPE>230</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BANDEIRANTES S.A</FiscalName>
 		<FantasyName>BANCO BANDEIRANTES S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
 		<DateUpdated null="true" />
@@ -915,9 +915,9 @@
 	<bank>
 		<COMPE>231</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BOAVISTA S.A</FiscalName>
 		<FantasyName>BANCO BOAVISTA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
 		<DateUpdated null="true" />
@@ -927,9 +927,9 @@
 	<bank>
 		<COMPE>232</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INTERPART S.A</FiscalName>
 		<FantasyName>BANCO INTERPART S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.310</DateRegistered>
 		<DateUpdated null="true" />
@@ -939,9 +939,9 @@
 	<bank>
 		<COMPE>233</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MAPPIN S.A</FiscalName>
 		<FantasyName>BANCO MAPPIN S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
 		<DateUpdated null="true" />
@@ -951,9 +951,9 @@
 	<bank>
 		<COMPE>234</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO LAVRA S.A.</FiscalName>
 		<FantasyName>BANCO LAVRA S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
 		<DateUpdated null="true" />
@@ -963,9 +963,9 @@
 	<bank>
 		<COMPE>235</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO LIBERAL S.A</FiscalName>
 		<FantasyName>BANCO LIBERAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
 		<DateUpdated null="true" />
@@ -975,9 +975,9 @@
 	<bank>
 		<COMPE>236</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CAMBIAL S.A</FiscalName>
 		<FantasyName>BANCO CAMBIAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.313</DateRegistered>
 		<DateUpdated null="true" />
@@ -987,9 +987,9 @@
 	<bank>
 		<COMPE>239</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BANCRED S.A</FiscalName>
 		<FantasyName>BANCO BANCRED S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
 		<DateUpdated null="true" />
@@ -999,9 +999,9 @@
 	<bank>
 		<COMPE>240</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DE CREDITO REAL DE MINAS GERAIS S.</FiscalName>
 		<FantasyName>BANCO DE CREDITO REAL DE MINAS GERAIS S.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
 		<DateUpdated null="true" />
@@ -1011,9 +1011,9 @@
 	<bank>
 		<COMPE>241</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CLASSICO S.A</FiscalName>
 		<FantasyName>BANCO CLASSICO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
 		<DateUpdated null="true" />
@@ -1023,9 +1023,9 @@
 	<bank>
 		<COMPE>242</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO EUROINVEST S.A</FiscalName>
 		<FantasyName>BANCO EUROINVEST S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
 		<DateUpdated null="true" />
@@ -1035,11 +1035,10 @@
 	<bank>
 		<COMPE>243</COMPE>
 		<ISPB>0</ISPB>
+		<Document>33.923.798/0001-00</Document>
 		<FiscalName>BANCO MÁXIMA S.A></FiscalName>
 		<FantasyName>BANCO MÁXIMA S.A></FantasyName>
-		<Document>33.923.798/0001-00</Document>
-		<Website>https://www.bancomaxima.com.br</Website>
-		<Url null="true" />
+		<Url>https://www.bancomaxima.com.br</Url>
 		<DateRegistered>2018-01-29 15:12:24.317</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
@@ -1048,9 +1047,9 @@
 	<bank>
 		<COMPE>244</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CIDADE S.A</FiscalName>
 		<FantasyName>BANCO CIDADE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
 		<DateUpdated null="true" />
@@ -1060,9 +1059,9 @@
 	<bank>
 		<COMPE>245</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO EMPRESARIAL S.A</FiscalName>
 		<FantasyName>BANCO EMPRESARIAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
 		<DateUpdated null="true" />
@@ -1072,9 +1071,9 @@
 	<bank>
 		<COMPE>246</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ABC ROMA S.A</FiscalName>
 		<FantasyName>BANCO ABC ROMA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
 		<DateUpdated null="true" />
@@ -1084,9 +1083,9 @@
 	<bank>
 		<COMPE>247</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO OMEGA S.A</FiscalName>
 		<FantasyName>BANCO OMEGA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
 		<DateUpdated null="true" />
@@ -1096,9 +1095,9 @@
 	<bank>
 		<COMPE>249</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INVESTCRED S.A</FiscalName>
 		<FantasyName>BANCO INVESTCRED S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
 		<DateUpdated null="true" />
@@ -1108,9 +1107,9 @@
 	<bank>
 		<COMPE>250</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SCHAHIN CURY S.A</FiscalName>
 		<FantasyName>BANCO SCHAHIN CURY S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.320</DateRegistered>
 		<DateUpdated null="true" />
@@ -1120,9 +1119,9 @@
 	<bank>
 		<COMPE>251</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SAO JORGE S.A.</FiscalName>
 		<FantasyName>BANCO SAO JORGE S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
 		<DateUpdated null="true" />
@@ -1132,9 +1131,9 @@
 	<bank>
 		<COMPE>252</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FININVEST S.A</FiscalName>
 		<FantasyName>BANCO FININVEST S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
 		<DateUpdated null="true" />
@@ -1144,9 +1143,9 @@
 	<bank>
 		<COMPE>254</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PARANA BANCO S.A</FiscalName>
 		<FantasyName>BANCO PARANA BANCO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
 		<DateUpdated null="true" />
@@ -1156,9 +1155,9 @@
 	<bank>
 		<COMPE>255</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>MILBANCO S.A.</FiscalName>
 		<FantasyName>MILBANCO S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
 		<DateUpdated null="true" />
@@ -1168,9 +1167,9 @@
 	<bank>
 		<COMPE>256</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GULVINVEST S.A</FiscalName>
 		<FantasyName>BANCO GULVINVEST S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.323</DateRegistered>
 		<DateUpdated null="true" />
@@ -1180,9 +1179,9 @@
 	<bank>
 		<COMPE>258</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INDUSCRED S.A</FiscalName>
 		<FantasyName>BANCO INDUSCRED S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
 		<DateUpdated null="true" />
@@ -1192,9 +1191,9 @@
 	<bank>
 		<COMPE>261</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO VARIG S.A</FiscalName>
 		<FantasyName>BANCO VARIG S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
 		<DateUpdated null="true" />
@@ -1204,9 +1203,9 @@
 	<bank>
 		<COMPE>262</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BOREAL S.A</FiscalName>
 		<FantasyName>BANCO BOREAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
 		<DateUpdated null="true" />
@@ -1216,9 +1215,9 @@
 	<bank>
 		<COMPE>263</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CACIQUE</FiscalName>
 		<FantasyName>BANCO CACIQUE</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.327</DateRegistered>
 		<DateUpdated null="true" />
@@ -1228,9 +1227,9 @@
 	<bank>
 		<COMPE>264</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PERFORMANCE S.A</FiscalName>
 		<FantasyName>BANCO PERFORMANCE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
 		<DateUpdated null="true" />
@@ -1240,9 +1239,9 @@
 	<bank>
 		<COMPE>265</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FATOR S.A</FiscalName>
 		<FantasyName>BANCO FATOR S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
 		<DateUpdated null="true" />
@@ -1252,9 +1251,9 @@
 	<bank>
 		<COMPE>266</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CEDULA S.A</FiscalName>
 		<FantasyName>BANCO CEDULA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
 		<DateUpdated null="true" />
@@ -1264,9 +1263,9 @@
 	<bank>
 		<COMPE>267</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BBM-COM.C.IMOB.CFI S.A.</FiscalName>
 		<FantasyName>BANCO BBM-COM.C.IMOB.CFI S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
 		<DateUpdated null="true" />
@@ -1276,9 +1275,9 @@
 	<bank>
 		<COMPE>275</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO REAL S.A</FiscalName>
 		<FantasyName>BANCO REAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
 		<DateUpdated null="true" />
@@ -1288,9 +1287,9 @@
 	<bank>
 		<COMPE>277</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PLANIBANC S.A</FiscalName>
 		<FantasyName>BANCO PLANIBANC S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
 		<DateUpdated null="true" />
@@ -1300,9 +1299,9 @@
 	<bank>
 		<COMPE>282</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BRASILEIRO COMERCIAL</FiscalName>
 		<FantasyName>BANCO BRASILEIRO COMERCIAL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.330</DateRegistered>
 		<DateUpdated null="true" />
@@ -1312,9 +1311,9 @@
 	<bank>
 		<COMPE>291</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DE CREDITO NACIONAL S.A</FiscalName>
 		<FantasyName>BANCO DE CREDITO NACIONAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
 		<DateUpdated null="true" />
@@ -1324,9 +1323,9 @@
 	<bank>
 		<COMPE>294</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BCR - BANCO DE CREDITO REAL S.A</FiscalName>
 		<FantasyName>BCR - BANCO DE CREDITO REAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
 		<DateUpdated null="true" />
@@ -1336,9 +1335,9 @@
 	<bank>
 		<COMPE>295</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CREDIPLAN S.A</FiscalName>
 		<FantasyName>BANCO CREDIPLAN S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
 		<DateUpdated null="true" />
@@ -1348,9 +1347,9 @@
 	<bank>
 		<COMPE>300</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DE LA NACION ARGENTINA S.A</FiscalName>
 		<FantasyName>BANCO DE LA NACION ARGENTINA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.333</DateRegistered>
 		<DateUpdated null="true" />
@@ -1360,9 +1359,9 @@
 	<bank>
 		<COMPE>302</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO PROGRESSO S.A</FiscalName>
 		<FantasyName>BANCO DO PROGRESSO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
 		<DateUpdated null="true" />
@@ -1372,9 +1371,9 @@
 	<bank>
 		<COMPE>303</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO HNF S.A.</FiscalName>
 		<FantasyName>BANCO HNF S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
 		<DateUpdated null="true" />
@@ -1384,9 +1383,9 @@
 	<bank>
 		<COMPE>304</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PONTUAL S.A</FiscalName>
 		<FantasyName>BANCO PONTUAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
 		<DateUpdated null="true" />
@@ -1396,9 +1395,9 @@
 	<bank>
 		<COMPE>308</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO COMERCIAL BANCESA S.A.</FiscalName>
 		<FantasyName>BANCO COMERCIAL BANCESA S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
 		<DateUpdated null="true" />
@@ -1408,9 +1407,9 @@
 	<bank>
 		<COMPE>318</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO B.M.G. S.A</FiscalName>
 		<FantasyName>BANCO B.M.G. S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.337</DateRegistered>
 		<DateUpdated null="true" />
@@ -1420,9 +1419,9 @@
 	<bank>
 		<COMPE>320</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INDUSTRIAL E COMERCIAL</FiscalName>
 		<FantasyName>BANCO INDUSTRIAL E COMERCIAL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
 		<DateUpdated null="true" />
@@ -1432,9 +1431,9 @@
 	<bank>
 		<COMPE>346</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FRANCES E BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO FRANCES E BRASILEIRO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
 		<DateUpdated null="true" />
@@ -1444,9 +1443,9 @@
 	<bank>
 		<COMPE>347</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SUDAMERIS BRASIL S.A</FiscalName>
 		<FantasyName>BANCO SUDAMERIS BRASIL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
 		<DateUpdated null="true" />
@@ -1456,9 +1455,9 @@
 	<bank>
 		<COMPE>351</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BOZANO SIMONSEN S.A</FiscalName>
 		<FantasyName>BANCO BOZANO SIMONSEN S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
 		<DateUpdated null="true" />
@@ -1468,9 +1467,9 @@
 	<bank>
 		<COMPE>353</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GERAL DO COMERCIO S.A</FiscalName>
 		<FantasyName>BANCO GERAL DO COMERCIO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
 		<DateUpdated null="true" />
@@ -1480,9 +1479,9 @@
 	<bank>
 		<COMPE>356</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>ABN AMRO S.A</FiscalName>
 		<FantasyName>ABN AMRO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.340</DateRegistered>
 		<DateUpdated null="true" />
@@ -1492,9 +1491,9 @@
 	<bank>
 		<COMPE>366</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SOGERAL S.A</FiscalName>
 		<FantasyName>BANCO SOGERAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
 		<DateUpdated null="true" />
@@ -1504,9 +1503,9 @@
 	<bank>
 		<COMPE>369</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>PONTUAL</FiscalName>
 		<FantasyName>PONTUAL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
 		<DateUpdated null="true" />
@@ -1516,9 +1515,9 @@
 	<bank>
 		<COMPE>370</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BEAL - BANCO EUROPEU PARA AMERICA LATINA</FiscalName>
 		<FantasyName>BEAL - BANCO EUROPEU PARA AMERICA LATINA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.343</DateRegistered>
 		<DateUpdated null="true" />
@@ -1528,9 +1527,9 @@
 	<bank>
 		<COMPE>372</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ITAMARATI S.A</FiscalName>
 		<FantasyName>BANCO ITAMARATI S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
 		<DateUpdated null="true" />
@@ -1540,9 +1539,9 @@
 	<bank>
 		<COMPE>375</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FENICIA S.A</FiscalName>
 		<FantasyName>BANCO FENICIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
 		<DateUpdated null="true" />
@@ -1552,9 +1551,9 @@
 	<bank>
 		<COMPE>376</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CHASE MANHATTAN BANK S.A</FiscalName>
 		<FantasyName>CHASE MANHATTAN BANK S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
 		<DateUpdated null="true" />
@@ -1564,9 +1563,9 @@
 	<bank>
 		<COMPE>388</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MERCANTIL DE DESCONTOS S/A</FiscalName>
 		<FantasyName>BANCO MERCANTIL DE DESCONTOS S/A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
 		<DateUpdated null="true" />
@@ -1576,9 +1575,9 @@
 	<bank>
 		<COMPE>389</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MERCANTIL DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO MERCANTIL DO BRASIL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.347</DateRegistered>
 		<DateUpdated null="true" />
@@ -1588,9 +1587,9 @@
 	<bank>
 		<COMPE>392</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MERCANTIL DE SAO PAULO S.A</FiscalName>
 		<FantasyName>BANCO MERCANTIL DE SAO PAULO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
 		<DateUpdated null="true" />
@@ -1600,9 +1599,9 @@
 	<bank>
 		<COMPE>394</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO B.M.C. S.A</FiscalName>
 		<FantasyName>BANCO B.M.C. S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
 		<DateUpdated null="true" />
@@ -1612,9 +1611,9 @@
 	<bank>
 		<COMPE>409</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>UNIBANCO - UNIAO DOS BANCOS BRASILEIROS</FiscalName>
 		<FantasyName>UNIBANCO - UNIAO DOS BANCOS BRASILEIROS</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
 		<DateUpdated null="true" />
@@ -1624,9 +1623,9 @@
 	<bank>
 		<COMPE>412</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NACIONAL DA BAHIA S.A</FiscalName>
 		<FantasyName>BANCO NACIONAL DA BAHIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
 		<DateUpdated null="true" />
@@ -1636,9 +1635,9 @@
 	<bank>
 		<COMPE>415</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NACIONAL S.A</FiscalName>
 		<FantasyName>BANCO NACIONAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
 		<DateUpdated null="true" />
@@ -1648,9 +1647,9 @@
 	<bank>
 		<COMPE>420</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NACIONAL DO NORTE S.A</FiscalName>
 		<FantasyName>BANCO NACIONAL DO NORTE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.350</DateRegistered>
 		<DateUpdated null="true" />
@@ -1660,9 +1659,9 @@
 	<bank>
 		<COMPE>424</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NOROESTE S.A</FiscalName>
 		<FantasyName>BANCO NOROESTE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
 		<DateUpdated null="true" />
@@ -1672,9 +1671,9 @@
 	<bank>
 		<COMPE>434</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FORTALEZA S.A</FiscalName>
 		<FantasyName>BANCO FORTALEZA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
 		<DateUpdated null="true" />
@@ -1684,9 +1683,9 @@
 	<bank>
 		<COMPE>453</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO RURAL S.A</FiscalName>
 		<FantasyName>BANCO RURAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
 		<DateUpdated null="true" />
@@ -1696,9 +1695,9 @@
 	<bank>
 		<COMPE>456</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO TOKIO S.A</FiscalName>
 		<FantasyName>BANCO TOKIO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.353</DateRegistered>
 		<DateUpdated null="true" />
@@ -1708,9 +1707,9 @@
 	<bank>
 		<COMPE>464</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SUMITOMO BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO SUMITOMO BRASILEIRO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
 		<DateUpdated null="true" />
@@ -1720,9 +1719,9 @@
 	<bank>
 		<COMPE>466</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MITSUBISHI BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO MITSUBISHI BRASILEIRO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
 		<DateUpdated null="true" />
@@ -1732,9 +1731,9 @@
 	<bank>
 		<COMPE>472</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>LLOYDS BANK PLC</FiscalName>
 		<FantasyName>LLOYDS BANK PLC</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
 		<DateUpdated null="true" />
@@ -1744,9 +1743,9 @@
 	<bank>
 		<COMPE>473</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FINANCIAL PORTUGUES S.A</FiscalName>
 		<FantasyName>BANCO FINANCIAL PORTUGUES S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
 		<DateUpdated null="true" />
@@ -1756,9 +1755,9 @@
 	<bank>
 		<COMPE>477</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CITIBANK N.A</FiscalName>
 		<FantasyName>CITIBANK N.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.357</DateRegistered>
 		<DateUpdated null="true" />
@@ -1768,9 +1767,9 @@
 	<bank>
 		<COMPE>479</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DE BOSTON S.A</FiscalName>
 		<FantasyName>BANCO DE BOSTON S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
 		<DateUpdated null="true" />
@@ -1780,9 +1779,9 @@
 	<bank>
 		<COMPE>480</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PORTUGUES DO ATLANTICO-BRASIL S.A</FiscalName>
 		<FantasyName>BANCO PORTUGUES DO ATLANTICO-BRASIL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
 		<DateUpdated null="true" />
@@ -1792,9 +1791,9 @@
 	<bank>
 		<COMPE>483</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO AGRIMISA S.A.</FiscalName>
 		<FantasyName>BANCO AGRIMISA S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
 		<DateUpdated null="true" />
@@ -1804,9 +1803,9 @@
 	<bank>
 		<COMPE>487</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>DEUTSCHE BANK S.A - BANCO ALEMAO</FiscalName>
 		<FantasyName>DEUTSCHE BANK S.A - BANCO ALEMAO</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
 		<DateUpdated null="true" />
@@ -1816,9 +1815,9 @@
 	<bank>
 		<COMPE>488</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO J. P. MORGAN S.A</FiscalName>
 		<FantasyName>BANCO J. P. MORGAN S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
 		<DateUpdated null="true" />
@@ -1828,9 +1827,9 @@
 	<bank>
 		<COMPE>489</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANESTO BANCO URUGAUAY S.A</FiscalName>
 		<FantasyName>BANESTO BANCO URUGAUAY S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.360</DateRegistered>
 		<DateUpdated null="true" />
@@ -1840,9 +1839,9 @@
 	<bank>
 		<COMPE>492</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>INTERNATIONALE NEDERLANDEN BANK N.V.</FiscalName>
 		<FantasyName>INTERNATIONALE NEDERLANDEN BANK N.V.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
 		<DateUpdated null="true" />
@@ -1852,9 +1851,9 @@
 	<bank>
 		<COMPE>493</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO UNION S.A.C.A</FiscalName>
 		<FantasyName>BANCO UNION S.A.C.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
 		<DateUpdated null="true" />
@@ -1864,9 +1863,9 @@
 	<bank>
 		<COMPE>494</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO LA REP. ORIENTAL DEL URUGUAY</FiscalName>
 		<FantasyName>BANCO LA REP. ORIENTAL DEL URUGUAY</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
 		<DateUpdated null="true" />
@@ -1876,9 +1875,9 @@
 	<bank>
 		<COMPE>495</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO LA PROVINCIA DE BUENOS AIRES</FiscalName>
 		<FantasyName>BANCO LA PROVINCIA DE BUENOS AIRES</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
 		<DateUpdated null="true" />
@@ -1888,9 +1887,9 @@
 	<bank>
 		<COMPE>496</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO EXTERIOR DE ESPANA S.A</FiscalName>
 		<FantasyName>BANCO EXTERIOR DE ESPANA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.363</DateRegistered>
 		<DateUpdated null="true" />
@@ -1900,9 +1899,9 @@
 	<bank>
 		<COMPE>498</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>CENTRO HISPANO BANCO</FiscalName>
 		<FantasyName>CENTRO HISPANO BANCO</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
 		<DateUpdated null="true" />
@@ -1912,9 +1911,9 @@
 	<bank>
 		<COMPE>499</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO IOCHPE S.A</FiscalName>
 		<FantasyName>BANCO IOCHPE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
 		<DateUpdated null="true" />
@@ -1924,9 +1923,9 @@
 	<bank>
 		<COMPE>501</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BRASILEIRO IRAQUIANO S.A.</FiscalName>
 		<FantasyName>BANCO BRASILEIRO IRAQUIANO S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
 		<DateUpdated null="true" />
@@ -1936,9 +1935,9 @@
 	<bank>
 		<COMPE>502</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SANTANDER S.A</FiscalName>
 		<FantasyName>BANCO SANTANDER S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
 		<DateUpdated null="true" />
@@ -1948,9 +1947,9 @@
 	<bank>
 		<COMPE>504</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MULTIPLIC S.A</FiscalName>
 		<FantasyName>BANCO MULTIPLIC S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.367</DateRegistered>
 		<DateUpdated null="true" />
@@ -1960,9 +1959,9 @@
 	<bank>
 		<COMPE>505</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GARANTIA S.A</FiscalName>
 		<FantasyName>BANCO GARANTIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
 		<DateUpdated null="true" />
@@ -1972,9 +1971,9 @@
 	<bank>
 		<COMPE>600</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO LUSO BRASILEIRO S.A</FiscalName>
 		<FantasyName>BANCO LUSO BRASILEIRO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
 		<DateUpdated null="true" />
@@ -1984,9 +1983,9 @@
 	<bank>
 		<COMPE>601</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BFC BANCO S.A.</FiscalName>
 		<FantasyName>BFC BANCO S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
 		<DateUpdated null="true" />
@@ -1996,9 +1995,9 @@
 	<bank>
 		<COMPE>602</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PATENTE S.A</FiscalName>
 		<FantasyName>BANCO PATENTE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
 		<DateUpdated null="true" />
@@ -2008,9 +2007,9 @@
 	<bank>
 		<COMPE>604</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INDUSTRIAL DO BRASIL S.A</FiscalName>
 		<FantasyName>BANCO INDUSTRIAL DO BRASIL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.370</DateRegistered>
 		<DateUpdated null="true" />
@@ -2020,9 +2019,9 @@
 	<bank>
 		<COMPE>607</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SANTOS NEVES S.A</FiscalName>
 		<FantasyName>BANCO SANTOS NEVES S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
 		<DateUpdated null="true" />
@@ -2032,9 +2031,9 @@
 	<bank>
 		<COMPE>608</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO OPEN S.A</FiscalName>
 		<FantasyName>BANCO OPEN S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
 		<DateUpdated null="true" />
@@ -2044,9 +2043,9 @@
 	<bank>
 		<COMPE>610</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO V.R. S.A</FiscalName>
 		<FantasyName>BANCO V.R. S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
 		<DateUpdated null="true" />
@@ -2056,9 +2055,9 @@
 	<bank>
 		<COMPE>611</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PAULISTA S.A</FiscalName>
 		<FantasyName>BANCO PAULISTA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.373</DateRegistered>
 		<DateUpdated null="true" />
@@ -2068,9 +2067,9 @@
 	<bank>
 		<COMPE>612</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GUANABARA S.A</FiscalName>
 		<FantasyName>BANCO GUANABARA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
 		<DateUpdated null="true" />
@@ -2080,9 +2079,9 @@
 	<bank>
 		<COMPE>613</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PECUNIA S.A</FiscalName>
 		<FantasyName>BANCO PECUNIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
 		<DateUpdated null="true" />
@@ -2092,9 +2091,9 @@
 	<bank>
 		<COMPE>616</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INTERPACIFICO S.A</FiscalName>
 		<FantasyName>BANCO INTERPACIFICO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
 		<DateUpdated null="true" />
@@ -2104,9 +2103,9 @@
 	<bank>
 		<COMPE>617</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INVESTOR S.A.</FiscalName>
 		<FantasyName>BANCO INVESTOR S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
 		<DateUpdated null="true" />
@@ -2116,9 +2115,9 @@
 	<bank>
 		<COMPE>618</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO TENDENCIA S.A</FiscalName>
 		<FantasyName>BANCO TENDENCIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.377</DateRegistered>
 		<DateUpdated null="true" />
@@ -2128,9 +2127,9 @@
 	<bank>
 		<COMPE>621</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO APLICAP S.A.</FiscalName>
 		<FantasyName>BANCO APLICAP S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
 		<DateUpdated null="true" />
@@ -2140,9 +2139,9 @@
 	<bank>
 		<COMPE>622</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DRACMA S.A</FiscalName>
 		<FantasyName>BANCO DRACMA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
 		<DateUpdated null="true" />
@@ -2152,9 +2151,9 @@
 	<bank>
 		<COMPE>623</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PANAMERICANO S.A</FiscalName>
 		<FantasyName>BANCO PANAMERICANO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
 		<DateUpdated null="true" />
@@ -2164,9 +2163,9 @@
 	<bank>
 		<COMPE>624</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GENERAL MOTORS S.A</FiscalName>
 		<FantasyName>BANCO GENERAL MOTORS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
 		<DateUpdated null="true" />
@@ -2176,9 +2175,9 @@
 	<bank>
 		<COMPE>625</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ARAUCARIA S.A</FiscalName>
 		<FantasyName>BANCO ARAUCARIA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
 		<DateUpdated null="true" />
@@ -2188,9 +2187,9 @@
 	<bank>
 		<COMPE>626</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FICSA S.A</FiscalName>
 		<FantasyName>BANCO FICSA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.380</DateRegistered>
 		<DateUpdated null="true" />
@@ -2200,9 +2199,9 @@
 	<bank>
 		<COMPE>627</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DESTAK S.A</FiscalName>
 		<FantasyName>BANCO DESTAK S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
 		<DateUpdated null="true" />
@@ -2212,9 +2211,9 @@
 	<bank>
 		<COMPE>628</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CRITERIUM S.A</FiscalName>
 		<FantasyName>BANCO CRITERIUM S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
 		<DateUpdated null="true" />
@@ -2224,9 +2223,9 @@
 	<bank>
 		<COMPE>629</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCORP BANCO COML. E. DE INVESTMENTO</FiscalName>
 		<FantasyName>BANCORP BANCO COML. E. DE INVESTMENTO</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
 		<DateUpdated null="true" />
@@ -2236,9 +2235,9 @@
 	<bank>
 		<COMPE>630</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INTERCAP S.A</FiscalName>
 		<FantasyName>BANCO INTERCAP S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
 		<DateUpdated null="true" />
@@ -2248,9 +2247,9 @@
 	<bank>
 		<COMPE>633</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO REDIMENTO S.A</FiscalName>
 		<FantasyName>BANCO REDIMENTO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.383</DateRegistered>
 		<DateUpdated null="true" />
@@ -2260,9 +2259,9 @@
 	<bank>
 		<COMPE>634</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO TRIANGULO S.A</FiscalName>
 		<FantasyName>BANCO TRIANGULO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
 		<DateUpdated null="true" />
@@ -2272,9 +2271,9 @@
 	<bank>
 		<COMPE>635</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DO AMAPA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DO AMAPA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
 		<DateUpdated null="true" />
@@ -2284,9 +2283,9 @@
 	<bank>
 		<COMPE>637</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SOFISA S.A</FiscalName>
 		<FantasyName>BANCO SOFISA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
 		<DateUpdated null="true" />
@@ -2296,9 +2295,9 @@
 	<bank>
 		<COMPE>638</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PROSPER S.A</FiscalName>
 		<FantasyName>BANCO PROSPER S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
 		<DateUpdated null="true" />
@@ -2308,9 +2307,9 @@
 	<bank>
 		<COMPE>639</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BIG S.A. - BANCO IRMAOS GUIMARAES</FiscalName>
 		<FantasyName>BIG S.A. - BANCO IRMAOS GUIMARAES</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.387</DateRegistered>
 		<DateUpdated null="true" />
@@ -2320,9 +2319,9 @@
 	<bank>
 		<COMPE>640</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DE CREDITO METROPOLITANO S.A</FiscalName>
 		<FantasyName>BANCO DE CREDITO METROPOLITANO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
 		<DateUpdated null="true" />
@@ -2332,9 +2331,9 @@
 	<bank>
 		<COMPE>641</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO EXCEL ECONOMICO S/A</FiscalName>
 		<FantasyName>BANCO EXCEL ECONOMICO S/A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
 		<DateUpdated null="true" />
@@ -2344,9 +2343,9 @@
 	<bank>
 		<COMPE>643</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SEGMENTO S.A</FiscalName>
 		<FantasyName>BANCO SEGMENTO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
 		<DateUpdated null="true" />
@@ -2356,9 +2355,9 @@
 	<bank>
 		<COMPE>645</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DO ESTADO DE RORAIMA S.A</FiscalName>
 		<FantasyName>BANCO DO ESTADO DE RORAIMA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
 		<DateUpdated null="true" />
@@ -2368,9 +2367,9 @@
 	<bank>
 		<COMPE>647</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MARKA S.A</FiscalName>
 		<FantasyName>BANCO MARKA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
 		<DateUpdated null="true" />
@@ -2380,9 +2379,9 @@
 	<bank>
 		<COMPE>648</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO ATLANTIS S.A</FiscalName>
 		<FantasyName>BANCO ATLANTIS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
 		<DateUpdated null="true" />
@@ -2392,9 +2391,9 @@
 	<bank>
 		<COMPE>649</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DIMENSAO S.A</FiscalName>
 		<FantasyName>BANCO DIMENSAO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.390</DateRegistered>
 		<DateUpdated null="true" />
@@ -2404,9 +2403,9 @@
 	<bank>
 		<COMPE>650</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PEBB S.A</FiscalName>
 		<FantasyName>BANCO PEBB S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
 		<DateUpdated null="true" />
@@ -2416,9 +2415,9 @@
 	<bank>
 		<COMPE>652</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FRANCES E BRASILEIRO SA</FiscalName>
 		<FantasyName>BANCO FRANCES E BRASILEIRO SA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
 		<DateUpdated null="true" />
@@ -2428,9 +2427,9 @@
 	<bank>
 		<COMPE>653</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INDUSVAL S.A</FiscalName>
 		<FantasyName>BANCO INDUSVAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
 		<DateUpdated null="true" />
@@ -2440,9 +2439,9 @@
 	<bank>
 		<COMPE>654</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO A. J. RENNER S.A</FiscalName>
 		<FantasyName>BANCO A. J. RENNER S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
 		<DateUpdated null="true" />
@@ -2452,9 +2451,9 @@
 	<bank>
 		<COMPE>655</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO VOTORANTIM S.A.</FiscalName>
 		<FantasyName>BANCO VOTORANTIM S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.393</DateRegistered>
 		<DateUpdated null="true" />
@@ -2464,9 +2463,9 @@
 	<bank>
 		<COMPE>656</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MATRIX S.A</FiscalName>
 		<FantasyName>BANCO MATRIX S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
 		<DateUpdated null="true" />
@@ -2476,9 +2475,9 @@
 	<bank>
 		<COMPE>657</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO TECNICORP S.A</FiscalName>
 		<FantasyName>BANCO TECNICORP S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
 		<DateUpdated null="true" />
@@ -2488,9 +2487,9 @@
 	<bank>
 		<COMPE>658</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PORTO REAL S.A</FiscalName>
 		<FantasyName>BANCO PORTO REAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
 		<DateUpdated null="true" />
@@ -2500,9 +2499,9 @@
 	<bank>
 		<COMPE>702</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO SANTOS S.A</FiscalName>
 		<FantasyName>BANCO SANTOS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.397</DateRegistered>
 		<DateUpdated null="true" />
@@ -2512,9 +2511,9 @@
 	<bank>
 		<COMPE>705</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INVESTCORP S.A.</FiscalName>
 		<FantasyName>BANCO INVESTCORP S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
 		<DateUpdated null="true" />
@@ -2524,9 +2523,9 @@
 	<bank>
 		<COMPE>707</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO DAYCOVAL S.A</FiscalName>
 		<FantasyName>BANCO DAYCOVAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
 		<DateUpdated null="true" />
@@ -2536,9 +2535,9 @@
 	<bank>
 		<COMPE>711</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO VETOR S.A.</FiscalName>
 		<FantasyName>BANCO VETOR S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
 		<DateUpdated null="true" />
@@ -2548,9 +2547,9 @@
 	<bank>
 		<COMPE>713</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CINDAM S.A</FiscalName>
 		<FantasyName>BANCO CINDAM S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
 		<DateUpdated null="true" />
@@ -2560,9 +2559,9 @@
 	<bank>
 		<COMPE>715</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO VEGA S.A</FiscalName>
 		<FantasyName>BANCO VEGA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
 		<DateUpdated null="true" />
@@ -2572,9 +2571,9 @@
 	<bank>
 		<COMPE>718</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO OPERADOR S.A</FiscalName>
 		<FantasyName>BANCO OPERADOR S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
 		<DateUpdated null="true" />
@@ -2584,9 +2583,9 @@
 	<bank>
 		<COMPE>719</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PRIMUS S.A</FiscalName>
 		<FantasyName>BANCO PRIMUS S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.400</DateRegistered>
 		<DateUpdated null="true" />
@@ -2596,9 +2595,9 @@
 	<bank>
 		<COMPE>720</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MAXINVEST S.A</FiscalName>
 		<FantasyName>BANCO MAXINVEST S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
 		<DateUpdated null="true" />
@@ -2608,9 +2607,9 @@
 	<bank>
 		<COMPE>721</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO CREDIBEL S.A</FiscalName>
 		<FantasyName>BANCO CREDIBEL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
 		<DateUpdated null="true" />
@@ -2620,9 +2619,9 @@
 	<bank>
 		<COMPE>722</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO INTERIOR DE SAO PAULO S.A</FiscalName>
 		<FantasyName>BANCO INTERIOR DE SAO PAULO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
 		<DateUpdated null="true" />
@@ -2632,9 +2631,9 @@
 	<bank>
 		<COMPE>724</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PORTO SEGURO S.A</FiscalName>
 		<FantasyName>BANCO PORTO SEGURO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.403</DateRegistered>
 		<DateUpdated null="true" />
@@ -2644,9 +2643,9 @@
 	<bank>
 		<COMPE>725</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FINABANCO S.A</FiscalName>
 		<FantasyName>BANCO FINABANCO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
 		<DateUpdated null="true" />
@@ -2656,9 +2655,9 @@
 	<bank>
 		<COMPE>726</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO UNIVERSAL S.A</FiscalName>
 		<FantasyName>BANCO UNIVERSAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
 		<DateUpdated null="true" />
@@ -2668,9 +2667,9 @@
 	<bank>
 		<COMPE>728</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FITAL S.A</FiscalName>
 		<FantasyName>BANCO FITAL S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
 		<DateUpdated null="true" />
@@ -2680,9 +2679,9 @@
 	<bank>
 		<COMPE>729</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO FONTE S.A</FiscalName>
 		<FantasyName>BANCO FONTE S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
 		<DateUpdated null="true" />
@@ -2692,9 +2691,9 @@
 	<bank>
 		<COMPE>730</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO COMERCIAL PARAGUAYO S.A</FiscalName>
 		<FantasyName>BANCO COMERCIAL PARAGUAYO S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.407</DateRegistered>
 		<DateUpdated null="true" />
@@ -2704,9 +2703,9 @@
 	<bank>
 		<COMPE>731</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GNPP S.A.</FiscalName>
 		<FantasyName>BANCO GNPP S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
 		<DateUpdated null="true" />
@@ -2716,9 +2715,9 @@
 	<bank>
 		<COMPE>732</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO PREMIER S.A.</FiscalName>
 		<FantasyName>BANCO PREMIER S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
 		<DateUpdated null="true" />
@@ -2728,9 +2727,9 @@
 	<bank>
 		<COMPE>733</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NACOES S.A.</FiscalName>
 		<FantasyName>BANCO NACOES S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
 		<DateUpdated null="true" />
@@ -2740,9 +2739,9 @@
 	<bank>
 		<COMPE>734</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO GERDAU S.A</FiscalName>
 		<FantasyName>BANCO GERDAU S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
 		<DateUpdated null="true" />
@@ -2752,9 +2751,9 @@
 	<bank>
 		<COMPE>735</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO NEON</FiscalName>
 		<FantasyName>BANCO NEON</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
 		<DateUpdated>2019-11-12 19:15:00.000</DateUpdated>
@@ -2764,9 +2763,9 @@
 	<bank>
 		<COMPE>736</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO UNITED S.A</FiscalName>
 		<FantasyName>BANCO UNITED S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.410</DateRegistered>
 		<DateUpdated null="true" />
@@ -2776,9 +2775,9 @@
 	<bank>
 		<COMPE>737</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>THECA</FiscalName>
 		<FantasyName>THECA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
 		<DateUpdated null="true" />
@@ -2788,9 +2787,9 @@
 	<bank>
 		<COMPE>738</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>MARADA</FiscalName>
 		<FantasyName>MARADA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
 		<DateUpdated null="true" />
@@ -2800,9 +2799,9 @@
 	<bank>
 		<COMPE>739</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BGN</FiscalName>
 		<FantasyName>BGN</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
 		<DateUpdated null="true" />
@@ -2812,9 +2811,9 @@
 	<bank>
 		<COMPE>740</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BCN BARCLAYS</FiscalName>
 		<FantasyName>BCN BARCLAYS</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
 		<DateUpdated null="true" />
@@ -2824,9 +2823,9 @@
 	<bank>
 		<COMPE>741</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BRP</FiscalName>
 		<FantasyName>BRP</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.413</DateRegistered>
 		<DateUpdated null="true" />
@@ -2836,9 +2835,9 @@
 	<bank>
 		<COMPE>742</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>EQUATORIAL</FiscalName>
 		<FantasyName>EQUATORIAL</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
 		<DateUpdated null="true" />
@@ -2848,9 +2847,9 @@
 	<bank>
 		<COMPE>743</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO EMBLEMA S.A</FiscalName>
 		<FantasyName>BANCO EMBLEMA S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
 		<DateUpdated null="true" />
@@ -2860,9 +2859,9 @@
 	<bank>
 		<COMPE>744</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>THE FIRST NATIONAL BANK OF BOSTON</FiscalName>
 		<FantasyName>THE FIRST NATIONAL BANK OF BOSTON</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
 		<DateUpdated null="true" />
@@ -2872,9 +2871,9 @@
 	<bank>
 		<COMPE>746</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>MODAL S\A</FiscalName>
 		<FantasyName>MODAL S\A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.417</DateRegistered>
 		<DateUpdated null="true" />
@@ -2884,11 +2883,10 @@
 	<bank>
 		<COMPE>747</COMPE>
 		<ISPB>0</ISPB>
+		<Document>01.023.570/0001-60</Document>
 		<FiscalName>RABOBANK DO BRASIL</FiscalName>
 		<FantasyName>RABOBANK DO BRASIL</FantasyName>
-		<Document>01.023.570/0001-60</Document>
-		<Website>https://www.rabobank.com.br</Website>
-		<Url null="true" />
+		<Url>https://www.rabobank.com.br</Url>
 		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
@@ -2897,9 +2895,9 @@
 	<bank>
 		<COMPE>748</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>SICREDI</FiscalName>
 		<FantasyName>SICREDI</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
 		<DateUpdated null="true" />
@@ -2909,9 +2907,9 @@
 	<bank>
 		<COMPE>749</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BRMSANTIL SA</FiscalName>
 		<FantasyName>BRMSANTIL SA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
 		<DateUpdated null="true" />
@@ -2921,9 +2919,9 @@
 	<bank>
 		<COMPE>750</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO REPUBLIC NATIONAL OF NEW YORK (BRA</FiscalName>
 		<FantasyName>BANCO REPUBLIC NATIONAL OF NEW YORK (BRA</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
 		<DateUpdated null="true" />
@@ -2933,9 +2931,9 @@
 	<bank>
 		<COMPE>751</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>DRESDNER BANK LATEINAMERIKA-BRASIL S/A</FiscalName>
 		<FantasyName>DRESDNER BANK LATEINAMERIKA-BRASIL S/A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
 		<DateUpdated null="true" />
@@ -2945,9 +2943,9 @@
 	<bank>
 		<COMPE>752</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO BANQUE NATIONALE DE PARIS BRASIL S</FiscalName>
 		<FantasyName>BANCO BANQUE NATIONALE DE PARIS BRASIL S</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.420</DateRegistered>
 		<DateUpdated null="true" />
@@ -2957,9 +2955,9 @@
 	<bank>
 		<COMPE>753</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO COMERCIAL URUGUAI S.A.</FiscalName>
 		<FantasyName>BANCO COMERCIAL URUGUAI S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
 		<DateUpdated null="true" />
@@ -2969,9 +2967,9 @@
 	<bank>
 		<COMPE>755</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO MERRILL LYNCH S.A</FiscalName>
 		<FantasyName>BANCO MERRILL LYNCH S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
 		<DateUpdated null="true" />
@@ -2981,9 +2979,9 @@
 	<bank>
 		<COMPE>757</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO KEB DO BRASIL S.A.</FiscalName>
 		<FantasyName>BANCO KEB DO BRASIL S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 15:12:24.423</DateRegistered>
 		<DateUpdated null="true" />
@@ -2993,9 +2991,9 @@
 	<bank>
 		<COMPE>260</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>NUBANK</FiscalName>
 		<FantasyName>NUBANK</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 16:47:35.153</DateRegistered>
 		<DateUpdated null="true" />
@@ -3005,9 +3003,9 @@
 	<bank>
 		<COMPE>102</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>XP INVESTIMENTOS</FiscalName>
 		<FantasyName>XP INVESTIMENTOS</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2018-01-29 16:47:35.210</DateRegistered>
 		<DateUpdated null="true" />
@@ -3017,9 +3015,9 @@
 	<bank>
 		<COMPE>336</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>BANCO C6 S.A.</FiscalName>
 		<FantasyName>BANCO C6 S.A.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2019-08-02 13:11:00.000</DateRegistered>
 		<DateUpdated null="true" />
@@ -3029,9 +3027,9 @@
 	<bank>
 		<COMPE>290</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>PagSeguro Internet S.A</FiscalName>
 		<FantasyName>PagSeguro Internet S.A</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2019-08-21 12:49:00.000</DateRegistered>
 		<DateUpdated null="true" />
@@ -3041,9 +3039,9 @@
 	<bank>
 		<COMPE>323</COMPE>
 		<ISPB>0</ISPB>
+		<Document></Document>
 		<FiscalName>MercadoPago.com Representações Ltda.</FiscalName>
 		<FantasyName>MercadoPago.com Representações Ltda.</FantasyName>
-		<Document null="true" />
 		<Url null="true" />
 		<DateRegistered>2019-09-13 15:23:00.000</DateRegistered>
 		<DateUpdated null="true" />
@@ -3053,9 +3051,9 @@
 	<bank>
 		<COMPE>332</COMPE>
 		<ISPB>0</ISPB>
+		<Document>13.140.088/0001-99</Document>
 		<FiscalName>Acesso Soluções de Pagamento S.A.</FiscalName>
 		<FantasyName>Acesso Soluções de Pagamento S.A.</FantasyName>
-		<Document>13.140.088/0001-99</Document>
 		<Url null="true" />
 		<DateRegistered>2019-12-26 15:00:00.000</DateRegistered>
 		<DateUpdated null="true" />
@@ -3065,9 +3063,9 @@
 	<bank>
 		<COMPE>325</COMPE>
 		<ISPB>0</ISPB>
+		<Document>13.293.225/0001-25</Document>
 		<FiscalName>Órama DTVM S.A.</FiscalName>
 		<FantasyName>Órama DTVM S.A.</FantasyName>
-		<Document>13.293.225/0001-25</Document>
 		<Url null="true" />
 		<DateRegistered>2020-01-15 19:27:00.000</DateRegistered>
 		<DateUpdated null="true" />
@@ -3077,11 +3075,10 @@
 	<bank>
 		<COMPE>085</COMPE>
 		<ISPB>0</ISPB>
+		<Document>05.463.212/0001-29</Document>
 		<FiscalName>COOPERATIVA CENTRAL DE CREDITO - AILOS</FiscalName>
 		<FantasyName>COOPERATIVA CENTRAL DE CREDITO - AILOS</FantasyName>
-		<Document>05.463.212/0001-29</Document>
-		<Website>https://www.ailos.coop.br</Website>
-		<Url null="true" />
+		<Url>>https://www.ailos.coop.br</Url>		
 		<DateRegistered>2020-03-20 18:04:00.000</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
@@ -3090,11 +3087,10 @@
 	<bank>
 		<COMPE>125</COMPE>
 		<ISPB>0</ISPB>
+		<Document>45.246.410/0001-55</Document>
 		<FiscalName>PLURAL S.A. BANCO MULTIPLO</FiscalName>
 		<FantasyName>PLURAL S.A. BANCO MULTIPLO</FantasyName>
-		<Document>45.246.410/0001-55</Document>
-		<Website>https://www.bancoplural.com/</Website>
-		<Url null="true" />
+		<Url>https://www.bancoplural.com/</Url>
 		<DateRegistered>2020-03-20 18:13:00.000</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />
@@ -3103,11 +3099,10 @@
 	<bank>
 		<COMPE>197</COMPE>
 		<ISPB>0</ISPB>
+		<Document>16.501.555/0002-38</Document>
 		<FiscalName>STONE PAGAMENTOS S.A.</FiscalName>
 		<FantasyName>STONE PAGAMENTOS S.A.</FantasyName>
-		<Document>16.501.555/0002-38</Document>
-		<Website>https://www.stone.com.br/</Website>
-		<Url null="true" />
+		<Url>https://www.stone.com.br/</Url>
 		<DateRegistered>2020-04-24 12:58:00.000</DateRegistered>
 		<DateUpdated null="true" />
 		<DateRemoved null="true" />

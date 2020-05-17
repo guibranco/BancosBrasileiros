@@ -43,6 +43,24 @@ Each of the lists has the following information (schema):
 
 ---
 
+## Schemas and classes
+
+A schema file is available in the folder [schemas](schemas) for lists of type:
+
+- [JSON](schemas/schema.json)
+- [SQL](schemas/schema.sql)
+- [XML](schemas/schema.xml)
+
+And classes (DTO - Data Transport Object) in the following languages:
+
+- [C#](schemas/csharp.cs)
+- [Java](schemas/java.java)
+- [PHP](schemas/php.php)
+- [Rust](schemas/rust.rs)
+- [TypeScript](schemas/typescript.ts)
+
+---
+
 ## NPM - Node Package Manager
 
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)

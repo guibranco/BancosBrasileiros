@@ -41,6 +41,26 @@ Cada uma das listas possui as seguintes informações (esquema):
 | DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
 | IsRemoved | Flag indicativa se este banco foi removido ou não | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
 
+Um arquivo de schema está disponível na pasta [schemas](schemas) para as lista do tipo: [JSON](schemas/schema.json), [SQL](schemas/schema.sql), [XML](schemas/schema.xml) e as classes nas linguagens: [C#](schemas/csharp.cs), [Java](schemas/java.java), [TypeScript](schemas/typescript.ts), [PHP](schemas/php.php), [Rust](schemas/rust.rs).
+
+---
+
+## Esquemas e classes
+
+Um arquivo de esquema está disponível na pasta [schemas](schemas) para as listas do tipo:
+
+- [JSON](schemas/schema.json)
+- [SQL](schemas/schema.sql)
+- [XML](schemas/schema.xml)
+
+E classes (DTO - Data Transport Object) das seguintes linguagens:
+
+- [C#](schemas/csharp.cs)
+- [Java](schemas/java.java)
+- [PHP](schemas/php.php)
+- [Rust](schemas/rust.rs)
+- [TypeScript](schemas/typescript.ts)
+
 ---
 
 ## NPM - Node Package Manager
@@ -82,6 +102,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2020-05-17: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
 - 2020-05-17: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
 - 2020-05-17: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
 - 2020-05-17: [Issue #36](http://github.com/guibranco/BancosBrasileiros/issues/36) - Listas normalizadas (dados e estrutura) - [@guibranco](https://github.com/guibranco)
