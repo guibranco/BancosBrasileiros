@@ -3,8 +3,8 @@
 Listagem de bancos comerciais brasileiros
 
 [![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
-![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)
-![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)
+[![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
+[![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 [![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)](https://github.com/guibranco/BancosBrasileiros/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 
@@ -45,7 +45,7 @@ Cada uma das listas possui as seguintes informações (schema):
 
 ## Schemas e classes
 
-Um arquivo de esquema está disponível na pasta [schemas](/schemas) para as listas do tipo:
+Um arquivo de schema está disponível na pasta [schemas](/schemas) para as listas do tipo:
 
 - [JSON](/schemas/schema.json)
 - [SQL](/schemas/schema.sql)
@@ -59,7 +59,7 @@ E classes (DTO - Data Transport Object) das seguintes linguagens:
 - [JavaScript](/schemas/javascript.js)
 - [Kotlin](/schemas/kotlin.kt)
 - [PHP](/schemas/php.php)
-- [Pyhton](/schemas/python.py)
+- [Python](/schemas/python.py)
 - [Rust](/schemas/rust.rs)
 - [TypeScript](/schemas/typescript.ts)
 
@@ -111,15 +111,15 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - 2020-05-17: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
 - 2020-05-17: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
 - 2020-05-17: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
-- 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrige data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
-- 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrige nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
-- 2020-04-28: Removido virgula em excesso no arquivo bancos.json - [@wesleydeveloper](https://github.com/wesleydeveloper)
+- 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrigido data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
+- 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrigido nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
+- 2020-04-28: Removido vírgula em excesso no arquivo bancos.json - [@wesleydeveloper](https://github.com/wesleydeveloper)
 - 2020-04-24: [Issue #35](https://github.com/guibranco/BancosBrasileiros/issues/35) - Adicionado Stone Pagamentos S.A. - [@lucastorress](https://github.com/lucastorress)
 - 2020-04-23: [Issue #34](https://github.com/guibranco/BancosBrasileiros/issues/34) - Publicação automática do pacote NPM - [@guibranco](https://github.com/guibranco)
 - 2020-04-23: [Issue #32](https://github.com/guibranco/BancosBrasileiros/issues/32) - Corrigido dados do Banco Órama em bancos.sql - [@VGsss](https://github.com/VGsss)
 - 2020-04-23: [Issue #33](https://github.com/guibranco/BancosBrasileiros/issues/33) - Corrigido dados do RaboBank - [@rpenha](https://github.com/rpenha)
 - 2020-04-17: Atualização do readme.md e do readme.en.md, publicação do github.io pages
-- 2020-04-15: [Issue #30](https://github.com/guibranco/BancosBrasileiros/issues/30) - Adicionado package.json para listar no NPM - [@RauppRafael](https://github.com/RauppRafael)
+- 2020-04-15: [Issue #30](https://github.com/guibranco/BancosBrasileiros/issues/30) - Adicionado package.json para pacote NPM - [@RauppRafael](https://github.com/RauppRafael)
 - 2020-04-15: Adicionado badges - [@guibranco](https://github.com/guibranco)
 - 2020-03-20: [Issue #25](https://github.com/guibranco/BancosBrasileiros/issues/25) - Corrigido acentuação do Banco de Brasília - [@luisccf](https://github.com/luisccf)
 - 2020-03-20: [Issue #28](https://github.com/guibranco/BancosBrasileiros/issues/28) - Adicionado Banco Brasil Plural - [@lucastorress](https://github.com/lucastorress)
@@ -133,7 +133,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - 2019-11-12: [Issue #16](https://github.com/guibranco/BancosBrasileiros/issues/16) - Substituido Banco Potencial pelo Neon. Removido banco Neon - [@RauppAndPony](https://github.com/RauppAndPony)
 - 2019-08-02: [Issue #11](https://github.com/guibranco/BancosBrasileiros/issues/11) - Adicionado Banco C6 - [@guibranco](https://github.com/guibranco)
 - 2019-05-21: [Issue #10](https://github.com/guibranco/BancosBrasileiros/issues/10) - Adicionado versão inglês do **README.md** - [@guibranco](https://github.com/guibranco)
-- 2019-05-21: [Issue #5](https://github.com/guibranco/BancosBrasileiros/issues/5) e [Issue #6](https://github.com/guibranco/BancosBrasileiros/issues/6) - Adicionado versões **CSV** e **XML** dos dados - [@guibranco](https://github.com/guibranco)
+- 2019-05-21: [Issue #5](https://github.com/guibranco/BancosBrasileiros/issues/5) e [Issue #6](https://github.com/guibranco/BancosBrasileiros/issues/6) - Adicionado listas **CSV** e **XML** dos dados - [@guibranco](https://github.com/guibranco)
 - 2019-05-21: [Issue #8](https://github.com/guibranco/BancosBrasileiros/issues/8) - Adicionado Banco BS2 - [@guibranco](https://github.com/guibranco)
 - 2019-04-03: [PR #7](https://github.com/guibranco/BancosBrasileiros/pull/7) - Corrigido nome do Bradesco em bancos.json - [@jesobreira](https://github.com/jesobreira)
 - 2019-01-15: [Issue #3](https://github.com/guibranco/BancosBrasileiros/issues/3) - Adicionado Banco Inter em bancos.sql - [@diegolourenco](https://github.com/DiegoLourenco)
