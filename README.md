@@ -104,13 +104,13 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
-- 2020-05-17: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
-- 2020-05-17: [Issue #36](http://github.com/guibranco/BancosBrasileiros/issues/36) - Listas normalizadas (dados e estrutura) - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
+- 2020-05-18: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
+- 2020-05-18: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
+- 2020-05-18: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
+- 2020-05-18: [Issue #36](http://github.com/guibranco/BancosBrasileiros/issues/36) - Listas normalizadas (dados e estrutura) - [@guibranco](https://github.com/guibranco)
+- 2020-05-18: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
+- 2020-05-18: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
+- 2020-05-18: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrigido data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrigido nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
 - 2020-04-28: Removido vírgula em excesso no arquivo bancos.json - [@wesleydeveloper](https://github.com/wesleydeveloper)
