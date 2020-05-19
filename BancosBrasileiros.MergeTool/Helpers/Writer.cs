@@ -1,23 +1,24 @@
 ﻿// ***********************************************************************
-// Assembly         : MergeBancosBrasileiros
+// Assembly         : BancosBrasileiros.MergeTool
 // Author           : Guilherme Branco Stracini
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
 // Last Modified On : 19/05/2020
 // ***********************************************************************
-// <copyright file="Writter.cs" company="MergeBancosBrasileiros">
+// <copyright file="Writer.cs" company="BancosBrasileiros.MergeTool">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
+using BancosBrasileiros.MergeTool.Dto;
+using CrispyWaffle.Serialization;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using CrispyWaffle.Serialization;
 
-namespace BancosBrasileiros.MergeTool
+namespace BancosBrasileiros.MergeTool.Helpers
 {
     /// <summary>
     /// Class Writter.

@@ -1,17 +1,18 @@
 ﻿// ***********************************************************************
-// Assembly         : MergeBancosBrasileiros
+// Assembly         : BancosBrasileiros.MergeTool
 // Author           : Guilherme Branco Stracini
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
 // Last Modified On : 19/05/2020
 // ***********************************************************************
-// <copyright file="Worker.cs" company="MergeBancosBrasileiros">
+// <copyright file="Worker.cs" company="BancosBrasileiros.MergeTool">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
+using BancosBrasileiros.MergeTool.Helpers;
 using System;
 
 namespace BancosBrasileiros.MergeTool

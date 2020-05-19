@@ -1,12 +1,12 @@
 ﻿// ***********************************************************************
-// Assembly         : MergeBancosBrasileiros
+// Assembly         : BancosBrasileiros.MergeTool
 // Author           : Guilherme Branco Stracini
 // Created          : 18/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 18/05/2020
+// Last Modified On : 19/05/2020
 // ***********************************************************************
-// <copyright file="Banks.cs" company="MergeBancosBrasileiros">
+// <copyright file="Banks.cs" company="BancosBrasileiros.MergeTool">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
@@ -14,7 +14,7 @@
 
 using System.Xml.Serialization;
 
-namespace BancosBrasileiros.MergeTool
+namespace BancosBrasileiros.MergeTool.Dto
 {
     /// <summary>
     /// Class Banks.

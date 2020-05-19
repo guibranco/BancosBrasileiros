@@ -1,22 +1,22 @@
 ﻿// ***********************************************************************
-// Assembly         : MergeBancosBrasileiros
+// Assembly         : BancosBrasileiros.MergeTool
 // Author           : Guilherme Branco Stracini
 // Created          : 18/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 18/05/2020
+// Last Modified On : 19/05/2020
 // ***********************************************************************
-// <copyright file="Bank.cs" company="MergeBancosBrasileiros">
+// <copyright file="Bank.cs" company="BancosBrasileiros.MergeTool">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
+using Newtonsoft.Json;
 using System;
 using System.Xml.Serialization;
-using Newtonsoft.Json;
 
-namespace BancosBrasileiros.MergeTool
+namespace BancosBrasileiros.MergeTool.Dto
 {
     /// <summary>
     /// Class Bank.
@@ -190,7 +190,9 @@ namespace BancosBrasileiros.MergeTool
             return hashCode.ToHashCode();
         }
 
-        /// <summary>Returns a string that represents the current object.</summary>
+        /// <summary>
+        /// Returns a string that represents the current object.
+        /// </summary>
         /// <returns>A string that represents the current object.</returns>
         public override string ToString()
         {
@@ -198,7 +200,7 @@ namespace BancosBrasileiros.MergeTool
         }
 
         /// <summary>
-        /// Returns a value that indicates whether the values of two <see cref="T:BancosBrasileiros.MergeTool.Bank" /> objects are equal.
+        /// Returns a value that indicates whether the values of two <see cref="T:BancosBrasileiros.MergeTool.Dto.Bank" /> objects are equal.
         /// </summary>
         /// <param name="left">The first value to compare.</param>
         /// <param name="right">The second value to compare.</param>
@@ -209,7 +211,7 @@ namespace BancosBrasileiros.MergeTool
         }
 
         /// <summary>
-        /// Returns a value that indicates whether two <see cref="T:BancosBrasileiros.MergeTool.Bank" /> objects have different values.
+        /// Returns a value that indicates whether two <see cref="T:BancosBrasileiros.MergeTool.Dto.Bank" /> objects have different values.
         /// </summary>
         /// <param name="left">The first value to compare.</param>
         /// <param name="right">The second value to compare.</param>
