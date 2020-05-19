@@ -34,8 +34,11 @@ Cada uma das listas possui as seguintes informações (schema):
 | ISPB | Código do banco - ISPB | 8 dígitos |
 | Document | Documento do banco - CNPJ | 14 números - 18 dígitos (formatado) |
 | FiscalName | Razão social do banco | Conforme Receita Federal do Brasil |
-| FantasyName | Nome fantasia do banco | Nome comercial |
+| FantasyName | Nome fantasia do banco | Nome comercial/popular |
+| Network | Rede a qual o banco faz parte | RSFN; internet; null |
+| Type | Tipo de banco | comercial; múltiplo; caixa econômica; null |
 | Url | Url do website | - |
+| DateOperationStarted | Data do início de operação do banco | - |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
 | DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |

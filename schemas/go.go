@@ -21,14 +21,17 @@ func (r *Bank) Marshal() ([]byte, error) {
 }
 
 type BankElement struct {
-	Compe          string  `json:"COMPE"`         
-	Ispb           string  `json:"ISPB"`          
-	Document       string  `json:"Document"`      
-	FiscalName     string  `json:"FiscalName"`    
-	FantasyName    string  `json:"FantasyName"`   
-	URL            *string `json:"Url"`           
-	DateRegistered string  `json:"DateRegistered"`
-	DateUpdated    *string `json:"DateUpdated"`   
-	DateRemoved    *string `json:"DateRemoved"`   
-	IsRemoved      bool    `json:"IsRemoved"`     
+	Compe          			string  `json:"COMPE"`         
+	Ispb           			string  `json:"ISPB"`          
+	Document       			string  `json:"Document"`      
+	FiscalName     			string  `json:"FiscalName"`    
+	FantasyName    			string  `json:"FantasyName"`
+	Network					*string `json:"Network"`
+	Type					*string `json:"Type"`   
+	URL            			*string `json:"Url"`           
+	DateOperationStarted 	*string `json:"DateOperationStarted"`
+ 	DateRegistered 			string  `json:"DateRegistered"`
+	DateUpdated    			string  `json:"DateUpdated"`   
+	DateRemoved    			*string `json:"DateRemoved"`   
+	IsRemoved      			bool    `json:"IsRemoved"`     
 }

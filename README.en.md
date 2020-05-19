@@ -35,7 +35,10 @@ Each of the lists has the following information (schema):
 | Document | Bank's document - CNPJ | 14 numbers - 18 digits (formatted) |
 | FiscalName | Bank's corporate name  | According to the Federal Revenue Service of Brazil |
 | FantasyName | Bank's fantasy name | Commercial/trade name |
+| Network | The network that the bank can be accessed | RSFN, internet, null |
+| Type | The type of bank | commercial, multiple, savings, null |
 | Url | Website url | - |
+| DateOperationStarted | Commercial operation start date | - |
 | DateRegistered | Registration date on schema | - |
 | DateUpdated | Change date on schema | - |
 | DateRemoved | Removal date in the schema | [Soft Delete](https://www.brentozar.com/archive/2020/02/what-are-soft-deletes-and-how-are-they-implemented/) |
