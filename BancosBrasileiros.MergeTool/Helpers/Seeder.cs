@@ -34,8 +34,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
             foreach (var document in documents)
             {
                 var bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(document.FiscalName) ||
-                                                          b.FantasyName.Equals(document.FiscalName));
+                                                          b.FiscalName.Equals(document.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
+                                                          b.FantasyName.Equals(document.FiscalName, StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                 {
                     Console.WriteLine($"CNPJ | Banco não encontrado: {document.FiscalName}");
@@ -66,9 +66,13 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             foreach (var code in codes)
             {
-                var bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
-                                                          b.FantasyName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase));
+
+                var bank = normalized.SingleOrDefault(b => b.Compe == code.Compe && code.Compe > 0);
+
+                if (bank == null)
+                    bank = normalized.SingleOrDefault(b =>
+                                                             b.FiscalName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
+                                                             b.FantasyName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                     bank = normalized.SingleOrDefault(b =>
                                                           b.FiscalName.Equals(code.FantasyName, StringComparison.InvariantCultureIgnoreCase) ||

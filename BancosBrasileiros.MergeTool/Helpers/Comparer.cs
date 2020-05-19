@@ -122,7 +122,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             if (normalized.DateRegistered != item.DateRegistered)
             {
-                var dateRegistered = new DateTime(Math.Min(normalized.DateRegistered.Ticks, item.DateRegistered.Ticks));
+                Console.WriteLine($"Date Registered | {normalized.DateRegistered.Value.Ticks} <-> {item.DateRegistered.Value.Ticks}");
+                var dateRegistered = new DateTime(Math.Min(normalized.DateRegistered.Value.Ticks, item.DateRegistered.Value.Ticks));
                 normalized.DateRegistered = dateRegistered;
                 item.DateRegistered = dateRegistered;
             }
