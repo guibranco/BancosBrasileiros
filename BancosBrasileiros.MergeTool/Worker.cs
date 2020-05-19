@@ -14,6 +14,8 @@
 
 using BancosBrasileiros.MergeTool.Helpers;
 using System;
+using System.Diagnostics;
+using System.IO;
 
 namespace BancosBrasileiros.MergeTool
 {
@@ -30,7 +32,6 @@ namespace BancosBrasileiros.MergeTool
         {
             Console.WriteLine("Reading data files");
 
-
             var reader = new Reader();
 
             var csv = reader.LoadCsv();
@@ -39,26 +40,32 @@ namespace BancosBrasileiros.MergeTool
             var sql = reader.LoadSql();
             var xml = reader.LoadXml();
 
-            Console.WriteLine($"CSV: {csv.Count} | JSON: {json.Count} | SQL: {sql.Count} | Markdown: {markdown.Count} | XML: {xml.Count}");
+            Console.WriteLine($"CSV: {csv.Count} banks | JSON: {json.Count} banks | SQL: {sql.Count} banks | Markdown: {markdown.Count} banks | XML: {xml.Count} banks");
 
             var comparer = new Comparer();
             var normalized = comparer.Compare(csv, json, markdown, sql, xml);
 
-            Console.WriteLine($"Normalized: {normalized.Count}");
+            Console.WriteLine($"Normalized: {normalized.Count} banks");
 
             var cnpj = reader.LoadCnpj();
             var ispb = reader.LoadIspb();
             var site = reader.LoadSite();
 
-            Console.WriteLine($"CNPJ: {cnpj.Count} | ISPB: {ispb.Count} | Site: {site.Count}");
+            Console.WriteLine($"CNPJ: {cnpj.Count} banks | ISPB: {ispb.Count} banks | Site: {site.Count} banks");
 
             var seeder = new Seeder();
             seeder.Seed(normalized, cnpj, ispb, site);
 
+            Console.WriteLine("Saving result files");
+
             var writer = new Writer();
             writer.Save(normalized);
 
-            Console.WriteLine("Merge done. Check result folder in bin directory!");
+            Console.WriteLine("Merge done. Check 'result' folder in 'bin' directory!");
+
+            var binDirectory = Directory.GetCurrentDirectory();
+            var resultDirectory = Path.Combine(binDirectory, "result");
+            Process.Start("explorer.exe", resultDirectory);
         }
     }
 }
