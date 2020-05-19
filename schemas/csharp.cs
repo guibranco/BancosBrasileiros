@@ -3,7 +3,7 @@ namespace BancosBrasileiros
     using System;
     using Newtonsoft.Json;
 
-    public partial class Bank
+    public class Bank
     {
         [JsonProperty("COMPE")]
         public string Compe { get; set; }
