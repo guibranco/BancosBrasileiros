@@ -194,10 +194,10 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// Returns a string that represents the current object.
         /// </summary>
         /// <returns>A string that represents the current object.</returns>
-        public override string ToString()
-        {
-            return $"ISPB: {Ispb} | Document: {Document} | Fiscal name: {FiscalName} | Fantasy name: {FantasyName} | Type: {Type} | Network: {Network} | Url: {Url} | Operation started: {DateOperationStarted} | Registered: {DateRegistered:dd/MM/yyyy HH:mm:ss.zzz} | Updated: {DateUpdated:dd/MM/yyyy HH:mm:ss.zzz} | Removed: {DateRemoved:dd/MM/yyyy HH:mm:ss.zzz} | Is removed: {IsRemoved}";
-        }
+        public override string ToString() =>
+            $"ISPB: {Ispb} | Document: {Document} | Fiscal name: {FiscalName} | Fantasy name: {FantasyName} | " +
+            $"Type: {Type} | Network: {Network} | Url: {Url} | Operation started: {DateOperationStarted} | " +
+            $"Registered: {DateRegistered:O} | Updated: {DateUpdated:O} | Removed: {DateRemoved:O} | Is removed: {IsRemoved}";
 
         /// <summary>
         /// Returns a value that indicates whether the values of two <see cref="T:BancosBrasileiros.MergeTool.Dto.Bank" /> objects are equal.

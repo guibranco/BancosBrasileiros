@@ -25,17 +25,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
     internal class Seeder
     {
         /// <summary>
-        /// Seeds the data.
+        /// Seeds the document.
         /// </summary>
         /// <param name="normalized">The normalized.</param>
         /// <param name="documents">The documents.</param>
-        /// <param name="codes">The codes.</param>
-        /// <param name="sites">The sites.</param>
-        public void Seed(
-            IList<Bank> normalized,
-            IList<Bank> documents,
-            IList<Bank> codes,
-            IList<Bank> sites)
+        public void SeedDocument(IList<Bank> normalized, IList<Bank> documents)
         {
             foreach (var document in documents)
             {
@@ -56,21 +50,29 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if (string.IsNullOrWhiteSpace(bank.Type) && !string.IsNullOrWhiteSpace(document.Type))
                     bank.Type = document.Type;
                 else
-                    Console.WriteLine($"CNPJ |Tipo inválido {document.Compe}");
+                    Console.WriteLine($"CNPJ |Tipo inválido {document.Compe} | {bank.Type} <-> {document.Type}");
 
                 if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(document.Url))
-                    bank.Url = document.Url;
+                    bank.Url = document.Url.ToLower();
             }
+        }
 
+        /// <summary>
+        /// Seeds the ispb.
+        /// </summary>
+        /// <param name="normalized">The normalized.</param>
+        /// <param name="codes">The codes.</param>
+        public void SeedIspb(IList<Bank> normalized, IList<Bank> codes)
+        {
             foreach (var code in codes)
             {
                 var bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(code.FiscalName) ||
-                                                          b.FantasyName.Equals(code.FiscalName));
+                                                          b.FiscalName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
+                                                          b.FantasyName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                     bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(code.FantasyName) ||
-                                                          b.FantasyName.Equals(code.FantasyName));
+                                                          b.FiscalName.Equals(code.FantasyName, StringComparison.InvariantCultureIgnoreCase) ||
+                                                          b.FantasyName.Equals(code.FantasyName, StringComparison.InvariantCultureIgnoreCase));
 
                 if (bank == null)
                     bank = normalized.SingleOrDefault(b => b.Ispb == code.Ispb);
@@ -87,25 +89,35 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if (string.IsNullOrWhiteSpace(bank.Network) && !string.IsNullOrWhiteSpace(code.Network))
                     bank.Network = code.Network;
 
-                if (!bank.FiscalName.Equals(code.FiscalName))
-                    Console.WriteLine($"ISPB | Razão social inválida {code.Compe}");
+                if (!bank.FiscalName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase))
+                    Console.WriteLine(
+                        $"ISPB | Razão social inválida {code.Compe} | {bank.FiscalName} <-> {code.FiscalName}");
 
-                if (!bank.FantasyName.Equals(code.FantasyName))
-                    Console.WriteLine($"ISPB | Nome fantasia inválido {code.Compe}");
+                if (!bank.FantasyName.Equals(code.FantasyName, StringComparison.InvariantCultureIgnoreCase))
+                    Console.WriteLine(
+                        $"ISPB | Nome fantasia inválido {code.Compe} | {bank.FantasyName} <-> {code.FantasyName}");
 
                 if (string.IsNullOrWhiteSpace(bank.DateOperationStarted) &&
                     !string.IsNullOrWhiteSpace(code.DateOperationStarted))
                     bank.DateOperationStarted = code.DateOperationStarted;
             }
+        }
 
+        /// <summary>
+        /// Seeds the site.
+        /// </summary>
+        /// <param name="normalized">The normalized.</param>
+        /// <param name="sites">The sites.</param>
+        public void SeedSite(IList<Bank> normalized, IList<Bank> sites)
+        {
             foreach (var site in sites)
             {
                 var bank = normalized.SingleOrDefault(b => b.Compe == site.Compe);
 
                 if (bank == null)
                     bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(site.FiscalName) ||
-                                                          b.FantasyName.Equals(site.FiscalName));
+                                                          b.FiscalName.Equals(site.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
+                                                          b.FantasyName.Equals(site.FiscalName, StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                 {
                     Console.WriteLine($"Site | Banco não encontrado: {site.Compe}");
@@ -113,15 +125,13 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 }
 
                 if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(site.Url))
-                    bank.Url = site.Url;
-                else if (!string.IsNullOrWhiteSpace(bank.Url) && !bank.Url.Equals(site.Url))
-                    Console.WriteLine($"Site | Url divergente {site.Compe}");
+                    bank.Url = site.Url.ToLower();
+                else if (!string.IsNullOrWhiteSpace(bank.Url) && !bank.Url.Equals(site.Url, StringComparison.InvariantCultureIgnoreCase))
+                    Console.WriteLine($"Site | Url divergente {site.Compe} | {bank.Url} <-> {site.Url}");
 
-                if (!bank.FiscalName.Equals(site.FiscalName))
-                    Console.WriteLine($"Site | Razão social inválida {site.Compe}");
+                if (!bank.FiscalName.Equals(site.FiscalName, StringComparison.InvariantCultureIgnoreCase))
+                    Console.WriteLine($"Site | Razão social inválida {site.Compe} | {bank.FiscalName} <-> {site.FiscalName}");
             }
-
-
         }
     }
 }

@@ -54,7 +54,9 @@ namespace BancosBrasileiros.MergeTool
             Console.WriteLine($"CNPJ: {cnpj.Count} banks | ISPB: {ispb.Count} banks | Site: {site.Count} banks");
 
             var seeder = new Seeder();
-            seeder.Seed(normalized, cnpj, ispb, site);
+            seeder.SeedDocument(normalized, cnpj);
+            seeder.SeedIspb(normalized, ispb);
+            seeder.SeedSite(normalized, site);
 
             Console.WriteLine("Saving result files");
 
