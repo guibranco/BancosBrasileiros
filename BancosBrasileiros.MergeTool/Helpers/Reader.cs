@@ -45,9 +45,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     Document = columns[2],
                     FiscalName = columns[3],
                     FantasyName = columns[4],
-                    Url = string.IsNullOrWhiteSpace(columns[5]) ? string.Empty : columns[5],
                     IsRemoved = columns[9].Equals("true")
                 };
+
+                if (!string.IsNullOrWhiteSpace(columns[5]))
+                    bank.Url = columns[5];
 
                 if (!string.IsNullOrWhiteSpace(columns[6]))
                     bank.DateRegistered = DateTime.Parse(columns[6], null, System.Globalization.DateTimeStyles.RoundtripKind);
@@ -94,9 +96,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     Document = columns[2],
                     FiscalName = columns[3],
                     FantasyName = columns[4],
-                    Url = columns[5],
                     IsRemoved = columns[9].Equals("true")
                 };
+
+                if (!string.IsNullOrWhiteSpace(columns[5]))
+                    bank.Url = columns[5];
 
                 if (!string.IsNullOrWhiteSpace(columns[6]))
                     bank.DateRegistered = DateTime.Parse(columns[6], null, System.Globalization.DateTimeStyles.RoundtripKind);
@@ -142,9 +146,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     FiscalName = columns[2],
                     FantasyName = columns[3],
                     Document = columns[4],
-                    Url = columns[5],
                     IsRemoved = int.Parse(columns[9]) == 1
                 };
+
+                if (!string.IsNullOrWhiteSpace(columns[5]))
+                    bank.Url = columns[5];
 
                 if (!string.IsNullOrWhiteSpace(columns[6]))
                     bank.DateRegistered = DateTime.Parse(columns[6], null, System.Globalization.DateTimeStyles.RoundtripKind);

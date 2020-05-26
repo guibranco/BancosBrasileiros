@@ -53,10 +53,10 @@ namespace BancosBrasileiros.MergeTool
 
             Console.WriteLine($"CNPJ: {cnpj.Count} banks | ISPB: {ispb.Count} banks | Site: {site.Count} banks");
 
-            var seeder = new Seeder();
-            seeder.SeedDocument(normalized, cnpj);
-            seeder.SeedIspb(normalized, ispb);
+            var seeder = new Seeder(); //The order must be Site -> ISPB -> CNPJ to find the Fiscal Name and de COMPE code.
             seeder.SeedSite(normalized, site);
+            seeder.SeedIspb(normalized, ispb);
+            seeder.SeedDocument(normalized, cnpj);
 
             Console.WriteLine("Saving result files");
 

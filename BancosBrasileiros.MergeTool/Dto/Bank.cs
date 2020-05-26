@@ -128,8 +128,16 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// </summary>
         /// <value><c>true</c> if this instance is removed; otherwise, <c>false</c>.</value>
         [JsonProperty("IsRemoved")]
-        [XmlElement("IsRemoved")]
+        [XmlIgnore]
         public bool IsRemoved { get; set; }
+
+        [JsonIgnore]
+        [XmlElement("IsRemoved")]
+        public string IsRemovedXml
+        {
+            get => IsRemoved.ToString();
+            set => IsRemoved = value.Equals("true", StringComparison.InvariantCultureIgnoreCase);
+        }
 
         #region Equality members
 
@@ -157,23 +165,28 @@ namespace BancosBrasileiros.MergeTool.Dto
             var isDr = Nullable.Equals(DateRemoved, other.DateRemoved);
             var isIr = IsRemoved == other.IsRemoved;
 
-            return isCompe | isIspb | isDocument |
+            var result = isCompe | isIspb | isDocument |
                 isFiscalName | isFantasyName | isNetwork |
                 isType | isUrl | isDos |
                 isDc | isDu | isDr | isIr;
 
-            //return Compe == other.Compe && Ispb == other.Ispb &&
-            //    string.Equals(Document, other.Document, StringComparison.InvariantCultureIgnoreCase) &&
-            //    string.Equals(FiscalName, other.FiscalName, StringComparison.InvariantCultureIgnoreCase) &&
-            //    string.Equals(FantasyName, other.FantasyName, StringComparison.InvariantCultureIgnoreCase) &&
-            //    string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
-            //    string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase) &&//    
-            //    string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
-            //    string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
-            //    Nullable.Equals(DateRegistered, other.DateRegistered) &&
-            //    Nullable.Equals(DateUpdated, other.DateUpdated) &&
-            //    Nullable.Equals(DateRemoved, other.DateRemoved) &&
-            //    IsRemoved == other.IsRemoved;
+            var bigIf = Compe == other.Compe &&
+                Ispb == other.Ispb &&
+                string.Equals(Document, other.Document, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(FiscalName, other.FiscalName, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(FantasyName, other.FantasyName, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase) &&//    
+                string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
+                Nullable.Equals(DateRegistered, other.DateRegistered) &&
+                Nullable.Equals(DateUpdated, other.DateUpdated) &&
+                Nullable.Equals(DateRemoved, other.DateRemoved) &&
+                IsRemoved == other.IsRemoved;
+
+            if (bigIf != result)
+                Console.WriteLine("Error");
+            return bigIf;
         }
 
         /// <summary>

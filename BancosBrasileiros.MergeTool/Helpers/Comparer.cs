@@ -78,6 +78,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             var normalized = normalizedList[item.Compe];
 
+            Console.WriteLine($"{normalized} | CSV");
+            Console.WriteLine($"{item} | {type}");
+
             if (normalized.Ispb == 0)
                 normalized.Ispb = item.Ispb;
             if (item.Ispb == 0)
@@ -120,16 +123,33 @@ namespace BancosBrasileiros.MergeTool.Helpers
             if (string.IsNullOrWhiteSpace(normalized.DateOperationStarted))
                 normalized.DateOperationStarted = item.DateOperationStarted;
 
-            if (normalized.DateRegistered != item.DateRegistered)
+
+            if (normalized.DateRegistered.HasValue && normalized.DateRegistered.Value.Ticks == 0)
+                normalized.DateRegistered = null;
+            if (item.DateRegistered.HasValue && item.DateRegistered.Value.Ticks == 0)
+                item.DateRegistered = null;
+
+            if (normalized.DateRegistered.HasValue &&
+                item.DateRegistered.HasValue &&
+                normalized.DateRegistered != item.DateRegistered)
             {
-                Console.WriteLine($"Date Registered | {normalized.DateRegistered.Value.Ticks} <-> {item.DateRegistered.Value.Ticks}");
                 var dateRegistered = new DateTime(Math.Min(normalized.DateRegistered.Value.Ticks, item.DateRegistered.Value.Ticks));
                 normalized.DateRegistered = dateRegistered;
                 item.DateRegistered = dateRegistered;
             }
+            else if (!normalized.DateRegistered.HasValue && item.DateRegistered.HasValue)
+                normalized.DateRegistered = item.DateRegistered;
+            else if (!item.DateRegistered.HasValue && normalized.DateRegistered.HasValue)
+                item.DateRegistered = normalized.DateRegistered;
 
             normalized.DateUpdated = DateTimeOffset.Now;
             item.DateUpdated = normalized.DateUpdated;
+
+            if (normalized.DateRemoved.HasValue && normalized.DateRemoved.Value.Ticks == 0)
+                normalized.DateRemoved = null;
+
+            if (item.DateRemoved.HasValue && item.DateRemoved.Value.Ticks == 0)
+                item.DateRemoved = null;
 
             if (!normalized.DateRemoved.HasValue && item.DateRemoved.HasValue)
                 normalized.DateRemoved = item.DateRemoved;
