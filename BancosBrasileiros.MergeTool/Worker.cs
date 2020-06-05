@@ -16,7 +16,6 @@ using BancosBrasileiros.MergeTool.Helpers;
 using System;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
 
 namespace BancosBrasileiros.MergeTool
 {
@@ -61,8 +60,6 @@ namespace BancosBrasileiros.MergeTool
             seeder.SeedIspb(normalized, ispb);
             seeder.SeedDocument(normalized, cnpj);
             seeder.SeedSlc(normalized, slc);
-
-            normalized.Where(b => b.Document == null).ToList().ForEach(b => b.Document = string.Empty);
 
             Console.WriteLine("Saving result files");
 

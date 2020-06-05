@@ -32,17 +32,49 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// Gets or sets the compe.
         /// </summary>
         /// <value>The compe.</value>
+        [JsonIgnore]
+        [XmlIgnore]
+        public int Compe { get; set; }
+
+        /// <summary>
+        /// Gets the compe string.
+        /// </summary>
+        /// <value>The compe string.</value>
         [JsonProperty("COMPE")]
         [XmlElement("COMPE")]
-        public int Compe { get; set; }
+        public string CompeString
+        {
+            get => Compe.ToString("000");
+            set
+            {
+                if (int.TryParse(value, out var parsed))
+                    Compe = parsed;
+            }
+        }
 
         /// <summary>
         /// Gets or sets the ispb.
         /// </summary>
         /// <value>The ispb.</value>
+        [JsonIgnore]
+        [XmlIgnore]
+        public int Ispb { get; set; }
+
+        /// <summary>
+        /// Gets or sets the ispb string.
+        /// </summary>
+        /// <value>The ispb string.</value>
         [JsonProperty("ISPB")]
         [XmlElement("ISPB")]
-        public int Ispb { get; set; }
+        public string IspbString
+        {
+            get => Ispb.ToString("00000000");
+            set
+            {
+                if (int.TryParse(value, out var parsed))
+                    Ispb = parsed;
+            }
+        }
 
         /// <summary>
         /// Gets or sets the document.
@@ -210,7 +242,7 @@ namespace BancosBrasileiros.MergeTool.Dto
             var hashCode = new HashCode();
             hashCode.Add(Compe);
             hashCode.Add(Ispb);
-            hashCode.Add(Document, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(Document ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(FiscalName, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(FantasyName, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Network ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);

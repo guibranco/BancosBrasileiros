@@ -302,8 +302,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 var match = _slcPattern.Match(line);
                 result.Add(new Bank
                 {
-                    Document = match.Groups["cnpj"].Value,
-                    FiscalName = match.Groups["nome"].Value
+                    Document = match.Groups["cnpj"].Value.Trim(),
+                    FiscalName = match.Groups["nome"].Value.Trim()
                 });
 
             }
