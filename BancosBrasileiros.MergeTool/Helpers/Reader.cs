@@ -14,10 +14,14 @@
 
 using BancosBrasileiros.MergeTool.Dto;
 using CrispyWaffle.Serialization;
+using iTextSharp.text.pdf;
+using iTextSharp.text.pdf.parser;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
@@ -26,6 +30,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// </summary>
     internal class Reader
     {
+        /// <summary>
+        /// The SLC pattern
+        /// </summary>
+        private readonly Regex _slcPattern = new Regex(@"^\d{1,3}\s(?<cnpj>\d{2}\.\d{3}\.\d{3}\/\d{4}\.\d{2})\s(?<nome>.+?)(?:[\s|X]){1,7}$", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
         /// <summary>
         /// Loads the CSV.
@@ -252,6 +260,53 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 result.Add(bank);
             }
 
+            return result;
+        }
+
+        /// <summary>
+        /// Loads the SLC.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
+        public List<Bank> LoadSlc()
+        {
+            var result = new List<Bank>();
+
+            var reader = new PdfReader("data\\SLC.pdf");
+            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
+            {
+                var currentText =
+                    PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
+                currentText = Encoding.UTF8.GetString(Encoding.Convert(
+                    Encoding.Default,
+                    Encoding.UTF8,
+                    Encoding.Default.GetBytes(currentText)));
+                result.AddRange(ParseLines(currentText));
+            }
+
+            return result;
+        }
+
+        /// <summary>
+        /// Parses the lines.
+        /// </summary>
+        /// <param name="page">The page.</param>
+        /// <returns>IEnumerable&lt;Bank&gt;.</returns>
+        private IEnumerable<Bank> ParseLines(string page)
+        {
+            var result = new List<Bank>();
+            var lines = page.Split("\n");
+            foreach (var line in lines)
+            {
+                if (!_slcPattern.IsMatch(line))
+                    continue;
+                var match = _slcPattern.Match(line);
+                result.Add(new Bank
+                {
+                    Document = match.Groups["cnpj"].Value,
+                    FiscalName = match.Groups["nome"].Value
+                });
+
+            }
             return result;
         }
     }

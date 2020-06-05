@@ -16,6 +16,7 @@ using BancosBrasileiros.MergeTool.Helpers;
 using System;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
 
 namespace BancosBrasileiros.MergeTool
 {
@@ -37,6 +38,7 @@ namespace BancosBrasileiros.MergeTool
             var csv = reader.LoadCsv();
             var json = reader.LoadJson();
             var markdown = reader.LoadMarkdown();
+
             var sql = reader.LoadSql();
             var xml = reader.LoadXml();
 
@@ -50,13 +52,17 @@ namespace BancosBrasileiros.MergeTool
             var cnpj = reader.LoadCnpj();
             var ispb = reader.LoadIspb();
             var site = reader.LoadSite();
+            var slc = reader.LoadSlc();
 
-            Console.WriteLine($"CNPJ: {cnpj.Count} banks | ISPB: {ispb.Count} banks | Site: {site.Count} banks");
+            Console.WriteLine($"CNPJ: {cnpj.Count} banks | ISPB: {ispb.Count} banks | Site: {site.Count} banks | SLC: {slc.Count} banks");
 
-            var seeder = new Seeder(); //The order must be Site -> ISPB -> CNPJ to find the Fiscal Name and de COMPE code.
+            var seeder = new Seeder(); //The order must be Site -> ISPB -> CNPJ -> SLC to find the Fiscal Name and de COMPE code.
             seeder.SeedSite(normalized, site);
             seeder.SeedIspb(normalized, ispb);
             seeder.SeedDocument(normalized, cnpj);
+            seeder.SeedSlc(normalized, slc);
+
+            normalized.Where(b => b.Document == null).ToList().ForEach(b => b.Document = string.Empty);
 
             Console.WriteLine("Saving result files");
 

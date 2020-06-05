@@ -143,5 +143,54 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     bank.Url = document.Url.ToLower();
             }
         }
+
+        /// <summary>
+        /// Seeds the SLC.
+        /// </summary>
+        /// <param name="normalized">The normalized.</param>
+        /// <param name="slcs">The SLCS.</param>
+        public void SeedSlc(IList<Bank> normalized, IList<Bank> slcs)
+        {
+            foreach (var slc in slcs)
+            {
+                var bank = normalized.SingleOrDefault(b =>
+                    b.FiscalName.EndsWith(slc.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
+                    b.FantasyName.Equals(slc.FiscalName, StringComparison.InvariantCultureIgnoreCase));
+
+                if (bank == null)
+                {
+                    var ispb = int.Parse(slc.Document.Replace(".", "").Replace("/", "").Substring(0, 8));
+                    if (ispb == 0)
+                    {
+                        Console.WriteLine($"SLC | Banco não encontrado: {slc.FiscalName} | {slc.Document.Trim()}");
+                        continue;
+                    }
+                    bank = normalized.SingleOrDefault(b => b.Ispb.Equals(ispb));
+                }
+
+                if (bank == null)
+                {
+                    Console.WriteLine($"SLC | Banco não encontrado: {slc.FiscalName} | {slc.Document.Trim()}");
+                    continue;
+                }
+
+                if (string.IsNullOrEmpty(bank.Document))
+                    bank.Document = slc.Document;
+                else if (!bank.Document.Equals(slc.Document))
+                    Console.WriteLine($"SLC | Documento inválido {slc.FiscalName} | {bank.Document} | {slc.Document}");
+
+                if (string.IsNullOrEmpty(bank.FiscalName))
+                    bank.FiscalName = slc.FiscalName;
+                else if (!bank.FiscalName.Equals(slc.FiscalName))
+                {
+                    bank.FantasyName = slc.FiscalName;
+                    Console.WriteLine($"SLC | Nome inválido {slc.FiscalName} | {bank.FiscalName}");
+                }
+
+                if (string.IsNullOrWhiteSpace(bank.FantasyName))
+                    bank.FantasyName = bank.FiscalName;
+
+            }
+        }
     }
 }
