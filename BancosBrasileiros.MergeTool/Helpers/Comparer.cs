@@ -28,6 +28,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Compares the specified data.
         /// </summary>
         /// <param name="csv">The CSV.</param>
+        /// <param name="html">The HTML.</param>
         /// <param name="json">The json.</param>
         /// <param name="markdown">The markdown.</param>
         /// <param name="sql">The SQL.</param>
@@ -35,12 +36,16 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public IList<Bank> Compare(
             IList<Bank> csv,
+            IList<Bank> html,
             IList<Bank> json,
             IList<Bank> markdown,
             IList<Bank> sql,
             IList<Bank> xml)
         {
             var normalizedList = csv.ToDictionary(item => item.Compe);
+
+            foreach (var item in html)
+                CompareItems(normalizedList, "HTML", item);
 
             foreach (var item in json)
                 CompareItems(normalizedList, "JSON", item);

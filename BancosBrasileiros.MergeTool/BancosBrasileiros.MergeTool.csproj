@@ -24,6 +24,9 @@
     <None Update="data\bancos.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="data\bancos.html">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="data\bancos.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

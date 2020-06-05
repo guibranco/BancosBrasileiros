@@ -35,16 +35,16 @@ namespace BancosBrasileiros.MergeTool
             var reader = new Reader();
 
             var csv = reader.LoadCsv();
+            var html = reader.LoadHtml();
             var json = reader.LoadJson();
             var markdown = reader.LoadMarkdown();
-
             var sql = reader.LoadSql();
             var xml = reader.LoadXml();
 
-            Console.WriteLine($"CSV: {csv.Count} banks | JSON: {json.Count} banks | SQL: {sql.Count} banks | Markdown: {markdown.Count} banks | XML: {xml.Count} banks");
+            Console.WriteLine($"CSV: {csv.Count} banks | HTML: {html.Count} | JSON: {json.Count} banks | SQL: {sql.Count} banks | Markdown: {markdown.Count} banks | XML: {xml.Count} banks");
 
             var comparer = new Comparer();
-            var normalized = comparer.Compare(csv, json, markdown, sql, xml);
+            var normalized = comparer.Compare(csv, html, json, markdown, sql, xml);
 
             Console.WriteLine($"Normalized: {normalized.Count} banks");
 

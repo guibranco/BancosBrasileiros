@@ -30,6 +30,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// </summary>
     internal class Reader
     {
+        private readonly Regex _htmlPattern = new Regex(@"^(?<compe>\d{3})\s-\s(?<nome>.+?)\s\[ISPB\:\s(?<ispb>\d{8})\]\s?$", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
+
         /// <summary>
         /// The SLC pattern
         /// </summary>
@@ -70,6 +72,26 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     bank.DateRemoved = DateTime.Parse(columns[8], null, System.Globalization.DateTimeStyles.RoundtripKind);
 
                 result.Add(bank);
+            }
+
+            return result;
+        }
+
+        public List<Bank> LoadHtml()
+        {
+            var result = new List<Bank>();
+            var lines = File.ReadAllLines("data\\bancos.html").ToArray();
+            foreach (var line in lines)
+            {
+                if (!_htmlPattern.IsMatch(line))
+                    continue;
+                var match = _htmlPattern.Match(line);
+                result.Add(new Bank
+                {
+                    CompeString = match.Groups["compe"].Value,
+                    FiscalName = match.Groups["nome"].Value,
+                    IspbString = match.Groups["ispb"].Value
+                });
             }
 
             return result;
