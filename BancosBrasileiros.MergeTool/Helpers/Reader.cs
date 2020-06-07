@@ -50,8 +50,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 var columns = line.Split(",");
                 var bank = new Bank
                 {
-                    Compe = int.Parse(columns[0]),
-                    Ispb = int.Parse(columns[1]),
+                    CompeString = columns[0],
+                    IspbString = columns[1],
                     Document = columns[2],
                     FiscalName = columns[3],
                     FantasyName = columns[4],
@@ -77,6 +77,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return result;
         }
 
+        /// <summary>
+        /// Loads the HTML.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadHtml()
         {
             var result = new List<Bank>();
@@ -90,7 +94,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 {
                     CompeString = match.Groups["compe"].Value,
                     FiscalName = match.Groups["nome"].Value,
-                    IspbString = match.Groups["ispb"].Value
+                    FantasyName = match.Groups["nome"].Value,
+                    IspbString = match.Groups["ispb"].Value,
+                    Url = string.Empty,
+                    DateUpdated = DateTimeOffset.Now
                 });
             }
 

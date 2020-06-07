@@ -183,26 +183,9 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (ReferenceEquals(null, other)) return false;
             if (ReferenceEquals(this, other)) return true;
 
-            var isCompe = Compe == other.Compe;
-            var isIspb = Ispb == other.Ispb;
-            var isDocument = string.Equals(Document, other.Document, StringComparison.InvariantCultureIgnoreCase);
-            var isFiscalName = string.Equals(FiscalName, other.FiscalName, StringComparison.InvariantCultureIgnoreCase);
-            var isFantasyName = string.Equals(FantasyName, other.FantasyName, StringComparison.InvariantCultureIgnoreCase);
-            var isNetwork = string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase);
-            var isType = string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase);
-            var isUrl = string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase);
-            var isDos = string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase);
-            var isDc = Nullable.Equals(DateRegistered, other.DateRegistered);
-            var isDu = Nullable.Equals(DateUpdated, other.DateUpdated);
-            var isDr = Nullable.Equals(DateRemoved, other.DateRemoved);
-            var isIr = IsRemoved == other.IsRemoved;
 
-            var result = isCompe | isIspb | isDocument |
-                isFiscalName | isFantasyName | isNetwork |
-                isType | isUrl | isDos |
-                isDc | isDu | isDr | isIr;
-
-            var bigIf = Compe == other.Compe &&
+            return
+                Compe == other.Compe &&
                 Ispb == other.Ispb &&
                 string.Equals(Document, other.Document, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(FiscalName, other.FiscalName, StringComparison.InvariantCultureIgnoreCase) &&
@@ -215,10 +198,6 @@ namespace BancosBrasileiros.MergeTool.Dto
                 Nullable.Equals(DateUpdated, other.DateUpdated) &&
                 Nullable.Equals(DateRemoved, other.DateRemoved) &&
                 IsRemoved == other.IsRemoved;
-
-            if (bigIf != result)
-                Console.WriteLine("Error");
-            return bigIf;
         }
 
         /// <summary>

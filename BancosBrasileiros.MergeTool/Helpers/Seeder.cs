@@ -179,13 +179,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 else if (!bank.Document.Equals(slc.Document))
                     Console.WriteLine($"SLC | Documento inválido {slc.FiscalName} | {bank.Document} | {slc.Document}");
 
-                if (string.IsNullOrEmpty(bank.FiscalName))
-                    bank.FiscalName = slc.FiscalName;
-                else if (!bank.FiscalName.Equals(slc.FiscalName))
-                {
+                if (string.IsNullOrEmpty(bank.FiscalName) || !bank.FiscalName.Equals(slc.FiscalName))
                     bank.FantasyName = slc.FiscalName;
-                    Console.WriteLine($"SLC | Nome inválido {slc.FiscalName} | {bank.FiscalName}");
-                }
 
                 if (string.IsNullOrWhiteSpace(bank.FantasyName))
                     bank.FantasyName = bank.FiscalName;

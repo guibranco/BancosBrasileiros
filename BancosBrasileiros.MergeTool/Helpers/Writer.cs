@@ -17,6 +17,7 @@ using CrispyWaffle.Serialization;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
@@ -53,9 +54,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 "COMPE,ISPB,Document,FiscalName,FantasyName,Network,Type,Url,DateOperationStarted,DateRegistered,DateUpdated,DateRemoved,IsRemoved"
             };
 
-            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.FiscalName},{bank.FantasyName},{bank.Type},{bank.Network},{bank.Url},{bank.DateOperationStarted},{bank.DateRegistered:O},{bank.DateUpdated:O},{bank.DateRemoved:O},{bank.IsRemoved.ToString().ToLower()}"));
+            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.FiscalName.Replace(",", "")},{bank.FantasyName.Replace(",", "")},{bank.Type},{bank.Network},{bank.Url},{bank.DateOperationStarted},{bank.DateRegistered:O},{bank.DateUpdated:O},{bank.DateRemoved:O},{bank.IsRemoved.ToString().ToLower()}"));
 
-            File.WriteAllLines("result\\bancos.csv", lines);
+            File.WriteAllLines("result\\bancos.csv", lines, Encoding.UTF8);
         }
 
         /// <summary>
@@ -74,7 +75,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             lines.AddRange(banks.Select(bank => $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.FiscalName} | {bank.FantasyName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {bank.DateUpdated:O} | {(bank.DateRemoved.HasValue ? bank.DateRemoved.Value.ToString("O") : "-")} | {bank.IsRemoved.ToString().ToLower()}"));
 
-            File.WriteAllLines("result\\bancos.md", lines);
+            File.WriteAllLines("result\\bancos.md", lines, Encoding.UTF8);
         }
 
         /// <summary>
@@ -88,7 +89,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             const string prefix = "INSERT INTO Banks (Compe, Ispb, Document, FiscalName, FantasyName, Network, Type, Url, DateOperationStarted, DateRegistered, DateUpdated, DateRemoved, IsRemoved) VALUES(";
             lines.AddRange(banks.Select(bank => $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.FiscalName}','{bank.FantasyName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}',{(bank.DateRemoved.HasValue ? $"'{bank.DateRemoved:O}'" : "NULL")},{(bank.IsRemoved ? 1 : 0)});"));
 
-            File.WriteAllLines("result\\bancos.sql", lines);
+            File.WriteAllLines("result\\bancos.sql", lines, Encoding.UTF8);
         }
     }
 }

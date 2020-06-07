@@ -61,6 +61,12 @@ namespace BancosBrasileiros.MergeTool
             seeder.SeedDocument(normalized, cnpj);
             seeder.SeedSlc(normalized, slc);
 
+            foreach (var bank in normalized)
+            {
+                bank.DateRegistered ??= DateTimeOffset.Now;
+                bank.DateUpdated ??= DateTimeOffset.Now;
+            }
+
             Console.WriteLine("Saving result files");
 
             var writer = new Writer();
