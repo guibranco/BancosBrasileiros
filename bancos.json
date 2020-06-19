@@ -2,7 +2,7 @@
   {
     "Code": "001",
     "Name": "BANCO DO BRASIL",
-	  "Document": "00.000.000/0001-91",
+    "Document": "00.000.000/0001-91",
     "CreatedAt": "2017-04-19 15:52:42.400",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -26,7 +26,7 @@
   },
   {
     "Code": "033",
-    "Name": "SANTANDER",
+    "Name": "BANCO SANTANDER S.A.",
     "CreatedAt": "2017-04-19 15:55:59.197",
     "UpdatedAt": null,
     "DeletedAt": null,
@@ -1293,7 +1293,7 @@
   },
   {
     "Code": "502",
-    "Name": "BANCO SANTANDER S.A",
+    "Name": "BANCO SANTANDER DE NEGOCIOS S.A",
     "CreatedAt": "2018-01-29 15:12:24.367",
     "UpdatedAt": null,
     "DeletedAt": null,
