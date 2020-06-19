@@ -30,7 +30,7 @@
 		<CreatedAt>2017-04-19 15:55:59.197</CreatedAt>
 		<DeletedAt null="true" />
 		<IsDeleted>false</IsDeleted>
-		<Name>SANTANDER</Name>
+		<Name>BANCO SANTANDER S.A.</Name>
 		<UpdatedAt null="true" />
 	</bank>
 	<bank>
@@ -1298,7 +1298,7 @@
 		<CreatedAt>2018-01-29 15:12:24.367</CreatedAt>
 		<DeletedAt null="true" />
 		<IsDeleted>false</IsDeleted>
-		<Name>BANCO SANTANDER S.A</Name>
+		<Name>BANCO SANTANDER DE NEGOCIOS S.A</Name>
 		<UpdatedAt null="true" />
 	</bank>
 	<bank>
