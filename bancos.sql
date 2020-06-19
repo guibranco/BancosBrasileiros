@@ -167,7 +167,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VAL
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (498,'CENTRO HISPANO BANCO', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (499,'BANCO IOCHPE S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (501,'BANCO BRASILEIRO IRAQUIANO S.A.', '', NULL, 0);
-INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (502,'BANCO SANTANDER S.A', '', NULL, 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (502,'BANCO SANTANDER DE NEGOCIOS S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (504,'BANCO MULTIPLIC S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (505,'BANCO GARANTIA S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (600,'BANCO LUSO BRASILEIRO S.A', '', NULL, 0);
