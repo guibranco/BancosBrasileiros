@@ -16,7 +16,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VAL
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (030,'BANCO DO ESTADO DA PARAIBA S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (031,'BANCO DO ESTADO DE GOIAS S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (032,'BANCO DO ESTADO DO MATO GROSSO S.A.', '', NULL, 0);
-INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (033,'BANCO DO ESTADO DE SAO PAULO S.A', '', NULL, 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (033,'BANCO SANTANDER S.A', '', '2020-06-18 23:35:00.000', 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (034,'BANCO DO ESADO DO AMAZONAS S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (035,'BANCO DO ESTADO DO CEARA S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (036,'BANCO DO ESTADO DO MARANHAO S.A', '', NULL, 0);
@@ -167,7 +167,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VAL
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (498,'CENTRO HISPANO BANCO', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (499,'BANCO IOCHPE S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (501,'BANCO BRASILEIRO IRAQUIANO S.A.', '', NULL, 0);
-INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (502,'BANCO SANTANDER S.A', '', NULL, 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (502,'BANCO SANTANDER DE NEGOCIOS S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (504,'BANCO MULTIPLIC S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (505,'BANCO GARANTIA S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (600,'BANCO LUSO BRASILEIRO S.A', '', NULL, 0);
