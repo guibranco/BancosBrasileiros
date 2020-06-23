@@ -4,7 +4,7 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 06-07-2020
 // ***********************************************************************
 // <copyright file="Comparer.cs" company="BancosBrasileiros.MergeTool">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -125,7 +125,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             if (!string.IsNullOrWhiteSpace(normalized.Url) && !normalized.Url.Equals(item.Url, StringComparison.InvariantCultureIgnoreCase))
                 Console.WriteLine($"URL diferente em {type} | {normalized.Url} | {item.Url}");
 
-            if (string.IsNullOrWhiteSpace(normalized.DateOperationStarted))
+            if (string.IsNullOrWhiteSpace(normalized.DateOperationStarted) && !string.IsNullOrWhiteSpace(item.DateOperationStarted))
                 normalized.DateOperationStarted = item.DateOperationStarted;
 
 

@@ -162,7 +162,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     var ispb = int.Parse(slc.Document.Replace(".", "").Replace("/", "").Substring(0, 8));
                     if (ispb == 0)
                     {
-                        Console.WriteLine($"SLC | Banco não encontrado: {slc.FiscalName} | {slc.Document.Trim()}");
+                        Console.WriteLine($"SLC | Banco com ISPB zerado: {slc.FiscalName} | {slc.Document.Trim()}");
                         continue;
                     }
                     bank = normalized.SingleOrDefault(b => b.Ispb.Equals(ispb));
@@ -174,10 +174,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     continue;
                 }
 
-                if (string.IsNullOrEmpty(bank.Document))
-                    bank.Document = slc.Document;
-                else if (!bank.Document.Equals(slc.Document))
-                    Console.WriteLine($"SLC | Documento inválido {slc.FiscalName} | {bank.Document} | {slc.Document}");
+                bank.Document = slc.Document;
 
                 if (string.IsNullOrEmpty(bank.FiscalName) || !bank.FiscalName.Equals(slc.FiscalName))
                     bank.FantasyName = slc.FiscalName;
