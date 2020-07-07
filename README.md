@@ -101,6 +101,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - **RSFN** - Rede do SFN
 - **SFN** - Sistema Financeiro Nacional
 - **SPB** - Sistema de Pagamentos Brasileiro
+- **SPI** - Sistema de Pagamentos Instatâneos
 - **STR** - Sistema de Transferência de Reserva
 
 ---
