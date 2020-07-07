@@ -98,6 +98,7 @@ For those unfamiliar with Brazilian entities:
 - **RSFN** - SFN Network
 - **SFN** - National Financial System
 - **SPB** - Brazilian Payment System
+- **SPI** - Instant Payment System
 - **STR** - Reservation Transfer System
 
 ---
