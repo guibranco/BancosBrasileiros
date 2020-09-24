@@ -30,13 +30,13 @@ Cada uma das listas possui as seguintes informações:
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
 | COMPE | Código do Banco - COMPE | 3 dígitos |
-| ISPB | Código do Banco - ISPB | 8 dígitos ([Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
+| ISPB | Código do Banco - ISPB | 8 dígitos [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
 | Name | Razão Social ou Nome Fantasia do Banco | - |
-| CNPJ | Documento do Banco | ([Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
-| Url  | Url do website | ([Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
-| Data de cadastro | Data de cadastro no schema | (bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
+| CNPJ | Documento do Banco | [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
+| Url  | Url do website | [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
+| Data de cadastro | Data de cadastro no schema | bancos.sql ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
 | Data de alteração | Data de alteração no schema | - |
-| Data de remoção | Data de remoção no schema | (bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
+| Data de remoção | Data de remoção no schema | bancos.sql ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
 | Removido | Flag indicativa se este banco foi removido ou não | DELETE lógico |
 
 ---
@@ -75,14 +75,6 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - **SPB** - Sistema de Pagamentos Brasileiro
 - **SPI** - Sistema de Pagamentos Instantâneos 
 - **STR** - Sistema de Transferência de Reserva
-
----
-
-## TODO ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP)
-
-- Obter CNPJ dos bancos: [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4).
-- Obter sites dos bancos: [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9).
-- Obter código ISPB: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
 
 ---
 
