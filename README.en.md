@@ -30,13 +30,13 @@ Each of the lists has the following information:
 | Column | Description | Observations |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
 | COMPE | Bank Code - COMPE | 3 digits |
-| ISPB | Bank Code - ISPB | 8 digits (TODO [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
+| ISPB | Bank Code - ISPB | 8 digits [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
 | Nome | Bank's corporate or fantasy/trade name  | - |
-| CNPJ | Bank's document | (TODO [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Url  | Website url | (TODO [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9)) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
-| Data de cadastro | Registration date on schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
+| CNPJ | Bank's document | [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
+| Url  | Website url | [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
+| Data de cadastro | Registration date on schema | bancos.sql ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
 | Data de alteração | Change date on schema | - |
-| Data de remoção | Removal date in the schema | (TODO bancos.sql) ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted) |
+| Data de remoção | Removal date in the schema | bancos.sql ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/WIP) |
 | Removido | Flag indicating whether this bank has been removed or not | Logical DELETE |
 
 ---
@@ -78,14 +78,8 @@ For those unfamiliar with Brazilian entities:
 
 ---
 
-## TODO ![GitHub labels](https://img.shields.io/github/labels/guibranco/BancosBrasileiros/help%20wanted)
-
-- Gather the banks documents (CNPJ): [Issue #4](https://github.com/guibranco/BancosBrasileiros/issues/4).
-- Gather the banks website (url/link): [Issue #9](https://github.com/guibranco/BancosBrasileiros/issues/9).
-- Gather the ISPB numbers: [Issue #31](https://github.com/guibranco/BancosBrasileiros/issues/31).
-
----
-
 ## Changelog
 
-**Changelog only exists in the PT-BR version for simplicity** [PT-BR version of this file](/README.md)
+**Changelog only exists in the PT-BR version for simplicity**.
+
+[PT-BR version of this file](/README.md)
