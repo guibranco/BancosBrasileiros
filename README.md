@@ -80,6 +80,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2021-01-06: [Issue #51](http://github.com/guibranco/BancosBrasileiros/issues/51) - Adicionado PicPay (COMPE: 380 | ISPB: 22896431) - [@kingaspx](https://github.com/kingaspx)
 - 2020-06-18: [Issue #46](http://github.com/guibranco/BancosBrasileiros/issues/46) - Corrige dados do Santander (033 e 502) - [@raframil](https://github.com/raframil)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrige data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrige nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
