@@ -134,6 +134,7 @@ INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VAL
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (372,'BANCO ITAMARATI S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (375,'BANCO FENICIA S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (376,'CHASE MANHATTAN BANK S.A', '', NULL, 0);
+INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (380,'PICPAY SERVIÇOS S.A', '22.896.431/0001-10', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (388,'BANCO MERCANTIL DE DESCONTOS S/A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (389,'BANCO MERCANTIL DO BRASIL S.A', '', NULL, 0);
 INSERT INTO `Banks` (`BankId`, `Name`, `Document`, `UpdatedAt`, `IsDeleted`) VALUES (392,'BANCO MERCANTIL DE SAO PAULO S.A', '', NULL, 0);
