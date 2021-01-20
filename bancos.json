@@ -2093,5 +2093,14 @@
     "UpdatedAt": null,
     "DeletedAt": null,
     "IsDeleted": false
+  },
+  {
+    "Code": "335",
+    "Name": "BANCO DIGIO S.A.",
+    "Document": "27.098.060/0001-45",
+    "CreatedAt": "2021-01-20 08:26:00.000",    
+    "UpdatedAt": null,
+    "DeletedAt": null,
+    "IsDeleted": false
   }
 ]

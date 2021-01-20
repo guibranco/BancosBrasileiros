@@ -2097,4 +2097,14 @@
 		<IsDeleted>false</IsDeleted>		
 		<UpdatedAt null="true" />
 	</bank>
+	<bank>
+		<Code>335</Code>
+		<Document>27.098.060/0001-45</Document>
+		<Name>Banco Digio S.A.</Name>
+		<Website>https://www.digio.com.br/</Website>
+		<CreatedAt>2021-01-20 08:26:00.000</CreatedAt>
+		<DeletedAt null="true" />
+		<IsDeleted>false</IsDeleted>		
+		<UpdatedAt null="true" />
+	</bank>
 </banks>
