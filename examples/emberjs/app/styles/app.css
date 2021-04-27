@@ -1,0 +1,467 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic);
+
+/**
+ * Base Elements
+ */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div,
+span,
+a,
+button {
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  background: #f3f3f3;
+}
+
+a {
+  color: #016aba;
+  text-decoration: none;
+}
+
+button {
+  font-size: 100%;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+/**
+ * Button
+ */
+
+.button {
+  padding: 10px 30px 10px;
+  text-decoration: none;
+  color: #fff;
+  background: #016aba;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  opacity: 0.9;
+  display: inline-block;
+}
+
+.button:hover {
+  opacity: 1;
+}
+/**
+ * Body Container
+ */
+
+.container {
+  max-width: 1024px;
+  min-height: 100vh;
+  background: #f9f9f9;
+  margin: 0 auto;
+}
+/**
+ * Top Navigation
+ */
+
+.menu {
+  height: 4em;
+  background-color: #677ae4;
+  background-color: #05526A;
+  background-color: #e46855;
+}
+
+.menu h1 {
+  position: relative;
+  padding: 5px 0 0 8px;
+  color: #f9f9f9;
+  font-size: 1.8em;
+  font-style: italic;
+}
+
+.menu a,
+.menu .links {
+  display: inline-block;
+}
+
+.menu a {
+  text-decoration: none;
+  padding: 0 15px;
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.menu a:hover,
+.menu a.active {
+  opacity: 1;
+}
+
+.menu .links {
+  padding: 0 21px;
+}
+
+.menu .links a {
+  position: relative;
+  bottom: 5px;
+}
+
+.banks label span {
+  font-size: 140%;
+  margin: 50px auto 20px;
+  display: block;
+  text-align: center;
+  font-style: italic;
+}
+
+.banks input {
+  padding: 11px;
+  font-size: 18px;
+  width: 500px;
+  margin: 20px auto 50px;
+  background-color: rgba(255, 255, 255, 0.75);
+  border: solid 1px lightgray;
+  display: block;
+}
+
+.menu input:focus {
+  background-color: #f9f9f9;
+  outline: none;
+}
+
+.menu button {
+  margin-right: 15px;
+  position: relative;
+  top: -1px;
+  left: -5px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: #262626;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.menu button:hover {
+  background-color: #111;
+  opacity: 1;
+}
+
+.menu .results {
+  display: none;
+  position: absolute;
+  width: 215px;
+  top: 54px;
+  left: 10px;
+  background-color: #f6f6f6;
+  border-right: 1px solid rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.results {
+  margin-top: -10px;
+}
+
+.results li {
+  list-style: none;
+  padding: 10px 15px;
+}
+
+.menu .results li:hover {
+  background: #f3f3f3;
+}
+/**
+ * Content Area
+ */
+
+.body {
+  padding: 15px;
+}
+/**
+ * Similar to Jumbotron
+ */
+
+.jumbo {
+  padding: 50px;
+  background: #f6f6f6;
+}
+
+.jumbo:hover {
+  background-color: #f3f3f3;
+}
+
+.jumbo h2 {
+  font-size: 3.2em;
+  margin-top: -25px;
+}
+
+.jumbo p,
+.jumbo address {
+  margin-bottom: 25px;
+}
+
+.jumbo img {
+  height: 200px;
+  position: relative;
+  top: -25px;
+  right: -20px;
+}
+
+/**
+ * Individual bank Listing
+ */
+
+.bank {
+  margin-top: 15px;
+  background-color: #f6f6f6;
+  padding: 20px 25px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.bank:hover {
+  background-color: #f3f3f3;
+}
+
+.bank img {
+  border-radius: 5px;
+}
+
+.bank .image {
+  flex-grow: 0;
+  flex-basis: 150px;
+  margin: 20px 25px;
+  text-align: center;
+}
+
+.bank button.image {
+  position: relative;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  z-index: 1;
+}
+
+.bank button.image:focus {
+  outline: none;
+}
+
+.bank button.image:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  margin: -20px;
+  padding: 20px;
+  border-radius: 5px;
+  background: #016aba;
+  opacity: 0;
+  transition: opacity 0.25s ease-in-out;
+}
+
+.bank button.image:focus:after, .bank button.image:hover:after {
+  opacity: 0.1;
+}
+
+.bank .image img {
+  max-width: 100%;
+}
+
+.bank .image.large {
+  margin: 30px 25px 50px 25px;
+  flex-basis: 100%;
+}
+
+.bank .image small {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: -15px;
+  text-align: center;
+  color: #016aba;
+
+  /* This is needed to fix a safari clipping issue */
+  position: relative;
+}
+
+.bank .image.large small {
+  margin-top: 10px;
+  margin-bottom: 0px;
+  font-size: 110%;
+}
+
+.bank .details {
+  flex-basis: 50%;
+  flex-grow: 2;
+  display: flex;
+  height: 150px;
+  margin: 20px 25px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+
+.bank h3 {
+  flex-basis: 100%;
+}
+
+.bank h3 a {
+  display: inline;
+}
+
+.bank .detail {
+  flex-basis: 50%;
+  font-weight: 300;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.bank .detail span {
+  font-weight: 400;
+  font-style: normal;
+}
+
+.bank .map {
+  flex-grow: 0;
+  flex-basis: 150px;
+  font-size: 0;
+  margin: 0px 25px;
+}
+
+.bank .map img {
+  width: 150px;
+  height: 150px;
+}
+
+.bank.detailed {
+  background: none;
+  align-items: flex-start;
+}
+
+.bank.detailed .image {
+  flex-basis: 320px;
+}
+
+.bank.detailed .image.large {
+  margin: 30px 25px 50px 25px;
+  flex-basis: 100%;
+}
+
+.bank.detailed .details {
+  height: auto;
+}
+
+.bank.detailed h3 {
+  font-size: 200%;
+  margin-bottom: 10px;
+}
+
+.bank.detailed .detail {
+  margin: 5px 0px;
+  flex-basis: 100%;
+  flex-shrink: 2;
+}
+
+.bank.detailed .description {
+  white-space: normal;
+  flex-basis: 100%;
+  flex-shrink: 1;
+}
+
+.bank.detailed .map {
+  flex-basis: 100%;
+  margin: 50px 25px 25px 25px;
+}
+
+.bank.detailed .map img {
+  width: 100%;
+  height: auto;
+}
+
+@media only screen and (max-width: 919px) {
+  .bank.detailed .image, .bank.detailed .image.large {
+    margin: 30px 25px 25px 25px;
+    flex-basis: 100%;
+    cursor: default;
+  }
+
+  .bank.detailed .image:hover {
+    flex-basis: 100%;
+    cursor: default;
+  }
+
+  .bank.detailed .image small {
+    display: none;
+  }
+
+  .bank.detailed button.image:hover:after {
+    opacity: 0;
+  }
+
+  .bank.detailed button.image:focus:after {
+    opacity: 0.1;
+  }
+
+  .bank.detailed .map {
+    margin-top: 25px;
+  }
+}
+
+/**
+ * Utilities
+ */
+
+.light {
+  font-weight: 300;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.hidden {
+  display: none;
+}
+
+.relative {
+  position: relative;
+}
+
+.tomster {
+  background: url(../assets/images/teaching-tomster.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 200px;
+
+  position: relative;
+  top: -25px;
+}
+
+.screen-reader{
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px; width: 1px;
+  margin: -1px; padding: 0; border: 0;
+}
