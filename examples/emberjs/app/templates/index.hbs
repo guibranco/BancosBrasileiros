@@ -1,0 +1,12 @@
+<div class="jumbo">
+  <h2>Welcome to Bancos Brasileiros EmberJs example!</h2>
+  <p>We hope you find exactly what you're looking for in a place to stay.</p>
+</div>
+
+<div class="banks">
+    <div class="results">
+        {{#each @model as |bank|}}
+            <li><Bank @bank={{bank}} /></li>
+        {{/each}}
+    </div>
+</div>
