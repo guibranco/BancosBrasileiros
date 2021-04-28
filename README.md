@@ -117,6 +117,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2021-04-28: [Milestone #1](https://github.com/guibranco/BancosBrasileiros/milestone/1) - Version 2 - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
@@ -124,9 +125,9 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - 2021-04-27: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
-- 2021-01-20: [Issue #53](http://github.com/guibranco/BancosBrasileiros/issues/53) - Adicionado Digio (COMPE: 335 / ISPB: 27098060) - [@gslvrp](https://github.com/gslvrp)
-- 2021-01-06: [Issue #51](http://github.com/guibranco/BancosBrasileiros/issues/51) - Adicionado PicPay (COMPE: 380 / ISPB: 22896431) - [@kingaspx](https://github.com/kingaspx)
-- 2020-06-18: [Issue #46](http://github.com/guibranco/BancosBrasileiros/issues/46) - Corrige dados do Santander (033 e 502) - [@raframil](https://github.com/raframil)
+- 2021-01-20: [Issue #53](http://github.com/guibranco/BancosBrasileiros/issues/53) - Adicionado Digio - [@gslvrp](https://github.com/gslvrp)
+- 2021-01-06: [Issue #51](http://github.com/guibranco/BancosBrasileiros/issues/51) - Adicionado PicPay - [@kingaspx](https://github.com/kingaspx)
+- 2020-06-18: [Issue #46](http://github.com/guibranco/BancosBrasileiros/issues/46) - Corrige dados do Santander - [@raframil](https://github.com/raframil)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrige data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrigido data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrigido nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
