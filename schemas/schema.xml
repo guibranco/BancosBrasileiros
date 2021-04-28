@@ -9,35 +9,14 @@
               <xs:element type="xs:string" name="ISPB"/>
               <xs:element type="xs:string" name="Document"/>
               <xs:element type="xs:string" name="FiscalName"/>
-              <xs:element type="xs:string" name="FantasyName"/>              
-              <xs:element name="Url">
-               <xs:complexType>
-                  <xs:simpleContent>
-                    <xs:extension base="xs:string">
-                      <xs:attribute type="xs:string" name="null" use="optional"/>
-                    </xs:extension>
-                  </xs:simpleContent>
-                </xs:complexType>
-              </xs:element>
+              <xs:element type="xs:string" name="FantasyName"/>   
+              <xs:element type="xs:string" name="Network" />
+			  <xs:element type="xs:string" name="Type" />
+			  <xs:element type="xs:string" name="Url" />
+			  <xs:element type="xs:string" name="DateOperationStarted" />
               <xs:element type="xs:string" name="DateRegistered"/>
-              <xs:element name="DateUpdated">
-                <xs:complexType>
-                  <xs:simpleContent>
-                    <xs:extension base="xs:string">
-                      <xs:attribute type="xs:string" name="null" use="optional"/>
-                    </xs:extension>
-                  </xs:simpleContent>
-                </xs:complexType>
-              </xs:element>
-              <xs:element name="DateRemoved">
-                <xs:complexType>
-                  <xs:simpleContent>
-                    <xs:extension base="xs:string">
-                      <xs:attribute type="xs:string" name="null" use="optional"/>
-                    </xs:extension>
-                  </xs:simpleContent>
-                </xs:complexType>
-              </xs:element>
+              <xs:element type="xs:string" name="DateUpdated"/>  
+              <xs:element type="xs:string" name="DateRemoved" />
               <xs:element type="xs:string" name="IsRemoved"/>
             </xs:sequence>
           </xs:complexType>

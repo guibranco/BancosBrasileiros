@@ -34,8 +34,11 @@ Cada uma das listas possui as seguintes informações (schema):
 | ISPB | Código do banco - ISPB | 8 dígitos |
 | Document | Documento do banco - CNPJ | 14 números - 18 dígitos (formatado) |
 | FiscalName | Razão social do banco | Conforme Receita Federal do Brasil |
-| FantasyName | Nome fantasia do banco | Nome comercial |
+| FantasyName | Nome fantasia do banco | Nome comercial/popular |
+| Network | Rede a qual o banco faz parte | RSFN; internet; null |
+| Type | Tipo de banco | comercial; múltiplo; caixa econômica; null |
 | Url | Url do website | - |
+| DateOperationStarted | Data do início de operação do banco | - |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
 | DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
@@ -90,7 +93,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - **CIP** - Câmara Interbancária de Pagamentos
 - **CNPJ** - Cadastro Nacional de Pessoa Jurídica - RFB
 - **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
-- **CPF** - Cadastro Pessoa Física
+- **CPF** - Cadastro Pessoa Física - RFB
 - **FEBRABAN** - Federação Brasileira de Bancos
 - **ISPB** - Identificação do SPB
 - **PIX** - Pagamentos Instantâneos
@@ -105,13 +108,17 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
-- 2020-05-17: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
-- 2020-05-17: [Issue #36](http://github.com/guibranco/BancosBrasileiros/issues/36) - Listas normalizadas (dados e estrutura) - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
-- 2020-05-17: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
+- 2021-04-27: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
+- 2021-04-27: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
+- 2021-04-27: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
+- 2021-04-27: [Issue #36](http://github.com/guibranco/BancosBrasileiros/issues/36) - Listas normalizadas (dados e estrutura) - [@guibranco](https://github.com/guibranco)
+- 2021-04-27: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
+- 2021-04-27: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
+- 2021-04-27: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
+- 2021-01-20: [Issue #53](http://github.com/guibranco/BancosBrasileiros/issues/53) - Adicionado Digio (COMPE: 335 | ISPB: 27098060) - [@gslvrp](https://github.com/gslvrp)
+- 2021-01-06: [Issue #51](http://github.com/guibranco/BancosBrasileiros/issues/51) - Adicionado PicPay (COMPE: 380 | ISPB: 22896431) - [@kingaspx](https://github.com/kingaspx)
+- 2020-06-18: [Issue #46](http://github.com/guibranco/BancosBrasileiros/issues/46) - Corrige dados do Santander (033 e 502) - [@raframil](https://github.com/raframil)
+- 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrige data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrigido data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrigido nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)
 - 2020-04-28: Removido vírgula em excesso no arquivo bancos.json - [@wesleydeveloper](https://github.com/wesleydeveloper)

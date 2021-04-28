@@ -1,11 +1,11 @@
-version: 1.2.{build}
+version: 2.0.{build}
 skip_commits:
     message: /(Create|Update).*\.(png|jpg|jpeg|bmp|gif|md)/
 branches:
     only:
     - master
 environment:
-    nodejs_version: 6
+    nodejs_version: 14.3.0
 install:
 - ps: Install-Product node $env:nodejs_version
 - ps: >- 

@@ -64,7 +64,10 @@ public class Bank {
     private String document;
     private String fiscalName;
     private String fantasyName;
+    private String Network;
+    private String Type;
     private String url;
+    private String dateOperationStarted;
     private String dateRegistered;
     private String dateUpdated;
     private String dateRemoved;
@@ -95,10 +98,25 @@ public class Bank {
     @JsonProperty("FantasyName")
     public void setFantasyName(String value) { this.fantasyName = value; }
 
+    @JsonProperty("Network")
+    public String getNetwork() { return network; }
+    @JsonProperty("Network")
+    public void setNetwork(String value) { this.network = value; }
+
+    @JsonProperty("Type")
+    public String getType() { return type; }
+    @JsonProperty("Type")
+    public void setType(String value) { this.type = value; }
+
     @JsonProperty("Url")
     public String getURL() { return url; }
     @JsonProperty("Url")
     public void setURL(String value) { this.url = value; }
+
+    @JsonProperty("DateOperationStarted")
+    public String getDateOperationStarted() { return dateOperationStarted; }
+    @JsonProperty("DateOperationStarted")
+    public void setDateOperationStarted(String value) { this.dateOperationStarted = value; }
 
     @JsonProperty("DateRegistered")
     public String getDateRegistered() { return dateRegistered; }

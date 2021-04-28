@@ -32,14 +32,23 @@ data class BankElement (
     @Json(name = "FantasyName")
     val fantasyName: String,
 
+    @Json(name = "Network")
+    val network: String,
+
+    @Json(name = "Type")
+    val type: String,
+
     @Json(name = "Url")
     val url: String? = null,
+
+    @Json(name = "DateOperationStarted")
+    val dateOperationStarted: String
 
     @Json(name = "DateRegistered")
     val dateRegistered: String,
 
     @Json(name = "DateUpdated")
-    val dateUpdated: String? = null,
+    val dateUpdated: String,
 
     @Json(name = "DateRemoved")
     val dateRemoved: String? = null,

@@ -8,16 +8,19 @@
 // match the expected interface, even if the JSON is valid.
 
 export interface Bank {
-    COMPE:          string;
-    ISPB:           string;
-    Document:       string;
-    FiscalName:     string;
-    FantasyName:    string;
-    Url:            null | string;
-    DateRegistered: Date;
-    DateUpdated:    Date | null;
-    DateRemoved:    Date | null;
-    IsRemoved:      boolean;
+    COMPE:                  string;
+    ISPB:                   string;
+    Document:               string;
+    FiscalName:             string;
+    FantasyName:            string;
+    Network:                null | string;
+    Type:                   null | string;
+    Url:                    null | string;
+    DateOperationStarted:   null | string;
+    DateRegistered:         Date;
+    DateUpdated:            Date;
+    DateRemoved:            null | Date;
+    IsRemoved:              boolean;
 }
 
 // Converts JSON strings to/from your types
@@ -168,9 +171,12 @@ const typeMap: any = {
         { json: "Document", js: "Document", typ: "" },
         { json: "FiscalName", js: "FiscalName", typ: "" },
         { json: "FantasyName", js: "FantasyName", typ: "" },
+        { json: "Network", js: "Network", typ: u("", null) },
+        { json: "Type", js: "Type", typ: u("", null) },
         { json: "Url", js: "Url", typ: u("", null) },
+        { json: "DateOperationStarted", js: "DateOperationStarted", typ: u("", null) },        
         { json: "DateRegistered", js: "DateRegistered", typ: Date },
-        { json: "DateUpdated", js: "DateUpdated", typ: u(Date, null) },
+        { json: "DateUpdated", js: "DateUpdated", typ: Date },
         { json: "DateRemoved", js: "DateRemoved", typ: u(Date, null) },
         { json: "IsRemoved", js: "IsRemoved", typ: true },
     ], false),
