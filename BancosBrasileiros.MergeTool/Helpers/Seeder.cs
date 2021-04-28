@@ -46,9 +46,12 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if (bank == null)
                 {
                     Console.WriteLine($"Adding bank by site list | {site.Compe} | {site.LongName}");
+
                     if (string.IsNullOrWhiteSpace(site.ShortName))
                         site.ShortName = site.LongName;
+
                     site.DateRegistered ??= DateTimeOffset.Now;
+
                     normalized.Add(site);
                     bank = site;
                 }
@@ -132,7 +135,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    var ispb = int.Parse(slc.Document.RemoveNonNumeric().Substring(0, 8));
+                    var ispb = int.Parse(slc.Document.RemoveNonNumeric()[..8]);
                     if (ispb == 0)
                     {
                         Console.WriteLine($"SLC | Banco com ISPB zerado: {slc.LongName} | {slc.Document.Trim()}");

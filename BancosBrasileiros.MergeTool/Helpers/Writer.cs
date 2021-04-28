@@ -53,10 +53,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             var lines = new List<string>
             {
-                "COMPE,ISPB,Document,LongName,ShortName,Network,Type,Url,DateOperationStarted,DateRegistered,DateUpdated,DateRemoved,IsRemoved"
+                "COMPE,ISPB,Document,LongName,ShortName,Network,Type,Url,DateOperationStarted,DateRegistered,DateUpdated"
             };
 
-            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Type},{bank.Network},{bank.Url},{bank.DateOperationStarted},{bank.DateRegistered:O},{bank.DateUpdated:O},{bank.DateRemoved:O},{bank.IsRemoved.ToString().ToLower()}"));
+            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Type},{bank.Network},{bank.Url},{bank.DateOperationStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"));
 
             File.WriteAllLines("result\\bancos.csv", lines, Encoding.UTF8);
         }
@@ -71,11 +71,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             {
                 "# Bancos Brasileiros",
                 string.Empty,
-                "COMPE | ISPB | Document | Long Name | Short Name | Network | Type | Url | Date Operation Started | Date Registered | Date Updated | Date Removed | Is Removed",
-                "-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --"
+                "COMPE | ISPB | Document | Long Name | Short Name | Network | Type | Url | Date Operation Started | Date Registered | Date Updated",
+                "-- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- "
             };
 
-            lines.AddRange(banks.Select(bank => $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {bank.DateUpdated:O} | {(bank.DateRemoved.HasValue ? bank.DateRemoved.Value.ToString("O") : "-")} | {bank.IsRemoved.ToString().ToLower()}"));
+            lines.AddRange(banks.Select(bank => $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"));
 
             File.WriteAllLines("result\\bancos.md", lines, Encoding.UTF8);
         }
@@ -88,8 +88,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             var lines = new List<string>();
 
-            const string prefix = "INSERT INTO Banks (Compe, Ispb, Document, LongName, ShortName, Network, Type, Url, DateOperationStarted, DateRegistered, DateUpdated, DateRemoved, IsRemoved) VALUES(";
-            lines.AddRange(banks.Select(bank => $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}',{(bank.DateRemoved.HasValue ? $"'{bank.DateRemoved:O}'" : "NULL")},{(bank.IsRemoved ? 1 : 0)});"));
+            const string prefix = "INSERT INTO Banks (Compe, Ispb, Document, LongName, ShortName, Network, Type, Url, DateOperationStarted, DateRegistered, DateUpdated) VALUES(";
+            lines.AddRange(banks.Select(bank => $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}');"));
 
             File.WriteAllLines("result\\bancos.sql", lines, Encoding.UTF8);
         }

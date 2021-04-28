@@ -19,6 +19,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
     using iTextSharp.text.pdf.parser;
     using System;
     using System.Collections.Generic;
+    using System.Globalization;
     using System.IO;
     using System.Linq;
     using System.Net;
@@ -30,6 +31,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// </summary>
     internal class Reader
     {
+        /// <summary>
+        /// The CSV pattern
+        /// </summary>
+        private readonly Regex _csvPattern = new Regex(",(?=(?:[^\"]*\"[^\"]*\")*(?![^\"]*\"))", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
+
         /// <summary>
         /// The SLC pattern
         /// </summary>
@@ -51,15 +57,15 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var lines = data.Split("\n").Skip(1).ToArray();
 
             result.AddRange(lines
-                .Select(line => line.Split(","))
-                .Where(columns => columns.Length > 1)
+                .Select(line => _csvPattern.Split(line))
+                .Where(columns => columns.Length > 1 && int.TryParse(columns[2], out _))
                 .Select(columns => new Bank
                 {
                     CompeString = columns[2],
                     IspbString = columns[0],
                     LongName = columns[5].Trim(),
                     ShortName = columns[1].Trim(),
-                    DateOperationStarted = columns[6],
+                    DateOperationStarted = DateTime.ParseExact(columns[6].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture).ToString("yyyy-MM-dd"),
                     Network = columns[4]
                 }));
 
@@ -91,7 +97,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             }
             return result;
         }
-        
+
         /// <summary>
         /// Loads the site.
         /// </summary>

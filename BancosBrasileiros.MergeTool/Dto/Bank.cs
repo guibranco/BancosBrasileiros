@@ -133,12 +133,26 @@ namespace BancosBrasileiros.MergeTool.Dto
         public string Type { get; set; }
 
         /// <summary>
+        /// The URL
+        /// </summary>
+        private string _url;
+
+        /// <summary>
         /// Gets or sets the URL.
         /// </summary>
         /// <value>The URL.</value>
         [JsonProperty("Url")]
         [XmlElement("Url")]
-        public string Url { get; set; }
+        public string Url
+        {
+            get => _url;
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value) || value.Equals("NA"))
+                    return;
+                _url = $"https://{value.ToLower().Replace("https://", "")}";
+            }
+        }
 
         /// <summary>
         /// Gets or sets the date operation started.
@@ -164,33 +178,6 @@ namespace BancosBrasileiros.MergeTool.Dto
         [XmlElement("DateUpdated")]
         public DateTimeOffset? DateUpdated { get; set; }
 
-        /// <summary>
-        /// Gets or sets the date removed.
-        /// </summary>
-        /// <value>The date removed.</value>
-        [JsonProperty("DateRemoved")]
-        [XmlElement("DateRemoved")]
-        public DateTimeOffset? DateRemoved { get; set; }
-
-        /// <summary>
-        /// Gets or sets a value indicating whether this instance is removed.
-        /// </summary>
-        /// <value><c>true</c> if this instance is removed; otherwise, <c>false</c>.</value>
-        [JsonProperty("IsRemoved")]
-        [XmlIgnore]
-        public bool IsRemoved { get; set; }
-
-        /// <summary>
-        /// Gets or sets the is removed XML.
-        /// </summary>
-        /// <value>The is removed XML.</value>
-        [JsonIgnore]
-        [XmlElement("IsRemoved")]
-        public string IsRemovedXml
-        {
-            get => IsRemoved.ToString();
-            set => IsRemoved = value.Equals("true", StringComparison.InvariantCultureIgnoreCase);
-        }
 
         #region Equality members
 
@@ -216,9 +203,7 @@ namespace BancosBrasileiros.MergeTool.Dto
                 string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
                 Nullable.Equals(DateRegistered, other.DateRegistered) &&
-                Nullable.Equals(DateUpdated, other.DateUpdated) &&
-                Nullable.Equals(DateRemoved, other.DateRemoved) &&
-                IsRemoved == other.IsRemoved;
+                Nullable.Equals(DateUpdated, other.DateUpdated);
         }
 
         /// <summary>
@@ -251,8 +236,6 @@ namespace BancosBrasileiros.MergeTool.Dto
             hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DateRegistered);
             hashCode.Add(DateUpdated);
-            hashCode.Add(DateRemoved);
-            hashCode.Add(IsRemoved);
             return hashCode.ToHashCode();
         }
 

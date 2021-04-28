@@ -10,9 +10,9 @@ Código | Banco | Site
 021 | BANESTES S.A. Banco do Estado do Espírito Santo | www.banestes.com.br
 024 | Banco BANDEPE S.A. | www.santander.com.br
 025 | Banco Alfa S.A. | www.bancoalfa.com.br
-029 | Banco Itaú Consignado S.A. | Não possui site
+029 | Banco Itaú Consignado S.A. | NA
 033 | Banco Santander (Brasil) S.A. | www.santander.com.br
-036 | Banco Bradesco BBI S.A. | Não possui site
+036 | Banco Bradesco BBI S.A. | NA
 037 | Banco do Estado do Pará S.A. | www.banpara.b.br
 040 | Banco Cargill S.A. | www.bancocargill.com.br
 041 | Banco do Estado do Rio Grande do Sul S.A. | www.banrisul.com.br
@@ -42,7 +42,7 @@ Código | Banco | Site
 144 | BEXS Banco de CÃ¢mbio S.A. | www.bexs.com.br
 169 | Banco Olé Bonsucesso Consignado S.A. | www.oleconsignado.com.br
 184 | Banco Itaú BBA S.A. | www.itaubba.com.br
-204 | Banco Bradesco Cartões S.A. | Não possui site
+204 | Banco Bradesco Cartões S.A. | NA
 208 | Banco BTG Pactual S.A. | www.btgpactual.com
 212 | Banco Original S.A. | www.original.com.br
 217 | Banco John Deere S.A. | www.johndeere.com.br
@@ -52,11 +52,11 @@ Código | Banco | Site
 233 | Banco Cifra S.A. | www.bancocifra.com.br
 237 | Banco Bradesco S.A. | www.bradesco.com.br
 246 | Banco ABC Brasil S.A. | www.abcbrasil.com.br
-249 | Banco Investcred Unibanco S.A. | Não possui site
+249 | Banco Investcred Unibanco S.A. | NA
 250 | BCV - Banco de Crédito e Varejo S.A. | www.bancobcv.com.br
 254 | Paraná¡ Banco S.A. | www.paranabanco.com.br
 265 | Banco Fator S.A. | www.fator.com.br
-269 | HSBC Brasil S.A. - Banco de Investimento | Não possui site
+269 | HSBC Brasil S.A. - Banco de Investimento | NA
 318 | Banco BMG S.A. | www.bancobmg.com.br
 320 | China Construction Bank (Brasil) Banco Múltiplo S.A. | www.br.ccb.com
 341 | Itaú Unibanco S.A. | www.itau.com.br
@@ -64,8 +64,8 @@ Código | Banco | Site
 370 | Banco Mizuho do Brasil S.A. | www.mizuhobank.com/brazil/pt/
 376 | Banco J. P. Morgan S.A. | www.jpmorgan.com
 389 | Banco Mercantil do Brasil S.A. | www.mercantil.com.br
-394 | Banco Bradesco Financiamentos S.A. | Não possui site
-399 | Kirton Bank S.A. - Banco Múltiplo | Não possui site
+394 | Banco Bradesco Financiamentos S.A. | NA
+399 | Kirton Bank S.A. - Banco Múltiplo | NA
 422 | Banco Safra S.A. | www.safra.com.br
 456 | Banco MUFG Brasil S.A. | www.br.bk.mufg.jp
 464 | Banco Sumitomo Mitsui Brasileiro S.A. | www.smbcgroup.com.br
@@ -84,7 +84,7 @@ Código | Banco | Site
 623 | Banco PAN S.A. | www.bancopan.com.br
 633 | Banco Rendimento S.A. | www.rendimento.com.br
 634 | Banco Triângulo S.A. | www.tribanco.com.br
-641 | Banco Alvorada S.A. | Não possui site
+641 | Banco Alvorada S.A. | NA
 643 | Banco Pine S.A. | www.pine.com
 652 | Itaú Unibanco Holding S.A. | www.itau.com.br
 653 | Banco Indusval S.A. | www.bip.b.br
