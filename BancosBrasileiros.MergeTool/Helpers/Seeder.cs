@@ -14,6 +14,7 @@
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
+    using CrispyWaffle.Extensions;
     using Dto;
     using System;
     using System.Collections.Generic;
@@ -31,19 +32,22 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <param name="sites">The sites.</param>
         public void SeedSite(IList<Bank> normalized, IEnumerable<Bank> sites)
         {
+            var found = 0;
+            var notFound = 0;
+
             foreach (var site in sites)
             {
                 var bank = normalized.SingleOrDefault(b => b.Compe == site.Compe);
 
                 if (bank == null)
                     bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(site.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
-                                                          b.FantasyName.Equals(site.FiscalName, StringComparison.InvariantCultureIgnoreCase));
+                                                          b.LongName.Equals(site.LongName, StringComparison.InvariantCultureIgnoreCase) ||
+                                                          b.ShortName.Equals(site.LongName, StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                 {
-                    Console.WriteLine($"Adding bank by site list | {site.Compe} | {site.FiscalName}");
-                    if (string.IsNullOrWhiteSpace(site.FantasyName))
-                        site.FantasyName = site.FiscalName;
+                    Console.WriteLine($"Adding bank by site list | {site.Compe} | {site.LongName}");
+                    if (string.IsNullOrWhiteSpace(site.ShortName))
+                        site.ShortName = site.LongName;
                     site.DateRegistered ??= DateTimeOffset.Now;
                     normalized.Add(site);
                     bank = site;
@@ -55,61 +59,19 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     !bank.Url.Equals(site.Url, StringComparison.InvariantCultureIgnoreCase))
                     bank.Url = site.Url;
 
-                if (bank.FiscalName.Equals(site.FiscalName, StringComparison.InvariantCultureIgnoreCase))
-                    continue;
-
-                bank.FiscalName = site.FiscalName;
-            }
-        }
-
-        /// <summary>
-        /// Seeds the ispb.
-        /// </summary>
-        /// <param name="normalized">The normalized.</param>
-        /// <param name="codes">The codes.</param>
-        public void SeedIspb(IList<Bank> normalized, IEnumerable<Bank> codes)
-        {
-            foreach (var code in codes)
-            {
-
-                var bank = normalized.SingleOrDefault(b => b.Compe == code.Compe && code.Compe > 0);
-
-                if (bank == null)
-                    bank = normalized.SingleOrDefault(b =>
-                                                             b.FiscalName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
-                                                             b.FantasyName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase));
-                if (bank == null)
-                    bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(code.FantasyName, StringComparison.InvariantCultureIgnoreCase) ||
-                                                          b.FantasyName.Equals(code.FantasyName, StringComparison.InvariantCultureIgnoreCase));
-
-                if (bank == null)
-                    bank = normalized.SingleOrDefault(b => b.Ispb == code.Ispb);
-
-                if (bank == null)
+                if (bank.LongName.Equals(site.LongName, StringComparison.InvariantCultureIgnoreCase))
                 {
-                    Console.WriteLine($"ISPB | Banco não encontrado: {code.Compe} | {code.FiscalName} | {code.FantasyName}");
+                    notFound++;
                     continue;
                 }
 
-                if (bank.Ispb == 0 || bank.Ispb != code.Ispb)
-                    bank.Ispb = code.Ispb;
+                bank.LongName = site.LongName;
 
-                if (string.IsNullOrWhiteSpace(bank.Network) && !string.IsNullOrWhiteSpace(code.Network))
-                    bank.Network = code.Network;
-
-                if (!bank.FiscalName.Equals(code.FiscalName, StringComparison.InvariantCultureIgnoreCase))
-                    Console.WriteLine($"ISPB | Razão social inválida {code.Compe} | {bank.FiscalName} <-> {code.FiscalName}");
-
-                if (!bank.FantasyName.Equals(code.FantasyName, StringComparison.InvariantCultureIgnoreCase))
-                    Console.WriteLine($"ISPB | Nome fantasia inválido {code.Compe} | {bank.FantasyName} <-> {code.FantasyName}");
-
-                if (string.IsNullOrWhiteSpace(bank.DateOperationStarted) &&
-                    !string.IsNullOrWhiteSpace(code.DateOperationStarted))
-                    bank.DateOperationStarted = code.DateOperationStarted;
+                found++;
             }
-        }
 
+            Console.WriteLine($"\r\nSite | Found: {found} | Not found: {notFound}\r\n");
+        }
 
         /// <summary>
         /// Seeds the document.
@@ -118,14 +80,18 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <param name="documents">The documents.</param>
         public void SeedDocument(IList<Bank> normalized, IEnumerable<Bank> documents)
         {
+            var found = 0;
+            var notFound = 0;
+
             foreach (var document in documents)
             {
                 var bank = normalized.SingleOrDefault(b =>
-                                                          b.FiscalName.Equals(document.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
-                                                          b.FantasyName.Equals(document.FiscalName, StringComparison.InvariantCultureIgnoreCase));
+                                                          b.LongName.Equals(document.LongName, StringComparison.InvariantCultureIgnoreCase) ||
+                                                          b.ShortName.Equals(document.LongName, StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                 {
-                    Console.WriteLine($"CNPJ | Banco não encontrado: {document.FiscalName}");
+                    Console.WriteLine($"CNPJ | Banco não encontrado: {document.LongName}");
+                    notFound++;
                     continue;
                 }
 
@@ -141,7 +107,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(document.Url))
                     bank.Url = document.Url.ToLower();
+
+                found++;
             }
+
+            Console.WriteLine($"\r\nDocument | Found: {found} | Not found: {notFound}\r\n");
         }
 
         /// <summary>
@@ -151,18 +121,21 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <param name="slcs">The SLCS.</param>
         public void SeedSlc(IList<Bank> normalized, IEnumerable<Bank> slcs)
         {
+            var found = 0;
+            var notFound = 0;
+
             foreach (var slc in slcs)
             {
                 var bank = normalized.SingleOrDefault(b =>
-                    b.FiscalName.EndsWith(slc.FiscalName, StringComparison.InvariantCultureIgnoreCase) ||
-                    b.FantasyName.Equals(slc.FiscalName, StringComparison.InvariantCultureIgnoreCase));
+                    b.LongName.EndsWith(slc.LongName, StringComparison.InvariantCultureIgnoreCase) ||
+                    b.ShortName.Equals(slc.LongName, StringComparison.InvariantCultureIgnoreCase));
 
                 if (bank == null)
                 {
-                    var ispb = int.Parse(slc.Document.Replace(".", "").Replace("/", "").Substring(0, 8));
+                    var ispb = int.Parse(slc.Document.RemoveNonNumeric().Substring(0, 8));
                     if (ispb == 0)
                     {
-                        Console.WriteLine($"SLC | Banco com ISPB zerado: {slc.FiscalName} | {slc.Document.Trim()}");
+                        Console.WriteLine($"SLC | Banco com ISPB zerado: {slc.LongName} | {slc.Document.Trim()}");
                         continue;
                     }
                     bank = normalized.SingleOrDefault(b => b.Ispb.Equals(ispb));
@@ -170,19 +143,24 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.WriteLine($"SLC | Banco não encontrado: {slc.FiscalName} | {slc.Document.Trim()}");
+                    Console.WriteLine($"SLC | Banco não encontrado: {slc.LongName} | {slc.Document.Trim()}");
+                    notFound++;
                     continue;
                 }
 
                 bank.Document = slc.Document;
 
-                if (string.IsNullOrEmpty(bank.FiscalName) || !bank.FiscalName.Equals(slc.FiscalName))
-                    bank.FantasyName = slc.FiscalName;
+                if (string.IsNullOrEmpty(bank.LongName) || !bank.LongName.Equals(slc.LongName))
+                    bank.ShortName = slc.LongName;
 
-                if (string.IsNullOrWhiteSpace(bank.FantasyName))
-                    bank.FantasyName = bank.FiscalName;
+                if (string.IsNullOrWhiteSpace(bank.ShortName))
+                    bank.ShortName = bank.LongName;
+
+                found++;
 
             }
+
+            Console.WriteLine($"\r\nSLC | Found: {found} | Not found: {notFound}\r\n");
         }
     }
 }

@@ -14,8 +14,10 @@
 
 namespace BancosBrasileiros.MergeTool.Dto
 {
+    using CrispyWaffle.Extensions;
     using Newtonsoft.Json;
     using System;
+    using System.Linq;
     using System.Text;
     using System.Xml.Serialization;
 
@@ -77,28 +79,43 @@ namespace BancosBrasileiros.MergeTool.Dto
         }
 
         /// <summary>
+        /// The document
+        /// </summary>
+        private string _document;
+
+        /// <summary>
         /// Gets or sets the document.
         /// </summary>
         /// <value>The document.</value>
         [JsonProperty("Document")]
         [XmlElement("Document")]
-        public string Document { get; set; }
+        public string Document
+        {
+            get => _document;
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                    return;
+                var document = new string(value.Where(char.IsDigit).ToArray());
+                _document = document.FormatBrazilianDocument();
+            }
+        }
 
         /// <summary>
-        /// Gets or sets the name of the fiscal.
+        /// Gets or sets the long name.
         /// </summary>
-        /// <value>The name of the fiscal.</value>
-        [JsonProperty("FiscalName")]
-        [XmlElement("FiscalName")]
-        public string FiscalName { get; set; }
+        /// <value>The long name.</value>
+        [JsonProperty("LongName")]
+        [XmlElement("LongName")]
+        public string LongName { get; set; }
 
         /// <summary>
-        /// Gets or sets the name of the fantasy.
+        /// Gets or sets the short name.
         /// </summary>
-        /// <value>The name of the fantasy.</value>
-        [JsonProperty("FantasyName")]
-        [XmlElement("FantasyName")]
-        public string FantasyName { get; set; }
+        /// <value>The short name.</value>
+        [JsonProperty("ShortName")]
+        [XmlElement("ShortName")]
+        public string ShortName { get; set; }
 
         /// <summary>
         /// Gets or sets the network.
@@ -192,8 +209,8 @@ namespace BancosBrasileiros.MergeTool.Dto
                 Compe == other.Compe &&
                 Ispb == other.Ispb &&
                 string.Equals(Document, other.Document, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(FiscalName, other.FiscalName, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(FantasyName, other.FantasyName, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase) &&//    
                 string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
@@ -226,8 +243,8 @@ namespace BancosBrasileiros.MergeTool.Dto
             hashCode.Add(Compe);
             hashCode.Add(Ispb);
             hashCode.Add(Document ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(FiscalName, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(FantasyName, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(LongName, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(ShortName, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Network ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Type ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Url ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
@@ -253,11 +270,11 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (!string.IsNullOrWhiteSpace(Document))
                 strBuilder.AppendFormat("Document: {0} | ", Document);
 
-            if (!string.IsNullOrWhiteSpace(FiscalName))
-                strBuilder.AppendFormat("Fiscal name: {0} | ", FiscalName);
+            if (!string.IsNullOrWhiteSpace(LongName))
+                strBuilder.AppendFormat("Fiscal name: {0} | ", LongName);
 
-            if (!string.IsNullOrWhiteSpace(FantasyName))
-                strBuilder.AppendFormat("Fantasy name: {0} | ", FantasyName);
+            if (!string.IsNullOrWhiteSpace(ShortName))
+                strBuilder.AppendFormat("Fantasy name: {0} | ", ShortName);
 
             if (!string.IsNullOrWhiteSpace(Network))
                 strBuilder.AppendFormat("Network: {0} | ", Network);
@@ -268,9 +285,7 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (!string.IsNullOrWhiteSpace(DateOperationStarted))
                 strBuilder.AppendFormat("Date operation started: {0} | ", DateOperationStarted);
 
-            strBuilder.AppendFormat(
-                "Date registered: {0:O} | Date updated: {1:O} | Date removed: {2:O} | Is removed: {3}", DateRegistered,
-                DateUpdated, DateRemoved, IsRemoved);
+            strBuilder.AppendFormat("Date registered: {0:O} | Date updated: {1:O}", DateRegistered, DateUpdated);
 
             return strBuilder.ToString();
         }

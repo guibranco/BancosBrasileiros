@@ -14,7 +14,6 @@
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
-    using CrispyWaffle.Serialization;
     using Dto;
     using iTextSharp.text.pdf;
     using iTextSharp.text.pdf.parser;
@@ -22,6 +21,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
     using System.Collections.Generic;
     using System.IO;
     using System.Linq;
+    using System.Net;
     using System.Text;
     using System.Text.RegularExpressions;
 
@@ -31,187 +31,40 @@ namespace BancosBrasileiros.MergeTool.Helpers
     internal class Reader
     {
         /// <summary>
-        /// The HTML pattern
-        /// </summary>
-        private readonly Regex _htmlPattern = new Regex(@"^(?<compe>\d{3})\s-\s(?<nome>.+?)\s\[ISPB\:\s(?<ispb>\d{8})\]\s?$", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
-
-        /// <summary>
         /// The SLC pattern
         /// </summary>
-        private readonly Regex _slcPattern = new Regex(@"^\d{1,3}\s(?<cnpj>\d{2}\.\d{3}\.\d{3}\/\d{4}\.\d{2})\s(?<nome>.+?)(?:[\s|X]){1,7}$", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
+        private readonly Regex _slcPattern = new Regex(@"^(?<code>\d{1,3})\s(?<cnpj>\d{2}\.\d{3}\.\d{3}\/\d{4}([-|·|\.|\s]{1,2})\d{2})\s(?<nome>.+?)(?:[\s|X]){1,7}$", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
         /// <summary>
-        /// Loads the CSV.
+        /// The counting SLC
         /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadCsv()
+        private int _countingSlc;
+
+        public List<Bank> LoadStr()
         {
             var result = new List<Bank>();
-            var lines = File.ReadAllLines("data\\bancos.csv").Skip(1).ToArray();
-            foreach (var line in lines)
-            {
-                var columns = line.Split(",");
-                var bank = new Bank
+
+
+            using var webClient = new WebClient { Encoding = Encoding.UTF8 };
+
+            var data = webClient.DownloadString("http://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv");
+            var lines = data.Split("\n").Skip(1).ToArray();
+
+            result.AddRange(lines
+                .Select(line => line.Split(","))
+                .Where(columns => columns.Length > 1)
+                .Select(columns => new Bank
                 {
-                    CompeString = columns[0],
-                    IspbString = columns[1],
-                    Document = columns[2],
-                    FiscalName = columns[3],
-                    FantasyName = columns[4],
-                    IsRemoved = columns[9].Equals("true")
-                };
-
-                if (!string.IsNullOrWhiteSpace(columns[5]))
-                    bank.Url = columns[5];
-
-                if (!string.IsNullOrWhiteSpace(columns[6]))
-                    bank.DateRegistered = DateTime.Parse(columns[6], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                bank.DateUpdated = !string.IsNullOrWhiteSpace(columns[7])
-                    ? DateTime.Parse(columns[7], null, System.Globalization.DateTimeStyles.RoundtripKind)
-                    : DateTimeOffset.Now;
-
-                if (!string.IsNullOrWhiteSpace(columns[8]) && bank.IsRemoved)
-                    bank.DateRemoved = DateTime.Parse(columns[8], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                result.Add(bank);
-            }
+                    CompeString = columns[2],
+                    IspbString = columns[0],
+                    LongName = columns[5].Trim(),
+                    ShortName = columns[1].Trim(),
+                    DateOperationStarted = columns[6],
+                    Network = columns[4]
+                }));
 
             return result;
         }
-
-        /// <summary>
-        /// Loads the HTML.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadHtml()
-        {
-            var result = new List<Bank>();
-            var lines = File.ReadAllLines("data\\bancos.html").ToArray();
-            foreach (var line in lines)
-            {
-                if (!_htmlPattern.IsMatch(line))
-                    continue;
-                var match = _htmlPattern.Match(line);
-                result.Add(new Bank
-                {
-                    CompeString = match.Groups["compe"].Value,
-                    FiscalName = match.Groups["nome"].Value,
-                    FantasyName = match.Groups["nome"].Value,
-                    IspbString = match.Groups["ispb"].Value,
-                    Url = string.Empty,
-                    DateUpdated = DateTimeOffset.Now
-                });
-            }
-
-            return result;
-        }
-
-        /// <summary>
-        /// Loads the json.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadJson() => SerializerFactory.GetCustomSerializer<List<Bank>>(SerializerFormat.JSON).Load("data\\bancos.json");
-
-        /// <summary>
-        /// Loads the markdown.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadMarkdown()
-        {
-            var result = new List<Bank>();
-            var lines = File.ReadAllLines("data\\bancos.md").Skip(4).ToArray();
-            foreach (var line in lines)
-            {
-                var columns = line.Split("|");
-                for (var l = 0; l < columns.Length; l++)
-                    columns[l] = columns[l].Equals(" - ")
-                        ? string.Empty
-                        : columns[l].Trim();
-
-                var bank = new Bank
-                {
-                    Compe = int.Parse(columns[0]),
-                    Ispb = int.Parse(columns[1]),
-                    Document = columns[2],
-                    FiscalName = columns[3],
-                    FantasyName = columns[4],
-                    IsRemoved = columns[9].Equals("true")
-                };
-
-                if (!string.IsNullOrWhiteSpace(columns[5]))
-                    bank.Url = columns[5];
-
-                if (!string.IsNullOrWhiteSpace(columns[6]))
-                    bank.DateRegistered = DateTime.Parse(columns[6], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                if (!string.IsNullOrWhiteSpace(columns[7]))
-                    bank.DateUpdated = DateTime.Parse(columns[7], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                if (!string.IsNullOrWhiteSpace(columns[8]))
-                    bank.DateRemoved = DateTime.Parse(columns[8], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                result.Add(bank);
-            }
-
-            return result;
-        }
-
-        /// <summary>
-        /// Loads the SQL.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadSql()
-        {
-            var result = new List<Bank>();
-            var lines = File.ReadAllLines("data\\bancos.sql");
-            foreach (var line in lines)
-            {
-                var pattern = "VALUES (";
-                var indexOf = line.IndexOf(pattern, StringComparison.InvariantCultureIgnoreCase);
-
-                var start = indexOf + pattern.Length;
-                var end = line.Length - start - 2;
-
-                var columns = line.Substring(start, end).Split(",");
-                for (var l = 0; l < columns.Length; l++)
-                    columns[l] = columns[l].Equals(" NULL")
-                        ? string.Empty
-                        : columns[l].Replace("'", string.Empty).Trim();
-
-                var bank = new Bank
-                {
-                    Compe = int.Parse(columns[0]),
-                    Ispb = int.Parse(columns[1]),
-                    FiscalName = columns[2],
-                    FantasyName = columns[3],
-                    Document = columns[4],
-                    IsRemoved = int.Parse(columns[9]) == 1
-                };
-
-                if (!string.IsNullOrWhiteSpace(columns[5]))
-                    bank.Url = columns[5];
-
-                if (!string.IsNullOrWhiteSpace(columns[6]))
-                    bank.DateRegistered = DateTime.Parse(columns[6], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                if (!string.IsNullOrWhiteSpace(columns[7]))
-                    bank.DateUpdated = DateTime.Parse(columns[7], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                if (!string.IsNullOrWhiteSpace(columns[8]))
-                    bank.DateRemoved = DateTime.Parse(columns[8], null, System.Globalization.DateTimeStyles.RoundtripKind);
-
-                result.Add(bank);
-            }
-
-            return result;
-        }
-
-        /// <summary>
-        /// Loads the XML.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadXml() => SerializerFactory.GetCustomSerializer<Banks>(SerializerFormat.XML).Load("data\\bancos.xml").Bank.ToList();
 
         /// <summary>
         /// Loads the CNPJ.
@@ -230,7 +83,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 var bank = new Bank
                 {
                     Document = columns[0],
-                    FiscalName = columns[1],
+                    LongName = columns[1],
                     Type = columns[2],
                     Url = columns[3]
                 };
@@ -238,37 +91,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             }
             return result;
         }
-
-        /// <summary>
-        /// Loads the ISPB.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadIspb()
-        {
-            var result = new List<Bank>();
-            var lines = File.ReadAllLines("data\\bancos-ispb.md").Skip(4).ToArray();
-            foreach (var line in lines)
-            {
-                var columns = line.Split("|");
-                for (var l = 0; l < columns.Length; l++)
-                    columns[l] = columns[l].Equals(" n/a ")
-                        ? string.Empty
-                        : columns[l].Trim();
-
-                var bank = new Bank
-                {
-                    Ispb = int.Parse(columns[0]),
-                    FantasyName = columns[1],
-                    Compe = string.IsNullOrWhiteSpace(columns[2]) ? 0 : int.Parse(columns[2]),
-                    Network = columns[4],
-                    FiscalName = columns[5],
-                    DateOperationStarted = columns[6]
-                };
-                result.Add(bank);
-            }
-            return result;
-        }
-
+        
         /// <summary>
         /// Loads the site.
         /// </summary>
@@ -286,7 +109,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 var bank = new Bank
                 {
                     Compe = int.Parse(columns[0]),
-                    FiscalName = columns[1],
+                    LongName = columns[1],
                     Url = columns[2]
                 };
                 result.Add(bank);
@@ -301,9 +124,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSlc()
         {
+            _countingSlc = 0;
             var result = new List<Bank>();
 
-            var reader = new PdfReader("data\\SLC.pdf");
+            var reader = new PdfReader("https://www.cip-bancos.org.br/Monitoramento/Participantes%20Homologados.pdf");
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
                 var currentText =
@@ -327,19 +151,57 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             var result = new List<Bank>();
             var lines = page.Split("\n");
+
+            var spliced = string.Empty;
+
             foreach (var line in lines)
             {
                 if (!_slcPattern.IsMatch(line))
-                    continue;
-                var match = _slcPattern.Match(line);
-                result.Add(new Bank
                 {
-                    Document = match.Groups["cnpj"].Value.Trim(),
-                    FiscalName = match.Groups["nome"].Value.Trim()
-                });
+                    spliced += $" {line}";
+                    continue;
+                }
 
+                Bank bank;
+
+                if (!string.IsNullOrWhiteSpace(spliced))
+                {
+                    bank = ParseLine(spliced.Trim());
+
+                    if (bank != null)
+                        result.Add(bank);
+
+                    spliced = string.Empty;
+                }
+
+                bank = ParseLine(line);
+
+                if (bank != null)
+                    result.Add(bank);
             }
+
             return result;
+        }
+
+        private Bank ParseLine(string line)
+        {
+            if (!_slcPattern.IsMatch(line))
+                return null;
+
+            var match = _slcPattern.Match(line);
+
+            var code = Convert.ToInt32(match.Groups["code"].Value.Trim());
+
+            _countingSlc++;
+
+            if (_countingSlc != code)
+                Console.WriteLine($"SLC | Counting: {_countingSlc} | Code: {code}");
+
+            return new Bank
+            {
+                Document = match.Groups["cnpj"].Value.Trim(),
+                LongName = match.Groups["nome"].Value.Trim()
+            };
         }
     }
 }

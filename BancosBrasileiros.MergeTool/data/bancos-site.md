@@ -100,4 +100,6 @@ Código | Banco | Site
 752 | Banco BNP Paribas Brasil S.A. | www.bnpparibas.com.br
 755 | Bank of America Merrill Lynch Banco Múltiplo S.A. | www.ml.com
 756 | Banco Cooperativo do Brasil S.A. - BANCOOB | www.bancoob.com.br
-336 | Banco C6 S.A. | https://www.c6bank.com/
+336 | Banco C6 S.A. | www.c6bank.com
+335 | Banco Digio S.A. | www.digio.com.br
+380 | PicPay Servicos S.A. | www.picpay.com.br

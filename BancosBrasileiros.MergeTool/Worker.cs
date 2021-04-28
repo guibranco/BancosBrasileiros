@@ -18,6 +18,7 @@ namespace BancosBrasileiros.MergeTool
     using System;
     using System.Diagnostics;
     using System.IO;
+    using System.Linq;
 
     /// <summary>
     /// Class Worker.
@@ -34,44 +35,38 @@ namespace BancosBrasileiros.MergeTool
 
             var reader = new Reader();
 
-            var csv = reader.LoadCsv();
-            var html = reader.LoadHtml();
-            var json = reader.LoadJson();
-            var markdown = reader.LoadMarkdown();
-            var sql = reader.LoadSql();
-            var xml = reader.LoadXml();
-
-            Console.WriteLine($"CSV: {csv.Count} banks | HTML: {html.Count} | JSON: {json.Count} banks | SQL: {sql.Count} banks | Markdown: {markdown.Count} banks | XML: {xml.Count} banks");
-
-            var normalized = Comparer.Compare(csv, html, json, markdown, sql, xml);
-
-            Console.WriteLine($"Normalized: {normalized.Count} banks");
-
+            var str = reader.LoadStr();
             var cnpj = reader.LoadCnpj();
-            var ispb = reader.LoadIspb();
             var site = reader.LoadSite();
             var slc = reader.LoadSlc();
 
-            Console.WriteLine($"CNPJ: {cnpj.Count} banks | ISPB: {ispb.Count} banks | Site: {site.Count} banks | SLC: {slc.Count} banks");
+            Console.WriteLine($"STR: {str.Count} | CNPJ: {cnpj.Count} | Site: {site.Count} | SLC: {slc.Count} \r\n");
 
-            var seeder = new Seeder(); //The order must be Site -> ISPB -> CNPJ -> SLC to find the Fiscal Name and the COMPE code.
-            seeder.SeedSite(normalized, site);
-            seeder.SeedIspb(normalized, ispb);
-            seeder.SeedDocument(normalized, cnpj);
-            seeder.SeedSlc(normalized, slc);
+            var seeder = new Seeder(); //The order must be STR -> Site -> ISPB -> CNPJ -> SLC to find the Fiscal Name and the COMPE code.
+            seeder.SeedSite(str, site);
+            seeder.SeedDocument(str, cnpj);
+            seeder.SeedSlc(str, slc);
 
-            foreach (var bank in normalized)
+            foreach (var bank in str)
             {
                 bank.DateRegistered ??= DateTimeOffset.Now;
                 bank.DateUpdated ??= DateTimeOffset.Now;
             }
 
-            Console.WriteLine("Saving result files");
+            var types = str.GroupBy(b => b.Type);
+            foreach (var type in types.OrderBy(g => g.Key))
+            {
+                Console.WriteLine($"Type: {type.Key} | Total: {type.Count()}");
+            }
+
+            str = str.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
+
+            Console.WriteLine("\r\nSaving result files");
 
             var writer = new Writer();
-            writer.Save(normalized);
+            writer.Save(str);
 
-            Console.WriteLine("Merge done. Check 'result' folder in 'bin' directory!");
+            Console.WriteLine($"Merge done. Banks: {str.Count} | Check 'result' folder in 'bin' directory!");
 
             var binDirectory = Directory.GetCurrentDirectory();
             var resultDirectory = Path.Combine(binDirectory, "result");
