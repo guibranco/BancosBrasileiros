@@ -4,21 +4,22 @@
 // Created          : 18/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 04-27-2021
 // ***********************************************************************
-// <copyright file="Bank.cs" company="BancosBrasileiros.MergeTool">
+// <copyright file="Bank.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
-using Newtonsoft.Json;
-using System;
-using System.Text;
-using System.Xml.Serialization;
-
 namespace BancosBrasileiros.MergeTool.Dto
 {
+    using Newtonsoft.Json;
+    using System;
+    using System.Diagnostics.CodeAnalysis;
+    using System.Text;
+    using System.Xml.Serialization;
+
     /// <summary>
     /// Class Bank.
     /// Implements the <see cref="IEquatable{Bank}" />
@@ -163,6 +164,10 @@ namespace BancosBrasileiros.MergeTool.Dto
         [XmlIgnore]
         public bool IsRemoved { get; set; }
 
+        /// <summary>
+        /// Gets or sets the is removed XML.
+        /// </summary>
+        /// <value>The is removed XML.</value>
         [JsonIgnore]
         [XmlElement("IsRemoved")]
         public string IsRemovedXml
@@ -216,6 +221,7 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// Serves as the default hash function.
         /// </summary>
         /// <returns>A hash code for the current object.</returns>
+        [SuppressMessage("ReSharper", "NonReadonlyMemberInGetHashCode")]
         public override int GetHashCode()
         {
             var hashCode = new HashCode();

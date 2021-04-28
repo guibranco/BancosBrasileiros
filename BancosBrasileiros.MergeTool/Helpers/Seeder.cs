@@ -4,21 +4,21 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 04-27-2021
 // ***********************************************************************
-// <copyright file="Seeder.cs" company="BancosBrasileiros.MergeTool">
+// <copyright file="Seeder.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
-using BancosBrasileiros.MergeTool.Dto;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
 namespace BancosBrasileiros.MergeTool.Helpers
 {
+    using Dto;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     /// <summary>
     /// Class Seeder.
     /// </summary>

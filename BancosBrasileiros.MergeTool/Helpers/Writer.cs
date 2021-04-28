@@ -4,23 +4,23 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 04-27-2021
 // ***********************************************************************
-// <copyright file="Writer.cs" company="BancosBrasileiros.MergeTool">
+// <copyright file="Writer.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
-using BancosBrasileiros.MergeTool.Dto;
-using CrispyWaffle.Serialization;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-
 namespace BancosBrasileiros.MergeTool.Helpers
 {
+    using CrispyWaffle.Serialization;
+    using Dto;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Text;
+
     /// <summary>
     /// Class Writter.
     /// </summary>

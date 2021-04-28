@@ -4,21 +4,21 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 04-27-2021
 // ***********************************************************************
-// <copyright file="Worker.cs" company="BancosBrasileiros.MergeTool">
+// <copyright file="Worker.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
-using BancosBrasileiros.MergeTool.Helpers;
-using System;
-using System.Diagnostics;
-using System.IO;
-
 namespace BancosBrasileiros.MergeTool
 {
+    using Helpers;
+    using System;
+    using System.Diagnostics;
+    using System.IO;
+
     /// <summary>
     /// Class Worker.
     /// </summary>

@@ -4,18 +4,18 @@
 // Created          : 18/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 04-27-2021
 // ***********************************************************************
-// <copyright file="Program.cs" company="BancosBrasileiros.MergeTool">
+// <copyright file="Program.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
-using System;
-
 namespace BancosBrasileiros.MergeTool
 {
+    using System;
+
     /// <summary>
     /// Class Program.
     /// </summary>

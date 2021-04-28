@@ -4,18 +4,18 @@
 // Created          : 18/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 04-27-2021
 // ***********************************************************************
-// <copyright file="Banks.cs" company="BancosBrasileiros.MergeTool">
+// <copyright file="Banks.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
-using System.Xml.Serialization;
-
 namespace BancosBrasileiros.MergeTool.Dto
 {
+    using System.Xml.Serialization;
+
     /// <summary>
     /// Class Banks.
     /// </summary>

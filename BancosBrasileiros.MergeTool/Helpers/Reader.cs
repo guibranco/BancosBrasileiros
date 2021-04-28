@@ -1,35 +1,38 @@
 ﻿// ***********************************************************************
 // Assembly         : BancosBrasileiros.MergeTool
 // Author           : Guilherme Branco Stracini
-// Created          : 19/05/2020
+// Created          : 05-19-2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 19/05/2020
+// Last Modified On : 04-27-2021
 // ***********************************************************************
-// <copyright file="Reader.cs" company="BancosBrasileiros.MergeTool">
+// <copyright file="Reader.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
 
-using BancosBrasileiros.MergeTool.Dto;
-using CrispyWaffle.Serialization;
-using iTextSharp.text.pdf;
-using iTextSharp.text.pdf.parser;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-
 namespace BancosBrasileiros.MergeTool.Helpers
 {
+    using CrispyWaffle.Serialization;
+    using Dto;
+    using iTextSharp.text.pdf;
+    using iTextSharp.text.pdf.parser;
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using System.Linq;
+    using System.Text;
+    using System.Text.RegularExpressions;
+
     /// <summary>
     /// Class Reader.
     /// </summary>
     internal class Reader
     {
+        /// <summary>
+        /// The HTML pattern
+        /// </summary>
         private readonly Regex _htmlPattern = new Regex(@"^(?<compe>\d{3})\s-\s(?<nome>.+?)\s\[ISPB\:\s(?<ispb>\d{8})\]\s?$", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
         /// <summary>
