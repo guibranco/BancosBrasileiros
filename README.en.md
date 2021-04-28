@@ -91,9 +91,9 @@ For those unfamiliar with Brazilian entities:
 - **ABBC** - Brazilian Association of Banks
 - **BCB** - Central Bank of Brazil (regulatory authority)
 - **CIP** - Interbank Payments Chamber
-- **CNPJ** - National Register of Legal Entities
+- **CNPJ** - National Register of Legal Entities - RFB
 - **COMPE** - Clearing System for Checks and Other Papers
-- **CPF** - Individual Taxpayer Registration
+- **CPF** - Individual Taxpayer Registration - RFB
 - **FEBRABAN** - Brazilian Federation of Banks
 - **ISPB** - SPB identification
 - **PIX** - Instant Payments
