@@ -14,11 +14,11 @@ namespace BancosBrasileiros
         [JsonProperty("Document")]
         public string Document { get; set; }
 
-        [JsonProperty("FiscalName")]
-        public string FiscalName { get; set; }
+        [JsonProperty("LongName")]
+        public string LongName { get; set; }
 
-        [JsonProperty("FantasyName")]
-        public string FantasyName { get; set; }
+        [JsonProperty("ShortName")]
+        public string ShortName { get; set; }
 
         [JsonProperty("Network")]
         public string Network { get; set;}
@@ -37,11 +37,5 @@ namespace BancosBrasileiros
 
         [JsonProperty("DateUpdated")]
         public DateTimeOffset DateUpdated { get; set; }
-
-        [JsonProperty("DateRemoved")]
-        public DateTimeOffset? DateRemoved { get; set; }
-
-        [JsonProperty("IsRemoved")]
-        public bool IsRemoved { get; set; }
     }
 }

@@ -8,16 +8,14 @@
               <xs:element type="xs:string" name="COMPE"/>
               <xs:element type="xs:string" name="ISPB"/>
               <xs:element type="xs:string" name="Document"/>
-              <xs:element type="xs:string" name="FiscalName"/>
-              <xs:element type="xs:string" name="FantasyName"/>   
+              <xs:element type="xs:string" name="LongName"/>
+              <xs:element type="xs:string" name="ShortName"/>   
               <xs:element type="xs:string" name="Network" />
-			  <xs:element type="xs:string" name="Type" />
-			  <xs:element type="xs:string" name="Url" />
-			  <xs:element type="xs:string" name="DateOperationStarted" />
+			        <xs:element type="xs:string" name="Type" />
+			        <xs:element type="xs:string" name="Url" />
+			        <xs:element type="xs:string" name="DateOperationStarted" />
               <xs:element type="xs:string" name="DateRegistered"/>
               <xs:element type="xs:string" name="DateUpdated"/>  
-              <xs:element type="xs:string" name="DateRemoved" />
-              <xs:element type="xs:string" name="IsRemoved"/>
             </xs:sequence>
           </xs:complexType>
         </xs:element>

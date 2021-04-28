@@ -16,7 +16,7 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 259 bancos cadastrados, nos seguintes formatos:
+Esta lista contém 280 bancos cadastrados, nos seguintes formatos:
 
 - **CSV**: [bancos.csv](/data/bancos.csv)
 - **JSON**: [bancos.json](/data/bancos.json)
@@ -30,19 +30,17 @@ Cada uma das listas possui as seguintes informações (schema):
 
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
-| COMPE | Código do banco - COMPE | 3 dígitos |
-| ISPB | Código do banco - ISPB | 8 dígitos |
-| Document | Documento do banco - CNPJ | 14 números - 18 dígitos (formatado) |
-| FiscalName | Razão social do banco | Conforme Receita Federal do Brasil |
-| FantasyName | Nome fantasia do banco | Nome comercial/popular |
-| Network | Rede a qual o banco faz parte | RSFN; internet; null |
-| Type | Tipo de banco | comercial; múltiplo; caixa econômica; null |
-| Url | Url do website | - |
-| DateOperationStarted | Data do início de operação do banco | - |
+| COMPE | Código - COMPE | 3 dígitos |
+| ISPB | Código - ISPB | 8 dígitos |
+| Document | Documento - CNPJ | 14 números - 18 dígitos (formatado) |
+| LongName | Nome extenso | Conforme BACEN - STR |
+| ShortName | Nome reduzido | Conforme BACEN - STR |
+| Network | Rede | RSFN ou Internet |
+| Type | Tipo | comercial; múltiplo; caixa econômica; null |
+| Url | Website | - |
+| DateOperationStarted | Data do início de operação | - |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
-| DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
-| IsRemoved | Flag indicativa se este banco foi removido ou não | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
 
 ---
 
@@ -56,15 +54,25 @@ Um arquivo de schema está disponível na pasta [schemas](/schemas) para as list
 
 E classes (DTO - Data Transport Object) das seguintes linguagens:
 
-- [C#](/schemas/csharp.cs)
-- [Go](/schemas/go.go)
-- [Java](/schemas/java.java)
-- [JavaScript](/schemas/javascript.js)
-- [Kotlin](/schemas/kotlin.kt)
-- [PHP](/schemas/php.php)
-- [Python](/schemas/python.py)
-- [Rust](/schemas/rust.rs)
-- [TypeScript](/schemas/typescript.ts)
+- [C#](/schemas/csharp.cs) <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+- [Go](/schemas/go.go) <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+- [Java](/schemas/java.java) <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+- [JavaScript](/schemas/javascript.js) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+- [Kotlin](/schemas/kotlin.kt) <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+- [PHP](/schemas/php.php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+- [Python](/schemas/python.py) <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+- [Rust](/schemas/rust.rs) <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+- [TypeScript](/schemas/typescript.ts) <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+---
+
+## Exemplos
+
+Exemplos de implementação estão disponíveis na pasta [examples](/examples), atualmente dispomos de exemplos nas seguintes tecnologias:
+
+- [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
+
+Caso sinta falta de um exemplo, na linguagem, biblioteca ou framework, abra uma issue solicitando um projeto de exemplo na tecnologia desejada!
 
 ---
 
@@ -74,6 +82,7 @@ E classes (DTO - Data Transport Object) das seguintes linguagens:
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
 Este repositório está disponível no NPM com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
+
 Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter idealizado e criado a versão 1.0.0 no NPM.
 
 ```bash
@@ -108,6 +117,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2021-04-28: [Milestone #1](https://github.com/guibranco/BancosBrasileiros/milestone/1) - Version 2 - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)
@@ -115,9 +125,9 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 - 2021-04-27: [Issue #31](http://github.com/guibranco/BancosBrasileiros/issues/31) - Adicionado ISP nas listas - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #9](http://github.com/guibranco/BancosBrasileiros/issues/9) - Adicionado sites nas listas - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #4](http://github.com/guibranco/BancosBrasileiros/issues/4) - Adicionado CNPJ nas listas - [@guibranco](https://github.com/guibranco)
-- 2021-01-20: [Issue #53](http://github.com/guibranco/BancosBrasileiros/issues/53) - Adicionado Digio (COMPE: 335 | ISPB: 27098060) - [@gslvrp](https://github.com/gslvrp)
-- 2021-01-06: [Issue #51](http://github.com/guibranco/BancosBrasileiros/issues/51) - Adicionado PicPay (COMPE: 380 | ISPB: 22896431) - [@kingaspx](https://github.com/kingaspx)
-- 2020-06-18: [Issue #46](http://github.com/guibranco/BancosBrasileiros/issues/46) - Corrige dados do Santander (033 e 502) - [@raframil](https://github.com/raframil)
+- 2021-01-20: [Issue #53](http://github.com/guibranco/BancosBrasileiros/issues/53) - Adicionado Digio - [@gslvrp](https://github.com/gslvrp)
+- 2021-01-06: [Issue #51](http://github.com/guibranco/BancosBrasileiros/issues/51) - Adicionado PicPay - [@kingaspx](https://github.com/kingaspx)
+- 2020-06-18: [Issue #46](http://github.com/guibranco/BancosBrasileiros/issues/46) - Corrige dados do Santander - [@raframil](https://github.com/raframil)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrige data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-05-12: [Issue #41](http://github.com/guibranco/BancosBrasileiros/issues/41) - Corrigido data de atualização do Banco Neon - [@silverio27](https://github.com/silverio27)
 - 2020-04-29: [Issue #40](http://github.com/guibranco/BancosBrasileiros/issues/40) - Corrigido nome do Banco Inter - [@iurisilvio](https://github.com/iurisilvio)

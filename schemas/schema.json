@@ -18,10 +18,10 @@
                 "Document": {
                     "type": "string"
                 },
-                "FiscalName": {
+                "LongName": {
                     "type": "string"
                 },
-                "FantasyName": {
+                "ShortName": {
                     "type": "string"
                 },
                 "Network" : {
@@ -76,34 +76,18 @@
                 "DateUpdated": {
                     "type": "string",
                     "format": "date-time"                
-                },
-                "DateRemoved": {
-                    "anyOf": [
-                        {
-                            "type": "string",
-                            "format": "date-time"
-                        },
-                        {
-                            "type": "null"
-                        }
-                    ]
-                },
-                "IsRemoved": {
-                    "type": "boolean"
                 }
             },
             "required": [
                 "COMPE",
                 "DateOperationStarted",
                 "DateRegistered",
-                "DateRemoved",
                 "DateUpdated",
-                "Document",
-                "FantasyName",
-                "FiscalName",
+                "Document",                              
                 "ISPB",
-                "IsRemoved",
+                "LongName",  
                 "Network",
+                "ShortName",
                 "Type",
                 "Url"
             ],

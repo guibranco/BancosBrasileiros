@@ -30,19 +30,17 @@ Each of the lists has the following information (schema):
 
 | Column | Description | Observations |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
-| COMPE | Bank code - COMPE | 3 digits |
-| ISPB | Bank code - ISPB | 8 digits |
-| Document | Bank's document - CNPJ | 14 numbers - 18 digits (formatted) |
-| FiscalName | Bank's corporate name  | According to the Federal Revenue Service of Brazil |
-| FantasyName | Bank's fantasy name | Commercial/trade name |
-| Network | The network that the bank can be accessed | RSFN, internet, null |
-| Type | The type of bank | commercial, multiple, savings, null |
-| Url | Website url | - |
+| COMPE | Code - COMPE | 3 digits |
+| ISPB | Code - ISPB | 8 digits |
+| Document | Document - CNPJ | 14 numbers - 18 digits (formatted) |
+| LongName | Long name  | According to BACEN - STR |
+| ShortName | Short name | According to BACEN - STR|
+| Network | Network | RSFN or Internet |
+| Type | Type | commercial, multiple, savings, null |
+| Url | Website | - |
 | DateOperationStarted | Commercial operation start date | - |
 | DateRegistered | Registration date on schema | - |
 | DateUpdated | Change date on schema | - |
-| DateRemoved | Removal date in the schema | [Soft Delete](https://www.brentozar.com/archive/2020/02/what-are-soft-deletes-and-how-are-they-implemented/) |
-| IsRemoved | Flag indicating whether this bank has been removed or not | [Soft Delete](https://www.brentozar.com/archive/2020/02/what-are-soft-deletes-and-how-are-they-implemented/) |
 
 ---
 
@@ -56,15 +54,25 @@ A schema file is available in the folder [schemas](/schemas) for lists of type:
 
 And classes (DTO - Data Transport Object) in the following languages:
 
-- [C#](/schemas/csharp.cs)
-- [Go](/schemas/go.go)
-- [Java](/schemas/java.java)
-- [JavaScript](/schemas/javascript.js)
-- [Kotlin](/schemas/kotlin.kt)
-- [PHP](/schemas/php.php)
-- [Python](/schemas/python.py)
-- [Rust](/schemas/rust.rs)
-- [TypeScript](/schemas/typescript.ts)
+- [C#](/schemas/csharp.cs) <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+- [Go](/schemas/go.go) <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+- [Java](/schemas/java.java) <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+- [JavaScript](/schemas/javascript.js) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+- [Kotlin](/schemas/kotlin.kt) <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+- [PHP](/schemas/php.php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+- [Python](/schemas/python.py) <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+- [Rust](/schemas/rust.rs) <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+- [TypeScript](/schemas/typescript.ts) <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
+---
+
+## Examples
+
+Implementation examples are available in the folder [examples](/examples), we currently have examples in the following technologies:
+
+- [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
+
+If you miss an example, in the language, library or framework, open an issue requesting an example project on the desired technology!
 
 ---
 
@@ -74,6 +82,7 @@ And classes (DTO - Data Transport Object) in the following languages:
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
 This repository is available at NPM under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
+
 Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publish version 1.0.0 on NPM.
 
 ```bash

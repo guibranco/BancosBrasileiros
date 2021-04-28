@@ -151,16 +151,14 @@ const typeMap = {
         { json: "COMPE", js: "COMPE", typ: "" },
         { json: "ISPB", js: "ISPB", typ: "" },
         { json: "Document", js: "Document", typ: "" },
-        { json: "FiscalName", js: "FiscalName", typ: "" },
-        { json: "FantasyName", js: "FantasyName", typ: "" },
+        { json: "LongName", js: "LongName", typ: "" },
+        { json: "ShortName", js: "ShortName", typ: "" },
         { json: "Network", js: "Network", typ: "" },
         { json: "Type", js: "Type", typ: "" },
         { json: "Url", js: "Url", typ: u(null, "") },
         { json: "DateOperationStarted", js: "DateOperationStarted", typ: "" },
         { json: "DateRegistered", js: "DateRegistered", typ: Date },
-        { json: "DateUpdated", js: "DateUpdated", typ: Date },
-        { json: "DateRemoved", js: "DateRemoved", typ: u(Date, null) },
-        { json: "IsRemoved", js: "IsRemoved", typ: true },
+        { json: "DateUpdated", js: "DateUpdated", typ: Date }
     ], false),
 };
 
