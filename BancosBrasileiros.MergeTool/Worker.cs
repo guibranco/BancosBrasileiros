@@ -43,8 +43,7 @@ namespace BancosBrasileiros.MergeTool
 
             Console.WriteLine($"CSV: {csv.Count} banks | HTML: {html.Count} | JSON: {json.Count} banks | SQL: {sql.Count} banks | Markdown: {markdown.Count} banks | XML: {xml.Count} banks");
 
-            var comparer = new Comparer();
-            var normalized = comparer.Compare(csv, html, json, markdown, sql, xml);
+            var normalized = Comparer.Compare(csv, html, json, markdown, sql, xml);
 
             Console.WriteLine($"Normalized: {normalized.Count} banks");
 
@@ -55,7 +54,7 @@ namespace BancosBrasileiros.MergeTool
 
             Console.WriteLine($"CNPJ: {cnpj.Count} banks | ISPB: {ispb.Count} banks | Site: {site.Count} banks | SLC: {slc.Count} banks");
 
-            var seeder = new Seeder(); //The order must be Site -> ISPB -> CNPJ -> SLC to find the Fiscal Name and de COMPE code.
+            var seeder = new Seeder(); //The order must be Site -> ISPB -> CNPJ -> SLC to find the Fiscal Name and the COMPE code.
             seeder.SeedSite(normalized, site);
             seeder.SeedIspb(normalized, ispb);
             seeder.SeedDocument(normalized, cnpj);

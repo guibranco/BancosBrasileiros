@@ -1,0 +1,4 @@
+﻿[*.{cs,vb}]
+
+# IDE0041: Use 'is null' check
+dotnet_diagnostic.IDE0041.severity = warning

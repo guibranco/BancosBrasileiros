@@ -29,7 +29,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="normalized">The normalized.</param>
         /// <param name="sites">The sites.</param>
-        public void SeedSite(IList<Bank> normalized, IList<Bank> sites)
+        public void SeedSite(IList<Bank> normalized, IEnumerable<Bank> sites)
         {
             foreach (var site in sites)
             {
@@ -67,7 +67,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="normalized">The normalized.</param>
         /// <param name="codes">The codes.</param>
-        public void SeedIspb(IList<Bank> normalized, IList<Bank> codes)
+        public void SeedIspb(IList<Bank> normalized, IEnumerable<Bank> codes)
         {
             foreach (var code in codes)
             {
@@ -116,7 +116,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="normalized">The normalized.</param>
         /// <param name="documents">The documents.</param>
-        public void SeedDocument(IList<Bank> normalized, IList<Bank> documents)
+        public void SeedDocument(IList<Bank> normalized, IEnumerable<Bank> documents)
         {
             foreach (var document in documents)
             {
@@ -137,7 +137,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if (string.IsNullOrWhiteSpace(bank.Type) && !string.IsNullOrWhiteSpace(document.Type))
                     bank.Type = document.Type;
                 else
-                    Console.WriteLine($"CNPJ |Tipo inválido {document.Compe} | {bank.Type} <-> {document.Type}");
+                    Console.WriteLine($"CNPJ | Tipo inválido {document.Compe} | {bank.Type} <-> {document.Type}");
 
                 if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(document.Url))
                     bank.Url = document.Url.ToLower();
@@ -149,7 +149,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="normalized">The normalized.</param>
         /// <param name="slcs">The SLCS.</param>
-        public void SeedSlc(IList<Bank> normalized, IList<Bank> slcs)
+        public void SeedSlc(IList<Bank> normalized, IEnumerable<Bank> slcs)
         {
             foreach (var slc in slcs)
             {

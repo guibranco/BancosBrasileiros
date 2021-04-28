@@ -240,7 +240,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
-        /// Loads the ispb.
+        /// Loads the ISPB.
         /// </summary>
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadIspb()

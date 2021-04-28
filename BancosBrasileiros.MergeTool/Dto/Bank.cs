@@ -16,7 +16,6 @@ namespace BancosBrasileiros.MergeTool.Dto
 {
     using Newtonsoft.Json;
     using System;
-    using System.Diagnostics.CodeAnalysis;
     using System.Text;
     using System.Xml.Serialization;
 
@@ -30,17 +29,17 @@ namespace BancosBrasileiros.MergeTool.Dto
     {
 
         /// <summary>
-        /// Gets or sets the compe.
+        /// Gets or sets the COMPE.
         /// </summary>
-        /// <value>The compe.</value>
+        /// <value>The COMPE.</value>
         [JsonIgnore]
         [XmlIgnore]
         public int Compe { get; set; }
 
         /// <summary>
-        /// Gets the compe string.
+        /// Gets the COMPE string.
         /// </summary>
-        /// <value>The compe string.</value>
+        /// <value>The COMPE string.</value>
         [JsonProperty("COMPE")]
         [XmlElement("COMPE")]
         public string CompeString
@@ -185,7 +184,7 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <returns><see langword="true" /> if the current object is equal to the <paramref name="other" /> parameter; otherwise, <see langword="false" />.</returns>
         public bool Equals(Bank other)
         {
-            if (ReferenceEquals(null, other)) return false;
+            if (other is null) return false;
             if (ReferenceEquals(this, other)) return true;
 
 
@@ -212,7 +211,7 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <returns><see langword="true" /> if the specified object  is equal to the current object; otherwise, <see langword="false" />.</returns>
         public override bool Equals(object obj)
         {
-            if (ReferenceEquals(null, obj)) return false;
+            if (obj is null) return false;
             if (ReferenceEquals(this, obj)) return true;
             return obj.GetType() == GetType() && Equals((Bank)obj);
         }
@@ -221,7 +220,6 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// Serves as the default hash function.
         /// </summary>
         /// <returns>A hash code for the current object.</returns>
-        [SuppressMessage("ReSharper", "NonReadonlyMemberInGetHashCode")]
         public override int GetHashCode()
         {
             var hashCode = new HashCode();

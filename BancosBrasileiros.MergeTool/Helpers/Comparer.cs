@@ -34,13 +34,13 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <param name="sql">The SQL.</param>
         /// <param name="xml">The XML.</param>
         /// <returns>List&lt;Bank&gt;.</returns>
-        public IList<Bank> Compare(
-            IList<Bank> csv,
-            IList<Bank> html,
-            IList<Bank> json,
-            IList<Bank> markdown,
-            IList<Bank> sql,
-            IList<Bank> xml)
+        public static IList<Bank> Compare(
+            IEnumerable<Bank> csv,
+            IEnumerable<Bank> html,
+            IEnumerable<Bank> json,
+            IEnumerable<Bank> markdown,
+            IEnumerable<Bank> sql,
+            IEnumerable<Bank> xml)
         {
             var normalizedList = csv.ToDictionary(item => item.Compe);
 
@@ -129,9 +129,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 normalized.DateOperationStarted = item.DateOperationStarted;
 
 
-            if (normalized.DateRegistered.HasValue && normalized.DateRegistered.Value.Ticks == 0)
+            if (normalized.DateRegistered is { Ticks: 0 })
                 normalized.DateRegistered = null;
-            if (item.DateRegistered.HasValue && item.DateRegistered.Value.Ticks == 0)
+            if (item.DateRegistered is { Ticks: 0 })
                 item.DateRegistered = null;
 
             if (normalized.DateRegistered.HasValue &&
@@ -150,10 +150,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
             normalized.DateUpdated = DateTimeOffset.Now;
             item.DateUpdated = normalized.DateUpdated;
 
-            if (normalized.DateRemoved.HasValue && normalized.DateRemoved.Value.Ticks == 0)
+            if (normalized.DateRemoved is { Ticks: 0 })
                 normalized.DateRemoved = null;
 
-            if (item.DateRemoved.HasValue && item.DateRemoved.Value.Ticks == 0)
+            if (item.DateRemoved is { Ticks: 0 })
                 item.DateRemoved = null;
 
             if (!normalized.DateRemoved.HasValue && item.DateRemoved.HasValue)

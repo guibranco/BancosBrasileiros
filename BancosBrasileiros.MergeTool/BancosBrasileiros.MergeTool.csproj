@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="CrispyWaffle" Version="2.5.24" />
     <PackageReference Include="iTextSharp" Version="5.5.13.2" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />

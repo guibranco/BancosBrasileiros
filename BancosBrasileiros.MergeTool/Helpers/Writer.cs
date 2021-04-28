@@ -22,7 +22,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
     using System.Text;
 
     /// <summary>
-    /// Class Writter.
+    /// Class Writer.
     /// </summary>
     internal class Writer
     {
