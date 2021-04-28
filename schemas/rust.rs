@@ -23,10 +23,10 @@ pub struct BankElement {
     pub ispb: String,
     #[serde(rename = "Document")]
     pub document: String,
-    #[serde(rename = "FiscalName")]
-    pub fiscal_name: String,
-    #[serde(rename = "FantasyName")]
-    pub fantasy_name: String,
+    #[serde(rename = "LongName")]
+    pub long_name: String,
+    #[serde(rename = "ShortName")]
+    pub short_name: String,
     #[serde(rename = "Network")]
     pub network: Option<String>,
     #[serde(rename = "Type")]
@@ -39,8 +39,4 @@ pub struct BankElement {
     pub date_registered: String,
     #[serde(rename = "DateUpdated")]
     pub date_updated: String,
-    #[serde(rename = "DateRemoved")]
-    pub date_removed: Option<String>,
-    #[serde(rename = "IsRemoved")]
-    pub is_removed: bool,
 }

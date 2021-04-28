@@ -24,14 +24,12 @@ type BankElement struct {
 	Compe          			string  `json:"COMPE"`         
 	Ispb           			string  `json:"ISPB"`          
 	Document       			string  `json:"Document"`      
-	FiscalName     			string  `json:"FiscalName"`    
-	FantasyName    			string  `json:"FantasyName"`
+	LongName     			string  `json:"LongName"`    
+	ShortName    			string  `json:"ShortName"`
 	Network					*string `json:"Network"`
 	Type					*string `json:"Type"`   
 	URL            			*string `json:"Url"`           
 	DateOperationStarted 	*string `json:"DateOperationStarted"`
  	DateRegistered 			string  `json:"DateRegistered"`
-	DateUpdated    			string  `json:"DateUpdated"`   
-	DateRemoved    			*string `json:"DateRemoved"`   
-	IsRemoved      			bool    `json:"IsRemoved"`     
+	DateUpdated    			string  `json:"DateUpdated"`      
 }

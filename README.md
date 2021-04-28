@@ -16,7 +16,7 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 259 bancos cadastrados, nos seguintes formatos:
+Esta lista contém 280 bancos cadastrados, nos seguintes formatos:
 
 - **CSV**: [bancos.csv](/data/bancos.csv)
 - **JSON**: [bancos.json](/data/bancos.json)
@@ -30,19 +30,17 @@ Cada uma das listas possui as seguintes informações (schema):
 
 | Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
-| COMPE | Código do banco - COMPE | 3 dígitos |
-| ISPB | Código do banco - ISPB | 8 dígitos |
-| Document | Documento do banco - CNPJ | 14 números - 18 dígitos (formatado) |
-| FiscalName | Razão social do banco | Conforme Receita Federal do Brasil |
-| FantasyName | Nome fantasia do banco | Nome comercial/popular |
-| Network | Rede a qual o banco faz parte | RSFN; internet; null |
-| Type | Tipo de banco | comercial; múltiplo; caixa econômica; null |
-| Url | Url do website | - |
-| DateOperationStarted | Data do início de operação do banco | - |
+| COMPE | Código - COMPE | 3 dígitos |
+| ISPB | Código - ISPB | 8 dígitos |
+| Document | Documento - CNPJ | 14 números - 18 dígitos (formatado) |
+| LongName | Nome extenso | Conforme BACEN - STR |
+| ShortName | Nome reduzido | Conforme BACEN - STR |
+| Network | Rede | RSFN ou Internet |
+| Type | Tipo | comercial; múltiplo; caixa econômica; null |
+| Url | Website | - |
+| DateOperationStarted | Data do início de operação | - |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
-| DateRemoved | Data de exclusão no schema | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
-| IsRemoved | Flag indicativa se este banco foi removido ou não | [Exclusão lógica](https://pt.stackoverflow.com/questions/10304/exclus%C3%A3o-f%C3%ADsica-vs-exclus%C3%A3o-l%C3%B3gica) |
 
 ---
 

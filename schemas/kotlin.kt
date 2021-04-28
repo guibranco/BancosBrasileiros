@@ -26,11 +26,11 @@ data class BankElement (
     @Json(name = "Document")
     val document: String,
 
-    @Json(name = "FiscalName")
-    val fiscalName: String,
+    @Json(name = "LongName")
+    val longName: String,
 
-    @Json(name = "FantasyName")
-    val fantasyName: String,
+    @Json(name = "ShortName")
+    val shortName: String,
 
     @Json(name = "Network")
     val network: String,
@@ -48,11 +48,5 @@ data class BankElement (
     val dateRegistered: String,
 
     @Json(name = "DateUpdated")
-    val dateUpdated: String,
-
-    @Json(name = "DateRemoved")
-    val dateRemoved: String? = null,
-
-    @Json(name = "IsRemoved")
-    val isRemoved: Boolean
+    val dateUpdated: String
 )

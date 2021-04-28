@@ -60,31 +60,27 @@ class BankElement:
     compe: str
     ispb: str
     document: str
-    fiscal_name: str
-    fantasy_name: str
+    long_name: str
+    short_name: str
     network: Optional[str]
     type_: Optional[str]
     url: Optional[str]
     date_operation_started: Optional[str]
     date_registered: datetime
     date_updated: datetime
-    date_removed: Optional[datetime]
-    is_removed: bool
 
-    def __init__(self, compe: str, ispb: str, document: str, fiscal_name: str, fantasy_name: str, network: Optional[str], type_: Optional[str], url: Optional[str], date_operation_started: Optional[str], date_registered: datetime, date_updated: datetime, date_removed: Optional[datetime], is_removed: bool) -> None:
+    def __init__(self, compe: str, ispb: str, document: str, long_name: str, short_name: str, network: Optional[str], type_: Optional[str], url: Optional[str], date_operation_started: Optional[str], date_registered: datetime, date_updated: datetime) -> None:
         self.compe = compe
         self.ispb = ispb
         self.document = document
-        self.fiscal_name = fiscal_name
-        self.fantasy_name = fantasy_name
+        self.long_name = long_name
+        self.short_name = short_name
         self.network = network
         self.type_ = type_
         self.url = url
         self.date_operation_started = date_operation_started
         self.date_registered = date_registered
         self.date_updated = date_updated
-        self.date_removed = date_removed
-        self.is_removed = is_removed
 
     @staticmethod
     def from_dict(obj: Any) -> 'BankElement':
@@ -92,33 +88,29 @@ class BankElement:
         compe = from_str(obj.get("COMPE"))
         ispb = from_str(obj.get("ISPB"))
         document = from_str(obj.get("Document"))
-        fiscal_name = from_str(obj.get("FiscalName"))
-        fantasy_name = from_str(obj.get("FantasyName"))
+        long_name = from_str(obj.get("LongName"))
+        short_name = from_str(obj.get("ShortName"))
         network = from_union([from_none, from_str], obj.get("Network"))
         type_ = from_union([from_none, from_str], obj.get("Type"))
         url = from_union([from_none, from_str], obj.get("Url"))
         date_operation_started = from_union([from_none, from_str], obj.get("DateOperationStarted"))
         date_registered = from_datetime(obj.get("DateRegistered"))
         date_updated = from_datetime(obj.get("DateUpdated"))
-        date_removed = from_union([from_none, from_datetime], obj.get("DateRemoved"))
-        is_removed = from_bool(obj.get("IsRemoved"))
-        return BankElement(compe, ispb, document, fiscal_name, fantasy_name, network, type_, url, date_operation_started, date_registered, date_updated, date_removed, is_removed)
+        return BankElement(compe, ispb, document, long_name, short_name, network, type_, url, date_operation_started, date_registered, date_updated)
 
     def to_dict(self) -> dict:
         result: dict = {}
         result["COMPE"] = from_str(self.compe)
         result["ISPB"] = from_str(self.ispb)
         result["Document"] = from_str(self.document)
-        result["FiscalName"] = from_str(self.fiscal_name)
-        result["FantasyName"] = from_str(self.fantasy_name)
+        result["LongName"] = from_str(self.long_name)
+        result["ShortName"] = from_str(self.short_name)
         result["Network"] = from_union([from_none, from_str], self.network)
         result["Type"] = from_union([from_none, from_str], self.type_)
         result["Url"] = from_union([from_none, from_str], self.url)
         result["DateOperationStarted"] = from_union([from_none, from_str], self.date_operation_started)
         result["DateRegistered"] = self.date_registered.isoformat()
         result["DateUpdated"] = self.date_updated.isoformat()
-        result["DateRemoved"] = from_union([from_none, lambda x: x.isoformat()], self.date_removed)
-        result["IsRemoved"] = from_bool(self.is_removed)
         return result
 
 

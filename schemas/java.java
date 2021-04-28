@@ -62,16 +62,14 @@ public class Bank {
     private String compe;
     private String ispb;
     private String document;
-    private String fiscalName;
-    private String fantasyName;
-    private String Network;
-    private String Type;
+    private String longName;
+    private String shortName;
+    private String network;
+    private String type;
     private String url;
     private String dateOperationStarted;
     private String dateRegistered;
     private String dateUpdated;
-    private String dateRemoved;
-    private boolean isRemoved;
 
     @JsonProperty("COMPE")
     public String getCompe() { return compe; }
@@ -88,15 +86,15 @@ public class Bank {
     @JsonProperty("Document")
     public void setDocument(String value) { this.document = value; }
 
-    @JsonProperty("FiscalName")
-    public String getFiscalName() { return fiscalName; }
-    @JsonProperty("FiscalName")
-    public void setFiscalName(String value) { this.fiscalName = value; }
+    @JsonProperty("LongName")
+    public String getLongName() { return longName; }
+    @JsonProperty("LongName")
+    public void setLongName(String value) { this.longName = value; }
 
-    @JsonProperty("FantasyName")
-    public String getFantasyName() { return fantasyName; }
-    @JsonProperty("FantasyName")
-    public void setFantasyName(String value) { this.fantasyName = value; }
+    @JsonProperty("ShortName")
+    public String getShortName() { return shortName; }
+    @JsonProperty("ShortName")
+    public void setShortName(String value) { this.shortName = value; }
 
     @JsonProperty("Network")
     public String getNetwork() { return network; }
@@ -127,14 +125,4 @@ public class Bank {
     public String getDateUpdated() { return dateUpdated; }
     @JsonProperty("DateUpdated")
     public void setDateUpdated(String value) { this.dateUpdated = value; }
-
-    @JsonProperty("DateRemoved")
-    public String getDateRemoved() { return dateRemoved; }
-    @JsonProperty("DateRemoved")
-    public void setDateRemoved(String value) { this.dateRemoved = value; }
-
-    @JsonProperty("IsRemoved")
-    public boolean getIsRemoved() { return isRemoved; }
-    @JsonProperty("IsRemoved")
-    public void setIsRemoved(boolean value) { this.isRemoved = value; }
 }
