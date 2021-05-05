@@ -18,11 +18,11 @@ Brazilian commercial banks list
 
 This list contains 259 registered banks, in the following formats:
 
-  - **CSV**: [bancos.csv](/data/bancos.csv)
-  - **JSON**: [bancos.json](/data/bancos.json)
-  - **Markdown**: [bancos.md](/data/bancos.md)
-  - **SQL**: [bancos.sql](/data/bancos.sql)
-  - **XML**: [bancos.xml](/data/bancos.xml)
+-  **CSV**: [bancos.csv](/data/bancos.csv)
+-  **JSON**: [bancos.json](/data/bancos.json)
+-  **Markdown**: [bancos.md](/data/bancos.md)
+-  **SQL**: [bancos.sql](/data/bancos.sql)
+-  **XML**: [bancos.xml](/data/bancos.xml)
 
 ### Available data
 
@@ -50,21 +50,21 @@ Each of the lists has the following information (schema):
 
 A schema file is available in the folder [schemas](/schemas) for lists of type:
 
-  - [JSON](schemas/schema.json)
-  - [SQL](schemas/schema.sql)
-  - [XML](schemas/schema.xml)
+-  [JSON](schemas/schema.json)
+-  [SQL](schemas/schema.sql)
+-  [XML](schemas/schema.xml)
 
 And classes (DTO - Data Transport Object) in the following languages:
 
-  - [C#](/schemas/csharp.cs) <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  - [Go](/schemas/go.go) <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  - [Java](/schemas/java.java) <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  - [JavaScript](/schemas/javascript.js) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-  - [Kotlin](/schemas/kotlin.kt) <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-  - [PHP](/schemas/php.php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  - [Python](/schemas/python.py) <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  - [Rust](/schemas/rust.rs) <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  - [TypeScript](/schemas/typescript.ts) <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+-  [C#](/schemas/csharp.cs) <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+-  [Go](/schemas/go.go) <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+-  [Java](/schemas/java.java) <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+-  [JavaScript](/schemas/javascript.js) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+-  [Kotlin](/schemas/kotlin.kt) <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+-  [PHP](/schemas/php.php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+-  [Python](/schemas/python.py) <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+-  [Rust](/schemas/rust.rs) <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+-  [TypeScript](/schemas/typescript.ts) <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 
 ---
 
@@ -72,7 +72,7 @@ And classes (DTO - Data Transport Object) in the following languages:
 
 Implementation examples are available in the folder [examples](/examples), we currently have examples in the following technologies:
 
-  - [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
+-  [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
 
 If you miss an example, in the language, library or framework, open an issue requesting an example project on the desired technology!
 
@@ -99,21 +99,21 @@ npm i bancos-brasileiros
 
 For those unfamiliar with Brazilian entities:
 
-  - **ABBC** - Brazilian Association of Banks
-  - **BCB** - Central Bank of Brazil (regulatory authority)
-  - **CIP** - Interbank Payments Chamber
-  - **CNPJ** - National Register of Legal Entities - RFB
-  - **COMPE** - Clearing System for Checks and Other Papers
-  - **CPF** - Individual Taxpayer Registration - RFB
-  - **FEBRABAN** - Brazilian Federation of Banks
-  - **ISPB** - SPB identification
-  - **PIX** - Instant Payments
-  - **RFB** - Federal Revenue Service of Brazil
-  - **RSFN** - SFN Network
-  - **SFN** - National Financial System
-  - **SPB** - Brazilian Payment System
-  - **SPI** - Instant Payment System
-  - **STR** - Reservation Transfer System
+-  **ABBC** - Brazilian Association of Banks
+-  **BCB** - Central Bank of Brazil (regulatory authority)
+-  **CIP** - Interbank Payments Chamber
+-  **CNPJ** - National Register of Legal Entities - RFB
+-  **COMPE** - Clearing System for Checks and Other Papers
+-  **CPF** - Individual Taxpayer Registration - RFB
+-  **FEBRABAN** - Brazilian Federation of Banks
+-  **ISPB** - SPB identification
+-  **PIX** - Instant Payments
+-  **RFB** - Federal Revenue Service of Brazil
+-  **RSFN** - SFN Network
+-  **SFN** - National Financial System
+-  **SPB** - Brazilian Payment System
+-  **SPI** - Instant Payment System
+-  **STR** - Reservation Transfer System
 
 ---
 
