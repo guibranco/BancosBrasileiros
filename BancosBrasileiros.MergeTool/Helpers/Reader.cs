@@ -92,44 +92,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
-        /// Loads the CNPJ.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadCnpj()
-        {
-            var lines = File.ReadAllLines("data\\bancos-cnpj.md").Skip(4).ToArray();
-
-            return lines
-                .Select(line => line.Split("|"))
-                .Select(columns => new Bank
-                {
-                    Document = columns[0].Trim(),
-                    LongName = columns[1].Replace("\"", "").Trim(),
-                    Type = columns[2].Trim(),
-                    Url = columns[3].Trim()
-                }).ToList();
-        }
-
-        /// <summary>
-        /// Loads the site.
-        /// </summary>
-        /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadSite()
-        {
-            var lines = File.ReadAllLines("data\\bancos-site.md").Skip(4).ToArray();
-
-            return lines
-                .Select(line => line.Split("|"))
-                .Select(columns => new Bank
-                {
-                    Compe = int.Parse(columns[0].Trim()),
-                    LongName = columns[1].Replace("\"", "").Trim(),
-                    Url = columns[2].Trim()
-                })
-                .ToList();
-        }
-
-        /// <summary>
         /// Loads the pix.
         /// </summary>
         /// <returns>List&lt;Bank&gt;.</returns>

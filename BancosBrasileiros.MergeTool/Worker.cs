@@ -37,19 +37,15 @@ namespace BancosBrasileiros.MergeTool
 
             var source = reader.LoadBase();
             var str = reader.LoadStr();
-            var cnpj = reader.LoadCnpj();
-            var site = reader.LoadSite();
             var slc = reader.LoadSlc();
             var pix = reader.LoadPix();
 
-            Console.WriteLine($"Source: {source.Count} | STR: {str.Count} | Site: {site.Count} | CNPJ: {cnpj.Count} | SLC: {slc.Count} | PIX: {pix.Count} \r\n");
+            Console.WriteLine($"Source: {source.Count} | STR: {str.Count} | SLC: {slc.Count} | PIX: {pix.Count} \r\n");
 
             var seeder = new Seeder(source);
             seeder
                 .GenerateMissingDocument()
                 .SeedStr(str)
-                .SeedSite(site)
-                .SeedCnpj(cnpj)
                 .SeedSlc(slc)
                 .SeedPix(pix);
 
