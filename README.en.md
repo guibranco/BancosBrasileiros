@@ -16,7 +16,7 @@ Brazilian commercial banks list
 
 ### Formats
 
-This list contains 280 registered banks, in the following formats:
+This list contains 282 registered banks, in the following formats:
 
 -  **CSV**: [bancos.csv](/data/bancos.csv)
 -  **JSON**: [bancos.json](/data/bancos.json)
