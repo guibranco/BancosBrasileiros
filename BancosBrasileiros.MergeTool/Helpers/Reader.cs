@@ -36,7 +36,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         private readonly Regex _csvPattern = new Regex(",(?=(?:[^\"]*\"[^\"]*\")*(?![^\"]*\"))", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
-
         /// <summary>
         /// The semicolon separated values pattern
         /// </summary>
