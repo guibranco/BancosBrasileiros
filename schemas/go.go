@@ -28,8 +28,10 @@ type BankElement struct {
 	ShortName    			string  `json:"ShortName"`
 	Network					*string `json:"Network"`
 	Type					*string `json:"Type"`   
+	PixType					*string `json:"PixType"`   
 	URL            			*string `json:"Url"`           
 	DateOperationStarted 	*string `json:"DateOperationStarted"`
+	DatePixStarted 			*string `json:"DatePixStarted"`
  	DateRegistered 			string  `json:"DateRegistered"`
 	DateUpdated    			string  `json:"DateUpdated"`      
 }

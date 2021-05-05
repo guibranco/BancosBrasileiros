@@ -11,9 +11,11 @@
               <xs:element type="xs:string" name="LongName"/>
               <xs:element type="xs:string" name="ShortName"/>   
               <xs:element type="xs:string" name="Network" />
-	      <xs:element type="xs:string" name="Type" />
-	      <xs:element type="xs:string" name="Url" />
-	      <xs:element type="xs:string" name="DateOperationStarted" />
+	            <xs:element type="xs:string" name="Type" />
+              <xs:element type="xs:string" name="PixType" />
+	            <xs:element type="xs:string" name="Url" />
+	            <xs:element type="xs:string" name="DateOperationStarted" />
+              <xs:element type="xs:string" name="DatePixStarted" />
               <xs:element type="xs:string" name="DateRegistered"/>
               <xs:element type="xs:string" name="DateUpdated"/>  
             </xs:sequence>

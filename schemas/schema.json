@@ -44,6 +44,16 @@
                         }
                     ]
                 },
+                "PixType" : {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string"                           
+                        }
+                    ]
+                },
                 "Url": {
                     "anyOf": [
                         {
@@ -69,6 +79,17 @@
                         }
                     ]
                 },
+                "DatePixStarted": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string",
+                            "format": "date"
+                        }
+                    ]
+                },
                 "DateRegistered": {
                     "type": "string",
                     "format": "date-time"
@@ -81,12 +102,14 @@
             "required": [
                 "COMPE",
                 "DateOperationStarted",
+                "DatePixStarted",
                 "DateRegistered",
                 "DateUpdated",
                 "Document",                              
                 "ISPB",
                 "LongName",  
                 "Network",
+                "PixType",
                 "ShortName",
                 "Type",
                 "Url"

@@ -31,10 +31,14 @@ pub struct BankElement {
     pub network: Option<String>,
     #[serde(rename = "Type")]
     pub type: Option<String>,
+    #[serde(rename = "PixType")]
+    pub pix_type: Option<String>,
     #[serde(rename = "Url")]
     pub url: Option<String>,
     #[serde(rename = "DateOperationStarted")]
     pub date_operation_started: String,
+    #[serde(rename = "DatePixStarted")]
+    pub date_pix_started: String,
     #[serde(rename = "DateRegistered")]
     pub date_registered: String,
     #[serde(rename = "DateUpdated")]

@@ -15,8 +15,10 @@ export interface Bank {
     ShortName:              string;
     Network:                null | string;
     Type:                   null | string;
+    PixType:                null | string;
     Url:                    null | string;
     DateOperationStarted:   null | string;
+    DatePixStarted:         null | string;
     DateRegistered:         Date;
     DateUpdated:            Date;
 }
@@ -171,8 +173,10 @@ const typeMap: any = {
         { json: "ShortName", js: "ShortName", typ: "" },
         { json: "Network", js: "Network", typ: u("", null) },
         { json: "Type", js: "Type", typ: u("", null) },
+        { json: "PixType", js: "Type", typ: u("", null) },
         { json: "Url", js: "Url", typ: u("", null) },
-        { json: "DateOperationStarted", js: "DateOperationStarted", typ: u("", null) },        
+        { json: "DateOperationStarted", js: "DateOperationStarted", typ: u("", null) },
+        { json: "DatePixStarted", js: "DatePixStarted", typ: u("", null) },   
         { json: "DateRegistered", js: "DateRegistered", typ: Date },
         { json: "DateUpdated", js: "DateUpdated", typ: Date },
     ], false),

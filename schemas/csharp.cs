@@ -26,11 +26,17 @@ namespace BancosBrasileiros
         [JsonProperty("Type")]
         public string Type { get; set;}
 
+        [JsonProperty("PixType")]
+        public string PixType { get; set;}
+
         [JsonProperty("Url")]
         public string Url { get; set; }
 
         [JsonProperty("DateOperationStarted")]
         public string DateOperationStarted { get; set;}
+
+        [JsonProperty("DatePixStarted")]
+        public string DatePixStarted { get; set;}
 
         [JsonProperty("DateRegistered")]
         public DateTimeOffset DateRegistered { get; set; }

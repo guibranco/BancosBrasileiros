@@ -66,8 +66,10 @@ public class Bank {
     private String shortName;
     private String network;
     private String type;
+    private String pixType;
     private String url;
     private String dateOperationStarted;
+    private String datePixStarted;
     private String dateRegistered;
     private String dateUpdated;
 
@@ -106,6 +108,11 @@ public class Bank {
     @JsonProperty("Type")
     public void setType(String value) { this.type = value; }
 
+    @JsonProperty("PixType")
+    public String getPixType() { return pixType; }
+    @JsonProperty("PixType")
+    public void setPixType(String value) { this.pixType = value; }
+
     @JsonProperty("Url")
     public String getURL() { return url; }
     @JsonProperty("Url")
@@ -115,6 +122,11 @@ public class Bank {
     public String getDateOperationStarted() { return dateOperationStarted; }
     @JsonProperty("DateOperationStarted")
     public void setDateOperationStarted(String value) { this.dateOperationStarted = value; }
+
+    @JsonProperty("DatePixStarted")
+    public String getDatePixStarted() { return datePixStarted; }
+    @JsonProperty("DatePixStarted")
+    public void setDatePixStarted(String value) { this.datePixStarted = value; }
 
     @JsonProperty("DateRegistered")
     public String getDateRegistered() { return dateRegistered; }

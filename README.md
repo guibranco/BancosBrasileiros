@@ -37,8 +37,10 @@ Cada uma das listas possui as seguintes informações (schema):
 | ShortName | Nome reduzido | Conforme BACEN - STR |
 | Network | Rede | RSFN ou Internet |
 | Type | Tipo | comercial; múltiplo; caixa econômica; null |
+| PIX Type | Tipo de participante PIX/SPI | DRCT - Direto; INDR - Indireto; null |
 | Url | Website | - |
-| DateOperationStarted | Data do início de operação | - |
+| DateOperationStarted | Data de início da operação | - |
+| DatePixStarted | Data de início da operação PIX | Somente para PSPs do SPI |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
 
@@ -117,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+- 2021-05-05: [Issue #50](https://github.com/guibranco/BancosBrasileiros/milestone/50) - PIX data - [@guibranco](https://github.com/guibranco)
 - 2021-04-28: [Milestone #1](https://github.com/guibranco/BancosBrasileiros/milestone/1) - Version 2 - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
 - 2021-04-27: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)

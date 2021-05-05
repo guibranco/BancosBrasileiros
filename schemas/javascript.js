@@ -155,8 +155,10 @@ const typeMap = {
         { json: "ShortName", js: "ShortName", typ: "" },
         { json: "Network", js: "Network", typ: "" },
         { json: "Type", js: "Type", typ: "" },
+        { json: "PixType", js: "PixType", typ: "" },
         { json: "Url", js: "Url", typ: u(null, "") },
         { json: "DateOperationStarted", js: "DateOperationStarted", typ: "" },
+        { json: "DatePixStarted", js: "DatePixStarted", typ: "" },
         { json: "DateRegistered", js: "DateRegistered", typ: Date },
         { json: "DateUpdated", js: "DateUpdated", typ: Date }
     ], false),

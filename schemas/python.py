@@ -64,12 +64,14 @@ class BankElement:
     short_name: str
     network: Optional[str]
     type_: Optional[str]
+    pix_type: Optional[str]
     url: Optional[str]
     date_operation_started: Optional[str]
+    date_pix_started: Optional[str]
     date_registered: datetime
     date_updated: datetime
 
-    def __init__(self, compe: str, ispb: str, document: str, long_name: str, short_name: str, network: Optional[str], type_: Optional[str], url: Optional[str], date_operation_started: Optional[str], date_registered: datetime, date_updated: datetime) -> None:
+    def __init__(self, compe: str, ispb: str, document: str, long_name: str, short_name: str, network: Optional[str], type_: Optional[str], pix_type: Optional[str], url: Optional[str], date_operation_started: Optional[str], date_pix_started: Optional[str], date_registered: datetime, date_updated: datetime) -> None:
         self.compe = compe
         self.ispb = ispb
         self.document = document
@@ -77,8 +79,10 @@ class BankElement:
         self.short_name = short_name
         self.network = network
         self.type_ = type_
+        self.pix_type = pix_type
         self.url = url
         self.date_operation_started = date_operation_started
+        self.date_pix_started = date_pix_started
         self.date_registered = date_registered
         self.date_updated = date_updated
 
@@ -94,9 +98,10 @@ class BankElement:
         type_ = from_union([from_none, from_str], obj.get("Type"))
         url = from_union([from_none, from_str], obj.get("Url"))
         date_operation_started = from_union([from_none, from_str], obj.get("DateOperationStarted"))
+        date_pix_started = from_union([from_none, from_str], obj.get("DatePixStarted"))
         date_registered = from_datetime(obj.get("DateRegistered"))
         date_updated = from_datetime(obj.get("DateUpdated"))
-        return BankElement(compe, ispb, document, long_name, short_name, network, type_, url, date_operation_started, date_registered, date_updated)
+        return BankElement(compe, ispb, document, long_name, short_name, network, type_, pix_type, url, date_operation_started, date_pix_started, date_registered, date_updated)
 
     def to_dict(self) -> dict:
         result: dict = {}
@@ -107,8 +112,10 @@ class BankElement:
         result["ShortName"] = from_str(self.short_name)
         result["Network"] = from_union([from_none, from_str], self.network)
         result["Type"] = from_union([from_none, from_str], self.type_)
+        result["PixType"] = from_union([from_none, from_str], self.pix_type)
         result["Url"] = from_union([from_none, from_str], self.url)
         result["DateOperationStarted"] = from_union([from_none, from_str], self.date_operation_started)
+        result["DatePixStarted"] = from_union([from_none, from_str], self.date_pix_started)
         result["DateRegistered"] = self.date_registered.isoformat()
         result["DateUpdated"] = self.date_updated.isoformat()
         return result

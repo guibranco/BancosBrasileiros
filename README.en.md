@@ -37,8 +37,10 @@ Each of the lists has the following information (schema):
 | ShortName | Short name | According to BACEN - STR|
 | Network | Network | RSFN or Internet |
 | Type | Type | commercial, multiple, savings, null |
+| PixType | Type of PIX/SPI participant | DRCT - Directly ; INDR - Indirectly; null |
 | Url | Website | - |
 | DateOperationStarted | Commercial operation start date | - |
+| DatePixStarted | PIX operation start date | Only for those PSP of SPI |
 | DateRegistered | Registration date on schema | - |
 | DateUpdated | Change date on schema | - |
 

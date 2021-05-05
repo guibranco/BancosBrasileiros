@@ -38,11 +38,17 @@ data class BankElement (
     @Json(name = "Type")
     val type: String,
 
+    @Json(name = "PixType")
+    val pixType: String,
+
     @Json(name = "Url")
     val url: String? = null,
 
     @Json(name = "DateOperationStarted")
     val dateOperationStarted: String
+
+    @Json(name = "DatePixStarted")
+    val datePixStarted: String
 
     @Json(name = "DateRegistered")
     val dateRegistered: String,
