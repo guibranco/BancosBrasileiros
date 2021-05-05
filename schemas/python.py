@@ -96,6 +96,7 @@ class BankElement:
         short_name = from_str(obj.get("ShortName"))
         network = from_union([from_none, from_str], obj.get("Network"))
         type_ = from_union([from_none, from_str], obj.get("Type"))
+        pix_type = from_union([From_none, from_str], obj.get("PixType"))
         url = from_union([from_none, from_str], obj.get("Url"))
         date_operation_started = from_union([from_none, from_str], obj.get("DateOperationStarted"))
         date_pix_started = from_union([from_none, from_str], obj.get("DatePixStarted"))
