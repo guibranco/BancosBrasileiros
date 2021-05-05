@@ -8,7 +8,7 @@ Brazilian commercial banks list
 [![GitHub issues by-label](https://img.shields.io/github/issues/guibranco/BancosBrasileiros/help%20wanted.svg)](https://github.com/guibranco/BancosBrasileiros/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 
-***Para a versão em português do README.md, por favor [siga me](/README.md)***
+***Para a versão em português do README.md, [siga me](/README.md) por favor.***
 
 ---
 
@@ -16,7 +16,7 @@ Brazilian commercial banks list
 
 ### Formats
 
-This list contains 259 registered banks, in the following formats:
+This list contains 282 registered banks, in the following formats:
 
 -  **CSV**: [bancos.csv](/data/bancos.csv)
 -  **JSON**: [bancos.json](/data/bancos.json)
