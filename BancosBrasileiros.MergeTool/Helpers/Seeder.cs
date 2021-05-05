@@ -26,6 +26,33 @@ namespace BancosBrasileiros.MergeTool.Helpers
     internal class Seeder
     {
         /// <summary>
+        /// Generates the missing document.
+        /// </summary>
+        /// <param name="normalized">The normalized.</param>
+        /// <returns>Seeder.</returns>
+        public Seeder GenerateMissingDocument(IEnumerable<Bank> normalized)
+        {
+            var existing = 0;
+            var missing = 0;
+
+            foreach (var bank in normalized)
+            {
+                if (bank.Document != null && bank.Document.Length == 18)
+                {
+                    existing++;
+                    continue;
+                }
+
+                bank.Document = bank.IspbString;
+                missing++;
+            }
+
+            Console.WriteLine($"\r\nGenerate document | Existing: {existing} | Missing: {missing}\r\n");
+
+            return this;
+        }
+
+        /// <summary>
         /// Seeds the site.
         /// </summary>
         /// <param name="normalized">The normalized.</param>
@@ -41,8 +68,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                     bank = normalized.SingleOrDefault(b =>
-                                                          b.LongName.Equals(site.LongName, StringComparison.InvariantCultureIgnoreCase) ||
-                                                          b.ShortName.Equals(site.LongName, StringComparison.InvariantCultureIgnoreCase));
+                        b.LongName.RemoveDiacritics().Equals(site.LongName.RemoveDiacritics(),
+                            StringComparison.InvariantCultureIgnoreCase) ||
+                        b.ShortName.RemoveDiacritics().Equals(site.LongName.RemoveDiacritics(),
+                            StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                 {
                     Console.WriteLine($"Adding bank by site list | {site.Compe} | {site.LongName}");
@@ -58,8 +87,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(site.Url))
                     bank.Url = site.Url.ToLower();
-                else if (!string.IsNullOrWhiteSpace(bank.Url) &&
-                    !bank.Url.Equals(site.Url, StringComparison.InvariantCultureIgnoreCase))
+                else if (!string.IsNullOrWhiteSpace(bank.Url) && !bank.Url.Equals(site.Url, StringComparison.InvariantCultureIgnoreCase))
                     bank.Url = site.Url;
 
                 if (bank.LongName.Equals(site.LongName, StringComparison.InvariantCultureIgnoreCase))
@@ -91,8 +119,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
             foreach (var document in documents)
             {
                 var bank = normalized.SingleOrDefault(b =>
-                                                          b.LongName.Equals(document.LongName, StringComparison.InvariantCultureIgnoreCase) ||
-                                                          b.ShortName.Equals(document.LongName, StringComparison.InvariantCultureIgnoreCase));
+                    b.LongName.RemoveDiacritics().Equals(document.LongName.RemoveDiacritics(),
+                        StringComparison.InvariantCultureIgnoreCase) ||
+                    b.ShortName.RemoveDiacritics().Equals(document.LongName.RemoveDiacritics(),
+                        StringComparison.InvariantCultureIgnoreCase));
                 if (bank == null)
                 {
                     Console.WriteLine($"Documento | Banco não encontrado: {document.LongName}");
@@ -133,9 +163,16 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var slc in slcs)
             {
-                var bank = normalized.SingleOrDefault(b =>
-                    b.LongName.EndsWith(slc.LongName, StringComparison.InvariantCultureIgnoreCase) ||
-                    b.ShortName.Equals(slc.LongName, StringComparison.InvariantCultureIgnoreCase));
+                var bank = normalized.SingleOrDefault(b => b.Document != null && b.Document.Equals(slc.Document));
+
+                if (bank == null)
+                {
+                    bank = normalized.SingleOrDefault(b =>
+                        b.LongName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(),
+                            StringComparison.InvariantCultureIgnoreCase) ||
+                        b.ShortName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(),
+                            StringComparison.InvariantCultureIgnoreCase));
+                }
 
                 if (bank == null)
                 {
@@ -192,8 +229,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
             foreach (var pix in pixs)
             {
                 var bank = normalized.SingleOrDefault(b =>
-                    b.LongName.Equals(pix.LongName, StringComparison.InvariantCultureIgnoreCase) ||
-                    b.ShortName.Equals(pix.ShortName, StringComparison.InvariantCultureIgnoreCase));
+                    b.LongName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(),
+                        StringComparison.InvariantCultureIgnoreCase) ||
+                    b.ShortName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(),
+                        StringComparison.InvariantCultureIgnoreCase));
 
                 if (bank == null)
                     bank = normalized.SingleOrDefault(b => b.Ispb.Equals(pix.Ispb));

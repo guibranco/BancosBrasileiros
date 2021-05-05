@@ -26,6 +26,8 @@ namespace BancosBrasileiros.MergeTool
         /// </summary>
         static void Main()
         {
+            System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+
             Console.WriteLine("Bancos Brasileiros - Merge tool");
 
             var worker = new Worker();

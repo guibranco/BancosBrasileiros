@@ -45,6 +45,7 @@ namespace BancosBrasileiros.MergeTool
 
             var seeder = new Seeder();
             seeder
+                .GenerateMissingDocument(str)
                 .SeedSite(str, site)
                 .SeedDocument(str, cnpj)
                 .SeedSlc(str, slc)

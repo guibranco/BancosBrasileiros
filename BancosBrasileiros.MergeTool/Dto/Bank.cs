@@ -20,6 +20,7 @@ namespace BancosBrasileiros.MergeTool.Dto
     using System.Linq;
     using System.Text;
     using System.Xml.Serialization;
+    using CrispyWaffle.Validations;
 
     /// <summary>
     /// Class Bank.
@@ -96,6 +97,19 @@ namespace BancosBrasileiros.MergeTool.Dto
                 if (string.IsNullOrWhiteSpace(value))
                     return;
                 var document = new string(value.Where(char.IsDigit).ToArray());
+                if (document.Length == 8)
+                {
+                    if (document.Equals("00000000"))
+                    {
+                        document = "00000000000191";
+                    }
+                    else
+                    {
+                        document += "0001";
+                        document += $"{document}00".CalculateBrazilianCorporationDocument();
+                    }
+                }
+
                 _document = document.FormatBrazilianDocument();
             }
         }
@@ -266,8 +280,8 @@ namespace BancosBrasileiros.MergeTool.Dto
         {
             var strBuilder = new StringBuilder();
 
-            if (Ispb > 0)
-                strBuilder.AppendFormat("ISPB: {0} | ", Ispb);
+            if (Ispb > 0 || Compe.Equals(1))
+                strBuilder.AppendFormat("ISPB: {0} | ", IspbString);
 
             if (!string.IsNullOrWhiteSpace(Document))
                 strBuilder.AppendFormat("Document: {0} | ", Document);
