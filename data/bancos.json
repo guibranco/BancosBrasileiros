@@ -2,28 +2,32 @@
   {
     "COMPE": "001",
     "ISPB": "00000000",
-    "Document": "000.000.000-00",
+    "Document": "00.000.000/0001-91",
     "LongName": "Banco do Brasil S.A.",
-    "ShortName": "BCO DO BRASIL S.A.",
+    "ShortName": "BANCO DO BRASIL",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bb.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8989803-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991197-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1592056-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1593139-03:00"
   },
   {
     "COMPE": "003",
     "ISPB": "04902979",
-    "Document": "04.902.979/0001-44",
+    "Document": null,
     "LongName": "Banco da Amazônia S.A.",
-    "ShortName": "BANCO DA AMAZONIA S.A.",
+    "ShortName": "BCO DA AMAZONIA S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": "https://www.bancoamazonia.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992086-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992088-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596502-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596504-03:00"
   },
   {
     "COMPE": "004",
@@ -33,10 +37,12 @@
     "ShortName": "BANCO DO NORDESTE DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.banconordeste.gov.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992134-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992136-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596552-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596553-03:00"
   },
   {
     "COMPE": "007",
@@ -46,10 +52,12 @@
     "ShortName": "BNDES",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2014-06-30",
-    "DateRegistered": "2021-04-28T02:10:59.8992553-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992554-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159714-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597141-03:00"
   },
   {
     "COMPE": "010",
@@ -59,10 +67,12 @@
     "ShortName": "CREDICOAMO",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2012-12-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992884-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992885-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597529-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597532-03:00"
   },
   {
     "COMPE": "011",
@@ -72,10 +82,12 @@
     "ShortName": "C.SUISSE HEDGING-GRIFFO CV S/A",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-06-28",
-    "DateRegistered": "2021-04-28T02:10:59.8992776-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992778-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597371-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597373-03:00"
   },
   {
     "COMPE": "012",
@@ -85,10 +97,12 @@
     "ShortName": "BANCO INBURSA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancoinbursa.com",
     "DateOperationStarted": "2017-05-04",
-    "DateRegistered": "2021-04-28T02:10:59.8992083-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992085-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596495-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596497-03:00"
   },
   {
     "COMPE": "014",
@@ -98,23 +112,27 @@
     "ShortName": "STATE STREET BR S.A. BCO COMERCIAL",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2008-08-08",
-    "DateRegistered": "2021-04-28T02:10:59.89922-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992202-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159662-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596622-03:00"
   },
   {
     "COMPE": "015",
     "ISPB": "02819125",
     "Document": null,
-    "LongName": "\"UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.              \"",
+    "LongName": "UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
     "ShortName": "UBS BRASIL CCTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-03-15",
-    "DateRegistered": "2021-04-28T02:10:59.8992006-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992008-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596418-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596419-03:00"
   },
   {
     "COMPE": "016",
@@ -124,10 +142,12 @@
     "ShortName": "CCM DESP TRÂNS SC E RS",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2012-05-08",
-    "DateRegistered": "2021-04-28T02:10:59.8992075-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992077-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596488-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159649-03:00"
   },
   {
     "COMPE": "017",
@@ -137,10 +157,12 @@
     "ShortName": "BNY MELLON BCO S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": null,
     "Url": "https://www.bnymellon.com.br",
     "DateOperationStarted": "2012-11-19",
-    "DateRegistered": "2021-04-28T02:10:59.8992625-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992626-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597215-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597217-03:00"
   },
   {
     "COMPE": "018",
@@ -150,23 +172,27 @@
     "ShortName": "BCO TRICURY S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancotricury.com.br",
     "DateOperationStarted": "2013-08-05",
-    "DateRegistered": "2021-04-28T02:10:59.8992675-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992677-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597268-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597269-03:00"
   },
   {
     "COMPE": "021",
     "ISPB": "28127603",
-    "Document": "28.127.603/0001-78",
+    "Document": null,
     "LongName": "BANESTES S.A. Banco do Estado do Espírito Santo",
-    "ShortName": "BANESTES S.A. - BANCO DO ESTADO DO ESPÍRITO SANTO X",
+    "ShortName": "BCO BANESTES S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": "https://www.banestes.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992454-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992456-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597038-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597039-03:00"
   },
   {
     "COMPE": "024",
@@ -176,10 +202,12 @@
     "ShortName": "BCO BANDEPE S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.santander.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992245-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992246-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596665-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596667-03:00"
   },
   {
     "COMPE": "025",
@@ -189,10 +217,12 @@
     "ShortName": "BANCO ALFA S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": "DRCT",
     "Url": "https://www.bancoalfa.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992031-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992033-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596444-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596446-03:00"
   },
   {
     "COMPE": "029",
@@ -202,23 +232,27 @@
     "ShortName": "BANCO ITAÚ CONSIGNADO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.itau.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992564-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992566-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597151-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597153-03:00"
   },
   {
     "COMPE": "033",
     "ISPB": "90400888",
-    "Document": "90.400.888/0001-42",
+    "Document": "000.904.008-88",
     "LongName": "BANCO SANTANDER (BRASIL) S.A.",
-    "ShortName": "BANCO SANTANDER S.A.",
+    "ShortName": "BCO SANTANDER (BRASIL) S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.santander.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992891-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992893-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597541-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597544-03:00"
   },
   {
     "COMPE": "036",
@@ -228,10 +262,12 @@
     "ShortName": "BCO BBI S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bradescobbi.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992127-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992129-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596544-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596546-03:00"
   },
   {
     "COMPE": "037",
@@ -241,10 +277,12 @@
     "ShortName": "BANCO DO ESTADO DO PARÁ S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.banpara.b.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992094-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992096-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159651-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596512-03:00"
   },
   {
     "COMPE": "040",
@@ -254,10 +292,12 @@
     "ShortName": "BCO CARGILL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancocargill.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992042-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992044-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596456-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596457-03:00"
   },
   {
     "COMPE": "041",
@@ -267,23 +307,27 @@
     "ShortName": "BANCO DO ESTADO DO RIO GRANDE DO SUL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.banrisul.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992898-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.89929-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597552-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597555-03:00"
   },
   {
     "COMPE": "047",
     "ISPB": "13009717",
-    "Document": "13.009.717/0001-46",
+    "Document": "000.130.097-17",
     "LongName": "Banco do Estado de Sergipe S.A.",
-    "ShortName": "BANESE - BANCO DO ESTADO DE SERGIPE S.A.",
+    "ShortName": "BCO DO EST. DE SE S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.banese.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992277-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992279-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.15967-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596701-03:00"
   },
   {
     "COMPE": "060",
@@ -293,23 +337,27 @@
     "ShortName": "CONFIDENCE CORRETORA DE CÂMBIO S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2010-09-21",
-    "DateRegistered": "2021-04-28T02:10:59.899209-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992092-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596506-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596508-03:00"
   },
   {
     "COMPE": "062",
     "ISPB": "03012230",
-    "Document": "03.012.230/0001-69",
+    "Document": "000.030.122-30",
     "LongName": "Hipercard Banco Múltiplo S.A.",
-    "ShortName": "BANCO HIPERCARD",
+    "ShortName": "HIPERCARD BM S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.hipercard.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992014-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992015-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596426-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596428-03:00"
   },
   {
     "COMPE": "063",
@@ -319,10 +367,12 @@
     "ShortName": "BANCO BRADESCARD S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.ibi.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992057-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992059-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159647-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596472-03:00"
   },
   {
     "COMPE": "064",
@@ -332,10 +382,12 @@
     "ShortName": "GOLDMAN SACHS DO BRASIL BM S.A",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": "https://www.goldmansachs.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992068-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899207-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596481-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596483-03:00"
   },
   {
     "COMPE": "065",
@@ -345,10 +397,12 @@
     "ShortName": "BCO ANDBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.andbank-lla.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992643-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992645-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597234-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597236-03:00"
   },
   {
     "COMPE": "066",
@@ -358,10 +412,12 @@
     "ShortName": "BCO MORGAN STANLEY S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.morganstanley.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992002-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992003-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596414-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596416-03:00"
   },
   {
     "COMPE": "069",
@@ -371,23 +427,27 @@
     "ShortName": "BANCO CREFISA S.A",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": "DRCT",
     "Url": "https://www.crefisa.com.br",
     "DateOperationStarted": "2005-11-18",
-    "DateRegistered": "2021-04-28T02:10:59.8992744-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992745-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597338-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159734-03:00"
   },
   {
     "COMPE": "070",
     "ISPB": "00000208",
-    "Document": "00.000.208/0001-00",
+    "Document": null,
     "LongName": "BRB - Banco de Brasília S.A.",
-    "ShortName": "BRB – BANCO DE BRASÍLIA S.A",
+    "ShortName": "BRB - BCO DE BRASILIA S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": "https://www.brb.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991887-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991897-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1593922-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1594089-03:00"
   },
   {
     "COMPE": "074",
@@ -397,10 +457,12 @@
     "ShortName": "BCO. J.SAFRA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.safra.com.br",
     "DateOperationStarted": "2004-08-26",
-    "DateRegistered": "2021-04-28T02:10:59.8992017-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992019-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596429-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596431-03:00"
   },
   {
     "COMPE": "075",
@@ -410,10 +472,12 @@
     "ShortName": "BCO ABN AMRO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.abnamro.com",
     "DateOperationStarted": "2005-11-11",
-    "DateRegistered": "2021-04-28T02:10:59.8992039-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992041-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596452-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596454-03:00"
   },
   {
     "COMPE": "076",
@@ -423,10 +487,12 @@
     "ShortName": "BCO KDB BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancokdb.com.br/home.html",
     "DateOperationStarted": "2006-04-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992149-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992151-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596567-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596569-03:00"
   },
   {
     "COMPE": "077",
@@ -436,10 +502,12 @@
     "ShortName": "BANCO INTER S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancointer.com.br",
     "DateOperationStarted": "2008-08-15",
-    "DateRegistered": "2021-04-28T02:10:59.8991915-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991917-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1594959-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1595027-03:00"
   },
   {
     "COMPE": "078",
@@ -449,10 +517,12 @@
     "ShortName": "HAITONG BI DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2008-07-31",
-    "DateRegistered": "2021-04-28T02:10:59.8992575-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992576-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597162-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597164-03:00"
   },
   {
     "COMPE": "079",
@@ -462,10 +532,12 @@
     "ShortName": "BCO ORIGINAL DO AGRO S/A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancooriginal.com.br",
     "DateOperationStarted": "2008-07-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992215-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992217-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596635-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596637-03:00"
   },
   {
     "COMPE": "080",
@@ -475,23 +547,27 @@
     "ShortName": "B&T CC LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2010-11-18",
-    "DateRegistered": "2021-04-28T02:10:59.8992846-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992848-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597471-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597473-03:00"
   },
   {
     "COMPE": "081",
     "ISPB": "10264663",
-    "Document": "10.264.663/0001-77",
+    "Document": "000.102.646-63",
     "LongName": "BancoSeguro S.A.",
-    "ShortName": "BANCO SEGURO S.A",
+    "ShortName": "BANCOSEGURO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.rendimento.com.br",
     "DateOperationStarted": "2008-10-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992223-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992224-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596643-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596645-03:00"
   },
   {
     "COMPE": "082",
@@ -501,10 +577,12 @@
     "ShortName": "BANCO TOPÁZIO S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancotopazio.com.br",
     "DateOperationStarted": "2009-06-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992153-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992154-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596571-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596573-03:00"
   },
   {
     "COMPE": "083",
@@ -514,23 +592,27 @@
     "ShortName": "BCO DA CHINA BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.boc-brazil.com",
     "DateOperationStarted": "2009-07-14",
-    "DateRegistered": "2021-04-28T02:10:59.8992237-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992239-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596657-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596659-03:00"
   },
   {
     "COMPE": "084",
     "ISPB": "02398976",
-    "Document": "02.398.976/0001-90",
+    "Document": null,
     "LongName": "UNIPRIME NORTE DO PARANÁ - COOPERATIVA DE CRÉDITO LTDA",
-    "ShortName": "UNIPRIME NORTE DO PARANA",
+    "ShortName": "UNIPRIME NORTE DO PARANÁ - CC",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2009-11-24",
-    "DateRegistered": "2021-04-28T02:10:59.8991994-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991996-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596406-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596408-03:00"
   },
   {
     "COMPE": "085",
@@ -540,10 +622,12 @@
     "ShortName": "COOPERATIVA CENTRAL DE CRÉDITO - AILOS",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2010-05-17",
-    "DateRegistered": "2021-04-28T02:10:59.8992109-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899211-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596526-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596528-03:00"
   },
   {
     "COMPE": "088",
@@ -553,23 +637,27 @@
     "ShortName": "BANCO RANDON S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancorandon.com",
     "DateOperationStarted": "2020-08-03",
-    "DateRegistered": "2021-04-28T02:10:59.8992252-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992253-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596673-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596675-03:00"
   },
   {
     "COMPE": "089",
     "ISPB": "62109566",
-    "Document": "62.109.566/0001-03",
+    "Document": null,
     "LongName": "CREDISAN COOPERATIVA DE CRÉDITO",
-    "ShortName": "CREDISAN - COOP. DE CRÉDITO RURAL DA REGIÃO DA MOGIANA",
+    "ShortName": "CREDISAN CC",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2010-08-30",
-    "DateRegistered": "2021-04-28T02:10:59.8992787-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992789-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597382-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597383-03:00"
   },
   {
     "COMPE": "091",
@@ -579,36 +667,42 @@
     "ShortName": "CCCM UNICRED CENTRAL RS",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2010-11-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991962-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991964-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596373-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596375-03:00"
   },
   {
     "COMPE": "092",
     "ISPB": "12865507",
     "Document": null,
-    "LongName": "\"BRK S.A. Crédito, Financiamento e Investimento                                  \"",
+    "LongName": "BRK S.A. Crédito, Financiamento e Investimento",
     "ShortName": "BRK S.A. CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2010-07-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992274-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992276-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596696-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596698-03:00"
   },
   {
     "COMPE": "093",
     "ISPB": "07945233",
-    "Document": "07.945.233/0001-06",
+    "Document": null,
     "LongName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT",
-    "ShortName": "POLOCRED - SOCIEDADE DE CREDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO  PORTE LTDA",
+    "ShortName": "POLOCRED SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2010-11-09",
-    "DateRegistered": "2021-04-28T02:10:59.8992164-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992166-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596582-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596584-03:00"
   },
   {
     "COMPE": "094",
@@ -618,10 +712,12 @@
     "ShortName": "BANCO FINAXIS S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": null,
     "Url": "https://www.finaxis.com.br",
     "DateOperationStarted": "2010-08-23",
-    "DateRegistered": "2021-04-28T02:10:59.8992266-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992268-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596688-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159669-03:00"
   },
   {
     "COMPE": "095",
@@ -631,10 +727,12 @@
     "ShortName": "TRAVELEX BANCO DE CÂMBIO S.A.",
     "Network": "RSFN",
     "Type": "Banco de Câmbio",
+    "PixType": null,
     "Url": "https://www.bancoconfidence.com.br",
     "DateOperationStarted": "2010-06-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992263-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992264-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596684-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596686-03:00"
   },
   {
     "COMPE": "096",
@@ -644,23 +742,27 @@
     "ShortName": "BCO B3 S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": null,
     "Url": "https://www.bmfbovespa.com.br/bancobmfbovespa/",
     "DateOperationStarted": "2004-11-12",
-    "DateRegistered": "2021-04-28T02:10:59.8991937-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991939-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1595844-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1595913-03:00"
   },
   {
     "COMPE": "097",
     "ISPB": "04632856",
-    "Document": "04.632.856/0001-30",
+    "Document": null,
     "LongName": "Credisis - Central de Cooperativas de Crédito Ltda.",
-    "ShortName": "CREDISIS- CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA",
+    "ShortName": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2011-02-08",
-    "DateRegistered": "2021-04-28T02:10:59.8992071-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992073-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596484-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596486-03:00"
   },
   {
     "COMPE": "098",
@@ -670,10 +772,12 @@
     "ShortName": "CREDIALIANÇA CCR",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-01-18",
-    "DateRegistered": "2021-04-28T02:10:59.8992867-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992869-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597505-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597508-03:00"
   },
   {
     "COMPE": "099",
@@ -683,10 +787,12 @@
     "ShortName": "UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2011-01-11",
-    "DateRegistered": "2021-04-28T02:10:59.8992021-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992022-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596433-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596435-03:00"
   },
   {
     "COMPE": "100",
@@ -696,10 +802,12 @@
     "ShortName": "PLANNER CV S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-04-27",
-    "DateRegistered": "2021-04-28T02:10:59.8991933-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991935-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1595696-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1595773-03:00"
   },
   {
     "COMPE": "101",
@@ -709,49 +817,57 @@
     "ShortName": "RENASCENCA DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2010-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992809-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899281-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597404-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597406-03:00"
   },
   {
     "COMPE": "102",
     "ISPB": "02332886",
     "Document": null,
-    "LongName": "\"XP INVESTIMENTOS CORRETORA DE CÂMBIO,TÍTULOS E VALORES MOBILIÁRIOS S/A          \"",
+    "LongName": "XP INVESTIMENTOS CORRETORA DE CÂMBIO,TÍTULOS E VALORES MOBILIÁRIOS S/A",
     "ShortName": "XP INVESTIMENTOS CCTVM S/A",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-11-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991991-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991993-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596402-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596404-03:00"
   },
   {
     "COMPE": "104",
     "ISPB": "00360305",
-    "Document": "00.360.305/0001-04",
+    "Document": "000.003.603-05",
     "LongName": "Caixa Econômica Federal",
-    "ShortName": "CAIXA ECONOMICA FEDERAL S.A",
+    "ShortName": "CAIXA ECONOMICA FEDERAL",
     "Network": "RSFN",
     "Type": "Caixa Econômica Federal",
+    "PixType": "DRCT",
     "Url": "https://www.caixa.gov.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991911-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991913-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1594823-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1594891-03:00"
   },
   {
     "COMPE": "105",
     "ISPB": "07652226",
     "Document": null,
-    "LongName": "\"Lecca Crédito, Financiamento e Investimento S/A                                 \"",
+    "LongName": "Lecca Crédito, Financiamento e Investimento S/A",
     "ShortName": "LECCA CFI S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-12-27",
-    "DateRegistered": "2021-04-28T02:10:59.8992146-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992147-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596564-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596565-03:00"
   },
   {
     "COMPE": "107",
@@ -761,23 +877,27 @@
     "ShortName": "BANCO BOCOM BBM S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancobbm.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992325-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992327-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596752-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596754-03:00"
   },
   {
     "COMPE": "108",
     "ISPB": "01800019",
     "Document": null,
-    "LongName": "\"PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO                          \"",
+    "LongName": "PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
     "ShortName": "PORTOCRED S.A. - CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-11-03",
-    "DateRegistered": "2021-04-28T02:10:59.8991973-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991975-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596384-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596386-03:00"
   },
   {
     "COMPE": "111",
@@ -787,10 +907,12 @@
     "ShortName": "OLIVEIRA TRUST DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-03-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992589-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899259-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597177-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597179-03:00"
   },
   {
     "COMPE": "113",
@@ -800,10 +922,12 @@
     "ShortName": "MAGLIANO S.A. CCVM",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-11-28",
-    "DateRegistered": "2021-04-28T02:10:59.8992769-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992771-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597364-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597365-03:00"
   },
   {
     "COMPE": "114",
@@ -813,10 +937,12 @@
     "ShortName": "CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-10-27",
-    "DateRegistered": "2021-04-28T02:10:59.899212-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992122-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596537-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596539-03:00"
   },
   {
     "COMPE": "117",
@@ -826,10 +952,12 @@
     "ShortName": "ADVANCED CC LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2011-10-03",
-    "DateRegistered": "2021-04-28T02:10:59.8992902-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992903-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597558-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597561-03:00"
   },
   {
     "COMPE": "119",
@@ -839,10 +967,12 @@
     "ShortName": "BCO WESTERN UNION",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": null,
     "Url": "https://www.bancowesternunion.com.br",
     "DateOperationStarted": "2011-10-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992307-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992309-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159673-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596732-03:00"
   },
   {
     "COMPE": "120",
@@ -852,10 +982,12 @@
     "ShortName": "BCO RODOBENS S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.rodobens.com.br",
     "DateOperationStarted": "2012-02-06",
-    "DateRegistered": "2021-04-28T02:10:59.8992545-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992547-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597132-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597134-03:00"
   },
   {
     "COMPE": "121",
@@ -865,10 +997,12 @@
     "ShortName": "BANCO AGIBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": "DRCT",
     "Url": "https://www.agibank.com.br",
     "DateOperationStarted": "2012-04-04",
-    "DateRegistered": "2021-04-28T02:10:59.8992234-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992235-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596654-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596655-03:00"
   },
   {
     "COMPE": "122",
@@ -878,10 +1012,12 @@
     "ShortName": "BCO BRADESCO BERJ S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://sim",
     "DateOperationStarted": "2011-11-08",
-    "DateRegistered": "2021-04-28T02:10:59.8992528-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899253-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597113-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597115-03:00"
   },
   {
     "COMPE": "124",
@@ -891,23 +1027,27 @@
     "ShortName": "BCO WOORI BANK DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.wooribank.com.br",
     "DateOperationStarted": "2012-08-09",
-    "DateRegistered": "2021-04-28T02:10:59.8992332-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992334-03:00"
+    "DatePixStarted": "2021-04-27 09:00:00",
+    "DateRegistered": "2021-05-05T08:36:20.159676-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596762-03:00"
   },
   {
     "COMPE": "125",
     "ISPB": "45246410",
-    "Document": "45.246.410/0001-55",
+    "Document": null,
     "LongName": "Brasil Plural S.A. - Banco Múltiplo",
-    "ShortName": "PLURAL S.A. BANCO MULTIPLO",
+    "ShortName": "BANCO GENIAL",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": "https://www.brasilplural.com",
     "DateOperationStarted": "2012-11-19",
-    "DateRegistered": "2021-04-28T02:10:59.8992635-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992637-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597226-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597228-03:00"
   },
   {
     "COMPE": "126",
@@ -917,10 +1057,12 @@
     "ShortName": "BR PARTNERS BI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2013-01-04",
-    "DateRegistered": "2021-04-28T02:10:59.8992288-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899229-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159671-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596712-03:00"
   },
   {
     "COMPE": "127",
@@ -930,10 +1072,12 @@
     "ShortName": "CODEPE CVC S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2012-11-09",
-    "DateRegistered": "2021-04-28T02:10:59.8992212-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992214-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596631-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596633-03:00"
   },
   {
     "COMPE": "128",
@@ -943,10 +1087,12 @@
     "ShortName": "MS BANK S.A. BCO DE CÂMBIO",
     "Network": "RSFN",
     "Type": "Banco de Câmbio",
+    "PixType": null,
     "Url": "https://www.msbank.com.br",
     "DateOperationStarted": "2015-04-27",
-    "DateRegistered": "2021-04-28T02:10:59.8992386-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992388-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596815-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596817-03:00"
   },
   {
     "COMPE": "129",
@@ -956,23 +1102,27 @@
     "ShortName": "UBS BRASIL BI S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": "https://www.ubs.com",
     "DateOperationStarted": "2014-03-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992383-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992385-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596812-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596813-03:00"
   },
   {
     "COMPE": "130",
     "ISPB": "09313766",
-    "Document": "09.313.766/0001-09",
-    "LongName": "\"CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO               \"",
-    "ShortName": "CARUANA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "Document": null,
+    "LongName": "CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "CARUANA SCFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2013-08-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992204-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992206-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596624-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596626-03:00"
   },
   {
     "COMPE": "131",
@@ -982,10 +1132,12 @@
     "ShortName": "TULLETT PREBON BRASIL CVC LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2013-07-15",
-    "DateRegistered": "2021-04-28T02:10:59.8992773-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992775-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597367-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597369-03:00"
   },
   {
     "COMPE": "132",
@@ -995,10 +1147,12 @@
     "ShortName": "ICBC DO BRASIL BM S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.icbc.com.cn",
     "DateOperationStarted": "2013-09-26",
-    "DateRegistered": "2021-04-28T02:10:59.8992365-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992367-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596793-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596795-03:00"
   },
   {
     "COMPE": "133",
@@ -1008,10 +1162,12 @@
     "ShortName": "CRESOL CONFEDERAÇÃO",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2016-05-02",
-    "DateRegistered": "2021-04-28T02:10:59.8992226-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992228-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596646-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596648-03:00"
   },
   {
     "COMPE": "134",
@@ -1021,23 +1177,27 @@
     "ShortName": "BGC LIQUIDEZ DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2014-07-28",
-    "DateRegistered": "2021-04-28T02:10:59.8992561-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992562-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597147-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597149-03:00"
   },
   {
     "COMPE": "136",
     "ISPB": "00315557",
-    "Document": "00.315.557/0001-11",
+    "Document": null,
     "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI",
-    "ShortName": "CONFEDERACAO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA - UNICRED DO  BRASIL",
+    "ShortName": "CONF NAC COOP CENTRAIS UNICRED",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2014-07-28",
-    "DateRegistered": "2021-04-28T02:10:59.8991903-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991905-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1594351-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1594419-03:00"
   },
   {
     "COMPE": "138",
@@ -1047,10 +1207,12 @@
     "ShortName": "GET MONEY CC LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2014-07-14",
-    "DateRegistered": "2021-04-28T02:10:59.8992241-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992243-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596661-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596663-03:00"
   },
   {
     "COMPE": "139",
@@ -1060,10 +1222,12 @@
     "ShortName": "INTESA SANPAOLO BRASIL S.A. BM",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.intesasanpaolobrasil.com.br",
     "DateOperationStarted": "2015-05-08",
-    "DateRegistered": "2021-04-28T02:10:59.8992671-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992673-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597263-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597265-03:00"
   },
   {
     "COMPE": "140",
@@ -1073,10 +1237,12 @@
     "ShortName": "EASYNVEST - TÍTULO CV SA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2015-05-26",
-    "DateRegistered": "2021-04-28T02:10:59.8992794-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992796-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597389-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597391-03:00"
   },
   {
     "COMPE": "142",
@@ -1086,10 +1252,12 @@
     "ShortName": "BROKER BRASIL CC LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2015-06-23",
-    "DateRegistered": "2021-04-28T02:10:59.8992346-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992348-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596775-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596777-03:00"
   },
   {
     "COMPE": "143",
@@ -1099,10 +1267,12 @@
     "ShortName": "TREVISO CC S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2015-08-24",
-    "DateRegistered": "2021-04-28T02:10:59.899201-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992012-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596421-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596423-03:00"
   },
   {
     "COMPE": "144",
@@ -1112,10 +1282,12 @@
     "ShortName": "BEXS BCO DE CAMBIO S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": "https://www.bexs.com.br",
     "DateOperationStarted": "2016-05-23",
-    "DateRegistered": "2021-04-28T02:10:59.8992281-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992283-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596703-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596705-03:00"
   },
   {
     "COMPE": "145",
@@ -1125,10 +1297,12 @@
     "ShortName": "LEVYCAM CCV LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2015-06-16",
-    "DateRegistered": "2021-04-28T02:10:59.899265-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992651-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597241-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597243-03:00"
   },
   {
     "COMPE": "146",
@@ -1138,10 +1312,12 @@
     "ShortName": "GUITTA CC LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2015-05-20",
-    "DateRegistered": "2021-04-28T02:10:59.899242-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992422-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597001-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597003-03:00"
   },
   {
     "COMPE": "149",
@@ -1151,10 +1327,12 @@
     "ShortName": "FACTA S.A. CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2015-07-08",
-    "DateRegistered": "2021-04-28T02:10:59.8992336-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992338-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596764-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596766-03:00"
   },
   {
     "COMPE": "157",
@@ -1164,23 +1342,27 @@
     "ShortName": "ICAP DO BRASIL CTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2016-02-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992193-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992195-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596612-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596614-03:00"
   },
   {
     "COMPE": "159",
     "ISPB": "05442029",
-    "Document": "05.442.029/0001-47",
+    "Document": null,
     "LongName": "Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor",
-    "ShortName": "CASA DO CREDITO S/A - SOCIEDADE DE CREDITO AO MICROEMPREENDEDOR",
+    "ShortName": "CASA CREDITO S.A. SCM",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2017-09-04",
-    "DateRegistered": "2021-04-28T02:10:59.8992105-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992107-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596522-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596524-03:00"
   },
   {
     "COMPE": "163",
@@ -1190,23 +1372,12 @@
     "ShortName": "COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2016-08-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992413-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992415-03:00"
-  },
-  {
-    "COMPE": "169",
-    "ISPB": "71371686",
-    "Document": "71.371.686/0001-75",
-    "LongName": "Banco Olé Bonsucesso Consignado S.A.",
-    "ShortName": "BANCO OLE  CONSIGNADO S.A.",
-    "Network": "RSFN",
-    "Type": "Banco Múltiplo",
-    "Url": "https://www.oleconsignado.com.br",
-    "DateOperationStarted": "2016-11-16",
-    "DateRegistered": "2021-04-28T02:10:59.8992834-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992835-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596994-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596996-03:00"
   },
   {
     "COMPE": "173",
@@ -1216,23 +1387,27 @@
     "ShortName": "BRL TRUST DTVM SA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2016-11-28",
-    "DateRegistered": "2021-04-28T02:10:59.89923-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992301-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596722-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596724-03:00"
   },
   {
     "COMPE": "174",
     "ISPB": "43180355",
-    "Document": "43.180.355/0001-12",
-    "LongName": "\"PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO                             \"",
-    "ShortName": "PEFISA SA CREDITO FINANCIAMENTO E INVESTIMENTO",
+    "Document": null,
+    "LongName": "PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PEFISA S.A. - CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2017-11-21",
-    "DateRegistered": "2021-04-28T02:10:59.8992628-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899263-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597218-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159722-03:00"
   },
   {
     "COMPE": "177",
@@ -1242,23 +1417,27 @@
     "ShortName": "GUIDE",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-05-08",
-    "DateRegistered": "2021-04-28T02:10:59.8992819-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992821-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597415-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597417-03:00"
   },
   {
     "COMPE": "180",
     "ISPB": "02685483",
     "Document": null,
-    "LongName": "\"CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA      \"",
+    "LongName": "CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA",
     "ShortName": "CM CAPITAL MARKETS CCTVM LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-01-20",
-    "DateRegistered": "2021-04-28T02:10:59.8991998-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159641-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596412-03:00"
   },
   {
     "COMPE": "183",
@@ -1268,10 +1447,12 @@
     "ShortName": "SOCRED SA - SCMEPP",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-06-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992197-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992199-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596616-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596618-03:00"
   },
   {
     "COMPE": "184",
@@ -1281,36 +1462,42 @@
     "ShortName": "BCO ITAÚ BBA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.itaubba.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992354-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992356-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596782-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596784-03:00"
   },
   {
     "COMPE": "188",
     "ISPB": "33775974",
     "Document": null,
-    "LongName": "\"ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES                 \"",
+    "LongName": "ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES",
     "ShortName": "ATIVA S.A. INVESTIMENTOS CCTVM",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-07-28",
-    "DateRegistered": "2021-04-28T02:10:59.8992556-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992558-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597143-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597145-03:00"
   },
   {
     "COMPE": "189",
     "ISPB": "07512441",
-    "Document": "07.512.441/0001-11",
-    "LongName": "\"HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS                        \"",
-    "ShortName": "HS FINANCEIRA S/A - CREDITO, FINANCIAMENTO E INVESTIMENTOS",
+    "Document": null,
+    "LongName": "HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS",
+    "ShortName": "HS FINANCEIRA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-06-05",
-    "DateRegistered": "2021-04-28T02:10:59.8992142-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992144-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596559-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596561-03:00"
   },
   {
     "COMPE": "190",
@@ -1320,10 +1507,12 @@
     "ShortName": "SERVICOOP",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-10-16",
-    "DateRegistered": "2021-04-28T02:10:59.899205-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992052-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596463-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596464-03:00"
   },
   {
     "COMPE": "191",
@@ -1333,10 +1522,12 @@
     "ShortName": "NOVA FUTURA CTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-06-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992061-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992062-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596473-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596475-03:00"
   },
   {
     "COMPE": "194",
@@ -1346,10 +1537,12 @@
     "ShortName": "PARMETAL DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-10-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992395-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992397-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596822-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596824-03:00"
   },
   {
     "COMPE": "196",
@@ -1359,23 +1552,27 @@
     "ShortName": "FAIR CC S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-09-11",
-    "DateRegistered": "2021-04-28T02:10:59.8992509-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992511-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597095-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597097-03:00"
   },
   {
     "COMPE": "197",
     "ISPB": "16501555",
-    "Document": "16.501.555/0001-57",
+    "Document": null,
     "LongName": "Stone Pagamentos S.A.",
-    "ShortName": "STONE PAGAMENTOS S.A. X",
+    "ShortName": "STONE PAGAMENTOS S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2017-10-18",
-    "DateRegistered": "2021-04-28T02:10:59.8992339-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992341-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596768-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596769-03:00"
   },
   {
     "COMPE": "208",
@@ -1385,10 +1582,12 @@
     "ShortName": "BANCO BTG PACTUAL S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.btgpactual.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992472-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992474-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597056-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597058-03:00"
   },
   {
     "COMPE": "212",
@@ -1398,10 +1597,12 @@
     "ShortName": "BANCO ORIGINAL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.original.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992912-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992914-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597574-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597576-03:00"
   },
   {
     "COMPE": "213",
@@ -1411,10 +1612,12 @@
     "ShortName": "BANCO ARBI S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": "DRCT",
     "Url": "https://www.bancoarbi.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992667-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992669-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159726-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597261-03:00"
   },
   {
     "COMPE": "217",
@@ -1424,10 +1627,12 @@
     "ShortName": "BANCO JOHN DEERE S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.johndeere.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992895-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992896-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597547-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597549-03:00"
   },
   {
     "COMPE": "218",
@@ -1437,10 +1642,12 @@
     "ShortName": "BANCO BS2 S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bs2.com/banco/",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899283-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992832-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597455-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597458-03:00"
   },
   {
     "COMPE": "222",
@@ -1450,10 +1657,12 @@
     "ShortName": "BCO CRÉDIT AGRICOLE BR S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": "https://www.calyon.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992853-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992855-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597482-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597485-03:00"
   },
   {
     "COMPE": "224",
@@ -1463,10 +1672,12 @@
     "ShortName": "BANCO FIBRA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancofibra.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992686-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992687-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597279-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597281-03:00"
   },
   {
     "COMPE": "233",
@@ -1476,10 +1687,12 @@
     "ShortName": "BANCO CIFRA",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancocifra.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992816-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992818-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597411-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597413-03:00"
   },
   {
     "COMPE": "237",
@@ -1489,10 +1702,12 @@
     "ShortName": "BANCO BRADESCO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bradesco.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992721-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992723-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597316-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597318-03:00"
   },
   {
     "COMPE": "241",
@@ -1502,10 +1717,12 @@
     "ShortName": "BCO CLASSICO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://bancoclassico.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992483-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992485-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597068-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159707-03:00"
   },
   {
     "COMPE": "243",
@@ -1515,10 +1732,12 @@
     "ShortName": "BANCO MÁXIMA S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": null,
     "Url": "https://www.bancomaxima.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992568-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899257-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597155-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597157-03:00"
   },
   {
     "COMPE": "246",
@@ -1528,23 +1747,27 @@
     "ShortName": "BANCO ABC BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.abcbrasil.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992457-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992459-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597041-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597043-03:00"
   },
   {
     "COMPE": "249",
     "ISPB": "61182408",
-    "Document": "61.182.408/0001-16",
+    "Document": "000.611.824-08",
     "LongName": "Banco Investcred Unibanco S.A.",
-    "ShortName": "BANCO INVESTCRED UNIBANCO S/A",
+    "ShortName": "BANCO INVESTCRED UNIBANCO S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": null,
     "Url": "https://www.itau.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992751-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992752-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597345-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597347-03:00"
   },
   {
     "COMPE": "250",
@@ -1554,10 +1777,12 @@
     "ShortName": "\"BCV - BCO, CRÉDITO E VAREJO S.A.                            \"",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancobcv.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992653-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992655-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597245-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597247-03:00"
   },
   {
     "COMPE": "253",
@@ -1567,10 +1792,12 @@
     "ShortName": "BEXS CC S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2016-11-11",
-    "DateRegistered": "2021-04-28T02:10:59.899266-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992662-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597252-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597254-03:00"
   },
   {
     "COMPE": "254",
@@ -1580,10 +1807,12 @@
     "ShortName": "PARANA BCO S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": "https://www.paranabanco.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992318-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992319-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596741-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596743-03:00"
   },
   {
     "COMPE": "259",
@@ -1593,10 +1822,12 @@
     "ShortName": "MONEYCORP BCO DE CÂMBIO S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-01-27",
-    "DateRegistered": "2021-04-28T02:10:59.8992182-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992184-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596601-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596603-03:00"
   },
   {
     "COMPE": "260",
@@ -1606,10 +1837,12 @@
     "ShortName": "NU PAGAMENTOS S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2017-10-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992379-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992381-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596808-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159681-03:00"
   },
   {
     "COMPE": "265",
@@ -1619,10 +1852,12 @@
     "ShortName": "BCO FATOR S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.fator.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992549-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992551-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597136-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597138-03:00"
   },
   {
     "COMPE": "266",
@@ -1632,10 +1867,12 @@
     "ShortName": "BCO CEDULA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancocedula.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992524-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992526-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159711-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597112-03:00"
   },
   {
     "COMPE": "268",
@@ -1645,10 +1882,12 @@
     "ShortName": "BARI CIA HIPOTECÁRIA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2017-12-21",
-    "DateRegistered": "2021-04-28T02:10:59.8992321-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992323-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596745-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596746-03:00"
   },
   {
     "COMPE": "269",
@@ -1658,10 +1897,12 @@
     "ShortName": "BCO HSBC S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-02-07",
-    "DateRegistered": "2021-04-28T02:10:59.8992664-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992665-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597256-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597258-03:00"
   },
   {
     "COMPE": "270",
@@ -1671,23 +1912,27 @@
     "ShortName": "SAGITUR CC LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-08-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992762-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992764-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597356-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597358-03:00"
   },
   {
     "COMPE": "271",
     "ISPB": "27842177",
     "Document": null,
-    "LongName": "\"IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.                      \"",
+    "LongName": "IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
     "ShortName": "IB CCTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-02-26",
-    "DateRegistered": "2021-04-28T02:10:59.899245-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992452-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597033-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597035-03:00"
   },
   {
     "COMPE": "272",
@@ -1697,10 +1942,12 @@
     "ShortName": "AGK CC S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-11-21",
-    "DateRegistered": "2021-04-28T02:10:59.8991899-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991901-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1594179-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1594263-03:00"
   },
   {
     "COMPE": "273",
@@ -1710,23 +1957,27 @@
     "ShortName": "CCR DE SÃO MIGUEL DO OESTE",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2018-04-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992171-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992173-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159659-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596592-03:00"
   },
   {
     "COMPE": "274",
     "ISPB": "11581339",
-    "Document": "11.581.339/0001-45",
+    "Document": null,
     "LongName": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT",
-    "ShortName": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICRO E A EMPRESA DE PEQUENO PORTE LTDA",
+    "ShortName": "MONEY PLUS SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-09-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992259-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992261-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159668-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596682-03:00"
   },
   {
     "COMPE": "276",
@@ -1736,10 +1987,12 @@
     "ShortName": "BCO SENFF S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2018-06-12",
-    "DateRegistered": "2021-04-28T02:10:59.899227-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992271-03:00"
+    "DatePixStarted": "2021-04-16 09:00:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596692-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596694-03:00"
   },
   {
     "COMPE": "278",
@@ -1749,10 +2002,12 @@
     "ShortName": "GENIAL INVESTIMENTOS CVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-05-14",
-    "DateRegistered": "2021-04-28T02:10:59.8992446-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992448-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159703-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597032-03:00"
   },
   {
     "COMPE": "279",
@@ -1762,23 +2017,27 @@
     "ShortName": "CCR DE PRIMAVERA DO LESTE",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-06-05",
-    "DateRegistered": "2021-04-28T02:10:59.8992428-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899243-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159701-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597011-03:00"
   },
   {
     "COMPE": "280",
     "ISPB": "23862762",
-    "Document": "23.862.762/0001-00",
-    "LongName": "\"WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO                      \"",
-    "ShortName": "WILL FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "Document": null,
+    "LongName": "WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "WILL FINANCEIRA S.A.CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-05-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992417-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992419-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596997-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596999-03:00"
   },
   {
     "COMPE": "281",
@@ -1788,10 +2047,12 @@
     "ShortName": "CCR COOPAVEL",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-11-05",
-    "DateRegistered": "2021-04-28T02:10:59.8992856-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992858-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597488-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597491-03:00"
   },
   {
     "COMPE": "283",
@@ -1801,10 +2062,12 @@
     "ShortName": "RB INVESTIMENTOS DTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-07-05",
-    "DateRegistered": "2021-04-28T02:10:59.8992887-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992889-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597535-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597538-03:00"
   },
   {
     "COMPE": "285",
@@ -1814,10 +2077,12 @@
     "ShortName": "FRENTE CC LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-09-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992842-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992844-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597466-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597468-03:00"
   },
   {
     "COMPE": "286",
@@ -1827,10 +2092,12 @@
     "ShortName": "CCR DE OURO",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2018-09-17",
-    "DateRegistered": "2021-04-28T02:10:59.899216-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992162-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596579-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159658-03:00"
   },
   {
     "COMPE": "288",
@@ -1840,10 +2107,12 @@
     "ShortName": "CAROL DTVM LTDA.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-07-05",
-    "DateRegistered": "2021-04-28T02:10:59.8992801-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992803-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597397-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597399-03:00"
   },
   {
     "COMPE": "289",
@@ -1853,10 +2122,12 @@
     "ShortName": "DECYSEO CC LTDA.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-03-14",
-    "DateRegistered": "2021-04-28T02:10:59.8992916-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992917-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597579-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159758-03:00"
   },
   {
     "COMPE": "290",
@@ -1866,10 +2137,12 @@
     "ShortName": "PAGSEGURO INTERNET S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2018-11-07",
-    "DateRegistered": "2021-04-28T02:10:59.8992179-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899218-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596597-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596599-03:00"
   },
   {
     "COMPE": "292",
@@ -1879,10 +2152,12 @@
     "ShortName": "BS2 DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-10-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992461-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992463-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597045-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597047-03:00"
   },
   {
     "COMPE": "293",
@@ -1892,10 +2167,12 @@
     "ShortName": "LASTRO RDV DTVM LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-09-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992837-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992839-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597461-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597463-03:00"
   },
   {
     "COMPE": "296",
@@ -1905,10 +2182,12 @@
     "ShortName": "VISION S.A. CC",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-02-11",
-    "DateRegistered": "2021-04-28T02:10:59.8992054-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992055-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596466-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596468-03:00"
   },
   {
     "COMPE": "298",
@@ -1918,23 +2197,27 @@
     "ShortName": "VIPS CC LTDA.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-08-15",
-    "DateRegistered": "2021-04-28T02:10:59.8992369-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992371-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596797-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596799-03:00"
   },
   {
     "COMPE": "299",
     "ISPB": "04814563",
-    "Document": "04.814.563/0001-74",
+    "Document": null,
     "LongName": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
-    "ShortName": "BANCO SOROCRED S.A - BANCO MULTIPLO",
+    "ShortName": "BCO SOROCRED S.A. - BM",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-12-03",
-    "DateRegistered": "2021-04-28T02:10:59.8992079-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899208-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596492-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596494-03:00"
   },
   {
     "COMPE": "300",
@@ -1944,10 +2227,12 @@
     "ShortName": "BCO LA NACION ARGENTINA",
     "Network": "RSFN",
     "Type": "Banco Comercial Estrangeiro - Filial no país",
+    "PixType": null,
     "Url": "https://www.bna.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992517-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992519-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597102-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597104-03:00"
   },
   {
     "COMPE": "301",
@@ -1957,10 +2242,12 @@
     "ShortName": "BPP INSTITUIÇÃO DE PAGAMENTO S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2018-09-26",
-    "DateRegistered": "2021-04-28T02:10:59.8992296-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992298-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596718-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159672-03:00"
   },
   {
     "COMPE": "306",
@@ -1970,10 +2257,12 @@
     "ShortName": "PORTOPAR DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-02-06",
-    "DateRegistered": "2021-04-28T02:10:59.8992621-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992623-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597211-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597213-03:00"
   },
   {
     "COMPE": "307",
@@ -1983,10 +2272,12 @@
     "ShortName": "TERRA INVESTIMENTOS DTVM",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-10-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992046-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992048-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596459-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596461-03:00"
   },
   {
     "COMPE": "309",
@@ -1996,10 +2287,12 @@
     "ShortName": "CAMBIONET CC LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-11-21",
-    "DateRegistered": "2021-04-28T02:10:59.8992314-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992316-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596737-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596739-03:00"
   },
   {
     "COMPE": "310",
@@ -2009,10 +2302,12 @@
     "ShortName": "VORTX DTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2018-10-18",
-    "DateRegistered": "2021-04-28T02:10:59.8992406-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992408-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596986-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596988-03:00"
   },
   {
     "COMPE": "311",
@@ -2022,10 +2317,12 @@
     "ShortName": "DOURADA CORRETORA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-01-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992864-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992865-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.15975-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597502-03:00"
   },
   {
     "COMPE": "312",
@@ -2035,10 +2332,12 @@
     "ShortName": "HSCM SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-02-09",
-    "DateRegistered": "2021-04-28T02:10:59.8992156-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992158-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596575-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596577-03:00"
   },
   {
     "COMPE": "313",
@@ -2048,10 +2347,12 @@
     "ShortName": "AMAZÔNIA CC LTDA.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-08-28",
-    "DateRegistered": "2021-04-28T02:10:59.8992343-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992344-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596771-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596773-03:00"
   },
   {
     "COMPE": "315",
@@ -2061,10 +2362,12 @@
     "ShortName": "PI DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-01-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992035-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992037-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596448-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159645-03:00"
   },
   {
     "COMPE": "318",
@@ -2074,10 +2377,12 @@
     "ShortName": "BANCO BMG S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancobmg.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992754-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992756-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597348-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159735-03:00"
   },
   {
     "COMPE": "319",
@@ -2087,10 +2392,12 @@
     "ShortName": "OM DTVM LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-03-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992255-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992257-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596677-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596679-03:00"
   },
   {
     "COMPE": "320",
@@ -2100,10 +2407,12 @@
     "ShortName": "CHINA CONSTRUCTION BANK (BRASIL) BANCO MÚLTIPLO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.br.ccb.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992138-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899214-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596555-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596557-03:00"
   },
   {
     "COMPE": "321",
@@ -2113,36 +2422,42 @@
     "ShortName": "CREFAZ SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-06-11",
-    "DateRegistered": "2021-04-28T02:10:59.8992376-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992378-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596804-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596806-03:00"
   },
   {
     "COMPE": "322",
     "ISPB": "01073966",
-    "Document": "01.073.966/0001-11",
+    "Document": null,
     "LongName": "Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi/Crediluz",
-    "ShortName": "COOPERATIVA DE CREDITO RURAL DE ABELARDO LUZ - SULCREDI/CREDILUZ",
+    "ShortName": "CCR DE ABELARDO LUZ",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-06-14",
-    "DateRegistered": "2021-04-28T02:10:59.8991948-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991949-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596356-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596358-03:00"
   },
   {
     "COMPE": "323",
     "ISPB": "10573521",
-    "Document": "10.573.521/0005-15",
+    "Document": null,
     "LongName": "MERCADOPAGO.COM REPRESENTACOES LTDA.",
-    "ShortName": "MERCADO.COM REPRESENTAÇÕES LTDA",
+    "ShortName": "MERCADO PAGO",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-06-24",
-    "DateRegistered": "2021-04-28T02:10:59.899223-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992232-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159665-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596652-03:00"
   },
   {
     "COMPE": "324",
@@ -2152,10 +2467,12 @@
     "ShortName": "CARTOS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-09-16",
-    "DateRegistered": "2021-04-28T02:10:59.8992402-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992404-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159683-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596832-03:00"
   },
   {
     "COMPE": "325",
@@ -2165,23 +2482,27 @@
     "ShortName": "ÓRAMA DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-05-31",
-    "DateRegistered": "2021-04-28T02:10:59.8992292-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992294-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596714-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596716-03:00"
   },
   {
     "COMPE": "326",
     "ISPB": "03311443",
     "Document": null,
-    "LongName": "\"PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.                             \"",
+    "LongName": "PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
     "ShortName": "PARATI - CFI S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-01-07",
-    "DateRegistered": "2021-04-28T02:10:59.8992028-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899203-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159644-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596442-03:00"
   },
   {
     "COMPE": "328",
@@ -2191,23 +2512,27 @@
     "ShortName": "CECM FABRIC CALÇADOS SAPIRANGA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-03-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992124-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992126-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596541-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596543-03:00"
   },
   {
     "COMPE": "329",
     "ISPB": "32402502",
-    "Document": "32.402.502/0001-35",
+    "Document": null,
     "LongName": "QI Sociedade de Crédito Direto S.A.",
-    "ShortName": "QI SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "QI SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-04-30",
-    "DateRegistered": "2021-04-28T02:10:59.8992506-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992508-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597091-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597093-03:00"
   },
   {
     "COMPE": "330",
@@ -2217,10 +2542,12 @@
     "ShortName": "BANCO BARI S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-07-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991922-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991924-03:00"
+    "DatePixStarted": "2021-02-25 09:00:00",
+    "DateRegistered": "2021-05-05T08:36:20.1595231-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1595298-03:00"
   },
   {
     "COMPE": "331",
@@ -2230,10 +2557,12 @@
     "ShortName": "FRAM CAPITAL DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-09-27",
-    "DateRegistered": "2021-04-28T02:10:59.8992303-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992305-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596726-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596728-03:00"
   },
   {
     "COMPE": "332",
@@ -2243,10 +2572,12 @@
     "ShortName": "ACESSO SOLUÇÕES DE PAGAMENTO S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-08-16",
-    "DateRegistered": "2021-04-28T02:10:59.8992285-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992287-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596707-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596708-03:00"
   },
   {
     "COMPE": "335",
@@ -2256,10 +2587,12 @@
     "ShortName": "BANCO DIGIO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.digio.com.br",
     "DateOperationStarted": "2019-11-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992431-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992433-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597013-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597015-03:00"
   },
   {
     "COMPE": "336",
@@ -2269,36 +2602,42 @@
     "ShortName": "BANCO C6 S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.c6bank.com",
     "DateOperationStarted": "2019-01-31",
-    "DateRegistered": "2021-04-28T02:10:59.899249-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992492-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597077-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597078-03:00"
   },
   {
     "COMPE": "340",
     "ISPB": "09554480",
-    "Document": "09.554.480/0001-07",
+    "Document": null,
     "LongName": "Super Pagamentos e Administração de Meios Eletrônicos S.A.",
-    "ShortName": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS LTDA",
+    "ShortName": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-09-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992219-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992221-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596639-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596641-03:00"
   },
   {
     "COMPE": "341",
     "ISPB": "60701190",
-    "Document": "60.701.190/0001-04",
+    "Document": "000.607.011-90",
     "LongName": "ITAÚ UNIBANCO S.A.",
-    "ShortName": "BANCO ITAÚ UNIBANCO S.A.",
+    "ShortName": "ITAÚ UNIBANCO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.itau.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992718-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899272-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597312-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597314-03:00"
   },
   {
     "COMPE": "342",
@@ -2308,10 +2647,12 @@
     "ShortName": "CREDITAS SCD",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-07-26",
-    "DateRegistered": "2021-04-28T02:10:59.8992514-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992515-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597098-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.15971-03:00"
   },
   {
     "COMPE": "343",
@@ -2321,10 +2662,12 @@
     "ShortName": "FFA SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-11-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992424-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992426-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597006-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597008-03:00"
   },
   {
     "COMPE": "348",
@@ -2334,23 +2677,27 @@
     "ShortName": "BANCO XP S.A",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-11-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992535-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992537-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597121-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597123-03:00"
   },
   {
     "COMPE": "349",
     "ISPB": "27214112",
     "Document": null,
-    "LongName": "\"AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO                                  \"",
+    "LongName": "AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
     "ShortName": "AL5 S.A. CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-10-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992436-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992438-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597017-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597019-03:00"
   },
   {
     "COMPE": "350",
@@ -2360,10 +2707,12 @@
     "ShortName": "CREHNOR LARANJEIRAS",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-05-27",
-    "DateRegistered": "2021-04-28T02:10:59.8991955-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991957-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596364-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596366-03:00"
   },
   {
     "COMPE": "352",
@@ -2373,10 +2722,12 @@
     "ShortName": "TORO CTVM LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-11-29",
-    "DateRegistered": "2021-04-28T02:10:59.8992468-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899247-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597052-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597054-03:00"
   },
   {
     "COMPE": "354",
@@ -2386,10 +2737,12 @@
     "ShortName": "NECTON INVESTIMENTOS S.A CVM",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2019-10-30",
-    "DateRegistered": "2021-04-28T02:10:59.8992657-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992658-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597249-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159725-03:00"
   },
   {
     "COMPE": "355",
@@ -2399,36 +2752,42 @@
     "ShortName": "ÓTIMO SCD S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-10-21",
-    "DateRegistered": "2021-04-28T02:10:59.8992578-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899258-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597166-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597168-03:00"
   },
   {
     "COMPE": "358",
     "ISPB": "09464032",
-    "Document": "09.464.032/0001-12",
-    "LongName": "\"MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO                             \"",
-    "ShortName": "MIDWAY S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "Document": null,
+    "LongName": "MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "MIDWAY S.A. - SCFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-02-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992208-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899221-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596628-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159663-03:00"
   },
   {
     "COMPE": "359",
     "ISPB": "05351887",
-    "Document": "05.351.887/0001-86",
-    "LongName": "\"ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A                                  \"",
-    "ShortName": "ZEMA CRÉDITO FINANCIAMENTO EINVESTIMENTO S/A",
+    "Document": null,
+    "LongName": "ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A",
+    "ShortName": "ZEMA CFI S/A",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-06-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992101-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992103-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596518-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159652-03:00"
   },
   {
     "COMPE": "360",
@@ -2438,10 +2797,12 @@
     "ShortName": "TRINUS CAPITAL DTVM",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-07-16",
-    "DateRegistered": "2021-04-28T02:10:59.8991984-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991986-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596395-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596397-03:00"
   },
   {
     "COMPE": "362",
@@ -2451,10 +2812,12 @@
     "ShortName": "CIELO S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-07-17",
-    "DateRegistered": "2021-04-28T02:10:59.8991944-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991946-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596281-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596353-03:00"
   },
   {
     "COMPE": "363",
@@ -2464,23 +2827,27 @@
     "ShortName": "SINGULARE CTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-06-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992805-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992807-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597401-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597403-03:00"
   },
   {
     "COMPE": "364",
     "ISPB": "09089356",
-    "Document": "09.089.356/0001-18",
+    "Document": null,
     "LongName": "GERENCIANET S.A.",
-    "ShortName": "GERENCIANET S/A",
+    "ShortName": "GERENCIANET",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-03-16",
-    "DateRegistered": "2021-04-28T02:10:59.8992189-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992191-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596608-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159661-03:00"
   },
   {
     "COMPE": "365",
@@ -2490,10 +2857,12 @@
     "ShortName": "SIMPAUL",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-03-17",
-    "DateRegistered": "2021-04-28T02:10:59.8992823-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992825-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597444-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597446-03:00"
   },
   {
     "COMPE": "366",
@@ -2503,10 +2872,12 @@
     "ShortName": "BCO SOCIETE GENERALE BRASIL",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.sgbrasil.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992765-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992767-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159736-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597362-03:00"
   },
   {
     "COMPE": "367",
@@ -2516,10 +2887,12 @@
     "ShortName": "VITREO DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-03-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992582-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992583-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597169-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597171-03:00"
   },
   {
     "COMPE": "368",
@@ -2529,10 +2902,12 @@
     "ShortName": "BANCO CSF S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.carrefoursolucoes.com.br",
     "DateOperationStarted": "2020-05-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992175-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992177-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596593-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596595-03:00"
   },
   {
     "COMPE": "370",
@@ -2542,10 +2917,12 @@
     "ShortName": "BCO MIZUHO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.mizuhobank.com/brazil/pt/",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992747-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992749-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597341-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597343-03:00"
   },
   {
     "COMPE": "371",
@@ -2555,10 +2932,12 @@
     "ShortName": "WARREN CVMC LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-05-13",
-    "DateRegistered": "2021-04-28T02:10:59.8992909-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899291-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597569-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597572-03:00"
   },
   {
     "COMPE": "373",
@@ -2568,36 +2947,42 @@
     "ShortName": "UP.P SEP S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-03-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992585-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992587-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597173-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597175-03:00"
   },
   {
     "COMPE": "374",
     "ISPB": "27351731",
-    "Document": "27.351.731/0001-38",
-    "LongName": "\"REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.                              \"",
-    "ShortName": "REALIZE, CRÉDITO FINANCIAMENTO E INVESTIMENTO, S.A.",
+    "Document": null,
+    "LongName": "REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "REALIZE CFI S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-09-16",
-    "DateRegistered": "2021-04-28T02:10:59.8992443-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992445-03:00"
+    "DatePixStarted": "2021-04-14 12:00:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597025-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597027-03:00"
   },
   {
     "COMPE": "376",
     "ISPB": "33172537",
-    "Document": "33.172.537/0001-98",
+    "Document": null,
     "LongName": "Banco J. P. Morgan S.A.",
-    "ShortName": "BANCO J.P. MORGAN S.A.",
+    "ShortName": "BCO J.P. MORGAN S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": "https://www.jpmorgan.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992532-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992533-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597117-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597119-03:00"
   },
   {
     "COMPE": "377",
@@ -2607,23 +2992,27 @@
     "ShortName": "BMS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-10-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992372-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992374-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596801-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596803-03:00"
   },
   {
     "COMPE": "378",
     "ISPB": "01852137",
-    "Document": "01.852.137/0001-37",
+    "Document": null,
     "LongName": "BBC LEASING S.A. - ARRENDAMENTO MERCANTIL",
-    "ShortName": "JSL ARRENDAMENTO MERCANTIL S.A.",
+    "ShortName": "BBC LEASING",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-09-11",
-    "DateRegistered": "2021-04-28T02:10:59.8991977-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991979-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596388-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159639-03:00"
   },
   {
     "COMPE": "379",
@@ -2633,23 +3022,27 @@
     "ShortName": "CECM COOPERFORTE",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-09-01",
-    "DateRegistered": "2021-04-28T02:10:59.8991966-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991967-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596377-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596378-03:00"
   },
   {
     "COMPE": "380",
     "ISPB": "22896431",
-    "Document": "22.896.431/0001-10",
+    "Document": "000.228.964-31",
     "LongName": "PICPAY SERVICOS S.A.",
-    "ShortName": "PICPAY SERVIÇOS S.A.",
+    "ShortName": "PICPAY",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.picpay.com.br",
     "DateOperationStarted": "2020-10-15",
-    "DateRegistered": "2021-04-28T02:10:59.899241-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992411-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159699-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596992-03:00"
   },
   {
     "COMPE": "381",
@@ -2659,10 +3052,12 @@
     "ShortName": "BCO MERCEDES-BENZ S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancomercedesbenz.com.br",
     "DateOperationStarted": "2020-05-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992725-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992727-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159732-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597322-03:00"
   },
   {
     "COMPE": "382",
@@ -2672,23 +3067,27 @@
     "ShortName": "FIDUCIA SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-07-31",
-    "DateRegistered": "2021-04-28T02:10:59.8992064-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992066-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596477-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596479-03:00"
   },
   {
     "COMPE": "383",
     "ISPB": "21018182",
-    "Document": "21.018.182/0001-06",
+    "Document": null,
     "LongName": "BOLETOBANCÁRIO.COM TECNOLOGIA DE PAGAMENTOS LTDA.",
-    "ShortName": "BOLETOBANCARIO.COM TECNOLOGIA DE PAGAMENTOS LTDA",
+    "ShortName": "JUNO",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-07-09",
-    "DateRegistered": "2021-04-28T02:10:59.8992399-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992401-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596826-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596828-03:00"
   },
   {
     "COMPE": "384",
@@ -2698,23 +3097,27 @@
     "ShortName": "GLOBAL SCM LTDA",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-10-13",
-    "DateRegistered": "2021-04-28T02:10:59.8992248-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899225-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596669-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159667-03:00"
   },
   {
     "COMPE": "386",
     "ISPB": "30680829",
     "Document": null,
-    "LongName": "\"NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento         \"",
+    "LongName": "NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento",
     "ShortName": "NU FINANCEIRA S.A. CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-01-12",
-    "DateRegistered": "2021-04-28T02:10:59.8992476-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992478-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159706-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597062-03:00"
   },
   {
     "COMPE": "387",
@@ -2724,10 +3127,12 @@
     "ShortName": "BCO TOYOTA DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancotoyota.com.br",
     "DateOperationStarted": "2020-07-21",
-    "DateRegistered": "2021-04-28T02:10:59.8992024-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992026-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596437-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596438-03:00"
   },
   {
     "COMPE": "389",
@@ -2737,10 +3142,12 @@
     "ShortName": "BANCO MERCANTIL DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.mercantil.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899235-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992351-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596778-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159678-03:00"
   },
   {
     "COMPE": "390",
@@ -2750,10 +3157,12 @@
     "ShortName": "BCO GM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-07-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992696-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992698-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159729-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597292-03:00"
   },
   {
     "COMPE": "391",
@@ -2763,10 +3172,12 @@
     "ShortName": "CCR DE IBIAM",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-07-10",
-    "DateRegistered": "2021-04-28T02:10:59.8992168-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992169-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596586-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596588-03:00"
   },
   {
     "COMPE": "393",
@@ -2776,10 +3187,12 @@
     "ShortName": "BCO VOLKSWAGEN S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancovw.com.br",
     "DateOperationStarted": "2020-08-17",
-    "DateRegistered": "2021-04-28T02:10:59.8992689-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992691-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597283-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597284-03:00"
   },
   {
     "COMPE": "394",
@@ -2789,10 +3202,12 @@
     "ShortName": "BCO BRADESCO FINANC. S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bradescofinanciamentos.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992131-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992133-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596548-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159655-03:00"
   },
   {
     "COMPE": "395",
@@ -2802,23 +3217,27 @@
     "ShortName": "F D GOLD DTVM LTDA",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-12-01",
-    "DateRegistered": "2021-04-28T02:10:59.8992186-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992188-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596604-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596606-03:00"
   },
   {
     "COMPE": "396",
     "ISPB": "13884775",
-    "Document": "13.884.775/0001-19",
+    "Document": null,
     "LongName": "HUB PAGAMENTOS S.A",
-    "ShortName": "HUB PAGAMENTOS S.A.",
+    "ShortName": "HUB PAGAMENTOS",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-08-13",
-    "DateRegistered": "2021-04-28T02:10:59.899231-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992312-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596733-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596735-03:00"
   },
   {
     "COMPE": "397",
@@ -2828,10 +3247,12 @@
     "ShortName": "LISTO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-10-15",
-    "DateRegistered": "2021-04-28T02:10:59.8992571-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992573-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597159-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159716-03:00"
   },
   {
     "COMPE": "398",
@@ -2841,10 +3262,12 @@
     "ShortName": "IDEAL CTVM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-01-11",
-    "DateRegistered": "2021-04-28T02:10:59.8992487-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992489-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597072-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597074-03:00"
   },
   {
     "COMPE": "399",
@@ -2854,23 +3277,42 @@
     "ShortName": "KIRTON BANK",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://sim",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899197-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991971-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159638-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596382-03:00"
   },
   {
     "COMPE": "400",
     "ISPB": "05491616",
     "Document": null,
-    "LongName": "\"COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE         \"",
+    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE",
     "ShortName": "CC POUP SER FIN CO",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-02-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992112-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992114-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159653-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596532-03:00"
+  },
+  {
+    "COMPE": "401",
+    "ISPB": "15111975",
+    "Document": "15.111.975/0001-64",
+    "LongName": "IUGU SERVICOS NA INTERNET S/A",
+    "ShortName": "IUGU SERVICOS NA INTERNET S/A",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Url": null,
+    "DateOperationStarted": "2021-05-06",
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596748-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159675-03:00"
   },
   {
     "COMPE": "402",
@@ -2880,10 +3322,12 @@
     "ShortName": "COBUCCIO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-12-03",
-    "DateRegistered": "2021-04-28T02:10:59.8992596-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992598-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597185-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597186-03:00"
   },
   {
     "COMPE": "403",
@@ -2893,23 +3337,27 @@
     "ShortName": "CORA SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "IDRT",
     "Url": null,
     "DateOperationStarted": "2020-09-29",
-    "DateRegistered": "2021-04-28T02:10:59.899261-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992612-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.15972-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597202-03:00"
   },
   {
     "COMPE": "404",
     "ISPB": "37241230",
-    "Document": "37.241.230/0001-52",
+    "Document": null,
     "LongName": "SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "SUMUP SOCIEDADE DE CREDITO DIRETO S.A",
+    "ShortName": "SUMUP SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-10-16",
-    "DateRegistered": "2021-04-28T02:10:59.89926-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992602-03:00"
+    "DatePixStarted": "2021-04-19 09:00:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597189-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597191-03:00"
   },
   {
     "COMPE": "406",
@@ -2919,10 +3367,12 @@
     "ShortName": "ACCREDITO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2020-11-27",
-    "DateRegistered": "2021-04-28T02:10:59.8992607-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992609-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597196-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597198-03:00"
   },
   {
     "COMPE": "407",
@@ -2932,23 +3382,27 @@
     "ShortName": "ÍNDIGO INVESTIMENTOS DTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-02-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991907-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991909-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159468-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1594755-03:00"
   },
   {
     "COMPE": "408",
     "ISPB": "36586946",
     "Document": null,
-    "LongName": "BÔNUSCRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "BÔNUSCRED SCD S.A.",
+    "LongName": "BONUSPAGO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "BONUSPAGO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-10-14",
-    "DateRegistered": "2021-04-28T02:10:59.8992592-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992594-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597181-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597183-03:00"
   },
   {
     "COMPE": "410",
@@ -2958,23 +3412,27 @@
     "ShortName": "PLANNER SCM S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-02-17",
-    "DateRegistered": "2021-04-28T02:10:59.8992116-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992118-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596533-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596535-03:00"
   },
   {
     "COMPE": "411",
     "ISPB": "05192316",
     "Document": null,
-    "LongName": "\"Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos            \"",
+    "LongName": "Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos",
     "ShortName": "VIA CERTA FINANCIADORA S.A. - CFI",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-02-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992098-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.89921-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596513-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596515-03:00"
   },
   {
     "COMPE": "412",
@@ -2984,10 +3442,12 @@
     "ShortName": "BCO CAPITAL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancocapital.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992329-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899233-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596756-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596758-03:00"
   },
   {
     "COMPE": "414",
@@ -2997,10 +3457,12 @@
     "ShortName": "WORK SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-03-25",
-    "DateRegistered": "2021-04-28T02:10:59.8992604-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992605-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597193-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597194-03:00"
   },
   {
     "COMPE": "416",
@@ -3010,10 +3472,12 @@
     "ShortName": "LAMARA SCD S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-04-08",
-    "DateRegistered": "2021-04-28T02:10:59.899239-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992392-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596819-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596821-03:00"
   },
   {
     "COMPE": "419",
@@ -3023,10 +3487,12 @@
     "ShortName": "NUMBRS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-03-18",
-    "DateRegistered": "2021-04-28T02:10:59.8992614-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992616-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597204-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597206-03:00"
   },
   {
     "COMPE": "422",
@@ -3036,10 +3502,12 @@
     "ShortName": "BANCO SAFRA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.safra.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992678-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899268-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597272-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597274-03:00"
   },
   {
     "COMPE": "427",
@@ -3049,10 +3517,12 @@
     "ShortName": "CRED-UFES",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-04-26",
-    "DateRegistered": "2021-04-28T02:10:59.899244-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992441-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597021-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597023-03:00"
   },
   {
     "COMPE": "428",
@@ -3062,10 +3532,27 @@
     "ShortName": "CRED-SYSTEM SCD S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-04-20",
-    "DateRegistered": "2021-04-28T02:10:59.8992617-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992619-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597207-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597209-03:00"
+  },
+  {
+    "COMPE": "438",
+    "ISPB": "67030395",
+    "Document": null,
+    "LongName": "PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "PLANNER TRUSTEE DTVM LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-05-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597419-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597441-03:00"
   },
   {
     "COMPE": "456",
@@ -3075,10 +3562,12 @@
     "ShortName": "BCO MUFG BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.br.bk.mufg.jp",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899271-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992712-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597304-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597306-03:00"
   },
   {
     "COMPE": "464",
@@ -3088,10 +3577,12 @@
     "ShortName": "BCO SUMITOMO MITSUI BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.smbcgroup.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992714-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992715-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597308-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597309-03:00"
   },
   {
     "COMPE": "473",
@@ -3101,10 +3592,12 @@
     "ShortName": "BCO CAIXA GERAL BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bcgbrasil.com.br",
     "DateOperationStarted": "2009-03-31",
-    "DateRegistered": "2021-04-28T02:10:59.8992539-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899254-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597125-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597127-03:00"
   },
   {
     "COMPE": "477",
@@ -3114,10 +3607,12 @@
     "ShortName": "CITIBANK N.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial Estrangeiro - Filial no país",
+    "PixType": null,
     "Url": "https://www.citibank.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992521-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992523-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597106-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597108-03:00"
   },
   {
     "COMPE": "479",
@@ -3127,23 +3622,27 @@
     "ShortName": "BCO ITAUBANK S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": "https://www.itaubank.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992707-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992708-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597301-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597302-03:00"
   },
   {
     "COMPE": "487",
     "ISPB": "62331228",
-    "Document": "62.331.228/0001-11",
+    "Document": null,
     "LongName": "Deutsche Bank S.A. - Banco Alemão",
-    "ShortName": "DEUTSCHE BANK - BANCO ALEMÃO",
+    "ShortName": "DEUTSCHE BANK S.A.BCO ALEMAO",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": "https://www.deutsche-bank.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992812-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992814-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597408-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159741-03:00"
   },
   {
     "COMPE": "488",
@@ -3153,10 +3652,12 @@
     "ShortName": "JPMORGAN CHASE BANK",
     "Network": "RSFN",
     "Type": "Banco Comercial Estrangeiro - Filial no país",
+    "PixType": null,
     "Url": "https://www.jpmorganchase.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992639-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992641-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.159723-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597232-03:00"
   },
   {
     "COMPE": "492",
@@ -3166,10 +3667,12 @@
     "ShortName": "ING BANK N.V.",
     "Network": "RSFN",
     "Type": "Banco Comercial Estrangeiro - Filial no país",
+    "PixType": null,
     "Url": "https://www.ing.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992646-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992648-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597238-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597239-03:00"
   },
   {
     "COMPE": "495",
@@ -3179,10 +3682,12 @@
     "ShortName": "BCO LA PROVINCIA B AIRES BCE",
     "Network": "RSFN",
     "Type": "Banco Comercial Estrangeiro - Filial no país",
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992632-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992634-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597222-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597224-03:00"
   },
   {
     "COMPE": "505",
@@ -3192,10 +3697,12 @@
     "ShortName": "BCO CREDIT SUISSE S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.csfb.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992502-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992504-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597087-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597089-03:00"
   },
   {
     "COMPE": "545",
@@ -3205,10 +3712,12 @@
     "ShortName": "SENSO CCVM S.A.",
     "Network": "Internet",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2010-09-27",
-    "DateRegistered": "2021-04-28T02:10:59.8992362-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992364-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596789-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596791-03:00"
   },
   {
     "COMPE": "600",
@@ -3218,10 +3727,12 @@
     "ShortName": "BANCO LUSO BRASILEIRO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.lusobrasileiro.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992693-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992694-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597286-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597288-03:00"
   },
   {
     "COMPE": "604",
@@ -3231,10 +3742,12 @@
     "ShortName": "BANCO INDUSTRIAL DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancoindustrial.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992498-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992499-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597084-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597086-03:00"
   },
   {
     "COMPE": "610",
@@ -3244,10 +3757,12 @@
     "ShortName": "BCO VR S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.vrinvestimentos.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992871-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992872-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159751-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597513-03:00"
   },
   {
     "COMPE": "611",
@@ -3257,10 +3772,12 @@
     "ShortName": "BANCO PAULISTA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancopaulista.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899278-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992782-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597374-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597376-03:00"
   },
   {
     "COMPE": "612",
@@ -3270,10 +3787,12 @@
     "ShortName": "BANCO GUANABARA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancoguanabara.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992494-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992496-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159708-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597082-03:00"
   },
   {
     "COMPE": "613",
@@ -3283,10 +3802,12 @@
     "ShortName": "OMNI BANCO S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancopecunia.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992729-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992731-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597324-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597325-03:00"
   },
   {
     "COMPE": "623",
@@ -3296,10 +3817,12 @@
     "ShortName": "BANCO PAN S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancopan.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.89927-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992701-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597293-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597295-03:00"
   },
   {
     "COMPE": "626",
@@ -3309,10 +3832,12 @@
     "ShortName": "BCO C6 CONSIG",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992758-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899276-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597352-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597354-03:00"
   },
   {
     "COMPE": "630",
@@ -3322,23 +3847,27 @@
     "ShortName": "BANCO SMARTBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.intercap.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992682-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992684-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597276-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597277-03:00"
   },
   {
     "COMPE": "633",
     "ISPB": "68900810",
-    "Document": "68.900.810/0001-38",
+    "Document": "000.689.008-10",
     "LongName": "Banco Rendimento S.A.",
-    "ShortName": "BANCO RENDIMENTO S.A. X",
+    "ShortName": "BCO RENDIMENTO S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": "DRCT",
     "Url": "https://www.rendimento.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992826-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992828-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597449-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597452-03:00"
   },
   {
     "COMPE": "634",
@@ -3348,10 +3877,12 @@
     "ShortName": "BANCO TRIÂNGULO S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": "https://www.tribanco.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992358-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899236-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596786-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596787-03:00"
   },
   {
     "COMPE": "637",
@@ -3361,10 +3892,12 @@
     "ShortName": "BCO SOFISA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.sofisa.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992736-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992738-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597331-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597332-03:00"
   },
   {
     "COMPE": "643",
@@ -3374,10 +3907,12 @@
     "ShortName": "BANCO PINE S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.pine.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992791-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992792-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597385-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597387-03:00"
   },
   {
     "COMPE": "652",
@@ -3387,10 +3922,12 @@
     "ShortName": "ITAÚ UNIBANCO HOLDING S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.itau.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992733-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992734-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597327-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597329-03:00"
   },
   {
     "COMPE": "653",
@@ -3400,23 +3937,27 @@
     "ShortName": "BANCO INDUSVAL S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bip.b.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899274-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992742-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597334-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597336-03:00"
   },
   {
     "COMPE": "654",
     "ISPB": "92874270",
-    "Document": "92.874.270/0001-40",
+    "Document": null,
     "LongName": "BANCO DIGIMAIS S.A.",
-    "ShortName": "BANCO DIGIMAIS SA",
+    "ShortName": "BCO DIGIMAIS S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992905-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992907-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597564-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597567-03:00"
   },
   {
     "COMPE": "655",
@@ -3426,10 +3967,12 @@
     "ShortName": "BANCO VOTORANTIM S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancovotorantim.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992703-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992705-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597297-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597299-03:00"
   },
   {
     "COMPE": "707",
@@ -3439,10 +3982,12 @@
     "ShortName": "BANCO DAYCOVAL",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.daycoval.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992798-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992799-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597393-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597395-03:00"
   },
   {
     "COMPE": "712",
@@ -3452,10 +3997,12 @@
     "ShortName": "BCO OURINVEST S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.ourinvest.com.br",
     "DateOperationStarted": "2014-01-28",
-    "DateRegistered": "2021-04-28T02:10:59.8992874-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992876-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597518-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597521-03:00"
   },
   {
     "COMPE": "720",
@@ -3465,10 +4012,12 @@
     "ShortName": "BCO RNX S.A.",
     "Network": "RSFN",
     "Type": null,
+    "PixType": null,
     "Url": null,
     "DateOperationStarted": "2021-02-24",
-    "DateRegistered": "2021-04-28T02:10:59.8992878-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992879-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597524-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597526-03:00"
   },
   {
     "COMPE": "739",
@@ -3478,10 +4027,12 @@
     "ShortName": "BANCO CETELEM S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.cetelem.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991925-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991927-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1595407-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1595476-03:00"
   },
   {
     "COMPE": "741",
@@ -3491,10 +4042,12 @@
     "ShortName": "BCO RIBEIRAO PRETO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.brp.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991918-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899192-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1595095-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1595163-03:00"
   },
   {
     "COMPE": "743",
@@ -3504,10 +4057,12 @@
     "ShortName": "BANCO SEMEAR S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bancosemear.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991929-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991931-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1595545-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1595627-03:00"
   },
   {
     "COMPE": "745",
@@ -3517,10 +4072,12 @@
     "ShortName": "BANCO CITIBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.citibank.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992542-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992544-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597129-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597131-03:00"
   },
   {
     "COMPE": "746",
@@ -3530,10 +4087,12 @@
     "ShortName": "BANCO MODAL S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": "DRCT",
     "Url": "https://www.bancomodal.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899248-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992481-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1597064-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597066-03:00"
   },
   {
     "COMPE": "747",
@@ -3543,10 +4102,12 @@
     "ShortName": "BCO RABOBANK INTL BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.rabobank.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.899194-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991942-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1595981-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596063-03:00"
   },
   {
     "COMPE": "748",
@@ -3556,10 +4117,12 @@
     "ShortName": "BCO COOPERATIVO SICREDI S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo Cooperativo",
+    "PixType": "DRCT",
     "Url": "https://www.sicredi.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991951-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991953-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.159636-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596362-03:00"
   },
   {
     "COMPE": "751",
@@ -3569,10 +4132,12 @@
     "ShortName": "SCOTIABANK BRASIL",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.br.scotiabank.com",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992465-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992466-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597049-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597051-03:00"
   },
   {
     "COMPE": "752",
@@ -3582,23 +4147,27 @@
     "ShortName": "BANCO BNP PARIBAS BRASIL S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.bnpparibas.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991958-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.899196-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596369-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596371-03:00"
   },
   {
     "COMPE": "753",
     "ISPB": "74828799",
-    "Document": "74.828.799/0001-45",
+    "Document": "000.748.287-99",
     "LongName": "Novo Banco Continental S.A. - Banco Múltiplo",
-    "ShortName": "NOVO BANCO CONTINENTAL S.A. - BANCO MULTIPLO",
+    "ShortName": "NOVO BCO CONTINENTAL S.A. - BM",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.nbcbank.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8992849-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992851-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597476-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597479-03:00"
   },
   {
     "COMPE": "754",
@@ -3608,10 +4177,12 @@
     "ShortName": "BANCO SISTEMA",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.btgpactual.com",
     "DateOperationStarted": "2015-07-15",
-    "DateRegistered": "2021-04-28T02:10:59.899286-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992862-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597494-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1597497-03:00"
   },
   {
     "COMPE": "755",
@@ -3621,23 +4192,27 @@
     "ShortName": "BANK OF AMERICA MERRILL LYNCH BANCO MÚLTIPLO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
+    "PixType": null,
     "Url": "https://www.ml.com",
     "DateOperationStarted": "2007-11-09",
-    "DateRegistered": "2021-04-28T02:10:59.8992784-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8992785-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1597378-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.159738-03:00"
   },
   {
     "COMPE": "756",
     "ISPB": "02038232",
-    "Document": "02.038.232/0001-64",
+    "Document": "000.020.382-32",
     "LongName": "Banco Cooperativo do Brasil S.A. - BANCOOB",
-    "ShortName": "BANCO COOPERATIVO SICOOB S.A",
+    "ShortName": "BANCO SICOOB S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo Cooperativo",
+    "PixType": "DRCT",
     "Url": "https://www.bancoob.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991981-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991982-03:00"
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2021-05-05T08:36:20.1596391-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596393-03:00"
   },
   {
     "COMPE": "757",
@@ -3647,9 +4222,11 @@
     "ShortName": "BCO KEB HANA DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
+    "PixType": null,
     "Url": "https://www.bancokeb.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DateRegistered": "2021-04-28T02:10:59.8991988-03:00",
-    "DateUpdated": "2021-04-28T02:10:59.8991989-03:00"
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-05T08:36:20.1596399-03:00",
+    "DateUpdated": "2021-05-05T08:36:20.1596401-03:00"
   }
 ]

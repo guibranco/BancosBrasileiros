@@ -3,25 +3,28 @@
   <bank>
     <COMPE>001</COMPE>
     <ISPB>00000000</ISPB>
-    <Document>000.000.000-00</Document>
+    <Document>00.000.000/0001-91</Document>
     <LongName>Banco do Brasil S.A.</LongName>
-    <ShortName>BCO DO BRASIL S.A.</ShortName>
+    <ShortName>BANCO DO BRASIL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>003</COMPE>
     <ISPB>04902979</ISPB>
-    <Document>04.902.979/0001-44</Document>
     <LongName>Banco da Amazônia S.A.</LongName>
-    <ShortName>BANCO DA AMAZONIA S.A.</ShortName>
+    <ShortName>BCO DA AMAZONIA S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancoamazonia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -33,8 +36,10 @@
     <ShortName>BANCO DO NORDESTE DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.banconordeste.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -54,7 +59,9 @@
     <LongName>CREDICOAMO CREDITO RURAL COOPERATIVA</LongName>
     <ShortName>CREDICOAMO</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2012-12-10</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -76,8 +83,10 @@
     <ShortName>BANCO INBURSA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancoinbursa.com</Url>
     <DateOperationStarted>2017-05-04</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -94,7 +103,7 @@
   <bank>
     <COMPE>015</COMPE>
     <ISPB>02819125</ISPB>
-    <LongName>"UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.              "</LongName>
+    <LongName>UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.</LongName>
     <ShortName>UBS BRASIL CCTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-03-15</DateOperationStarted>
@@ -107,7 +116,9 @@
     <LongName>COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI</LongName>
     <ShortName>CCM DESP TRÂNS SC E RS</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2012-05-08</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -140,12 +151,13 @@
   <bank>
     <COMPE>021</COMPE>
     <ISPB>28127603</ISPB>
-    <Document>28.127.603/0001-78</Document>
     <LongName>BANESTES S.A. Banco do Estado do Espírito Santo</LongName>
-    <ShortName>BANESTES S.A. - BANCO DO ESTADO DO ESPÍRITO SANTO X</ShortName>
+    <ShortName>BCO BANESTES S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Url>https://www.banestes.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -170,8 +182,10 @@
     <ShortName>BANCO ALFA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancoalfa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -191,13 +205,15 @@
   <bank>
     <COMPE>033</COMPE>
     <ISPB>90400888</ISPB>
-    <Document>90.400.888/0001-42</Document>
+    <Document>000.904.008-88</Document>
     <LongName>BANCO SANTANDER (BRASIL) S.A.</LongName>
-    <ShortName>BANCO SANTANDER S.A.</ShortName>
+    <ShortName>BCO SANTANDER (BRASIL) S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.santander.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -222,8 +238,10 @@
     <ShortName>BANCO DO ESTADO DO PARÁ S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.banpara.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -248,21 +266,25 @@
     <ShortName>BANCO DO ESTADO DO RIO GRANDE DO SUL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.banrisul.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>047</COMPE>
     <ISPB>13009717</ISPB>
-    <Document>13.009.717/0001-46</Document>
+    <Document>000.130.097-17</Document>
     <LongName>Banco do Estado de Sergipe S.A.</LongName>
-    <ShortName>BANESE - BANCO DO ESTADO DE SERGIPE S.A.</ShortName>
+    <ShortName>BCO DO EST. DE SE S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.banese.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -280,9 +302,9 @@
   <bank>
     <COMPE>062</COMPE>
     <ISPB>03012230</ISPB>
-    <Document>03.012.230/0001-69</Document>
+    <Document>000.030.122-30</Document>
     <LongName>Hipercard Banco Múltiplo S.A.</LongName>
-    <ShortName>BANCO HIPERCARD</ShortName>
+    <ShortName>HIPERCARD BM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.hipercard.com.br</Url>
@@ -348,20 +370,23 @@
     <ShortName>BANCO CREFISA S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.crefisa.com.br</Url>
     <DateOperationStarted>2005-11-18</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>070</COMPE>
     <ISPB>00000208</ISPB>
-    <Document>00.000.208/0001-00</Document>
     <LongName>BRB - Banco de Brasília S.A.</LongName>
-    <ShortName>BRB – BANCO DE BRASÍLIA S.A</ShortName>
+    <ShortName>BRB - BCO DE BRASILIA S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Url>https://www.brb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -412,8 +437,10 @@
     <ShortName>BANCO INTER S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancointer.com.br</Url>
     <DateOperationStarted>2008-08-15</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -453,13 +480,15 @@
   <bank>
     <COMPE>081</COMPE>
     <ISPB>10264663</ISPB>
-    <Document>10.264.663/0001-77</Document>
+    <Document>000.102.646-63</Document>
     <LongName>BancoSeguro S.A.</LongName>
-    <ShortName>BANCO SEGURO S.A</ShortName>
+    <ShortName>BANCOSEGURO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2008-10-24</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -471,8 +500,10 @@
     <ShortName>BANCO TOPÁZIO S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancotopazio.com.br</Url>
     <DateOperationStarted>2009-06-12</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -492,11 +523,12 @@
   <bank>
     <COMPE>084</COMPE>
     <ISPB>02398976</ISPB>
-    <Document>02.398.976/0001-90</Document>
     <LongName>UNIPRIME NORTE DO PARANÁ - COOPERATIVA DE CRÉDITO LTDA</LongName>
-    <ShortName>UNIPRIME NORTE DO PARANA</ShortName>
+    <ShortName>UNIPRIME NORTE DO PARANÁ - CC</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -507,7 +539,9 @@
     <LongName>Cooperativa Central de Crédito - Ailos</LongName>
     <ShortName>COOPERATIVA CENTRAL DE CRÉDITO - AILOS</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -527,11 +561,12 @@
   <bank>
     <COMPE>089</COMPE>
     <ISPB>62109566</ISPB>
-    <Document>62.109.566/0001-03</Document>
     <LongName>CREDISAN COOPERATIVA DE CRÉDITO</LongName>
-    <ShortName>CREDISAN - COOP. DE CRÉDITO RURAL DA REGIÃO DA MOGIANA</ShortName>
+    <ShortName>CREDISAN CC</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2010-08-30</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -548,7 +583,7 @@
   <bank>
     <COMPE>092</COMPE>
     <ISPB>12865507</ISPB>
-    <LongName>"BRK S.A. Crédito, Financiamento e Investimento                                  "</LongName>
+    <LongName>BRK S.A. Crédito, Financiamento e Investimento</LongName>
     <ShortName>BRK S.A. CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2010-07-01</DateOperationStarted>
@@ -558,11 +593,12 @@
   <bank>
     <COMPE>093</COMPE>
     <ISPB>07945233</ISPB>
-    <Document>07.945.233/0001-06</Document>
     <LongName>PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT</LongName>
-    <ShortName>POLOCRED - SOCIEDADE DE CREDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO  PORTE LTDA</ShortName>
+    <ShortName>POLOCRED SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2010-11-09</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -608,11 +644,12 @@
   <bank>
     <COMPE>097</COMPE>
     <ISPB>04632856</ISPB>
-    <Document>04.632.856/0001-30</Document>
     <LongName>Credisis - Central de Cooperativas de Crédito Ltda.</LongName>
-    <ShortName>CREDISIS- CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA</ShortName>
+    <ShortName>CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -633,7 +670,9 @@
     <LongName>UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA.</LongName>
     <ShortName>UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2011-01-11</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -660,7 +699,7 @@
   <bank>
     <COMPE>102</COMPE>
     <ISPB>02332886</ISPB>
-    <LongName>"XP INVESTIMENTOS CORRETORA DE CÂMBIO,TÍTULOS E VALORES MOBILIÁRIOS S/A          "</LongName>
+    <LongName>XP INVESTIMENTOS CORRETORA DE CÂMBIO,TÍTULOS E VALORES MOBILIÁRIOS S/A</LongName>
     <ShortName>XP INVESTIMENTOS CCTVM S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-11-22</DateOperationStarted>
@@ -670,20 +709,22 @@
   <bank>
     <COMPE>104</COMPE>
     <ISPB>00360305</ISPB>
-    <Document>00.360.305/0001-04</Document>
+    <Document>000.003.603-05</Document>
     <LongName>Caixa Econômica Federal</LongName>
-    <ShortName>CAIXA ECONOMICA FEDERAL S.A</ShortName>
+    <ShortName>CAIXA ECONOMICA FEDERAL</ShortName>
     <Network>RSFN</Network>
     <Type>Caixa Econômica Federal</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.caixa.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>105</COMPE>
     <ISPB>07652226</ISPB>
-    <LongName>"Lecca Crédito, Financiamento e Investimento S/A                                 "</LongName>
+    <LongName>Lecca Crédito, Financiamento e Investimento S/A</LongName>
     <ShortName>LECCA CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-12-27</DateOperationStarted>
@@ -706,7 +747,7 @@
   <bank>
     <COMPE>108</COMPE>
     <ISPB>01800019</ISPB>
-    <LongName>"PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO                          "</LongName>
+    <LongName>PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>PORTOCRED S.A. - CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-11-03</DateOperationStarted>
@@ -787,8 +828,10 @@
     <ShortName>BANCO AGIBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.agibank.com.br</Url>
     <DateOperationStarted>2012-04-04</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -813,20 +856,23 @@
     <ShortName>BCO WOORI BANK DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.wooribank.com.br</Url>
     <DateOperationStarted>2012-08-09</DateOperationStarted>
+    <DatePixStarted>2021-04-27 09:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>125</COMPE>
     <ISPB>45246410</ISPB>
-    <Document>45.246.410/0001-55</Document>
     <LongName>Brasil Plural S.A. - Banco Múltiplo</LongName>
-    <ShortName>PLURAL S.A. BANCO MULTIPLO</ShortName>
+    <ShortName>BANCO GENIAL</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -877,11 +923,12 @@
   <bank>
     <COMPE>130</COMPE>
     <ISPB>09313766</ISPB>
-    <Document>09.313.766/0001-09</Document>
-    <LongName>"CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO               "</LongName>
-    <ShortName>CARUANA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <LongName>CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>CARUANA SCFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2013-08-12</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -915,7 +962,9 @@
     <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E</LongName>
     <ShortName>CRESOL CONFEDERAÇÃO</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2016-05-02</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -932,11 +981,12 @@
   <bank>
     <COMPE>136</COMPE>
     <ISPB>00315557</ISPB>
-    <Document>00.315.557/0001-11</Document>
     <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI</LongName>
-    <ShortName>CONFEDERACAO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA - UNICRED DO  BRASIL</ShortName>
+    <ShortName>CONF NAC COOP CENTRAIS UNICRED</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2014-07-28</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -999,8 +1049,10 @@
     <LongName>BEXS Banco de CÃ¢mbio S.A.</LongName>
     <ShortName>BEXS BCO DE CAMBIO S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Url>https://www.bexs.com.br</Url>
     <DateOperationStarted>2016-05-23</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1047,11 +1099,12 @@
   <bank>
     <COMPE>159</COMPE>
     <ISPB>05442029</ISPB>
-    <Document>05.442.029/0001-47</Document>
     <LongName>Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor</LongName>
-    <ShortName>CASA DO CREDITO S/A - SOCIEDADE DE CREDITO AO MICROEMPREENDEDOR</ShortName>
+    <ShortName>CASA CREDITO S.A. SCM</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2017-09-04</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1068,19 +1121,6 @@
     <DateUpdated />
   </bank>
   <bank>
-    <COMPE>169</COMPE>
-    <ISPB>71371686</ISPB>
-    <Document>71.371.686/0001-75</Document>
-    <LongName>Banco Olé Bonsucesso Consignado S.A.</LongName>
-    <ShortName>BANCO OLE  CONSIGNADO S.A.</ShortName>
-    <Network>RSFN</Network>
-    <Type>Banco Múltiplo</Type>
-    <Url>https://www.oleconsignado.com.br</Url>
-    <DateOperationStarted>2016-11-16</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
-  </bank>
-  <bank>
     <COMPE>173</COMPE>
     <ISPB>13486793</ISPB>
     <LongName>BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.</LongName>
@@ -1093,11 +1133,12 @@
   <bank>
     <COMPE>174</COMPE>
     <ISPB>43180355</ISPB>
-    <Document>43.180.355/0001-12</Document>
-    <LongName>"PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO                             "</LongName>
-    <ShortName>PEFISA SA CREDITO FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <LongName>PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>PEFISA S.A. - CFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2017-11-21</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1114,7 +1155,7 @@
   <bank>
     <COMPE>180</COMPE>
     <ISPB>02685483</ISPB>
-    <LongName>"CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA      "</LongName>
+    <LongName>CM CAPITAL MARKETS CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
     <ShortName>CM CAPITAL MARKETS CCTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-01-20</DateOperationStarted>
@@ -1147,7 +1188,7 @@
   <bank>
     <COMPE>188</COMPE>
     <ISPB>33775974</ISPB>
-    <LongName>"ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES                 "</LongName>
+    <LongName>ATIVA INVESTIMENTOS S.A. CORRETORA DE TÍTULOS, CÂMBIO E VALORES</LongName>
     <ShortName>ATIVA S.A. INVESTIMENTOS CCTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-07-28</DateOperationStarted>
@@ -1157,9 +1198,8 @@
   <bank>
     <COMPE>189</COMPE>
     <ISPB>07512441</ISPB>
-    <Document>07.512.441/0001-11</Document>
-    <LongName>"HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS                        "</LongName>
-    <ShortName>HS FINANCEIRA S/A - CREDITO, FINANCIAMENTO E INVESTIMENTOS</ShortName>
+    <LongName>HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
+    <ShortName>HS FINANCEIRA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-06-05</DateOperationStarted>
     <DateRegistered />
@@ -1208,11 +1248,12 @@
   <bank>
     <COMPE>197</COMPE>
     <ISPB>16501555</ISPB>
-    <Document>16.501.555/0001-57</Document>
     <LongName>Stone Pagamentos S.A.</LongName>
-    <ShortName>STONE PAGAMENTOS S.A. X</ShortName>
+    <ShortName>STONE PAGAMENTOS S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2017-10-18</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1224,8 +1265,10 @@
     <ShortName>BANCO BTG PACTUAL S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.btgpactual.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1237,8 +1280,10 @@
     <ShortName>BANCO ORIGINAL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.original.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1250,8 +1295,10 @@
     <ShortName>BANCO ARBI S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancoarbi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1276,8 +1323,10 @@
     <ShortName>BANCO BS2 S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bs2.com/banco/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1300,8 +1349,10 @@
     <ShortName>BANCO FIBRA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancofibra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1326,8 +1377,10 @@
     <ShortName>BANCO BRADESCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bradesco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1365,17 +1418,19 @@
     <ShortName>BANCO ABC BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.abcbrasil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>249</COMPE>
     <ISPB>61182408</ISPB>
-    <Document>61.182.408/0001-16</Document>
+    <Document>000.611.824-08</Document>
     <LongName>Banco Investcred Unibanco S.A.</LongName>
-    <ShortName>BANCO INVESTCRED UNIBANCO S/A</ShortName>
+    <ShortName>BANCO INVESTCRED UNIBANCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <Url>https://www.itau.com.br</Url>
@@ -1412,8 +1467,10 @@
     <LongName>Paraná¡ Banco S.A.</LongName>
     <ShortName>PARANA BCO S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Url>https://www.paranabanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1434,7 +1491,9 @@
     <LongName>Nu Pagamentos S.A.</LongName>
     <ShortName>NU PAGAMENTOS S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2017-10-10</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1497,7 +1556,7 @@
   <bank>
     <COMPE>271</COMPE>
     <ISPB>27842177</ISPB>
-    <LongName>"IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.                      "</LongName>
+    <LongName>IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.</LongName>
     <ShortName>IB CCTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-02-26</DateOperationStarted>
@@ -1520,18 +1579,21 @@
     <LongName>Cooperativa de Crédito Rural de São Miguel do Oeste - Sulcredi/São Miguel</LongName>
     <ShortName>CCR DE SÃO MIGUEL DO OESTE</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2018-04-24</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>274</COMPE>
     <ISPB>11581339</ISPB>
-    <Document>11.581.339/0001-45</Document>
     <LongName>MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT</LongName>
-    <ShortName>MONEY PLUS SOCIEDADE DE CRÉDITO AO MICRO E A EMPRESA DE PEQUENO PORTE LTDA</ShortName>
+    <ShortName>MONEY PLUS SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-09-10</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1541,7 +1603,9 @@
     <LongName>BANCO SENFF S.A.</LongName>
     <ShortName>BCO SENFF S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2018-06-12</DateOperationStarted>
+    <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1568,9 +1632,8 @@
   <bank>
     <COMPE>280</COMPE>
     <ISPB>23862762</ISPB>
-    <Document>23.862.762/0001-00</Document>
-    <LongName>"WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO                      "</LongName>
-    <ShortName>WILL FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <LongName>WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>WILL FINANCEIRA S.A.CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DateRegistered />
@@ -1612,7 +1675,9 @@
     <LongName>COOPERATIVA DE CRÉDITO RURAL DE OURO   SULCREDI/OURO</LongName>
     <ShortName>CCR DE OURO</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2018-09-17</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1643,7 +1708,9 @@
     <LongName>Pagseguro Internet S.A.</LongName>
     <ShortName>PAGSEGURO INTERNET S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2018-11-07</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1690,9 +1757,8 @@
   <bank>
     <COMPE>299</COMPE>
     <ISPB>04814563</ISPB>
-    <Document>04.814.563/0001-74</Document>
     <LongName>BANCO SOROCRED S.A. - BANCO MÚLTIPLO</LongName>
-    <ShortName>BANCO SOROCRED S.A - BANCO MULTIPLO</ShortName>
+    <ShortName>BCO SOROCRED S.A. - BM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-12-03</DateOperationStarted>
     <DateRegistered />
@@ -1718,7 +1784,9 @@
     <LongName>BPP Instituição de Pagamento S.A.</LongName>
     <ShortName>BPP INSTITUIÇÃO DE PAGAMENTO S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2018-09-26</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1810,8 +1878,10 @@
     <ShortName>BANCO BMG S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancobmg.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1851,9 +1921,8 @@
   <bank>
     <COMPE>322</COMPE>
     <ISPB>01073966</ISPB>
-    <Document>01.073.966/0001-11</Document>
     <LongName>Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi/Crediluz</LongName>
-    <ShortName>COOPERATIVA DE CREDITO RURAL DE ABELARDO LUZ - SULCREDI/CREDILUZ</ShortName>
+    <ShortName>CCR DE ABELARDO LUZ</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DateRegistered />
@@ -1862,11 +1931,12 @@
   <bank>
     <COMPE>323</COMPE>
     <ISPB>10573521</ISPB>
-    <Document>10.573.521/0005-15</Document>
     <LongName>MERCADOPAGO.COM REPRESENTACOES LTDA.</LongName>
-    <ShortName>MERCADO.COM REPRESENTAÇÕES LTDA</ShortName>
+    <ShortName>MERCADO PAGO</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-06-24</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1877,7 +1947,9 @@
     <LongName>CARTOS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CARTOS SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1894,10 +1966,12 @@
   <bank>
     <COMPE>326</COMPE>
     <ISPB>03311443</ISPB>
-    <LongName>"PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.                             "</LongName>
+    <LongName>PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
     <ShortName>PARATI - CFI S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-01-07</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1914,9 +1988,8 @@
   <bank>
     <COMPE>329</COMPE>
     <ISPB>32402502</ISPB>
-    <Document>32.402.502/0001-35</Document>
     <LongName>QI Sociedade de Crédito Direto S.A.</LongName>
-    <ShortName>QI SOCIEDADE DE CRÉDITO DIRETO S/A</ShortName>
+    <ShortName>QI SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-04-30</DateOperationStarted>
     <DateRegistered />
@@ -1929,7 +2002,9 @@
     <LongName>BANCO BARI DE INVESTIMENTOS E FINANCIAMENTOS S.A.</LongName>
     <ShortName>BANCO BARI S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-07-22</DateOperationStarted>
+    <DatePixStarted>2021-02-25 09:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1950,7 +2025,9 @@
     <LongName>Acesso Soluções de Pagamento S.A.</LongName>
     <ShortName>ACESSO SOLUÇÕES DE PAGAMENTO S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-08-16</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1962,8 +2039,10 @@
     <ShortName>BANCO DIGIO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.digio.com.br</Url>
     <DateOperationStarted>2019-11-25</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1975,32 +2054,37 @@
     <ShortName>BANCO C6 S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.c6bank.com</Url>
     <DateOperationStarted>2019-01-31</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>340</COMPE>
     <ISPB>09554480</ISPB>
-    <Document>09.554.480/0001-07</Document>
     <LongName>Super Pagamentos e Administração de Meios Eletrônicos S.A.</LongName>
-    <ShortName>SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS LTDA</ShortName>
+    <ShortName>SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-09-25</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>341</COMPE>
     <ISPB>60701190</ISPB>
-    <Document>60.701.190/0001-04</Document>
+    <Document>000.607.011-90</Document>
     <LongName>ITAÚ UNIBANCO S.A.</LongName>
-    <ShortName>BANCO ITAÚ UNIBANCO S.A.</ShortName>
+    <ShortName>ITAÚ UNIBANCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2010,7 +2094,9 @@
     <LongName>Creditas Sociedade de Crédito Direto S.A.</LongName>
     <ShortName>CREDITAS SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-07-26</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2038,10 +2124,12 @@
   <bank>
     <COMPE>349</COMPE>
     <ISPB>27214112</ISPB>
-    <LongName>"AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO                                  "</LongName>
+    <LongName>AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>AL5 S.A. CFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-10-24</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2081,16 +2169,17 @@
     <LongName>ÓTIMO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>ÓTIMO SCD S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-10-21</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>358</COMPE>
     <ISPB>09464032</ISPB>
-    <Document>09.464.032/0001-12</Document>
-    <LongName>"MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO                             "</LongName>
-    <ShortName>MIDWAY S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <LongName>MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>MIDWAY S.A. - SCFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-02-01</DateOperationStarted>
     <DateRegistered />
@@ -2099,9 +2188,8 @@
   <bank>
     <COMPE>359</COMPE>
     <ISPB>05351887</ISPB>
-    <Document>05.351.887/0001-86</Document>
-    <LongName>"ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A                                  "</LongName>
-    <ShortName>ZEMA CRÉDITO FINANCIAMENTO EINVESTIMENTO S/A</ShortName>
+    <LongName>ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A</LongName>
+    <ShortName>ZEMA CFI S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DateRegistered />
@@ -2124,7 +2212,9 @@
     <LongName>CIELO S.A.</LongName>
     <ShortName>CIELO S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-07-17</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2141,11 +2231,12 @@
   <bank>
     <COMPE>364</COMPE>
     <ISPB>09089356</ISPB>
-    <Document>09.089.356/0001-18</Document>
     <LongName>GERENCIANET S.A.</LongName>
-    <ShortName>GERENCIANET S/A</ShortName>
+    <ShortName>GERENCIANET</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-03-16</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2231,20 +2322,20 @@
   <bank>
     <COMPE>374</COMPE>
     <ISPB>27351731</ISPB>
-    <Document>27.351.731/0001-38</Document>
-    <LongName>"REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.                              "</LongName>
-    <ShortName>REALIZE, CRÉDITO FINANCIAMENTO E INVESTIMENTO, S.A.</ShortName>
+    <LongName>REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>REALIZE CFI S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
+    <DatePixStarted>2021-04-14 12:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>376</COMPE>
     <ISPB>33172537</ISPB>
-    <Document>33.172.537/0001-98</Document>
     <LongName>Banco J. P. Morgan S.A.</LongName>
-    <ShortName>BANCO J.P. MORGAN S.A.</ShortName>
+    <ShortName>BCO J.P. MORGAN S.A.</ShortName>
     <Network>RSFN</Network>
     <Url>https://www.jpmorgan.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -2264,9 +2355,8 @@
   <bank>
     <COMPE>378</COMPE>
     <ISPB>01852137</ISPB>
-    <Document>01.852.137/0001-37</Document>
     <LongName>BBC LEASING S.A. - ARRENDAMENTO MERCANTIL</LongName>
-    <ShortName>JSL ARRENDAMENTO MERCANTIL S.A.</ShortName>
+    <ShortName>BBC LEASING</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-09-11</DateOperationStarted>
     <DateRegistered />
@@ -2285,13 +2375,15 @@
   <bank>
     <COMPE>380</COMPE>
     <ISPB>22896431</ISPB>
-    <Document>22.896.431/0001-10</Document>
+    <Document>000.228.964-31</Document>
     <LongName>PICPAY SERVICOS S.A.</LongName>
-    <ShortName>PICPAY SERVIÇOS S.A.</ShortName>
+    <ShortName>PICPAY</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.picpay.com.br</Url>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2321,11 +2413,12 @@
   <bank>
     <COMPE>383</COMPE>
     <ISPB>21018182</ISPB>
-    <Document>21.018.182/0001-06</Document>
     <LongName>BOLETOBANCÁRIO.COM TECNOLOGIA DE PAGAMENTOS LTDA.</LongName>
-    <ShortName>BOLETOBANCARIO.COM TECNOLOGIA DE PAGAMENTOS LTDA</ShortName>
+    <ShortName>JUNO</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-07-09</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2335,14 +2428,16 @@
     <LongName>GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO</LongName>
     <ShortName>GLOBAL SCM LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-13</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>386</COMPE>
     <ISPB>30680829</ISPB>
-    <LongName>"NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento         "</LongName>
+    <LongName>NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento</LongName>
     <ShortName>NU FINANCEIRA S.A. CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-01-12</DateOperationStarted>
@@ -2370,8 +2465,10 @@
     <ShortName>BANCO MERCANTIL DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.mercantil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2434,11 +2531,12 @@
   <bank>
     <COMPE>396</COMPE>
     <ISPB>13884775</ISPB>
-    <Document>13.884.775/0001-19</Document>
     <LongName>HUB PAGAMENTOS S.A</LongName>
-    <ShortName>HUB PAGAMENTOS S.A.</ShortName>
+    <ShortName>HUB PAGAMENTOS</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-08-13</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2448,7 +2546,9 @@
     <LongName>LISTO SOCIEDADE DE CREDITO DIRETO S.A.</LongName>
     <ShortName>LISTO SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2478,10 +2578,23 @@
   <bank>
     <COMPE>400</COMPE>
     <ISPB>05491616</ISPB>
-    <LongName>"COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE         "</LongName>
+    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE</LongName>
     <ShortName>CC POUP SER FIN CO</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>401</COMPE>
+    <ISPB>15111975</ISPB>
+    <Document>15.111.975/0001-64</Document>
+    <LongName>IUGU SERVICOS NA INTERNET S/A</LongName>
+    <ShortName>IUGU SERVICOS NA INTERNET S/A</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <DateOperationStarted>2021-05-06</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2501,18 +2614,21 @@
     <LongName>CORA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CORA SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <DateOperationStarted>2020-09-29</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>404</COMPE>
     <ISPB>37241230</ISPB>
-    <Document>37.241.230/0001-52</Document>
     <LongName>SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>SUMUP SOCIEDADE DE CREDITO DIRETO S.A</ShortName>
+    <ShortName>SUMUP SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-16</DateOperationStarted>
+    <DatePixStarted>2021-04-19 09:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2539,10 +2655,12 @@
   <bank>
     <COMPE>408</COMPE>
     <ISPB>36586946</ISPB>
-    <LongName>BÔNUSCRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>BÔNUSCRED SCD S.A.</ShortName>
+    <LongName>BONUSPAGO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>BONUSPAGO SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-14</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2559,7 +2677,7 @@
   <bank>
     <COMPE>411</COMPE>
     <ISPB>05192316</ISPB>
-    <LongName>"Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos            "</LongName>
+    <LongName>Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos</LongName>
     <ShortName>VIA CERTA FINANCIADORA S.A. - CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-02-22</DateOperationStarted>
@@ -2617,8 +2735,10 @@
     <ShortName>BANCO SAFRA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2639,6 +2759,16 @@
     <ShortName>CRED-SYSTEM SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-04-20</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>438</COMPE>
+    <ISPB>67030395</ISPB>
+    <LongName>PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>PLANNER TRUSTEE DTVM LTDA</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-05-04</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2708,9 +2838,8 @@
   <bank>
     <COMPE>487</COMPE>
     <ISPB>62331228</ISPB>
-    <Document>62.331.228/0001-11</Document>
     <LongName>Deutsche Bank S.A. - Banco Alemão</LongName>
-    <ShortName>DEUTSCHE BANK - BANCO ALEMÃO</ShortName>
+    <ShortName>DEUTSCHE BANK S.A.BCO ALEMAO</ShortName>
     <Network>RSFN</Network>
     <Url>https://www.deutsche-bank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -2799,8 +2928,10 @@
     <ShortName>BANCO INDUSTRIAL DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancoindustrial.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2812,8 +2943,10 @@
     <ShortName>BCO VR S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.vrinvestimentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2838,8 +2971,10 @@
     <ShortName>BANCO GUANABARA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancoguanabara.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2864,8 +2999,10 @@
     <ShortName>BANCO PAN S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancopan.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2887,21 +3024,25 @@
     <ShortName>BANCO SMARTBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.intercap.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>633</COMPE>
     <ISPB>68900810</ISPB>
-    <Document>68.900.810/0001-38</Document>
+    <Document>000.689.008-10</Document>
     <LongName>Banco Rendimento S.A.</LongName>
-    <ShortName>BANCO RENDIMENTO S.A. X</ShortName>
+    <ShortName>BCO RENDIMENTO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2912,8 +3053,10 @@
     <LongName>Banco Triângulo S.A.</LongName>
     <ShortName>BANCO TRIÂNGULO S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Url>https://www.tribanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2925,8 +3068,10 @@
     <ShortName>BCO SOFISA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.sofisa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2938,8 +3083,10 @@
     <ShortName>BANCO PINE S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.pine.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2964,19 +3111,22 @@
     <ShortName>BANCO INDUSVAL S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bip.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
   <bank>
     <COMPE>654</COMPE>
     <ISPB>92874270</ISPB>
-    <Document>92.874.270/0001-40</Document>
     <LongName>BANCO DIGIMAIS S.A.</LongName>
-    <ShortName>BANCO DIGIMAIS SA</ShortName>
+    <ShortName>BCO DIGIMAIS S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2988,8 +3138,10 @@
     <ShortName>BANCO VOTORANTIM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancovotorantim.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3001,8 +3153,10 @@
     <ShortName>BANCO DAYCOVAL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.daycoval.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3014,8 +3168,10 @@
     <ShortName>BCO OURINVEST S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.ourinvest.com.br</Url>
     <DateOperationStarted>2014-01-28</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3037,8 +3193,10 @@
     <ShortName>BANCO CETELEM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.cetelem.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3050,8 +3208,10 @@
     <ShortName>BCO RIBEIRAO PRETO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.brp.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3089,8 +3249,10 @@
     <ShortName>BANCO MODAL S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancomodal.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3115,8 +3277,10 @@
     <ShortName>BCO COOPERATIVO SICREDI S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo Cooperativo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.sicredi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3149,9 +3313,9 @@
   <bank>
     <COMPE>753</COMPE>
     <ISPB>74828799</ISPB>
-    <Document>74.828.799/0001-45</Document>
+    <Document>000.748.287-99</Document>
     <LongName>Novo Banco Continental S.A. - Banco Múltiplo</LongName>
-    <ShortName>NOVO BANCO CONTINENTAL S.A. - BANCO MULTIPLO</ShortName>
+    <ShortName>NOVO BCO CONTINENTAL S.A. - BM</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.nbcbank.com.br</Url>
@@ -3188,13 +3352,15 @@
   <bank>
     <COMPE>756</COMPE>
     <ISPB>02038232</ISPB>
-    <Document>02.038.232/0001-64</Document>
+    <Document>000.020.382-32</Document>
     <LongName>Banco Cooperativo do Brasil S.A. - BANCOOB</LongName>
-    <ShortName>BANCO COOPERATIVO SICOOB S.A</ShortName>
+    <ShortName>BANCO SICOOB S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo Cooperativo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancoob.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
