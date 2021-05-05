@@ -1,0 +1,120 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "type": "array",
+    "items": {
+        "$ref": "#/definitions/BankElement"
+    },
+    "definitions": {
+        "BankElement": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                "COMPE": {
+                    "type": "string"
+                },
+                "ISPB": {
+                    "type": "string"
+                },
+                "Document": {
+                    "type": "string"
+                },
+                "LongName": {
+                    "type": "string"
+                },
+                "ShortName": {
+                    "type": "string"
+                },
+                "Network" : {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string"                           
+                        }
+                    ]
+                },
+                "Type" : {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string"                           
+                        }
+                    ]
+                },
+                "PixType" : {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string"                           
+                        }
+                    ]
+                },
+                "Url": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string",
+                            "format": "uri",
+                            "qt-uri-protocols": [
+                                "https"
+                            ]
+                        }
+                    ]
+                },
+                "DateOperationStarted": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string",
+                            "format": "date"
+                        }
+                    ]
+                },
+                "DatePixStarted": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string",
+                            "format": "date"
+                        }
+                    ]
+                },
+                "DateRegistered": {
+                    "type": "string",
+                    "format": "date-time"
+                },
+                "DateUpdated": {
+                    "type": "string",
+                    "format": "date-time"                
+                }
+            },
+            "required": [
+                "COMPE",
+                "DateOperationStarted",
+                "DatePixStarted",
+                "DateRegistered",
+                "DateUpdated",
+                "Document",                              
+                "ISPB",
+                "LongName",  
+                "Network",
+                "PixType",
+                "ShortName",
+                "Type",
+                "Url"
+            ],
+            "title": "BankElement"
+        }
+    }
+}

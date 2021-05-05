@@ -1,0 +1,27 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="banks">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="bank" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="COMPE"/>
+              <xs:element type="xs:string" name="ISPB"/>
+              <xs:element type="xs:string" name="Document"/>
+              <xs:element type="xs:string" name="LongName"/>
+              <xs:element type="xs:string" name="ShortName"/>   
+              <xs:element type="xs:string" name="Network" />
+	            <xs:element type="xs:string" name="Type" />
+              <xs:element type="xs:string" name="PixType" />
+	            <xs:element type="xs:string" name="Url" />
+	            <xs:element type="xs:string" name="DateOperationStarted" />
+              <xs:element type="xs:string" name="DatePixStarted" />
+              <xs:element type="xs:string" name="DateRegistered"/>
+              <xs:element type="xs:string" name="DateUpdated"/>  
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
