@@ -5,7 +5,7 @@
     <ISPB>00000000</ISPB>
     <Document>00.000.000/0001-91</Document>
     <LongName>Banco do Brasil S.A.</LongName>
-    <ShortName>BANCO DO BRASIL</ShortName>
+    <ShortName>BCO DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -20,7 +20,7 @@
     <ISPB>04902979</ISPB>
     <Document>04.902.979/0001-44</Document>
     <LongName>Banco da Amazônia S.A.</LongName>
-    <ShortName>BANCO DA AMAZONIA S.A.</ShortName>
+    <ShortName>BCO DA AMAZONIA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
@@ -35,7 +35,7 @@
     <ISPB>07237373</ISPB>
     <Document>07.237.373/0001-20</Document>
     <LongName>Banco do Nordeste do Brasil S.A.</LongName>
-    <ShortName>BANCO DO NORDESTE DO BRASIL S.A.</ShortName>
+    <ShortName>BCO DO NORDESTE DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -85,7 +85,7 @@
     <ISPB>04866275</ISPB>
     <Document>04.866.275/0001-63</Document>
     <LongName>Banco Inbursa S.A.</LongName>
-    <ShortName>BANCO INBURSA S.A.</ShortName>
+    <ShortName>BANCO INBURSA</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -162,7 +162,7 @@
     <ISPB>28127603</ISPB>
     <Document>28.127.603/0001-78</Document>
     <LongName>BANESTES S.A. Banco do Estado do Espírito Santo</LongName>
-    <ShortName>BANESTES S.A. - BANCO DO ESTADO DO ESPÍRITO SANTO X</ShortName>
+    <ShortName>BCO BANESTES S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -190,7 +190,7 @@
     <ISPB>03323840</ISPB>
     <Document>03.323.840/0001-83</Document>
     <LongName>Banco Alfa S.A.</LongName>
-    <ShortName>BANCO ALFA S.A.</ShortName>
+    <ShortName>BCO ALFA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
@@ -218,7 +218,7 @@
     <ISPB>90400888</ISPB>
     <Document>90.400.888/0001-42</Document>
     <LongName>BANCO SANTANDER (BRASIL) S.A.</LongName>
-    <ShortName>BANCO SANTANDER S.A.</ShortName>
+    <ShortName>BCO SANTANDER (BRASIL) S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -246,7 +246,7 @@
     <ISPB>04913711</ISPB>
     <Document>04.913.711/0001-08</Document>
     <LongName>Banco do Estado do Pará S.A.</LongName>
-    <ShortName>BANCO DO ESTADO DO PARÁ S.A.</ShortName>
+    <ShortName>BCO DO EST. DO PA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -274,7 +274,7 @@
     <ISPB>92702067</ISPB>
     <Document>92.702.067/0001-96</Document>
     <LongName>Banco do Estado do Rio Grande do Sul S.A.</LongName>
-    <ShortName>BANCO DO ESTADO DO RIO GRANDE DO SUL S.A.</ShortName>
+    <ShortName>BCO DO ESTADO DO RS S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -289,7 +289,7 @@
     <ISPB>13009717</ISPB>
     <Document>13.009.717/0001-46</Document>
     <LongName>Banco do Estado de Sergipe S.A.</LongName>
-    <ShortName>BANESE - BANCO DO ESTADO DE SERGIPE S.A.</ShortName>
+    <ShortName>BCO DO EST. DE SE S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -304,7 +304,7 @@
     <ISPB>04913129</ISPB>
     <Document>04.913.129/0001-41</Document>
     <LongName>Confidence Corretora de Câmbio S.A.</LongName>
-    <ShortName>CONFIDENCE CORRETORA DE CÂMBIO S.A.</ShortName>
+    <ShortName>CONFIDENCE CC S.A.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2010-09-21</DateOperationStarted>
     <DateRegistered />
@@ -315,7 +315,7 @@
     <ISPB>03012230</ISPB>
     <Document>03.012.230/0001-69</Document>
     <LongName>Hipercard Banco Múltiplo S.A.</LongName>
-    <ShortName>BANCO HIPERCARD</ShortName>
+    <ShortName>HIPERCARD BM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.hipercard.com.br</Url>
@@ -328,7 +328,7 @@
     <ISPB>04184779</ISPB>
     <Document>04.184.779/0001-01</Document>
     <LongName>Banco Bradescard S.A.</LongName>
-    <ShortName>BANCO BRADESCARD S.A.</ShortName>
+    <ShortName>BANCO BRADESCARD</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.ibi.com.br</Url>
@@ -380,7 +380,7 @@
     <ISPB>61033106</ISPB>
     <Document>61.033.106/0001-86</Document>
     <LongName>Banco Crefisa S.A.</LongName>
-    <ShortName>BANCO CREFISA S.A</ShortName>
+    <ShortName>BCO CREFISA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
@@ -395,7 +395,7 @@
     <ISPB>00000208</ISPB>
     <Document>00.000.208/0001-00</Document>
     <LongName>BRB - Banco de Brasília S.A.</LongName>
-    <ShortName>BRB – BANCO DE BRASÍLIA S.A</ShortName>
+    <ShortName>BRB - BCO DE BRASILIA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -449,7 +449,7 @@
     <ISPB>00416968</ISPB>
     <Document>00.416.968/0001-01</Document>
     <LongName>Banco Inter S.A.</LongName>
-    <ShortName>BANCO INTER S.A</ShortName>
+    <ShortName>BANCO INTER</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -499,7 +499,7 @@
     <ISPB>10264663</ISPB>
     <Document>10.264.663/0001-77</Document>
     <LongName>BancoSeguro S.A.</LongName>
-    <ShortName>BANCO SEGURO S.A</ShortName>
+    <ShortName>BANCOSEGURO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -514,7 +514,7 @@
     <ISPB>07679404</ISPB>
     <Document>07.679.404/0001-00</Document>
     <LongName>BANCO TOPÁZIO S.A.</LongName>
-    <ShortName>BANCO TOPÁZIO S.A</ShortName>
+    <ShortName>BANCO TOPÁZIO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -542,7 +542,7 @@
     <ISPB>02398976</ISPB>
     <Document>02.398.976/0001-90</Document>
     <LongName>UNIPRIME NORTE DO PARANÁ - COOPERATIVA DE CRÉDITO LTDA</LongName>
-    <ShortName>UNIPRIME NORTE DO PARANA</ShortName>
+    <ShortName>UNIPRIME NORTE DO PARANÁ - CC</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
@@ -555,7 +555,7 @@
     <ISPB>05463212</ISPB>
     <Document>05.463.212/0001-29</Document>
     <LongName>Cooperativa Central de Crédito - Ailos</LongName>
-    <ShortName>COOPERATIVA CENTRAL DE CRÉDITO - AILOS</ShortName>
+    <ShortName>COOP CENTRAL AILOS</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
@@ -581,7 +581,7 @@
     <ISPB>62109566</ISPB>
     <Document>62.109.566/0001-03</Document>
     <LongName>CREDISAN COOPERATIVA DE CRÉDITO</LongName>
-    <ShortName>CREDISAN - COOP. DE CRÉDITO RURAL DA REGIÃO DA MOGIANA</ShortName>
+    <ShortName>CREDISAN CC</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2010-08-30</DateOperationStarted>
@@ -616,7 +616,7 @@
     <ISPB>07945233</ISPB>
     <Document>07.945.233/0001-06</Document>
     <LongName>PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT</LongName>
-    <ShortName>POLOCRED - SOCIEDADE DE CREDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO  PORTE LTDA</ShortName>
+    <ShortName>POLOCRED SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2010-11-09</DateOperationStarted>
@@ -629,7 +629,7 @@
     <ISPB>11758741</ISPB>
     <Document>11.758.741/0001-52</Document>
     <LongName>Banco Finaxis S.A.</LongName>
-    <ShortName>BANCO FINAXIS S.A.</ShortName>
+    <ShortName>BANCO FINAXIS</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <Url>https://www.finaxis.com.br</Url>
@@ -668,7 +668,7 @@
     <ISPB>04632856</ISPB>
     <Document>04.632.856/0001-30</Document>
     <LongName>Credisis - Central de Cooperativas de Crédito Ltda.</LongName>
-    <ShortName>CREDISIS- CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA</ShortName>
+    <ShortName>CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
@@ -692,7 +692,7 @@
     <ISPB>03046391</ISPB>
     <Document>03.046.391/0001-73</Document>
     <LongName>UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA.</LongName>
-    <ShortName>UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA</ShortName>
+    <ShortName>UNIPRIME CENTRAL CCC LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2011-01-11</DateOperationStarted>
@@ -738,7 +738,7 @@
     <ISPB>00360305</ISPB>
     <Document>00.360.305/0001-04</Document>
     <LongName>Caixa Econômica Federal</LongName>
-    <ShortName>CAIXA ECONOMICA FEDERAL S.A</ShortName>
+    <ShortName>CAIXA ECONOMICA FEDERAL</ShortName>
     <Network>RSFN</Network>
     <Type>Caixa Econômica Federal</Type>
     <PixType>DRCT</PixType>
@@ -764,7 +764,7 @@
     <ISPB>15114366</ISPB>
     <Document>15.114.366/0001-69</Document>
     <LongName>Banco Bocom BBM S.A.</LongName>
-    <ShortName>BANCO BOCOM BBM S.A.</ShortName>
+    <ShortName>BCO BOCOM BBM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancobbm.com.br</Url>
@@ -858,7 +858,7 @@
     <ISPB>10664513</ISPB>
     <Document>10.664.513/0001-50</Document>
     <LongName>Banco Agibank S.A.</LongName>
-    <ShortName>BANCO AGIBANK S.A.</ShortName>
+    <ShortName>BCO AGIBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
@@ -901,7 +901,7 @@
     <ISPB>45246410</ISPB>
     <Document>45.246.410/0001-55</Document>
     <LongName>Brasil Plural S.A. - Banco Múltiplo</LongName>
-    <ShortName>PLURAL S.A. BANCO MULTIPLO</ShortName>
+    <ShortName>BANCO GENIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Url>https://www.brasilplural.com</Url>
@@ -962,7 +962,7 @@
     <ISPB>09313766</ISPB>
     <Document>09.313.766/0001-09</Document>
     <LongName>CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>CARUANA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <ShortName>CARUANA SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2013-08-12</DateOperationStarted>
@@ -1023,7 +1023,7 @@
     <ISPB>00315557</ISPB>
     <Document>00.315.557/0001-11</Document>
     <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI</LongName>
-    <ShortName>CONFEDERACAO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA - UNICRED DO  BRASIL</ShortName>
+    <ShortName>CONF NAC COOP CENTRAIS UNICRED</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2014-07-28</DateOperationStarted>
@@ -1151,7 +1151,7 @@
     <ISPB>05442029</ISPB>
     <Document>05.442.029/0001-47</Document>
     <LongName>Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor</LongName>
-    <ShortName>CASA DO CREDITO S/A - SOCIEDADE DE CREDITO AO MICROEMPREENDEDOR</ShortName>
+    <ShortName>CASA CREDITO S.A. SCM</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2017-09-04</DateOperationStarted>
@@ -1187,7 +1187,7 @@
     <ISPB>43180355</ISPB>
     <Document>43.180.355/0001-12</Document>
     <LongName>PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>PEFISA SA CREDITO FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <ShortName>PEFISA S.A. - CFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2017-11-21</DateOperationStarted>
@@ -1257,7 +1257,7 @@
     <ISPB>07512441</ISPB>
     <Document>07.512.441/0001-11</Document>
     <LongName>HS FINANCEIRA S/A CREDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
-    <ShortName>HS FINANCEIRA S/A - CREDITO, FINANCIAMENTO E INVESTIMENTOS</ShortName>
+    <ShortName>HS FINANCEIRA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-06-05</DateOperationStarted>
     <DateRegistered />
@@ -1312,7 +1312,7 @@
     <ISPB>16501555</ISPB>
     <Document>16.501.555/0001-57</Document>
     <LongName>Stone Pagamentos S.A.</LongName>
-    <ShortName>STONE PAGAMENTOS S.A. X</ShortName>
+    <ShortName>STONE PAGAMENTOS S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2017-10-18</DateOperationStarted>
@@ -1325,7 +1325,7 @@
     <ISPB>30306294</ISPB>
     <Document>30.306.294/0001-45</Document>
     <LongName>Banco BTG Pactual S.A.</LongName>
-    <ShortName>BANCO BTG PACTUAL S.A</ShortName>
+    <ShortName>BANCO BTG PACTUAL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -1340,7 +1340,7 @@
     <ISPB>92894922</ISPB>
     <Document>92.894.922/0001-08</Document>
     <LongName>Banco Original S.A.</LongName>
-    <ShortName>BANCO ORIGINAL S.A.</ShortName>
+    <ShortName>BANCO ORIGINAL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -1355,7 +1355,7 @@
     <ISPB>54403563</ISPB>
     <Document>54.403.563/0001-50</Document>
     <LongName>Banco Arbi S.A.</LongName>
-    <ShortName>BANCO ARBI S.A.</ShortName>
+    <ShortName>BCO ARBI S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
@@ -1383,7 +1383,7 @@
     <ISPB>71027866</ISPB>
     <Document>71.027.866/0001-34</Document>
     <LongName>Banco BS2 S.A.</LongName>
-    <ShortName>BANCO BS2 S.A.</ShortName>
+    <ShortName>BCO BS2 S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -1411,7 +1411,7 @@
     <ISPB>58616418</ISPB>
     <Document>58.616.418/0001-08</Document>
     <LongName>Banco Fibra S.A.</LongName>
-    <ShortName>BANCO FIBRA S.A.</ShortName>
+    <ShortName>BCO FIBRA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -1439,7 +1439,7 @@
     <ISPB>60746948</ISPB>
     <Document>60.746.948/0001-12</Document>
     <LongName>Banco Bradesco S.A.</LongName>
-    <ShortName>BANCO BRADESCO S.A.</ShortName>
+    <ShortName>BCO BRADESCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -1467,7 +1467,7 @@
     <ISPB>33923798</ISPB>
     <Document>33.923.798/0001-00</Document>
     <LongName>Banco Máxima S.A.</LongName>
-    <ShortName>BANCO MÁXIMA S.A.</ShortName>
+    <ShortName>BCO MÁXIMA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <Url>https://www.bancomaxima.com.br</Url>
@@ -1480,7 +1480,7 @@
     <ISPB>28195667</ISPB>
     <Document>28.195.667/0001-06</Document>
     <LongName>Banco ABC Brasil S.A.</LongName>
-    <ShortName>BANCO ABC BRASIL S.A.</ShortName>
+    <ShortName>BCO ABC BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -1495,7 +1495,7 @@
     <ISPB>61182408</ISPB>
     <Document>61.182.408/0001-16</Document>
     <LongName>Banco Investcred Unibanco S.A.</LongName>
-    <ShortName>BANCO INVESTCRED UNIBANCO S/A</ShortName>
+    <ShortName>BANCO INVESTCRED UNIBANCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <Url>https://www.itau.com.br</Url>
@@ -1664,7 +1664,7 @@
     <ISPB>11581339</ISPB>
     <Document>11.581.339/0001-45</Document>
     <LongName>MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT</LongName>
-    <ShortName>MONEY PLUS SOCIEDADE DE CRÉDITO AO MICRO E A EMPRESA DE PEQUENO PORTE LTDA</ShortName>
+    <ShortName>MONEY PLUS SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-09-10</DateOperationStarted>
@@ -1712,7 +1712,7 @@
     <ISPB>23862762</ISPB>
     <Document>23.862.762/0001-00</Document>
     <LongName>WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>WILL FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <ShortName>WILL FINANCEIRA S.A.CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DateRegistered />
@@ -1791,7 +1791,7 @@
     <ISPB>08561701</ISPB>
     <Document>08.561.701/0001-01</Document>
     <LongName>Pagseguro Internet S.A.</LongName>
-    <ShortName>PAGSEGURO INTERNET S.A.</ShortName>
+    <ShortName>PAGSEGURO S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2018-11-07</DateOperationStarted>
@@ -1848,7 +1848,7 @@
     <ISPB>04814563</ISPB>
     <Document>04.814.563/0001-74</Document>
     <LongName>BANCO SOROCRED S.A. - BANCO MÚLTIPLO</LongName>
-    <ShortName>BANCO SOROCRED S.A - BANCO MULTIPLO</ShortName>
+    <ShortName>BCO SOROCRED S.A. - BM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-12-03</DateOperationStarted>
     <DateRegistered />
@@ -1872,7 +1872,7 @@
     <ISPB>13370835</ISPB>
     <Document>13.370.835/0001-85</Document>
     <LongName>BPP Instituição de Pagamento S.A.</LongName>
-    <ShortName>BPP INSTITUIÇÃO DE PAGAMENTO S.A.</ShortName>
+    <ShortName>BPP IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2018-09-26</DateOperationStarted>
@@ -1973,7 +1973,7 @@
     <ISPB>61186680</ISPB>
     <Document>61.186.680/0001-74</Document>
     <LongName>Banco BMG S.A.</LongName>
-    <ShortName>BANCO BMG S.A.</ShortName>
+    <ShortName>BCO BMG S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -1999,7 +1999,7 @@
     <ISPB>07450604</ISPB>
     <Document>07.450.604/0001-89</Document>
     <LongName>China Construction Bank (Brasil) Banco Múltiplo S.A.</LongName>
-    <ShortName>CHINA CONSTRUCTION BANK (BRASIL) BANCO MÚLTIPLO S.A.</ShortName>
+    <ShortName>BCO CCB BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.br.ccb.com</Url>
@@ -2023,7 +2023,7 @@
     <ISPB>01073966</ISPB>
     <Document>01.073.966/0001-11</Document>
     <LongName>Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi/Crediluz</LongName>
-    <ShortName>COOPERATIVA DE CREDITO RURAL DE ABELARDO LUZ - SULCREDI/CREDILUZ</ShortName>
+    <ShortName>CCR DE ABELARDO LUZ</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DateRegistered />
@@ -2034,7 +2034,7 @@
     <ISPB>10573521</ISPB>
     <Document>10.573.521/0001-91</Document>
     <LongName>MERCADOPAGO.COM REPRESENTACOES LTDA.</LongName>
-    <ShortName>MERCADO.COM REPRESENTAÇÕES LTDA</ShortName>
+    <ShortName>MERCADO PAGO</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-06-24</DateOperationStarted>
@@ -2095,7 +2095,7 @@
     <ISPB>32402502</ISPB>
     <Document>32.402.502/0001-35</Document>
     <LongName>QI Sociedade de Crédito Direto S.A.</LongName>
-    <ShortName>QI SOCIEDADE DE CRÉDITO DIRETO S/A</ShortName>
+    <ShortName>QI SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-04-30</DateOperationStarted>
     <DateRegistered />
@@ -2130,7 +2130,7 @@
     <ISPB>13140088</ISPB>
     <Document>13.140.088/0001-99</Document>
     <LongName>Acesso Soluções de Pagamento S.A.</LongName>
-    <ShortName>ACESSO SOLUÇÕES DE PAGAMENTO S.A.</ShortName>
+    <ShortName>ACESSO SOLUCOES PAGAMENTO SA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-08-16</DateOperationStarted>
@@ -2143,7 +2143,7 @@
     <ISPB>27098060</ISPB>
     <Document>27.098.060/0001-45</Document>
     <LongName>Banco Digio S.A.</LongName>
-    <ShortName>BANCO DIGIO S.A.</ShortName>
+    <ShortName>BANCO DIGIO</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -2158,7 +2158,7 @@
     <ISPB>31872495</ISPB>
     <Document>31.872.495/0001-72</Document>
     <LongName>Banco C6 S.A.</LongName>
-    <ShortName>BANCO C6 S.A</ShortName>
+    <ShortName>BCO C6 S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -2173,7 +2173,7 @@
     <ISPB>09554480</ISPB>
     <Document>09.554.480/0001-07</Document>
     <LongName>Super Pagamentos e Administração de Meios Eletrônicos S.A.</LongName>
-    <ShortName>SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS LTDA</ShortName>
+    <ShortName>SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-09-25</DateOperationStarted>
@@ -2186,7 +2186,7 @@
     <ISPB>60701190</ISPB>
     <Document>60.701.190/0001-04</Document>
     <LongName>ITAÚ UNIBANCO S.A.</LongName>
-    <ShortName>BANCO ITAÚ UNIBANCO S.A.</ShortName>
+    <ShortName>ITAÚ UNIBANCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -2225,7 +2225,7 @@
     <ISPB>33264668</ISPB>
     <Document>33.264.668/0001-03</Document>
     <LongName>Banco XP S.A.</LongName>
-    <ShortName>BANCO XP S.A</ShortName>
+    <ShortName>BCO XP S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-11-01</DateOperationStarted>
     <DateRegistered />
@@ -2295,7 +2295,7 @@
     <ISPB>09464032</ISPB>
     <Document>09.464.032/0001-12</Document>
     <LongName>MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>MIDWAY S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO</ShortName>
+    <ShortName>MIDWAY S.A. - SCFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-02-01</DateOperationStarted>
     <DateRegistered />
@@ -2306,7 +2306,7 @@
     <ISPB>05351887</ISPB>
     <Document>05.351.887/0001-86</Document>
     <LongName>ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A</LongName>
-    <ShortName>ZEMA CRÉDITO FINANCIAMENTO EINVESTIMENTO S/A</ShortName>
+    <ShortName>ZEMA CFI S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DateRegistered />
@@ -2352,7 +2352,7 @@
     <ISPB>09089356</ISPB>
     <Document>09.089.356/0001-18</Document>
     <LongName>GERENCIANET S.A.</LongName>
-    <ShortName>GERENCIANET S/A</ShortName>
+    <ShortName>GERENCIANET</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-03-16</DateOperationStarted>
@@ -2400,7 +2400,7 @@
     <ISPB>08357240</ISPB>
     <Document>08.357.240/0001-50</Document>
     <LongName>Banco CSF S.A.</LongName>
-    <ShortName>BANCO CSF S.A.</ShortName>
+    <ShortName>BCO CSF S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.carrefoursolucoes.com.br</Url>
@@ -2448,7 +2448,7 @@
     <ISPB>27351731</ISPB>
     <Document>27.351.731/0001-38</Document>
     <LongName>REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
-    <ShortName>REALIZE, CRÉDITO FINANCIAMENTO E INVESTIMENTO, S.A.</ShortName>
+    <ShortName>REALIZE CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
@@ -2461,7 +2461,7 @@
     <ISPB>33172537</ISPB>
     <Document>33.172.537/0001-98</Document>
     <LongName>Banco J. P. Morgan S.A.</LongName>
-    <ShortName>BANCO J.P. MORGAN S.A.</ShortName>
+    <ShortName>BCO J.P. MORGAN S.A.</ShortName>
     <Network>RSFN</Network>
     <Url>https://www.jpmorgan.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -2484,7 +2484,7 @@
     <ISPB>01852137</ISPB>
     <Document>01.852.137/0001-37</Document>
     <LongName>BBC LEASING S.A. - ARRENDAMENTO MERCANTIL</LongName>
-    <ShortName>JSL ARRENDAMENTO MERCANTIL S.A.</ShortName>
+    <ShortName>BBC LEASING</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-09-11</DateOperationStarted>
     <DateRegistered />
@@ -2506,7 +2506,7 @@
     <ISPB>22896431</ISPB>
     <Document>22.896.431/0001-10</Document>
     <LongName>PICPAY SERVICOS S.A.</LongName>
-    <ShortName>PICPAY SERVIÇOS S.A.</ShortName>
+    <ShortName>PICPAY</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -2545,7 +2545,7 @@
     <ISPB>21018182</ISPB>
     <Document>21.018.182/0001-06</Document>
     <LongName>BOLETOBANCÁRIO.COM TECNOLOGIA DE PAGAMENTOS LTDA.</LongName>
-    <ShortName>BOLETOBANCARIO.COM TECNOLOGIA DE PAGAMENTOS LTDA</ShortName>
+    <ShortName>JUNO</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-07-09</DateOperationStarted>
@@ -2595,7 +2595,7 @@
     <ISPB>17184037</ISPB>
     <Document>17.184.037/0001-10</Document>
     <LongName>Banco Mercantil do Brasil S.A.</LongName>
-    <ShortName>BANCO MERCANTIL DO BRASIL S.A.</ShortName>
+    <ShortName>BCO MERCANTIL DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -2669,7 +2669,7 @@
     <ISPB>13884775</ISPB>
     <Document>13.884.775/0001-19</Document>
     <LongName>HUB PAGAMENTOS S.A</LongName>
-    <ShortName>HUB PAGAMENTOS S.A.</ShortName>
+    <ShortName>HUB PAGAMENTOS</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-08-13</DateOperationStarted>
@@ -2767,7 +2767,7 @@
     <ISPB>37241230</ISPB>
     <Document>37.241.230/0001-52</Document>
     <LongName>SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>SUMUP SOCIEDADE DE CREDITO DIRETO S.A</ShortName>
+    <ShortName>SUMUP SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-16</DateOperationStarted>
@@ -2883,7 +2883,7 @@
     <ISPB>58160789</ISPB>
     <Document>58.160.789/0001-28</Document>
     <LongName>Banco Safra S.A.</LongName>
-    <ShortName>BANCO SAFRA S.A.</ShortName>
+    <ShortName>BCO SAFRA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -2995,7 +2995,7 @@
     <ISPB>62331228</ISPB>
     <Document>62.331.228/0001-11</Document>
     <LongName>Deutsche Bank S.A. - Banco Alemão</LongName>
-    <ShortName>DEUTSCHE BANK - BANCO ALEMÃO</ShortName>
+    <ShortName>DEUTSCHE BANK S.A.BCO ALEMAO</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.deutsche-bank.com.br</Url>
@@ -3070,7 +3070,7 @@
     <ISPB>59118133</ISPB>
     <Document>59.118.133/0001-00</Document>
     <LongName>Banco Luso Brasileiro S.A.</LongName>
-    <ShortName>BANCO LUSO BRASILEIRO S.A.</ShortName>
+    <ShortName>BCO LUSO BRASILEIRO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.lusobrasileiro.com.br</Url>
@@ -3083,7 +3083,7 @@
     <ISPB>31895683</ISPB>
     <Document>31.895.683/0001-16</Document>
     <LongName>Banco Industrial do Brasil S.A.</LongName>
-    <ShortName>BANCO INDUSTRIAL DO BRASIL S.A.</ShortName>
+    <ShortName>BCO INDUSTRIAL DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3113,7 +3113,7 @@
     <ISPB>61820817</ISPB>
     <Document>61.820.817/0001-09</Document>
     <LongName>Banco Paulista S.A.</LongName>
-    <ShortName>BANCO PAULISTA S.A.</ShortName>
+    <ShortName>BCO PAULISTA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancopaulista.com.br</Url>
@@ -3126,7 +3126,7 @@
     <ISPB>31880826</ISPB>
     <Document>31.880.826/0001-16</Document>
     <LongName>Banco Guanabara S.A.</LongName>
-    <ShortName>BANCO GUANABARA S.A.</ShortName>
+    <ShortName>BCO GUANABARA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3141,7 +3141,7 @@
     <ISPB>60850229</ISPB>
     <Document>60.850.229/0001-47</Document>
     <LongName>Omni Banco S.A.</LongName>
-    <ShortName>OMNI BANCO S.A</ShortName>
+    <ShortName>OMNI BANCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancopecunia.com.br</Url>
@@ -3154,7 +3154,7 @@
     <ISPB>59285411</ISPB>
     <Document>59.285.411/0001-13</Document>
     <LongName>Banco Pan S.A.</LongName>
-    <ShortName>BANCO PAN S.A.</ShortName>
+    <ShortName>BANCO PAN</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3180,7 +3180,7 @@
     <ISPB>58497702</ISPB>
     <Document>58.497.702/0001-02</Document>
     <LongName>Banco Smartbank S.A.</LongName>
-    <ShortName>BANCO SMARTBANK S.A.</ShortName>
+    <ShortName>SMARTBANK</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3195,7 +3195,7 @@
     <ISPB>68900810</ISPB>
     <Document>68.900.810/0001-38</Document>
     <LongName>Banco Rendimento S.A.</LongName>
-    <ShortName>BANCO RENDIMENTO S.A. X</ShortName>
+    <ShortName>BCO RENDIMENTO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
@@ -3209,8 +3209,8 @@
     <COMPE>634</COMPE>
     <ISPB>17351180</ISPB>
     <Document>17.351.180/0001-59</Document>
-    <LongName>Banco Triângulo S.A.</LongName>
-    <ShortName>BANCO TRIÂNGULO S.A.</ShortName>
+    <LongName>BANCO TRIANGULO S.A.</LongName>
+    <ShortName>BCO TRIANGULO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3240,7 +3240,7 @@
     <ISPB>62144175</ISPB>
     <Document>62.144.175/0001-20</Document>
     <LongName>Banco Pine S.A.</LongName>
-    <ShortName>BANCO PINE S.A.</ShortName>
+    <ShortName>BCO PINE S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3268,7 +3268,7 @@
     <ISPB>61024352</ISPB>
     <Document>61.024.352/0001-71</Document>
     <LongName>BANCO INDUSVAL S.A.</LongName>
-    <ShortName>BANCO INDUSVAL S.A</ShortName>
+    <ShortName>BCO INDUSVAL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3283,7 +3283,7 @@
     <ISPB>92874270</ISPB>
     <Document>92.874.270/0001-40</Document>
     <LongName>BANCO DIGIMAIS S.A.</LongName>
-    <ShortName>BANCO DIGIMAIS SA</ShortName>
+    <ShortName>BCO DIGIMAIS S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -3296,7 +3296,7 @@
     <ISPB>59588111</ISPB>
     <Document>59.588.111/0001-03</Document>
     <LongName>Banco Votorantim S.A.</LongName>
-    <ShortName>BANCO VOTORANTIM S.A.</ShortName>
+    <ShortName>BCO VOTORANTIM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3311,7 +3311,7 @@
     <ISPB>62232889</ISPB>
     <Document>62.232.889/0001-90</Document>
     <LongName>Banco Daycoval S.A.</LongName>
-    <ShortName>BANCO DAYCOVAL</ShortName>
+    <ShortName>BCO DAYCOVAL S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3352,7 +3352,7 @@
     <ISPB>00558456</ISPB>
     <Document>00.558.456/0001-71</Document>
     <LongName>Banco Cetelem S.A.</LongName>
-    <ShortName>BANCO CETELEM S.A.</ShortName>
+    <ShortName>BCO CETELEM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3382,7 +3382,7 @@
     <ISPB>00795423</ISPB>
     <Document>00.795.423/0001-45</Document>
     <LongName>Banco Semear S.A.</LongName>
-    <ShortName>BANCO SEMEAR S.A.</ShortName>
+    <ShortName>BANCO SEMEAR</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancosemear.com.br</Url>
@@ -3395,7 +3395,7 @@
     <ISPB>33479023</ISPB>
     <Document>33.479.023/0001-80</Document>
     <LongName>Banco Citibank S.A.</LongName>
-    <ShortName>BANCO CITIBANK S.A.</ShortName>
+    <ShortName>BCO CITIBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.citibank.com.br</Url>
@@ -3408,7 +3408,7 @@
     <ISPB>30723886</ISPB>
     <Document>30.723.886/0001-62</Document>
     <LongName>Banco Modal S.A.</LongName>
-    <ShortName>BANCO MODAL S.A</ShortName>
+    <ShortName>BCO MODAL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -3464,7 +3464,7 @@
     <ISPB>01522368</ISPB>
     <Document>01.522.368/0001-82</Document>
     <LongName>Banco BNP Paribas Brasil S.A.</LongName>
-    <ShortName>BANCO BNP PARIBAS BRASIL S.A</ShortName>
+    <ShortName>BCO BNP PARIBAS BRASIL S A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bnpparibas.com.br</Url>
@@ -3477,7 +3477,7 @@
     <ISPB>74828799</ISPB>
     <Document>74.828.799/0001-45</Document>
     <LongName>Novo Banco Continental S.A. - Banco Múltiplo</LongName>
-    <ShortName>NOVO BANCO CONTINENTAL S.A. - BANCO MULTIPLO</ShortName>
+    <ShortName>NOVO BCO CONTINENTAL S.A. - BM</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.nbcbank.com.br</Url>
@@ -3503,7 +3503,7 @@
     <ISPB>62073200</ISPB>
     <Document>62.073.200/0001-21</Document>
     <LongName>Bank of America Merrill Lynch Banco Múltiplo S.A.</LongName>
-    <ShortName>BANK OF AMERICA MERRILL LYNCH BANCO MÚLTIPLO S.A.</ShortName>
+    <ShortName>BOFA MERRILL LYNCH BM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.ml.com</Url>
@@ -3516,7 +3516,7 @@
     <ISPB>02038232</ISPB>
     <Document>02.038.232/0001-64</Document>
     <LongName>Banco Cooperativo do Brasil S.A. - BANCOOB</LongName>
-    <ShortName>BANCO COOPERATIVO SICOOB S.A</ShortName>
+    <ShortName>BANCO SICOOB S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo Cooperativo</Type>
     <PixType>DRCT</PixType>
