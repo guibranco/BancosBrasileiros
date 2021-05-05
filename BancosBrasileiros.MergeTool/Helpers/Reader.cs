@@ -32,9 +32,15 @@ namespace BancosBrasileiros.MergeTool.Helpers
     internal class Reader
     {
         /// <summary>
-        /// The CSV pattern
+        /// The comma separated values pattern
         /// </summary>
         private readonly Regex _csvPattern = new Regex(",(?=(?:[^\"]*\"[^\"]*\")*(?![^\"]*\"))", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
+
+
+        /// <summary>
+        /// The semicolon separated values pattern
+        /// </summary>
+        private readonly Regex _ssvPattern = new Regex(";(?=(?:[^\"]*\"[^\"]*\")*(?![^\"]*\"))", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
 
         /// <summary>
         /// The SLC pattern
@@ -46,30 +52,30 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         private int _countingSlc;
 
+        /// <summary>
+        /// Loads the string.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadStr()
         {
-            var result = new List<Bank>();
-
-
             using var webClient = new WebClient { Encoding = Encoding.UTF8 };
 
             var data = webClient.DownloadString("http://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv");
             var lines = data.Split("\n").Skip(1).ToArray();
 
-            result.AddRange(lines
+            return lines
                 .Select(line => _csvPattern.Split(line))
                 .Where(columns => columns.Length > 1 && int.TryParse(columns[2], out _))
                 .Select(columns => new Bank
                 {
                     CompeString = columns[2],
                     IspbString = columns[0],
-                    LongName = columns[5].Trim(),
+                    LongName = columns[5].Replace("\"", "").Trim(),
                     ShortName = columns[1].Trim(),
                     DateOperationStarted = DateTime.ParseExact(columns[6].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture).ToString("yyyy-MM-dd"),
                     Network = columns[4]
-                }));
-
-            return result;
+                })
+                .ToList();
         }
 
         /// <summary>
@@ -78,24 +84,17 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadCnpj()
         {
-            var result = new List<Bank>();
             var lines = File.ReadAllLines("data\\bancos-cnpj.md").Skip(4).ToArray();
-            foreach (var line in lines)
-            {
-                var columns = line.Split("|");
-                for (var l = 0; l < columns.Length; l++)
-                    columns[l] = columns[l].Trim();
 
-                var bank = new Bank
+            return lines
+                .Select(line => line.Split("|"))
+                .Select(columns => new Bank
                 {
-                    Document = columns[0],
-                    LongName = columns[1],
-                    Type = columns[2],
-                    Url = columns[3]
-                };
-                result.Add(bank);
-            }
-            return result;
+                    Document = columns[0].Trim(),
+                    LongName = columns[1].Replace("\"", "").Trim(),
+                    Type = columns[2].Trim(),
+                    Url = columns[3].Trim()
+                }).ToList();
         }
 
         /// <summary>
@@ -104,24 +103,43 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSite()
         {
-            var result = new List<Bank>();
             var lines = File.ReadAllLines("data\\bancos-site.md").Skip(4).ToArray();
-            foreach (var line in lines)
-            {
-                var columns = line.Split("|");
-                for (var l = 0; l < columns.Length; l++)
-                    columns[l] = columns[l].Trim();
 
-                var bank = new Bank
+            return lines
+                .Select(line => line.Split("|"))
+                .Select(columns => new Bank
                 {
-                    Compe = int.Parse(columns[0]),
-                    LongName = columns[1],
-                    Url = columns[2]
-                };
-                result.Add(bank);
-            }
+                    Compe = int.Parse(columns[0].Trim()),
+                    LongName = columns[1].Replace("\"", "").Trim(),
+                    Url = columns[2].Trim()
+                })
+                .ToList();
+        }
 
-            return result;
+        /// <summary>
+        /// Loads the pix.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
+        public List<Bank> LoadPix()
+        {
+            using var webClient = new WebClient { Encoding = Encoding.UTF8 };
+
+            var data = webClient.DownloadString($"https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-{DateTime.Now:yyyyMMdd}.csv");
+            var lines = data.Split("\n").Skip(1).ToArray();
+
+            return lines
+                  .Select(line => _ssvPattern.Split(line))
+                  .Where(columns => columns.Length > 1 && int.TryParse(columns[0], out _))
+                  .Select(columns => new Bank
+                  {
+                      IspbString = columns[0],
+                      LongName = columns[1],
+                      ShortName = columns[2],
+                      PixType = columns[3],
+                      DatePixStarted = DateTime.Parse(columns[4].Trim(), CultureInfo.InvariantCulture, DateTimeStyles.AssumeLocal)
+                          .ToString("yyyy-MM-dd HH:mm:ss")
+                  })
+                  .ToList();
         }
 
         /// <summary>
@@ -189,6 +207,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return result;
         }
 
+        /// <summary>
+        /// Parses the line.
+        /// </summary>
+        /// <param name="line">The line.</param>
+        /// <returns>Bank.</returns>
         private Bank ParseLine(string line)
         {
             if (!_slcPattern.IsMatch(line))
@@ -206,7 +229,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return new Bank
             {
                 Document = match.Groups["cnpj"].Value.Trim(),
-                LongName = match.Groups["nome"].Value.Trim()
+                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
             };
         }
     }

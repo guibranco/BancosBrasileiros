@@ -29,7 +29,6 @@ namespace BancosBrasileiros.MergeTool.Dto
     [XmlRoot("Bank")]
     public class Bank : IEquatable<Bank>
     {
-
         /// <summary>
         /// Gets or sets the COMPE.
         /// </summary>
@@ -124,6 +123,7 @@ namespace BancosBrasileiros.MergeTool.Dto
         [JsonProperty("Network")]
         [XmlElement("Network")]
         public string Network { get; set; }
+
         /// <summary>
         /// Gets or sets the type.
         /// </summary>
@@ -131,6 +131,15 @@ namespace BancosBrasileiros.MergeTool.Dto
         [JsonProperty("Type")]
         [XmlElement("Type")]
         public string Type { get; set; }
+
+
+        /// <summary>
+        /// Gets or sets the type of the pix.
+        /// </summary>
+        /// <value>The type of the pix.</value>
+        [JsonProperty("PixType")]
+        [XmlElement("PixType")]
+        public string PixType { get; set; }
 
         /// <summary>
         /// The URL
@@ -163,6 +172,14 @@ namespace BancosBrasileiros.MergeTool.Dto
         public string DateOperationStarted { get; set; }
 
         /// <summary>
+        /// Gets or sets the date pix started.
+        /// </summary>
+        /// <value>The date pix started.</value>
+        [JsonProperty("DatePixStarted")]
+        [XmlElement("DatePixStarted")]
+        public string DatePixStarted { get; set; }
+
+        /// <summary>
         /// Gets or sets the date registered.
         /// </summary>
         /// <value>The date registered.</value>
@@ -178,7 +195,6 @@ namespace BancosBrasileiros.MergeTool.Dto
         [XmlElement("DateUpdated")]
         public DateTimeOffset? DateUpdated { get; set; }
 
-
         #region Equality members
 
         /// <summary>
@@ -191,7 +207,6 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (other is null) return false;
             if (ReferenceEquals(this, other)) return true;
 
-
             return
                 Compe == other.Compe &&
                 Ispb == other.Ispb &&
@@ -199,9 +214,11 @@ namespace BancosBrasileiros.MergeTool.Dto
                 string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase) &&//    
+                string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
                 Nullable.Equals(DateRegistered, other.DateRegistered) &&
                 Nullable.Equals(DateUpdated, other.DateUpdated);
         }
@@ -232,8 +249,10 @@ namespace BancosBrasileiros.MergeTool.Dto
             hashCode.Add(ShortName, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Network ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Type ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(PixType ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Url ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DateRegistered);
             hashCode.Add(DateUpdated);
             return hashCode.ToHashCode();
@@ -254,10 +273,10 @@ namespace BancosBrasileiros.MergeTool.Dto
                 strBuilder.AppendFormat("Document: {0} | ", Document);
 
             if (!string.IsNullOrWhiteSpace(LongName))
-                strBuilder.AppendFormat("Fiscal name: {0} | ", LongName);
+                strBuilder.AppendFormat("Long name: {0} | ", LongName);
 
             if (!string.IsNullOrWhiteSpace(ShortName))
-                strBuilder.AppendFormat("Fantasy name: {0} | ", ShortName);
+                strBuilder.AppendFormat("Short name: {0} | ", ShortName);
 
             if (!string.IsNullOrWhiteSpace(Network))
                 strBuilder.AppendFormat("Network: {0} | ", Network);
@@ -265,8 +284,14 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (!string.IsNullOrWhiteSpace(Type))
                 strBuilder.AppendFormat("Type: {0} | ", Type);
 
+            if (!string.IsNullOrWhiteSpace(PixType))
+                strBuilder.AppendFormat("PIX type: {0} | ", PixType);
+
             if (!string.IsNullOrWhiteSpace(DateOperationStarted))
                 strBuilder.AppendFormat("Date operation started: {0} | ", DateOperationStarted);
+
+            if (!string.IsNullOrWhiteSpace(DatePixStarted))
+                strBuilder.AppendFormat("Date PIX started: {0} | ", DatePixStarted);
 
             strBuilder.AppendFormat("Date registered: {0:O} | Date updated: {1:O}", DateRegistered, DateUpdated);
 

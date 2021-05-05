@@ -39,13 +39,17 @@ namespace BancosBrasileiros.MergeTool
             var cnpj = reader.LoadCnpj();
             var site = reader.LoadSite();
             var slc = reader.LoadSlc();
+            var pix = reader.LoadPix();
 
-            Console.WriteLine($"STR: {str.Count} | CNPJ: {cnpj.Count} | Site: {site.Count} | SLC: {slc.Count} \r\n");
+            Console.WriteLine($"STR: {str.Count} | CNPJ: {cnpj.Count} | Site: {site.Count} | SLC: {slc.Count} | PIX: {pix.Count} \r\n");
 
-            var seeder = new Seeder(); //The order must be STR -> Site -> ISPB -> CNPJ -> SLC to find the Fiscal Name and the COMPE code.
-            seeder.SeedSite(str, site);
-            seeder.SeedDocument(str, cnpj);
-            seeder.SeedSlc(str, slc);
+            //The order must be STR -> Site -> ISPB -> CNPJ -> SLC -> PIX to find the Fiscal Name and the COMPE code.
+            var seeder = new Seeder();
+            seeder
+                .SeedSite(str, site)
+                .SeedDocument(str, cnpj)
+                .SeedSlc(str, slc)
+                .SeedPix(str, pix);
 
             foreach (var bank in str)
             {
@@ -54,6 +58,7 @@ namespace BancosBrasileiros.MergeTool
             }
 
             var types = str.GroupBy(b => b.Type);
+
             foreach (var type in types.OrderBy(g => g.Key))
             {
                 Console.WriteLine($"Type: {type.Key} | Total: {type.Count()}");
