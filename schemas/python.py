@@ -72,6 +72,7 @@ class BankElement:
     date_updated: datetime
 
     def __init__(self, compe: str, ispb: str, document: str, long_name: str, short_name: str, network: Optional[str], type_: Optional[str], pix_type: Optional[str], url: Optional[str], date_operation_started: Optional[str], date_pix_started: Optional[str], date_registered: datetime, date_updated: datetime) -> None:
+        """Return the bank DTO from JSON file."""
         self.compe = compe
         self.ispb = ispb
         self.document = document
