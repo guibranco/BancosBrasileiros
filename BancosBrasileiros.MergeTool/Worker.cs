@@ -43,7 +43,6 @@ namespace BancosBrasileiros.MergeTool
 
             Console.WriteLine($"STR: {str.Count} | CNPJ: {cnpj.Count} | Site: {site.Count} | SLC: {slc.Count} | PIX: {pix.Count} \r\n");
 
-            //The order must be STR -> Site -> ISPB -> CNPJ -> SLC -> PIX to find the Fiscal Name and the COMPE code.
             var seeder = new Seeder();
             seeder
                 .SeedSite(str, site)
@@ -61,7 +60,7 @@ namespace BancosBrasileiros.MergeTool
 
             foreach (var type in types.OrderBy(g => g.Key))
             {
-                Console.WriteLine($"Type: {type.Key} | Total: {type.Count()}");
+                Console.WriteLine($"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}");
             }
 
             str = str.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
