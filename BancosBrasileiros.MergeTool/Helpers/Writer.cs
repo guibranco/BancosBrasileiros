@@ -71,11 +71,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             {
                 "# Bancos Brasileiros",
                 string.Empty,
-                "| COMPE | ISPB | Document | Long Name | Short Name | Network | Type | PIX Type | Url | Date Operation Started | Date PIX Started | Date Registered | Date Updated",
-                "| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- "
+                "| COMPE | ISPB | Document | Long Name | Short Name | Network | Type | PIX Type | Url | Date Operation Started | Date PIX Started | Date Registered | Date Updated |",
+                "| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | "
             };
 
-            lines.AddRange(banks.Select(bank => $"| {bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"));
+            lines.AddRange(banks.Select(bank => $"| {bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O} | "));
 
             File.WriteAllLines("result\\bancos.md", lines, Encoding.UTF8);
         }
