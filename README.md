@@ -16,7 +16,7 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 280 bancos cadastrados, nos seguintes formatos:
+Esta lista contém 282 bancos cadastrados, nos seguintes formatos:
 
 -  **CSV**: [bancos.csv](/data/bancos.csv)
 -  **JSON**: [bancos.json](/data/bancos.json)
