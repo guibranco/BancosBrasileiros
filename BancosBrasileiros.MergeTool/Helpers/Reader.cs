@@ -4,7 +4,7 @@
 // Created          : 05-19-2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 04-27-2021
+// Last Modified On : 05-05-2021
 // ***********************************************************************
 // <copyright file="Reader.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -25,6 +25,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
     using System.Net;
     using System.Text;
     using System.Text.RegularExpressions;
+    using CrispyWaffle.Serialization;
 
     /// <summary>
     /// Class Reader.
@@ -51,6 +52,18 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// The counting SLC
         /// </summary>
         private int _countingSlc;
+
+        /// <summary>
+        /// Loads the base.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
+        public List<Bank> LoadBase()
+        {
+            using var webClient = new WebClient { Encoding = Encoding.UTF8 };
+
+            var data = webClient.DownloadString("https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/data/bancos.json");
+            return SerializerFactory.GetCustomSerializer<List<Bank>>(SerializerFormat.JSON).Deserialize(data);
+        }
 
         /// <summary>
         /// Loads the string.
@@ -151,7 +164,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             _countingSlc = 0;
             var result = new List<Bank>();
 
-            var reader = new PdfReader("https://www.cip-bancos.org.br/Monitoramento/Participantes%20Homologados.pdf");
+            var reader = new PdfReader("https://www.cip-bancos.org.br/Monitoramento/Participantes_Homologados.pdf");
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
                 var currentText =

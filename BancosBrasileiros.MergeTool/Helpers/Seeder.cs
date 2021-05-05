@@ -4,7 +4,7 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 04-27-2021
+// Last Modified On : 05-05-2021
 // ***********************************************************************
 // <copyright file="Seeder.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -26,16 +26,27 @@ namespace BancosBrasileiros.MergeTool.Helpers
     internal class Seeder
     {
         /// <summary>
+        /// The source
+        /// </summary>
+        private readonly IList<Bank> _source;
+
+        /// <summary>
+        /// Initializes a new instance of the <see cref="Seeder" /> class.
+        /// </summary>
+        /// <param name="source">The source.</param>
+        /// <exception cref="ArgumentNullException">source</exception>
+        public Seeder(IList<Bank> source) => _source = source ?? throw new ArgumentNullException(nameof(source));
+
+        /// <summary>
         /// Generates the missing document.
         /// </summary>
-        /// <param name="normalized">The normalized.</param>
         /// <returns>Seeder.</returns>
-        public Seeder GenerateMissingDocument(IEnumerable<Bank> normalized)
+        public Seeder GenerateMissingDocument()
         {
             var existing = 0;
             var missing = 0;
 
-            foreach (var bank in normalized)
+            foreach (var bank in _source)
             {
                 if (bank.Document != null && bank.Document.Length == 18)
                 {
@@ -53,44 +64,82 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
+        /// Seeds the string.
+        /// </summary>
+        /// <param name="strs">The STRS.</param>
+        /// <returns>Seeder.</returns>
+        public Seeder SeedStr(IEnumerable<Bank> strs)
+        {
+            var found = 0;
+            var notFound = 0;
+
+            foreach (var str in strs)
+            {
+                var bank = _source.SingleOrDefault(b => b.Compe == str.Compe);
+
+                if (bank == null)
+                {
+                    Console.WriteLine($"Adding bank by STR List | {str.Compe} | {str.LongName}");
+
+                    if (str.Document == null || str.Document.Length != 18)
+                        str.Document = str.IspbString;
+
+                    _source.Add(str);
+                    bank = str;
+                }
+
+                if (bank.LongName.RemoveDiacritics().Equals(str.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) &&
+                    bank.ShortName.RemoveDiacritics().Equals(str.ShortName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
+                {
+                    notFound++;
+                    continue;
+                }
+
+                bank.LongName = str.LongName;
+                bank.ShortName = str.ShortName;
+                found++;
+            }
+
+            Console.WriteLine($"\r\nSTR | Found: {found} | Not found: {notFound}\r\n");
+
+            return this;
+        }
+
+        /// <summary>
         /// Seeds the site.
         /// </summary>
-        /// <param name="normalized">The normalized.</param>
         /// <param name="sites">The sites.</param>
-        public Seeder SeedSite(IList<Bank> normalized, IEnumerable<Bank> sites)
+        /// <returns>Seeder.</returns>
+        public Seeder SeedSite(IEnumerable<Bank> sites)
         {
             var found = 0;
             var notFound = 0;
 
             foreach (var site in sites)
             {
-                var bank = normalized.SingleOrDefault(b => b.Compe == site.Compe);
+                var bank = _source.SingleOrDefault(b => b.Compe == site.Compe);
 
                 if (bank == null)
-                    bank = normalized.SingleOrDefault(b =>
-                        b.LongName.RemoveDiacritics().Equals(site.LongName.RemoveDiacritics(),
-                            StringComparison.InvariantCultureIgnoreCase) ||
-                        b.ShortName.RemoveDiacritics().Equals(site.LongName.RemoveDiacritics(),
-                            StringComparison.InvariantCultureIgnoreCase));
+                    bank = _source.SingleOrDefault(b =>
+                        b.LongName.RemoveDiacritics().Equals(site.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(site.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+
                 if (bank == null)
                 {
                     Console.WriteLine($"Adding bank by site list | {site.Compe} | {site.LongName}");
 
-                    if (string.IsNullOrWhiteSpace(site.ShortName))
-                        site.ShortName = site.LongName;
-
-                    site.DateRegistered ??= DateTimeOffset.Now;
-
-                    normalized.Add(site);
+                    _source.Add(site);
                     bank = site;
                 }
 
                 if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(site.Url))
                     bank.Url = site.Url.ToLower();
-                else if (!string.IsNullOrWhiteSpace(bank.Url) && !bank.Url.Equals(site.Url, StringComparison.InvariantCultureIgnoreCase))
-                    bank.Url = site.Url;
+                else if (!string.IsNullOrWhiteSpace(bank.Url) &&
+                         !string.IsNullOrWhiteSpace(site.Url) &&
+                         !bank.Url.Equals(site.Url, StringComparison.InvariantCultureIgnoreCase))
+                    bank.Url = site.Url.ToLower();
 
-                if (bank.LongName.Equals(site.LongName, StringComparison.InvariantCultureIgnoreCase))
+                if (bank.LongName.RemoveDiacritics().Equals(site.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
                 {
                     notFound++;
                     continue;
@@ -107,46 +156,45 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
-        /// Seeds the document.
+        /// Seeds the CNPJ.
         /// </summary>
-        /// <param name="normalized">The normalized.</param>
-        /// <param name="documents">The documents.</param>
-        public Seeder SeedDocument(IList<Bank> normalized, IEnumerable<Bank> documents)
+        /// <param name="cnpjs">The CNPJS.</param>
+        /// <returns>Seeder.</returns>
+        public Seeder SeedCnpj(IEnumerable<Bank> cnpjs)
         {
             var found = 0;
             var notFound = 0;
 
-            foreach (var document in documents)
+            foreach (var cnpj in cnpjs)
             {
-                var bank = normalized.SingleOrDefault(b =>
-                    b.LongName.RemoveDiacritics().Equals(document.LongName.RemoveDiacritics(),
-                        StringComparison.InvariantCultureIgnoreCase) ||
-                    b.ShortName.RemoveDiacritics().Equals(document.LongName.RemoveDiacritics(),
-                        StringComparison.InvariantCultureIgnoreCase));
+                var bank = _source.SingleOrDefault(b =>
+                    b.LongName.RemoveDiacritics().Equals(cnpj.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                    (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(cnpj.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+
                 if (bank == null)
                 {
-                    Console.WriteLine($"Documento | Banco não encontrado: {document.LongName}");
+                    Console.WriteLine($"CNPJ | Banco não encontrado: {cnpj.LongName}");
                     notFound++;
                     continue;
                 }
 
-                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) && !string.IsNullOrWhiteSpace(document.Document))
-                    bank.Document = document.Document;
+                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) && !string.IsNullOrWhiteSpace(cnpj.Document))
+                    bank.Document = cnpj.Document;
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
-                    Console.WriteLine($"Documento | Documento inválido {document.Compe} | {bank.Document} | {document.Document}");
+                    Console.WriteLine($"CNPJ | CNPJ inválido {cnpj.Compe} | {bank.Document} | {cnpj.Document}");
 
-                if (string.IsNullOrWhiteSpace(bank.Type) && !string.IsNullOrWhiteSpace(document.Type))
-                    bank.Type = document.Type;
+                if (string.IsNullOrWhiteSpace(bank.Type) && !string.IsNullOrWhiteSpace(cnpj.Type))
+                    bank.Type = cnpj.Type;
                 else
-                    Console.WriteLine($"Documento | Tipo inválido {document.Compe} | {bank.Type} <-> {document.Type}");
+                    Console.WriteLine($"CNPJ | Tipo inválido {cnpj.Compe} | {bank.Type} <-> {cnpj.Type}");
 
-                if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(document.Url))
-                    bank.Url = document.Url.ToLower();
+                if (string.IsNullOrWhiteSpace(bank.Url) && !string.IsNullOrWhiteSpace(cnpj.Url))
+                    bank.Url = cnpj.Url.ToLower();
 
                 found++;
             }
 
-            Console.WriteLine($"\r\nDocumento | Found: {found} | Not found: {notFound}\r\n");
+            Console.WriteLine($"\r\nCNPJ | Found: {found} | Not found: {notFound}\r\n");
 
             return this;
         }
@@ -154,24 +202,22 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// Seeds the SLC.
         /// </summary>
-        /// <param name="normalized">The normalized.</param>
         /// <param name="slcs">The SLCS.</param>
-        public Seeder SeedSlc(IList<Bank> normalized, IEnumerable<Bank> slcs)
+        /// <returns>Seeder.</returns>
+        public Seeder SeedSlc(IEnumerable<Bank> slcs)
         {
             var found = 0;
             var notFound = 0;
 
             foreach (var slc in slcs)
             {
-                var bank = normalized.SingleOrDefault(b => b.Document != null && b.Document.Equals(slc.Document));
+                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(slc.Document));
 
                 if (bank == null)
                 {
-                    bank = normalized.SingleOrDefault(b =>
-                        b.LongName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(),
-                            StringComparison.InvariantCultureIgnoreCase) ||
-                        b.ShortName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(),
-                            StringComparison.InvariantCultureIgnoreCase));
+                    bank = _source.SingleOrDefault(b =>
+                        b.LongName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
                 }
 
                 if (bank == null)
@@ -184,7 +230,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                         continue;
                     }
 
-                    bank = normalized.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(slc.LongName, StringComparison.InvariantCultureIgnoreCase));
+                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(slc.LongName, StringComparison.InvariantCultureIgnoreCase));
                 }
 
                 if (bank == null)
@@ -197,13 +243,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) && !string.IsNullOrWhiteSpace(slc.Document))
                     bank.Document = slc.Document;
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
-                    Console.WriteLine($"SLC | Documento inválido {slc.Compe} | {bank.Document} | {slc.Document}");
-
-                if (string.IsNullOrEmpty(bank.LongName) || !bank.LongName.Equals(slc.LongName))
-                    bank.ShortName = slc.LongName;
+                    Console.WriteLine($"SLC | CNPJ inválido {slc.Compe} | {bank.Document} | {slc.Document}");
 
                 if (string.IsNullOrWhiteSpace(bank.ShortName))
-                    bank.ShortName = bank.LongName;
+                    bank.ShortName = slc.LongName;
 
                 found++;
 
@@ -217,10 +260,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// Seeds the pix.
         /// </summary>
-        /// <param name="normalized">The normalized.</param>
         /// <param name="pixs">The pixs.</param>
         /// <returns>Seeder.</returns>
-        public Seeder SeedPix(IList<Bank> normalized, IEnumerable<Bank> pixs)
+        public Seeder SeedPix(IEnumerable<Bank> pixs)
         {
             var found = 0;
             var notFound = 0;
@@ -228,14 +270,12 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var pix in pixs)
             {
-                var bank = normalized.SingleOrDefault(b =>
-                    b.LongName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(),
-                        StringComparison.InvariantCultureIgnoreCase) ||
-                    b.ShortName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(),
-                        StringComparison.InvariantCultureIgnoreCase));
+                var bank = _source.SingleOrDefault(b =>
+                    b.LongName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                    (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
 
                 if (bank == null)
-                    bank = normalized.SingleOrDefault(b => b.Ispb.Equals(pix.Ispb));
+                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(pix.Ispb));
 
                 if (bank == null)
                 {
