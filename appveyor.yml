@@ -17,6 +17,7 @@ install:
 
 build_script:
 - mkdir -p dist
+- copy README.md dist\
 - copy package.json dist\
 - copy data\bancos.json dist\
 - cd dist
