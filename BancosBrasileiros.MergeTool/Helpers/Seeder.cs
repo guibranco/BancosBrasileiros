@@ -202,7 +202,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     continue;
                 }
 
-                if (bank.PixType.Equals(pix.PixType) &&
+                if (bank.PixType != null &&
+                    bank.PixType.Equals(pix.PixType) &&
+                    bank.DatePixStarted != null &&
                     bank.DatePixStarted.Equals(pix.DatePixStarted))
                 {
                     Console.WriteLine($"PIX | Participante atualizado: {pix.LongName}");
