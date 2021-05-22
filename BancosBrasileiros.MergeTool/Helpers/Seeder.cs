@@ -182,7 +182,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         public Seeder SeedPix(IEnumerable<Bank> items)
         {
             var found = 0;
-            var updated = 0;
+            var upToDate = 0;
             var notFound = 0;
 
 
@@ -207,8 +207,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     bank.DatePixStarted != null &&
                     bank.DatePixStarted.Equals(pix.DatePixStarted))
                 {
-                    Console.WriteLine($"PIX | Participante atualizado: {pix.LongName}");
-                    updated++;
+                    Console.WriteLine($"PIX | Participante já atualizado: {pix.LongName}");
+                    upToDate++;
                     continue;
                 }
 
@@ -219,7 +219,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Console.WriteLine($"\r\nPIX | Found: {found} | Not found: {notFound} | Updated: {updated}\r\n");
+            Console.WriteLine($"\r\nPIX | Found: {found} | Not found: {notFound} | Up to Date: {upToDate}\r\n");
 
             return this;
         }
