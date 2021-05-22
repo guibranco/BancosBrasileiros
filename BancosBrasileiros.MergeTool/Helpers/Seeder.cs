@@ -55,6 +55,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 }
 
                 bank.Document = bank.IspbString;
+                bank.DateUpdated = DateTimeOffset.Now;
                 missing++;
             }
 
@@ -97,6 +98,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 bank.LongName = str.LongName;
                 bank.ShortName = str.ShortName;
+                bank.DateUpdated = DateTimeOffset.Now;
                 found++;
             }
 
@@ -146,13 +148,21 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     continue;
                 }
 
-                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) && !string.IsNullOrWhiteSpace(slc.Document))
+                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
+                    !string.IsNullOrWhiteSpace(slc.Document))
+                {
                     bank.Document = slc.Document;
+                    bank.DateUpdated = DateTimeOffset.Now;
+                }
+
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                     Console.WriteLine($"SLC | CNPJ inválido {slc.Compe} | {bank.Document} | {slc.Document}");
 
                 if (string.IsNullOrWhiteSpace(bank.ShortName))
+                {
                     bank.ShortName = slc.LongName;
+                    bank.DateUpdated = DateTimeOffset.Now;
+                }
 
                 found++;
 
@@ -192,6 +202,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 bank.PixType = pix.PixType;
                 bank.DatePixStarted = pix.DatePixStarted;
+                bank.DateUpdated = DateTimeOffset.Now;
 
                 found++;
             }
