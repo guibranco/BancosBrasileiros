@@ -1038,7 +1038,7 @@
     "COMPE": "125",
     "ISPB": "45246410",
     "Document": "45.246.410/0001-55",
-    "LongName": "Brasil Plural S.A. - Banco Múltiplo",
+    "LongName": "BANCO GENIAL S.A.",
     "ShortName": "BANCO GENIAL",
     "Network": "RSFN",
     "Type": null,
@@ -1047,7 +1047,7 @@
     "DateOperationStarted": "2012-11-19",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115172-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115174-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.1601669-03:00"
   },
   {
     "COMPE": "126",
@@ -1278,7 +1278,7 @@
     "COMPE": "144",
     "ISPB": "13059145",
     "Document": "13.059.145/0001-00",
-    "LongName": "BEXS Banco de CÃ¢mbio S.A.",
+    "LongName": "BEXS BANCO DE CÂMBIO S/A",
     "ShortName": "BEXS BCO DE CAMBIO S.A.",
     "Network": "RSFN",
     "Type": null,
@@ -1287,7 +1287,7 @@
     "DateOperationStarted": "2016-05-23",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114803-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114804-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.1593486-03:00"
   },
   {
     "COMPE": "145",
@@ -1732,12 +1732,12 @@
     "ShortName": "BCO MÁXIMA S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": "https://www.bancomaxima.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-05-12 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115103-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115105-03:00"
+    "DateUpdated": "2021-05-21T23:01:29.177629-03:00"
   },
   {
     "COMPE": "246",
@@ -1803,7 +1803,7 @@
     "COMPE": "254",
     "ISPB": "14388334",
     "Document": "14.388.334/0001-99",
-    "LongName": "Paraná¡ Banco S.A.",
+    "LongName": "PARANÁ BANCO S.A.",
     "ShortName": "PARANA BCO S.A.",
     "Network": "RSFN",
     "Type": null,
@@ -1812,7 +1812,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114844-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114846-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.159435-03:00"
   },
   {
     "COMPE": "259",
@@ -1893,7 +1893,7 @@
     "COMPE": "269",
     "ISPB": "53518684",
     "Document": "53.518.684/0001-84",
-    "LongName": "HSBC Brasil S.A. - Banco de Investimento",
+    "LongName": "BANCO HSBC S.A.",
     "ShortName": "BCO HSBC S.A.",
     "Network": "RSFN",
     "Type": null,
@@ -1902,7 +1902,7 @@
     "DateOperationStarted": "2018-02-07",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115202-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115204-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.1602326-03:00"
   },
   {
     "COMPE": "270",
@@ -2403,7 +2403,7 @@
     "COMPE": "320",
     "ISPB": "07450604",
     "Document": "07.450.604/0001-89",
-    "LongName": "China Construction Bank (Brasil) Banco Múltiplo S.A.",
+    "LongName": "China Construction Bank (Brasil) Banco Múltiplo S/A",
     "ShortName": "BCO CCB BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -2412,7 +2412,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114616-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114618-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.1587616-03:00"
   },
   {
     "COMPE": "321",
@@ -2973,7 +2973,7 @@
     "COMPE": "376",
     "ISPB": "33172537",
     "Document": "33.172.537/0001-98",
-    "LongName": "Banco J. P. Morgan S.A.",
+    "LongName": "BANCO J.P. MORGAN S.A.",
     "ShortName": "BCO J.P. MORGAN S.A.",
     "Network": "RSFN",
     "Type": null,
@@ -2982,7 +2982,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115066-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115067-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.1599284-03:00"
   },
   {
     "COMPE": "377",
@@ -3450,6 +3450,21 @@
     "DateUpdated": "2021-05-05T09:11:12.7114861-03:00"
   },
   {
+    "COMPE": "413",
+    "ISPB": "01858774",
+    "Document": "01.858.774/0001-10",
+    "LongName": "BANCO BV S.A.",
+    "ShortName": "BCO BV S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-05-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-21T23:01:29.4844407-03:00",
+    "DateUpdated": "2021-05-21T23:01:29.4844652-03:00"
+  },
+  {
     "COMPE": "414",
     "ISPB": "37526080",
     "Document": "37.526.080/0001-23",
@@ -3508,6 +3523,21 @@
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115218-03:00",
     "DateUpdated": "2021-05-05T09:11:12.711522-03:00"
+  },
+  {
+    "COMPE": "426",
+    "ISPB": "11285104",
+    "Document": "11.285.104/0001-06",
+    "LongName": "Biorc Financeira - Crédito, Financiamento e Investimento S.A.",
+    "ShortName": "BIORC FINANCEIRA - CFI S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-05-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-05-21T23:01:29.4844658-03:00",
+    "DateUpdated": "2021-05-21T23:01:29.4844662-03:00"
   },
   {
     "COMPE": "427",
@@ -3618,7 +3648,7 @@
     "COMPE": "479",
     "ISPB": "60394079",
     "Document": "60.394.079/0001-04",
-    "LongName": "Banco ItauBank S.A",
+    "LongName": "Banco ItauBank S.A.",
     "ShortName": "BCO ITAUBANK S.A.",
     "Network": "RSFN",
     "Type": null,
@@ -3627,7 +3657,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115247-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115248-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.1603338-03:00"
   },
   {
     "COMPE": "487",
@@ -4203,7 +4233,7 @@
     "COMPE": "756",
     "ISPB": "02038232",
     "Document": "02.038.232/0001-64",
-    "LongName": "Banco Cooperativo do Brasil S.A. - BANCOOB",
+    "LongName": "BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB",
     "ShortName": "BANCO SICOOB S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo Cooperativo",
@@ -4212,7 +4242,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114457-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114459-03:00"
+    "DateUpdated": "2021-05-21T23:01:28.1583613-03:00"
   },
   {
     "COMPE": "757",

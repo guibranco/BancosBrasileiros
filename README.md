@@ -119,8 +119,10 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
--  2021-05-05: [Issue #50](https://github.com/guibranco/BancosBrasileiros/milestone/50) - PIX data - [@guibranco](https://github.com/guibranco)
--  2021-04-28: [Milestone #1](https://github.com/guibranco/BancosBrasileiros/milestone/1) - Version 2 - [@guibranco](https://github.com/guibranco)
+-  2021-05-21: [Issue #75](https://github.com/guibranco/BancosBrasileiros/milestone/75) - Adicionado BIORC - [@guibranco](https://github.com/guibranco)
+-  2021-05-21: [Issue #74](https://github.com/guibranco/BancosBrasileiros/milestone/74) - Adicionado BV - [@guibranco](https://github.com/guibranco)
+-  2021-05-05: [Issue #50](https://github.com/guibranco/BancosBrasileiros/milestone/50) - Dados do PIX - [@guibranco](https://github.com/guibranco)
+-  2021-04-28: [Milestone #1](https://github.com/guibranco/BancosBrasileiros/milestone/1) - Versão 2 - [@guibranco](https://github.com/guibranco)
 -  2021-04-27: [Issue #45](http://github.com/guibranco/BancosBrasileiros/issues/45) - Adicionado schemas/classes - [@guibranco](https://github.com/guibranco)
 -  2021-04-27: [Issue #44](http://github.com/guibranco/BancosBrasileiros/issues/44) - Adicionado lista Markdown - [@guibranco](https://github.com/guibranco)
 -  2021-04-27: [Issue #42](http://github.com/guibranco/BancosBrasileiros/issues/42) - Código COMPE no arquivo Bancos.sql convertido de integer para string/varchar - [@silverio27](https://github.com/silverio27)

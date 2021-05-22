@@ -900,7 +900,7 @@
     <COMPE>125</COMPE>
     <ISPB>45246410</ISPB>
     <Document>45.246.410/0001-55</Document>
-    <LongName>Brasil Plural S.A. - Banco Múltiplo</LongName>
+    <LongName>BANCO GENIAL S.A.</LongName>
     <ShortName>BANCO GENIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -1092,7 +1092,7 @@
     <COMPE>144</COMPE>
     <ISPB>13059145</ISPB>
     <Document>13.059.145/0001-00</Document>
-    <LongName>BEXS Banco de CÃ¢mbio S.A.</LongName>
+    <LongName>BEXS BANCO DE CÂMBIO S/A</LongName>
     <ShortName>BEXS BCO DE CAMBIO S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -1470,8 +1470,10 @@
     <ShortName>BCO MÁXIMA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancomaxima.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1531,7 +1533,7 @@
     <COMPE>254</COMPE>
     <ISPB>14388334</ISPB>
     <Document>14.388.334/0001-99</Document>
-    <LongName>Paraná¡ Banco S.A.</LongName>
+    <LongName>PARANÁ BANCO S.A.</LongName>
     <ShortName>PARANA BCO S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -1606,7 +1608,7 @@
     <COMPE>269</COMPE>
     <ISPB>53518684</ISPB>
     <Document>53.518.684/0001-84</Document>
-    <LongName>HSBC Brasil S.A. - Banco de Investimento</LongName>
+    <LongName>BANCO HSBC S.A.</LongName>
     <ShortName>BCO HSBC S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-02-07</DateOperationStarted>
@@ -1998,7 +2000,7 @@
     <COMPE>320</COMPE>
     <ISPB>07450604</ISPB>
     <Document>07.450.604/0001-89</Document>
-    <LongName>China Construction Bank (Brasil) Banco Múltiplo S.A.</LongName>
+    <LongName>China Construction Bank (Brasil) Banco Múltiplo S/A</LongName>
     <ShortName>BCO CCB BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
@@ -2460,7 +2462,7 @@
     <COMPE>376</COMPE>
     <ISPB>33172537</ISPB>
     <Document>33.172.537/0001-98</Document>
-    <LongName>Banco J. P. Morgan S.A.</LongName>
+    <LongName>BANCO J.P. MORGAN S.A.</LongName>
     <ShortName>BCO J.P. MORGAN S.A.</ShortName>
     <Network>RSFN</Network>
     <Url>https://www.jpmorgan.com</Url>
@@ -2846,6 +2848,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>413</COMPE>
+    <ISPB>01858774</ISPB>
+    <Document>01.858.774/0001-10</Document>
+    <LongName>BANCO BV S.A.</LongName>
+    <ShortName>BCO BV S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-05-21</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>414</COMPE>
     <ISPB>37526080</ISPB>
     <Document>37.526.080/0001-23</Document>
@@ -2890,6 +2903,17 @@
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>426</COMPE>
+    <ISPB>11285104</ISPB>
+    <Document>11.285.104/0001-06</Document>
+    <LongName>Biorc Financeira - Crédito, Financiamento e Investimento S.A.</LongName>
+    <ShortName>BIORC FINANCEIRA - CFI S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2982,7 +3006,7 @@
     <COMPE>479</COMPE>
     <ISPB>60394079</ISPB>
     <Document>60.394.079/0001-04</Document>
-    <LongName>Banco ItauBank S.A</LongName>
+    <LongName>Banco ItauBank S.A.</LongName>
     <ShortName>BCO ITAUBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Url>https://www.itaubank.com.br</Url>
@@ -3515,7 +3539,7 @@
     <COMPE>756</COMPE>
     <ISPB>02038232</ISPB>
     <Document>02.038.232/0001-64</Document>
-    <LongName>Banco Cooperativo do Brasil S.A. - BANCOOB</LongName>
+    <LongName>BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB</LongName>
     <ShortName>BANCO SICOOB S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo Cooperativo</Type>
