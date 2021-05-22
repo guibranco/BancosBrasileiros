@@ -42,8 +42,7 @@ namespace BancosBrasileiros.MergeTool
 
             Console.WriteLine($"Source: {source.Count} | STR: {str.Count} | SLC: {slc.Count} | PIX: {pix.Count} \r\n");
 
-            var seeder = new Seeder(source);
-            seeder
+            new Seeder(source)
                 .GenerateMissingDocument()
                 .SeedStr(str)
                 .SeedSlc(slc)

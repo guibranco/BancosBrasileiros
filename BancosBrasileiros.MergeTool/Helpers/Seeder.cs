@@ -19,6 +19,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
     using System;
     using System.Collections.Generic;
     using System.Linq;
+    using Org.BouncyCastle.Crypto.Generators;
 
     /// <summary>
     /// Class Seeder.
@@ -67,14 +68,14 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// Seeds the string.
         /// </summary>
-        /// <param name="strs">The STRS.</param>
+        /// <param name="items">The items.</param>
         /// <returns>Seeder.</returns>
-        public Seeder SeedStr(IEnumerable<Bank> strs)
+        public Seeder SeedStr(IEnumerable<Bank> items)
         {
             var found = 0;
             var notFound = 0;
 
-            foreach (var str in strs)
+            foreach (var str in items)
             {
                 var bank = _source.SingleOrDefault(b => b.Compe == str.Compe);
 
@@ -110,14 +111,14 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// Seeds the SLC.
         /// </summary>
-        /// <param name="slcs">The SLCS.</param>
+        /// <param name="items">The items.</param>
         /// <returns>Seeder.</returns>
-        public Seeder SeedSlc(IEnumerable<Bank> slcs)
+        public Seeder SeedSlc(IEnumerable<Bank> items)
         {
             var found = 0;
             var notFound = 0;
 
-            foreach (var slc in slcs)
+            foreach (var slc in items)
             {
                 var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(slc.Document));
 
@@ -176,15 +177,16 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// Seeds the pix.
         /// </summary>
-        /// <param name="pixs">The pixs.</param>
+        /// <param name="items">The items.</param>
         /// <returns>Seeder.</returns>
-        public Seeder SeedPix(IEnumerable<Bank> pixs)
+        public Seeder SeedPix(IEnumerable<Bank> items)
         {
             var found = 0;
+            var updated = 0;
             var notFound = 0;
 
 
-            foreach (var pix in pixs)
+            foreach (var pix in items)
             {
                 var bank = _source.SingleOrDefault(b =>
                     b.LongName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
@@ -200,6 +202,14 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     continue;
                 }
 
+                if (bank.PixType.Equals(pix.PixType) &&
+                    bank.DatePixStarted.Equals(pix.DatePixStarted))
+                {
+                    Console.WriteLine($"PIX | Participante atualizado: {pix.LongName}");
+                    updated++;
+                    continue;
+                }
+
                 bank.PixType = pix.PixType;
                 bank.DatePixStarted = pix.DatePixStarted;
                 bank.DateUpdated = DateTimeOffset.Now;
@@ -207,7 +217,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Console.WriteLine($"\r\nPIX | Found: {found} | Not found: {notFound}\r\n");
+            Console.WriteLine($"\r\nPIX | Found: {found} | Not found: {notFound} | Updated: {updated}\r\n");
 
             return this;
         }
