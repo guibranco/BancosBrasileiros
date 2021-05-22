@@ -28,6 +28,7 @@ namespace BancosBrasileiros.MergeTool.Dto
     /// </summary>
     /// <seealso cref="IEquatable{Bank}" />
     [XmlRoot("Bank")]
+    [Serializable]
     public class Bank : IEquatable<Bank>
     {
         /// <summary>

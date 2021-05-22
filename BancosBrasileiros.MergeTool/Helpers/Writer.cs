@@ -24,14 +24,13 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// <summary>
     /// Class Writer.
     /// </summary>
-    internal class Writer
+    internal static class Writer
     {
-
         /// <summary>
         /// Saves the specified banks.
         /// </summary>
         /// <param name="banks">The banks.</param>
-        public void Save(IList<Bank> banks)
+        public static void Save(IList<Bank> banks)
         {
             if (!Directory.Exists("result"))
                 Directory.CreateDirectory("result");
@@ -49,7 +48,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Saves the CSV.
         /// </summary>
         /// <param name="banks">The banks.</param>
-        private void SaveCsv(IList<Bank> banks)
+        private static void SaveCsv(IList<Bank> banks)
         {
             var lines = new List<string>
             {
@@ -65,7 +64,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Saves the markdown.
         /// </summary>
         /// <param name="banks">The banks.</param>
-        private void SaveMarkdown(IList<Bank> banks)
+        private static void SaveMarkdown(IList<Bank> banks)
         {
             var lines = new List<string>
             {
@@ -84,7 +83,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Saves the SQL.
         /// </summary>
         /// <param name="banks">The banks.</param>
-        private void SaveSql(IList<Bank> banks)
+        private static void SaveSql(IList<Bank> banks)
         {
             var lines = new List<string>();
 
