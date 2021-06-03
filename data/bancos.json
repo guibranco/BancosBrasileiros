@@ -2677,12 +2677,12 @@
     "ShortName": "BCO XP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-11-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-06-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115069-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115071-03:00"
+    "DateUpdated": "2021-06-03T10:45:43.2495641-03:00"
   },
   {
     "COMPE": "349",
@@ -3525,6 +3525,21 @@
     "DateUpdated": "2021-05-05T09:11:12.711522-03:00"
   },
   {
+    "COMPE": "423",
+    "ISPB": "00460065",
+    "Document": "00.460.065/0001-10",
+    "LongName": "COLUNA S/A DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS",
+    "ShortName": "COLUNA S.A. DTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-06-07",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-06-03T10:45:43.4334262-03:00",
+    "DateUpdated": "2021-06-03T10:45:43.4334304-03:00"
+  },
+  {
     "COMPE": "426",
     "ISPB": "11285104",
     "Document": "11.285.104/0001-06",
@@ -3832,12 +3847,12 @@
     "ShortName": "OMNI BANCO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": "https://www.bancopecunia.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-05-27 08:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115268-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.711527-03:00"
+    "DateUpdated": "2021-06-03T10:45:43.2951649-03:00"
   },
   {
     "COMPE": "623",
