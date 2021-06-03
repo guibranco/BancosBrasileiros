@@ -2229,7 +2229,9 @@
     <LongName>Banco XP S.A.</LongName>
     <ShortName>BCO XP S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-11-01</DateOperationStarted>
+    <DatePixStarted>2021-06-01 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2907,6 +2909,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>423</COMPE>
+    <ISPB>00460065</ISPB>
+    <Document>00.460.065/0001-10</Document>
+    <LongName>COLUNA S/A DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS</LongName>
+    <ShortName>COLUNA S.A. DTVM</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-06-07</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>426</COMPE>
     <ISPB>11285104</ISPB>
     <Document>11.285.104/0001-06</Document>
@@ -3168,8 +3181,10 @@
     <ShortName>OMNI BANCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancopecunia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2021-05-27 08:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
