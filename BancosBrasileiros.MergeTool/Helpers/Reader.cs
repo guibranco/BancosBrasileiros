@@ -81,7 +81,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 {
                     CompeString = columns[2],
                     IspbString = columns[0],
-                    LongName = columns[5].Replace("\"", "").Trim(),
+                    LongName = columns[5].Replace("\"", "").Replace("?", "-").Trim(),
                     ShortName = columns[1].Trim(),
                     DateOperationStarted = DateTime.ParseExact(columns[6].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture).ToString("yyyy-MM-dd"),
                     Network = columns[4]
@@ -95,9 +95,17 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadPix()
         {
-            using var webClient = new WebClient { Encoding = Encoding.UTF8 };
 
-            var data = webClient.DownloadString($"https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-{DateTime.Now:yyyyMMdd}.csv");
+            var baseDate = DateTime.Today;
+
+            var data = GetPixData(baseDate);
+
+            while (string.IsNullOrWhiteSpace(data))
+            {
+                baseDate = baseDate.AddDays(-1);
+                data = GetPixData(baseDate);
+            }
+
             var lines = data.Split("\n").Skip(1).ToArray();
 
             return lines
@@ -113,6 +121,24 @@ namespace BancosBrasileiros.MergeTool.Helpers
                           .ToString("yyyy-MM-dd HH:mm:ss")
                   })
                   .ToList();
+        }
+
+        /// <summary>
+        /// Gets the pix data.
+        /// </summary>
+        /// <param name="date">The date.</param>
+        /// <returns>string.</returns>
+        private string GetPixData(DateTime date)
+        {
+            try
+            {
+                using var webClient = new WebClient { Encoding = Encoding.UTF8 };
+                return webClient.DownloadString($"https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-{date:yyyyMMdd}.csv");
+            }
+            catch (WebException)
+            {
+                return null;
+            }
         }
 
         /// <summary>
