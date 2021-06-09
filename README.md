@@ -16,7 +16,7 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 282 bancos cadastrados, nos seguintes formatos:
+Esta lista contém 285 bancos cadastrados, nos seguintes formatos:
 
 -  **CSV**: [bancos.csv](/data/bancos.csv)
 -  **JSON**: [bancos.json](/data/bancos.json)
@@ -119,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+-  2021-06-09: [Issue #82](https://github.com/guibranco/BancosBrasileiros/issues/82) - Corrigido caracter inválido no nome do banco COMPE 014 - [@mdapper](https://github.com/mdapper)
 -  2021-05-21: [Issue #75](https://github.com/guibranco/BancosBrasileiros/milestone/75) - Adicionado BIORC - [@guibranco](https://github.com/guibranco)
 -  2021-05-21: [Issue #74](https://github.com/guibranco/BancosBrasileiros/milestone/74) - Adicionado BV - [@guibranco](https://github.com/guibranco)
 -  2021-05-05: [Issue #50](https://github.com/guibranco/BancosBrasileiros/milestone/50) - Dados do PIX - [@guibranco](https://github.com/guibranco)

@@ -99,7 +99,7 @@
     <COMPE>014</COMPE>
     <ISPB>09274232</ISPB>
     <Document>09.274.232/0001-02</Document>
-    <LongName>STATE STREET BRASIL S.A. ? BANCO COMERCIAL</LongName>
+    <LongName>STATE STREET BRASIL S.A. - BANCO COMERCIAL</LongName>
     <ShortName>STATE STREET BR S.A. BCO COMERCIAL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
@@ -1727,7 +1727,9 @@
     <LongName>Cooperativa de Crédito Rural Coopavel</LongName>
     <ShortName>CCR COOPAVEL</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2018-11-05</DateOperationStarted>
+    <DatePixStarted>2021-06-10 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
