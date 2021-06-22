@@ -2527,12 +2527,12 @@
     "ShortName": "QI SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2019-04-30",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-06-14 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711504-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115042-03:00"
+    "DateUpdated": "2021-06-22T10:03:36.1349137-03:00"
   },
   {
     "COMPE": "330",
@@ -3303,8 +3303,8 @@
     "COMPE": "401",
     "ISPB": "15111975",
     "Document": "15.111.975/0001-64",
-    "LongName": "IUGU SERVICOS NA INTERNET S/A",
-    "ShortName": "IUGU SERVICOS NA INTERNET S/A",
+    "LongName": "IUGU INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "IUGU IP S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3312,7 +3312,7 @@
     "DateOperationStarted": "2021-05-06",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114851-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114853-03:00"
+    "DateUpdated": "2021-06-22T10:03:33.0665523-03:00"
   },
   {
     "COMPE": "402",
@@ -3427,12 +3427,12 @@
     "ShortName": "VIA CERTA FINANCIADORA S.A. - CFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2021-02-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-06-24 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114575-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114576-03:00"
+    "DateUpdated": "2021-06-22T10:03:34.9093464-03:00"
   },
   {
     "COMPE": "412",
@@ -3457,12 +3457,12 @@
     "ShortName": "BCO BV S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2021-05-21",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-06-14 08:00:00",
     "DateRegistered": "2021-05-21T23:01:29.4844407-03:00",
-    "DateUpdated": "2021-05-21T23:01:29.4844652-03:00"
+    "DateUpdated": "2021-06-22T10:03:34.3087768-03:00"
   },
   {
     "COMPE": "414",
@@ -3585,6 +3585,21 @@
     "DateUpdated": "2021-05-05T09:11:12.7115156-03:00"
   },
   {
+    "COMPE": "433",
+    "ISPB": "44077014",
+    "Document": "44.077.014/0001-89",
+    "LongName": "BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "BR-CAPITAL DTVM S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-06-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-06-22T10:03:37.2758829-03:00",
+    "DateUpdated": "2021-06-22T10:03:37.2758835-03:00"
+  },
+  {
     "COMPE": "438",
     "ISPB": "67030395",
     "Document": "67.030.395/0001-46",
@@ -3598,6 +3613,21 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115365-03:00",
     "DateUpdated": "2021-05-05T09:11:12.7115405-03:00"
+  },
+  {
+    "COMPE": "445",
+    "ISPB": "35551187",
+    "Document": "35.551.187/0001-04",
+    "LongName": "PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PLANTAE CFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-06-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-06-22T10:03:37.2758379-03:00",
+    "DateUpdated": "2021-06-22T10:03:37.2758811-03:00"
   },
   {
     "COMPE": "456",

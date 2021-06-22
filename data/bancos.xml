@@ -2101,7 +2101,9 @@
     <LongName>QI Sociedade de Crédito Direto S.A.</LongName>
     <ShortName>QI SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-04-30</DateOperationStarted>
+    <DatePixStarted>2021-06-14 09:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2735,8 +2737,8 @@
     <COMPE>401</COMPE>
     <ISPB>15111975</ISPB>
     <Document>15.111.975/0001-64</Document>
-    <LongName>IUGU SERVICOS NA INTERNET S/A</LongName>
-    <ShortName>IUGU SERVICOS NA INTERNET S/A</ShortName>
+    <LongName>IUGU INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>IUGU IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2021-05-06</DateOperationStarted>
@@ -2834,7 +2836,9 @@
     <LongName>Via Certa Financiadora S.A. - Crédito, Financiamento e Investimentos</LongName>
     <ShortName>VIA CERTA FINANCIADORA S.A. - CFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-02-22</DateOperationStarted>
+    <DatePixStarted>2021-06-24 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2858,7 +2862,9 @@
     <LongName>BANCO BV S.A.</LongName>
     <ShortName>BCO BV S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
+    <DatePixStarted>2021-06-14 08:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2955,6 +2961,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>433</COMPE>
+    <ISPB>44077014</ISPB>
+    <Document>44.077.014/0001-89</Document>
+    <LongName>BR-CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>BR-CAPITAL DTVM S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-06-21</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>438</COMPE>
     <ISPB>67030395</ISPB>
     <Document>67.030.395/0001-46</Document>
@@ -2962,6 +2979,17 @@
     <ShortName>PLANNER TRUSTEE DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-05-04</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>445</COMPE>
+    <ISPB>35551187</ISPB>
+    <Document>35.551.187/0001-04</Document>
+    <LongName>PLANTAE S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>PLANTAE CFI</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-06-23</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
