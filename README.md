@@ -40,7 +40,7 @@ Cada uma das listas possui as seguintes informações (schema):
 | PIX Type | Tipo de participante PIX/SPI | DRCT - Direto, INDR - Indireto, null |
 | Url | Website | - |
 | DateOperationStarted | Data de início da operação | - |
-| DatePixStarted | Data de início da operação PIX | Somente para PSPs do SPI |
+| DatePixStarted | Data de início da operação PIX | Somente para PSP do SPI |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
 
