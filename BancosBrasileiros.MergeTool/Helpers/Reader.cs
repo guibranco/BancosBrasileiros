@@ -95,7 +95,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadPix()
         {
-
             var baseDate = DateTime.Today;
 
             var data = GetPixData(baseDate);

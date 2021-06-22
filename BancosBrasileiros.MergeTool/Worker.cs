@@ -78,10 +78,17 @@ namespace BancosBrasileiros.MergeTool
 
             Console.WriteLine($"\r\nUpdated items: {except.Count}\r\n");
 
+            var color = ConsoleColor.Magenta;
+
             foreach (var exc in except)
             {
-                Console.WriteLine($"Updated: {exc}");
+                Console.ForegroundColor = color;
+                color = color == ConsoleColor.Magenta ? ConsoleColor.Cyan : ConsoleColor.Magenta;
+
+                Console.WriteLine($"Updated: {exc}\r\n");
             }
+
+            Console.ForegroundColor = ConsoleColor.White;
 
             Console.WriteLine("\r\nSaving result files");
 
