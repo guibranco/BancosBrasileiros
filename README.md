@@ -16,7 +16,7 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 285 bancos cadastrados, nos seguintes formatos:
+Esta lista contém 280+ bancos cadastrados, nos seguintes formatos:
 
 -  **CSV**: [bancos.csv](/data/bancos.csv)
 -  **JSON**: [bancos.json](/data/bancos.json)
@@ -35,9 +35,9 @@ Cada uma das listas possui as seguintes informações (schema):
 | Document | Documento - CNPJ | 14 números - 18 dígitos (formatado) |
 | LongName | Nome extenso | Conforme BACEN - STR |
 | ShortName | Nome reduzido | Conforme BACEN - STR |
-| Network | Rede | RSFN ou Internet |
-| Type | Tipo | comercial; múltiplo; caixa econômica; null |
-| PIX Type | Tipo de participante PIX/SPI | DRCT - Direto; INDR - Indireto; null |
+| Network | Rede | RSFN, Internet, null |
+| Type | Tipo | comercial, múltiplo, caixa econômica, null |
+| PIX Type | Tipo de participante PIX/SPI | DRCT - Direto, INDR - Indireto, null |
 | Url | Website | - |
 | DateOperationStarted | Data de início da operação | - |
 | DatePixStarted | Data de início da operação PIX | Somente para PSPs do SPI |
@@ -97,19 +97,19 @@ npm i bancos-brasileiros
 
 ## Siglas e abreviações
 
-Para aqueles que não estão familiarizados com entidades brasileiras:
+Para aqueles que não estão familiarizados com entidades financeiras/regulatórias brasileiras:
 
 -  **ABBC** - Associação Brasileira de Bancos
--  **BCB** - Banco Central do Brasil (autoridade reguladora) (também chamado de Bacen ou BC)
+-  **BCB** - Banco Central do Brasil (autoridade reguladora) (também chamado de *BACEN* ou *BC*)
 -  **CIP** - Câmara Interbancária de Pagamentos
--  **CNPJ** - Cadastro Nacional de Pessoa Jurídica - RFB
+-  **CNPJ** - Cadastro Nacional de Pessoa Jurídica - *RFB*
 -  **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
--  **CPF** - Cadastro Pessoa Física - RFB
+-  **CPF** - Cadastro Pessoa Física - *RFB*
 -  **FEBRABAN** - Federação Brasileira de Bancos
--  **ISPB** - Identificação do SPB
+-  **ISPB** - Identificação do *SPB*
 -  **PIX** - Pagamentos Instantâneos
 -  **RFB** - Receita Federal do Brasil
--  **RSFN** - Rede do SFN
+-  **RSFN** - Rede do *SFN*
 -  **SFN** - Sistema Financeiro Nacional
 -  **SPB** - Sistema de Pagamentos Brasileiro
 -  **SPI** - Sistema de Pagamentos Instantâneos
@@ -119,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades brasileiras:
 
 ## Changelog
 
+-  2021-06-22: Adicionado 2 novos bancos e atualizado 4 novos participantes do SPI (PIX) - [@guibranco](https://github.com/guibranco)
 -  2021-06-09: [Issue #82](https://github.com/guibranco/BancosBrasileiros/issues/82) - Corrigido caracter inválido no nome do banco COMPE 014 - [@mdapper](https://github.com/mdapper)
 -  2021-05-21: [Issue #75](https://github.com/guibranco/BancosBrasileiros/milestone/75) - Adicionado BIORC - [@guibranco](https://github.com/guibranco)
 -  2021-05-21: [Issue #74](https://github.com/guibranco/BancosBrasileiros/milestone/74) - Adicionado BV - [@guibranco](https://github.com/guibranco)

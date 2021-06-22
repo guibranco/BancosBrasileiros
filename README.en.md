@@ -16,7 +16,7 @@ Brazilian commercial banks list
 
 ### Formats
 
-This list contains 285 registered banks, in the following formats:
+This list contains 280+ registered banks, in the following formats:
 
 -  **CSV**: [bancos.csv](/data/bancos.csv)
 -  **JSON**: [bancos.json](/data/bancos.json)
@@ -35,9 +35,9 @@ Each of the lists has the following information (schema):
 | Document | Document - CNPJ | 14 numbers - 18 digits (formatted) |
 | LongName | Long name  | According to BACEN - STR |
 | ShortName | Short name | According to BACEN - STR|
-| Network | Network | RSFN or Internet |
+| Network | Network | RSFN, Internet, null |
 | Type | Type | commercial, multiple, savings, null |
-| PixType | Type of PIX/SPI participant | DRCT - Directly ; INDR - Indirectly; null |
+| PixType | Type of PIX/SPI participant | DRCT - Directly, INDR - Indirectly, null |
 | Url | Website | - |
 | DateOperationStarted | Commercial operation start date | - |
 | DatePixStarted | PIX operation start date | Only for those PSP of SPI |
@@ -97,19 +97,19 @@ npm i bancos-brasileiros
 
 ## Acronyms and abbreviations
 
-For those unfamiliar with Brazilian entities:
+For those unfamiliar with Brazilian financial/regulatory entities:
 
 -  **ABBC** - Brazilian Association of Banks
--  **BCB** - Central Bank of Brazil (regulatory authority)
+-  **BCB** - Central Bank of Brazil (regulatory authority)(also known as *BACEN* or *BC*)
 -  **CIP** - Interbank Payments Chamber
--  **CNPJ** - National Register of Legal Entities - RFB
+-  **CNPJ** - National Register of Legal Entities - *RFB*
 -  **COMPE** - Clearing System for Checks and Other Papers
--  **CPF** - Individual Taxpayer Registration - RFB
+-  **CPF** - Individual Taxpayer Registration - *RFB*
 -  **FEBRABAN** - Brazilian Federation of Banks
--  **ISPB** - SPB identification
+-  **ISPB** - *SPB* identification
 -  **PIX** - Instant Payments
 -  **RFB** - Federal Revenue Service of Brazil
--  **RSFN** - SFN Network
+-  **RSFN** - *SFN* Network
 -  **SFN** - National Financial System
 -  **SPB** - Brazilian Payment System
 -  **SPI** - Instant Payment System
