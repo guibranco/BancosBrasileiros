@@ -683,7 +683,9 @@
     <LongName>Credialiança Cooperativa de Crédito Rural</LongName>
     <ShortName>CREDIALIANÇA CCR</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2011-01-18</DateOperationStarted>
+    <DatePixStarted>2021-07-12 08:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -1466,8 +1468,8 @@
     <COMPE>243</COMPE>
     <ISPB>33923798</ISPB>
     <Document>33.923.798/0001-00</Document>
-    <LongName>Banco Máxima S.A.</LongName>
-    <ShortName>BCO MÁXIMA S.A.</ShortName>
+    <LongName>BANCO MASTER S/A</LongName>
+    <ShortName>BANCO MASTER</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
@@ -2994,6 +2996,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>450</COMPE>
+    <ISPB>13203354</ISPB>
+    <Document>13.203.354/0001-85</Document>
+    <LongName>FITBANK PAGAMENTOS ELETRONICOS S.A.</LongName>
+    <ShortName>FITBANK PAGAMENTOS ELETRONICOS S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-06-30</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>456</COMPE>
     <ISPB>60498557</ISPB>
     <Document>60.498.557/0001-26</Document>
@@ -3336,8 +3349,8 @@
     <COMPE>653</COMPE>
     <ISPB>61024352</ISPB>
     <Document>61.024.352/0001-71</Document>
-    <LongName>BANCO INDUSVAL S.A.</LongName>
-    <ShortName>BCO INDUSVAL S.A.</ShortName>
+    <LongName>BANCO VOITER S.A.</LongName>
+    <ShortName>BANCO VOITER</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
