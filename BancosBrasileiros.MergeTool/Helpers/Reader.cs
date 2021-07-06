@@ -115,8 +115,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
                       IspbString = columns[0],
                       LongName = columns[1],
                       ShortName = columns[2],
-                      PixType = columns[3],
-                      DatePixStarted = DateTime.Parse(columns[4].Trim(), CultureInfo.InvariantCulture, DateTimeStyles.AssumeLocal)
+                      PixType = columns[4],
+                      DatePixStarted = DateTime.Parse(columns[5].Trim(), CultureInfo.InvariantCulture, DateTimeStyles.AssumeLocal)
                           .ToString("yyyy-MM-dd HH:mm:ss")
                   })
                   .ToList();
