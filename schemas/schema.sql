@@ -9,7 +9,7 @@ CREATE TABLE Banks (
     Type VARCHAR(30) NULL,
     PixType VARCHAR(4) NULL,
     Url VARCHAR(255) NULL,
-    DateOperationStart CHAR(10) NULL,
-    DatePixStart CHAR(10) NULL,
+    DateOperationStarted CHAR(10) NULL,
+    DatePixStarted CHAR(10) NULL,
     DateRegistered DATETIME NOT NULL,
     DateUpdated DATETIME NOT NULL);
