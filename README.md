@@ -119,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Changelog
 
+- 2021-08-02: Adicionado 2 novos bancos (421 - LAR CREDI e 425 - SOCINAL), atualizado 2 novos participantes do SPI (PIX) e atualizado nome de 2 bancos - [@guibranco](https://github.com/guibranco)
 - 2021-06-22: Adicionado 2 novos bancos e atualizado 4 novos participantes do SPI (PIX) - [@guibranco](https://github.com/guibranco)
 - 2021-06-09: [Issue #82](https://github.com/guibranco/BancosBrasileiros/issues/82) - Corrigido caracter inválido no nome do banco COMPE 014 - [@mdapper](https://github.com/mdapper)
 - 2021-05-21: [Issue #75](https://github.com/guibranco/BancosBrasileiros/milestone/75) - Adicionado BIORC - [@guibranco](https://github.com/guibranco)
