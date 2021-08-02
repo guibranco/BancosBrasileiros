@@ -555,7 +555,7 @@
     <ISPB>05463212</ISPB>
     <Document>05.463.212/0001-29</Document>
     <LongName>Cooperativa Central de Crédito - Ailos</LongName>
-    <ShortName>COOP CENTRAL AILOS</ShortName>
+    <ShortName>COOPCENTRAL AILOS</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
@@ -800,8 +800,8 @@
     <COMPE>113</COMPE>
     <ISPB>61723847</ISPB>
     <Document>61.723.847/0001-99</Document>
-    <LongName>Magliano S.A. Corretora de Cambio e Valores Mobiliarios</LongName>
-    <ShortName>MAGLIANO S.A. CCVM</ShortName>
+    <LongName>MAGLIANO S.A. CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS</LongName>
+    <ShortName>MAGLIANO</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-11-28</DateOperationStarted>
     <DateRegistered />
@@ -2307,7 +2307,9 @@
     <LongName>MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>MIDWAY S.A. - SCFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-02-01</DateOperationStarted>
+    <DatePixStarted>2021-07-19 15:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2904,6 +2906,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>421</COMPE>
+    <ISPB>39343350</ISPB>
+    <Document>39.343.350/0001-96</Document>
+    <LongName>LAR COOPERATIVA DE CRÉDITO - LAR CREDI</LongName>
+    <ShortName>CC LAR CREDI</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-07-21</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>422</COMPE>
     <ISPB>58160789</ISPB>
     <Document>58.160.789/0001-28</Document>
@@ -2926,6 +2939,17 @@
     <ShortName>COLUNA S.A. DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-06-07</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>425</COMPE>
+    <ISPB>03881423</ISPB>
+    <Document>03.881.423/0001-56</Document>
+    <LongName>SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>SOCINAL S.A. CFI</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-07-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3616,8 +3640,10 @@
     <ShortName>BCO KEB HANA DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancokeb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>

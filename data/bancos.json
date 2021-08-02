@@ -619,7 +619,7 @@
     "ISPB": "05463212",
     "Document": "05.463.212/0001-29",
     "LongName": "Cooperativa Central de Crédito - Ailos",
-    "ShortName": "COOP CENTRAL AILOS",
+    "ShortName": "COOPCENTRAL AILOS",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -627,7 +627,7 @@
     "DateOperationStarted": "2010-05-17",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114586-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114588-03:00"
+    "DateUpdated": "2021-08-02T11:56:52.2991586-03:00"
   },
   {
     "COMPE": "088",
@@ -918,8 +918,8 @@
     "COMPE": "113",
     "ISPB": "61723847",
     "Document": "61.723.847/0001-99",
-    "LongName": "Magliano S.A. Corretora de Cambio e Valores Mobiliarios",
-    "ShortName": "MAGLIANO S.A. CCVM",
+    "LongName": "MAGLIANO S.A. CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "ShortName": "MAGLIANO",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -927,7 +927,7 @@
     "DateOperationStarted": "2011-11-28",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711531-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115311-03:00"
+    "DateUpdated": "2021-08-02T11:56:52.3036648-03:00"
   },
   {
     "COMPE": "114",
@@ -2767,12 +2767,12 @@
     "ShortName": "MIDWAY S.A. - SCFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2021-02-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-07-19 15:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114686-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114688-03:00"
+    "DateUpdated": "2021-08-02T11:56:54.6720893-03:00"
   },
   {
     "COMPE": "359",
@@ -3510,6 +3510,21 @@
     "DateUpdated": "2021-05-05T09:11:12.7115152-03:00"
   },
   {
+    "COMPE": "421",
+    "ISPB": "39343350",
+    "Document": "39.343.350/0001-96",
+    "LongName": "LAR COOPERATIVA DE CRÉDITO - LAR CREDI",
+    "ShortName": "CC LAR CREDI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-07-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-08-02T11:56:55.6601604-03:00",
+    "DateUpdated": "2021-08-02T11:56:55.660161-03:00"
+  },
+  {
     "COMPE": "422",
     "ISPB": "58160789",
     "Document": "58.160.789/0001-28",
@@ -3538,6 +3553,21 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-06-03T10:45:43.4334262-03:00",
     "DateUpdated": "2021-06-03T10:45:43.4334304-03:00"
+  },
+  {
+    "COMPE": "425",
+    "ISPB": "03881423",
+    "Document": "03.881.423/0001-56",
+    "LongName": "SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "SOCINAL S.A. CFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-07-27",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-08-02T11:56:55.6601087-03:00",
+    "DateUpdated": "2021-08-02T11:56:55.6601588-03:00"
   },
   {
     "COMPE": "426",
@@ -4312,11 +4342,11 @@
     "ShortName": "BCO KEB HANA DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": "https://www.bancokeb.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-08-09 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114464-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114466-03:00"
+    "DateUpdated": "2021-08-02T11:56:53.8900906-03:00"
   }
 ]
