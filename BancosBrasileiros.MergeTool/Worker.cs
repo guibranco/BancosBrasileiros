@@ -107,7 +107,7 @@ namespace BancosBrasileiros.MergeTool
 
             if (added.Any())
             {
-                changeLog.Append($"- Adicionado {added.Count} bancos ({string.Join(", ", added.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
+                changeLog.Append($"Adicionado {added.Count} bancos ({string.Join(", ", added.Select(i => $"{i.Compe} - {i.ShortName}"))}). ");
 
                 pullRequestText.AppendLine($"Added banks: {added.Count}\r\n");
 
@@ -132,7 +132,7 @@ namespace BancosBrasileiros.MergeTool
 
             if (updated.Any())
             {
-                changeLog.Append($"- Atualizado {updated.Count} bancos ({string.Join(", ", updated.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
+                changeLog.Append($"Atualizado {updated.Count} bancos ({string.Join(", ", updated.Select(i => $"{i.Compe} - {i.ShortName}"))}). ");
 
                 pullRequestText.AppendLine($"Updated banks: {updated.Count}\r\n");
 
