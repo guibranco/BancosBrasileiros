@@ -103,19 +103,19 @@ namespace BancosBrasileiros.MergeTool
 
             var color = ConsoleColor.DarkGreen;
 
-            changeLog.Append($"{DateTime.Now:yyyy-MM-dd} ");
+            changeLog.Append($"{DateTime.Now:yyyy-MM-dd}: ");
 
             if (added.Any())
             {
-                changeLog.Append($"- Adicionado {added.Count} bancos ({string.Join(",", added.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
+                changeLog.Append($"- Adicionado {added.Count} bancos ({string.Join(", ", added.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
 
-                pullRequestText.AppendLine($"Added banks: {added.Count}");
+                pullRequestText.AppendLine($"Added banks: {added.Count}\r\n");
 
                 Console.WriteLine($"\r\nAdded items: {added.Count}\r\n\r\n");
 
                 foreach (var item in added)
                 {
-                    pullRequestText.AppendLine($"[X] {item.Compe} - {item.LongName} - {item.Document}");
+                    pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
 
                     Console.ForegroundColor = color;
                     color = color == ConsoleColor.DarkGreen ? ConsoleColor.Cyan : ConsoleColor.DarkGreen;
@@ -123,6 +123,7 @@ namespace BancosBrasileiros.MergeTool
                     Console.WriteLine($"Added: {item}\r\n");
                 }
 
+                pullRequestText.AppendLine("");
             }
 
             Console.ForegroundColor = ConsoleColor.White;
@@ -131,15 +132,15 @@ namespace BancosBrasileiros.MergeTool
 
             if (updated.Any())
             {
-                changeLog.Append($"- Atualizado {updated.Count} bancos ({string.Join(",", updated.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
+                changeLog.Append($"- Atualizado {updated.Count} bancos ({string.Join(", ", updated.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
 
-                pullRequestText.AppendLine($"Updated banks: {updated.Count}");
+                pullRequestText.AppendLine($"Updated banks: {updated.Count}\r\n");
 
                 Console.WriteLine($"\r\nUpdated items: {updated.Count}\r\n\r\n");
 
                 foreach (var item in updated)
                 {
-                    pullRequestText.AppendLine($"[X] {item.Compe} - {item.LongName} - {item.Document}");
+                    pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
 
                     Console.ForegroundColor = color;
                     color = color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
