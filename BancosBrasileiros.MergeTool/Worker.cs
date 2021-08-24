@@ -16,11 +16,14 @@ namespace BancosBrasileiros.MergeTool
 {
     using Helpers;
     using System;
+    using System.Collections.Generic;
     using System.Diagnostics;
     using System.IO;
     using System.Linq;
     using System.Runtime.Serialization.Formatters.Binary;
+    using BancosBrasileiros.MergeTool.Dto;
     using CrispyWaffle.Extensions;
+    using iTextSharp.text;
 
     /// <summary>
     /// Class Worker.
@@ -38,6 +41,7 @@ namespace BancosBrasileiros.MergeTool
             var reader = new Reader();
 
             var source = reader.LoadBase();
+            var initial = source.ToArray().ToList();
             var str = reader.LoadStr();
             var slc = reader.LoadSlc();
             var pix = reader.LoadPix();
@@ -60,10 +64,14 @@ namespace BancosBrasileiros.MergeTool
 
             var types = source.GroupBy(b => b.Type);
 
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+
             foreach (var type in types.OrderBy(g => g.Key))
             {
                 Console.WriteLine($"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}");
             }
+
+            Console.ForegroundColor = ConsoleColor.White;
 
             source = source.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
 
@@ -76,16 +84,49 @@ namespace BancosBrasileiros.MergeTool
                 return;
             }
 
-            Console.WriteLine($"\r\nUpdated items: {except.Count}\r\n");
-
-            var color = ConsoleColor.Magenta;
+            var created = new List<Bank>();
+            var updated = new List<Bank>();
 
             foreach (var exc in except)
             {
-                Console.ForegroundColor = color;
-                color = color == ConsoleColor.Magenta ? ConsoleColor.Cyan : ConsoleColor.Magenta;
+                var isUpdated = initial.Any(b => b.Ispb == exc.Ispb);
 
-                Console.WriteLine($"Updated: {exc}\r\n");
+                if (isUpdated)
+                    updated.Add(exc);
+                else
+                    created.Add(exc);
+            }
+
+            var color = ConsoleColor.DarkGreen;
+
+            if (created.Any())
+            {
+                Console.WriteLine($"\r\nCreated items: {created.Count}\r\n\r\n");
+
+                foreach (var item in created)
+                {
+                    Console.ForegroundColor = color;
+                    color = color == ConsoleColor.DarkGreen ? ConsoleColor.Cyan : ConsoleColor.DarkGreen;
+
+                    Console.WriteLine($"Created: {item}\r\n");
+                }
+            }
+
+            Console.ForegroundColor = ConsoleColor.White;
+
+            color = ConsoleColor.DarkBlue;
+
+            if (updated.Any())
+            {
+                Console.WriteLine($"\r\nUpdated items: {updated.Count}\r\n\r\n");
+
+                foreach (var item in updated)
+                {
+                    Console.ForegroundColor = color;
+                    color = color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
+
+                    Console.WriteLine($"Updated: {item}\r\n");
+                }
             }
 
             Console.ForegroundColor = ConsoleColor.White;
