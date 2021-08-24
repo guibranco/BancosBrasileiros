@@ -21,6 +21,7 @@ namespace BancosBrasileiros.MergeTool
     using System.IO;
     using System.Linq;
     using System.Runtime.Serialization.Formatters.Binary;
+    using System.Text;
     using BancosBrasileiros.MergeTool.Dto;
     using CrispyWaffle.Extensions;
     using iTextSharp.text;
@@ -84,7 +85,7 @@ namespace BancosBrasileiros.MergeTool
                 return;
             }
 
-            var created = new List<Bank>();
+            var added = new List<Bank>();
             var updated = new List<Bank>();
 
             foreach (var exc in except)
@@ -94,22 +95,34 @@ namespace BancosBrasileiros.MergeTool
                 if (isUpdated)
                     updated.Add(exc);
                 else
-                    created.Add(exc);
+                    added.Add(exc);
             }
+
+            var changeLog = new StringBuilder();
+            var pullRequestText = new StringBuilder();
 
             var color = ConsoleColor.DarkGreen;
 
-            if (created.Any())
-            {
-                Console.WriteLine($"\r\nCreated items: {created.Count}\r\n\r\n");
+            changeLog.Append($"{DateTime.Now:yyyy-MM-dd} ");
 
-                foreach (var item in created)
+            if (added.Any())
+            {
+                changeLog.Append($"- Adicionado {added.Count} bancos ({string.Join(",", added.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
+
+                pullRequestText.AppendLine($"Added banks: {added.Count}");
+
+                Console.WriteLine($"\r\nAdded items: {added.Count}\r\n\r\n");
+
+                foreach (var item in added)
                 {
+                    pullRequestText.AppendLine($"[X] {item.Compe} - {item.LongName} - {item.Document}");
+
                     Console.ForegroundColor = color;
                     color = color == ConsoleColor.DarkGreen ? ConsoleColor.Cyan : ConsoleColor.DarkGreen;
 
-                    Console.WriteLine($"Created: {item}\r\n");
+                    Console.WriteLine($"Added: {item}\r\n");
                 }
+
             }
 
             Console.ForegroundColor = ConsoleColor.White;
@@ -118,10 +131,16 @@ namespace BancosBrasileiros.MergeTool
 
             if (updated.Any())
             {
+                changeLog.Append($"- Atualizado {updated.Count} bancos ({string.Join(",", updated.Select(i => $"{i.Compe} - {i.ShortName}"))}) ");
+
+                pullRequestText.AppendLine($"Updated banks: {updated.Count}");
+
                 Console.WriteLine($"\r\nUpdated items: {updated.Count}\r\n\r\n");
 
                 foreach (var item in updated)
                 {
+                    pullRequestText.AppendLine($"[X] {item.Compe} - {item.LongName} - {item.Document}");
+
                     Console.ForegroundColor = color;
                     color = color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
 
@@ -129,10 +148,14 @@ namespace BancosBrasileiros.MergeTool
                 }
             }
 
+            changeLog.Append("- [@guibranco](https://github.com/guibranco)");
+
             Console.ForegroundColor = ConsoleColor.White;
 
             Console.WriteLine("\r\nSaving result files");
 
+            Writer.WriteChangeLog(changeLog.ToString());
+            Writer.WritePullRequest(pullRequestText.ToString());
             Writer.Save(source);
 
             Console.WriteLine($"Merge done. Banks: {source.Count} | Check 'result' folder in 'bin' directory!");

@@ -14,6 +14,7 @@
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
+    using System;
     using CrispyWaffle.Serialization;
     using Dto;
     using System.Collections.Generic;
@@ -26,6 +27,30 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// </summary>
     internal static class Writer
     {
+        /// <summary>
+        /// Writes the change log.
+        /// </summary>
+        /// <param name="changeLog">The change log.</param>
+        public static void WriteChangeLog(string changeLog)
+        {
+            if (!Directory.Exists("result"))
+                Directory.CreateDirectory("result");
+
+            File.WriteAllText("result\\changeLog.txt", changeLog);
+        }
+
+        /// <summary>
+        /// Writes the pull request.
+        /// </summary>
+        /// <param name="pullRequest">The pull request.</param>
+        public static void WritePullRequest(string pullRequest)
+        {
+            if (!Directory.Exists("result"))
+                Directory.CreateDirectory("result");
+
+            File.WriteAllText("result\\pullRequest.txt", pullRequest);
+        }
+
         /// <summary>
         /// Saves the specified banks.
         /// </summary>
