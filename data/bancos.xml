@@ -1189,7 +1189,7 @@
     <ISPB>43180355</ISPB>
     <Document>43.180.355/0001-12</Document>
     <LongName>PEFISA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>PEFISA S.A. - CFI</ShortName>
+    <ShortName>PEFISA S.A. - C.F.I.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2017-11-21</DateOperationStarted>
@@ -1295,6 +1295,17 @@
     <ShortName>PARMETAL DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-10-25</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>195</COMPE>
+    <ISPB>07799277</ISPB>
+    <Document>07.799.277/0001-75</Document>
+    <LongName>VALOR SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>VALOR SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-08-09</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2730,8 +2741,8 @@
     <COMPE>400</COMPE>
     <ISPB>05491616</ISPB>
     <Document>05.491.616/0001-26</Document>
-    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE</LongName>
-    <ShortName>CC POUP SER FIN CO</ShortName>
+    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT</LongName>
+    <ShortName>COOP CREDITAG</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered />
@@ -2895,6 +2906,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>418</COMPE>
+    <ISPB>37414009</ISPB>
+    <Document>37.414.009/0001-59</Document>
+    <LongName>ZIPDIN SOLUÇÕES DIGITAIS SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>ZIPDIN SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-08-26</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>419</COMPE>
     <ISPB>38129006</ISPB>
     <Document>38.129.006/0001-36</Document>
@@ -2987,6 +3009,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>430</COMPE>
+    <ISPB>00204963</ISPB>
+    <Document>00.204.963/0001-07</Document>
+    <LongName>COOPERATIVA DE CREDITO RURAL SEARA - CREDISEARA</LongName>
+    <ShortName>CCR SEARA</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-08-27</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>433</COMPE>
     <ISPB>44077014</ISPB>
     <Document>44.077.014/0001-89</Document>
@@ -2994,6 +3027,17 @@
     <ShortName>BR-CAPITAL DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-06-21</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>435</COMPE>
+    <ISPB>38224857</ISPB>
+    <Document>38.224.857/0001-68</Document>
+    <LongName>DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>DELCRED SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3016,6 +3060,17 @@
     <ShortName>PLANTAE CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-06-23</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>448</COMPE>
+    <ISPB>39669186</ISPB>
+    <Document>39.669.186/0001-01</Document>
+    <LongName>HEMERA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>HEMERA DTVM LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-08-17</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3504,8 +3559,10 @@
     <ShortName>BCO CITIBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.citibank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2021-09-03 06:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
