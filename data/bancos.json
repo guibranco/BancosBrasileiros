@@ -2733,8 +2733,8 @@
     "COMPE": "352",
     "ISPB": "29162769",
     "Document": "29.162.769/0001-98",
-    "LongName": "TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "TORO CTVM LTDA",
+    "LongName": "TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "TORO CTVM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2742,7 +2742,7 @@
     "DateOperationStarted": "2019-11-29",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115003-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115004-03:00"
+    "DateUpdated": "2021-09-13T19:08:15.553781-03:00"
   },
   {
     "COMPE": "354",
@@ -3645,6 +3645,21 @@
     "DateUpdated": "2021-05-05T09:11:12.7115156-03:00"
   },
   {
+    "COMPE": "429",
+    "ISPB": "05676026",
+    "Document": "05.676.026/0001-78",
+    "LongName": "Crediare S.A. - Crédito, financiamento e investimento",
+    "ShortName": "CREDIARE CFI S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-13T19:08:16.9817149-03:00",
+    "DateUpdated": "2021-09-13T19:08:16.9817366-03:00"
+  },
+  {
     "COMPE": "430",
     "ISPB": "00204963",
     "Document": "00.204.963/0001-07",
@@ -3705,6 +3720,51 @@
     "DateUpdated": "2021-05-05T09:11:12.7115405-03:00"
   },
   {
+    "COMPE": "440",
+    "ISPB": "82096447",
+    "Document": "82.096.447/0001-70",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO BRF - CREDIBRF",
+    "ShortName": "CECM BRF",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-02",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-13T19:08:16.9817387-03:00",
+    "DateUpdated": "2021-09-13T19:08:16.9817389-03:00"
+  },
+  {
+    "COMPE": "442",
+    "ISPB": "87963450",
+    "Document": "87.963.450/0001-68",
+    "LongName": "MAGNETIS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "MAGNETIS - DTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-15",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-13T19:08:16.9817391-03:00",
+    "DateUpdated": "2021-09-13T19:08:16.9817393-03:00"
+  },
+  {
+    "COMPE": "444",
+    "ISPB": "40654622",
+    "Document": "40.654.622/0001-58",
+    "LongName": "TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "TRINUS SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-09",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-13T19:08:16.9817382-03:00",
+    "DateUpdated": "2021-09-13T19:08:16.9817384-03:00"
+  },
+  {
     "COMPE": "445",
     "ISPB": "35551187",
     "Document": "35.551.187/0001-04",
@@ -3750,6 +3810,21 @@
     "DateUpdated": "2021-07-06T07:20:49.2255004-03:00"
   },
   {
+    "COMPE": "452",
+    "ISPB": "39676772",
+    "Document": "39.676.772/0001-83",
+    "LongName": "CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CREDIFIT SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-15",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-13T19:08:16.9817378-03:00",
+    "DateUpdated": "2021-09-13T19:08:16.981738-03:00"
+  },
+  {
     "COMPE": "456",
     "ISPB": "60498557",
     "Document": "60.498.557/0001-26",
@@ -3763,6 +3838,21 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711525-03:00",
     "DateUpdated": "2021-05-05T09:11:12.7115252-03:00"
+  },
+  {
+    "COMPE": "458",
+    "ISPB": "07253654",
+    "Document": "07.253.654/0001-76",
+    "LongName": "HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "HEDGE INVESTMENTS DTVM LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-13T19:08:16.9817372-03:00",
+    "DateUpdated": "2021-09-13T19:08:16.9817374-03:00"
   },
   {
     "COMPE": "464",
@@ -4038,8 +4128,8 @@
     "COMPE": "630",
     "ISPB": "58497702",
     "Document": "58.497.702/0001-02",
-    "LongName": "Banco Smartbank S.A.",
-    "ShortName": "SMARTBANK",
+    "LongName": "BANCO LETSBANK S.A.",
+    "ShortName": "BCO LETSBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": "DRCT",
@@ -4047,7 +4137,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115221-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115223-03:00"
+    "DateUpdated": "2021-09-13T19:08:15.5552882-03:00"
   },
   {
     "COMPE": "633",
