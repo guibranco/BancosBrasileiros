@@ -2280,8 +2280,8 @@
     <COMPE>352</COMPE>
     <ISPB>29162769</ISPB>
     <Document>29.162.769/0001-98</Document>
-    <LongName>TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>TORO CTVM LTDA</ShortName>
+    <LongName>TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>TORO CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-11-29</DateOperationStarted>
     <DateRegistered />
@@ -3009,6 +3009,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>429</COMPE>
+    <ISPB>05676026</ISPB>
+    <Document>05.676.026/0001-78</Document>
+    <LongName>Crediare S.A. - Crédito, financiamento e investimento</LongName>
+    <ShortName>CREDIARE CFI S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-08</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>430</COMPE>
     <ISPB>00204963</ISPB>
     <Document>00.204.963/0001-07</Document>
@@ -3053,6 +3064,39 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>440</COMPE>
+    <ISPB>82096447</ISPB>
+    <Document>82.096.447/0001-70</Document>
+    <LongName>COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO BRF - CREDIBRF</LongName>
+    <ShortName>CECM BRF</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-02</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>442</COMPE>
+    <ISPB>87963450</ISPB>
+    <Document>87.963.450/0001-68</Document>
+    <LongName>MAGNETIS - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>MAGNETIS - DTVM</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-15</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>444</COMPE>
+    <ISPB>40654622</ISPB>
+    <Document>40.654.622/0001-58</Document>
+    <LongName>TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>TRINUS SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-09</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>445</COMPE>
     <ISPB>35551187</ISPB>
     <Document>35.551.187/0001-04</Document>
@@ -3086,6 +3130,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>452</COMPE>
+    <ISPB>39676772</ISPB>
+    <Document>39.676.772/0001-83</Document>
+    <LongName>CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>CREDIFIT SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-15</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>456</COMPE>
     <ISPB>60498557</ISPB>
     <Document>60.498.557/0001-26</Document>
@@ -3095,6 +3150,17 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.br.bk.mufg.jp</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>458</COMPE>
+    <ISPB>07253654</ISPB>
+    <Document>07.253.654/0001-76</Document>
+    <LongName>HEDGE INVESTMENTS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>HEDGE INVESTMENTS DTVM LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3340,8 +3406,8 @@
     <COMPE>630</COMPE>
     <ISPB>58497702</ISPB>
     <Document>58.497.702/0001-02</Document>
-    <LongName>Banco Smartbank S.A.</LongName>
-    <ShortName>SMARTBANK</ShortName>
+    <LongName>BANCO LETSBANK S.A.</LongName>
+    <ShortName>BCO LETSBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
