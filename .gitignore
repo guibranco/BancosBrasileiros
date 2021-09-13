@@ -380,3 +380,4 @@ FodyWeavers.xsd
 *.tlog
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode
+pullRequest.txt
