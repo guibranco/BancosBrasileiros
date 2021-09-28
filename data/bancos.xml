@@ -99,7 +99,7 @@
     <COMPE>014</COMPE>
     <ISPB>09274232</ISPB>
     <Document>09.274.232/0001-02</Document>
-    <LongName>STATE STREET BRASIL S.A. - BANCO COMERCIAL</LongName>
+    <LongName>STATE STREET BRASIL S.A. - BANCO COMERCIL</LongName>
     <ShortName>STATE STREET BR S.A. BCO COMERCIAL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
@@ -801,7 +801,7 @@
     <ISPB>61723847</ISPB>
     <Document>61.723.847/0001-99</Document>
     <LongName>MAGLIANO S.A. CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS</LongName>
-    <ShortName>MAGLIANO</ShortName>
+    <ShortName>MAGLIANO S A  CTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-11-28</DateOperationStarted>
     <DateRegistered />
@@ -1061,8 +1061,8 @@
     <COMPE>140</COMPE>
     <ISPB>62169875</ISPB>
     <Document>62.169.875/0001-79</Document>
-    <LongName>Easynvest - Título Corretora de Valores SA</LongName>
-    <ShortName>EASYNVEST - TÍTULO CV SA</ShortName>
+    <LongName>NU INVEST CORRETORA DE VALORES S.A.</LongName>
+    <ShortName>NU INVEST CORRETORA DE VALORES S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2015-05-26</DateOperationStarted>
     <DateRegistered />
@@ -1571,8 +1571,8 @@
     <COMPE>260</COMPE>
     <ISPB>18236120</ISPB>
     <Document>18.236.120/0001-58</Document>
-    <LongName>Nu Pagamentos S.A.</LongName>
-    <ShortName>NU PAGAMENTOS S.A.</ShortName>
+    <LongName>NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO</LongName>
+    <ShortName>NU PAGAMENTOS - IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2017-10-10</DateOperationStarted>
@@ -3064,6 +3064,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>439</COMPE>
+    <ISPB>16695922</ISPB>
+    <Document>16.695.922/0001-09</Document>
+    <LongName>ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>ID CTVM</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-30</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>440</COMPE>
     <ISPB>82096447</ISPB>
     <Document>82.096.447/0001-70</Document>
@@ -3104,6 +3115,17 @@
     <ShortName>PLANTAE CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-06-23</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>447</COMPE>
+    <ISPB>12392983</ISPB>
+    <Document>12.392.983/0001-38</Document>
+    <LongName>MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO</LongName>
+    <ShortName>MIRAE ASSET CCTVM LTDA</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-09-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
