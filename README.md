@@ -120,6 +120,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 ## Changelog
 
 
+- 2021-09-28: Adicionado 2 bancos (447 - MIRAE ASSET CCTVM LTDA, 439 - ID CTVM). Atualizado 4 bancos (14 - STATE STREET BR S.A. BCO COMERCIAL, 113 - MAGLIANO S A  CTVM, 140 - NU INVEST CORRETORA DE VALORES S.A., 260 - NU PAGAMENTOS - IP). - [@guibranco](https://github.com/guibranco)
 - 2021-09-13: Adicionado 6 bancos (429 - CREDIARE CFI S.A., 458 - HEDGE INVESTMENTS DTVM LTDA., 452 - CREDIFIT SCD S.A., 444 - TRINUS SCD S.A., 440 - CECM BRF, 442 - MAGNETIS - DTVM). Atualizado 2 bancos (352 - TORO CTVM S.A., 630 - BCO LETSBANK S.A.). - [@guibranco](https://github.com/guibranco)
 - 2021-08-24: - Adicionado 5 bancos (430 - CCR SEARA, 195 - VALOR SCD S.A., 418 - ZIPDIN SCD S.A., 435 - DELCRED SCD S.A., 448 - HEMERA DTVM LTDA.) - Atualizado 3 bancos (174 - PEFISA S.A. - C.F.I., 400 - COOP CREDITAG, 745 - BCO CITIBANK S.A.) - [@guibranco](https://github.com/guibranco)
 - 2021-08-02: Adicionado 2 novos bancos (421 - LAR CREDI e 425 - SOCINAL), atualizado 2 novos participantes do SPI (PIX) e atualizado nome de 2 bancos - [@guibranco](https://github.com/guibranco)

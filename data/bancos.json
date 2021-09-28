@@ -108,7 +108,7 @@
     "COMPE": "014",
     "ISPB": "09274232",
     "Document": "09.274.232/0001-02",
-    "LongName": "STATE STREET BRASIL S.A. - BANCO COMERCIAL",
+    "LongName": "STATE STREET BRASIL S.A. - BANCO COMERCIL",
     "ShortName": "STATE STREET BR S.A. BCO COMERCIAL",
     "Network": "RSFN",
     "Type": "Banco Comercial",
@@ -117,7 +117,7 @@
     "DateOperationStarted": "2008-08-08",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114679-03:00",
-    "DateUpdated": "2021-06-09T14:25:11.5150376-03:00"
+    "DateUpdated": "2021-09-28T05:25:17.0205869-03:00"
   },
   {
     "COMPE": "015",
@@ -919,7 +919,7 @@
     "ISPB": "61723847",
     "Document": "61.723.847/0001-99",
     "LongName": "MAGLIANO S.A. CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
-    "ShortName": "MAGLIANO",
+    "ShortName": "MAGLIANO S A  CTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -927,7 +927,7 @@
     "DateOperationStarted": "2011-11-28",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711531-03:00",
-    "DateUpdated": "2021-08-02T11:56:52.3036648-03:00"
+    "DateUpdated": "2021-09-28T05:25:17.0255409-03:00"
   },
   {
     "COMPE": "114",
@@ -1233,8 +1233,8 @@
     "COMPE": "140",
     "ISPB": "62169875",
     "Document": "62.169.875/0001-79",
-    "LongName": "Easynvest - Título Corretora de Valores SA",
-    "ShortName": "EASYNVEST - TÍTULO CV SA",
+    "LongName": "NU INVEST CORRETORA DE VALORES S.A.",
+    "ShortName": "NU INVEST CORRETORA DE VALORES S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -1242,7 +1242,7 @@
     "DateOperationStarted": "2015-05-26",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115335-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115337-03:00"
+    "DateUpdated": "2021-09-28T05:25:17.025616-03:00"
   },
   {
     "COMPE": "142",
@@ -1848,8 +1848,8 @@
     "COMPE": "260",
     "ISPB": "18236120",
     "Document": "18.236.120/0001-58",
-    "LongName": "Nu Pagamentos S.A.",
-    "ShortName": "NU PAGAMENTOS S.A.",
+    "LongName": "NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "NU PAGAMENTOS - IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -1857,7 +1857,7 @@
     "DateOperationStarted": "2017-10-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114912-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114913-03:00"
+    "DateUpdated": "2021-09-28T05:25:17.0242624-03:00"
   },
   {
     "COMPE": "265",
@@ -3720,6 +3720,21 @@
     "DateUpdated": "2021-05-05T09:11:12.7115405-03:00"
   },
   {
+    "COMPE": "439",
+    "ISPB": "16695922",
+    "Document": "16.695.922/0001-09",
+    "LongName": "ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "ID CTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-30",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-28T05:25:19.3476011-03:00",
+    "DateUpdated": "2021-09-28T05:25:19.3476014-03:00"
+  },
+  {
     "COMPE": "440",
     "ISPB": "82096447",
     "Document": "82.096.447/0001-70",
@@ -3778,6 +3793,21 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-06-22T10:03:37.2758379-03:00",
     "DateUpdated": "2021-06-22T10:03:37.2758811-03:00"
+  },
+  {
+    "COMPE": "447",
+    "ISPB": "12392983",
+    "Document": "12.392.983/0001-38",
+    "LongName": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO",
+    "ShortName": "MIRAE ASSET CCTVM LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-09-27",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-09-28T05:25:19.347575-03:00",
+    "DateUpdated": "2021-09-28T05:25:19.3476005-03:00"
   },
   {
     "COMPE": "448",
