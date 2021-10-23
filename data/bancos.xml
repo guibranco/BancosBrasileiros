@@ -99,7 +99,7 @@
     <COMPE>014</COMPE>
     <ISPB>09274232</ISPB>
     <Document>09.274.232/0001-02</Document>
-    <LongName>STATE STREET BRASIL S.A. - BANCO COMERCIL</LongName>
+    <LongName>STATE STREET BRASIL S.A. - BANCO COMERCIAL</LongName>
     <ShortName>STATE STREET BR S.A. BCO COMERCIAL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
@@ -541,8 +541,8 @@
     <COMPE>084</COMPE>
     <ISPB>02398976</ISPB>
     <Document>02.398.976/0001-90</Document>
-    <LongName>UNIPRIME NORTE DO PARANÁ - COOPERATIVA DE CRÉDITO LTDA</LongName>
-    <ShortName>UNIPRIME NORTE DO PARANÁ - CC</ShortName>
+    <LongName>UNIPRIME DO BRASIL - COOPERATIVA DE CRéDITO LTDA.</LongName>
+    <ShortName>UNIPRIME DO BRASIL - CC LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
@@ -3078,8 +3078,8 @@
     <COMPE>440</COMPE>
     <ISPB>82096447</ISPB>
     <Document>82.096.447/0001-70</Document>
-    <LongName>COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO BRF - CREDIBRF</LongName>
-    <ShortName>CECM BRF</ShortName>
+    <LongName>CREDIBRF - COOPERATIVA DE CRÉDITO</LongName>
+    <ShortName>CREDIBRF COOP</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-02</DateOperationStarted>
     <DateRegistered />
@@ -3141,6 +3141,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>449</COMPE>
+    <ISPB>37555231</ISPB>
+    <Document>37.555.231/0001-71</Document>
+    <LongName>DMCARD SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>DMCARD SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-10-22</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>450</COMPE>
     <ISPB>13203354</ISPB>
     <Document>13.203.354/0001-85</Document>
@@ -3176,6 +3187,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>457</COMPE>
+    <ISPB>39587424</ISPB>
+    <Document>39.587.424/0001-30</Document>
+    <LongName>PLATACRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>PLATACRED SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-10-26</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>458</COMPE>
     <ISPB>07253654</ISPB>
     <Document>07.253.654/0001-76</Document>
@@ -3183,6 +3205,17 @@
     <ShortName>HEDGE INVESTMENTS DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>462</COMPE>
+    <ISPB>39908427</ISPB>
+    <Document>39.908.427/0001-28</Document>
+    <LongName>STARK SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>STARK SCD S.A.</ShortName>
+    <Network>Internet</Network>
+    <DateOperationStarted>2021-10-01</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
