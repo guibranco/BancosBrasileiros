@@ -19,7 +19,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using Org.BouncyCastle.Crypto.Generators;
 
     /// <summary>
     /// Class Seeder.

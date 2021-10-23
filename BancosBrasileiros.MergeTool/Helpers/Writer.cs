@@ -14,7 +14,6 @@
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
-    using System;
     using CrispyWaffle.Serialization;
     using Dto;
     using System.Collections.Generic;

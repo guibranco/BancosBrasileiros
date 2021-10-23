@@ -23,8 +23,6 @@ namespace BancosBrasileiros.MergeTool
     using System.Runtime.Serialization.Formatters.Binary;
     using System.Text;
     using BancosBrasileiros.MergeTool.Dto;
-    using CrispyWaffle.Extensions;
-    using iTextSharp.text;
 
     /// <summary>
     /// Class Worker.
@@ -166,7 +164,7 @@ namespace BancosBrasileiros.MergeTool
             Process.Start("explorer.exe", resultDirectory);
         }
 
-        public static T DeepCopy<T>(T item)
+        private static T DeepCopy<T>(T item)
         {
             var formatter = new BinaryFormatter();
             var stream = new MemoryStream();
