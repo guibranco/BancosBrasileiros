@@ -3048,7 +3048,7 @@
     "COMPE": "380",
     "ISPB": "22896431",
     "Document": "22.896.431/0001-10",
-    "LongName": "PICPAY SERVICOS S.A.",
+    "LongName": "PICPAY INSTITUIçãO DE PAGAMENTO S.A.",
     "ShortName": "PICPAY",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -3057,7 +3057,7 @@
     "DateOperationStarted": "2020-10-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114941-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114943-03:00"
+    "DateUpdated": "2021-11-22T11:00:21.1488883-03:00"
   },
   {
     "COMPE": "381",
@@ -3765,6 +3765,21 @@
     "DateUpdated": "2021-09-13T19:08:16.9817393-03:00"
   },
   {
+    "COMPE": "443",
+    "ISPB": "39416705",
+    "Document": "39.416.705/0001-20",
+    "LongName": "CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CREDIHOME SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-11-18",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-11-22T11:00:23.679021-03:00",
+    "DateUpdated": "2021-11-22T11:00:23.6790215-03:00"
+  },
+  {
     "COMPE": "444",
     "ISPB": "40654622",
     "Document": "40.654.622/0001-58",
@@ -3870,6 +3885,21 @@
     "DateUpdated": "2021-09-13T19:08:16.981738-03:00"
   },
   {
+    "COMPE": "454",
+    "ISPB": "41592532",
+    "Document": "41.592.532/0001-42",
+    "LongName": "MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "MÉRITO DTVM LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-11-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-11-22T11:00:23.679022-03:00",
+    "DateUpdated": "2021-11-22T11:00:23.6790225-03:00"
+  },
+  {
     "COMPE": "456",
     "ISPB": "60498557",
     "Document": "60.498.557/0001-26",
@@ -3888,8 +3918,8 @@
     "COMPE": "457",
     "ISPB": "39587424",
     "Document": "39.587.424/0001-30",
-    "LongName": "PLATACRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "PLATACRED SCD S.A.",
+    "LongName": "UY3 SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "UY3 SCD S/A",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -3897,7 +3927,7 @@
     "DateOperationStarted": "2021-10-26",
     "DatePixStarted": null,
     "DateRegistered": "2021-10-23T20:55:03.4293722-03:00",
-    "DateUpdated": "2021-10-23T20:55:03.4293727-03:00"
+    "DateUpdated": "2021-11-22T11:00:21.150135-03:00"
   },
   {
     "COMPE": "458",
@@ -3913,6 +3943,36 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-09-13T19:08:16.9817372-03:00",
     "DateUpdated": "2021-09-13T19:08:16.9817374-03:00"
+  },
+  {
+    "COMPE": "459",
+    "ISPB": "04546162",
+    "Document": "04.546.162/0001-80",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE",
+    "ShortName": "CCM SERV. PÚBLICOS SP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-11-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-11-22T11:00:23.6789568-03:00",
+    "DateUpdated": "2021-11-22T11:00:23.6790184-03:00"
+  },
+  {
+    "COMPE": "461",
+    "ISPB": "19540550",
+    "Document": "19.540.550/0001-21",
+    "LongName": "ASAAS GESTÃO FINANCEIRA INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "ASAAS IP S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": "DRCT",
+    "Url": null,
+    "DateOperationStarted": "2021-10-29",
+    "DatePixStarted": "2021-11-01 09:00:00",
+    "DateRegistered": "2021-11-22T11:00:23.6790202-03:00",
+    "DateUpdated": "2021-11-22T11:00:22.8748291-03:00"
   },
   {
     "COMPE": "462",
