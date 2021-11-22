@@ -2528,7 +2528,7 @@
     <COMPE>380</COMPE>
     <ISPB>22896431</ISPB>
     <Document>22.896.431/0001-10</Document>
-    <LongName>PICPAY SERVICOS S.A.</LongName>
+    <LongName>PICPAY INSTITUIçãO DE PAGAMENTO S.A.</LongName>
     <ShortName>PICPAY</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
@@ -3097,6 +3097,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>443</COMPE>
+    <ISPB>39416705</ISPB>
+    <Document>39.416.705/0001-20</Document>
+    <LongName>CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>CREDIHOME SCD</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-11-18</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>444</COMPE>
     <ISPB>40654622</ISPB>
     <Document>40.654.622/0001-58</Document>
@@ -3174,6 +3185,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>454</COMPE>
+    <ISPB>41592532</ISPB>
+    <Document>41.592.532/0001-42</Document>
+    <LongName>MÉRITO DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>MÉRITO DTVM LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-11-23</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>456</COMPE>
     <ISPB>60498557</ISPB>
     <Document>60.498.557/0001-26</Document>
@@ -3190,8 +3212,8 @@
     <COMPE>457</COMPE>
     <ISPB>39587424</ISPB>
     <Document>39.587.424/0001-30</Document>
-    <LongName>PLATACRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>PLATACRED SCD S.A.</ShortName>
+    <LongName>UY3 SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>UY3 SCD S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-10-26</DateOperationStarted>
     <DateRegistered />
@@ -3205,6 +3227,30 @@
     <ShortName>HEDGE INVESTMENTS DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>459</COMPE>
+    <ISPB>04546162</ISPB>
+    <Document>04.546.162/0001-80</Document>
+    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE</LongName>
+    <ShortName>CCM SERV. PÚBLICOS SP</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-11-04</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>461</COMPE>
+    <ISPB>19540550</ISPB>
+    <Document>19.540.550/0001-21</Document>
+    <LongName>ASAAS GESTÃO FINANCEIRA INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>ASAAS IP S.A.</ShortName>
+    <Network>Internet</Network>
+    <PixType>DRCT</PixType>
+    <DateOperationStarted>2021-10-29</DateOperationStarted>
+    <DatePixStarted>2021-11-01 09:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
