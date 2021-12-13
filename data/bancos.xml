@@ -2559,7 +2559,9 @@
     <LongName>FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L</LongName>
     <ShortName>FIDUCIA SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-07-31</DateOperationStarted>
+    <DatePixStarted>2021-12-15 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2567,8 +2569,8 @@
     <COMPE>383</COMPE>
     <ISPB>21018182</ISPB>
     <Document>21.018.182/0001-06</Document>
-    <LongName>BOLETOBANCÁRIO.COM TECNOLOGIA DE PAGAMENTOS LTDA.</LongName>
-    <ShortName>JUNO</ShortName>
+    <LongName>EBANX INSTITUICAO DE PAGAMENTOS LTDA.</LongName>
+    <ShortName>EBANX IP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-07-09</DateOperationStarted>
@@ -2768,7 +2770,9 @@
     <LongName>COBUCCIO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>COBUCCIO SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-12-03</DateOperationStarted>
+    <DatePixStarted>2021-12-08 09:15:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3261,7 +3265,9 @@
     <LongName>STARK SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>STARK SCD S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-10-01</DateOperationStarted>
+    <DatePixStarted>2021-11-29 20:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3275,6 +3281,28 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.smbcgroup.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>465</COMPE>
+    <ISPB>40083667</ISPB>
+    <Document>40.083.667/0001-10</Document>
+    <LongName>CAPITAL CONSIG SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>CAPITAL CONSIG SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-12-03</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>467</COMPE>
+    <ISPB>33886862</ISPB>
+    <Document>33.886.862/0001-12</Document>
+    <LongName>MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS</LongName>
+    <ShortName>MASTER S/A CCTVM</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-12-16</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
