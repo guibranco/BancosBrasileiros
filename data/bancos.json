@@ -3082,19 +3082,19 @@
     "ShortName": "FIDUCIA SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-07-31",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-12-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114541-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114543-03:00"
+    "DateUpdated": "2021-12-13T12:13:48.2864703+00:00"
   },
   {
     "COMPE": "383",
     "ISPB": "21018182",
     "Document": "21.018.182/0001-06",
-    "LongName": "BOLETOBANCÁRIO.COM TECNOLOGIA DE PAGAMENTOS LTDA.",
-    "ShortName": "JUNO",
+    "LongName": "EBANX INSTITUICAO DE PAGAMENTOS LTDA.",
+    "ShortName": "EBANX IP LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3102,7 +3102,7 @@
     "DateOperationStarted": "2020-07-09",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711493-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114931-03:00"
+    "DateUpdated": "2021-12-13T12:13:47.684333+00:00"
   },
   {
     "COMPE": "384",
@@ -3337,12 +3337,12 @@
     "ShortName": "COBUCCIO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2020-12-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-12-08 09:15:00",
     "DateRegistered": "2021-05-05T09:11:12.7115132-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115134-03:00"
+    "DateUpdated": "2021-12-13T12:13:48.6654264+00:00"
   },
   {
     "COMPE": "403",
@@ -3982,12 +3982,12 @@
     "ShortName": "STARK SCD S.A.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2021-10-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2021-11-29 20:00:00",
     "DateRegistered": "2021-10-23T20:55:03.4293732-03:00",
-    "DateUpdated": "2021-10-23T20:55:03.4293738-03:00"
+    "DateUpdated": "2021-12-13T12:13:48.6766832+00:00"
   },
   {
     "COMPE": "464",
@@ -4003,6 +4003,36 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115254-03:00",
     "DateUpdated": "2021-05-05T09:11:12.7115255-03:00"
+  },
+  {
+    "COMPE": "465",
+    "ISPB": "40083667",
+    "Document": "40.083.667/0001-10",
+    "LongName": "CAPITAL CONSIG SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CAPITAL CONSIG SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-12-03",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-12-13T12:13:48.9317922+00:00",
+    "DateUpdated": "2021-12-13T12:13:48.9317923+00:00"
+  },
+  {
+    "COMPE": "467",
+    "ISPB": "33886862",
+    "Document": "33.886.862/0001-12",
+    "LongName": "MASTER S/A CORRETORA DE CâMBIO, TíTULOS E VALORES MOBILIáRIOS",
+    "ShortName": "MASTER S/A CCTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2021-12-16",
+    "DatePixStarted": null,
+    "DateRegistered": "2021-12-13T12:13:48.9317806+00:00",
+    "DateUpdated": "2021-12-13T12:13:48.9317918+00:00"
   },
   {
     "COMPE": "473",

@@ -16,7 +16,7 @@ Listagem de bancos comerciais brasileiros
 
 ### Formatos
 
-Esta lista contém 280+ bancos cadastrados, nos seguintes formatos:
+Esta lista contém 300+ bancos cadastrados, nos seguintes formatos:
 
 - **CSV**: [bancos.csv](/data/bancos.csv)
 - **JSON**: [bancos.json](/data/bancos.json)
@@ -119,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Changelog
 
+- 2021-12-13: Adicionado 2 bancos (467 - MASTER S/A CCTVM, 465 - CAPITAL CONSIG SCD S.A.). Atualizado 4 bancos (382 - FIDUCIA SCMEPP LTDA, 383 - EBANX IP LTDA., 402 - COBUCCIO SCD S.A., 462 - STARK SCD S.A.). - [@guibranco](https://github.com/guibranco)
 - 2021-11-22: Adicionado 4 bancos (459 - CCM SERV. PÚBLICOS SP, 461 - ASAAS IP S.A., 443 - CREDIHOME SCD, 454 - MÉRITO DTVM LTDA.). Atualizado 2 bancos (380 - PICPAY, 457 - UY3 SCD S/A). - [@guibranco](https://github.com/guibranco)
 - 2021-10-23: Adicionado 3 bancos (449 - DMCARD SCD S.A., 457 - PLATACRED SCD S.A., 462 - STARK SCD S.A.). Atualizado 3 bancos (14 - STATE STREET BR S.A. BCO COMERCIAL, 84 - UNIPRIME DO BRASIL - CC LTDA., 440 - CREDIBRF COOP). - [@guibranco](https://github.com/guibranco)
 - 2021-09-28: Adicionado 2 bancos (447 - MIRAE ASSET CCTVM LTDA, 439 - ID CTVM). Atualizado 4 bancos (14 - STATE STREET BR S.A. BCO COMERCIAL, 113 - MAGLIANO S A  CTVM, 140 - NU INVEST CORRETORA DE VALORES S.A., 260 - NU PAGAMENTOS - IP). - [@guibranco](https://github.com/guibranco)
