@@ -37,7 +37,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             var readme = new Reader().LoadReadme();
 
-            var result = readme.Replace("## Changelog\n\n", $"## Changelog\n\n{changeLog}");
+            var result = readme.Replace("## Changelog\n\n", $"## Changelog\n\n{changeLog}\n");
 
             File.WriteAllText("result\\README.md", result);
         }
