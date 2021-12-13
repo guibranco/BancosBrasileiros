@@ -55,7 +55,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 }
 
                 bank.Document = bank.IspbString;
-                bank.DateUpdated = DateTimeOffset.Now;
+                bank.DateUpdated = DateTimeOffset.UtcNow;
                 missing++;
             }
 
@@ -106,7 +106,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 bank.LongName = str.LongName;
                 bank.ShortName = str.ShortName;
-                bank.DateUpdated = DateTimeOffset.Now;
+                bank.DateUpdated = DateTimeOffset.UtcNow;
                 found++;
             }
 
@@ -185,7 +185,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if (string.IsNullOrWhiteSpace(bank.ShortName))
                 {
                     bank.ShortName = slc.LongName;
-                    bank.DateUpdated = DateTimeOffset.Now;
+                    bank.DateUpdated = DateTimeOffset.UtcNow;
                 }
 
                 found++;
@@ -248,7 +248,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 bank.PixType = pix.PixType;
                 bank.DatePixStarted = pix.DatePixStarted;
-                bank.DateUpdated = DateTimeOffset.Now;
+                bank.DateUpdated = DateTimeOffset.UtcNow;
 
                 found++;
             }

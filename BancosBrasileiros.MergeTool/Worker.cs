@@ -57,8 +57,8 @@ namespace BancosBrasileiros.MergeTool
 
             foreach (var bank in source)
             {
-                bank.DateRegistered ??= DateTimeOffset.Now;
-                bank.DateUpdated ??= DateTimeOffset.Now;
+                bank.DateRegistered ??= DateTimeOffset.UtcNow;
+                bank.DateUpdated ??= DateTimeOffset.UtcNow;
             }
 
             var types = source.GroupBy(b => b.Type);
