@@ -171,7 +171,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     !string.IsNullOrWhiteSpace(slc.Document))
                 {
                     bank.Document = slc.Document;
-                    bank.DateUpdated = DateTimeOffset.Now;
+                    bank.DateUpdated = DateTimeOffset.UtcNow;
                 }
 
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)

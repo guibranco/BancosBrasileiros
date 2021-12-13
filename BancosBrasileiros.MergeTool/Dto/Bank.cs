@@ -234,8 +234,7 @@ namespace BancosBrasileiros.MergeTool.Dto
                 string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
-                Nullable.Equals(DateRegistered, other.DateRegistered) &&
-                Nullable.Equals(DateUpdated, other.DateUpdated);
+                Nullable.Equals(DateRegistered, other.DateRegistered);
         }
 
         /// <summary>
@@ -269,7 +268,6 @@ namespace BancosBrasileiros.MergeTool.Dto
             hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DateRegistered);
-            hashCode.Add(DateUpdated);
             return hashCode.ToHashCode();
         }
 
