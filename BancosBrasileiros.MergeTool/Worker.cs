@@ -100,7 +100,7 @@ namespace BancosBrasileiros.MergeTool
 
             var color = ConsoleColor.DarkGreen;
 
-            changeLog.Append($"{DateTime.Now:yyyy-MM-dd}: ");
+            changeLog.Append($"- {DateTime.Now:yyyy-MM-dd}: ");
 
             if (added.Any())
             {

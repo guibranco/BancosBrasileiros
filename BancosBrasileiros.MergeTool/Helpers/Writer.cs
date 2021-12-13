@@ -35,7 +35,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             if (!Directory.Exists("result"))
                 Directory.CreateDirectory("result");
 
-            File.WriteAllText("result\\changeLog.txt", changeLog);
+            var readme = new Reader().LoadReadme();
+
+            var result = readme.Replace("## Changelog\n\n", $"## Changelog\n\n{changeLog}");
+
+            File.WriteAllText("result\\README.md", result);
         }
 
         /// <summary>

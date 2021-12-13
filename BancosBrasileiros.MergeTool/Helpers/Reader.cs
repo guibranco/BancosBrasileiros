@@ -52,6 +52,17 @@ namespace BancosBrasileiros.MergeTool.Helpers
         private int _countingSlc;
 
         /// <summary>
+        /// Loads the readme.
+        /// </summary>
+        /// <returns>System.String.</returns>
+        public string LoadReadme()
+        {
+            using var webClient = new WebClient { Encoding = Encoding.UTF8 };
+
+            return webClient.DownloadString("https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/README.md");
+        }
+
+        /// <summary>
         /// Loads the base.
         /// </summary>
         /// <returns>List&lt;Bank&gt;.</returns>
@@ -116,8 +127,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
                       LongName = columns[1],
                       ShortName = columns[2],
                       PixType = columns[4],
-                      DatePixStarted = DateTime.Parse(columns[5].Trim(), CultureInfo.InvariantCulture, DateTimeStyles.AssumeLocal)
-                          .ToString("yyyy-MM-dd HH:mm:ss")
+                      DatePixStarted = DateTime
+                      .Parse(columns[5].Trim(), CultureInfo.InvariantCulture, DateTimeStyles.AssumeLocal)
+                      .ToUniversalTime()
+                      .AddHours(-3)
+                      .ToString("yyyy-MM-dd HH:mm:ss")
                   })
                   .ToList();
         }
