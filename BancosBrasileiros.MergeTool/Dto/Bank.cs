@@ -234,7 +234,8 @@ namespace BancosBrasileiros.MergeTool.Dto
                 string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
-                Nullable.Equals(DateRegistered, other.DateRegistered);
+                Nullable.Equals(DateRegistered, other.DateRegistered) &&
+                Nullable.Equals(DateUpdated, other.DateUpdated);
         }
 
         /// <summary>
@@ -268,6 +269,7 @@ namespace BancosBrasileiros.MergeTool.Dto
             hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DateRegistered);
+            hashCode.Add(DateUpdated);
             return hashCode.ToHashCode();
         }
 
@@ -317,10 +319,7 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <param name="left">The first value to compare.</param>
         /// <param name="right">The second value to compare.</param>
         /// <returns>true if the <paramref name="left" /> and <paramref name="right" /> parameters have the same value; otherwise, false.</returns>
-        public static bool operator ==(Bank left, Bank right)
-        {
-            return Equals(left, right);
-        }
+        public static bool operator ==(Bank left, Bank right) => Equals(left, right);
 
         /// <summary>
         /// Returns a value that indicates whether two <see cref="T:BancosBrasileiros.MergeTool.Dto.Bank" /> objects have different values.
@@ -328,10 +327,7 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <param name="left">The first value to compare.</param>
         /// <param name="right">The second value to compare.</param>
         /// <returns>true if <paramref name="left" /> and <paramref name="right" /> are not equal; otherwise, false.</returns>
-        public static bool operator !=(Bank left, Bank right)
-        {
-            return !Equals(left, right);
-        }
+        public static bool operator !=(Bank left, Bank right) => !Equals(left, right);
 
         #endregion
     }

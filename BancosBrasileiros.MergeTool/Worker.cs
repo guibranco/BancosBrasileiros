@@ -15,6 +15,7 @@
 namespace BancosBrasileiros.MergeTool
 {
     using Helpers;
+    using Dto;
     using System;
     using System.Collections.Generic;
     using System.Diagnostics;
@@ -22,7 +23,6 @@ namespace BancosBrasileiros.MergeTool
     using System.Linq;
     using System.Runtime.Serialization.Formatters.Binary;
     using System.Text;
-    using BancosBrasileiros.MergeTool.Dto;
 
     /// <summary>
     /// Class Worker.
@@ -73,7 +73,6 @@ namespace BancosBrasileiros.MergeTool
             Console.ForegroundColor = ConsoleColor.White;
 
             source = source.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
-
 
             var except = source.Except(original).ToList();
 
