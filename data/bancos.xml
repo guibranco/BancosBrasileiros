@@ -2272,7 +2272,9 @@
     <LongName>COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE</LongName>
     <ShortName>CREHNOR LARANJEIRAS</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2020-05-27</DateOperationStarted>
+    <DatePixStarted>2022-01-07 08:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2506,8 +2508,8 @@
     <COMPE>378</COMPE>
     <ISPB>01852137</ISPB>
     <Document>01.852.137/0001-37</Document>
-    <LongName>BBC LEASING S.A. - ARRENDAMENTO MERCANTIL</LongName>
-    <ShortName>BBC LEASING</ShortName>
+    <LongName>BANCO BRASILEIRO DE CRÉDITO SOCIEDADE ANÔNIMA</LongName>
+    <ShortName>BCO BRASILEIRO DE CRÉDITO S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-09-11</DateOperationStarted>
     <DateRegistered />
@@ -2865,8 +2867,8 @@
     <COMPE>412</COMPE>
     <ISPB>15173776</ISPB>
     <Document>15.173.776/0001-80</Document>
-    <LongName>BANCO CAPITAL S.A.</LongName>
-    <ShortName>BCO CAPITAL S.A.</ShortName>
+    <LongName>SOCIAL BANK BANCO MÚLTIPLO S/A</LongName>
+    <ShortName>SOCIAL BANK S/A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancocapital.com.br</Url>
@@ -2927,7 +2929,9 @@
     <LongName>NUMBRS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>NUMBRS SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-03-18</DateOperationStarted>
+    <DatePixStarted>2022-01-06 15:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3272,6 +3276,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>463</COMPE>
+    <ISPB>40434681</ISPB>
+    <Document>40.434.681/0001-10</Document>
+    <LongName>AZUMI DISTRIBUIDORA DE TíTULOS E VALORES MOBILIáRIOS LTDA.</LongName>
+    <ShortName>AZUMI DTVM</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2021-12-21</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>464</COMPE>
     <ISPB>60518222</ISPB>
     <Document>60.518.222/0001-22</Document>
@@ -3427,8 +3442,10 @@
     <ShortName>BCO LUSO BRASILEIRO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.lusobrasileiro.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2021-12-17 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3741,8 +3758,10 @@
     <ShortName>BANCO SEMEAR</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Url>https://www.bancosemear.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2021-12-22 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
