@@ -119,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Changelog
 
+- 2022-01-05: Adicionado 1 bancos (463 - AZUMI DTVM). Atualizado 6 bancos (350 - CREHNOR LARANJEIRAS, 378 - BCO BRASILEIRO DE CRÉDITO S.A., 412 - SOCIAL BANK S/A, 419 - NUMBRS SCD S.A., 600 - BCO LUSO BRASILEIRO S.A., 743 - BANCO SEMEAR). - [@guibranco](https://github.com/guibranco)
 - 2021-12-13: Adicionado 2 bancos (467 - MASTER S/A CCTVM, 465 - CAPITAL CONSIG SCD S.A.). Atualizado 4 bancos (382 - FIDUCIA SCMEPP LTDA, 383 - EBANX IP LTDA., 402 - COBUCCIO SCD S.A., 462 - STARK SCD S.A.). - [@guibranco](https://github.com/guibranco)
 - 2021-11-22: Adicionado 4 bancos (459 - CCM SERV. PÚBLICOS SP, 461 - ASAAS IP S.A., 443 - CREDIHOME SCD, 454 - MÉRITO DTVM LTDA.). Atualizado 2 bancos (380 - PICPAY, 457 - UY3 SCD S/A). - [@guibranco](https://github.com/guibranco)
 - 2021-10-23: Adicionado 3 bancos (449 - DMCARD SCD S.A., 457 - PLATACRED SCD S.A., 462 - STARK SCD S.A.). Atualizado 3 bancos (14 - STATE STREET BR S.A. BCO COMERCIAL, 84 - UNIPRIME DO BRASIL - CC LTDA., 440 - CREDIBRF COOP). - [@guibranco](https://github.com/guibranco)
