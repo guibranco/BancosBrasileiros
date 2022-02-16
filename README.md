@@ -119,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Changelog
 
+- 2022-02-16: Adicionado 1 bancos (468 - PORTOSEG S.A. CFI). Atualizado 6 bancos (190 - SERVICOOP, 197 - STONE IP S.A., 290 - PAGSEGURO INTERNET IP S.A., 428 - CRED-SYSTEM SCD S.A., 430 - CCR SEARA, 450 - FITBANK PAGAMENTOS ELETRONICOS S.A.). - [@guibranco](https://github.com/guibranco)
 - 2022-02-01: Adicionado 2 bancos (451 - J17 - SCD S/A, 460 - UNAVANTI SCD S/A). Atualizado 3 bancos (197 - STONE PAGAMENTOS S.A., 269 - BCO HSBC S.A., 323 - MERCADO PAGO IP LTDA.). - [@guibranco](https://github.com/guibranco)
 - 2022-01-05: Adicionado 1 bancos (463 - AZUMI DTVM). Atualizado 6 bancos (350 - CREHNOR LARANJEIRAS, 378 - BCO BRASILEIRO DE CRÉDITO S.A., 412 - SOCIAL BANK S/A, 419 - NUMBRS SCD S.A., 600 - BCO LUSO BRASILEIRO S.A., 743 - BANCO SEMEAR). - [@guibranco](https://github.com/guibranco)
 - 2021-12-13: Adicionado 2 bancos (467 - MASTER S/A CCTVM, 465 - CAPITAL CONSIG SCD S.A.). Atualizado 4 bancos (382 - FIDUCIA SCMEPP LTDA, 383 - EBANX IP LTDA., 402 - COBUCCIO SCD S.A., 462 - STARK SCD S.A.). - [@guibranco](https://github.com/guibranco)
