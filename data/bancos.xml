@@ -1269,7 +1269,7 @@
     <COMPE>190</COMPE>
     <ISPB>03973814</ISPB>
     <Document>03.973.814/0001-09</Document>
-    <LongName>SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS DO RIO GRAN</LongName>
+    <LongName>SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI</LongName>
     <ShortName>SERVICOOP</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-10-16</DateOperationStarted>
@@ -1325,7 +1325,7 @@
     <ISPB>16501555</ISPB>
     <Document>16.501.555/0001-57</Document>
     <LongName>STONE INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
-    <ShortName>STONE PAGAMENTOS S.A.</ShortName>
+    <ShortName>STONE IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2017-10-18</DateOperationStarted>
@@ -1809,8 +1809,8 @@
     <COMPE>290</COMPE>
     <ISPB>08561701</ISPB>
     <Document>08.561.701/0001-01</Document>
-    <LongName>Pagseguro Internet S.A.</LongName>
-    <ShortName>PAGSEGURO S.A.</ShortName>
+    <LongName>PAGSEGURO INTERNET INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PAGSEGURO INTERNET IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2018-11-07</DateOperationStarted>
@@ -3014,7 +3014,9 @@
     <LongName>CRED-SYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CRED-SYSTEM SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-04-20</DateOperationStarted>
+    <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3036,7 +3038,9 @@
     <LongName>COOPERATIVA DE CREDITO RURAL SEARA - CREDISEARA</LongName>
     <ShortName>CCR SEARA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
+    <DatePixStarted>2022-02-11 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3179,7 +3183,9 @@
     <LongName>FITBANK PAGAMENTOS ELETRONICOS S.A.</LongName>
     <ShortName>FITBANK PAGAMENTOS ELETRONICOS S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2021-06-30</DateOperationStarted>
+    <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3342,6 +3348,17 @@
     <ShortName>MASTER S/A CCTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-12-16</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>468</COMPE>
+    <ISPB>04862600</ISPB>
+    <Document>04.862.600/0001-10</Document>
+    <LongName>PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>PORTOSEG S.A. CFI</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2022-02-09</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>

@@ -1503,7 +1503,7 @@
     "COMPE": "190",
     "ISPB": "03973814",
     "Document": "03.973.814/0001-09",
-    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS DO RIO GRAN",
+    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI",
     "ShortName": "SERVICOOP",
     "Network": "RSFN",
     "Type": null,
@@ -1512,7 +1512,7 @@
     "DateOperationStarted": "2017-10-16",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114527-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114529-03:00"
+    "DateUpdated": "2022-02-16T07:02:04.7293066+00:00"
   },
   {
     "COMPE": "191",
@@ -1579,7 +1579,7 @@
     "ISPB": "16501555",
     "Document": "16.501.555/0001-57",
     "LongName": "STONE INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "STONE PAGAMENTOS S.A.",
+    "ShortName": "STONE IP S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -1587,7 +1587,7 @@
     "DateOperationStarted": "2017-10-18",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711487-03:00",
-    "DateUpdated": "2022-02-01T08:17:37.4668046+00:00"
+    "DateUpdated": "2022-02-16T07:02:04.7316046+00:00"
   },
   {
     "COMPE": "208",
@@ -2148,8 +2148,8 @@
     "COMPE": "290",
     "ISPB": "08561701",
     "Document": "08.561.701/0001-01",
-    "LongName": "Pagseguro Internet S.A.",
-    "ShortName": "PAGSEGURO S.A.",
+    "LongName": "PAGSEGURO INTERNET INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "PAGSEGURO INTERNET IP S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -2157,7 +2157,7 @@
     "DateOperationStarted": "2018-11-07",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114657-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114659-03:00"
+    "DateUpdated": "2022-02-16T07:02:04.7312127+00:00"
   },
   {
     "COMPE": "292",
@@ -3637,12 +3637,12 @@
     "ShortName": "CRED-SYSTEM SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2021-04-20",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-02-14 15:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115154-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115156-03:00"
+    "DateUpdated": "2022-02-16T07:02:05.7963057+00:00"
   },
   {
     "COMPE": "429",
@@ -3667,12 +3667,12 @@
     "ShortName": "CCR SEARA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2021-08-27",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-02-11 10:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926308-03:00",
-    "DateUpdated": "2021-08-24T13:06:55.8926593-03:00"
+    "DateUpdated": "2022-02-16T07:02:05.1349385+00:00"
   },
   {
     "COMPE": "433",
@@ -3862,12 +3862,12 @@
     "ShortName": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Url": null,
     "DateOperationStarted": "2021-06-30",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2021-07-06T07:20:49.2255004-03:00"
+    "DateUpdated": "2022-02-16T07:02:05.6019974+00:00"
   },
   {
     "COMPE": "451",
@@ -4078,6 +4078,21 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-12-13T12:13:48.9317806+00:00",
     "DateUpdated": "2021-12-13T12:13:48.9317918+00:00"
+  },
+  {
+    "COMPE": "468",
+    "ISPB": "04862600",
+    "Document": "04.862.600/0001-10",
+    "LongName": "PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PORTOSEG S.A. CFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2022-02-09",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-02-16T07:02:06.0714205+00:00",
+    "DateUpdated": "2022-02-16T07:02:06.0714322+00:00"
   },
   {
     "COMPE": "473",
