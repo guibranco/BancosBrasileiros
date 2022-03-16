@@ -119,6 +119,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Changelog
 
+- 2022-03-16: Adicionado 3 bancos (385 - CECM DOS TRAB.PORT. DA G.VITOR, 469 - LECCA DTVM LTDA, 470 - CDC SOCIEDADE DE CRÉDITO). Atualizado 5 bancos (113 - NEON CTVM S.A., 250 - "BCV - BCO, CRÉDITO E VAREJO S.A.", 289 - EFX CC LTDA., 322 - CCR DE ABELARDO LUZ, 468 - PORTOSEG S.A. CFI). - [@guibranco](https://github.com/guibranco)
 - 2022-02-16: Adicionado 1 bancos (468 - PORTOSEG S.A. CFI). Atualizado 6 bancos (190 - SERVICOOP, 197 - STONE IP S.A., 290 - PAGSEGURO INTERNET IP S.A., 428 - CRED-SYSTEM SCD S.A., 430 - CCR SEARA, 450 - FITBANK PAGAMENTOS ELETRONICOS S.A.). - [@guibranco](https://github.com/guibranco)
 - 2022-02-01: Adicionado 2 bancos (451 - J17 - SCD S/A, 460 - UNAVANTI SCD S/A). Atualizado 3 bancos (197 - STONE PAGAMENTOS S.A., 269 - BCO HSBC S.A., 323 - MERCADO PAGO IP LTDA.). - [@guibranco](https://github.com/guibranco)
 - 2022-01-05: Adicionado 1 bancos (463 - AZUMI DTVM). Atualizado 6 bancos (350 - CREHNOR LARANJEIRAS, 378 - BCO BRASILEIRO DE CRÉDITO S.A., 412 - SOCIAL BANK S/A, 419 - NUMBRS SCD S.A., 600 - BCO LUSO BRASILEIRO S.A., 743 - BANCO SEMEAR). - [@guibranco](https://github.com/guibranco)
