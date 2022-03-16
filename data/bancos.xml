@@ -800,8 +800,8 @@
     <COMPE>113</COMPE>
     <ISPB>61723847</ISPB>
     <Document>61.723.847/0001-99</Document>
-    <LongName>MAGLIANO S.A. CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS</LongName>
-    <ShortName>MAGLIANO S A  CTVM</ShortName>
+    <LongName>NEON CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>NEON CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-11-28</DateOperationStarted>
     <DateRegistered />
@@ -1523,7 +1523,7 @@
     <ISPB>50585090</ISPB>
     <Document>50.585.090/0001-06</Document>
     <LongName>BCV - BANCO DE CRÉDITO E VAREJO S.A.</LongName>
-    <ShortName>"BCV - BCO, CRÉDITO E VAREJO S.A.                            "</ShortName>
+    <ShortName>"BCV - BCO, CRÉDITO E VAREJO S.A."</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancobcv.com.br</Url>
@@ -1798,8 +1798,8 @@
     <COMPE>289</COMPE>
     <ISPB>94968518</ISPB>
     <Document>94.968.518/0001-67</Document>
-    <LongName>DECYSEO CORRETORA DE CAMBIO LTDA.</LongName>
-    <ShortName>DECYSEO CC LTDA.</ShortName>
+    <LongName>EFX CORRETORA DE CÂMBIO LTDA.</LongName>
+    <ShortName>EFX CC LTDA.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2019-03-14</DateOperationStarted>
     <DateRegistered />
@@ -2044,7 +2044,9 @@
     <LongName>Cooperativa de Crédito Rural de Abelardo Luz - Sulcredi/Crediluz</LongName>
     <ShortName>CCR DE ABELARDO LUZ</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
+    <DatePixStarted>2022-03-14 10:00:00</DatePixStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -2592,6 +2594,17 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>385</COMPE>
+    <ISPB>03844699</ISPB>
+    <Document>03.844.699/0001-64</Document>
+    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V</LongName>
+    <ShortName>CECM DOS TRAB.PORT. DA G.VITOR</ShortName>
+    <Network>Internet</Network>
+    <DateOperationStarted>2022-03-08</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
@@ -3358,7 +3371,31 @@
     <LongName>PORTOSEG S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>PORTOSEG S.A. CFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <DateOperationStarted>2022-02-09</DateOperationStarted>
+    <DatePixStarted>2022-03-14 14:00:00</DatePixStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>469</COMPE>
+    <ISPB>07138049</ISPB>
+    <Document>07.138.049/0001-54</Document>
+    <LongName>LECCA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA</LongName>
+    <ShortName>LECCA DTVM LTDA</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2022-03-09</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
+    <COMPE>470</COMPE>
+    <ISPB>18394228</ISPB>
+    <Document>18.394.228/0001-79</Document>
+    <LongName>CDC SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESADE PEQUENO PORTE LTDA.</LongName>
+    <ShortName>CDC SOCIEDADE DE CRÉDITO</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2022-03-15</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
   </bank>
