@@ -72,6 +72,7 @@ And classes (DTO - Data Transport Object) in the following languages:
 
 Implementation examples are available in the folder [examples](/examples), we currently have examples in the following technologies:
 
+- [.NET/C#](/examples/dotnet) <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dot-net&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 - [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
 
 If you miss an example, in the language, library or framework, open an issue requesting an example project on the desired technology!
