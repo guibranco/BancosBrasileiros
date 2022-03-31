@@ -3426,6 +3426,17 @@
     <DateUpdated />
   </bank>
   <bank>
+    <COMPE>478</COMPE>
+    <ISPB>11760553</ISPB>
+    <Document>11.760.553/0001-69</Document>
+    <LongName>GAZINCRED S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>GAZINCRED S.A. SCFI</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2022-03-21</DateOperationStarted>
+    <DateRegistered />
+    <DateUpdated />
+  </bank>
+  <bank>
     <COMPE>479</COMPE>
     <ISPB>60394079</ISPB>
     <Document>60.394.079/0001-04</Document>
