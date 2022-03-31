@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>BancosBrasileiros</id>
+    <version>1.0.0</version>
+    <readme>README.md</readme>
+    <title>Bancos Brasileiros</title>
+    <authors>Guilherme Branco Stracini</authors>
+    <owners>Guilherme Branco Stracini</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://guibranco.github.io/BancosBrasileiros/</projectUrl>
+    <repository type="git" url="https://github.io/guibranco/BancosBrasileiros/" />
+    <license type="expression">MIT</license>
+    <description>A list in various formats (XML, JSON, Markdown, SQL, CSV) of brazilian commercial banks.</description>
+    <copyright>© 2022 Guilherme Branco Stracini. All rights reserved.</copyright>
+    <tags>banks,brazilian,bank,commercial,list,json,xml,sql,csv,febraban,abbc,cip,bcb,bacen,bc,cnpj,isbp,markdown</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="13.0.1" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/any/bank.cs" buildAction="compile" copyToOutput="false" />
+      <files include="any/any/banks.json" buildAction="none" copyToOutput="true" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="schemas\csharp.cs" target="contentFiles\any\any\bank.cs" />
+    <file src="data\bancos.json" target="contentFiles\any\any\banks.json" />
+    <file src="README.en.md" target="README.md" />
+  </files>
+</package>
