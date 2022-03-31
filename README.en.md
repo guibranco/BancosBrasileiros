@@ -93,6 +93,19 @@ npm i bancos-brasileiros
 
 ```
 
+## NuGet - Package Manager for .NET
+
+[![BancosBrasileiros NuGet Version](https://img.shields.io/nuget/v/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
+[![BancosBrasileiros NuGet Downloads](https://img.shields.io/nuget/dt/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
+
+This repository is available at NuGet under the name [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
+
+```bash
+
+dotnet add package BancosBrasileiros
+
+```
+
 ---
 
 ## Acronyms and abbreviations
