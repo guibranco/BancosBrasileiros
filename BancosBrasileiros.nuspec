@@ -2,14 +2,14 @@
 <package>
   <metadata>
     <id>BancosBrasileiros</id>
-    <version>1.0.0</version>
+    <version>3.0.0</version>
     <readme>README.md</readme>
     <title>Bancos Brasileiros</title>
     <authors>Guilherme Branco Stracini</authors>
     <owners>Guilherme Branco Stracini</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://guibranco.github.io/BancosBrasileiros/</projectUrl>
-    <repository type="git" url="https://github.io/guibranco/BancosBrasileiros/" />
+    <repository type="git" url="https://github.com/guibranco/BancosBrasileiros/" />
     <license type="expression">Unlicense</license>
     <description>A list in various formats (XML, JSON, Markdown, SQL, CSV) of brazilian commercial banks.</description>
     <copyright>© 2022 Guilherme Branco Stracini. All rights reserved.</copyright>
