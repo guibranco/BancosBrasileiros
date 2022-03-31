@@ -1,4 +1,5 @@
 version: 3.0.{build}
+image: Visual Studio 2017
 skip_tags: true
 skip_branch_with_pr: true
 skip_commits:
@@ -25,3 +26,15 @@ build_script:
 - git config user.name "AppVeyor"
 - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
 - npm publish
+- cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
+
+artifacts:
+- path: '**\*nupkg'
+  name: Package
+
+deploy:
+- provider: Environment
+  name: NuGet
+  on:
+   branch: master
+  artifact: Package
