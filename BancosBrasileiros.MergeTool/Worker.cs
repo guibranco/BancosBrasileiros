@@ -100,11 +100,11 @@ namespace BancosBrasileiros.MergeTool
 
             var color = ConsoleColor.DarkGreen;
 
-            changeLog.Append($"- {DateTime.Now:yyyy-MM-dd}: ");
+            changeLog.Append($"### {DateTime.Now:yyyy-MM-dd} - [@guibranco](https://github.com/guibranco):");
 
             if (added.Any())
             {
-                changeLog.Append($"Adicionado {added.Count} bancos ({string.Join(", ", added.Select(i => $"{i.Compe} - {i.ShortName}"))}). ");
+                changeLog.AppendLine($"- Added {added.Count} banks");
 
                 pullRequestText.AppendLine($"Added banks: {added.Count}\r\n");
 
@@ -112,6 +112,8 @@ namespace BancosBrasileiros.MergeTool
 
                 foreach (var item in added)
                 {
+                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName}");
+
                     pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
 
                     Console.ForegroundColor = color;
@@ -129,7 +131,7 @@ namespace BancosBrasileiros.MergeTool
 
             if (updated.Any())
             {
-                changeLog.Append($"Atualizado {updated.Count} bancos ({string.Join(", ", updated.Select(i => $"{i.Compe} - {i.ShortName}"))}). ");
+                changeLog.AppendLine($"- Updated {added.Count} banks");
 
                 pullRequestText.AppendLine($"Updated banks: {updated.Count}\r\n");
 
@@ -137,6 +139,8 @@ namespace BancosBrasileiros.MergeTool
 
                 foreach (var item in updated)
                 {
+                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName}");
+
                     pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
 
                     Console.ForegroundColor = color;
@@ -145,8 +149,6 @@ namespace BancosBrasileiros.MergeTool
                     Console.WriteLine($"Updated: {item}\r\n");
                 }
             }
-
-            changeLog.Append("- [@guibranco](https://github.com/guibranco)");
 
             Console.ForegroundColor = ConsoleColor.White;
 

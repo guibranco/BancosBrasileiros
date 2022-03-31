@@ -52,15 +52,16 @@ namespace BancosBrasileiros.MergeTool.Helpers
         private int _countingSlc;
 
         /// <summary>
-        /// Loads the readme.
+        /// Loads the change log.
         /// </summary>
         /// <returns>System.String.</returns>
-        public string LoadReadme()
+        public string LoadChangeLog()
         {
             using var webClient = new WebClient { Encoding = Encoding.UTF8 };
 
-            return webClient.DownloadString("https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/README.md");
+            return webClient.DownloadString("https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/CHANGELOG.md");
         }
+
 
         /// <summary>
         /// Loads the base.
