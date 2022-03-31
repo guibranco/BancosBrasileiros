@@ -10,7 +10,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectUrl>https://guibranco.github.io/BancosBrasileiros/</projectUrl>
     <repository type="git" url="https://github.io/guibranco/BancosBrasileiros/" />
-    <license type="expression">MIT</license>
+    <license type="expression">Unlicense</license>
     <description>A list in various formats (XML, JSON, Markdown, SQL, CSV) of brazilian commercial banks.</description>
     <copyright>© 2022 Guilherme Branco Stracini. All rights reserved.</copyright>
     <tags>banks,brazilian,bank,commercial,list,json,xml,sql,csv,febraban,abbc,cip,bcb,bacen,bc,cnpj,isbp,markdown</tags>
@@ -25,6 +25,6 @@
   <files>
     <file src="schemas\csharp.cs" target="contentFiles\any\any\bank.cs" />
     <file src="data\bancos.json" target="contentFiles\any\any\banks.json" />
-    <file src="README.en.md" target="README.md" />
+    <file src="README.nuget.md" target="README.md" />
   </files>
 </package>
