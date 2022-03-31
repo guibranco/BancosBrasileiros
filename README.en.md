@@ -119,4 +119,4 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 
 ## Changelog
 
-**Changelog only exists in the PT-BR version for simplicity** [PT-BR version of this file](/README.md)
+[Changelog](/CHANGELOG.md)
