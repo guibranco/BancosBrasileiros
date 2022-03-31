@@ -26,6 +26,7 @@ build_script:
 - git config user.name "AppVeyor"
 - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
 - npm publish
+- cd ..
 - cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
 
 artifacts:
