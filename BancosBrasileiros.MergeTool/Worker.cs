@@ -100,7 +100,7 @@ namespace BancosBrasileiros.MergeTool
 
             var color = ConsoleColor.DarkGreen;
 
-            changeLog.Append($"### {DateTime.Now:yyyy-MM-dd} - [@guibranco](https://github.com/guibranco):");
+            changeLog.AppendLine($"### {DateTime.Now:yyyy-MM-dd} - [@guibranco](https://github.com/guibranco):\r\n");
 
             if (added.Any())
             {
@@ -112,7 +112,7 @@ namespace BancosBrasileiros.MergeTool
 
                 foreach (var item in added)
                 {
-                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName}");
+                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
 
                     pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
 
@@ -139,7 +139,7 @@ namespace BancosBrasileiros.MergeTool
 
                 foreach (var item in updated)
                 {
-                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName}");
+                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
 
                     pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
 
