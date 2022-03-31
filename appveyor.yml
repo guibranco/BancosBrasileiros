@@ -1,5 +1,4 @@
 version: 3.0.{build}
-image: Visual Studio 2017
 skip_tags: true
 skip_branch_with_pr: true
 skip_commits:
@@ -10,6 +9,7 @@ branches:
 environment:
     nodejs_version: 14.3.0
 install:
+- appveyor DownloadFile https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
 - ps: Install-Product node $env:nodejs_version
 - ps: >- 
     npm install --loglevel=error
