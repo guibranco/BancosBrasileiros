@@ -4170,6 +4170,21 @@
     "DateUpdated": "2021-05-05T09:11:12.7115056-03:00"
   },
   {
+    "COMPE": "478",
+    "ISPB": "11760553",
+    "Document": "11.760.553/0001-69",
+    "LongName": "GAZINCRED S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "GAZINCRED S.A. SCFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Url": null,
+    "DateOperationStarted": "2022-03-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-03-31T08:12:19.2479082+00:00",
+    "DateUpdated": "2022-03-31T08:12:19.2479561+00:00"
+  },
+  {
     "COMPE": "479",
     "ISPB": "60394079",
     "Document": "60.394.079/0001-04",
