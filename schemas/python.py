@@ -38,7 +38,10 @@ def from_union(fs, x):
 
 
 def from_datetime(x: Any) -> datetime:
-    return dateutil.parser.parse(x)
+    assert isinstance(x, str)
+    obj_datetime = dateutil.parser.parse(x)
+    assert isinstance(obj_datetime, datetime)
+    return obj_datetime
 
 
 def from_bool(x: Any) -> bool:
