@@ -2032,12 +2032,12 @@
     "ShortName": "CCR DE PRIMAVERA DO LESTE",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Url": null,
     "DateOperationStarted": "2018-06-05",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-04-04 14:48:55",
     "DateRegistered": "2021-05-05T09:11:12.711496-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114962-03:00"
+    "DateUpdated": "2022-04-21T09:54:54.3539567+00:00"
   },
   {
     "COMPE": "280",
