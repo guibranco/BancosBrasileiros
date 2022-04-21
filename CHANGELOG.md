@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-04-21 - [@guibranco](https://github.com/guibranco):
+
+- Updated 1 bank
+	- 279 - CCR DE PRIMAVERA DO LESTE - 26.563.270/0001-02
+
 ### 2022-03-31 - [@guibranco](https://github.com/guibranco):
 - Added 1 bank
     - 478 - GAZINCRED S.A. SCFI
