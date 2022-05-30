@@ -30,4 +30,7 @@ jobs:
         run: dotnet build --configuration Release --no-restore
         
       - name: Run
-        run: dotnet run 
+        run: |
+            cd BancosBrasileiros.MergeTool
+            dotnet run 
+
