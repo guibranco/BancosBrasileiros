@@ -33,3 +33,4 @@ jobs:
         run: |
             cd BancosBrasileiros.MergeTool
             dotnet run 
+
