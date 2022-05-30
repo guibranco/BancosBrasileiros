@@ -12,6 +12,8 @@
 // <summary></summary>
 // ***********************************************************************
 
+using Newtonsoft.Json;
+
 namespace BancosBrasileiros.MergeTool
 {
     using Helpers;
@@ -21,7 +23,6 @@ namespace BancosBrasileiros.MergeTool
     using System.Diagnostics;
     using System.IO;
     using System.Linq;
-    using System.Runtime.Serialization.Formatters.Binary;
     using System.Text;
 
     /// <summary>
@@ -45,7 +46,7 @@ namespace BancosBrasileiros.MergeTool
             var slc = reader.LoadSlc();
             var pix = reader.LoadPix();
 
-            var original = DeepCopy(source);
+            var original = DeepClone(source);
 
             Console.WriteLine($"Source: {source.Count} | STR: {str.Count} | SLC: {slc.Count} | PIX: {pix.Count} \r\n");
 
@@ -79,6 +80,7 @@ namespace BancosBrasileiros.MergeTool
             if (!except.Any())
             {
                 Console.WriteLine("No new data or updated information");
+                Environment.Exit(1);
                 return;
             }
 
@@ -165,15 +167,10 @@ namespace BancosBrasileiros.MergeTool
             Process.Start("explorer.exe", resultDirectory);
         }
 
-        private static T DeepCopy<T>(T item)
+        private static T DeepClone<T>(T item)
         {
-            var formatter = new BinaryFormatter();
-            var stream = new MemoryStream();
-            formatter.Serialize(stream, item);
-            stream.Seek(0, SeekOrigin.Begin);
-            var result = (T)formatter.Deserialize(stream);
-            stream.Close();
-            return result;
+            var json = JsonConvert.SerializeObject(item);
+            return JsonConvert.DeserializeObject<T>(json);
         }
     }
 }
