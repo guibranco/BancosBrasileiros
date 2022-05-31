@@ -24,7 +24,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
     using System.Linq;
     using System.Net;
     using System.Text;
-    using System.Text.RegularExpressions;
     using CrispyWaffle.Serialization;
 
     /// <summary>
@@ -32,66 +31,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// </summary>
     internal class Reader
     {
-        /// <summary>
-        /// The comma separated values pattern
-        /// </summary>
-        private readonly Regex _csvPattern = new Regex(",(?=(?:[^\"]*\"[^\"]*\")*(?![^\"]*\"))", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
-
-        /// <summary>
-        /// The semicolon separated values pattern
-        /// </summary>
-        private readonly Regex _ssvPattern = new Regex(";(?=(?:[^\"]*\"[^\"]*\")*(?![^\"]*\"))", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
-
-        /// <summary>
-        /// The SLC pattern
-        /// </summary>
-        private readonly Regex _slcPattern = new Regex(@"^(?<code>\d{1,3})\s(?<cnpj>\d{2}\.\d{3}\.\d{3}\/\d{4}([-|·|\.|\s]{1,2})\d{2})\s(?<nome>.+?)(?:[\s|X]){1,7}$", RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled);
-
-        /// <summary>
-        /// The SILOC pattern
-        /// </summary>
-        private readonly Regex _silocPattern = new Regex(@"^(?<code>\d{1,3})\s(?<compe>\d{3})\s(?<ispb>\d{8})\s(?<cobranca>sim|não)\s(?<doc>sim|não)\s(?<nome>.+?)$");
-
-        /// <summary>
-        /// The sitraf pattern
-        /// </summary>
-        private readonly Regex _sitrafPattern = new Regex(@"^(?<code>\d{1,3})\s(?<compe>\d{3})\s(?<ispb>\d{8})\s(?<nome>.+?)$");
-
-        /// <summary>
-        /// The change log URL
-        /// </summary>
-        private const string _changeLogUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/CHANGELOG.md";
-
-        /// <summary>
-        /// The base URL
-        /// </summary>
-        private const string _baseUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/data/bancos.json";
-
-        /// <summary>
-        /// The string URL
-        /// </summary>
-        private const string _strUrl = "http://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv";
-
-        /// <summary>
-        /// The spi URL
-        /// </summary>
-        private const string _spiUrl = "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-{0:yyyyMMdd}.csv";
-
-        /// <summary>
-        /// The SLC URL
-        /// </summary>
-        private const string _slcUrl = "https://www.cip-bancos.org.br/Monitoramento/Participantes_Homologados.pdf";
-
-        /// <summary>
-        /// The siloc URL
-        /// </summary>
-        private const string _silocUrl = "https://www.cip-bancos.org.br/Monitoramento/SILOC.pdf";
-
-        /// <summary>
-        /// The sitraf URL
-        /// </summary>
-        private const string _sitrafUrl = "https://www.cip-bancos.org.br/Monitoramento/SITRAF.pdf";
-
         /// <summary>
         /// The counting SLC
         /// </summary>
@@ -101,6 +40,16 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// The counting sitraf
         /// </summary>
         private int _countingSitraf;
+
+        /// <summary>
+        /// The counting CTC
+        /// </summary>
+        private int _countingCtc;
+
+        /// <summary>
+        /// The counting PCPS
+        /// </summary>
+        private int _countingPcps;
 
         /// <summary>
         /// Downloads the string.
@@ -119,16 +68,15 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Loads the change log.
         /// </summary>
         /// <returns>System.String.</returns>
-        public string LoadChangeLog() => DownloadString(_changeLogUrl);
-
-
+        public string LoadChangeLog() => DownloadString(Constants.ChangeLogUrl);
+        
         /// <summary>
         /// Loads the base.
         /// </summary>
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadBase()
         {
-            var data = DownloadString(_baseUrl);
+            var data = DownloadString(Constants.BaseUrl);
             return SerializerFactory.GetCustomSerializer<List<Bank>>(SerializerFormat.JSON).Deserialize(data);
         }
 
@@ -138,11 +86,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadStr()
         {
-            var data = DownloadString(_strUrl);
+            var data = DownloadString(Constants.StrUrl);
             var lines = data.Split("\n").Skip(1).ToArray();
 
             return lines
-                .Select(line => _csvPattern.Split(line))
+                .Select(line => Patterns.CsvPattern.Split(line))
                 .Where(columns => columns.Length > 1 && int.TryParse(columns[2], out _))
                 .Select(columns => new Bank
                 {
@@ -175,7 +123,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var lines = data.Split("\n").Skip(1).ToArray();
 
             return lines
-                  .Select(line => _ssvPattern.Split(line))
+                  .Select(line => Patterns.SsvPattern.Split(line))
                   .Where(columns => columns.Length > 1 && int.TryParse(columns[0], out _))
                   .Select(columns => new Bank
                   {
@@ -201,7 +149,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             try
             {
-                return DownloadString(string.Format(_spiUrl, date));
+                return DownloadString(string.Format(Constants.SpiUrl, date));
             }
             catch (WebException)
             {
@@ -217,7 +165,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             _countingSlc = 0;
             var result = new List<Bank>();
-            var reader = new PdfReader(_slcUrl);
+            var reader = new PdfReader(Constants.SlcUrl);
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
                 var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
@@ -245,7 +193,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var line in lines)
             {
-                if (!_slcPattern.IsMatch(line))
+                if (!Patterns.SlcPattern.IsMatch(line))
                 {
                     spliced += $" {line}";
                     continue;
@@ -279,10 +227,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>Bank.</returns>
         private Bank ParseLineSlc(string line)
         {
-            if (!_slcPattern.IsMatch(line))
+            if (!Patterns.SlcPattern.IsMatch(line))
                 return null;
 
-            var match = _slcPattern.Match(line);
+            var match = Patterns.SlcPattern.Match(line);
 
             var code = Convert.ToInt32(match.Groups["code"].Value.Trim());
 
@@ -305,7 +253,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         public List<Bank> LoadSiloc()
         {
             var result = new List<Bank>();
-            var reader = new PdfReader(_silocUrl);
+            var reader = new PdfReader(Constants.SilocUrl);
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
                 var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
@@ -347,10 +295,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>Bank.</returns>
         private Bank ParseLineSiloc(string line)
         {
-            if (!_silocPattern.IsMatch(line))
+            if (!Patterns.SilocPattern.IsMatch(line))
                 return null;
 
-            var match = _silocPattern.Match(line);
+            var match = Patterns.SilocPattern.Match(line);
 
             return new Bank
             {
@@ -360,11 +308,15 @@ namespace BancosBrasileiros.MergeTool.Helpers
             };
         }
 
+        /// <summary>
+        /// Loads the sitraf.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSitraf()
         {
             _countingSitraf = 0;
             var result = new List<Bank>();
-            var reader = new PdfReader(_sitrafUrl);
+            var reader = new PdfReader(Constants.SitrafUrl);
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
                 var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
@@ -378,6 +330,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return result;
         }
 
+        /// <summary>
+        /// Parses the lines sitraf.
+        /// </summary>
+        /// <param name="page">The page.</param>
+        /// <returns>IEnumerable&lt;Bank&gt;.</returns>
         private IEnumerable<Bank> ParseLinesSitraf(string page)
         {
             var result = new List<Bank>();
@@ -387,7 +344,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var line in lines)
             {
-                if (!_sitrafPattern.IsMatch(line))
+                if (!Patterns.SitrafPattern.IsMatch(line))
                 {
                     spliced += $" {line}";
                     continue;
@@ -414,13 +371,18 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return result;
         }
 
+        /// <summary>
+        /// Parses the line sitraf.
+        /// </summary>
+        /// <param name="line">The line.</param>
+        /// <returns>Bank.</returns>
         private Bank ParseLineSitraf(string line)
         {
-            if (!_sitrafPattern.IsMatch(line))
+            if (!Patterns.SitrafPattern.IsMatch(line))
                 return null;
 
-            var match = _sitrafPattern.Match(line);
-            
+            var match = Patterns.SitrafPattern.Match(line);
+
             var code = Convert.ToInt32(match.Groups["code"].Value.Trim());
 
             _countingSitraf++;
@@ -431,6 +393,182 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return new Bank
             {
                 Compe = Convert.ToInt32(match.Groups["compe"].Value.Trim()),
+                IspbString = match.Groups["ispb"].Value.Trim(),
+                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
+            };
+        }
+
+        /// <summary>
+        /// Loads the CTC.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
+        public List<Bank> LoadCtc()
+        {
+            _countingCtc = 0;
+            var result = new List<Bank>();
+            var reader = new PdfReader(Constants.CtcUrl);
+            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
+            {
+                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
+                currentText = Encoding.UTF8.GetString(Encoding.Convert(
+                    Encoding.Default,
+                    Encoding.UTF8,
+                    Encoding.Default.GetBytes(currentText)));
+                result.AddRange(ParsePageCtc(currentText));
+            }
+
+            return result;
+        }
+
+        /// <summary>
+        /// Parses the lines CTC.
+        /// </summary>
+        /// <param name="page">The page.</param>
+        /// <returns>IEnumerable&lt;Bank&gt;.</returns>
+        private IEnumerable<Bank> ParsePageCtc(string page)
+        {
+            var result = new List<Bank>();
+            var lines = page.Split("\n");
+
+            var spliced = string.Empty;
+
+            foreach (var line in lines)
+            {
+                if (!Patterns.CtcPattern.IsMatch(line))
+                {
+                    spliced += $" {line}";
+                    continue;
+                }
+
+                Bank bank;
+
+                if (!string.IsNullOrWhiteSpace(spliced))
+                {
+                    bank = ParseLineCtc(spliced.Trim());
+
+                    if (bank != null)
+                        result.Add(bank);
+
+                    spliced = string.Empty;
+                }
+
+                bank = ParseLineCtc(line);
+
+                if (bank != null)
+                    result.Add(bank);
+            }
+
+            return result;
+        }
+
+        /// <summary>
+        /// Parses the line CTC.
+        /// </summary>
+        /// <param name="line">The line.</param>
+        /// <returns>Bank.</returns>
+        private Bank ParseLineCtc(string line)
+        {
+            if (!Patterns.CtcPattern.IsMatch(line))
+                return null;
+
+            var match = Patterns.CtcPattern.Match(line);
+
+            var code = Convert.ToInt32(match.Groups["code"].Value.Trim());
+
+            _countingCtc++;
+
+            if (_countingCtc != code)
+                Console.WriteLine($"CTC | Counting: {_countingCtc++} | Code: {code}");
+
+            return new Bank
+            {
+                Document = match.Groups["cnpj"].Value.Trim(),
+                IspbString = match.Groups["ispb"].Value.Trim(),
+                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
+            };
+        }
+
+        public List<Bank> LoadPcps()
+        {
+            _countingPcps = 0;
+            var result = new List<Bank>();
+            var reader = new PdfReader(Constants.PcpsUrl);
+            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
+            {
+                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
+                currentText = Encoding.UTF8.GetString(Encoding.Convert(
+                    Encoding.Default,
+                    Encoding.UTF8,
+                    Encoding.Default.GetBytes(currentText)));
+                result.AddRange(ParsePagePcps(currentText));
+            }
+
+            return result;
+        }
+
+        /// <summary>
+        /// Parses the page PCPS.
+        /// </summary>
+        /// <param name="page">The page.</param>
+        /// <returns>IEnumerable&lt;Bank&gt;.</returns>
+        private IEnumerable<Bank> ParsePagePcps(string page)
+        {
+            var result = new List<Bank>();
+            var lines = page.Split("\n");
+
+            var spliced = string.Empty;
+
+            foreach (var line in lines)
+            {
+                if (!Patterns.PcpsPattern.IsMatch(line))
+                {
+                    spliced += $" {line}";
+                    continue;
+                }
+
+                Bank bank;
+
+                if (!string.IsNullOrWhiteSpace(spliced))
+                {
+                    bank = ParseLinePcps(spliced.Trim());
+
+                    if (bank != null)
+                        result.Add(bank);
+
+                    spliced = string.Empty;
+                }
+
+                bank = ParseLinePcps(line);
+
+                if (bank != null)
+                    result.Add(bank);
+            }
+
+            return result;
+        }
+
+        /// <summary>
+        /// Parses the line PCPS.
+        /// </summary>
+        /// <param name="line">The line.</param>
+        /// <returns>Bank.</returns>
+        private Bank ParseLinePcps(string line)
+        {
+            if (!Patterns.PcpsPattern.IsMatch(line))
+                return null;
+
+            var match = Patterns.PcpsPattern.Match(line);
+
+            var code = Convert.ToInt32(match.Groups["code"].Value.Trim());
+
+            _countingPcps++;
+
+            if (_countingPcps != code)
+                Console.WriteLine($"PCPS | Counting: {_countingPcps++} | Code: {code}");
+
+            return new Bank
+            {
+                Document = match.Groups["cnpj"].Value.Trim(),
                 IspbString = match.Groups["ispb"].Value.Trim(),
                 LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
             };
