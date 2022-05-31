@@ -12,11 +12,10 @@
 // <summary></summary>
 // ***********************************************************************
 
-using System.Net.Http;
-
 namespace BancosBrasileiros.MergeTool.Helpers
 {
-    using Dto;
+    using System.Net.Http;
+    using BancosBrasileiros.MergeTool.Dto;
     using iTextSharp.text.pdf;
     using iTextSharp.text.pdf.parser;
     using System;
@@ -54,6 +53,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
         private readonly Regex _silocPattern = new Regex(@"^(?<code>\d{1,3})\s(?<compe>\d{3})\s(?<ispb>\d{8})\s(?<cobranca>sim|não)\s(?<doc>sim|não)\s(?<nome>.+?)$");
 
         /// <summary>
+        /// The sitraf pattern
+        /// </summary>
+        private readonly Regex _sitrafPattern = new Regex(@"^(?<code>\d{1,3})\s(?<compe>\d{3})\s(?<ispb>\d{8})\s(?<nome>.+?)$");
+
+        /// <summary>
         /// The change log URL
         /// </summary>
         private const string _changeLogUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/CHANGELOG.md";
@@ -84,9 +88,19 @@ namespace BancosBrasileiros.MergeTool.Helpers
         private const string _silocUrl = "https://www.cip-bancos.org.br/Monitoramento/SILOC.pdf";
 
         /// <summary>
+        /// The sitraf URL
+        /// </summary>
+        private const string _sitrafUrl = "https://www.cip-bancos.org.br/Monitoramento/SITRAF.pdf";
+
+        /// <summary>
         /// The counting SLC
         /// </summary>
         private int _countingSlc;
+
+        /// <summary>
+        /// The counting sitraf
+        /// </summary>
+        private int _countingSitraf;
 
         /// <summary>
         /// Downloads the string.
@@ -203,7 +217,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             _countingSlc = 0;
             var result = new List<Bank>();
-
             var reader = new PdfReader(_slcUrl);
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
@@ -292,7 +305,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         public List<Bank> LoadSiloc()
         {
             var result = new List<Bank>();
-
             var reader = new PdfReader(_silocUrl);
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
@@ -328,7 +340,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return result;
         }
 
-
+        /// <summary>
+        /// Parses the line siloc.
+        /// </summary>
+        /// <param name="line">The line.</param>
+        /// <returns>Bank.</returns>
         private Bank ParseLineSiloc(string line)
         {
             if (!_silocPattern.IsMatch(line))
@@ -336,7 +352,81 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             var match = _silocPattern.Match(line);
 
+            return new Bank
+            {
+                Compe = Convert.ToInt32(match.Groups["compe"].Value.Trim()),
+                IspbString = match.Groups["ispb"].Value.Trim(),
+                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
+            };
+        }
+
+        public List<Bank> LoadSitraf()
+        {
+            _countingSitraf = 0;
+            var result = new List<Bank>();
+            var reader = new PdfReader(_sitrafUrl);
+            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
+            {
+                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
+                currentText = Encoding.UTF8.GetString(Encoding.Convert(
+                    Encoding.Default,
+                    Encoding.UTF8,
+                    Encoding.Default.GetBytes(currentText)));
+                result.AddRange(ParseLinesSitraf(currentText));
+            }
+
+            return result;
+        }
+
+        private IEnumerable<Bank> ParseLinesSitraf(string page)
+        {
+            var result = new List<Bank>();
+            var lines = page.Split("\n");
+
+            var spliced = string.Empty;
+
+            foreach (var line in lines)
+            {
+                if (!_sitrafPattern.IsMatch(line))
+                {
+                    spliced += $" {line}";
+                    continue;
+                }
+
+                Bank bank;
+
+                if (!string.IsNullOrWhiteSpace(spliced))
+                {
+                    bank = ParseLineSitraf(spliced.Trim());
+
+                    if (bank != null)
+                        result.Add(bank);
+
+                    spliced = string.Empty;
+                }
+
+                bank = ParseLineSitraf(line);
+
+                if (bank != null)
+                    result.Add(bank);
+            }
+
+            return result;
+        }
+
+        private Bank ParseLineSitraf(string line)
+        {
+            if (!_sitrafPattern.IsMatch(line))
+                return null;
+
+            var match = _sitrafPattern.Match(line);
+            
             var code = Convert.ToInt32(match.Groups["code"].Value.Trim());
+
+            _countingSitraf++;
+
+            if (_countingSitraf != code)
+                Console.WriteLine($"SITRAF | Counting: {_countingSitraf} | Code: {code}");
 
             return new Bank
             {

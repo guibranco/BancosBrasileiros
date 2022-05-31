@@ -12,12 +12,11 @@
 // <summary></summary>
 // ***********************************************************************
 
-using Newtonsoft.Json;
-
 namespace BancosBrasileiros.MergeTool
 {
-    using Helpers;
-    using Dto;
+    using Newtonsoft.Json;
+    using BancosBrasileiros.MergeTool.Helpers;
+    using BancosBrasileiros.MergeTool.Dto;
     using System;
     using System.Collections.Generic;
     using System.Diagnostics;
@@ -39,9 +38,6 @@ namespace BancosBrasileiros.MergeTool
             Console.WriteLine("Reading data files");
 
             var reader = new Reader();
-
-
-            reader.LoadSiloc();
 
             var source = reader.LoadBase();
             var initial = source.ToArray().ToList();
