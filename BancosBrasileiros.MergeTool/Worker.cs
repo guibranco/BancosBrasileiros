@@ -40,6 +40,9 @@ namespace BancosBrasileiros.MergeTool
 
             var reader = new Reader();
 
+
+            reader.LoadSiloc();
+
             var source = reader.LoadBase();
             var initial = source.ToArray().ToList();
             var str = reader.LoadStr();
