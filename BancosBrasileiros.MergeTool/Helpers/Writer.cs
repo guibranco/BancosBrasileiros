@@ -58,7 +58,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Saves the specified banks.
         /// </summary>
         /// <param name="banks">The banks.</param>
-        public static void Save(IList<Bank> banks)
+        public static void SaveBanks(IList<Bank> banks)
         {
             if (!Directory.Exists("result"))
                 Directory.CreateDirectory("result");
@@ -80,10 +80,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             var lines = new List<string>
             {
-                "COMPE,ISPB,Document,LongName,ShortName,Network,Type,PixType,Url,DateOperationStarted,DatePixStarted,DateRegistered,DateUpdated"
+                "COMPE,ISPB,Document,LongName,ShortName,Network,Type,PixType,Charge,CreditDocument,SalaryPortability,Products,Url,DateOperationStarted,DatePixStarted,DateRegistered,DateUpdated"
             };
 
-            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Type},{bank.PixType},{bank.Network},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"));
+            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Type},{bank.PixType},{(string.IsNullOrWhiteSpace(bank.Charge) ? "" :bank.Charge == "sim" ? "true" : "false")},{(string.IsNullOrWhiteSpace(bank.CreditDocument) ? "" : bank.CreditDocument == "sim" ? "true" : "false")},{bank.SalaryPortability}, {(bank.Products == null ? "NULL":string.Join("|", bank.Products))},{bank.Network},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"));
 
             File.WriteAllLines("result\\bancos.csv", lines, Encoding.UTF8);
         }
@@ -98,11 +98,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             {
                 "# Bancos Brasileiros",
                 string.Empty,
-                "COMPE | ISPB | Document | Long Name | Short Name | Network | Type | PIX Type | Url | Date Operation Started | Date PIX Started | Date Registered | Date Updated",
+                "COMPE | ISPB | Document | Long Name | Short Name | Network | Type | PIX Type | Charge | Credit Document | Salary Portability | Products | Url | Date Operation Started | Date PIX Started | Date Registered | Date Updated",
                 "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- "
             };
 
-            lines.AddRange(banks.Select(bank => $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"));
+            lines.AddRange(banks.Select(bank => $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.Charge) ? "-" : bank.Charge == "sim" ? "true" : "false")} | {(string.IsNullOrWhiteSpace(bank.CreditDocument) ? "-" : bank.CreditDocument == "sim" ? "true" : "false")} | {(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "-" : bank.SalaryPortability)} | {(bank.Products ==null ? "-" : string.Join(",", bank.Products))} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"));
 
             File.WriteAllLines("result\\bancos.md", lines, Encoding.UTF8);
         }
@@ -115,8 +115,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             var lines = new List<string>();
 
-            const string prefix = "INSERT INTO Banks (Compe, Ispb, Document, LongName, ShortName, Network, Type, PixType, Url, DateOperationStarted, DatePixStarted, DateRegistered, DateUpdated) VALUES(";
-            lines.AddRange(banks.Select(bank => $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName.Replace("'", "\\\'")}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.PixType) ? "NULL" : $"'{bank.PixType}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},{(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "NULL" : $"'{bank.DatePixStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}');"));
+            const string prefix = "INSERT INTO Banks (Compe, Ispb, Document, LongName, ShortName, Network, Type, PixType, Charge, CreditDocument, SalaryPortability, Products, Url, DateOperationStarted, DatePixStarted, DateRegistered, DateUpdated) VALUES(";
+            lines.AddRange(banks.Select(bank => $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName.Replace("'", "\\\'")}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.PixType) ? "NULL" : $"'{bank.PixType}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.Charge) ? "NULL" : $"'{(bank.Charge=="sim"? "true"  : "false")}'")},{(string.IsNullOrWhiteSpace(bank.CreditDocument) ? "NULL" : $"'{(bank.CreditDocument == "sim" ? "true" : "false")}'")},{(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "NULL":$"'{bank.SalaryPortability}'")},{(bank.Products==null ? "NULL":$"'{string.Join(",", bank.Products)}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},{(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "NULL" : $"'{bank.DatePixStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}');"));
 
             File.WriteAllLines("result\\bancos.sql", lines, Encoding.UTF8);
         }

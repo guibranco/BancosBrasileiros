@@ -374,7 +374,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 }
 
-                if (bank.Products.Equals(ctc.Products))
+                if (bank.Products != null && bank.Products.Equals(ctc.Products))
                 {
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
                     Console.WriteLine($"CTC | Products updated: {ctc.LongName}");
@@ -414,28 +414,13 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var siloc in items)
             {
-                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(siloc.Document));
+                var bank = _source.SingleOrDefault(b => b.IspbString != null && b.IspbString.Equals(siloc.IspbString));
 
                 if (bank == null)
                 {
                     bank = _source.SingleOrDefault(b =>
                         b.LongName.RemoveDiacritics().Equals(siloc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
                         (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(siloc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
-                }
-
-                if (bank == null)
-                {
-                    var ispb = int.Parse(siloc.Document.RemoveNonNumeric()[..8]);
-
-                    if (ispb == 0 && !siloc.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
-                    {
-                        Console.ForegroundColor = ConsoleColor.DarkRed;
-                        Console.WriteLine($"SILOC | ISPB nulled: {siloc.LongName} | {siloc.Document.Trim()}");
-                        Console.ForegroundColor = ConsoleColor.White;
-                        continue;
-                    }
-
-                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(siloc.LongName, StringComparison.InvariantCultureIgnoreCase));
                 }
 
                 if (bank == null)
@@ -463,7 +448,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 }
 
-                if (bank.Charge.Equals(siloc.Charge) && bank.CreditDocument.Equals(siloc.CreditDocument))
+                if (bank.Charge != null && bank.Charge.Equals(siloc.Charge) && 
+                    bank.CreditDocument != null && bank.CreditDocument.Equals(siloc.CreditDocument))
                 {
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
                     Console.WriteLine($"SILOC | COB/DOC updated: {siloc.LongName}");
@@ -553,7 +539,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 }
 
-                if (bank.SalaryPortability.Equals(pcps.SalaryPortability))
+                if (bank.SalaryPortability != null && bank.SalaryPortability.Equals(pcps.SalaryPortability))
                 {
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
                     Console.WriteLine($"SILOC | Salary portability updated: {pcps.LongName}");

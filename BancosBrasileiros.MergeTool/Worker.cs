@@ -141,7 +141,7 @@ namespace BancosBrasileiros.MergeTool
 
             if (updated.Any())
             {
-                changeLog.AppendLine($"- Updated {added.Count} banks");
+                changeLog.AppendLine($"- Updated {updated.Count} banks");
 
                 pullRequestText.AppendLine($"Updated banks: {updated.Count}\r\n");
 
@@ -166,7 +166,7 @@ namespace BancosBrasileiros.MergeTool
 
             Writer.WriteChangeLog(changeLog.ToString());
             Writer.WritePullRequest(pullRequestText.ToString());
-            Writer.Save(source);
+            Writer.SaveBanks(source);
 
             Console.WriteLine($"Merge done. Banks: {source.Count} | Check 'result' folder in 'bin' directory!");
 

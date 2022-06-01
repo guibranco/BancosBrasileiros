@@ -250,27 +250,27 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <returns><see langword="true" /> if the current object is equal to the <paramref name="other" /> parameter; otherwise, <see langword="false" />.</returns>
         public bool Equals(Bank other)
         {
-            if (other is null) 
+            if (other is null)
                 return false;
 
-            if (ReferenceEquals(this, other)) 
+            if (ReferenceEquals(this, other))
                 return true;
 
-            return string.Equals(_document, other._document, StringComparison.InvariantCultureIgnoreCase) && 
-                   string.Equals(_url, other._url, StringComparison.InvariantCultureIgnoreCase) && 
-                   string.Equals(Charge, other.Charge, StringComparison.InvariantCultureIgnoreCase) && 
-                   Compe == other.Compe && 
-                   string.Equals(CreditDocument, other.CreditDocument, StringComparison.InvariantCultureIgnoreCase) && 
-                   string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) && 
-                   string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) && 
-                   Nullable.Equals(DateRegistered, other.DateRegistered) && 
-                   Nullable.Equals(DateUpdated, other.DateUpdated) && Ispb == other.Ispb && 
-                   string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) && 
-                   string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) && 
-                   string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) && 
-                   Equals(Products, other.Products) && 
-                   string.Equals(SalaryPortability, other.SalaryPortability, StringComparison.InvariantCultureIgnoreCase) && 
-                   string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) && 
+            return string.Equals(_document, other._document, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(_url, other._url, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(Charge, other.Charge, StringComparison.InvariantCultureIgnoreCase) &&
+                   Compe == other.Compe &&
+                   string.Equals(CreditDocument, other.CreditDocument, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
+                   Nullable.Equals(DateRegistered, other.DateRegistered) &&
+                   Nullable.Equals(DateUpdated, other.DateUpdated) && Ispb == other.Ispb &&
+                   string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) &&
+                   Equals(Products, other.Products) &&
+                   string.Equals(SalaryPortability, other.SalaryPortability, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase);
         }
 
@@ -281,7 +281,7 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <returns><see langword="true" /> if the specified object  is equal to the current object; otherwise, <see langword="false" />.</returns>
         public override bool Equals(object obj)
         {
-            if (obj is null) 
+            if (obj is null)
                 return false;
 
             if (ReferenceEquals(this, obj))
@@ -297,23 +297,23 @@ namespace BancosBrasileiros.MergeTool.Dto
         public override int GetHashCode()
         {
             var hashCode = new HashCode();
-            hashCode.Add(_document, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(_url, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Charge, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(_document ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(_url ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(Charge ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
             hashCode.Add(Compe);
-            hashCode.Add(CreditDocument, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(DateOperationStarted, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(DatePixStarted, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(CreditDocument ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
             hashCode.Add(DateRegistered);
             hashCode.Add(DateUpdated);
             hashCode.Add(Ispb);
-            hashCode.Add(LongName, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Network, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(PixType, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(LongName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(Network ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(PixType ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
             hashCode.Add(Products);
-            hashCode.Add(SalaryPortability, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(ShortName, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Type, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(SalaryPortability ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(ShortName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(Type ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
             return hashCode.ToHashCode();
         }
 
