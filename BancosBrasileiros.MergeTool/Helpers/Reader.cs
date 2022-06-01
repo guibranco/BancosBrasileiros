@@ -105,10 +105,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
-        /// Loads the pix.
+        /// Loads the spi.
         /// </summary>
         /// <returns>List&lt;Bank&gt;.</returns>
-        public List<Bank> LoadPix()
+        public List<Bank> LoadSpi()
         {
             var baseDate = DateTime.Today;
 
@@ -304,7 +304,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
             {
                 Compe = Convert.ToInt32(match.Groups["compe"].Value.Trim()),
                 IspbString = match.Groups["ispb"].Value.Trim(),
-                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
+                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
+                Charge = match.Groups["cobranca"].Value.Trim(),
+                CreditDocument = match.Groups["doc"].Value.Trim()
             };
         }
 
@@ -484,7 +486,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
             {
                 Document = match.Groups["cnpj"].Value.Trim(),
                 IspbString = match.Groups["ispb"].Value.Trim(),
-                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
+                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
+                Products = match.Groups["produtos"].Value.Split(",").Select(p => p.Trim()).OrderBy(p=>p).ToArray()
             };
         }
 
@@ -574,7 +577,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
             {
                 Document = match.Groups["cnpj"].Value.Trim(),
                 IspbString = match.Groups["ispb"].Value.Trim(),
-                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
+                LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
+                SalaryPortability = match.Groups["adesao"].Value.Trim()
             };
         }
     }

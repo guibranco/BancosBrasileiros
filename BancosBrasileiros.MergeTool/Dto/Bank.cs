@@ -147,7 +147,6 @@ namespace BancosBrasileiros.MergeTool.Dto
         [XmlElement("Type")]
         public string Type { get; set; }
 
-
         /// <summary>
         /// Gets or sets the type of the pix.
         /// </summary>
@@ -155,6 +154,38 @@ namespace BancosBrasileiros.MergeTool.Dto
         [JsonProperty("PixType")]
         [XmlElement("PixType")]
         public string PixType { get; set; }
+
+        /// <summary>
+        /// Gets or sets the charge.
+        /// </summary>
+        /// <value>The charge.</value>
+        [JsonProperty("Charge")]
+        [XmlElement("Charge")]
+        public string Charge { get; set; }
+
+        /// <summary>
+        /// Gets or sets the credit document.
+        /// </summary>
+        /// <value>The credit document.</value>
+        [JsonProperty("CreditDocument")]
+        [XmlElement("CreditDocument")]
+        public string CreditDocument { get; set; }
+
+        /// <summary>
+        /// Gets or sets the salary portability.
+        /// </summary>
+        /// <value>The salary portability.</value>
+        [JsonProperty("SalaryPortability")]
+        [XmlElement("SalaryPortability")]
+        public string SalaryPortability { get; set; }
+
+        /// <summary>
+        /// Gets or sets the products.
+        /// </summary>
+        /// <value>The products.</value>
+        [JsonProperty("Products")]
+        [XmlElement("Products")]
+        public string[] Products { get; set; }
 
         /// <summary>
         /// The URL
@@ -231,6 +262,9 @@ namespace BancosBrasileiros.MergeTool.Dto
                 string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(Charge, other.Charge, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(CreditDocument, other.CreditDocument, StringComparison.InvariantCultureIgnoreCase) &&
+                string.Equals(SalaryPortability, other.SalaryPortability, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
                 string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
@@ -265,6 +299,9 @@ namespace BancosBrasileiros.MergeTool.Dto
             hashCode.Add(Network ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Type ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(PixType ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(Charge, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(CreditDocument, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(SalaryPortability, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(Url ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
             hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);

@@ -41,19 +41,24 @@ namespace BancosBrasileiros.MergeTool
 
             var source = reader.LoadBase();
             var initial = source.ToArray().ToList();
-            var str = reader.LoadStr();
+            
+            var ctc = reader.LoadCtc();
+            var siloc = reader.LoadSiloc();
+            var sitraf = reader.LoadSitraf();
             var slc = reader.LoadSlc();
-            var pix = reader.LoadPix();
+            var spi = reader.LoadSpi();
+            var str = reader.LoadStr();
+            var pcps = reader.LoadPcps();
 
             var original = DeepClone(source);
 
-            Console.WriteLine($"Source: {source.Count} | STR: {str.Count} | SLC: {slc.Count} | PIX: {pix.Count} \r\n");
+            Console.WriteLine($"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} \r\n");
 
             new Seeder(source)
                 .GenerateMissingDocument()
                 .SeedStr(str)
                 .SeedSlc(slc)
-                .SeedPix(pix);
+                .SeedPix(spi);
 
             foreach (var bank in source)
             {
