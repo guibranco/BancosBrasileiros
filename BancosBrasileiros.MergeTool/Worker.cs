@@ -19,8 +19,6 @@ namespace BancosBrasileiros.MergeTool
     using BancosBrasileiros.MergeTool.Dto;
     using System;
     using System.Collections.Generic;
-    using System.Diagnostics;
-    using System.IO;
     using System.Linq;
     using System.Text;
 
@@ -168,11 +166,7 @@ namespace BancosBrasileiros.MergeTool
             Writer.WritePullRequest(pullRequestText.ToString());
             Writer.SaveBanks(source);
 
-            Console.WriteLine($"Merge done. Banks: {source.Count} | Check 'result' folder in 'bin' directory!");
-
-            var binDirectory = Directory.GetCurrentDirectory();
-            var resultDirectory = Path.Combine(binDirectory, "result");
-            Process.Start("explorer.exe", resultDirectory);
+            Console.WriteLine($"Merge done. Banks: {source.Count}");
         }
 
         /// <summary>
