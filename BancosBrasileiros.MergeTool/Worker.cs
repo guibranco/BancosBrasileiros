@@ -4,7 +4,7 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 05-05-2021
+// Last Modified On : 05-31-2022
 // ***********************************************************************
 // <copyright file="Worker.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -166,6 +166,12 @@ namespace BancosBrasileiros.MergeTool
             Process.Start("explorer.exe", resultDirectory);
         }
 
+        /// <summary>
+        /// Deeps the clone.
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="item">The item.</param>
+        /// <returns>T.</returns>
         private static T DeepClone<T>(T item)
         {
             var json = JsonConvert.SerializeObject(item);

@@ -4,7 +4,7 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 05-05-2021
+// Last Modified On : 05-31-2022
 // ***********************************************************************
 // <copyright file="Seeder.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -34,7 +34,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Initializes a new instance of the <see cref="Seeder" /> class.
         /// </summary>
         /// <param name="source">The source.</param>
-        /// <exception cref="ArgumentNullException">source</exception>
+        /// <exception cref="System.ArgumentNullException">source</exception>
         public Seeder(IList<Bank> source) => _source = source ?? throw new ArgumentNullException(nameof(source));
 
         /// <summary>

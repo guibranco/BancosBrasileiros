@@ -1,10 +1,26 @@
-﻿using System.Text.RegularExpressions;
+﻿// ***********************************************************************
+// Assembly         : BancosBrasileiros.MergeTool
+// Author           : guibr
+// Created          : 05-31-2022
+//
+// Last Modified By : guibr
+// Last Modified On : 05-31-2022
+// ***********************************************************************
+// <copyright file="Patterns.cs" company="Guilherme Branco Stracini ME">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System.Text.RegularExpressions;
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
+    /// <summary>
+    /// Class Patterns.
+    /// </summary>
     internal class Patterns
     {
-        
+
         /// <summary>
         /// The comma separated values pattern
         /// </summary>

@@ -1,5 +1,21 @@
-﻿namespace BancosBrasileiros.MergeTool.Helpers
+﻿// ***********************************************************************
+// Assembly         : BancosBrasileiros.MergeTool
+// Author           : guibr
+// Created          : 05-31-2022
+//
+// Last Modified By : guibr
+// Last Modified On : 05-31-2022
+// ***********************************************************************
+// <copyright file="Constants.cs" company="Guilherme Branco Stracini ME">
+//     Copyright (c) . All rights reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+namespace BancosBrasileiros.MergeTool.Helpers
 {
+    /// <summary>
+    /// Class Constants.
+    /// </summary>
     internal class Constants
     {
         /// <summary>

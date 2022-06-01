@@ -69,7 +69,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <returns>System.String.</returns>
         public string LoadChangeLog() => DownloadString(Constants.ChangeLogUrl);
-        
+
         /// <summary>
         /// Loads the base.
         /// </summary>
@@ -488,6 +488,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
             };
         }
 
+        /// <summary>
+        /// Loads the PCPS.
+        /// </summary>
+        /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadPcps()
         {
             _countingPcps = 0;
