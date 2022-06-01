@@ -4,7 +4,7 @@
 // Created          : 18/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 05-31-2022
+// Last Modified On : 06-01-2022
 // ***********************************************************************
 // <copyright file="Bank.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -250,26 +250,28 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <returns><see langword="true" /> if the current object is equal to the <paramref name="other" /> parameter; otherwise, <see langword="false" />.</returns>
         public bool Equals(Bank other)
         {
-            if (other is null) return false;
-            if (ReferenceEquals(this, other)) return true;
+            if (other is null) 
+                return false;
 
-            return
-                Compe == other.Compe &&
-                Ispb == other.Ispb &&
-                string.Equals(Document, other.Document, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(Charge, other.Charge, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(CreditDocument, other.CreditDocument, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(SalaryPortability, other.SalaryPortability, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(Url, other.Url, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
-                string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
-                Nullable.Equals(DateRegistered, other.DateRegistered) &&
-                Nullable.Equals(DateUpdated, other.DateUpdated);
+            if (ReferenceEquals(this, other)) 
+                return true;
+
+            return string.Equals(_document, other._document, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(_url, other._url, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(Charge, other.Charge, StringComparison.InvariantCultureIgnoreCase) && 
+                   Compe == other.Compe && 
+                   string.Equals(CreditDocument, other.CreditDocument, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) && 
+                   Nullable.Equals(DateRegistered, other.DateRegistered) && 
+                   Nullable.Equals(DateUpdated, other.DateUpdated) && Ispb == other.Ispb && 
+                   string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) && 
+                   Equals(Products, other.Products) && 
+                   string.Equals(SalaryPortability, other.SalaryPortability, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) && 
+                   string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase);
         }
 
         /// <summary>
@@ -279,9 +281,13 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <returns><see langword="true" /> if the specified object  is equal to the current object; otherwise, <see langword="false" />.</returns>
         public override bool Equals(object obj)
         {
-            if (obj is null) return false;
-            if (ReferenceEquals(this, obj)) return true;
-            return obj.GetType() == GetType() && Equals((Bank)obj);
+            if (obj is null) 
+                return false;
+
+            if (ReferenceEquals(this, obj))
+                return true;
+
+            return obj.GetType() == this.GetType() && Equals((Bank)obj);
         }
 
         /// <summary>
@@ -291,22 +297,23 @@ namespace BancosBrasileiros.MergeTool.Dto
         public override int GetHashCode()
         {
             var hashCode = new HashCode();
+            hashCode.Add(_document, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(_url, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(Charge, StringComparer.InvariantCultureIgnoreCase);
             hashCode.Add(Compe);
-            hashCode.Add(Ispb);
-            hashCode.Add(Document ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(LongName, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(ShortName, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(Network ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(Type ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(PixType ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(Charge, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(CreditDocument, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(SalaryPortability, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(Url ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
-            hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.CurrentCultureIgnoreCase);
+            hashCode.Add(CreditDocument, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(DateOperationStarted, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(DatePixStarted, StringComparer.InvariantCultureIgnoreCase);
             hashCode.Add(DateRegistered);
             hashCode.Add(DateUpdated);
+            hashCode.Add(Ispb);
+            hashCode.Add(LongName, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(Network, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(PixType, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(Products);
+            hashCode.Add(SalaryPortability, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(ShortName, StringComparer.InvariantCultureIgnoreCase);
+            hashCode.Add(Type, StringComparer.InvariantCultureIgnoreCase);
             return hashCode.ToHashCode();
         }
 

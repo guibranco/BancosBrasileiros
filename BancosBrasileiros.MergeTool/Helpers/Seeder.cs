@@ -4,7 +4,7 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 05-31-2022
+// Last Modified On : 06-01-2022
 // ***********************************************************************
 // <copyright file="Seeder.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -118,6 +118,55 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
+        /// Seeds the sitraf.
+        /// </summary>
+        /// <param name="items">The items.</param>
+        /// <returns>Seeder.</returns>
+        public Seeder SeedSitraf(IEnumerable<Bank> items)
+        {
+            var found = 0;
+            var notFound = 0;
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine("SITRAF\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            foreach (var sitraf in items)
+            {
+                var bank = _source.SingleOrDefault(b => b.Compe == sitraf.Compe);
+
+                if (bank == null)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                    Console.WriteLine($"Adding bank by SITRAF List | {sitraf.Compe} | {sitraf.LongName}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    if (sitraf.Document == null || sitraf.Document.Length != 18)
+                        sitraf.Document = sitraf.IspbString;
+
+                    _source.Add(sitraf);
+                    bank = sitraf;
+                }
+
+                if (bank.LongName.RemoveDiacritics().Equals(sitraf.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
+                {
+                    notFound++;
+                    continue;
+                }
+
+                bank.LongName = sitraf.LongName;
+                bank.DateUpdated = DateTimeOffset.UtcNow;
+                found++;
+            }
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine($"\r\nSITRAF | Found: {found} | Not found: {notFound}\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            return this;
+        }
+
+        /// <summary>
         /// Seeds the SLC.
         /// </summary>
         /// <param name="items">The items.</param>
@@ -189,7 +238,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 }
 
                 found++;
-
             }
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
@@ -200,33 +248,33 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
-        /// Seeds the pix.
+        /// Seeds the SPI.
         /// </summary>
         /// <param name="items">The items.</param>
         /// <returns>Seeder.</returns>
-        public Seeder SeedPix(IEnumerable<Bank> items)
+        public Seeder SeedSpi(IEnumerable<Bank> items)
         {
             var found = 0;
             var upToDate = 0;
             var notFound = 0;
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("PIX\r\n");
+            Console.WriteLine("SPI\r\n");
             Console.ForegroundColor = ConsoleColor.White;
 
-            foreach (var pix in items)
+            foreach (var spi in items)
             {
                 var bank = _source.SingleOrDefault(b =>
-                    b.LongName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
-                    (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(pix.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                    b.LongName.RemoveDiacritics().Equals(spi.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                    (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(spi.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
 
                 if (bank == null)
-                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(pix.Ispb));
+                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(spi.Ispb));
 
                 if (bank == null)
                 {
                     Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"PIX | PSP not found: {pix.LongName}");
+                    Console.WriteLine($"SPI | PSP not found: {spi.LongName}");
                     Console.ForegroundColor = ConsoleColor.White;
 
                     notFound++;
@@ -234,27 +282,295 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 }
 
                 if (bank.PixType != null &&
-                    bank.PixType.Equals(pix.PixType) &&
+                    bank.PixType.Equals(spi.PixType) &&
                     bank.DatePixStarted != null &&
-                    bank.DatePixStarted.Equals(pix.DatePixStarted))
+                    bank.DatePixStarted.Equals(spi.DatePixStarted))
                 {
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"PIX | PSP updated: {pix.LongName}");
+                    Console.WriteLine($"SPI | PSP updated: {spi.LongName}");
                     Console.ForegroundColor = ConsoleColor.White;
 
                     upToDate++;
                     continue;
                 }
 
-                bank.PixType = pix.PixType;
-                bank.DatePixStarted = pix.DatePixStarted;
+                bank.PixType = spi.PixType;
+                bank.DatePixStarted = spi.DatePixStarted;
                 bank.DateUpdated = DateTimeOffset.UtcNow;
 
                 found++;
             }
 
             Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nPIX | Found: {found} | Not found: {notFound} | Up to Date: {upToDate}\r\n");
+            Console.WriteLine($"\r\nSPI | Found: {found} | Not found: {notFound} | Up to Date: {upToDate}\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            return this;
+        }
+
+        /// <summary>
+        /// Seeds the CTC.
+        /// </summary>
+        /// <param name="items">The items.</param>
+        /// <returns>Seeder.</returns>
+        public Seeder SeedCtc(IEnumerable<Bank> items)
+        {
+            var found = 0;
+            var upToDate = 0;
+            var notFound = 0;
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine("CTC\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            foreach (var ctc in items)
+            {
+                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(ctc.Document));
+
+                if (bank == null)
+                {
+                    bank = _source.SingleOrDefault(b =>
+                        b.LongName.RemoveDiacritics().Equals(ctc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(ctc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                }
+
+                if (bank == null)
+                {
+                    var ispb = int.Parse(ctc.Document.RemoveNonNumeric()[..8]);
+
+                    if (ispb == 0 && !ctc.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.WriteLine($"CTC | ISPB nulled: {ctc.LongName} | {ctc.Document.Trim()}");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        continue;
+                    }
+
+                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(ctc.LongName, StringComparison.InvariantCultureIgnoreCase));
+                }
+
+                if (bank == null)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"CTC | Bank not found: {ctc.LongName} | {ctc.Document.Trim()}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    notFound++;
+                    continue;
+                }
+
+                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
+                    !string.IsNullOrWhiteSpace(ctc.Document))
+                {
+                    bank.Document = ctc.Document;
+                    bank.DateUpdated = DateTimeOffset.UtcNow;
+                }
+
+                else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"CTC | Invalid document {ctc.Compe} | {bank.Document} | {ctc.Document}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                }
+
+                if (bank.Products.Equals(ctc.Products))
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                    Console.WriteLine($"CTC | Products updated: {ctc.LongName}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    upToDate++;
+                    continue;
+                }
+
+                bank.Products = ctc.Products;
+                bank.DateUpdated = DateTimeOffset.Now;
+
+                found++;
+            }
+            
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine($"\r\nCTC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            return this;
+        }
+
+        /// <summary>
+        /// Seeds the siloc.
+        /// </summary>
+        /// <param name="items">The items.</param>
+        /// <returns>Seeder.</returns>
+        public Seeder SeedSiloc(IEnumerable<Bank> items)
+        {
+            var found = 0;
+            var upToDate = 0;
+            var notFound = 0;
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine("SILOC\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            foreach (var siloc in items)
+            {
+                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(siloc.Document));
+
+                if (bank == null)
+                {
+                    bank = _source.SingleOrDefault(b =>
+                        b.LongName.RemoveDiacritics().Equals(siloc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(siloc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                }
+
+                if (bank == null)
+                {
+                    var ispb = int.Parse(siloc.Document.RemoveNonNumeric()[..8]);
+
+                    if (ispb == 0 && !siloc.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.WriteLine($"SILOC | ISPB nulled: {siloc.LongName} | {siloc.Document.Trim()}");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        continue;
+                    }
+
+                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(siloc.LongName, StringComparison.InvariantCultureIgnoreCase));
+                }
+
+                if (bank == null)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"SILOC | Bank not found: {siloc.LongName} | {siloc.Document.Trim()}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    notFound++;
+                    continue;
+                }
+
+                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
+                    !string.IsNullOrWhiteSpace(siloc.Document))
+                {
+                    bank.Document = siloc.Document;
+                    bank.DateUpdated = DateTimeOffset.UtcNow;
+                }
+
+                else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"SILOC | Invalid document {siloc.Compe} | {bank.Document} | {siloc.Document}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                }
+
+                if (bank.Charge.Equals(siloc.Charge) && bank.CreditDocument.Equals(siloc.CreditDocument))
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                    Console.WriteLine($"SILOC | COB/DOC updated: {siloc.LongName}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    upToDate++;
+                    continue;
+                }
+
+                bank.Charge = siloc.Charge;
+                bank.CreditDocument = siloc.CreditDocument;
+                bank.DateUpdated = DateTimeOffset.Now;
+
+                found++;
+            }
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine($"\r\nSILOC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            return this;
+        }
+
+        /// <summary>
+        /// Seeds the PCPS.
+        /// </summary>
+        /// <param name="items">The items.</param>
+        /// <returns>Seeder.</returns>
+        public Seeder SeedPcps(IEnumerable<Bank> items)
+        {
+            var found = 0;
+            var upToDate = 0;
+            var notFound = 0;
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine("PCPS\r\n");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            foreach (var pcps in items)
+            {
+                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(pcps.Document));
+
+                if (bank == null)
+                {
+                    bank = _source.SingleOrDefault(b =>
+                        b.LongName.RemoveDiacritics().Equals(pcps.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
+                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(pcps.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                }
+
+                if (bank == null)
+                {
+                    var ispb = int.Parse(pcps.Document.RemoveNonNumeric()[..8]);
+
+                    if (ispb == 0 && !pcps.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.WriteLine($"PCPS | ISPB nulled: {pcps.LongName} | {pcps.Document.Trim()}");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        continue;
+                    }
+
+                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(pcps.LongName, StringComparison.InvariantCultureIgnoreCase));
+                }
+
+                if (bank == null)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"PCPS | Bank not found: {pcps.LongName} | {pcps.Document.Trim()}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    notFound++;
+                    continue;
+                }
+
+                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
+                    !string.IsNullOrWhiteSpace(pcps.Document))
+                {
+                    bank.Document = pcps.Document;
+                    bank.DateUpdated = DateTimeOffset.UtcNow;
+                }
+
+                else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"SILOC | Invalid document {pcps.Compe} | {bank.Document} | {pcps.Document}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                }
+
+                if (bank.SalaryPortability.Equals(pcps.SalaryPortability))
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                    Console.WriteLine($"SILOC | Salary portability updated: {pcps.LongName}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                    upToDate++;
+                    continue;
+                }
+
+                bank.SalaryPortability = pcps.SalaryPortability;
+                bank.DateUpdated = DateTimeOffset.Now;
+
+                found++;
+            }
+
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Console.WriteLine($"\r\nPCPS | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n");
             Console.ForegroundColor = ConsoleColor.White;
 
             return this;

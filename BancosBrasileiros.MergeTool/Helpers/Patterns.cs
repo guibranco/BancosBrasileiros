@@ -4,7 +4,7 @@
 // Created          : 05-31-2022
 //
 // Last Modified By : guibr
-// Last Modified On : 05-31-2022
+// Last Modified On : 06-01-2022
 // ***********************************************************************
 // <copyright file="Patterns.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) . All rights reserved.
