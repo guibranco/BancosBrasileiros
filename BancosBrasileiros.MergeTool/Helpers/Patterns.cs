@@ -1,9 +1,9 @@
 ﻿// ***********************************************************************
 // Assembly         : BancosBrasileiros.MergeTool
-// Author           : guibr
+// Author           : Guilherme Branco Stracini
 // Created          : 05-31-2022
 //
-// Last Modified By : guibr
+// Last Modified By : Guilherme Branco Stracini
 // Last Modified On : 06-01-2022
 // ***********************************************************************
 // <copyright file="Patterns.cs" company="Guilherme Branco Stracini ME">
@@ -18,7 +18,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// <summary>
     /// Class Patterns.
     /// </summary>
-    internal class Patterns
+    internal static class Patterns
     {
 
         /// <summary>

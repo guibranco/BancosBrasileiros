@@ -287,7 +287,7 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (ReferenceEquals(this, obj))
                 return true;
 
-            return obj.GetType() == this.GetType() && Equals((Bank)obj);
+            return obj.GetType() == GetType() && Equals((Bank)obj);
         }
 
         /// <summary>

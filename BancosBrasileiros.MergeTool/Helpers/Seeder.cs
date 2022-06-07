@@ -100,6 +100,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if (bank.LongName.RemoveDiacritics().Equals(str.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) &&
                     bank.ShortName.RemoveDiacritics().Equals(str.ShortName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"STR | Bank not found: {str.LongName}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
                     notFound++;
                     continue;
                 }
@@ -150,6 +154,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank.LongName.RemoveDiacritics().Equals(sitraf.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                    Console.WriteLine($"SITRAF | Bank not found: {sitraf.LongName}");
+                    Console.ForegroundColor = ConsoleColor.White;
+
                     notFound++;
                     continue;
                 }

@@ -33,13 +33,13 @@ namespace BancosBrasileiros.MergeTool
         /// </summary>
         public void Work()
         {
-            Console.WriteLine("Reading data files");
+            Logger.Log("Reading data files", ConsoleColor.White);
 
             var reader = new Reader();
 
             var source = reader.LoadBase();
             var initial = source.ToArray().ToList();
-            
+
             var ctc = reader.LoadCtc();
             var siloc = reader.LoadSiloc();
             var sitraf = reader.LoadSitraf();
@@ -50,7 +50,7 @@ namespace BancosBrasileiros.MergeTool
 
             var original = DeepClone(source);
 
-            Console.WriteLine($"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} \r\n");
+            Logger.Log($"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} \r\n", ConsoleColor.DarkGreen);
 
             new Seeder(source)
                 .GenerateMissingDocument()
@@ -70,14 +70,12 @@ namespace BancosBrasileiros.MergeTool
 
             var types = source.GroupBy(b => b.Type);
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            Logger.Log($"Type: All | Total: {source.Count}", ConsoleColor.Yellow);
 
             foreach (var type in types.OrderBy(g => g.Key))
             {
-                Console.WriteLine($"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}");
+                Logger.Log($"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}", ConsoleColor.DarkYellow);
             }
-
-            Console.ForegroundColor = ConsoleColor.White;
 
             source = source.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
 
@@ -85,7 +83,7 @@ namespace BancosBrasileiros.MergeTool
 
             if (!except.Any())
             {
-                Console.WriteLine("No new data or updated information");
+                Logger.Log("No new data or updated information", ConsoleColor.DarkMagenta);
                 Environment.Exit(1);
                 return;
             }
@@ -116,24 +114,20 @@ namespace BancosBrasileiros.MergeTool
 
                 pullRequestText.AppendLine($"Added banks: {added.Count}\r\n");
 
-                Console.WriteLine($"\r\nAdded items: {added.Count}\r\n\r\n");
-
+                Logger.Log($"\r\nAdded items: {added.Count}\r\n\r\n", ConsoleColor.White);
+                
                 foreach (var item in added)
                 {
                     changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
 
                     pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
 
-                    Console.ForegroundColor = color;
                     color = color == ConsoleColor.DarkGreen ? ConsoleColor.Cyan : ConsoleColor.DarkGreen;
-
-                    Console.WriteLine($"Added: {item}\r\n");
+                    Logger.Log($"Added: {item}\r\n", color);
                 }
 
                 pullRequestText.AppendLine("");
             }
-
-            Console.ForegroundColor = ConsoleColor.White;
 
             color = ConsoleColor.DarkBlue;
 
@@ -143,24 +137,20 @@ namespace BancosBrasileiros.MergeTool
 
                 pullRequestText.AppendLine($"Updated banks: {updated.Count}\r\n");
 
-                Console.WriteLine($"\r\nUpdated items: {updated.Count}\r\n\r\n");
+                Logger.Log($"\r\nUpdated items: {updated.Count}\r\n\r\n", ConsoleColor.White);
 
                 foreach (var item in updated)
                 {
                     changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
 
                     pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
-
-                    Console.ForegroundColor = color;
+                    
                     color = color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
-
-                    Console.WriteLine($"Updated: {item}\r\n");
+                    Logger.Log($"Updated: {item}\r\n", color);
                 }
             }
 
-            Console.ForegroundColor = ConsoleColor.White;
-
-            Console.WriteLine("\r\nSaving result files");
+            Logger.Log("\r\nSaving result files", ConsoleColor.White);
 
             Writer.WriteChangeLog(changeLog.ToString());
             Writer.WritePullRequest(pullRequestText.ToString());

@@ -1,9 +1,9 @@
 ﻿// ***********************************************************************
 // Assembly         : BancosBrasileiros.MergeTool
-// Author           : guibr
+// Author           : Guilherme Branco Stracini
 // Created          : 06-01-2022
 //
-// Last Modified By : guibr
+// Last Modified By : Guilherme Branco Stracini
 // Last Modified On : 06-01-2022
 // ***********************************************************************
 // <copyright file="Source.cs" company="Guilherme Branco Stracini ME">

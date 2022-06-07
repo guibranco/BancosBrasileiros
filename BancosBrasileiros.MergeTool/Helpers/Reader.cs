@@ -68,7 +68,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// Loads the change log.
         /// </summary>
         /// <returns>System.String.</returns>
-        public string LoadChangeLog() => DownloadString(Constants.ChangeLogUrl);
+        public static string LoadChangeLog() => DownloadString(Constants.ChangeLogUrl);
 
         /// <summary>
         /// Loads the base.
@@ -76,6 +76,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadBase()
         {
+            Logger.Log("Downloading base", ConsoleColor.Green);
             var data = DownloadString(Constants.BaseUrl);
             return SerializerFactory.GetCustomSerializer<List<Bank>>(SerializerFormat.JSON).Deserialize(data);
         }
@@ -86,6 +87,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadStr()
         {
+            Logger.Log("Downloading STR", ConsoleColor.Green);
             var data = DownloadString(Constants.StrUrl);
             var lines = data.Split("\n").Skip(1).ToArray();
 
@@ -110,6 +112,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSpi()
         {
+            Logger.Log("Downloading SPI", ConsoleColor.Green);
             var baseDate = DateTime.Today;
 
             var data = GetPixData(baseDate);
@@ -163,6 +166,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSlc()
         {
+            Logger.Log("Downloading SLC", ConsoleColor.Green);
             _countingSlc = 0;
             var result = new List<Bank>();
             var reader = new PdfReader(Constants.SlcUrl);
@@ -236,8 +240,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingSlc++;
 
-            if (_countingSlc != code)
-                Console.WriteLine($"SLC | Counting: {_countingSlc} | Code: {code}");
+            if (_countingSlc != code) Logger.Log($"SLC | Counting: {_countingSlc++} | Code: {code}", ConsoleColor.DarkYellow);
 
             return new Bank
             {
@@ -252,6 +255,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSiloc()
         {
+            Logger.Log("Downloading SILOC", ConsoleColor.Green);
             var result = new List<Bank>();
             var reader = new PdfReader(Constants.SilocUrl);
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
@@ -316,6 +320,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSitraf()
         {
+            Logger.Log("Downloading SITRAF", ConsoleColor.Green);
             _countingSitraf = 0;
             var result = new List<Bank>();
             var reader = new PdfReader(Constants.SitrafUrl);
@@ -389,9 +394,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingSitraf++;
 
-            if (_countingSitraf != code)
-                Console.WriteLine($"SITRAF | Counting: {_countingSitraf} | Code: {code}");
-
+            if (_countingSitraf != code) Logger.Log($"SITRAF | Counting: {_countingSitraf++} | Code: {code}", ConsoleColor.DarkYellow);
+            
             return new Bank
             {
                 Compe = Convert.ToInt32(match.Groups["compe"].Value.Trim()),
@@ -406,6 +410,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadCtc()
         {
+            Logger.Log("Downloading CTC", ConsoleColor.Green);
             _countingCtc = 0;
             var result = new List<Bank>();
             var reader = new PdfReader(Constants.CtcUrl);
@@ -479,8 +484,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingCtc++;
 
-            if (_countingCtc != code)
-                Console.WriteLine($"CTC | Counting: {_countingCtc++} | Code: {code}");
+            if (_countingCtc != code) Logger.Log($"CTC | Counting: {_countingCtc++} | Code: {code}", ConsoleColor.DarkYellow);
 
             return new Bank
             {
@@ -497,6 +501,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadPcps()
         {
+            Logger.Log("Downloading PCPS", ConsoleColor.Green);
             _countingPcps = 0;
             var result = new List<Bank>();
             var reader = new PdfReader(Constants.PcpsUrl);
@@ -570,8 +575,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingPcps++;
 
-            if (_countingPcps != code)
-                Console.WriteLine($"PCPS | Counting: {_countingPcps++} | Code: {code}");
+            if (_countingPcps != code) Logger.Log($"PCPS | Counting: {_countingPcps++} | Code: {code}", ConsoleColor.DarkYellow);
 
             return new Bank
             {

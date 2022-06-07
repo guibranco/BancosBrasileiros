@@ -1,9 +1,9 @@
 ﻿// ***********************************************************************
 // Assembly         : BancosBrasileiros.MergeTool
-// Author           : guibr
+// Author           : Guilherme Branco Stracini
 // Created          : 05-31-2022
 //
-// Last Modified By : guibr
+// Last Modified By : Guilherme Branco Stracini
 // Last Modified On : 06-01-2022
 // ***********************************************************************
 // <copyright file="Constants.cs" company="Guilherme Branco Stracini ME">
@@ -16,7 +16,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
     /// <summary>
     /// Class Constants.
     /// </summary>
-    internal class Constants
+    internal static class Constants
     {
         /// <summary>
         /// The change log URL

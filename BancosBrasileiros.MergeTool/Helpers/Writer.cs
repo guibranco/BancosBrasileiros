@@ -35,7 +35,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             if (!Directory.Exists("result"))
                 Directory.CreateDirectory("result");
 
-            var changeLogFile = new Reader().LoadChangeLog();
+            var changeLogFile = Reader.LoadChangeLog();
 
             var result = changeLogFile.Replace("## Changelog\n\n", $"## Changelog\n\n{changeLog}\n");
 

@@ -19,7 +19,7 @@ namespace BancosBrasileiros.MergeTool
     /// <summary>
     /// Class Program.
     /// </summary>
-    class Program
+    static class Program
     {
         /// <summary>
         /// Defines the entry point of the application.
