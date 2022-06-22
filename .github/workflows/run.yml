@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOTNET_VERSION: '3.1.x'
+  DOTNET_VERSION: '5.0.x'
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
           ref: MergeTool
 
       - name: Setup .NET
-        uses: actions/setup-dotnet@v1
+        uses: actions/setup-dotnet@v2
         with:
           dotnet-version: ${{ env.DOTNET_VERSION }}
           
