@@ -37,11 +37,8 @@ jobs:
       - name: Display structure of downloaded files
         run: |
           mkdir result
-          ls -R
-          cp ./BancosBrasileiros.MergeTool/result result
-          ls -R
-        
-      
+          cp -r ./BancosBrasileiros.MergeTool/result/ result
+            
       - name: Upload banks files
         uses: actions/upload-artifact@v3
         with:
