@@ -153,10 +153,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     continue;
                 }
 
-                Logger.Log($"SITRAF | Bank with name different: {bank.LongName} <-> {sitraf.LongName}", ConsoleColor.DarkYellow);
-                bank.LongName = sitraf.LongName;
-                bank.DateUpdated = DateTimeOffset.UtcNow;
-                nameFixed++;
+                //Logger.Log($"SITRAF | Bank with name different: {bank.LongName} <-> {sitraf.LongName}", ConsoleColor.DarkYellow);
+                //bank.LongName = sitraf.LongName;
+                //bank.DateUpdated = DateTimeOffset.UtcNow;
+                //nameFixed++;
             }
 
             Logger.Log($"\r\nSTR | Updated: {updated} | Fixed: {nameFixed} | Not found: {notFound}\r\n", ConsoleColor.DarkYellow);
