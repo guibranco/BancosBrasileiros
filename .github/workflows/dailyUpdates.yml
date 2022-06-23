@@ -38,7 +38,7 @@ jobs:
         run: |
           mkdir result
           ls -R
-          cp .\\BancosBrasileiros.MergeTool\\result\\* result
+          cp ./BancosBrasileiros.MergeTool/result result
           ls -R
         
       
