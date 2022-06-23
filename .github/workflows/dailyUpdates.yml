@@ -33,7 +33,10 @@ jobs:
         run: |
             cd BancosBrasileiros.MergeTool
             dotnet run --configuration Release
-            
+      
+      - name: Display structure of downloaded files
+        run: ls -R
+      
       - name: Upload banks files
         uses: actions/upload-artifact@v3
         with:
