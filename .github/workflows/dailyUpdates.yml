@@ -32,11 +32,8 @@ jobs:
       - name: Run
         run: |
             cd BancosBrasileiros.MergeTool
-            dotnet run --configuration Release
-      
-      - name: Display structure of downloaded files
-        run: ls -R
-            
+            dotnet run --configuration Release      
+           
       - name: Upload banks files
         uses: actions/upload-artifact@v3
         with:
@@ -78,6 +75,7 @@ jobs:
 
       - name: Commit and Push
         run: |
+          git add .
           git commit -m "Daily updates (bot)"
           git push origin develop
 
