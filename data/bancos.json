@@ -24,7 +24,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7109988-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5493211+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.371865+00:00"
   },
   {
     "COMPE": "003",
@@ -233,7 +233,7 @@
     "DateOperationStarted": "2012-11-19",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115161-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2746717+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3722396+00:00"
   },
   {
     "COMPE": "018",
@@ -252,7 +252,7 @@
     "DateOperationStarted": "2013-08-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115214-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2745936+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3721872+00:00"
   },
   {
     "COMPE": "021",
@@ -370,7 +370,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115471-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528572+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3721382+00:00"
   },
   {
     "COMPE": "036",
@@ -411,7 +411,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114571-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5493462+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3718854+00:00"
   },
   {
     "COMPE": "040",
@@ -583,7 +583,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711518-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.273943+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3716374+00:00"
   },
   {
     "COMPE": "066",
@@ -726,7 +726,7 @@
     "DateOperationStarted": "2008-08-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112852-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5500368+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3719869+00:00"
   },
   {
     "COMPE": "078",
@@ -866,7 +866,7 @@
     "DateOperationStarted": "2009-11-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114472-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2349935+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3725441+00:00"
   },
   {
     "COMPE": "085",
@@ -927,7 +927,7 @@
     "DateOperationStarted": "2010-08-30",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115328-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2747801+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3723693+00:00"
   },
   {
     "COMPE": "091",
@@ -1060,7 +1060,7 @@
     "DateOperationStarted": "2011-02-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114549-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2747628+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3723497+00:00"
   },
   {
     "COMPE": "098",
@@ -1103,7 +1103,7 @@
     "DateOperationStarted": "2011-01-11",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114498-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2349877+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3725186+00:00"
   },
   {
     "COMPE": "100",
@@ -1550,7 +1550,7 @@
     "DateOperationStarted": "2013-08-12",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114682-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2747268+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3722973+00:00"
   },
   {
     "COMPE": "131",
@@ -1615,7 +1615,7 @@
     "DateOperationStarted": "2016-05-02",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114705-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.7025328+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3723239+00:00"
   },
   {
     "COMPE": "134",
@@ -1661,7 +1661,7 @@
     "DateOperationStarted": "2014-07-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112437-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.7025434+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3723371+00:00"
   },
   {
     "COMPE": "138",
@@ -2282,7 +2282,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115434-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2741254+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3718042+00:00"
   },
   {
     "COMPE": "224",
@@ -2394,7 +2394,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-05-12 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115103-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5509493+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3720478+00:00"
   },
   {
     "COMPE": "246",
@@ -2456,7 +2456,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115191-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2741649+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.37184+00:00"
   },
   {
     "COMPE": "253",
@@ -2537,7 +2537,7 @@
     "DateOperationStarted": "2017-10-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114912-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.274871+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3724682+00:00"
   },
   {
     "COMPE": "265",
@@ -2556,7 +2556,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115084-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2742511+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3719117+00:00"
   },
   {
     "COMPE": "266",
@@ -2712,7 +2712,7 @@
     "DateOperationStarted": "2019-09-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114738-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2748463+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3724388+00:00"
   },
   {
     "COMPE": "276",
@@ -2790,7 +2790,7 @@
     "DateOperationStarted": "2018-05-10",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114949-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2749403+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3725558+00:00"
   },
   {
     "COMPE": "281",
@@ -3021,7 +3021,7 @@
     "DateOperationStarted": "2018-12-03",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114556-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2335929+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3724981+00:00"
   },
   {
     "COMPE": "300",
@@ -3273,7 +3273,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114616-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2747347+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3723089+00:00"
   },
   {
     "COMPE": "321",
@@ -3587,7 +3587,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115257-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5500522+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3720056+00:00"
   },
   {
     "COMPE": "342",
@@ -4380,7 +4380,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114609-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5477961+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3717085+00:00"
   },
   {
     "COMPE": "395",
@@ -4589,7 +4589,7 @@
     "DateOperationStarted": "2020-11-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115144-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2739053+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3716095+00:00"
   },
   {
     "COMPE": "407",
@@ -5647,7 +5647,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115354-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2748068+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3723975+00:00"
   },
   {
     "COMPE": "488",
@@ -5914,7 +5914,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115298-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5478278+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3719283+00:00"
   },
   {
     "COMPE": "630",
@@ -5933,7 +5933,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115221-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2743707+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3719767+00:00"
   },
   {
     "COMPE": "633",
@@ -6188,7 +6188,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7113315-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5478436+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3717571+00:00"
   },
   {
     "COMPE": "741",
@@ -6232,7 +6232,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-12-22 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7113451-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528646+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3721469+00:00"
   },
   {
     "COMPE": "745",
@@ -6254,7 +6254,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-09-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115077-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5478516+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3717741+00:00"
   },
   {
     "COMPE": "746",
@@ -6335,7 +6335,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114999-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2748868+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3724873+00:00"
   },
   {
     "COMPE": "752",
@@ -6375,7 +6375,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711543-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2252661+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3724581+00:00"
   },
   {
     "COMPE": "754",
@@ -6440,7 +6440,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114457-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5485682+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3717856+00:00"
   },
   {
     "COMPE": "757",
@@ -6459,6 +6459,6 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-08-09 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114464-03:00",
-    "DateUpdated": "2022-06-23T13:51:33.2744236+00:00"
+    "DateUpdated": "2022-06-23T14:53:19.3720308+00:00"
   }
 ]
