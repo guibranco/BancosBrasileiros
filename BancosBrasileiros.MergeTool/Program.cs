@@ -15,6 +15,7 @@
 namespace BancosBrasileiros.MergeTool
 {
     using System;
+    using BancosBrasileiros.MergeTool.Helpers;
 
     /// <summary>
     /// Class Program.
@@ -28,7 +29,7 @@ namespace BancosBrasileiros.MergeTool
         {
             System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
 
-            Console.WriteLine("Bancos Brasileiros - Merge tool");
+            Logger.Log("Bancos Brasileiros - Merge tool", ConsoleColor.Cyan);
 
             var worker = new Worker();
             worker.Work();
