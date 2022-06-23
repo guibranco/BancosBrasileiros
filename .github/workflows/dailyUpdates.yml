@@ -37,7 +37,8 @@ jobs:
       - name: Display structure of downloaded files
         run: |
           mkdir result
-          cp .\BancosBrasileiros.MergeTool\result\* result
+          ls -R
+          cp .\\BancosBrasileiros.MergeTool\\result\\* result
           ls -R
         
       
