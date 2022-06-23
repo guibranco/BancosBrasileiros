@@ -55,7 +55,7 @@ jobs:
       - name: Checkout developer
         uses: actions/checkout@v3
         with:
-          ref: develop
+          ref: master
           
       - name: Download banks files
         uses: actions/download-artifact@v3
@@ -77,5 +77,5 @@ jobs:
         run: |
           git add .
           git commit -m "Daily updates (bot)"
-          git push origin develop
+          git push origin master
 
