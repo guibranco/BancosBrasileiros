@@ -35,22 +35,19 @@ jobs:
             dotnet run --configuration Release
       
       - name: Display structure of downloaded files
-        run: |
-          mkdir result
-          cp -r ./BancosBrasileiros.MergeTool/result/ result
-          ls -R
+        run: ls -R
             
       - name: Upload banks files
         uses: actions/upload-artifact@v3
         with:
           name: bankFiles
-          path: ./result/bancos.*
+          path: ./BancosBrasileiros.MergeTool/result/bancos.*
      
       - name: Upload changelog file
         uses: actions/upload-artifact@v3
         with:
           name: changeLogFile
-          path: ./result/CHANGELOG.md          
+          path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md          
 
           
   publish:
