@@ -22,8 +22,8 @@
     <Url>https://www.bb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7109988-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493211Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>003</COMPE>
@@ -42,8 +42,8 @@
     <Url>https://www.bancoamazonia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114564-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5485925Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>004</COMPE>
@@ -62,8 +62,8 @@
     <Url>https://www.banconordeste.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114613-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493632Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>007</COMPE>
@@ -75,8 +75,8 @@
     <Charge>sim</Charge>
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2014-06-30</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115088-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3507277Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>010</COMPE>
@@ -90,8 +90,8 @@
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2012-12-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115464-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3596292Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>011</COMPE>
@@ -101,8 +101,8 @@
     <ShortName>C.SUISSE HEDGING-GRIFFO CV S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-06-28</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115317-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115319-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>012</COMPE>
@@ -121,8 +121,8 @@
     <Url>https://www.bancoinbursa.com</Url>
     <DateOperationStarted>2017-05-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711456-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5500211Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>014</COMPE>
@@ -133,8 +133,8 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <DateOperationStarted>2008-08-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114679-03:00</DateRegistered>
+    <DateUpdated>2021-10-23T20:54:59.5224714-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>015</COMPE>
@@ -144,8 +144,8 @@
     <ShortName>UBS BRASIL CCTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-03-15</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114483-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114485-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>016</COMPE>
@@ -166,8 +166,8 @@
     <Products>Veículos</Products>
     <DateOperationStarted>2012-05-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114553-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.9570486Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>017</COMPE>
@@ -181,8 +181,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bnymellon.com.br</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115161-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2746717Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>018</COMPE>
@@ -196,8 +196,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancotricury.com.br</Url>
     <DateOperationStarted>2013-08-05</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115214-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2745936Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>021</COMPE>
@@ -221,8 +221,8 @@
     <Url>https://www.banestes.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114987-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493378Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>024</COMPE>
@@ -234,8 +234,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.santander.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114722-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114724-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>025</COMPE>
@@ -253,8 +253,8 @@
     <Url>https://www.bancoalfa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114509-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477558Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>029</COMPE>
@@ -269,8 +269,8 @@
     <Products>Pessoal e Veículos</Products>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115099-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5500445Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>033</COMPE>
@@ -294,8 +294,8 @@
     <Url>https://www.santander.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115471-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>036</COMPE>
@@ -307,8 +307,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bradescobbi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114605-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114607-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>037</COMPE>
@@ -327,8 +327,8 @@
     <Url>https://www.banpara.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114571-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493462Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>040</COMPE>
@@ -340,8 +340,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancocargill.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711452-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114522-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>041</COMPE>
@@ -364,8 +364,8 @@
     <Url>https://www.banrisul.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115478-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493547Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>047</COMPE>
@@ -389,8 +389,8 @@
     <Url>https://www.banese.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114799-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493295Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>060</COMPE>
@@ -400,8 +400,8 @@
     <ShortName>CONFIDENCE CC S.A.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2010-09-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114567-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114569-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>062</COMPE>
@@ -413,8 +413,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.hipercard.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114491-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114492-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>063</COMPE>
@@ -432,8 +432,8 @@
     <Products>Veículos e Troca de Modalidade</Products>
     <Url>https://www.ibi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114534-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477881Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>064</COMPE>
@@ -445,8 +445,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.goldmansachs.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114545-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114547-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>065</COMPE>
@@ -460,8 +460,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.andbank-lla.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711518-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.273943Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>066</COMPE>
@@ -473,8 +473,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.morganstanley.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711448-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114481-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>069</COMPE>
@@ -492,8 +492,8 @@
     <Url>https://www.crefisa.com.br</Url>
     <DateOperationStarted>2005-11-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115283-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5485845Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>070</COMPE>
@@ -513,8 +513,8 @@
     <Url>https://www.brb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7111961-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5548994Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>074</COMPE>
@@ -528,8 +528,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2004-08-26</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114494-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.349196Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>075</COMPE>
@@ -541,8 +541,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.abnamro.com</Url>
     <DateOperationStarted>2005-11-11</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114516-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114518-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>076</COMPE>
@@ -554,8 +554,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancokdb.com.br/home.html</Url>
     <DateOperationStarted>2006-04-10</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114628-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114629-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>077</COMPE>
@@ -575,8 +575,8 @@
     <Url>https://www.bancointer.com.br</Url>
     <DateOperationStarted>2008-08-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7112852-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5500368Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>078</COMPE>
@@ -586,8 +586,8 @@
     <ShortName>HAITONG BI DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2008-07-31</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711511-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115112-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>079</COMPE>
@@ -599,8 +599,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancooriginal.com.br</Url>
     <DateOperationStarted>2008-07-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114694-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114696-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>080</COMPE>
@@ -610,8 +610,8 @@
     <ShortName>B&amp;T CC LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2010-11-18</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115427-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115429-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>081</COMPE>
@@ -628,8 +628,8 @@
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2008-10-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114701-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5541944Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>082</COMPE>
@@ -646,8 +646,8 @@
     <Url>https://www.bancotopazio.com.br</Url>
     <DateOperationStarted>2009-06-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114631-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528824Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>083</COMPE>
@@ -661,8 +661,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.boc-brazil.com</Url>
     <DateOperationStarted>2009-07-14</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114715-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3451705Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>084</COMPE>
@@ -679,8 +679,8 @@
     <Products>Imobiliário Pessoal e Veículos</Products>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114472-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2349935Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>085</COMPE>
@@ -698,8 +698,8 @@
     <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114586-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.7043191Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>088</COMPE>
@@ -711,8 +711,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancorandon.com</Url>
     <DateOperationStarted>2020-08-03</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114729-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114731-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>089</COMPE>
@@ -726,8 +726,8 @@
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2010-08-30</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115328-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2747801Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>091</COMPE>
@@ -737,8 +737,8 @@
     <ShortName>CCCM UNICRED CENTRAL RS</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2010-11-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114439-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114441-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>092</COMPE>
@@ -748,8 +748,8 @@
     <ShortName>BRK S.A. CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2010-07-01</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114795-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114797-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>093</COMPE>
@@ -763,8 +763,8 @@
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2010-11-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114642-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3630957Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>094</COMPE>
@@ -778,8 +778,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.finaxis.com.br</Url>
     <DateOperationStarted>2010-08-23</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114788-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.347466Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>095</COMPE>
@@ -791,8 +791,8 @@
     <Type>Banco de Câmbio</Type>
     <Url>https://www.bancoconfidence.com.br</Url>
     <DateOperationStarted>2010-06-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114742-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114786-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>096</COMPE>
@@ -806,8 +806,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bmfbovespa.com.br/bancobmfbovespa/</Url>
     <DateOperationStarted>2004-11-12</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711375-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3413284Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>097</COMPE>
@@ -822,8 +822,8 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114549-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2747628Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>098</COMPE>
@@ -837,8 +837,8 @@
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2011-01-18</DateOperationStarted>
     <DatePixStarted>2021-07-12 08:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115449-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3594388Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>099</COMPE>
@@ -857,8 +857,8 @@
     <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2011-01-11</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114498-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2349877Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>100</COMPE>
@@ -868,8 +868,8 @@
     <ShortName>PLANNER CV S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-04-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7113602-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7113681-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>101</COMPE>
@@ -879,8 +879,8 @@
     <ShortName>RENASCENCA DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2010-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711535-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115352-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>102</COMPE>
@@ -890,8 +890,8 @@
     <ShortName>XP INVESTIMENTOS CCTVM S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-11-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114468-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711447-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>104</COMPE>
@@ -914,8 +914,8 @@
     <Url>https://www.caixa.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7112717-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5559094Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>105</COMPE>
@@ -926,8 +926,8 @@
     <Network>RSFN</Network>
     <Products>Consignado e Pessoal</Products>
     <DateOperationStarted>2011-12-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114624-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2234528Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>107</COMPE>
@@ -941,8 +941,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancobbm.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114855-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3411358Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>108</COMPE>
@@ -954,8 +954,8 @@
     <Products>Consignado</Products>
     <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2011-11-03</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711445-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2273369Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>111</COMPE>
@@ -965,8 +965,8 @@
     <ShortName>OLIVEIRA TRUST DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-03-24</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115125-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115126-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>113</COMPE>
@@ -976,8 +976,8 @@
     <ShortName>NEON CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2011-11-28</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711531-03:00</DateRegistered>
+    <DateUpdated>2022-03-16T07:58:39.2787909Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>114</COMPE>
@@ -994,8 +994,8 @@
     <Products>Troca de Modalidade</Products>
     <Products>Veículos</Products>
     <DateOperationStarted>2011-10-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114598-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.6974799Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>117</COMPE>
@@ -1005,8 +1005,8 @@
     <ShortName>ADVANCED CC LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2011-10-03</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115481-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115483-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>119</COMPE>
@@ -1020,8 +1020,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancowesternunion.com.br</Url>
     <DateOperationStarted>2011-10-10</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114833-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3545616Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>120</COMPE>
@@ -1039,8 +1039,8 @@
     <Products>Veículos e Troca de Modalidade</Products>
     <Url>https://www.rodobens.com.br</Url>
     <DateOperationStarted>2012-02-06</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115081-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528422Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>121</COMPE>
@@ -1060,8 +1060,8 @@
     <Url>https://www.agibank.com.br</Url>
     <DateOperationStarted>2012-04-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114712-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477476Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>122</COMPE>
@@ -1075,8 +1075,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://sim</Url>
     <DateOperationStarted>2011-11-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115062-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3422902Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>124</COMPE>
@@ -1093,8 +1093,8 @@
     <Url>https://www.wooribank.com.br</Url>
     <DateOperationStarted>2012-08-09</DateOperationStarted>
     <DatePixStarted>2021-04-27 09:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114862-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3693123Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>125</COMPE>
@@ -1109,8 +1109,8 @@
     <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115172-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.355711Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>126</COMPE>
@@ -1120,8 +1120,8 @@
     <ShortName>BR PARTNERS BI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2013-01-04</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711481-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114812-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>127</COMPE>
@@ -1131,8 +1131,8 @@
     <ShortName>CODEPE CVC S.A.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2012-11-09</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711469-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114691-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>128</COMPE>
@@ -1146,8 +1146,8 @@
     <CreditDocument>não</CreditDocument>
     <Url>https://www.msbank.com.br</Url>
     <DateOperationStarted>2015-04-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114919-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3619443Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>129</COMPE>
@@ -1158,8 +1158,8 @@
     <Network>RSFN</Network>
     <Url>https://www.ubs.com</Url>
     <DateOperationStarted>2014-03-12</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114915-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114917-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>130</COMPE>
@@ -1174,8 +1174,8 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2013-08-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114682-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2747268Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>131</COMPE>
@@ -1185,8 +1185,8 @@
     <ShortName>TULLETT PREBON BRASIL CVC LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2013-07-15</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115313-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115315-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>132</COMPE>
@@ -1200,8 +1200,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.icbc.com.cn</Url>
     <DateOperationStarted>2013-09-26</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114895-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3609804Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>133</COMPE>
@@ -1223,8 +1223,8 @@
     <Products>Veículos</Products>
     <DateOperationStarted>2016-05-02</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114705-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.7025328Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>134</COMPE>
@@ -1234,8 +1234,8 @@
     <ShortName>BGC LIQUIDEZ DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2014-07-28</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115095-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115097-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>136</COMPE>
@@ -1257,8 +1257,8 @@
     <Products>Veículos</Products>
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7112437-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.7025434Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>138</COMPE>
@@ -1268,8 +1268,8 @@
     <ShortName>GET MONEY CC LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2014-07-14</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114719-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114721-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>139</COMPE>
@@ -1281,8 +1281,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.intesasanpaolobrasil.com.br</Url>
     <DateOperationStarted>2015-05-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115209-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115212-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>140</COMPE>
@@ -1292,8 +1292,8 @@
     <ShortName>NU INVEST CORRETORA DE VALORES S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2015-05-26</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115335-03:00</DateRegistered>
+    <DateUpdated>2021-09-28T05:25:17.025616-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>142</COMPE>
@@ -1303,8 +1303,8 @@
     <ShortName>BROKER BRASIL CC LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2015-06-23</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114877-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114879-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>143</COMPE>
@@ -1314,8 +1314,8 @@
     <ShortName>TREVISO CC S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2015-08-24</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114487-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114489-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>144</COMPE>
@@ -1328,8 +1328,8 @@
     <Url>https://www.bexs.com.br</Url>
     <DateOperationStarted>2016-05-23</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114803-03:00</DateRegistered>
+    <DateUpdated>2021-05-21T23:01:28.1593486-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>145</COMPE>
@@ -1339,8 +1339,8 @@
     <ShortName>LEVYCAM CCV LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2015-06-16</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115187-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115189-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>146</COMPE>
@@ -1350,8 +1350,8 @@
     <ShortName>GUITTA CC LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2015-05-20</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114952-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114954-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>149</COMPE>
@@ -1362,8 +1362,8 @@
     <Network>RSFN</Network>
     <Products>Consignado</Products>
     <DateOperationStarted>2015-07-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114866-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2184797Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>157</COMPE>
@@ -1373,8 +1373,8 @@
     <ShortName>ICAP DO BRASIL CTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2016-02-12</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114672-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114673-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>159</COMPE>
@@ -1388,8 +1388,8 @@
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2017-09-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114582-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3577168Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>163</COMPE>
@@ -1402,8 +1402,8 @@
     <Charge>sim</Charge>
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2016-08-10</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114945-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3582913Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>173</COMPE>
@@ -1413,8 +1413,8 @@
     <ShortName>BRL TRUST DTVM SA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2016-11-28</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114826-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114828-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>174</COMPE>
@@ -1430,8 +1430,8 @@
     <Products>Pessoal e Outros Créditos</Products>
     <DateOperationStarted>2017-11-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115165-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.22637Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>177</COMPE>
@@ -1441,8 +1441,8 @@
     <ShortName>GUIDE</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-05-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115361-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115363-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>180</COMPE>
@@ -1452,8 +1452,8 @@
     <ShortName>CM CAPITAL MARKETS CCTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-01-20</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114476-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114478-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>183</COMPE>
@@ -1463,8 +1463,8 @@
     <ShortName>SOCRED SA - SCMEPP</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-06-12</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114675-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114677-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>184</COMPE>
@@ -1476,8 +1476,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.itaubba.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114884-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114886-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>188</COMPE>
@@ -1487,8 +1487,8 @@
     <ShortName>ATIVA S.A. INVESTIMENTOS CCTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-07-28</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115091-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115093-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>189</COMPE>
@@ -1498,8 +1498,8 @@
     <ShortName>HS FINANCEIRA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-06-05</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711462-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114622-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>190</COMPE>
@@ -1511,8 +1511,8 @@
     <Charge>sim</Charge>
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2017-10-16</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3590559Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>191</COMPE>
@@ -1522,8 +1522,8 @@
     <ShortName>NOVA FUTURA CTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-06-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114538-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711454-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>194</COMPE>
@@ -1533,8 +1533,8 @@
     <ShortName>PARMETAL DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2017-10-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114926-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114928-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>195</COMPE>
@@ -1544,8 +1544,8 @@
     <ShortName>VALOR SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-08-09</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-08-24T13:06:55.8926601-03:00</DateRegistered>
+    <DateUpdated>2021-08-24T13:06:55.8926604-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>196</COMPE>
@@ -1555,8 +1555,8 @@
     <ShortName>FAIR CC S.A.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2017-09-11</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115043-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115045-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>197</COMPE>
@@ -1571,8 +1571,8 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711487-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3712081Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>208</COMPE>
@@ -1591,8 +1591,8 @@
     <Url>https://www.btgpactual.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115006-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5478199Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>212</COMPE>
@@ -1610,8 +1610,8 @@
     <Url>https://www.original.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115492-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5516934Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>213</COMPE>
@@ -1629,8 +1629,8 @@
     <Url>https://www.bancoarbi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115206-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477639Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>217</COMPE>
@@ -1644,8 +1644,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.johndeere.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115474-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3495801Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>218</COMPE>
@@ -1663,8 +1663,8 @@
     <Url>https://www.bs2.com/banco/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115415-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5478121Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>222</COMPE>
@@ -1678,8 +1678,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.calyon.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115434-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2741254Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>224</COMPE>
@@ -1696,8 +1696,8 @@
     <Url>https://www.bancofibra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115225-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493824Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>233</COMPE>
@@ -1709,8 +1709,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancocifra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115358-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711536-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>237</COMPE>
@@ -1733,8 +1733,8 @@
     <Url>https://www.bradesco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115261-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.547804Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>241</COMPE>
@@ -1746,8 +1746,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://bancoclassico.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115018-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711502-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>243</COMPE>
@@ -1770,8 +1770,8 @@
     <Url>https://www.bancomaxima.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115103-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5509493Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>246</COMPE>
@@ -1791,8 +1791,8 @@
     <Url>https://www.abcbrasil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114992-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477382Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>249</COMPE>
@@ -1804,8 +1804,8 @@
     <Type>Banco Comercial</Type>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711529-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115292-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>250</COMPE>
@@ -1817,8 +1817,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancobcv.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115191-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2741649Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>253</COMPE>
@@ -1828,8 +1828,8 @@
     <ShortName>BEXS CC S.A.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2016-11-11</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115198-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.71152-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>254</COMPE>
@@ -1848,8 +1848,8 @@
     <Url>https://www.paranabanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114844-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2263568Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>259</COMPE>
@@ -1859,8 +1859,8 @@
     <ShortName>MONEYCORP BCO DE CÂMBIO S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-01-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114661-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114663-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>260</COMPE>
@@ -1875,8 +1875,8 @@
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114912-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.274871Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>265</COMPE>
@@ -1890,8 +1890,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.fator.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115084-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2742511Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>266</COMPE>
@@ -1905,8 +1905,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancocedula.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115058-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3432427Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>268</COMPE>
@@ -1919,8 +1919,8 @@
     <Products>Imobiliário</Products>
     <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2017-12-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114848-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5542033Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>269</COMPE>
@@ -1934,8 +1934,8 @@
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2018-02-07</DateOperationStarted>
     <DatePixStarted>2022-01-17 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115202-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3480393Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>270</COMPE>
@@ -1945,8 +1945,8 @@
     <ShortName>SAGITUR CC LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2018-08-01</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115302-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115304-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>271</COMPE>
@@ -1956,8 +1956,8 @@
     <ShortName>IB CCTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-02-26</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114984-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114985-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>272</COMPE>
@@ -1967,8 +1967,8 @@
     <ShortName>AGK CC S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-11-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7112212-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7112295-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>273</COMPE>
@@ -1980,8 +1980,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2018-04-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114649-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114651-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>274</COMPE>
@@ -1995,8 +1995,8 @@
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2019-09-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114738-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2748463Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>276</COMPE>
@@ -2009,8 +2009,8 @@
     <Products>Consignado</Products>
     <DateOperationStarted>2018-06-12</DateOperationStarted>
     <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114792-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528722Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>278</COMPE>
@@ -2020,8 +2020,8 @@
     <ShortName>GENIAL INVESTIMENTOS CVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-05-14</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711498-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114981-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>279</COMPE>
@@ -2036,8 +2036,8 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2018-06-05</DateOperationStarted>
     <DatePixStarted>2022-04-04 14:48:55</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711496-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3693738Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>280</COMPE>
@@ -2049,8 +2049,8 @@
     <Charge>sim</Charge>
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2018-05-10</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2749403Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>281</COMPE>
@@ -2064,8 +2064,8 @@
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2018-11-05</DateOperationStarted>
     <DatePixStarted>2021-06-10 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115437-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.360395Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>283</COMPE>
@@ -2075,8 +2075,8 @@
     <ShortName>RB INVESTIMENTOS DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-07-05</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115467-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115469-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>285</COMPE>
@@ -2086,8 +2086,8 @@
     <ShortName>FRENTE CC LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-09-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115423-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115425-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>286</COMPE>
@@ -2099,8 +2099,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2018-09-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114638-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711464-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>288</COMPE>
@@ -2110,8 +2110,8 @@
     <ShortName>CAROL DTVM LTDA.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2018-07-05</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115342-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115344-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>289</COMPE>
@@ -2121,8 +2121,8 @@
     <ShortName>EFX CC LTDA.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2019-03-14</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115496-03:00</DateRegistered>
+    <DateUpdated>2022-03-16T07:58:39.2793254Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>290</COMPE>
@@ -2135,8 +2135,8 @@
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2018-11-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114657-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3711849Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>292</COMPE>
@@ -2146,8 +2146,8 @@
     <ShortName>BS2 DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-10-24</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114995-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114997-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>293</COMPE>
@@ -2157,8 +2157,8 @@
     <ShortName>LASTRO RDV DTVM LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2018-09-10</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115419-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115421-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>296</COMPE>
@@ -2168,8 +2168,8 @@
     <ShortName>OZ CORRETORA DE CÂMBIO S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-02-11</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114531-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:13.517057Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>298</COMPE>
@@ -2179,8 +2179,8 @@
     <ShortName>VIPS CC LTDA.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2018-08-15</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114899-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114901-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>299</COMPE>
@@ -2194,8 +2194,8 @@
     <Products>Consignado</Products>
     <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2018-12-03</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114556-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2335929Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>300</COMPE>
@@ -2209,8 +2209,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bna.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115051-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3457429Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>301</COMPE>
@@ -2224,8 +2224,8 @@
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2018-09-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114822-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3560981Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>306</COMPE>
@@ -2235,8 +2235,8 @@
     <ShortName>PORTOPAR DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-02-06</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115158-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711516-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>307</COMPE>
@@ -2246,8 +2246,8 @@
     <ShortName>TERRA INVESTIMENTOS DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-10-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114523-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114525-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>309</COMPE>
@@ -2257,8 +2257,8 @@
     <ShortName>CAMBIONET CC LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2018-11-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114841-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114842-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>310</COMPE>
@@ -2268,8 +2268,8 @@
     <ShortName>VORTX DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2018-10-18</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114937-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114939-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>311</COMPE>
@@ -2279,8 +2279,8 @@
     <ShortName>DOURADA CORRETORA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2021-01-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115445-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115447-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>312</COMPE>
@@ -2290,8 +2290,8 @@
     <ShortName>HSCM SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-02-09</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114635-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114636-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>313</COMPE>
@@ -2301,8 +2301,8 @@
     <ShortName>AMAZÔNIA CC LTDA.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2020-08-28</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114874-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114875-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>315</COMPE>
@@ -2312,8 +2312,8 @@
     <ShortName>PI DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-01-24</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114512-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114514-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>318</COMPE>
@@ -2334,8 +2334,8 @@
     <Url>https://www.bancobmg.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115294-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477799Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>319</COMPE>
@@ -2345,8 +2345,8 @@
     <ShortName>OM DTVM LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2019-03-01</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114734-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114735-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>320</COMPE>
@@ -2360,8 +2360,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.br.ccb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114616-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2747347Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>321</COMPE>
@@ -2371,8 +2371,8 @@
     <ShortName>CREFAZ SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-06-11</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114908-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711491-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>322</COMPE>
@@ -2386,8 +2386,8 @@
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DatePixStarted>2022-03-14 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114423-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3602012Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>323</COMPE>
@@ -2402,8 +2402,8 @@
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2019-06-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114708-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.370529Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>324</COMPE>
@@ -2420,8 +2420,8 @@
     <Products>Pessoal e Troca de Modalidade.</Products>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114933-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5559184Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>325</COMPE>
@@ -2431,8 +2431,8 @@
     <ShortName>ÓRAMA DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-05-31</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114815-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114817-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>326</COMPE>
@@ -2447,8 +2447,8 @@
     <Products>Consignado e Pessoal</Products>
     <DateOperationStarted>2020-01-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114505-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.226364Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>328</COMPE>
@@ -2458,8 +2458,8 @@
     <ShortName>CECM FABRIC CALÇADOS SAPIRANGA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-03-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114602-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114603-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>329</COMPE>
@@ -2477,8 +2477,8 @@
     <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2019-04-30</DateOperationStarted>
     <DatePixStarted>2021-06-14 09:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711504-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2273481Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>330</COMPE>
@@ -2496,8 +2496,8 @@
     <Products>Veículos e Troca de Modalidade</Products>
     <DateOperationStarted>2019-07-22</DateOperationStarted>
     <DatePixStarted>2021-02-25 09:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7113173-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477718Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>331</COMPE>
@@ -2507,8 +2507,8 @@
     <ShortName>FRAM CAPITAL DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-09-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114829-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114831-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>332</COMPE>
@@ -2523,8 +2523,8 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2019-08-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114807-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3690567Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>335</COMPE>
@@ -2540,8 +2540,8 @@
     <Url>https://www.digio.com.br</Url>
     <DateOperationStarted>2019-11-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114964-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493125Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>336</COMPE>
@@ -2561,8 +2561,8 @@
     <Url>https://www.c6bank.com</Url>
     <DateOperationStarted>2019-01-31</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115026-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5478356Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>340</COMPE>
@@ -2574,8 +2574,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-09-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114697-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114699-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>341</COMPE>
@@ -2598,8 +2598,8 @@
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115257-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5500522Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>342</COMPE>
@@ -2611,8 +2611,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-07-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115047-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115049-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>343</COMPE>
@@ -2622,8 +2622,8 @@
     <ShortName>FFA SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-11-12</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114956-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114958-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>348</COMPE>
@@ -2638,8 +2638,8 @@
     <Products>Troca de Modalidade e Capital de Giro</Products>
     <DateOperationStarted>2019-11-01</DateOperationStarted>
     <DatePixStarted>2021-06-01 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115069-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5535199Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>349</COMPE>
@@ -2658,8 +2658,8 @@
     <Products>Veículos</Products>
     <DateOperationStarted>2019-10-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114967-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5466857Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>350</COMPE>
@@ -2671,8 +2671,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-05-27</DateOperationStarted>
     <DatePixStarted>2022-01-07 08:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114431-03:00</DateRegistered>
+    <DateUpdated>2022-01-05T11:00:32.7656692Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>352</COMPE>
@@ -2682,8 +2682,8 @@
     <ShortName>TORO CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-11-29</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115003-03:00</DateRegistered>
+    <DateUpdated>2021-09-13T19:08:15.553781-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>354</COMPE>
@@ -2693,8 +2693,8 @@
     <ShortName>NECTON INVESTIMENTOS S.A CVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-10-30</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115194-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115196-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>355</COMPE>
@@ -2706,8 +2706,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-10-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115114-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115115-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>358</COMPE>
@@ -2720,8 +2720,8 @@
     <Products>Pessoal</Products>
     <DateOperationStarted>2021-02-01</DateOperationStarted>
     <DatePixStarted>2021-07-19 15:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114686-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2241378Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>359</COMPE>
@@ -2738,8 +2738,8 @@
     <Products>Troca de Modalidade e Capital de Giro</Products>
     <Products>Veiculos</Products>
     <DateOperationStarted>2020-06-10</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114578-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2350114Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>360</COMPE>
@@ -2749,8 +2749,8 @@
     <ShortName>TRINUS CAPITAL DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-07-16</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114461-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114462-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>362</COMPE>
@@ -2762,8 +2762,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-07-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711436-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711442-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>363</COMPE>
@@ -2773,8 +2773,8 @@
     <ShortName>SINGULARE CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-06-01</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115346-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115348-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>364</COMPE>
@@ -2788,8 +2788,8 @@
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114668-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3607764Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>365</COMPE>
@@ -2799,8 +2799,8 @@
     <ShortName>SIMPAUL</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-03-17</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115408-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711541-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>366</COMPE>
@@ -2814,8 +2814,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.sgbrasil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115306-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.352835Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>367</COMPE>
@@ -2825,8 +2825,8 @@
     <ShortName>VITREO DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-03-12</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115117-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115119-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>368</COMPE>
@@ -2840,8 +2840,8 @@
     <CreditDocument>não</CreditDocument>
     <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3445854Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>370</COMPE>
@@ -2853,8 +2853,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.mizuhobank.com/brazil/pt/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115287-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115289-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>371</COMPE>
@@ -2864,8 +2864,8 @@
     <ShortName>WARREN CVMC LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-05-13</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115489-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115491-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>373</COMPE>
@@ -2877,8 +2877,8 @@
     <Products>Pessoal</Products>
     <Products>Veiculos e Outros Créditoss</Products>
     <DateOperationStarted>2020-03-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2349989Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -2891,8 +2891,8 @@
     <Products>Pessoal e Outros Créditos</Products>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2021-04-14 12:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114975-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2273551Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>376</COMPE>
@@ -2906,8 +2906,8 @@
     <Products>Pessoal</Products>
     <Url>https://www.jpmorgan.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115066-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5500598Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>377</COMPE>
@@ -2917,8 +2917,8 @@
     <ShortName>BMS SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-10-01</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114904-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114906-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>378</COMPE>
@@ -2928,8 +2928,8 @@
     <ShortName>BCO BRASILEIRO DE CRÉDITO S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2020-09-11</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114454-03:00</DateRegistered>
+    <DateUpdated>2022-01-05T11:00:32.0511464Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>379</COMPE>
@@ -2944,8 +2944,8 @@
     <Products>Pessoal</Products>
     <Products>Veículos</Products>
     <DateOperationStarted>2020-09-01</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114443-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.1651622Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>380</COMPE>
@@ -2960,8 +2960,8 @@
     <Url>https://www.picpay.com.br</Url>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114941-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3712003Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>381</COMPE>
@@ -2974,8 +2974,8 @@
     <Products>Pessoal e Veículos</Products>
     <Url>https://www.bancomercedesbenz.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115265-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.550966Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>382</COMPE>
@@ -2987,8 +2987,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-07-31</DateOperationStarted>
     <DatePixStarted>2021-12-15 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114541-03:00</DateRegistered>
+    <DateUpdated>2021-12-13T12:13:48.2864703Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>383</COMPE>
@@ -3002,8 +3002,8 @@
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2020-07-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711493-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3562873Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>384</COMPE>
@@ -3015,8 +3015,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114726-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114728-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>385</COMPE>
@@ -3026,8 +3026,8 @@
     <ShortName>CECM DOS TRAB.PORT. DA G.VITOR</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2022-03-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-03-16T07:58:41.1136389Z</DateRegistered>
+    <DateUpdated>2022-03-16T07:58:41.1136624Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>386</COMPE>
@@ -3038,8 +3038,8 @@
     <Network>RSFN</Network>
     <Products>Pessoal</Products>
     <DateOperationStarted>2021-01-12</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711501-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2252717Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>387</COMPE>
@@ -3054,8 +3054,8 @@
     <Products>Veículos</Products>
     <Url>https://www.bancotoyota.com.br</Url>
     <DateOperationStarted>2020-07-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114501-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528899Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>389</COMPE>
@@ -3078,8 +3078,8 @@
     <Url>https://www.mercantil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114881-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5509576Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>390</COMPE>
@@ -3090,8 +3090,8 @@
     <Network>RSFN</Network>
     <Products>Veículos</Products>
     <DateOperationStarted>2020-07-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115236-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5493915Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>391</COMPE>
@@ -3102,8 +3102,8 @@
     <Network>Internet</Network>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2020-07-10</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114646-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3693661Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>393</COMPE>
@@ -3120,8 +3120,8 @@
     <Products>Veículos</Products>
     <Url>https://www.bancovw.com.br</Url>
     <DateOperationStarted>2020-08-17</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115229-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528975Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>394</COMPE>
@@ -3136,8 +3136,8 @@
     <Products>Consignado e Troca de Modalidade</Products>
     <Url>https://www.bradescofinanciamentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114609-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5477961Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>395</COMPE>
@@ -3147,8 +3147,8 @@
     <ShortName>F D GOLD DTVM LTDA</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2020-12-01</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114664-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114666-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>396</COMPE>
@@ -3160,8 +3160,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-08-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114837-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114839-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>397</COMPE>
@@ -3173,8 +3173,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115106-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115108-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>398</COMPE>
@@ -3184,8 +3184,8 @@
     <ShortName>IDEAL CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-01-11</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115022-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115024-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>399</COMPE>
@@ -3197,8 +3197,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://sim</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114446-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114448-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>400</COMPE>
@@ -3208,8 +3208,8 @@
     <ShortName>COOP CREDITAG</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711459-03:00</DateRegistered>
+    <DateUpdated>2021-08-24T13:06:53.2851364-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>401</COMPE>
@@ -3221,8 +3221,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2021-05-06</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114851-03:00</DateRegistered>
+    <DateUpdated>2021-06-22T10:03:33.0665523-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>402</COMPE>
@@ -3234,8 +3234,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-12-03</DateOperationStarted>
     <DatePixStarted>2021-12-08 09:15:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115132-03:00</DateRegistered>
+    <DateUpdated>2021-12-13T12:13:48.6654264Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>403</COMPE>
@@ -3247,8 +3247,8 @@
     <PixType>IDRT</PixType>
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115149-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>404</COMPE>
@@ -3260,8 +3260,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-16</DateOperationStarted>
     <DatePixStarted>2021-04-19 09:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115136-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115138-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>406</COMPE>
@@ -3273,8 +3273,8 @@
     <Charge>sim</Charge>
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2020-11-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115144-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2739053Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>407</COMPE>
@@ -3284,8 +3284,8 @@
     <ShortName>ÍNDIGO INVESTIMENTOS DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-02-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711258-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7112649-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>408</COMPE>
@@ -3297,8 +3297,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2020-10-14</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115128-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711513-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>410</COMPE>
@@ -3308,8 +3308,8 @@
     <ShortName>PLANNER SCM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-02-17</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114596-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
@@ -3324,8 +3324,8 @@
     <Products>Consignado e Pessoal</Products>
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2021-06-24 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114575-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2350045Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>412</COMPE>
@@ -3339,8 +3339,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancocapital.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114859-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3430512Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>413</COMPE>
@@ -3355,8 +3355,8 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DatePixStarted>2021-06-14 08:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-21T23:01:29.4844407-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3691194Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>414</COMPE>
@@ -3366,8 +3366,8 @@
     <ShortName>WORK SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-03-25</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711514-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115142-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>416</COMPE>
@@ -3377,8 +3377,8 @@
     <ShortName>LAMARA SCD S.A.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2021-04-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114922-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114924-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>418</COMPE>
@@ -3388,8 +3388,8 @@
     <ShortName>ZIPDIN SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-08-26</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-08-24T13:06:55.8926609-03:00</DateRegistered>
+    <DateUpdated>2021-08-24T13:06:55.8926612-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>419</COMPE>
@@ -3401,8 +3401,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2021-03-18</DateOperationStarted>
     <DatePixStarted>2022-01-06 15:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115151-03:00</DateRegistered>
+    <DateUpdated>2022-01-05T11:00:33.9703822Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>421</COMPE>
@@ -3414,8 +3414,8 @@
     <Charge>sim</Charge>
     <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2021-07-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-08-02T11:56:55.6601604-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3652178Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>422</COMPE>
@@ -3437,8 +3437,8 @@
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115218-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528497Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>423</COMPE>
@@ -3448,8 +3448,8 @@
     <ShortName>COLUNA S.A. DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-06-07</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-06-03T10:45:43.4334262-03:00</DateRegistered>
+    <DateUpdated>2021-06-03T10:45:43.4334304-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>425</COMPE>
@@ -3463,8 +3463,8 @@
     <Products>Pessoal</Products>
     <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2021-07-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-08-02T11:56:55.6601087-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2335853Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>426</COMPE>
@@ -3474,8 +3474,8 @@
     <ShortName>BIORC FINANCEIRA - CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-21T23:01:29.4844658-03:00</DateRegistered>
+    <DateUpdated>2021-05-21T23:01:29.4844662-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>427</COMPE>
@@ -3486,8 +3486,8 @@
     <Network>RSFN</Network>
     <Products>Consignado e Troca de Modalidade</Products>
     <DateOperationStarted>2021-04-26</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114971-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.9098416Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>428</COMPE>
@@ -3501,8 +3501,8 @@
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2021-04-20</DateOperationStarted>
     <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115154-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3646331Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>429</COMPE>
@@ -3516,8 +3516,8 @@
     <Products>Pessoal</Products>
     <Products>Veículos</Products>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-13T19:08:16.9817149-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.216358Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>430</COMPE>
@@ -3530,8 +3530,8 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-02-11 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-08-24T13:06:55.8926308-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3693815Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>433</COMPE>
@@ -3541,8 +3541,8 @@
     <ShortName>BR-CAPITAL DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-06-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-06-22T10:03:37.2758829-03:00</DateRegistered>
+    <DateUpdated>2021-06-22T10:03:37.2758835-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>435</COMPE>
@@ -3554,8 +3554,8 @@
     <Charge>sim</Charge>
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-08-24T13:06:55.8926615-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3654094Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>438</COMPE>
@@ -3565,8 +3565,8 @@
     <ShortName>PLANNER TRUSTEE DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-05-04</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115365-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115405-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>439</COMPE>
@@ -3576,8 +3576,8 @@
     <ShortName>ID CTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-30</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-28T05:25:19.3476011-03:00</DateRegistered>
+    <DateUpdated>2021-09-28T05:25:19.3476014-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>440</COMPE>
@@ -3587,8 +3587,8 @@
     <ShortName>CREDIBRF COOP</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-02</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
+    <DateUpdated>2021-10-23T20:54:59.5267227-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>442</COMPE>
@@ -3598,8 +3598,8 @@
     <ShortName>MAGNETIS - DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-15</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-13T19:08:16.9817391-03:00</DateRegistered>
+    <DateUpdated>2021-09-13T19:08:16.9817393-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>443</COMPE>
@@ -3609,8 +3609,8 @@
     <ShortName>CREDIHOME SCD</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-11-18</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-11-22T11:00:23.679021-03:00</DateRegistered>
+    <DateUpdated>2021-11-22T11:00:23.6790215-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>444</COMPE>
@@ -3620,8 +3620,8 @@
     <ShortName>TRINUS SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-09</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-13T19:08:16.9817382-03:00</DateRegistered>
+    <DateUpdated>2021-09-13T19:08:16.9817384-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>445</COMPE>
@@ -3631,8 +3631,8 @@
     <ShortName>PLANTAE CFI</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-06-23</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-06-22T10:03:37.2758379-03:00</DateRegistered>
+    <DateUpdated>2021-06-22T10:03:37.2758811-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>447</COMPE>
@@ -3642,8 +3642,8 @@
     <ShortName>MIRAE ASSET CCTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-28T05:25:19.347575-03:00</DateRegistered>
+    <DateUpdated>2021-09-28T05:25:19.3476005-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>448</COMPE>
@@ -3653,8 +3653,8 @@
     <ShortName>HEMERA DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-08-17</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-08-24T13:06:55.8926622-03:00</DateRegistered>
+    <DateUpdated>2021-08-24T13:06:55.8926625-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>449</COMPE>
@@ -3664,8 +3664,8 @@
     <ShortName>DMCARD SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-10-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-10-23T20:55:03.4293187-03:00</DateRegistered>
+    <DateUpdated>2021-10-23T20:55:03.4293708-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>450</COMPE>
@@ -3679,8 +3679,8 @@
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3656028Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>451</COMPE>
@@ -3690,8 +3690,8 @@
     <ShortName>J17 - SCD S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-02-01T08:17:39.0832206Z</DateRegistered>
+    <DateUpdated>2022-02-01T08:17:39.0832325Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>452</COMPE>
@@ -3701,8 +3701,8 @@
     <ShortName>CREDIFIT SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-15</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-13T19:08:16.9817378-03:00</DateRegistered>
+    <DateUpdated>2021-09-13T19:08:16.981738-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>454</COMPE>
@@ -3712,8 +3712,8 @@
     <ShortName>MÉRITO DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-11-23</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-11-22T11:00:23.679022-03:00</DateRegistered>
+    <DateUpdated>2021-11-22T11:00:23.6790225-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>456</COMPE>
@@ -3727,8 +3727,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.br.bk.mufg.jp</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711525-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3459364Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>457</COMPE>
@@ -3738,8 +3738,8 @@
     <ShortName>UY3 SCD S/A</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-10-26</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-10-23T20:55:03.4293722-03:00</DateRegistered>
+    <DateUpdated>2021-11-22T11:00:21.150135-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>458</COMPE>
@@ -3749,8 +3749,8 @@
     <ShortName>HEDGE INVESTMENTS DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-09-13T19:08:16.9817372-03:00</DateRegistered>
+    <DateUpdated>2021-09-13T19:08:16.9817374-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>459</COMPE>
@@ -3761,8 +3761,8 @@
     <Network>RSFN</Network>
     <Products>Consignado e Troca de Modalidade</Products>
     <DateOperationStarted>2021-11-04</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-11-22T11:00:23.6789568-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.957026Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>460</COMPE>
@@ -3774,8 +3774,8 @@
     <Charge>sim</Charge>
     <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-02-01T08:17:39.0832328Z</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3661816Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>461</COMPE>
@@ -3787,8 +3787,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2021-10-29</DateOperationStarted>
     <DatePixStarted>2021-11-01 09:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-11-22T11:00:23.6790202-03:00</DateRegistered>
+    <DateUpdated>2021-11-22T11:00:22.8748291-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>462</COMPE>
@@ -3800,8 +3800,8 @@
     <PixType>DRCT</PixType>
     <DateOperationStarted>2021-10-01</DateOperationStarted>
     <DatePixStarted>2021-11-29 20:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-10-23T20:55:03.4293732-03:00</DateRegistered>
+    <DateUpdated>2021-12-13T12:13:48.6766832Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>463</COMPE>
@@ -3811,8 +3811,8 @@
     <ShortName>AZUMI DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-12-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-01-05T11:00:34.5914098Z</DateRegistered>
+    <DateUpdated>2022-01-05T11:00:34.5914283Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>464</COMPE>
@@ -3826,8 +3826,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.smbcgroup.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115254-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3532168Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>465</COMPE>
@@ -3837,8 +3837,8 @@
     <ShortName>CAPITAL CONSIG SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-12-03</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-12-13T12:13:48.9317922Z</DateRegistered>
+    <DateUpdated>2021-12-13T12:13:48.9317923Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>467</COMPE>
@@ -3848,8 +3848,8 @@
     <ShortName>MASTER S/A CCTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2021-12-16</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-12-13T12:13:48.9317806Z</DateRegistered>
+    <DateUpdated>2021-12-13T12:13:48.9317918Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>468</COMPE>
@@ -3864,8 +3864,8 @@
     <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2022-02-09</DateOperationStarted>
     <DatePixStarted>2022-03-14 14:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-02-16T07:02:06.0714205Z</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2273425Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>469</COMPE>
@@ -3875,8 +3875,8 @@
     <ShortName>J&amp;F DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2022-03-09</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-03-16T07:58:41.113663Z</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:13.5173146Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>470</COMPE>
@@ -3886,8 +3886,8 @@
     <ShortName>CDC SOCIEDADE DE CRÉDITO</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2022-03-15</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-03-16T07:58:41.1136636Z</DateRegistered>
+    <DateUpdated>2022-03-16T07:58:41.113664Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>473</COMPE>
@@ -3899,8 +3899,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bcgbrasil.com.br</Url>
     <DateOperationStarted>2009-03-31</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115073-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115074-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>477</COMPE>
@@ -3912,8 +3912,8 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Url>https://www.citibank.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115054-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115056-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>478</COMPE>
@@ -3928,8 +3928,8 @@
     <Products>Troca de Modalidade e Capital de Giro</Products>
     <Products>Veículos</Products>
     <DateOperationStarted>2022-03-21</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2022-03-31T08:12:19.2479082Z</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2207262Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>479</COMPE>
@@ -3940,8 +3940,8 @@
     <Network>RSFN</Network>
     <Url>https://www.itaubank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115247-03:00</DateRegistered>
+    <DateUpdated>2021-05-21T23:01:28.1603338-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>487</COMPE>
@@ -3955,8 +3955,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.deutsche-bank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115354-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2748068Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>488</COMPE>
@@ -3968,8 +3968,8 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Url>https://www.jpmorganchase.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115176-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115178-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>492</COMPE>
@@ -3981,8 +3981,8 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Url>https://www.ing.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115184-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115185-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>495</COMPE>
@@ -3993,8 +3993,8 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115169-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.711517-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>505</COMPE>
@@ -4008,8 +4008,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.csfb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115036-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3443935Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>545</COMPE>
@@ -4019,8 +4019,8 @@
     <ShortName>SENSO CCVM S.A.</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2010-09-27</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114892-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114893-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>600</COMPE>
@@ -4039,8 +4039,8 @@
     <Url>https://www.lusobrasileiro.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-17 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115232-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5509406Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>604</COMPE>
@@ -4057,8 +4057,8 @@
     <Url>https://www.bancoindustrial.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115033-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.550029Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>610</COMPE>
@@ -4074,8 +4074,8 @@
     <Url>https://www.vrinvestimentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115452-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3543704Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>611</COMPE>
@@ -4091,8 +4091,8 @@
     <Products>Imobiliário e Troca de Modalidade</Products>
     <Url>https://www.bancopaulista.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115321-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5517087Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>612</COMPE>
@@ -4108,8 +4108,8 @@
     <Url>https://www.bancoguanabara.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115029-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3478476Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>613</COMPE>
@@ -4127,8 +4127,8 @@
     <Url>https://www.bancopecunia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-27 08:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115268-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2252774Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>623</COMPE>
@@ -4150,8 +4150,8 @@
     <Url>https://www.bancopan.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711524-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5517011Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>626</COMPE>
@@ -4162,8 +4162,8 @@
     <Network>RSFN</Network>
     <Products>Consignado e Veículos</Products>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115298-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5478278Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>630</COMPE>
@@ -4179,8 +4179,8 @@
     <Url>https://www.intercap.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115221-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2743707Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>633</COMPE>
@@ -4199,8 +4199,8 @@
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115412-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528196Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>634</COMPE>
@@ -4217,8 +4217,8 @@
     <Url>https://www.tribanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114888-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3692969Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>637</COMPE>
@@ -4235,8 +4235,8 @@
     <Url>https://www.sofisa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115276-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3692893Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>643</COMPE>
@@ -4253,8 +4253,8 @@
     <Url>https://www.pine.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115331-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5517163Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>652</COMPE>
@@ -4266,8 +4266,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115272-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115274-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>653</COMPE>
@@ -4283,8 +4283,8 @@
     <Url>https://www.bip.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711528-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3484201Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>654</COMPE>
@@ -4302,8 +4302,8 @@
     <Products>Veículos</Products>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115485-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5492921Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>655</COMPE>
@@ -4322,8 +4322,8 @@
     <Url>https://www.bancovotorantim.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115243-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5534998Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
@@ -4346,8 +4346,8 @@
     <Url>https://www.daycoval.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115338-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5486005Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>712</COMPE>
@@ -4361,8 +4361,8 @@
     <Url>https://www.ourinvest.com.br</Url>
     <DateOperationStarted>2014-01-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115456-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115458-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>720</COMPE>
@@ -4374,8 +4374,8 @@
     <Products>Consignado</Products>
     <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711546-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528348Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>739</COMPE>
@@ -4392,8 +4392,8 @@
     <Url>https://www.cetelem.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7113315-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5478436Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>741</COMPE>
@@ -4412,8 +4412,8 @@
     <Url>https://www.brp.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7112988-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528273Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>743</COMPE>
@@ -4431,8 +4431,8 @@
     <Url>https://www.bancosemear.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-22 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7113451-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5528646Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>745</COMPE>
@@ -4450,8 +4450,8 @@
     <Url>https://www.citibank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-09-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115077-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5478516Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>746</COMPE>
@@ -4468,8 +4468,8 @@
     <Url>https://www.bancomodal.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115014-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3692436Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>747</COMPE>
@@ -4481,8 +4481,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.rabobank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7113885-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7114193-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>748</COMPE>
@@ -4503,8 +4503,8 @@
     <Url>https://www.sicredi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114428-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5485763Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>751</COMPE>
@@ -4516,8 +4516,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.br.scotiabank.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114999-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2748868Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>752</COMPE>
@@ -4531,8 +4531,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.bnpparibas.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114435-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.3417126Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>753</COMPE>
@@ -4547,8 +4547,8 @@
     <Products>Consignado</Products>
     <Url>https://www.nbcbank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.711543-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:35.2252661Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>754</COMPE>
@@ -4560,8 +4560,8 @@
     <Type>Banco Múltiplo</Type>
     <Url>https://www.btgpactual.com</Url>
     <DateOperationStarted>2015-07-15</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115441-03:00</DateRegistered>
+    <DateUpdated>2021-05-05T09:11:12.7115443-03:00</DateUpdated>
   </bank>
   <bank>
     <COMPE>755</COMPE>
@@ -4575,8 +4575,8 @@
     <CreditDocument>sim</CreditDocument>
     <Url>https://www.ml.com</Url>
     <DateOperationStarted>2007-11-09</DateOperationStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7115324-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:48:15.355136Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>756</COMPE>
@@ -4600,8 +4600,8 @@
     <Url>https://www.bancoob.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114457-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:34.5485682Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>757</COMPE>
@@ -4617,7 +4617,7 @@
     <Url>https://www.bancokeb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
-    <DateRegistered />
-    <DateUpdated />
+    <DateRegistered>2021-05-05T09:11:12.7114464-03:00</DateRegistered>
+    <DateUpdated>2022-06-23T13:51:33.2744236Z</DateUpdated>
   </bank>
 </banks>
