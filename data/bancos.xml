@@ -4,11 +4,21 @@
     <COMPE>001</COMPE>
     <ISPB>00000000</ISPB>
     <Document>00.000.000/0001-91</Document>
-    <LongName>Banco do Brasil S.A.</LongName>
+    <LongName>BANCO DO BRASIL S. A.</LongName>
     <ShortName>BCO DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.bb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -24,6 +34,11 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.bancoamazonia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -39,6 +54,11 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Outros Créditos</Products>
     <Url>https://www.banconordeste.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -52,6 +72,8 @@
     <LongName>BANCO NACIONAL DE DESENVOLVIMENTO ECONOMICO E SOCIAL</LongName>
     <ShortName>BNDES</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2014-06-30</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -64,6 +86,8 @@
     <ShortName>CREDICOAMO</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2012-12-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -89,6 +113,11 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consigando</Products>
+    <Products>Pessoal</Products>
+    <Products>Veiculos e Outros Créditos.</Products>
     <Url>https://www.bancoinbursa.com</Url>
     <DateOperationStarted>2017-05-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -126,6 +155,15 @@
     <ShortName>CCM DESP TRÂNS SC E RS</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2012-05-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -135,10 +173,12 @@
     <COMPE>017</COMPE>
     <ISPB>42272526</ISPB>
     <Document>42.272.526/0001-70</Document>
-    <LongName>BNY Mellon Banco S.A.</LongName>
+    <LongName>BNY MELLON BANCO S.A</LongName>
     <ShortName>BNY MELLON BCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bnymellon.com.br</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DateRegistered />
@@ -148,10 +188,12 @@
     <COMPE>018</COMPE>
     <ISPB>57839805</ISPB>
     <Document>57.839.805/0001-40</Document>
-    <LongName>Banco Tricury S.A.</LongName>
+    <LongName>BANCO TRICURY S.A</LongName>
     <ShortName>BCO TRICURY S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancotricury.com.br</Url>
     <DateOperationStarted>2013-08-05</DateOperationStarted>
     <DateRegistered />
@@ -166,6 +208,16 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.banestes.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -194,6 +246,10 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.bancoalfa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -208,6 +264,9 @@
     <ShortName>BANCO ITAÚ CONSIGNADO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -217,11 +276,21 @@
     <COMPE>033</COMPE>
     <ISPB>90400888</ISPB>
     <Document>90.400.888/0001-42</Document>
-    <LongName>BANCO SANTANDER (BRASIL) S.A.</LongName>
+    <LongName>BANCO SANTANDER S.A.</LongName>
     <ShortName>BCO SANTANDER (BRASIL) S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.santander.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -245,11 +314,16 @@
     <COMPE>037</COMPE>
     <ISPB>04913711</ISPB>
     <Document>04.913.711/0001-08</Document>
-    <LongName>Banco do Estado do Pará S.A.</LongName>
+    <LongName>BANCO DO ESTADO DO PARÁ S.A. - BANPARA</LongName>
     <ShortName>BCO DO EST. DO PA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário e Pessoal</Products>
     <Url>https://www.banpara.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -278,6 +352,15 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.banrisul.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -293,6 +376,16 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.banese.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -331,6 +424,12 @@
     <ShortName>BANCO BRADESCARD</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Troca de Modalidade</Products>
     <Url>https://www.ibi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -353,10 +452,12 @@
     <COMPE>065</COMPE>
     <ISPB>48795256</ISPB>
     <Document>48.795.256/0001-69</Document>
-    <LongName>Banco AndBank (Brasil) S.A.</LongName>
+    <LongName>BANCO ANDBANK S.A.</LongName>
     <ShortName>BCO ANDBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.andbank-lla.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -384,6 +485,10 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
+    <Products>Consignado e Pessoal</Products>
     <Url>https://www.crefisa.com.br</Url>
     <DateOperationStarted>2005-11-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -399,6 +504,12 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.brb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -413,6 +524,8 @@
     <ShortName>BCO. J.SAFRA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2004-08-26</DateOperationStarted>
     <DateRegistered />
@@ -448,11 +561,17 @@
     <COMPE>077</COMPE>
     <ISPB>00416968</ISPB>
     <Document>00.416.968/0001-01</Document>
-    <LongName>Banco Inter S.A.</LongName>
+    <LongName>BANCO INTER S.A</LongName>
     <ShortName>BANCO INTER</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Troca de Modalidade</Products>
     <Url>https://www.bancointer.com.br</Url>
     <DateOperationStarted>2008-08-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -503,6 +622,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado e Pessoal</Products>
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2008-10-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -518,6 +640,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado e Pessoal</Products>
     <Url>https://www.bancotopazio.com.br</Url>
     <DateOperationStarted>2009-06-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -532,6 +657,8 @@
     <ShortName>BCO DA CHINA BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.boc-brazil.com</Url>
     <DateOperationStarted>2009-07-14</DateOperationStarted>
     <DateRegistered />
@@ -541,10 +668,15 @@
     <COMPE>084</COMPE>
     <ISPB>02398976</ISPB>
     <Document>02.398.976/0001-90</Document>
-    <LongName>UNIPRIME DO BRASIL - COOPERATIVA DE CRéDITO LTDA.</LongName>
+    <LongName>UNIPRIME NORTE DO PARANÁ - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS MÉDICOS, PROFISSIONAIS DA  ÁREA DE SAÚDE E EMPRESÁRIOS LTDA.</LongName>
     <ShortName>UNIPRIME DO BRASIL - CC LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário Pessoal e Veículos</Products>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -558,6 +690,12 @@
     <ShortName>COOPCENTRAL AILOS</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -580,10 +718,12 @@
     <COMPE>089</COMPE>
     <ISPB>62109566</ISPB>
     <Document>62.109.566/0001-03</Document>
-    <LongName>CREDISAN COOPERATIVA DE CRÉDITO</LongName>
+    <LongName>COOPERATIVA DE CREDITO RURAL DA REGIÃO DA MOGIANA</LongName>
     <ShortName>CREDISAN CC</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2010-08-30</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -619,6 +759,8 @@
     <ShortName>POLOCRED SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2010-11-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -632,6 +774,8 @@
     <ShortName>BANCO FINAXIS</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.finaxis.com.br</Url>
     <DateOperationStarted>2010-08-23</DateOperationStarted>
     <DateRegistered />
@@ -658,6 +802,8 @@
     <ShortName>BCO B3 S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bmfbovespa.com.br/bancobmfbovespa/</Url>
     <DateOperationStarted>2004-11-12</DateOperationStarted>
     <DateRegistered />
@@ -667,10 +813,13 @@
     <COMPE>097</COMPE>
     <ISPB>04632856</ISPB>
     <Document>04.632.856/0001-30</Document>
-    <LongName>Credisis - Central de Cooperativas de Crédito Ltda.</LongName>
+    <LongName>CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA - CREDISIS</LongName>
     <ShortName>CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -684,6 +833,8 @@
     <ShortName>CREDIALIANÇA CCR</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2011-01-18</DateOperationStarted>
     <DatePixStarted>2021-07-12 08:00:00</DatePixStarted>
     <DateRegistered />
@@ -693,10 +844,17 @@
     <COMPE>099</COMPE>
     <ISPB>03046391</ISPB>
     <Document>03.046.391/0001-73</Document>
-    <LongName>UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CREDITO LTDA.</LongName>
-    <ShortName>UNIPRIME CENTRAL CCC LTDA.</ShortName>
+    <LongName>UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CRÉDITO LTDA</LongName>
+    <ShortName>UNIPRIME COOPCENTRAL LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2011-01-11</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -744,6 +902,15 @@
     <Network>RSFN</Network>
     <Type>Caixa Econômica Federal</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiário</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.caixa.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -757,6 +924,7 @@
     <LongName>Lecca Crédito, Financiamento e Investimento S/A</LongName>
     <ShortName>LECCA CFI S.A.</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado e Pessoal</Products>
     <DateOperationStarted>2011-12-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -769,6 +937,8 @@
     <ShortName>BCO BOCOM BBM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancobbm.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -781,6 +951,8 @@
     <LongName>PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>PORTOCRED S.A. - CFI</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado</Products>
+    <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2011-11-03</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -814,6 +986,13 @@
     <LongName>Central Cooperativa de Crédito no Estado do Espírito Santo - CECOOP</LongName>
     <ShortName>CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO</ShortName>
     <Network>RSFN</Network>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2011-10-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -837,6 +1016,8 @@
     <ShortName>BCO WESTERN UNION</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancowesternunion.com.br</Url>
     <DateOperationStarted>2011-10-10</DateOperationStarted>
     <DateRegistered />
@@ -850,6 +1031,12 @@
     <ShortName>BCO RODOBENS S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Troca de Modalidade</Products>
     <Url>https://www.rodobens.com.br</Url>
     <DateOperationStarted>2012-02-06</DateOperationStarted>
     <DateRegistered />
@@ -864,6 +1051,12 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
+    <Products>Cheque Especial e Troca de Modalidade</Products>
+    <Products>Consignado</Products>
+    <Products>Pessoal</Products>
     <Url>https://www.agibank.com.br</Url>
     <DateOperationStarted>2012-04-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -878,6 +1071,8 @@
     <ShortName>BCO BRADESCO BERJ S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://sim</Url>
     <DateOperationStarted>2011-11-08</DateOperationStarted>
     <DateRegistered />
@@ -892,6 +1087,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.wooribank.com.br</Url>
     <DateOperationStarted>2012-08-09</DateOperationStarted>
     <DatePixStarted>2021-04-27 09:00:00</DatePixStarted>
@@ -906,6 +1104,8 @@
     <ShortName>BANCO GENIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -942,6 +1142,8 @@
     <ShortName>MS BANK S.A. BCO DE CÂMBIO</ShortName>
     <Network>RSFN</Network>
     <Type>Banco de Câmbio</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <Url>https://www.msbank.com.br</Url>
     <DateOperationStarted>2015-04-27</DateOperationStarted>
     <DateRegistered />
@@ -963,10 +1165,13 @@
     <COMPE>130</COMPE>
     <ISPB>09313766</ISPB>
     <Document>09.313.766/0001-09</Document>
-    <LongName>CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <LongName>CARUANA - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>CARUANA SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2013-08-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -991,6 +1196,8 @@
     <ShortName>ICBC DO BRASIL BM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.icbc.com.cn</Url>
     <DateOperationStarted>2013-09-26</DateOperationStarted>
     <DateRegistered />
@@ -1000,10 +1207,20 @@
     <COMPE>133</COMPE>
     <ISPB>10398952</ISPB>
     <Document>10.398.952/0001-69</Document>
-    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E</LongName>
+    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E SOLIDÁRIA - CRESOL</LongName>
     <ShortName>CRESOL CONFEDERAÇÃO</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2016-05-02</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1024,10 +1241,20 @@
     <COMPE>136</COMPE>
     <ISPB>00315557</ISPB>
     <Document>00.315.557/0001-11</Document>
-    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI</LongName>
+    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA – UNICRED DO BRASIL</LongName>
     <ShortName>CONF NAC COOP CENTRAIS UNICRED</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1133,6 +1360,7 @@
     <LongName>Facta Financeira S.A. - Crédito Financiamento e Investimento</LongName>
     <ShortName>FACTA S.A. CFI</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado</Products>
     <DateOperationStarted>2015-07-08</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -1156,6 +1384,8 @@
     <ShortName>CASA CREDITO S.A. SCM</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2017-09-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1169,6 +1399,8 @@
     <ShortName>COMMERZBANK BRASIL S.A. - BCO MÚLTIPLO</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2016-08-10</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -1192,6 +1424,10 @@
     <ShortName>PEFISA S.A. - C.F.I.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
+    <Products>Pessoal e Outros Créditos</Products>
     <DateOperationStarted>2017-11-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1272,6 +1508,8 @@
     <LongName>SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI</LongName>
     <ShortName>SERVICOOP</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2017-10-16</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -1328,6 +1566,9 @@
     <ShortName>STONE IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1342,6 +1583,11 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
     <Url>https://www.btgpactual.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1357,6 +1603,10 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado e Imobiliário</Products>
     <Url>https://www.original.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1372,6 +1622,10 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
     <Url>https://www.bancoarbi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1386,6 +1640,8 @@
     <ShortName>BANCO JOHN DEERE S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.johndeere.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -1400,6 +1656,10 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
     <Url>https://www.bs2.com/banco/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1410,10 +1670,12 @@
     <COMPE>222</COMPE>
     <ISPB>75647891</ISPB>
     <Document>75.647.891/0001-71</Document>
-    <LongName>Banco Credit Agricole Brasil S.A.</LongName>
+    <LongName>BANCO CRÉDIT AGRICOLE S.A</LongName>
     <ShortName>BCO CRÉDIT AGRICOLE BR S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.calyon.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -1428,6 +1690,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado e Veículos</Products>
     <Url>https://www.bancofibra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1456,6 +1721,15 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.bradesco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1479,11 +1753,20 @@
     <COMPE>243</COMPE>
     <ISPB>33923798</ISPB>
     <Document>33.923.798/0001-00</Document>
-    <LongName>BANCO MASTER S/A</LongName>
+    <LongName>BANCO MASTER S.A.</LongName>
     <ShortName>BANCO MASTER</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.bancomaxima.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
@@ -1499,6 +1782,12 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Cheques Especial</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
     <Url>https://www.abcbrasil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1522,7 +1811,7 @@
     <COMPE>250</COMPE>
     <ISPB>50585090</ISPB>
     <Document>50.585.090/0001-06</Document>
-    <LongName>BCV - BANCO DE CRÉDITO E VAREJO S.A.</LongName>
+    <LongName>BANCO DE CRÉDITO E VAREJO S.A.</LongName>
     <ShortName>"BCV - BCO, CRÉDITO E VAREJO S.A."</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
@@ -1550,6 +1839,12 @@
     <ShortName>PARANA BCO S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Troca de Modalidade</Products>
     <Url>https://www.paranabanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1571,10 +1866,13 @@
     <COMPE>260</COMPE>
     <ISPB>18236120</ISPB>
     <Document>18.236.120/0001-58</Document>
-    <LongName>NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO</LongName>
+    <LongName>NU PAGAMENTOS S.A.</LongName>
     <ShortName>NU PAGAMENTOS - IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1584,10 +1882,12 @@
     <COMPE>265</COMPE>
     <ISPB>33644196</ISPB>
     <Document>33.644.196/0001-06</Document>
-    <LongName>Banco Fator S.A.</LongName>
+    <LongName>BANCO FATOR S.A</LongName>
     <ShortName>BCO FATOR S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.fator.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -1601,6 +1901,8 @@
     <ShortName>BCO CEDULA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancocedula.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -1613,6 +1915,9 @@
     <LongName>BARI COMPANHIA HIPOTECÁRIA</LongName>
     <ShortName>BARI CIA HIPOTECÁRIA</ShortName>
     <Network>Internet</Network>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2017-12-21</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -1625,6 +1930,8 @@
     <ShortName>BCO HSBC S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2018-02-07</DateOperationStarted>
     <DatePixStarted>2022-01-17 10:00:00</DatePixStarted>
     <DateRegistered />
@@ -1680,10 +1987,12 @@
     <COMPE>274</COMPE>
     <ISPB>11581339</ISPB>
     <Document>11.581.339/0001-45</Document>
-    <LongName>MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT</LongName>
+    <LongName>MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA</LongName>
     <ShortName>MONEY PLUS SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2019-09-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1697,6 +2006,7 @@
     <ShortName>BCO SENFF S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Products>Consignado</Products>
     <DateOperationStarted>2018-06-12</DateOperationStarted>
     <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
     <DateRegistered />
@@ -1721,6 +2031,9 @@
     <ShortName>CCR DE PRIMAVERA DO LESTE</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2018-06-05</DateOperationStarted>
     <DatePixStarted>2022-04-04 14:48:55</DatePixStarted>
     <DateRegistered />
@@ -1730,9 +2043,11 @@
     <COMPE>280</COMPE>
     <ISPB>23862762</ISPB>
     <Document>23.862.762/0001-00</Document>
-    <LongName>WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <LongName>WILL FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>WILL FINANCEIRA S.A.CFI</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -1745,6 +2060,8 @@
     <ShortName>CCR COOPAVEL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2018-11-05</DateOperationStarted>
     <DatePixStarted>2021-06-10 10:00:00</DatePixStarted>
     <DateRegistered />
@@ -1815,6 +2132,7 @@
     <ShortName>PAGSEGURO INTERNET IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2018-11-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1846,8 +2164,8 @@
     <COMPE>296</COMPE>
     <ISPB>04062902</ISPB>
     <Document>04.062.902/0001-03</Document>
-    <LongName>VISION S.A. CORRETORA DE CAMBIO</LongName>
-    <ShortName>VISION S.A. CC</ShortName>
+    <LongName>OZ CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>OZ CORRETORA DE CÂMBIO S.A.</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2019-02-11</DateOperationStarted>
     <DateRegistered />
@@ -1868,9 +2186,13 @@
     <COMPE>299</COMPE>
     <ISPB>04814563</ISPB>
     <Document>04.814.563/0001-74</Document>
-    <LongName>BANCO SOROCRED S.A. - BANCO MÚLTIPLO</LongName>
+    <LongName>BANCO SOROCRED S.A. – BANCO MÚLTIPLO.</LongName>
     <ShortName>BCO SOROCRED S.A. - BM</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2018-12-03</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -1883,6 +2205,8 @@
     <ShortName>BCO LA NACION ARGENTINA</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bna.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -1896,6 +2220,8 @@
     <ShortName>BPP IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2018-09-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -1998,6 +2324,13 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Troca de Modalidade</Products>
     <Url>https://www.bancobmg.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2019,10 +2352,12 @@
     <COMPE>320</COMPE>
     <ISPB>07450604</ISPB>
     <Document>07.450.604/0001-89</Document>
-    <LongName>China Construction Bank (Brasil) Banco Múltiplo S/A</LongName>
+    <LongName>CHINA CONSTRUCTION BANK (BRASIL) BANCO MÚLTIPLO S.A.</LongName>
     <ShortName>BCO CCB BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.br.ccb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -2047,6 +2382,8 @@
     <ShortName>CCR DE ABELARDO LUZ</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DatePixStarted>2022-03-14 10:00:00</DatePixStarted>
     <DateRegistered />
@@ -2060,6 +2397,9 @@
     <ShortName>MERCADO PAGO IP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2019-06-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -2073,6 +2413,11 @@
     <ShortName>CARTOS SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Troca de Modalidade.</Products>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -2097,6 +2442,9 @@
     <ShortName>PARATI - CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado e Pessoal</Products>
     <DateOperationStarted>2020-01-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -2121,6 +2469,12 @@
     <ShortName>QI SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2019-04-30</DateOperationStarted>
     <DatePixStarted>2021-06-14 09:00:00</DatePixStarted>
     <DateRegistered />
@@ -2134,6 +2488,12 @@
     <ShortName>BANCO BARI S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Troca de Modalidade</Products>
     <DateOperationStarted>2019-07-22</DateOperationStarted>
     <DatePixStarted>2021-02-25 09:00:00</DatePixStarted>
     <DateRegistered />
@@ -2158,6 +2518,9 @@
     <ShortName>ACESSO SOLUCOES PAGAMENTO SA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2019-08-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -2172,6 +2535,8 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <SalaryPortability>Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
     <Url>https://www.digio.com.br</Url>
     <DateOperationStarted>2019-11-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2187,6 +2552,12 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
     <Url>https://www.c6bank.com</Url>
     <DateOperationStarted>2019-01-31</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2210,11 +2581,20 @@
     <COMPE>341</COMPE>
     <ISPB>60701190</ISPB>
     <Document>60.701.190/0001-04</Document>
-    <LongName>ITAÚ UNIBANCO S.A.</LongName>
+    <LongName>BANCO ITAÚ UNIBANCO S.A.</LongName>
     <ShortName>ITAÚ UNIBANCO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2253,6 +2633,9 @@
     <ShortName>BCO XP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
     <DateOperationStarted>2019-11-01</DateOperationStarted>
     <DatePixStarted>2021-06-01 10:00:00</DatePixStarted>
     <DateRegistered />
@@ -2266,6 +2649,13 @@
     <ShortName>AL5 S.A. CFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2019-10-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -2327,6 +2717,7 @@
     <ShortName>MIDWAY S.A. - SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Products>Pessoal</Products>
     <DateOperationStarted>2021-02-01</DateOperationStarted>
     <DatePixStarted>2021-07-19 15:00:00</DatePixStarted>
     <DateRegistered />
@@ -2339,6 +2730,13 @@
     <LongName>ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A</LongName>
     <ShortName>ZEMA CFI S/A</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veiculos</Products>
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2386,6 +2784,8 @@
     <ShortName>GERENCIANET</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -2410,6 +2810,8 @@
     <ShortName>BCO SOCIETE GENERALE BRASIL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.sgbrasil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -2434,6 +2836,8 @@
     <ShortName>BCO CSF S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DateRegistered />
@@ -2470,6 +2874,8 @@
     <LongName>UP.P SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.</LongName>
     <ShortName>UP.P SEP S.A.</ShortName>
     <Network>Internet</Network>
+    <Products>Pessoal</Products>
+    <Products>Veiculos e Outros Créditoss</Products>
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2482,6 +2888,7 @@
     <ShortName>REALIZE CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Products>Pessoal e Outros Créditos</Products>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2021-04-14 12:00:00</DatePixStarted>
     <DateRegistered />
@@ -2494,6 +2901,9 @@
     <LongName>BANCO J.P. MORGAN S.A.</LongName>
     <ShortName>BCO J.P. MORGAN S.A.</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Pessoal</Products>
     <Url>https://www.jpmorgan.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -2528,6 +2938,11 @@
     <LongName>COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITU</LongName>
     <ShortName>CECM COOPERFORTE</ShortName>
     <Network>RSFN</Network>
+    <Products>Cheque Especial e Troca de Modalidade</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2020-09-01</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2541,6 +2956,7 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.picpay.com.br</Url>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2555,6 +2971,7 @@
     <ShortName>BCO MERCEDES-BENZ S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.bancomercedesbenz.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DateRegistered />
@@ -2581,6 +2998,8 @@
     <ShortName>EBANX IP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2020-07-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -2617,6 +3036,7 @@
     <LongName>NU FINANCEIRA S.A. - Sociedade de Crédito, Financiamento e Investimento</LongName>
     <ShortName>NU FINANCEIRA S.A. CFI</ShortName>
     <Network>RSFN</Network>
+    <Products>Pessoal</Products>
     <DateOperationStarted>2021-01-12</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2629,6 +3049,9 @@
     <ShortName>BCO TOYOTA DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Veículos</Products>
     <Url>https://www.bancotoyota.com.br</Url>
     <DateOperationStarted>2020-07-21</DateOperationStarted>
     <DateRegistered />
@@ -2643,6 +3066,15 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.mercantil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2656,6 +3088,7 @@
     <LongName>BANCO GM S.A.</LongName>
     <ShortName>BCO GM S.A.</ShortName>
     <Network>RSFN</Network>
+    <Products>Veículos</Products>
     <DateOperationStarted>2020-07-22</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2667,6 +3100,7 @@
     <LongName>COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM</LongName>
     <ShortName>CCR DE IBIAM</ShortName>
     <Network>Internet</Network>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2020-07-10</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2679,6 +3113,11 @@
     <ShortName>BCO VOLKSWAGEN S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.bancovw.com.br</Url>
     <DateOperationStarted>2020-08-17</DateOperationStarted>
     <DateRegistered />
@@ -2688,10 +3127,13 @@
     <COMPE>394</COMPE>
     <ISPB>07207996</ISPB>
     <Document>07.207.996/0001-50</Document>
-    <LongName>Banco Bradesco Financiamentos S.A.</LongName>
+    <LongName>BANCO BRADESCO FINANCIAMENTO S.A.</LongName>
     <ShortName>BCO BRADESCO FINANC. S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado e Troca de Modalidade</Products>
     <Url>https://www.bradescofinanciamentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -2825,9 +3267,11 @@
     <COMPE>406</COMPE>
     <ISPB>37715993</ISPB>
     <Document>37.715.993/0001-98</Document>
-    <LongName>ACCREDITO - SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <LongName>ACCREDITO – SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>ACCREDITO SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2020-11-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2875,6 +3319,9 @@
     <ShortName>VIA CERTA FINANCIADORA S.A. - CFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
+    <Products>Consignado e Pessoal</Products>
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2021-06-24 10:00:00</DatePixStarted>
     <DateRegistered />
@@ -2888,6 +3335,8 @@
     <ShortName>SOCIAL BANK S/A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancocapital.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -2901,6 +3350,9 @@
     <ShortName>BCO BV S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DatePixStarted>2021-06-14 08:00:00</DatePixStarted>
     <DateRegistered />
@@ -2959,6 +3411,8 @@
     <LongName>LAR COOPERATIVA DE CRÉDITO - LAR CREDI</LongName>
     <ShortName>CC LAR CREDI</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <DateOperationStarted>2021-07-21</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -2972,6 +3426,14 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial e Troca de Modalidade e Capital de Giro</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos</Products>
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2996,6 +3458,10 @@
     <LongName>SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>SOCINAL S.A. CFI</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2021-07-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3018,6 +3484,7 @@
     <LongName>COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO</LongName>
     <ShortName>CRED-UFES</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado e Troca de Modalidade</Products>
     <DateOperationStarted>2021-04-26</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3030,6 +3497,8 @@
     <ShortName>CRED-SYSTEM SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2021-04-20</DateOperationStarted>
     <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
     <DateRegistered />
@@ -3042,6 +3511,10 @@
     <LongName>Crediare S.A. - Crédito, financiamento e investimento</LongName>
     <ShortName>CREDIARE CFI S.A.</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado</Products>
+    <Products>Outros Créditos e Troca de Modalidade</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3054,6 +3527,7 @@
     <ShortName>CCR SEARA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-02-11 10:00:00</DatePixStarted>
     <DateRegistered />
@@ -3077,6 +3551,8 @@
     <LongName>DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>DELCRED SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3199,6 +3675,8 @@
     <ShortName>FITBANK PAGAMENTOS ELETRONICOS S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered />
@@ -3245,6 +3723,8 @@
     <ShortName>BCO MUFG BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.br.bk.mufg.jp</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -3279,6 +3759,7 @@
     <LongName>COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE</LongName>
     <ShortName>CCM SERV. PÚBLICOS SP</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado e Troca de Modalidade</Products>
     <DateOperationStarted>2021-11-04</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3290,6 +3771,8 @@
     <LongName>UNAVANTI SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>UNAVANTI SCD S/A</ShortName>
     <Network>RSFN</Network>
+    <Charge>sim</Charge>
+    <CreditDocument>não</CreditDocument>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3339,6 +3822,8 @@
     <ShortName>BCO SUMITOMO MITSUI BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.smbcgroup.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -3374,6 +3859,9 @@
     <ShortName>PORTOSEG S.A. CFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Products>Consignado</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Outros Créditos</Products>
     <DateOperationStarted>2022-02-09</DateOperationStarted>
     <DatePixStarted>2022-03-14 14:00:00</DatePixStarted>
     <DateRegistered />
@@ -3383,8 +3871,8 @@
     <COMPE>469</COMPE>
     <ISPB>07138049</ISPB>
     <Document>07.138.049/0001-54</Document>
-    <LongName>LECCA DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA</LongName>
-    <ShortName>LECCA DTVM LTDA</ShortName>
+    <LongName>J&amp;F DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>J&amp;F DTVM</ShortName>
     <Network>RSFN</Network>
     <DateOperationStarted>2022-03-09</DateOperationStarted>
     <DateRegistered />
@@ -3434,6 +3922,11 @@
     <LongName>GAZINCRED S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>GAZINCRED S.A. SCFI</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2022-03-21</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3454,10 +3947,12 @@
     <COMPE>487</COMPE>
     <ISPB>62331228</ISPB>
     <Document>62.331.228/0001-11</Document>
-    <LongName>Deutsche Bank S.A. - Banco Alemão</LongName>
+    <LongName>DEUTSCHE BANK S.A. BANCO ALEMÃO</LongName>
     <ShortName>DEUTSCHE BANK S.A.BCO ALEMAO</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.deutsche-bank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -3509,6 +4004,8 @@
     <ShortName>BCO CREDIT SUISSE S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.csfb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -3534,6 +4031,11 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.lusobrasileiro.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-17 10:00:00</DatePixStarted>
@@ -3549,6 +4051,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado e Pessoal</Products>
     <Url>https://www.bancoindustrial.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3564,6 +4069,8 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.vrinvestimentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3578,6 +4085,10 @@
     <ShortName>BCO PAULISTA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário e Troca de Modalidade</Products>
     <Url>https://www.bancopaulista.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -3592,6 +4103,8 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>não</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancoguanabara.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3607,6 +4120,10 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Outros Créditos</Products>
     <Url>https://www.bancopecunia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-27 08:00:00</DatePixStarted>
@@ -3622,6 +4139,14 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
+    <Products>Cheque Especial e Troca de Modalidade</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos</Products>
     <Url>https://www.bancopan.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3632,9 +4157,10 @@
     <COMPE>626</COMPE>
     <ISPB>61348538</ISPB>
     <Document>61.348.538/0001-86</Document>
-    <LongName>BANCO C6 CONSIGNADO S.A.</LongName>
+    <LongName>BANCO FICSA S.A.</LongName>
     <ShortName>BCO C6 CONSIG</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado e Veículos</Products>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3643,11 +4169,13 @@
     <COMPE>630</COMPE>
     <ISPB>58497702</ISPB>
     <Document>58.497.702/0001-02</Document>
-    <LongName>BANCO LETSBANK S.A.</LongName>
+    <LongName>BANCO LETSBANK S.A</LongName>
     <ShortName>BCO LETSBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.intercap.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3663,6 +4191,11 @@
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Cheque Especial</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3678,6 +4211,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha</SalaryPortability>
     <Url>https://www.tribanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3693,6 +4229,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.sofisa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3708,6 +4247,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado e Veículos</Products>
     <Url>https://www.pine.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3736,6 +4278,8 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bip.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3750,6 +4294,12 @@
     <ShortName>BCO DIGIMAIS S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Cheque Especial e Troca de Modalidade</Products>
+    <Products>Consignado</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos</Products>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered />
@@ -3764,6 +4314,11 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.bancovotorantim.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3779,6 +4334,15 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.daycoval.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3807,6 +4371,8 @@
     <LongName>BANCO RNX S.A.</LongName>
     <ShortName>BCO RNX S.A.</ShortName>
     <Network>RSFN</Network>
+    <Products>Consignado</Products>
+    <Products>Pessoal e Veículos</Products>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered />
     <DateUpdated />
@@ -3815,11 +4381,14 @@
     <COMPE>739</COMPE>
     <ISPB>00558456</ISPB>
     <Document>00.558.456/0001-71</Document>
-    <LongName>Banco Cetelem S.A.</LongName>
+    <LongName>BANCO CETELEM S.A</LongName>
     <ShortName>BCO CETELEM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado e Troca de Modalidade</Products>
     <Url>https://www.cetelem.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3835,6 +4404,11 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal e Veículos</Products>
     <Url>https://www.brp.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3845,11 +4419,15 @@
     <COMPE>743</COMPE>
     <ISPB>00795423</ISPB>
     <Document>00.795.423/0001-45</Document>
-    <LongName>Banco Semear S.A.</LongName>
+    <LongName>BANCO SEMEAR S.A</LongName>
     <ShortName>BANCO SEMEAR</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado e Pessoal</Products>
     <Url>https://www.bancosemear.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-22 10:00:00</DatePixStarted>
@@ -3860,11 +4438,15 @@
     <COMPE>745</COMPE>
     <ISPB>33479023</ISPB>
     <Document>33.479.023/0001-80</Document>
-    <LongName>Banco Citibank S.A.</LongName>
+    <LongName>BANCO CITIBANK S. A.</LongName>
     <ShortName>BCO CITIBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
+    <Products>Imobiliário e Pessoal</Products>
     <Url>https://www.citibank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-09-03 06:30:00</DatePixStarted>
@@ -3880,6 +4462,9 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.bancomodal.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3908,6 +4493,13 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo Cooperativo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Consignado</Products>
+    <Products>Imobiliário</Products>
+    <Products>Pessoal</Products>
+    <Products>Veículos e Outros Créditos</Products>
     <Url>https://www.sicredi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3918,7 +4510,7 @@
     <COMPE>751</COMPE>
     <ISPB>29030467</ISPB>
     <Document>29.030.467/0001-66</Document>
-    <LongName>Scotiabank Brasil S.A. Banco Múltiplo</LongName>
+    <LongName>SCOTIABANK BRASIL S.A.</LongName>
     <ShortName>SCOTIABANK BRASIL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
@@ -3935,6 +4527,8 @@
     <ShortName>BCO BNP PARIBAS BRASIL S A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bnpparibas.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -3944,10 +4538,13 @@
     <COMPE>753</COMPE>
     <ISPB>74828799</ISPB>
     <Document>74.828.799/0001-45</Document>
-    <LongName>Novo Banco Continental S.A. - Banco Múltiplo</LongName>
+    <LongName>NOVO BANCO CONTINENTAL S.A.</LongName>
     <ShortName>NOVO BCO CONTINENTAL S.A. - BM</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <Products>Consignado</Products>
     <Url>https://www.nbcbank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered />
@@ -3974,6 +4571,8 @@
     <ShortName>BOFA MERRILL LYNCH BM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.ml.com</Url>
     <DateOperationStarted>2007-11-09</DateOperationStarted>
     <DateRegistered />
@@ -3983,11 +4582,21 @@
     <COMPE>756</COMPE>
     <ISPB>02038232</ISPB>
     <Document>02.038.232/0001-64</Document>
-    <LongName>BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB</LongName>
+    <LongName>BANCO COOPERATIVO SICOOB S.A. – BANCO SICOOB.</LongName>
     <ShortName>BANCO SICOOB S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo Cooperativo</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>Cheque Especial</Products>
+    <Products>Consignado</Products>
+    <Products>Imobiário</Products>
+    <Products>Outros Créditos</Products>
+    <Products>Pessoal</Products>
+    <Products>Troca de Modalidade e Capital de Giro</Products>
+    <Products>Veículos</Products>
     <Url>https://www.bancoob.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3998,11 +4607,13 @@
     <COMPE>757</COMPE>
     <ISPB>02318507</ISPB>
     <Document>02.318.507/0001-13</Document>
-    <LongName>BANCO KEB HANA DO BRASIL S.A.</LongName>
+    <LongName>BANCO KEB DO BRASIL S.A.</LongName>
     <ShortName>BCO KEB HANA DO BRASIL S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
     <PixType>DRCT</PixType>
+    <Charge>sim</Charge>
+    <CreditDocument>sim</CreditDocument>
     <Url>https://www.bancokeb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
