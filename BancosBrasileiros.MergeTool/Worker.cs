@@ -102,7 +102,6 @@ namespace BancosBrasileiros.MergeTool
             }
 
             var changeLog = new StringBuilder();
-            var pullRequestText = new StringBuilder();
 
             var color = ConsoleColor.DarkGreen;
 
@@ -112,21 +111,14 @@ namespace BancosBrasileiros.MergeTool
             {
                 changeLog.AppendLine($"- Added {added.Count} banks");
 
-                pullRequestText.AppendLine($"Added banks: {added.Count}\r\n");
-
                 Logger.Log($"\r\nAdded items: {added.Count}\r\n\r\n", ConsoleColor.White);
                 
                 foreach (var item in added)
                 {
                     changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
-
-                    pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
-
                     color = color == ConsoleColor.DarkGreen ? ConsoleColor.Cyan : ConsoleColor.DarkGreen;
                     Logger.Log($"Added: {item}\r\n", color);
                 }
-
-                pullRequestText.AppendLine("");
             }
 
             color = ConsoleColor.DarkBlue;
@@ -135,16 +127,11 @@ namespace BancosBrasileiros.MergeTool
             {
                 changeLog.AppendLine($"- Updated {updated.Count} banks");
 
-                pullRequestText.AppendLine($"Updated banks: {updated.Count}\r\n");
-
                 Logger.Log($"\r\nUpdated items: {updated.Count}\r\n\r\n", ConsoleColor.White);
 
                 foreach (var item in updated)
                 {
                     changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
-
-                    pullRequestText.AppendLine($"- [X] {item.Compe} - {item.LongName} - {item.Document}");
-                    
                     color = color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
                     Logger.Log($"Updated: {item}\r\n", color);
                 }
@@ -153,10 +140,9 @@ namespace BancosBrasileiros.MergeTool
             Logger.Log("\r\nSaving result files", ConsoleColor.White);
 
             Writer.WriteChangeLog(changeLog.ToString());
-            Writer.WritePullRequest(pullRequestText.ToString());
             Writer.SaveBanks(source);
 
-            Console.WriteLine($"Merge done. Banks: {source.Count}");
+            Logger.Log($"Merge done. Banks: {source.Count}", ConsoleColor.White);
         }
 
         /// <summary>
