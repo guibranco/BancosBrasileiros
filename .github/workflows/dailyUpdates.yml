@@ -42,14 +42,14 @@ jobs:
         with:
           name: bankFiles
           path:
-           result/bancos.*
+           BancosBrasileiros.MergeTool/result/bancos.*
      
       - name: Upload changelog file
         uses: actions/upload-artifact@v3
         with:
           name: changeLogFile
           path:
-           result/CHANGELOG.md
+           BancosBrasileiros.MergeTool/result/CHANGELOG.md
            
   publish:
     runs-on: ubuntu-latest
