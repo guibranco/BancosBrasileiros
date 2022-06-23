@@ -32,5 +32,50 @@ jobs:
       - name: Run
         run: |
             cd BancosBrasileiros.MergeTool
-            dotnet run 
+            dotnet run --configuration Release
+            
+      - name: Upload banks files
+        uses: actions/upload-artifact@v3
+        with:
+          name: bankFiles
+          path:
+           result/bancos.*
+     
+      - name: Upload changelog file
+        uses: actions/upload-artifact@v3
+        with:
+          name: changeLogFile
+          path:
+           result/CHANGELOG.md
+           
+  publish:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      
+      - name: Checkout developer
+        uses: actions/checkout@v3
+        with:
+          ref: Develop
+          
+      - name: Download banks files
+        uses: actions/download-artifact@v3
+        with:
+          name: bankFiles
+          path: data/
+          
+      - name: Download changelog file
+        uses: actions/download-artifact@v3
+        with:
+          name: changeLogFile
+          
+      - name: Setup GIT config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: Commit and Push
+        run: |
+          git commit -m "Daily updates (bot)"
+          git push origin master
 
