@@ -1,4 +1,4 @@
-version: 3.0.{build}
+version: 4.0.{build}
 skip_tags: true
 skip_branch_with_pr: true
 skip_commits:
