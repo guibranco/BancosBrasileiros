@@ -3,7 +3,7 @@
     "COMPE": "001",
     "ISPB": "00000000",
     "Document": "00.000.000/0001-91",
-    "LongName": "BANCO DO BRASIL S. A.",
+    "LongName": "Banco do Brasil S.A.",
     "ShortName": "BCO DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -24,7 +24,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7109988-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.371865+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4699119+00:00"
   },
   {
     "COMPE": "003",
@@ -220,7 +220,7 @@
     "COMPE": "017",
     "ISPB": "42272526",
     "Document": "42.272.526/0001-70",
-    "LongName": "BNY MELLON BANCO S.A",
+    "LongName": "BNY Mellon Banco S.A.",
     "ShortName": "BNY MELLON BCO S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
@@ -233,13 +233,13 @@
     "DateOperationStarted": "2012-11-19",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115161-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3722396+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4721656+00:00"
   },
   {
     "COMPE": "018",
     "ISPB": "57839805",
     "Document": "57.839.805/0001-40",
-    "LongName": "BANCO TRICURY S.A",
+    "LongName": "Banco Tricury S.A.",
     "ShortName": "BCO TRICURY S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -252,7 +252,7 @@
     "DateOperationStarted": "2013-08-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115214-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3721872+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4722901+00:00"
   },
   {
     "COMPE": "021",
@@ -349,7 +349,7 @@
     "COMPE": "033",
     "ISPB": "90400888",
     "Document": "90.400.888/0001-42",
-    "LongName": "BANCO SANTANDER S.A.",
+    "LongName": "BANCO SANTANDER (BRASIL) S.A.",
     "ShortName": "BCO SANTANDER (BRASIL) S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -370,7 +370,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115471-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3721382+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4728544+00:00"
   },
   {
     "COMPE": "036",
@@ -395,7 +395,7 @@
     "COMPE": "037",
     "ISPB": "04913711",
     "Document": "04.913.711/0001-08",
-    "LongName": "BANCO DO ESTADO DO PARÁ S.A. - BANPARA",
+    "LongName": "Banco do Estado do Pará S.A.",
     "ShortName": "BCO DO EST. DO PA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -411,7 +411,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114571-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3718854+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4706342+00:00"
   },
   {
     "COMPE": "040",
@@ -570,7 +570,7 @@
     "COMPE": "065",
     "ISPB": "48795256",
     "Document": "48.795.256/0001-69",
-    "LongName": "BANCO ANDBANK S.A.",
+    "LongName": "Banco AndBank (Brasil) S.A.",
     "ShortName": "BCO ANDBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -583,7 +583,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711518-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3716374+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4722155+00:00"
   },
   {
     "COMPE": "066",
@@ -709,7 +709,7 @@
     "COMPE": "077",
     "ISPB": "00416968",
     "Document": "00.416.968/0001-01",
-    "LongName": "BANCO INTER S.A",
+    "LongName": "Banco Inter S.A.",
     "ShortName": "BANCO INTER",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -726,7 +726,7 @@
     "DateOperationStarted": "2008-08-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112852-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3719869+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4701077+00:00"
   },
   {
     "COMPE": "078",
@@ -850,7 +850,7 @@
     "COMPE": "084",
     "ISPB": "02398976",
     "Document": "02.398.976/0001-90",
-    "LongName": "UNIPRIME NORTE DO PARANÁ - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS MÉDICOS, PROFISSIONAIS DA  ÁREA DE SAÚDE E EMPRESÁRIOS LTDA.",
+    "LongName": "UNIPRIME DO BRASIL - COOPERATIVA DE CRéDITO LTDA.",
     "ShortName": "UNIPRIME DO BRASIL - CC LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -866,7 +866,7 @@
     "DateOperationStarted": "2009-11-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114472-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3725441+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4703251+00:00"
   },
   {
     "COMPE": "085",
@@ -914,7 +914,7 @@
     "COMPE": "089",
     "ISPB": "62109566",
     "Document": "62.109.566/0001-03",
-    "LongName": "COOPERATIVA DE CREDITO RURAL DA REGIÃO DA MOGIANA",
+    "LongName": "CREDISAN COOPERATIVA DE CRÉDITO",
     "ShortName": "CREDISAN CC",
     "Network": "RSFN",
     "Type": null,
@@ -927,7 +927,7 @@
     "DateOperationStarted": "2010-08-30",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115328-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3723693+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4725428+00:00"
   },
   {
     "COMPE": "091",
@@ -1047,7 +1047,7 @@
     "COMPE": "097",
     "ISPB": "04632856",
     "Document": "04.632.856/0001-30",
-    "LongName": "CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA - CREDISIS",
+    "LongName": "Credisis - Central de Cooperativas de Crédito Ltda.",
     "ShortName": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -1060,7 +1060,7 @@
     "DateOperationStarted": "2011-02-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114549-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3723497+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.470572+00:00"
   },
   {
     "COMPE": "098",
@@ -1085,7 +1085,7 @@
     "COMPE": "099",
     "ISPB": "03046391",
     "Document": "03.046.391/0001-73",
-    "LongName": "UNIPRIME CENTRAL - CENTRAL INTERESTADUAL DE COOPERATIVAS DE CRÉDITO LTDA",
+    "LongName": "UNIPRIME CENTRAL - CENTRAL NACIONAL DE COOPERATIVA DE CRÉDITO LTDA.",
     "ShortName": "UNIPRIME COOPCENTRAL LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -1103,7 +1103,7 @@
     "DateOperationStarted": "2011-01-11",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114498-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3725186+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4704129+00:00"
   },
   {
     "COMPE": "100",
@@ -1537,7 +1537,7 @@
     "COMPE": "130",
     "ISPB": "09313766",
     "Document": "09.313.766/0001-09",
-    "LongName": "CARUANA - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "LongName": "CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
     "ShortName": "CARUANA SCFI",
     "Network": "RSFN",
     "Type": null,
@@ -1550,7 +1550,7 @@
     "DateOperationStarted": "2013-08-12",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114682-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3722973+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4709492+00:00"
   },
   {
     "COMPE": "131",
@@ -1594,7 +1594,7 @@
     "COMPE": "133",
     "ISPB": "10398952",
     "Document": "10.398.952/0001-69",
-    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E SOLIDÁRIA - CRESOL",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E",
     "ShortName": "CRESOL CONFEDERAÇÃO",
     "Network": "RSFN",
     "Type": null,
@@ -1615,7 +1615,7 @@
     "DateOperationStarted": "2016-05-02",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114705-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3723239+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4710053+00:00"
   },
   {
     "COMPE": "134",
@@ -1640,7 +1640,7 @@
     "COMPE": "136",
     "ISPB": "00315557",
     "Document": "00.315.557/0001-11",
-    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA – UNICRED DO BRASIL",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI",
     "ShortName": "CONF NAC COOP CENTRAIS UNICRED",
     "Network": "RSFN",
     "Type": null,
@@ -1661,7 +1661,7 @@
     "DateOperationStarted": "2014-07-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112437-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3723371+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4700739+00:00"
   },
   {
     "COMPE": "138",
@@ -2269,7 +2269,7 @@
     "COMPE": "222",
     "ISPB": "75647891",
     "Document": "75.647.891/0001-71",
-    "LongName": "BANCO CRÉDIT AGRICOLE S.A",
+    "LongName": "BANCO CRÉDIT AGRICOLE BRASIL S.A.",
     "ShortName": "BCO CRÉDIT AGRICOLE BR S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -2282,7 +2282,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115434-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3718042+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4727518+00:00"
   },
   {
     "COMPE": "224",
@@ -2373,7 +2373,7 @@
     "COMPE": "243",
     "ISPB": "33923798",
     "Document": "33.923.798/0001-00",
-    "LongName": "BANCO MASTER S.A.",
+    "LongName": "BANCO MASTER S/A",
     "ShortName": "BANCO MASTER",
     "Network": "RSFN",
     "Type": "Banco Comercial",
@@ -2394,7 +2394,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-05-12 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115103-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3720478+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4718833+00:00"
   },
   {
     "COMPE": "246",
@@ -2443,7 +2443,7 @@
     "COMPE": "250",
     "ISPB": "50585090",
     "Document": "50.585.090/0001-06",
-    "LongName": "BANCO DE CRÉDITO E VAREJO S.A.",
+    "LongName": "BCV - BANCO DE CRÉDITO E VAREJO S.A.",
     "ShortName": "\"BCV - BCO, CRÉDITO E VAREJO S.A.\"",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -2456,7 +2456,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115191-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.37184+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4722411+00:00"
   },
   {
     "COMPE": "253",
@@ -2524,7 +2524,7 @@
     "COMPE": "260",
     "ISPB": "18236120",
     "Document": "18.236.120/0001-58",
-    "LongName": "NU PAGAMENTOS S.A.",
+    "LongName": "NU PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
     "ShortName": "NU PAGAMENTOS - IP",
     "Network": "RSFN",
     "Type": null,
@@ -2537,13 +2537,13 @@
     "DateOperationStarted": "2017-10-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114912-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3724682+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4714211+00:00"
   },
   {
     "COMPE": "265",
     "ISPB": "33644196",
     "Document": "33.644.196/0001-06",
-    "LongName": "BANCO FATOR S.A",
+    "LongName": "Banco Fator S.A.",
     "ShortName": "BCO FATOR S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -2556,7 +2556,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115084-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3719117+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4718297+00:00"
   },
   {
     "COMPE": "266",
@@ -2699,7 +2699,7 @@
     "COMPE": "274",
     "ISPB": "11581339",
     "Document": "11.581.339/0001-45",
-    "LongName": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA",
+    "LongName": "MONEY PLUS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORT",
     "ShortName": "MONEY PLUS SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -2712,7 +2712,7 @@
     "DateOperationStarted": "2019-09-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114738-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3724388+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4710924+00:00"
   },
   {
     "COMPE": "276",
@@ -2777,7 +2777,7 @@
     "COMPE": "280",
     "ISPB": "23862762",
     "Document": "23.862.762/0001-00",
-    "LongName": "WILL FINANCEIRA S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTO",
+    "LongName": "WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
     "ShortName": "WILL FINANCEIRA S.A.CFI",
     "Network": "RSFN",
     "Type": null,
@@ -2790,7 +2790,7 @@
     "DateOperationStarted": "2018-05-10",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114949-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3725558+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.471528+00:00"
   },
   {
     "COMPE": "281",
@@ -3005,7 +3005,7 @@
     "COMPE": "299",
     "ISPB": "04814563",
     "Document": "04.814.563/0001-74",
-    "LongName": "BANCO SOROCRED S.A. – BANCO MÚLTIPLO.",
+    "LongName": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
     "ShortName": "BCO SOROCRED S.A. - BM",
     "Network": "RSFN",
     "Type": null,
@@ -3021,7 +3021,7 @@
     "DateOperationStarted": "2018-12-03",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114556-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3724981+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4705912+00:00"
   },
   {
     "COMPE": "300",
@@ -3260,7 +3260,7 @@
     "COMPE": "320",
     "ISPB": "07450604",
     "Document": "07.450.604/0001-89",
-    "LongName": "CHINA CONSTRUCTION BANK (BRASIL) BANCO MÚLTIPLO S.A.",
+    "LongName": "China Construction Bank (Brasil) Banco Múltiplo S/A",
     "ShortName": "BCO CCB BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -3273,7 +3273,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114616-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3723089+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4707764+00:00"
   },
   {
     "COMPE": "321",
@@ -3567,7 +3567,7 @@
     "COMPE": "341",
     "ISPB": "60701190",
     "Document": "60.701.190/0001-04",
-    "LongName": "BANCO ITAÚ UNIBANCO S.A.",
+    "LongName": "ITAÚ UNIBANCO S.A.",
     "ShortName": "ITAÚ UNIBANCO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -3587,7 +3587,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115257-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3720056+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4723842+00:00"
   },
   {
     "COMPE": "342",
@@ -4365,7 +4365,7 @@
     "COMPE": "394",
     "ISPB": "07207996",
     "Document": "07.207.996/0001-50",
-    "LongName": "BANCO BRADESCO FINANCIAMENTO S.A.",
+    "LongName": "Banco Bradesco Financiamentos S.A.",
     "ShortName": "BCO BRADESCO FINANC. S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -4380,7 +4380,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114609-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3717085+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4707492+00:00"
   },
   {
     "COMPE": "395",
@@ -4576,7 +4576,7 @@
     "COMPE": "406",
     "ISPB": "37715993",
     "Document": "37.715.993/0001-98",
-    "LongName": "ACCREDITO – SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "LongName": "ACCREDITO - SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "ShortName": "ACCREDITO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
@@ -4589,7 +4589,7 @@
     "DateOperationStarted": "2020-11-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115144-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3716095+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.472007+00:00"
   },
   {
     "COMPE": "407",
@@ -5634,7 +5634,7 @@
     "COMPE": "487",
     "ISPB": "62331228",
     "Document": "62.331.228/0001-11",
-    "LongName": "DEUTSCHE BANK S.A. BANCO ALEMÃO",
+    "LongName": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
     "ShortName": "DEUTSCHE BANK S.A.BCO ALEMAO",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -5647,7 +5647,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115354-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3723975+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.472658+00:00"
   },
   {
     "COMPE": "488",
@@ -5899,7 +5899,7 @@
     "COMPE": "626",
     "ISPB": "61348538",
     "Document": "61.348.538/0001-86",
-    "LongName": "BANCO FICSA S.A.",
+    "LongName": "BANCO C6 CONSIGNADO S.A.",
     "ShortName": "BCO C6 CONSIG",
     "Network": "RSFN",
     "Type": null,
@@ -5914,13 +5914,13 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115298-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3719283+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4724721+00:00"
   },
   {
     "COMPE": "630",
     "ISPB": "58497702",
     "Document": "58.497.702/0001-02",
-    "LongName": "BANCO LETSBANK S.A",
+    "LongName": "BANCO LETSBANK S.A.",
     "ShortName": "BCO LETSBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -5933,7 +5933,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115221-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3719767+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4723053+00:00"
   },
   {
     "COMPE": "633",
@@ -6173,7 +6173,7 @@
     "COMPE": "739",
     "ISPB": "00558456",
     "Document": "00.558.456/0001-71",
-    "LongName": "BANCO CETELEM S.A",
+    "LongName": "Banco Cetelem S.A.",
     "ShortName": "BCO CETELEM S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -6188,7 +6188,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7113315-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3717571+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4701437+00:00"
   },
   {
     "COMPE": "741",
@@ -6217,7 +6217,7 @@
     "COMPE": "743",
     "ISPB": "00795423",
     "Document": "00.795.423/0001-45",
-    "LongName": "BANCO SEMEAR S.A",
+    "LongName": "Banco Semear S.A.",
     "ShortName": "BANCO SEMEAR",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -6232,13 +6232,13 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-12-22 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7113451-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3721469+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4701516+00:00"
   },
   {
     "COMPE": "745",
     "ISPB": "33479023",
     "Document": "33.479.023/0001-80",
-    "LongName": "BANCO CITIBANK S. A.",
+    "LongName": "Banco Citibank S.A.",
     "ShortName": "BCO CITIBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -6254,7 +6254,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-09-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115077-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3717741+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4718146+00:00"
   },
   {
     "COMPE": "746",
@@ -6322,7 +6322,7 @@
     "COMPE": "751",
     "ISPB": "29030467",
     "Document": "29.030.467/0001-66",
-    "LongName": "SCOTIABANK BRASIL S.A.",
+    "LongName": "Scotiabank Brasil S.A. Banco Múltiplo",
     "ShortName": "SCOTIABANK BRASIL",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -6335,7 +6335,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114999-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3724873+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4716419+00:00"
   },
   {
     "COMPE": "752",
@@ -6360,7 +6360,7 @@
     "COMPE": "753",
     "ISPB": "74828799",
     "Document": "74.828.799/0001-45",
-    "LongName": "NOVO BANCO CONTINENTAL S.A.",
+    "LongName": "Novo Banco Continental S.A. - Banco Múltiplo",
     "ShortName": "NOVO BCO CONTINENTAL S.A. - BM",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
@@ -6375,7 +6375,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711543-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3724581+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4727435+00:00"
   },
   {
     "COMPE": "754",
@@ -6419,7 +6419,7 @@
     "COMPE": "756",
     "ISPB": "02038232",
     "Document": "02.038.232/0001-64",
-    "LongName": "BANCO COOPERATIVO SICOOB S.A. – BANCO SICOOB.",
+    "LongName": "BANCO COOPERATIVO SICOOB S.A. - BANCO SICOOB",
     "ShortName": "BANCO SICOOB S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo Cooperativo",
@@ -6440,13 +6440,13 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114457-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3717856+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4702852+00:00"
   },
   {
     "COMPE": "757",
     "ISPB": "02318507",
     "Document": "02.318.507/0001-13",
-    "LongName": "BANCO KEB DO BRASIL S.A.",
+    "LongName": "BANCO KEB HANA DO BRASIL S.A.",
     "ShortName": "BCO KEB HANA DO BRASIL S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
@@ -6459,6 +6459,6 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-08-09 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114464-03:00",
-    "DateUpdated": "2022-06-23T14:53:19.3720308+00:00"
+    "DateUpdated": "2022-06-23T15:03:10.4703025+00:00"
   }
 ]
