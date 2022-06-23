@@ -14,9 +14,9 @@
 
 namespace BancosBrasileiros.MergeTool.Helpers
 {
+    using System;
     using CrispyWaffle.Extensions;
     using Dto;
-    using System;
     using System.Collections.Generic;
     using System.Linq;
 
@@ -59,10 +59,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 missing++;
             }
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nGenerate document | Existing: {existing} | Missing: {missing}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
-
+            Logger.Log($"\r\nGenerate document | Existing: {existing} | Missing: {missing}\r\n", ConsoleColor.DarkYellow);
             return this;
         }
 
@@ -76,9 +73,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var found = 0;
             var notFound = 0;
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("STR\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log("STR\r\n", ConsoleColor.DarkYellow);
 
             foreach (var str in items)
             {
@@ -86,11 +81,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"Adding bank by STR List | {str.Compe} | {str.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    Logger.Log($"Adding bank by STR List | {str.Compe} | {str.LongName}", ConsoleColor.DarkGreen);
 
-                    if (str.Document == null || str.Document.Length != 18)
+                    if (str.Document is not { Length: 18 })
                         str.Document = str.IspbString;
 
                     _source.Add(str);
@@ -100,24 +93,19 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 if (bank.LongName.RemoveDiacritics().Equals(str.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) &&
                     bank.ShortName.RemoveDiacritics().Equals(str.ShortName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"STR | Bank not found: {str.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    bank.LongName = str.LongName;
+                    bank.ShortName = str.ShortName;
+                    bank.DateUpdated = DateTimeOffset.UtcNow;
 
-                    notFound++;
+                    found++;
                     continue;
                 }
 
-                bank.LongName = str.LongName;
-                bank.ShortName = str.ShortName;
-                bank.DateUpdated = DateTimeOffset.UtcNow;
-                found++;
+                Logger.Log($"STR | Bank not found: {str.LongName}", ConsoleColor.DarkRed);
+                notFound++;
             }
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nSTR | Found: {found} | Not found: {notFound}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
-
+            Logger.Log($"\r\nSTR | Found: {found} | Not found: {notFound}\r\n", ConsoleColor.DarkYellow);
             return this;
         }
 
@@ -131,9 +119,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var found = 0;
             var notFound = 0;
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("SITRAF\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log("SITRAF\r\n", ConsoleColor.DarkYellow);
 
             foreach (var sitraf in items)
             {
@@ -141,11 +127,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"Adding bank by SITRAF List | {sitraf.Compe} | {sitraf.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    Logger.Log($"Adding bank by SITRAF List | {sitraf.Compe} | {sitraf.LongName}", ConsoleColor.DarkGreen);
 
-                    if (sitraf.Document == null || sitraf.Document.Length != 18)
+                    if (sitraf.Document is not { Length: 18 })
                         sitraf.Document = sitraf.IspbString;
 
                     _source.Add(sitraf);
@@ -154,9 +138,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank.LongName.RemoveDiacritics().Equals(sitraf.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"SITRAF | Bank not found: {sitraf.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    Logger.Log($"SITRAF | Bank not found: {sitraf.LongName}", ConsoleColor.DarkRed);
 
                     notFound++;
                     continue;
@@ -167,9 +149,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nSITRAF | Found: {found} | Not found: {notFound}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log($"\r\nSITRAF | Found: {found} | Not found: {notFound}\r\n", ConsoleColor.DarkYellow);
 
             return this;
         }
@@ -184,9 +164,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var found = 0;
             var notFound = 0;
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("SLC\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log("SLC\r\n", ConsoleColor.DarkYellow);
 
             foreach (var slc in items)
             {
@@ -205,9 +183,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                     if (ispb == 0 && !slc.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkRed;
-                        Console.WriteLine($"SLC | ISPB nulled: {slc.LongName} | {slc.Document.Trim()}");
-                        Console.ForegroundColor = ConsoleColor.White;
+                        Logger.Log($"SLC | ISPB nulled: {slc.LongName} | {slc.Document.Trim()}", ConsoleColor.DarkRed);
                         continue;
                     }
 
@@ -216,9 +192,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"SLC | Bank not found: {slc.LongName} | {slc.Document.Trim()}");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    Logger.Log($"SLC | Bank not found: {slc.LongName} | {slc.Document.Trim()}", ConsoleColor.DarkRed);
 
                     notFound++;
                     continue;
@@ -233,10 +207,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"SLC | Invalid document {slc.Compe} | {bank.Document} | {slc.Document}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"SLC | Invalid document {slc.Compe} | {bank.Document} | {slc.Document}", ConsoleColor.DarkRed);
                 }
 
                 if (string.IsNullOrWhiteSpace(bank.ShortName))
@@ -248,10 +219,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nSLC | Found: {found} | Not found: {notFound}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
-
+            Logger.Log($"\r\nSLC | Found: {found} | Not found: {notFound}\r\n", ConsoleColor.DarkYellow);
             return this;
         }
 
@@ -266,9 +234,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var upToDate = 0;
             var notFound = 0;
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("SPI\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log("SPI\r\n", ConsoleColor.DarkYellow);
 
             foreach (var spi in items)
             {
@@ -281,9 +247,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"SPI | PSP not found: {spi.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    Logger.Log($"SPI | PSP not found: {spi.LongName}", ConsoleColor.DarkRed);
 
                     notFound++;
                     continue;
@@ -294,9 +258,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     bank.DatePixStarted != null &&
                     bank.DatePixStarted.Equals(spi.DatePixStarted))
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"SPI | PSP updated: {spi.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
+                    Logger.Log($"SPI | PSP updated: {spi.LongName}", ConsoleColor.DarkGreen);
 
                     upToDate++;
                     continue;
@@ -309,9 +271,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nSPI | Found: {found} | Not found: {notFound} | Up to Date: {upToDate}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log($"\r\nSPI | Found: {found} | Not found: {notFound} | Up to Date: {upToDate}\r\n", ConsoleColor.DarkYellow);
 
             return this;
         }
@@ -327,9 +287,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var upToDate = 0;
             var notFound = 0;
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("CTC\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log("CTC\r\n", ConsoleColor.DarkYellow);
 
             foreach (var ctc in items)
             {
@@ -348,9 +306,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                     if (ispb == 0 && !ctc.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkRed;
-                        Console.WriteLine($"CTC | ISPB nulled: {ctc.LongName} | {ctc.Document.Trim()}");
-                        Console.ForegroundColor = ConsoleColor.White;
+                        Logger.Log($"CTC | ISPB nulled: {ctc.LongName} | {ctc.Document.Trim()}", ConsoleColor.DarkRed);
                         continue;
                     }
 
@@ -359,10 +315,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"CTC | Bank not found: {ctc.LongName} | {ctc.Document.Trim()}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"CTC | Bank not found: {ctc.LongName} | {ctc.Document.Trim()}", ConsoleColor.DarkRed);
                     notFound++;
                     continue;
                 }
@@ -376,32 +329,23 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"CTC | Invalid document {ctc.Compe} | {bank.Document} | {ctc.Document}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"CTC | Invalid document {ctc.Compe} | {bank.Document} | {ctc.Document}", ConsoleColor.DarkRed);
                 }
 
-                if (bank.Products != null && bank.Products.Equals(ctc.Products))
+                if (bank.Products != null && !bank.Products.Except(ctc.Products).Any())
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"CTC | Products updated: {ctc.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"CTC | Products updated: {ctc.LongName}", ConsoleColor.DarkGreen);
                     upToDate++;
                     continue;
                 }
 
                 bank.Products = ctc.Products;
-                bank.DateUpdated = DateTimeOffset.Now;
+                bank.DateUpdated = DateTimeOffset.UtcNow;
 
                 found++;
             }
-            
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nCTC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
 
+            Logger.Log($"\r\nCTC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n", ConsoleColor.DarkYellow);
             return this;
         }
 
@@ -416,9 +360,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var upToDate = 0;
             var notFound = 0;
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("SILOC\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log("SILOC\r\n", ConsoleColor.DarkYellow);
 
             foreach (var siloc in items)
             {
@@ -433,10 +375,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"SILOC | Bank not found: {siloc.LongName} | {siloc.Document.Trim()}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"SILOC | Bank not found: {siloc.LongName} | {siloc.Document.Trim()}", ConsoleColor.DarkRed);
                     notFound++;
                     continue;
                 }
@@ -450,34 +389,25 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"SILOC | Invalid document {siloc.Compe} | {bank.Document} | {siloc.Document}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"SILOC | Invalid document {siloc.Compe} | {bank.Document} | {siloc.Document}", ConsoleColor.DarkRed);
                 }
 
-                if (bank.Charge != null && bank.Charge.Equals(siloc.Charge) && 
+                if (bank.Charge != null && bank.Charge.Equals(siloc.Charge) &&
                     bank.CreditDocument != null && bank.CreditDocument.Equals(siloc.CreditDocument))
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"SILOC | COB/DOC updated: {siloc.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"SILOC | COB/DOC updated: {siloc.LongName}",ConsoleColor.DarkGreen);
                     upToDate++;
                     continue;
                 }
 
                 bank.Charge = siloc.Charge;
                 bank.CreditDocument = siloc.CreditDocument;
-                bank.DateUpdated = DateTimeOffset.Now;
+                bank.DateUpdated = DateTimeOffset.UtcNow;
 
                 found++;
             }
-
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nSILOC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
-
+            
+            Logger.Log($"\r\nSILOC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n", ConsoleColor.DarkYellow);
             return this;
         }
 
@@ -491,10 +421,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var found = 0;
             var upToDate = 0;
             var notFound = 0;
-
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine("PCPS\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            
+            Logger.Log("PCPS\r\n", ConsoleColor.DarkYellow);
 
             foreach (var pcps in items)
             {
@@ -513,9 +441,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                     if (ispb == 0 && !pcps.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
                     {
-                        Console.ForegroundColor = ConsoleColor.DarkRed;
-                        Console.WriteLine($"PCPS | ISPB nulled: {pcps.LongName} | {pcps.Document.Trim()}");
-                        Console.ForegroundColor = ConsoleColor.White;
+                        Logger.Log($"PCPS | ISPB nulled: {pcps.LongName} | {pcps.Document.Trim()}", ConsoleColor.DarkRed);
                         continue;
                     }
 
@@ -524,10 +450,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"PCPS | Bank not found: {pcps.LongName} | {pcps.Document.Trim()}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"PCPS | Bank not found: {pcps.LongName} | {pcps.Document.Trim()}", ConsoleColor.DarkRed);
                     notFound++;
                     continue;
                 }
@@ -541,31 +464,23 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                    Console.WriteLine($"SILOC | Invalid document {pcps.Compe} | {bank.Document} | {pcps.Document}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"SILOC | Invalid document {pcps.Compe} | {bank.Document} | {pcps.Document}", ConsoleColor.DarkRed);
                 }
 
                 if (bank.SalaryPortability != null && bank.SalaryPortability.Equals(pcps.SalaryPortability))
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine($"SILOC | Salary portability updated: {pcps.LongName}");
-                    Console.ForegroundColor = ConsoleColor.White;
-
+                    Logger.Log($"PCPS | Salary portability updated: {pcps.LongName}", ConsoleColor.DarkGreen);
                     upToDate++;
                     continue;
                 }
 
                 bank.SalaryPortability = pcps.SalaryPortability;
-                bank.DateUpdated = DateTimeOffset.Now;
+                bank.DateUpdated = DateTimeOffset.UtcNow;
 
                 found++;
             }
 
-            Console.ForegroundColor = ConsoleColor.DarkYellow;
-            Console.WriteLine($"\r\nPCPS | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n");
-            Console.ForegroundColor = ConsoleColor.White;
+            Logger.Log($"\r\nPCPS | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n", ConsoleColor.DarkYellow);
         }
     }
 }
