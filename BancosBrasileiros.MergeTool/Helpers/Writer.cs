@@ -43,18 +43,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         }
 
         /// <summary>
-        /// Writes the pull request.
-        /// </summary>
-        /// <param name="pullRequest">The pull request.</param>
-        public static void WritePullRequest(string pullRequest)
-        {
-            if (!Directory.Exists("result"))
-                Directory.CreateDirectory("result");
-
-            File.WriteAllText($"result{Path.DirectorySeparatorChar}pullRequest.txt", pullRequest);
-        }
-
-        /// <summary>
         /// Saves the specified banks.
         /// </summary>
         /// <param name="banks">The banks.</param>
