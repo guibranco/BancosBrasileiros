@@ -48,7 +48,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var bank in _source)
             {
-                if (bank.Document != null && bank.Document.Length == 18)
+                if (bank.Document is { Length: 18 })
                 {
                     existing++;
                     continue;
@@ -486,7 +486,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="items">The items.</param>
         /// <returns>Seeder.</returns>
-        public Seeder SeedPcps(IEnumerable<Bank> items)
+        public void SeedPcps(IEnumerable<Bank> items)
         {
             var found = 0;
             var upToDate = 0;
@@ -566,8 +566,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
             Console.ForegroundColor = ConsoleColor.DarkYellow;
             Console.WriteLine($"\r\nPCPS | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n");
             Console.ForegroundColor = ConsoleColor.White;
-
-            return this;
         }
     }
 }
