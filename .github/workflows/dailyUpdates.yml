@@ -41,27 +41,20 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: bankFiles
-          path: ~/BancosBrasileiros.MergeTool/result/bancos.*
+          path: ~/BancosBrasileiros.MergeTool\result\bancos.*
      
       - name: Upload changelog file
         uses: actions/upload-artifact@v3
         with:
           name: changeLogFile
-          path: ~/BancosBrasileiros.MergeTool/result/CHANGELOG.md
+          path: ~/BancosBrasileiros\.MergeTool/result/CHANGELOG.md
            
       - name: Upload test
         uses: actions/upload-artifact@v3
         with:
-          name:  testFiles
-          path: ~/BancosBrasileiros.MergeTool/*.*
+          name: testFiles
+          path: /**/*
           
-      - name: Update self
-        uses: actions/upload-artifact@v3
-        with:
-          name:  allFiles
-          path: ~/BancosBrasileiros.MergeTool/**/*
-          
-           
   publish:
     runs-on: ubuntu-latest
     needs: build
