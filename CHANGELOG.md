@@ -6,7 +6,7 @@
 
 ### 2022-06-23 - [@guibranco](https://github.com/guibranco):
 
-- Added new fields to files
+- Added new fields to files (release V4)
 
 
 ### 2022-04-21 - [@guibranco](https://github.com/guibranco):
