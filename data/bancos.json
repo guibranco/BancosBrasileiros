@@ -751,8 +751,8 @@
     "COMPE": "079",
     "ISPB": "09516419",
     "Document": "09.516.419/0001-75",
-    "LongName": "Banco Original do Agronegócio S.A.",
-    "ShortName": "BCO ORIGINAL DO AGRO S/A",
+    "LongName": "PICPAY BANK - BANCO MÚLTIPLO S.A",
+    "ShortName": "PICPAY BANK - BANCO MÚLTIPLO S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": null,
@@ -764,7 +764,7 @@
     "DateOperationStarted": "2008-07-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114694-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114696-03:00"
+    "DateUpdated": "2022-07-07T12:06:14.8083896+00:00"
   },
   {
     "COMPE": "080",
@@ -2623,8 +2623,8 @@
     "COMPE": "270",
     "ISPB": "61444949",
     "Document": "61.444.949/0001-75",
-    "LongName": "Sagitur Corretora de Câmbio Ltda.",
-    "ShortName": "SAGITUR CC LTDA",
+    "LongName": "SAGITUR CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "SAGITOR CORRETORA DE CÂMBIO",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -2636,7 +2636,7 @@
     "DateOperationStarted": "2018-08-01",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115302-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115304-03:00"
+    "DateUpdated": "2022-07-07T12:06:14.8104742+00:00"
   },
   {
     "COMPE": "271",
@@ -3548,8 +3548,8 @@
     "COMPE": "340",
     "ISPB": "09554480",
     "Document": "09.554.480/0001-07",
-    "LongName": "Super Pagamentos e Administração de Meios Eletrônicos S.A.",
-    "ShortName": "SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A.",
+    "LongName": "SUPERDIGITAL INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "SUPERDIGITAL I.P. S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3561,7 +3561,7 @@
     "DateOperationStarted": "2019-09-25",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114697-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114699-03:00"
+    "DateUpdated": "2022-07-07T12:06:14.8084022+00:00"
   },
   {
     "COMPE": "341",

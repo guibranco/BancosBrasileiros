@@ -593,14 +593,14 @@
     <COMPE>079</COMPE>
     <ISPB>09516419</ISPB>
     <Document>09.516.419/0001-75</Document>
-    <LongName>Banco Original do Agronegócio S.A.</LongName>
-    <ShortName>BCO ORIGINAL DO AGRO S/A</ShortName>
+    <LongName>PICPAY BANK - BANCO MÚLTIPLO S.A</LongName>
+    <ShortName>PICPAY BANK - BANCO MÚLTIPLO S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Url>https://www.bancooriginal.com.br</Url>
     <DateOperationStarted>2008-07-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114694-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114696-03:00</DateUpdated>
+    <DateUpdated>2022-07-07T12:06:14.8083896Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>080</COMPE>
@@ -1941,12 +1941,12 @@
     <COMPE>270</COMPE>
     <ISPB>61444949</ISPB>
     <Document>61.444.949/0001-75</Document>
-    <LongName>Sagitur Corretora de Câmbio Ltda.</LongName>
-    <ShortName>SAGITUR CC LTDA</ShortName>
+    <LongName>SAGITUR CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>SAGITOR CORRETORA DE CÂMBIO</ShortName>
     <Network>Internet</Network>
     <DateOperationStarted>2018-08-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115302-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115304-03:00</DateUpdated>
+    <DateUpdated>2022-07-07T12:06:14.8104742Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>271</COMPE>
@@ -2568,14 +2568,14 @@
     <COMPE>340</COMPE>
     <ISPB>09554480</ISPB>
     <Document>09.554.480/0001-07</Document>
-    <LongName>Super Pagamentos e Administração de Meios Eletrônicos S.A.</LongName>
-    <ShortName>SUPER PAGAMENTOS E ADMINISTRACAO DE MEIOS ELETRONICOS S.A.</ShortName>
+    <LongName>SUPERDIGITAL INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>SUPERDIGITAL I.P. S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <DateOperationStarted>2019-09-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114697-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114699-03:00</DateUpdated>
+    <DateUpdated>2022-07-07T12:06:14.8084022Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>341</COMPE>
