@@ -3890,6 +3890,17 @@
     <DateUpdated>2022-03-16T07:58:41.113664Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>471</COMPE>
+    <ISPB>04831810</ISPB>
+    <Document>04.831.810/0001-40</Document>
+    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES</LongName>
+    <ShortName>CECM SERV PUBL PINHÃO</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2022-07-18</DateOperationStarted>
+    <DateRegistered>2022-07-14T12:06:01.0960677Z</DateRegistered>
+    <DateUpdated>2022-07-14T12:06:01.0960678Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>473</COMPE>
     <ISPB>33466988</ISPB>
     <Document>33.466.988/0001-38</Document>

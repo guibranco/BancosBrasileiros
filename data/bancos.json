@@ -5549,6 +5549,25 @@
     "DateUpdated": "2022-03-16T07:58:41.113664+00:00"
   },
   {
+    "COMPE": "471",
+    "ISPB": "04831810",
+    "Document": "04.831.810/0001-40",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES",
+    "ShortName": "CECM SERV PUBL PINHÃO",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-07-18",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-07-14T12:06:01.0960677+00:00",
+    "DateUpdated": "2022-07-14T12:06:01.0960678+00:00"
+  },
+  {
     "COMPE": "473",
     "ISPB": "33466988",
     "Document": "33.466.988/0001-38",
