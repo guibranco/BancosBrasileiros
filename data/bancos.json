@@ -5650,6 +5650,25 @@
     "DateUpdated": "2021-05-21T23:01:28.1603338-03:00"
   },
   {
+    "COMPE": "484",
+    "ISPB": "36864992",
+    "Document": "36.864.992/0001-42",
+    "LongName": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "MAF DTVM SA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-07-20",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-07-16T12:07:46.2417741+00:00",
+    "DateUpdated": "2022-07-16T12:07:46.2417743+00:00"
+  },
+  {
     "COMPE": "487",
     "ISPB": "62331228",
     "Document": "62.331.228/0001-11",
