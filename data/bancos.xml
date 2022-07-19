@@ -3493,8 +3493,8 @@
     <COMPE>428</COMPE>
     <ISPB>39664698</ISPB>
     <Document>39.664.698/0001-85</Document>
-    <LongName>CRED-SYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>CRED-SYSTEM SCD S.A.</ShortName>
+    <LongName>CREDSYSTEM SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>CREDSYSTEM SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>sim</Charge>
@@ -3502,7 +3502,7 @@
     <DateOperationStarted>2021-04-20</DateOperationStarted>
     <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115154-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3646331Z</DateUpdated>
+    <DateUpdated>2022-07-19T12:06:19.3291547Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>429</COMPE>
@@ -4032,6 +4032,17 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115036-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3443935Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>506</COMPE>
+    <ISPB>42066258</ISPB>
+    <Document>42.066.258/0001-30</Document>
+    <LongName>RJI CORRETORA DE TITULOS E VALORES MOBILIARIOS LTDA</LongName>
+    <ShortName>RJI</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2022-07-21</DateOperationStarted>
+    <DateRegistered>2022-07-19T12:06:21.2700855Z</DateRegistered>
+    <DateUpdated>2022-07-19T12:06:21.2700856Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>545</COMPE>
