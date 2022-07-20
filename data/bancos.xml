@@ -4045,6 +4045,17 @@
     <DateUpdated>2022-07-19T12:06:21.2700856Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>512</COMPE>
+    <ISPB>36266751</ISPB>
+    <Document>36.266.751/0001-00</Document>
+    <LongName>CAPTALYS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>CAPTALYS DTVM LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <DateOperationStarted>2022-08-01</DateOperationStarted>
+    <DateRegistered>2022-07-20T12:06:03.4386093Z</DateRegistered>
+    <DateUpdated>2022-07-20T12:06:03.4386094Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>545</COMPE>
     <ISPB>17352220</ISPB>
     <Document>17.352.220/0001-87</Document>

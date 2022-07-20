@@ -5783,6 +5783,25 @@
     "DateUpdated": "2022-07-19T12:06:21.2700856+00:00"
   },
   {
+    "COMPE": "512",
+    "ISPB": "36266751",
+    "Document": "36.266.751/0001-00",
+    "LongName": "CAPTALYS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "CAPTALYS DTVM LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-08-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-07-20T12:06:03.4386093+00:00",
+    "DateUpdated": "2022-07-20T12:06:03.4386094+00:00"
+  },
+  {
     "COMPE": "545",
     "ISPB": "17352220",
     "Document": "17.352.220/0001-87",
