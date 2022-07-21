@@ -71,7 +71,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 "COMPE,ISPB,Document,LongName,ShortName,Network,Type,PixType,Charge,CreditDocument,SalaryPortability,Products,Url,DateOperationStarted,DatePixStarted,DateRegistered,DateUpdated"
             };
 
-            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Type},{bank.PixType},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "" :bank.Charge)},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "" : bank.CreditDocument)},{bank.SalaryPortability}, {(bank.Products == null ? "NULL":string.Join("|", bank.Products))},{bank.Network},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"));
+            lines.AddRange(banks.Select(bank => $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Network},{bank.Type},{bank.PixType},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "" :bank.Charge)},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "" : bank.CreditDocument)},{bank.SalaryPortability}, {(bank.Products == null ? "NULL":string.Join("|", bank.Products))},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"));
 
             File.WriteAllLines($"result{Path.DirectorySeparatorChar}bancos.csv", lines, Encoding.UTF8);
         }
