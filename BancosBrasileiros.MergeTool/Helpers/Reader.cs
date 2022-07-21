@@ -78,6 +78,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             Logger.Log("Downloading base", ConsoleColor.Green);
             var data = DownloadString(Constants.BaseUrl);
+            data = data.Replace("sim", "true").Replace("não", "false");
             return SerializerFactory.GetCustomSerializer<List<Bank>>(SerializerFormat.JSON).Deserialize(data);
         }
 
@@ -242,7 +243,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             if (_countingSlc != code) Logger.Log($"SLC | Counting: {_countingSlc++} | Code: {code}", ConsoleColor.DarkYellow);
 
-            return new Bank
+            return new()
             {
                 Document = match.Groups["cnpj"].Value.Trim(),
                 LongName = match.Groups["nome"].Value.Replace("\"", "").Trim()
@@ -304,13 +305,13 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             var match = Patterns.SilocPattern.Match(line);
 
-            return new Bank
+            return new()
             {
                 Compe = Convert.ToInt32(match.Groups["compe"].Value.Trim()),
                 IspbString = match.Groups["ispb"].Value.Trim(),
                 LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
-                Charge = match.Groups["cobranca"].Value.Trim(),
-                CreditDocument = match.Groups["doc"].Value.Trim()
+                ChargeStr = match.Groups["cobranca"].Value.Trim(),
+                CreditDocumentStr = match.Groups["doc"].Value.Trim()
             };
         }
 
@@ -396,7 +397,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             if (_countingSitraf != code) Logger.Log($"SITRAF | Counting: {_countingSitraf++} | Code: {code}", ConsoleColor.DarkYellow);
             
-            return new Bank
+            return new()
             {
                 Compe = Convert.ToInt32(match.Groups["compe"].Value.Trim()),
                 IspbString = match.Groups["ispb"].Value.Trim(),
@@ -486,7 +487,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             if (_countingCtc != code) Logger.Log($"CTC | Counting: {_countingCtc++} | Code: {code}", ConsoleColor.DarkYellow);
 
-            return new Bank
+            return new()
             {
                 Document = match.Groups["cnpj"].Value.Trim(),
                 IspbString = match.Groups["ispb"].Value.Trim(),
@@ -577,7 +578,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             if (_countingPcps != code) Logger.Log($"PCPS | Counting: {_countingPcps++} | Code: {code}", ConsoleColor.DarkYellow);
 
-            return new Bank
+            return new()
             {
                 Document = match.Groups["cnpj"].Value.Trim(),
                 IspbString = match.Groups["ispb"].Value.Trim(),

@@ -161,7 +161,27 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <value>The charge.</value>
         [JsonProperty("Charge")]
         [XmlElement("Charge")]
-        public string Charge { get; set; }
+        public bool? Charge
+        {
+            get => string.IsNullOrWhiteSpace(ChargeStr)
+                ? null
+                : ChargeStr.Equals("sim", StringComparison.InvariantCultureIgnoreCase);
+            set
+            {
+                if (value == null)
+                    return;
+
+                ChargeStr = value.Value ? "sim" : "não";
+            }
+        }
+
+        /// <summary>
+        /// Gets or sets the charge string.
+        /// </summary>
+        /// <value>The charge string.</value>
+        [JsonIgnore]
+        [XmlIgnore]
+        public string ChargeStr { get; set; }
 
         /// <summary>
         /// Gets or sets the credit document.
@@ -169,7 +189,27 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <value>The credit document.</value>
         [JsonProperty("CreditDocument")]
         [XmlElement("CreditDocument")]
-        public string CreditDocument { get; set; }
+        public bool? CreditDocument
+        {
+            get => string.IsNullOrWhiteSpace(CreditDocumentStr)
+                ? null
+                : CreditDocumentStr.Equals("sim", StringComparison.InvariantCultureIgnoreCase);
+            set
+            {
+                if (value == null)
+                    return;
+
+                CreditDocumentStr = value.Value ? "sim" : "não";
+            }
+        }
+
+        /// <summary>
+        /// Gets or sets the credit document string.
+        /// </summary>
+        /// <value>The credit document string.</value>
+        [JsonIgnore]
+        [XmlIgnore]
+        public string CreditDocumentStr { get; set; }
 
         /// <summary>
         /// Gets or sets the salary portability.
@@ -184,7 +224,8 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// </summary>
         /// <value>The products.</value>
         [JsonProperty("Products")]
-        [XmlElement("Products")]
+        [XmlArray("Products")]
+        [XmlArrayItem("Product")]
         public string[] Products { get; set; }
 
         /// <summary>
@@ -258,13 +299,14 @@ namespace BancosBrasileiros.MergeTool.Dto
 
             return string.Equals(_document, other._document, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(_url, other._url, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(Charge, other.Charge, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(ChargeStr, other.ChargeStr, StringComparison.InvariantCultureIgnoreCase) &&
                    Compe == other.Compe &&
-                   string.Equals(CreditDocument, other.CreditDocument, StringComparison.InvariantCultureIgnoreCase) &&
+                   string.Equals(CreditDocumentStr, other.CreditDocumentStr, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
                    Nullable.Equals(DateRegistered, other.DateRegistered) &&
-                   Nullable.Equals(DateUpdated, other.DateUpdated) && Ispb == other.Ispb &&
+                   Nullable.Equals(DateUpdated, other.DateUpdated) &&
+                   Ispb == other.Ispb &&
                    string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) &&
@@ -296,25 +338,29 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// <returns>A hash code for the current object.</returns>
         public override int GetHashCode()
         {
-            var hashCode = new HashCode();
-            hashCode.Add(_document ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(_url ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Charge ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Compe);
-            hashCode.Add(CreditDocument ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(DateRegistered);
-            hashCode.Add(DateUpdated);
-            hashCode.Add(Ispb);
-            hashCode.Add(LongName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Network ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(PixType ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Products);
-            hashCode.Add(SalaryPortability ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(ShortName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            hashCode.Add(Type ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-            return hashCode.ToHashCode();
+            unchecked
+            {
+                var hashCode = new HashCode();
+                hashCode.Add(_document ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(_url ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(ChargeStr ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(Compe);
+                hashCode.Add(CreditDocumentStr ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(DateRegistered);
+                hashCode.Add(DateUpdated);
+                hashCode.Add(Ispb);
+                hashCode.Add(LongName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(Network ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(PixType ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(Products);
+                hashCode.Add(SalaryPortability ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(ShortName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(Type ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+
+                return hashCode.ToHashCode();
+            }
         }
 
         /// <summary>
@@ -345,6 +391,18 @@ namespace BancosBrasileiros.MergeTool.Dto
 
             if (!string.IsNullOrWhiteSpace(PixType))
                 strBuilder.AppendFormat("PIX type: {0} | ", PixType);
+
+            if (Charge.HasValue)
+                strBuilder.AppendFormat("Charge: {0} | ", Charge);
+
+            if (CreditDocument.HasValue)
+                strBuilder.AppendFormat("Credit document: {0} | ", CreditDocument);
+
+            if (!string.IsNullOrWhiteSpace(SalaryPortability))
+                strBuilder.AppendFormat("Salary portability: {0} | ", SalaryPortability);
+
+            if (Products != null)
+                strBuilder.AppendFormat("Products: {0} | ", string.Join(",", Products));
 
             if (!string.IsNullOrWhiteSpace(DateOperationStarted))
                 strBuilder.AppendFormat("Date operation started: {0} | ", DateOperationStarted);
