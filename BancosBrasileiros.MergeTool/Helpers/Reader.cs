@@ -78,7 +78,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             Logger.Log("Downloading base", ConsoleColor.Green);
             var data = DownloadString(Constants.BaseUrl);
-            data = data.Replace("sim", "true").Replace("não", "false");
             return SerializerFactory.GetCustomSerializer<List<Bank>>(SerializerFormat.JSON).Deserialize(data);
         }
 
