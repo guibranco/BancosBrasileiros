@@ -117,8 +117,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         public Seeder SeedSitraf(IEnumerable<Bank> items)
         {
             var updated = 0;
-            var nameFixed = 0;
-            var notFound = 0;
+            var nameDifferent = 0;
 
             Logger.Log("SITRAF\r\n", ConsoleColor.DarkYellow);
 
@@ -137,29 +136,17 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     bank = sitraf;
                 }
 
-
-                if (bank.LongName.RemoveDiacritics().Equals(sitraf.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
+                if (!bank.LongName.RemoveDiacritics().Equals(sitraf.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
                 {
-                    Logger.Log($"SITRAF | Bank updated: {sitraf.LongName}", ConsoleColor.DarkGreen);
-                    updated++;
+                    nameDifferent++;
                     continue;
                 }
 
-                if (bank.LongName.RemoveDiacritics().Equals(sitraf.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
-                {
-                    Logger.Log($"SITRAF | Bank not found: {sitraf.LongName}", ConsoleColor.DarkRed);
-
-                    notFound++;
-                    continue;
-                }
-
-                Logger.Log($"SITRAF | Bank with name different: {bank.LongName} <-> {sitraf.LongName}", ConsoleColor.DarkYellow);
-                bank.LongName = sitraf.LongName;
-                bank.DateUpdated = DateTimeOffset.UtcNow;
-                nameFixed++;
+                Logger.Log($"SITRAF | Bank updated: {sitraf.LongName}", ConsoleColor.DarkGreen);
+                updated++;
             }
 
-            Logger.Log($"\r\nSTR | Updated: {updated} | Fixed: {nameFixed} | Not found: {notFound}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log($"\r\nSTR | Updated: {updated} | Name different: {nameDifferent}\r\n", ConsoleColor.DarkYellow);
 
             return this;
         }
