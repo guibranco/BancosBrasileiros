@@ -2723,8 +2723,8 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado"
@@ -2733,7 +2733,7 @@
     "DateOperationStarted": "2018-06-12",
     "DatePixStarted": "2021-04-16 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114792-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528722+00:00"
+    "DateUpdated": "2022-07-27T12:06:28.7958806+00:00"
   },
   {
     "COMPE": "278",
@@ -4855,8 +4855,8 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -4868,7 +4868,7 @@
     "DateOperationStarted": "2021-07-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-08-02T11:56:55.6601087-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2335853+00:00"
+    "DateUpdated": "2022-07-27T12:06:28.7956742+00:00"
   },
   {
     "COMPE": "426",

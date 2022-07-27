@@ -2220,15 +2220,15 @@
     <ShortName>BCO SENFF S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <Products>
       <Product>Consignado</Product>
     </Products>
     <DateOperationStarted>2018-06-12</DateOperationStarted>
     <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114792-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528722Z</DateUpdated>
+    <DateUpdated>2022-07-27T12:06:28.7958806Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>278</COMPE>
@@ -3874,8 +3874,8 @@
     <LongName>SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>SOCINAL S.A. CFI</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -3884,7 +3884,7 @@
     </Products>
     <DateOperationStarted>2021-07-27</DateOperationStarted>
     <DateRegistered>2021-08-02T11:56:55.6601087-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2335853Z</DateUpdated>
+    <DateUpdated>2022-07-27T12:06:28.7956742Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>426</COMPE>
