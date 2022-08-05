@@ -851,7 +851,7 @@
     "ISPB": "02398976",
     "Document": "02.398.976/0001-90",
     "LongName": "UNIPRIME DO BRASIL - COOPERATIVA DE CRÉDITO",
-    "ShortName": "UNIPRIME DO BRASIL - CC LTDA.",
+    "ShortName": "UNIPRIME DO BRASIL - COOP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -866,7 +866,7 @@
     "DateOperationStarted": "2009-11-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114472-03:00",
-    "DateUpdated": "2022-07-30T12:05:39.0437344+00:00"
+    "DateUpdated": "2022-08-05T12:06:01.5903749+00:00"
   },
   {
     "COMPE": "085",
@@ -5514,8 +5514,8 @@
     "COMPE": "469",
     "ISPB": "07138049",
     "Document": "07.138.049/0001-54",
-    "LongName": "J&F DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "J&F DTVM",
+    "LongName": "LIGA INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "LIGA INVEST DTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -5527,7 +5527,7 @@
     "DateOperationStarted": "2022-03-09",
     "DatePixStarted": null,
     "DateRegistered": "2022-03-16T07:58:41.113663+00:00",
-    "DateUpdated": "2022-06-23T13:48:13.5173146+00:00"
+    "DateUpdated": "2022-08-05T12:06:01.5908103+00:00"
   },
   {
     "COMPE": "470",
