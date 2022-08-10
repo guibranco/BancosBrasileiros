@@ -4999,16 +4999,16 @@
     "ShortName": "DELCRED SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-08-27",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-08-23 10:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926615-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3654094+00:00"
+    "DateUpdated": "2022-08-10T12:06:36.5859495+00:00"
   },
   {
     "COMPE": "438",

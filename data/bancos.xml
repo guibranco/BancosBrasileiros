@@ -3985,11 +3985,13 @@
     <LongName>DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>DELCRED SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
+    <DatePixStarted>2022-08-23 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926615-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3654094Z</DateUpdated>
+    <DateUpdated>2022-08-10T12:06:36.5859495Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>438</COMPE>
