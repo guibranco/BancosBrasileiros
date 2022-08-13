@@ -3704,14 +3704,14 @@
     <COMPE>410</COMPE>
     <ISPB>05684234</ISPB>
     <Document>05.684.234/0001-19</Document>
-    <LongName>PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <LongName>PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.</LongName>
     <ShortName>PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2022-08-12T12:33:55.1165065Z</DateUpdated>
+    <DateUpdated>2022-08-13T12:30:33.6344566Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
@@ -4553,6 +4553,19 @@
     <DateOperationStarted>2022-07-21</DateOperationStarted>
     <DateRegistered>2022-07-19T12:06:21.2700855Z</DateRegistered>
     <DateUpdated>2022-07-19T12:06:21.2700856Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>508</COMPE>
+    <ISPB>61384004</ISPB>
+    <Document>61.384.004/0001-05</Document>
+    <LongName>AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>AVENUE SECURITIES DTVM LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-08-18</DateOperationStarted>
+    <DateRegistered>2022-08-13T12:30:35.4201882Z</DateRegistered>
+    <DateUpdated>2022-08-13T12:30:35.4201883Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>512</COMPE>
