@@ -3705,13 +3705,13 @@
     <ISPB>05684234</ISPB>
     <Document>05.684.234/0001-19</Document>
     <LongName>PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.</LongName>
-    <ShortName>PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.</ShortName>
+    <ShortName>PLANNER SCM S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2022-08-13T12:30:33.6344566Z</DateUpdated>
+    <DateUpdated>2022-08-16T12:32:55.8145459Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
@@ -4566,6 +4566,19 @@
     <DateOperationStarted>2022-08-18</DateOperationStarted>
     <DateRegistered>2022-08-13T12:30:35.4201882Z</DateRegistered>
     <DateUpdated>2022-08-13T12:30:35.4201883Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>511</COMPE>
+    <ISPB>44683140</ISPB>
+    <Document>44.683.140/0001-87</Document>
+    <LongName>MAGNUM SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>MAGNUM SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-08-22</DateOperationStarted>
+    <DateRegistered>2022-08-16T12:32:57.3964844Z</DateRegistered>
+    <DateUpdated>2022-08-16T12:32:57.3964848Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>512</COMPE>

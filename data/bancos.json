@@ -4634,7 +4634,7 @@
     "ISPB": "05684234",
     "Document": "05.684.234/0001-19",
     "LongName": "PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.",
-    "ShortName": "PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "PLANNER SCM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -4646,7 +4646,7 @@
     "DateOperationStarted": "2021-02-17",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114594-03:00",
-    "DateUpdated": "2022-08-13T12:30:33.6344566+00:00"
+    "DateUpdated": "2022-08-16T12:32:55.8145459+00:00"
   },
   {
     "COMPE": "411",
@@ -5800,6 +5800,25 @@
     "DatePixStarted": null,
     "DateRegistered": "2022-08-13T12:30:35.4201882+00:00",
     "DateUpdated": "2022-08-13T12:30:35.4201883+00:00"
+  },
+  {
+    "COMPE": "511",
+    "ISPB": "44683140",
+    "Document": "44.683.140/0001-87",
+    "LongName": "MAGNUM SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "MAGNUM SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-08-22",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-08-16T12:32:57.3964844+00:00",
+    "DateUpdated": "2022-08-16T12:32:57.3964848+00:00"
   },
   {
     "COMPE": "512",
