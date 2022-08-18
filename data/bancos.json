@@ -2707,12 +2707,16 @@
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Outros Créditos",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
+    ],
     "Url": null,
     "DateOperationStarted": "2019-09-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114738-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.40113+00:00"
+    "DateUpdated": "2022-08-18T12:38:43.5405311+00:00"
   },
   {
     "COMPE": "276",
