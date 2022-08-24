@@ -3165,12 +3165,14 @@
     <ShortName>BCO CSF S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
+    <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3445854Z</DateUpdated>
+    <DateUpdated>2022-08-24T12:36:19.0352572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>370</COMPE>
@@ -4002,14 +4004,14 @@
     <COMPE>438</COMPE>
     <ISPB>67030395</ISPB>
     <Document>67.030.395/0001-46</Document>
-    <LongName>PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <LongName>TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
     <ShortName>PLANNER TRUSTEE DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-04</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115365-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115405-03:00</DateUpdated>
+    <DateUpdated>2022-08-24T12:36:18.3634725Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>439</COMPE>
@@ -4458,6 +4460,19 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115247-03:00</DateRegistered>
     <DateUpdated>2021-05-21T23:01:28.1603338-03:00</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>481</COMPE>
+    <ISPB>43599047</ISPB>
+    <Document>43.599.047/0001-26</Document>
+    <LongName>SUPERLÓGICA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SUPERLÓGICA SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-08-29</DateOperationStarted>
+    <DateRegistered>2022-08-24T12:36:20.0513082Z</DateRegistered>
+    <DateUpdated>2022-08-24T12:36:20.0513082Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>484</COMPE>

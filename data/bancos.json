@@ -3942,16 +3942,16 @@
     "ShortName": "BCO CSF S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.carrefoursolucoes.com.br",
     "DateOperationStarted": "2020-05-25",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-10-31 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114653-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3445854+00:00"
+    "DateUpdated": "2022-08-24T12:36:19.0352572+00:00"
   },
   {
     "COMPE": "370",
@@ -5018,7 +5018,7 @@
     "COMPE": "438",
     "ISPB": "67030395",
     "Document": "67.030.395/0001-46",
-    "LongName": "PLANNER TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "LongName": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
     "ShortName": "PLANNER TRUSTEE DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -5031,7 +5031,7 @@
     "DateOperationStarted": "2021-05-04",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115365-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115405-03:00"
+    "DateUpdated": "2022-08-24T12:36:18.3634725+00:00"
   },
   {
     "COMPE": "439",
@@ -5652,6 +5652,25 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115247-03:00",
     "DateUpdated": "2021-05-21T23:01:28.1603338-03:00"
+  },
+  {
+    "COMPE": "481",
+    "ISPB": "43599047",
+    "Document": "43.599.047/0001-26",
+    "LongName": "SUPERLÓGICA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "SUPERLÓGICA SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-08-29",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-08-24T12:36:20.0513082+00:00",
+    "DateUpdated": "2022-08-24T12:36:20.0513082+00:00"
   },
   {
     "COMPE": "484",
