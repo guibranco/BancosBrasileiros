@@ -4005,13 +4005,13 @@
     <ISPB>67030395</ISPB>
     <Document>67.030.395/0001-46</Document>
     <LongName>TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>PLANNER TRUSTEE DTVM LTDA</ShortName>
+    <ShortName>TRUSTEE DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-04</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115365-03:00</DateRegistered>
-    <DateUpdated>2022-08-24T12:36:18.3634725Z</DateUpdated>
+    <DateUpdated>2022-08-25T12:36:48.5303514Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>439</COMPE>
