@@ -4509,15 +4509,15 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-05-06",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114851-03:00",
-    "DateUpdated": "2021-06-22T10:03:33.0665523-03:00"
+    "DateUpdated": "2022-08-31T12:06:42.9463093+00:00"
   },
   {
     "COMPE": "402",
@@ -4681,16 +4681,16 @@
     "ShortName": "SOCIAL BANK S/A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancocapital.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-09-01 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114859-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3430512+00:00"
+    "DateUpdated": "2022-08-31T12:06:41.9713736+00:00"
   },
   {
     "COMPE": "413",
