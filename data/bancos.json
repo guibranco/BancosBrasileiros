@@ -5591,6 +5591,27 @@
     "DateUpdated": "2021-05-05T09:11:12.7115074-03:00"
   },
   {
+    "COMPE": "475",
+    "ISPB": "10371492",
+    "Document": "10.371.492/0001-85",
+    "LongName": "Banco Yamaha Motor do Brasil S.A.",
+    "ShortName": "BCO YAMAHA MOTOR S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": [
+      "Veículos"
+    ],
+    "Url": null,
+    "DateOperationStarted": "2022-09-05",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-09-02T12:07:04.257303+00:00",
+    "DateUpdated": "2022-09-02T12:07:03.474729+00:00"
+  },
+  {
     "COMPE": "477",
     "ISPB": "33042953",
     "Document": "33.042.953/0001-71",

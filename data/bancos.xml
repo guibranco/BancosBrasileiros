@@ -4415,6 +4415,22 @@
     <DateUpdated>2021-05-05T09:11:12.7115074-03:00</DateUpdated>
   </bank>
   <bank>
+    <COMPE>475</COMPE>
+    <ISPB>10371492</ISPB>
+    <Document>10.371.492/0001-85</Document>
+    <LongName>Banco Yamaha Motor do Brasil S.A.</LongName>
+    <ShortName>BCO YAMAHA MOTOR S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Veículos</Product>
+    </Products>
+    <DateOperationStarted>2022-09-05</DateOperationStarted>
+    <DateRegistered>2022-09-02T12:07:04.257303Z</DateRegistered>
+    <DateUpdated>2022-09-02T12:07:03.474729Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>477</COMPE>
     <ISPB>33042953</ISPB>
     <Document>33.042.953/0001-71</Document>
