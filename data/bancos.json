@@ -2762,8 +2762,8 @@
     "COMPE": "279",
     "ISPB": "26563270",
     "Document": "26.563.270/0001-02",
-    "LongName": "COOPERATIVA DE CREDITO RURAL DE PRIMAVERA DO LESTE",
-    "ShortName": "CCR DE PRIMAVERA DO LESTE",
+    "LongName": "PRIMACREDI COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE",
+    "ShortName": "COOP DE PRIMAVERA DO LESTE",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -2775,7 +2775,7 @@
     "DateOperationStarted": "2018-06-05",
     "DatePixStarted": "2022-04-04 14:48:55",
     "DateRegistered": "2021-05-05T09:11:12.711496-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3693738+00:00"
+    "DateUpdated": "2022-09-06T12:06:45.251499+00:00"
   },
   {
     "COMPE": "280",
@@ -3980,16 +3980,16 @@
     "ShortName": "WARREN CVMC LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-05-13",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-11-14 12:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115489-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115491-03:00"
+    "DateUpdated": "2022-09-06T12:06:46.3133882+00:00"
   },
   {
     "COMPE": "373",

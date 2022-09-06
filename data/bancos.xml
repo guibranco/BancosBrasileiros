@@ -2252,8 +2252,8 @@
     <COMPE>279</COMPE>
     <ISPB>26563270</ISPB>
     <Document>26.563.270/0001-02</Document>
-    <LongName>COOPERATIVA DE CREDITO RURAL DE PRIMAVERA DO LESTE</LongName>
-    <ShortName>CCR DE PRIMAVERA DO LESTE</ShortName>
+    <LongName>PRIMACREDI COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE</LongName>
+    <ShortName>COOP DE PRIMAVERA DO LESTE</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge>false</Charge>
@@ -2262,7 +2262,7 @@
     <DateOperationStarted>2018-06-05</DateOperationStarted>
     <DatePixStarted>2022-04-04 14:48:55</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711496-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3693738Z</DateUpdated>
+    <DateUpdated>2022-09-06T12:06:45.251499Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>280</COMPE>
@@ -3196,11 +3196,13 @@
     <LongName>WARREN CORRETORA DE VALORES MOBILIÁRIOS E CÂMBIO LTDA.</LongName>
     <ShortName>WARREN CVMC LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-05-13</DateOperationStarted>
+    <DatePixStarted>2022-11-14 12:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115489-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115491-03:00</DateUpdated>
+    <DateUpdated>2022-09-06T12:06:46.3133882Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>373</COMPE>
