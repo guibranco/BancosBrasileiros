@@ -3713,14 +3713,14 @@
     <COMPE>410</COMPE>
     <ISPB>05684234</ISPB>
     <Document>05.684.234/0001-19</Document>
-    <LongName>PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.</LongName>
+    <LongName>PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>PLANNER SCM S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2022-08-16T12:32:55.8145459Z</DateUpdated>
+    <DateUpdated>2022-09-08T12:06:55.2622204Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
