@@ -4637,7 +4637,7 @@
     "COMPE": "410",
     "ISPB": "05684234",
     "Document": "05.684.234/0001-19",
-    "LongName": "PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "LongName": "PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.",
     "ShortName": "PLANNER SCM S.A.",
     "Network": "RSFN",
     "Type": null,
@@ -4650,7 +4650,7 @@
     "DateOperationStarted": "2021-02-17",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114594-03:00",
-    "DateUpdated": "2022-09-08T12:06:55.2622204+00:00"
+    "DateUpdated": "2022-09-09T12:06:43.8247341+00:00"
   },
   {
     "COMPE": "411",
