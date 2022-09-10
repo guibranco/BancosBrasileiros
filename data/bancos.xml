@@ -3311,14 +3311,14 @@
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.picpay.com.br</Url>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114941-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3712003Z</DateUpdated>
+    <DateUpdated>2022-09-10T12:06:04.1466825Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>381</COMPE>
@@ -3713,14 +3713,14 @@
     <COMPE>410</COMPE>
     <ISPB>05684234</ISPB>
     <Document>05.684.234/0001-19</Document>
-    <LongName>PLANNER SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR S.A.</LongName>
+    <LongName>PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>PLANNER SCM S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2022-09-09T12:06:43.8247341Z</DateUpdated>
+    <DateUpdated>2022-09-10T12:06:02.3519597Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
@@ -4488,11 +4488,11 @@
     <LongName>SUPERLÓGICA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>SUPERLÓGICA SCD S.A.</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2022-08-29</DateOperationStarted>
     <DateRegistered>2022-08-24T12:36:20.0513082Z</DateRegistered>
-    <DateUpdated>2022-08-24T12:36:20.0513082Z</DateUpdated>
+    <DateUpdated>2022-09-10T12:06:04.146867Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>484</COMPE>
