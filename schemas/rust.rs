@@ -33,6 +33,14 @@ pub struct BankElement {
     pub type: Option<String>,
     #[serde(rename = "PixType")]
     pub pix_type: Option<String>,
+    #[serde(rename = "Charge")]
+    pub charge: bool,
+    #[serde(rename = "CreditDocument")]
+    pub credit_document: bool,
+    #[serde(rename = "SalaryPortability")]
+    pub salary_portability: String,
+    #[serde(rename = "Products")]
+    pub products: Vec<String>,
     #[serde(rename = "Url")]
     pub url: Option<String>,
     #[serde(rename = "DateOperationStarted")]
