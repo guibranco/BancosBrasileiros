@@ -41,6 +41,18 @@ data class BankElement (
     @Json(name = "PixType")
     val pixType: String,
 
+    @Json(name = "Charge")
+    val charge: Boolean? = null,
+
+    @Json("CreditDocument")
+    va creditDocument: Boolean? = null,
+
+    @Json("SalaryPortability")
+    val salaryPortability: String? = null,
+
+    @Json("Products")
+    val products: ArrayList<String> = arrayListOf(),
+
     @Json(name = "Url")
     val url: String? = null,
 

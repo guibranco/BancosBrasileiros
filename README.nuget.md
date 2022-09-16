@@ -23,6 +23,10 @@ Each of the lists has the following information (schema):
 | Network | Network | RSFN, Internet, null |
 | Type | Type | commercial, multiple, savings, null |
 | PixType | Type of PIX/SPI participant | DRCT - Directly, INDR - Indirectly, null |
+| Charge | If does charge operations | true, false, null | 
+| CreditDocument | If does DOC/TED operations | true, false, null | 
+| SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null | 
+| Products | List of products offered | In portuguese only | 
 | Url | Website | - |
 | DateOperationStarted | Commercial operation start date | - |
 | DatePixStarted | PIX operation start date | Only for those PSP of SPI |

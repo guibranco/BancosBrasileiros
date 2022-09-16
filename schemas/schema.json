@@ -54,6 +54,23 @@
                         }
                     ]
                 },
+                "Charge": {
+                    "type": "boolean"
+                },
+                "CreditDocument": {
+                   "type": "boolean"
+                },
+                "SalaryPortability": {
+                  "type": "string"
+                },
+                "Products": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "string"
+                    }
+                   ]
+                },
                 "Url": {
                     "anyOf": [
                         {
@@ -110,6 +127,10 @@
                 "LongName",  
                 "Network",
                 "PixType",
+                "Charge",
+                "CreditDocument",
+                "SalaryPortability",
+                "Products",
                 "ShortName",
                 "Type",
                 "Url"

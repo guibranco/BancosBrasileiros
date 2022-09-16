@@ -21,22 +21,34 @@ namespace BancosBrasileiros
         public string ShortName { get; set; }
 
         [JsonProperty("Network")]
-        public string Network { get; set;}
+        public string Network { get; set; }
 
         [JsonProperty("Type")]
-        public string Type { get; set;}
+        public string Type { get; set; }
 
         [JsonProperty("PixType")]
-        public string PixType { get; set;}
+        public string PixType { get; set; }
+
+        [JsonProperty("Charge")]
+        public bool? Charge { get; set;}
+
+        [JsonProperty("CreditDocument")]
+        public bool? CreditDocument { get; set; }
+
+        [JsonProperty("SalaryPortability")]
+        public string SalaryPortability { get; set; }
+
+        [JsonProperty("Products")]
+        public string[] Products { get; set; }
 
         [JsonProperty("Url")]
         public string Url { get; set; }
 
         [JsonProperty("DateOperationStarted")]
-        public string DateOperationStarted { get; set;}
+        public string DateOperationStarted { get; set; }
 
         [JsonProperty("DatePixStarted")]
-        public string DatePixStarted { get; set;}
+        public string DatePixStarted { get; set; }
 
         [JsonProperty("DateRegistered")]
         public DateTimeOffset DateRegistered { get; set; }
