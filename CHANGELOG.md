@@ -4,6 +4,10 @@
 
 ## Changelog
 
+### 2022-09-16 - [@guibranco](https://github.com/guibranco):
+
+- [Issue #143](https://github.com/guibranco/bancosBrasileiros/issues/143) Add new fields to schema files and readme.md 
+
 ### 2022-06-23 - [@guibranco](https://github.com/guibranco):
 
 - Added new fields to files (release V4)
@@ -139,13 +143,13 @@
 - [Issue #82](https://github.com/guibranco/bancosBrasileiros/issues/82) - Fixed data on bank COMPE 014
 
 ### 2021-05-21 - [@guibranco](https://github.com/guibranco):
-- [Issue #75](https://github.com/guibranco/bancosBrasileiros/milestone/75) - Added BIORC
+- [Issue #75](https://github.com/guibranco/bancosBrasileiros/issues/75) - Added BIORC
 
 ### 2021-05-21 - [@guibranco](https://github.com/guibranco):
-- [Issue #74](https://github.com/guibranco/bancosBrasileiros/milestone/74) - Added BV
+- [Issue #74](https://github.com/guibranco/bancosBrasileiros/issues/74) - Added BV
 
 ### 2021-05-05 - [@guibranco](https://github.com/guibranco):
-- [Issue #50](https://github.com/guibranco/bancosBrasileiros/milestone/50) - Added PIX data
+- [Issue #50](https://github.com/guibranco/bancosBrasileiros/issues/50) - Added PIX data
 
 ### 2021-04-28 - [@guibranco](https://github.com/guibranco):
 - [Milestone #1](https://github.com/guibranco/bancosBrasileiros/milestone/1) - Version 2

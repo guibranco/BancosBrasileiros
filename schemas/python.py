@@ -68,13 +68,17 @@ class BankElement:
     network: Optional[str]
     type_: Optional[str]
     pix_type: Optional[str]
+    charge: bool
+    creditDocument: bool
+    salaryPortability: str
+    products: List[str]
     url: Optional[str]
     date_operation_started: Optional[str]
     date_pix_started: Optional[str]
     date_registered: datetime
     date_updated: datetime
 
-    def __init__(self, compe: str, ispb: str, document: str, long_name: str, short_name: str, network: Optional[str], type_: Optional[str], pix_type: Optional[str], url: Optional[str], date_operation_started: Optional[str], date_pix_started: Optional[str], date_registered: datetime, date_updated: datetime) -> None:
+    def __init__(self, compe: str, ispb: str, document: str, long_name: str, short_name: str, network: Optional[str], type_: Optional[str], pix_type: Optional[str], charge: bool, creditDocument: bool, salaryPortability: Optional[str], products: List[str], url: Optional[str], date_operation_started: Optional[str], date_pix_started: Optional[str], date_registered: datetime, date_updated: datetime) -> None:
         """Return the bank DTO from JSON file."""
         self.compe = compe
         self.ispb = ispb
@@ -84,6 +88,10 @@ class BankElement:
         self.network = network
         self.type_ = type_
         self.pix_type = pix_type
+        self.charge = charge
+        self.creditDocument = creditDocument
+        self.salaryPortability = salaryPortability
+        self.products = products
         self.url = url
         self.date_operation_started = date_operation_started
         self.date_pix_started = date_pix_started
@@ -101,12 +109,16 @@ class BankElement:
         network = from_union([from_none, from_str], obj.get("Network"))
         type_ = from_union([from_none, from_str], obj.get("Type"))
         pix_type = from_union([from_none, from_str], obj.get("PixType"))
+        charge = from_union([from_none, from_str], obj.get("Charge"))
+        creditDocument = from_union([from_none, from_str], obj.get("CreditDocument"))
+        salaryPortability = from_union([from_none, from_str], obj.get("SalaryPortability"))
+        products = from_union([from_none, from_str], obj.get("Products"))
         url = from_union([from_none, from_str], obj.get("Url"))
         date_operation_started = from_union([from_none, from_str], obj.get("DateOperationStarted"))
         date_pix_started = from_union([from_none, from_str], obj.get("DatePixStarted"))
         date_registered = from_datetime(obj.get("DateRegistered"))
         date_updated = from_datetime(obj.get("DateUpdated"))
-        return BankElement(compe, ispb, document, long_name, short_name, network, type_, pix_type, url, date_operation_started, date_pix_started, date_registered, date_updated)
+        return BankElement(compe, ispb, document, long_name, short_name, network, type_, pix_type, charge, creditDocument, salaryPortability, products, url, date_operation_started, date_pix_started, date_registered, date_updated)
 
     def to_dict(self) -> dict:
         result: dict = {}
@@ -118,6 +130,10 @@ class BankElement:
         result["Network"] = from_union([from_none, from_str], self.network)
         result["Type"] = from_union([from_none, from_str], self.type_)
         result["PixType"] = from_union([from_none, from_str], self.pix_type)
+        result["Charge"] =  from_union([from_none, from_str], self.charge)
+        result["CreditDocument"] =  from_union([from_none, from_str], self.creditDocument)
+        result["SalaryPortability"] =  from_union([from_none, from_str], self.salaryPortability)
+        result["Products"] =  from_union([from_none, from_str], self.products)
         result["Url"] = from_union([from_none, from_str], self.url)
         result["DateOperationStarted"] = from_union([from_none, from_str], self.date_operation_started)
         result["DatePixStarted"] = from_union([from_none, from_str], self.date_pix_started)

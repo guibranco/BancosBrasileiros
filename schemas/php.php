@@ -7,6 +7,10 @@ class Bank
     public $ShortName; //String
     public $Network; //String
     public $Type; //String
+    public $Charge; //Boolean
+    public $CreditDocument; //Boolean
+    public $SalaryPortability; //String
+    public $Products; //String
     public $PixType; //String
     public $Url; //String
     public $DateOperationStarted; //String
