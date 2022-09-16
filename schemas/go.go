@@ -6,7 +6,10 @@
 
 package bancosBrasileiros
 
-import "encoding/json"
+import (
+	"encoding/json"
+	"time"
+)
 
 type Bank []BankElement
 
@@ -21,17 +24,21 @@ func (r *Bank) Marshal() ([]byte, error) {
 }
 
 type BankElement struct {
-	Compe          			string  `json:"COMPE"`         
-	Ispb           			string  `json:"ISPB"`          
-	Document       			string  `json:"Document"`      
-	LongName     			string  `json:"LongName"`    
-	ShortName    			string  `json:"ShortName"`
-	Network					*string `json:"Network"`
-	Type					*string `json:"Type"`   
-	PixType					*string `json:"PixType"`   
-	URL            			*string `json:"Url"`           
-	DateOperationStarted 	*string `json:"DateOperationStarted"`
-	DatePixStarted 			*string `json:"DatePixStarted"`
- 	DateRegistered 			string  `json:"DateRegistered"`
-	DateUpdated    			string  `json:"DateUpdated"`      
+	Compe                string    `json:"COMPE"`
+	Ispb                 string    `json:"ISPB"`
+	Document             string    `json:"Document"`
+	LongName             string    `json:"LongName"`
+	ShortName            string    `json:"ShortName"`
+	Network              string    `json:"Network"`
+	Type                 string    `json:"Type"`
+	PixType              string    `json:"PixType"`
+	Charge               bool      `json:"Charge"`
+	CreditDocument       bool      `json:"CreditDocument"`
+	SalaryPortability    string    `json:"SalaryPortability"`
+	Products             []string  `json:"Products"`
+	URL                  string    `json:"Url"`
+	DateOperationStarted string    `json:"DateOperationStarted"`
+	DatePixStarted       string    `json:"DatePixStarted"`
+	DateRegistered       string    `json:"DateRegistered"`
+	DateUpdated          time.Time `json:"DateUpdated"`
 }

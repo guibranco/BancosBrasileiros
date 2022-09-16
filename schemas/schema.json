@@ -110,6 +110,10 @@
                 "LongName",  
                 "Network",
                 "PixType",
+                "Charge",
+                "CreditDocument",
+                "SalaryPortability",
+                "Products",
                 "ShortName",
                 "Type",
                 "Url"
