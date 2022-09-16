@@ -354,7 +354,7 @@ namespace BancosBrasileiros.MergeTool.Dto
                 hashCode.Add(LongName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(Network ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(PixType ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-                hashCode.Add(Products);
+                //hashCode.Add(Products);
                 hashCode.Add(SalaryPortability ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(ShortName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(Type ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);

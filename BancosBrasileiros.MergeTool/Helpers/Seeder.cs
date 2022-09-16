@@ -473,7 +473,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 bank.SalaryPortability = pcps.SalaryPortability;
                 bank.DateUpdated = DateTimeOffset.UtcNow;
-
                 found++;
             }
 
