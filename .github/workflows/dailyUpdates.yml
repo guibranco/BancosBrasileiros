@@ -57,15 +57,27 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: master
-          
+        
+      - name: Check artifact banks files
+        id: checkbanksfiles
+        with:
+          name: bankFiles
+                  
       - name: Download banks files
         uses: actions/download-artifact@v3
+        if: steps.checkbanksfiles.outputs.exists == 'true'
         with:
           name: bankFiles
           path: data/
+        
+      - name: Check artifact change log file
+        id: checkchangelogfile
+        with:
+          name: changeLogFiles
           
       - name: Download changelog file
         uses: actions/download-artifact@v3
+        if: steps.checkchangelogfile.outputs.exists == 'true'
         with:
           name: changeLogFile
           
