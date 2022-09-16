@@ -48,7 +48,7 @@ jobs:
           path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md          
 
           
-  publish:
+  update:
     runs-on: ubuntu-latest
     needs: build
     steps:
@@ -84,12 +84,13 @@ jobs:
           name: changeLogFile
           
       - name: Setup GIT config
+        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
       - name: Commit and Push
-        continue-on-error: true
+        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git add .
           git commit -m "Daily updates (bot)"
