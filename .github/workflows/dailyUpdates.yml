@@ -59,6 +59,7 @@ jobs:
           ref: master
         
       - name: Check artifact banks files
+        uses: xSAVIKx/artifact-exists-action@v0
         id: checkbanksfiles
         with:
           name: bankFiles
@@ -71,6 +72,7 @@ jobs:
           path: data/
         
       - name: Check artifact change log file
+        uses: xSAVIKx/artifact-exists-action@v0
         id: checkchangelogfile
         with:
           name: changeLogFiles
