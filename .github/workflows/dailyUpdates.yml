@@ -1,0 +1,98 @@
+name: Daily updates
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+env:
+  DOTNET_VERSION: '6.0.x'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout MergeTool
+        uses: actions/checkout@v3
+        with:
+          ref: MergeTool
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v2
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+          
+      - name: Restore
+        run: dotnet restore
+ 
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+        
+      - name: Run
+        continue-on-error: true
+        run: |
+            cd BancosBrasileiros.MergeTool
+            dotnet run --configuration Release      
+           
+      - name: Upload banks files
+        uses: actions/upload-artifact@v3
+        with:
+          name: bankFiles
+          path: ./BancosBrasileiros.MergeTool/result/bancos.*
+     
+      - name: Upload changelog file
+        uses: actions/upload-artifact@v3
+        with:
+          name: changeLogFile
+          path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md          
+
+          
+  update:
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      
+      - name: Checkout developer
+        uses: actions/checkout@v3
+        with:
+          ref: master
+        
+      - name: Check artifact banks files
+        uses: xSAVIKx/artifact-exists-action@v0
+        id: checkbanksfiles
+        with:
+          name: bankFiles
+                  
+      - name: Download banks files
+        uses: actions/download-artifact@v3
+        if: steps.checkbanksfiles.outputs.exists == 'true'
+        with:
+          name: bankFiles
+          path: data/
+        
+      - name: Check artifact change log file
+        uses: xSAVIKx/artifact-exists-action@v0
+        id: checkchangelogfile
+        with:
+          name: changeLogFiles
+          
+      - name: Download changelog file
+        uses: actions/download-artifact@v3
+        if: steps.checkchangelogfile.outputs.exists == 'true'
+        with:
+          name: changeLogFile
+          
+      - name: Setup GIT config
+        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+
+      - name: Commit and Push
+        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
+        run: |
+          git add .
+          git commit -m "Daily updates (bot)"
+          git push origin master
+
