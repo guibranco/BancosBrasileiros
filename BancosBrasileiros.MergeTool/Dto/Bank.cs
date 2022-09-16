@@ -310,7 +310,7 @@ namespace BancosBrasileiros.MergeTool.Dto
                    string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) &&
-                   Equals(Products, other.Products) &&
+                   //Equals(Products, other.Products) &&
                    string.Equals(SalaryPortability, other.SalaryPortability, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) &&
                    string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase);
@@ -372,45 +372,45 @@ namespace BancosBrasileiros.MergeTool.Dto
             var strBuilder = new StringBuilder();
 
             if (Ispb > 0 || Compe.Equals(1))
-                strBuilder.AppendFormat("ISPB: {0} | ", IspbString);
+                strBuilder.Append($"ISPB: {IspbString} | ");
 
             if (!string.IsNullOrWhiteSpace(Document))
-                strBuilder.AppendFormat("Document: {0} | ", Document);
+                strBuilder.Append($"Document: {Document} | ");
 
             if (!string.IsNullOrWhiteSpace(LongName))
-                strBuilder.AppendFormat("Long name: {0} | ", LongName);
+                strBuilder.Append($"Long name: {LongName} | ");
 
             if (!string.IsNullOrWhiteSpace(ShortName))
-                strBuilder.AppendFormat("Short name: {0} | ", ShortName);
+                strBuilder.Append($"Short name: {ShortName} | ");
 
             if (!string.IsNullOrWhiteSpace(Network))
-                strBuilder.AppendFormat("Network: {0} | ", Network);
+                strBuilder.Append($"Network: {Network} | ");
 
             if (!string.IsNullOrWhiteSpace(Type))
-                strBuilder.AppendFormat("Type: {0} | ", Type);
+                strBuilder.Append($"Type: {Type} | ");
 
             if (!string.IsNullOrWhiteSpace(PixType))
-                strBuilder.AppendFormat("PIX type: {0} | ", PixType);
+                strBuilder.Append($"PIX type: {PixType} | ");
 
             if (Charge.HasValue)
-                strBuilder.AppendFormat("Charge: {0} | ", Charge);
+                strBuilder.Append($"Charge: {Charge} | ");
 
             if (CreditDocument.HasValue)
-                strBuilder.AppendFormat("Credit document: {0} | ", CreditDocument);
+                strBuilder.Append($"Credit document: {CreditDocument} | ");
 
             if (!string.IsNullOrWhiteSpace(SalaryPortability))
-                strBuilder.AppendFormat("Salary portability: {0} | ", SalaryPortability);
+                strBuilder.Append($"Salary portability: {SalaryPortability} | ");
 
             if (Products != null)
-                strBuilder.AppendFormat("Products: {0} | ", string.Join(",", Products));
+                strBuilder.Append($"Products: {string.Join(",", Products)} | ");
 
             if (!string.IsNullOrWhiteSpace(DateOperationStarted))
-                strBuilder.AppendFormat("Date operation started: {0} | ", DateOperationStarted);
+                strBuilder.Append($"Date operation started: {DateOperationStarted} | ");
 
             if (!string.IsNullOrWhiteSpace(DatePixStarted))
-                strBuilder.AppendFormat("Date PIX started: {0} | ", DatePixStarted);
+                strBuilder.Append($"Date PIX started: {DatePixStarted} | ");
 
-            strBuilder.AppendFormat("Date registered: {0:O} | Date updated: {1:O}", DateRegistered, DateUpdated);
+            strBuilder.Append($"Date registered: {DateRegistered:O} | Date updated: {DateUpdated:O}");
 
             return strBuilder.ToString();
         }
