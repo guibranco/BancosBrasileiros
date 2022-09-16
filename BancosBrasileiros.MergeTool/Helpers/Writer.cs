@@ -4,7 +4,7 @@
 // Created          : 19/05/2020
 //
 // Last Modified By : Guilherme Branco Stracini
-// Last Modified On : 06-01-2022
+// Last Modified On : 16/09/2022
 // ***********************************************************************
 // <copyright file="Writer.cs" company="Guilherme Branco Stracini ME">
 //     Copyright (c) Guilherme Branco Stracini ME. All rights reserved.
@@ -54,10 +54,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
             banks = banks.OrderBy(b => b.Compe).ToList();
 
             SaveCsv(banks);
-            banks.GetCustomSerializer(SerializerFormat.JSON).Save($"result{Path.DirectorySeparatorChar}bancos.json");
+            banks.GetCustomSerializer(SerializerFormat.Json).Save($"result{Path.DirectorySeparatorChar}bancos.json");
             SaveMarkdown(banks);
             SaveSql(banks);
-            new Banks { Bank = banks.ToArray() }.GetCustomSerializer(SerializerFormat.XML).Save($"result{Path.DirectorySeparatorChar}bancos.xml");
+            new Banks { Bank = banks.ToArray() }.GetCustomSerializer(SerializerFormat.Xml).Save($"result{Path.DirectorySeparatorChar}bancos.xml");
         }
 
         /// <summary>
