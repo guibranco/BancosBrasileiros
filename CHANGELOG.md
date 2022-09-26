@@ -12,7 +12,6 @@
 
 - Added new fields to files (release V4)
 
-
 ### 2022-04-21 - [@guibranco](https://github.com/guibranco):
 
 - Updated 1 bank
