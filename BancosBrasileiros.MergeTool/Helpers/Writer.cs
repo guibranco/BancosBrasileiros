@@ -37,6 +37,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             var changeLogFile = Reader.LoadChangeLog();
 
+            changeLogFile = changeLogFile.Replace("## Changelog\r\n\r\n", "## Changelog\n\n");
             var result = changeLogFile.Replace("## Changelog\n\n", $"## Changelog\n\n{changeLog}\n");
 
             File.WriteAllText($"result{Path.DirectorySeparatorChar}CHANGELOG.md", result);
