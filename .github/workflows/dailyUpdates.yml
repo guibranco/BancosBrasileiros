@@ -75,7 +75,7 @@ jobs:
         uses: xSAVIKx/artifact-exists-action@v0
         id: checkchangelogfile
         with:
-          name: changeLogFiles
+          name: changeLogFile
           
       - name: Download changelog file
         uses: actions/download-artifact@v3
