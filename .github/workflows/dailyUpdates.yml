@@ -84,13 +84,13 @@ jobs:
           name: changeLogFile
           
       - name: Setup GIT config
-        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
+        if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
       - name: Commit and Push
-        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
+        if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git add .
           git commit -m "Daily updates (bot)"
