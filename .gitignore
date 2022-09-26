@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,visualstudiocode
 
+### Artifact Exists Action
+artifactExists*/
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/tasks.json
