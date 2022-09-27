@@ -2,7 +2,10 @@
   <div class="details">
     <h3>{{@bank.ShortName}}</h3>
     <div class="detail owner">
-      <span>Name:</span> {{@bank.LongName}}
+      <span>Full name:</span> {{@bank.LongName}}
+    </div>
+    <div class="detail type">
+      <span>Type:</span> {{@bank.Type}}
     </div>
     <div class="detail type">
       <span>COMPE:</span> {{@bank.COMPE}}
@@ -12,6 +15,26 @@
     </div>
     <div class="detail bedrooms">
       <span>CNPJ:</span> {{@bank.Document}}
+    </div>
+    <div class="detail type">
+      <span>Bank bill:</span> {{if @bank.Charge @bank.Charge "false"}}
+    </div>
+    <div class="detail type">
+      <span>TED/DOC:</span> {{if @bank.CreditDocument @bank.CreditDocument "false"}}
+    </div>
+    <div class="detail type">
+      <span>PIX:</span> {{if @bank.PixType @bank.PixType "false"}}
+    </div>
+    <div class="detail location">
+      <span>URL: </span> 
+      {{#if @bank.Url}}
+        <a href="{{ @bank.Url }}">{{ @bank.Url }}</a>
+      {{else}}
+        <span>empty url</span>
+      {{/if}}
+    </div>
+    <div class="detail type">
+      <span>Date updated:</span> {{ @bank.DateUpdated }}
     </div>
   </div>
 </article>
