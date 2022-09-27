@@ -2202,7 +2202,7 @@
     <ISPB>11581339</ISPB>
     <Document>11.581.339/0001-45</Document>
     <LongName>BMP SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.</LongName>
-    <ShortName>MONEY PLUS SCMEPP LTDA</ShortName>
+    <ShortName>BMP SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -2215,7 +2215,7 @@
     <DateOperationStarted>2019-09-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114738-03:00</DateRegistered>
-    <DateUpdated>2022-09-14T12:07:02.7926465Z</DateUpdated>
+    <DateUpdated>2022-09-27T12:08:38.4177957Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>276</COMPE>
@@ -3078,7 +3078,7 @@
     <ISPB>01027058</ISPB>
     <Document>01.027.058/0001-91</Document>
     <LongName>CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO</LongName>
-    <ShortName>CIELO S.A.</ShortName>
+    <ShortName>CIELO IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3086,7 +3086,7 @@
     <DateOperationStarted>2020-07-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711436-03:00</DateRegistered>
-    <DateUpdated>2022-09-21T12:08:31.5594744Z</DateUpdated>
+    <DateUpdated>2022-09-27T12:08:38.4165642Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>363</COMPE>
@@ -3543,8 +3543,8 @@
     <COMPE>396</COMPE>
     <ISPB>13884775</ISPB>
     <Document>13.884.775/0001-19</Document>
-    <LongName>HUB PAGAMENTOS S.A</LongName>
-    <ShortName>HUB PAGAMENTOS</ShortName>
+    <LongName>HUB INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>HUB IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3552,7 +3552,7 @@
     <DateOperationStarted>2020-08-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114837-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114839-03:00</DateUpdated>
+    <DateUpdated>2022-09-27T12:08:38.417997Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>397</COMPE>
@@ -3716,13 +3716,13 @@
     <ISPB>05684234</ISPB>
     <Document>05.684.234/0001-19</Document>
     <LongName>PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>PLANNER SCM S.A.</ShortName>
+    <ShortName>PLANNER SOCIEDADE DE CRÉDITO DIRETO</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2022-09-10T12:06:02.3519597Z</DateUpdated>
+    <DateUpdated>2022-09-27T12:08:38.4172421Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>

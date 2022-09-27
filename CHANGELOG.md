@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2022-09-27 - [@guibranco](https://github.com/guibranco):
+
+- Updated 4 banks
+	- 274 - BMP SCMEPP LTDA - 11.581.339/0001-45
+	- 362 - CIELO IP S.A. - 01.027.058/0001-91
+	- 396 - HUB IP S.A. - 13.884.775/0001-19
+	- 410 - PLANNER SOCIEDADE DE CRÉDITO DIRETO - 05.684.234/0001-19
+
 ### 2022-09-16 - [@guibranco](https://github.com/guibranco):
 
 - [Issue #143](https://github.com/guibranco/bancosBrasileiros/issues/143) Add new fields to schema files and readme.md 
