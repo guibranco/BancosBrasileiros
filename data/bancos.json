@@ -2700,7 +2700,7 @@
     "ISPB": "11581339",
     "Document": "11.581.339/0001-45",
     "LongName": "BMP SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.",
-    "ShortName": "MONEY PLUS SCMEPP LTDA",
+    "ShortName": "BMP SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -2716,7 +2716,7 @@
     "DateOperationStarted": "2019-09-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114738-03:00",
-    "DateUpdated": "2022-09-14T12:07:02.7926465+00:00"
+    "DateUpdated": "2022-09-27T12:08:38.4177957+00:00"
   },
   {
     "COMPE": "276",
@@ -3824,8 +3824,8 @@
     "COMPE": "362",
     "ISPB": "01027058",
     "Document": "01.027.058/0001-91",
-    "LongName": "CIELO S.A.",
-    "ShortName": "CIELO S.A.",
+    "LongName": "CIELO S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "CIELO IP S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3837,7 +3837,7 @@
     "DateOperationStarted": "2020-07-17",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711436-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.711442-03:00"
+    "DateUpdated": "2022-09-27T12:08:38.4165642+00:00"
   },
   {
     "COMPE": "363",
@@ -4042,7 +4042,7 @@
     "ShortName": "BCO J.P. MORGAN S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
@@ -4051,9 +4051,9 @@
     ],
     "Url": "https://www.jpmorgan.com",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-10-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115066-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5500598+00:00"
+    "DateUpdated": "2022-09-23T12:08:11.8249103+00:00"
   },
   {
     "COMPE": "377",
@@ -4409,8 +4409,8 @@
     "COMPE": "396",
     "ISPB": "13884775",
     "Document": "13.884.775/0001-19",
-    "LongName": "HUB PAGAMENTOS S.A",
-    "ShortName": "HUB PAGAMENTOS",
+    "LongName": "HUB INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "HUB IP S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -4422,7 +4422,7 @@
     "DateOperationStarted": "2020-08-13",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114837-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114839-03:00"
+    "DateUpdated": "2022-09-27T12:08:38.417997+00:00"
   },
   {
     "COMPE": "397",
@@ -4638,7 +4638,7 @@
     "ISPB": "05684234",
     "Document": "05.684.234/0001-19",
     "LongName": "PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "PLANNER SCM S.A.",
+    "ShortName": "PLANNER SOCIEDADE DE CRÉDITO DIRETO",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -4650,7 +4650,7 @@
     "DateOperationStarted": "2021-02-17",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114594-03:00",
-    "DateUpdated": "2022-09-10T12:06:02.3519597+00:00"
+    "DateUpdated": "2022-09-27T12:08:38.4172421+00:00"
   },
   {
     "COMPE": "411",

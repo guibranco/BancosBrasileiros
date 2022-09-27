@@ -75,7 +75,7 @@ jobs:
         uses: xSAVIKx/artifact-exists-action@v0
         id: checkchangelogfile
         with:
-          name: changeLogFiles
+          name: changeLogFile
           
       - name: Download changelog file
         uses: actions/download-artifact@v3
@@ -84,13 +84,13 @@ jobs:
           name: changeLogFile
           
       - name: Setup GIT config
-        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
+        if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
       - name: Commit and Push
-        if: steps.checkbanksfiles.outputs.exists == 'true' || steps.checkchangelogfile.outputs.exists == 'true'
+        if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git add .
           git commit -m "Daily updates (bot)"
