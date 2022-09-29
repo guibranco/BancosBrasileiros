@@ -2463,8 +2463,8 @@
     <COMPE>301</COMPE>
     <ISPB>13370835</ISPB>
     <Document>13.370.835/0001-85</Document>
-    <LongName>BPP Instituição de Pagamento S.A.</LongName>
-    <ShortName>BPP IP S.A.</ShortName>
+    <LongName>DOCK INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>DOCK IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -2472,7 +2472,7 @@
     <DateOperationStarted>2018-09-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114822-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3560981Z</DateUpdated>
+    <DateUpdated>2022-09-29T12:08:26.1905846Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>306</COMPE>

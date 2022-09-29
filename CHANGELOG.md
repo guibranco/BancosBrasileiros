@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-09-29 - [@guibranco](https://github.com/guibranco):
+
+- Updated 1 banks
+	- 301 - DOCK IP S.A. - 13.370.835/0001-85
+
 ### 2022-09-27 - [@guibranco](https://github.com/guibranco):
 
 - Updated 4 banks
