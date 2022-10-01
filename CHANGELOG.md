@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-10-01 - [@guibranco](https://github.com/guibranco):
+
+- Updated 1 banks
+	- 457 - UY3 SCD S/A - 39.587.424/0001-30
+
 ### 2022-09-29 - [@guibranco](https://github.com/guibranco):
 
 - Updated 1 banks
