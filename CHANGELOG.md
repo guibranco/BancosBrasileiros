@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-10-04 - [@guibranco](https://github.com/guibranco):
+
+- Added 1 banks
+	- 482 - SBCASH SCD - 42.259.084/0001-22
+
 ### 2022-10-01 - [@guibranco](https://github.com/guibranco):
 
 - Updated 1 banks

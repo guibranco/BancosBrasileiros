@@ -4497,6 +4497,19 @@
     <DateUpdated>2022-09-10T12:06:04.146867Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>482</COMPE>
+    <ISPB>42259084</ISPB>
+    <Document>42.259.084/0001-22</Document>
+    <LongName>SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SBCASH SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-10-11</DateOperationStarted>
+    <DateRegistered>2022-10-04T12:08:42.7066127Z</DateRegistered>
+    <DateUpdated>2022-10-04T12:08:42.7066128Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>484</COMPE>
     <ISPB>36864992</ISPB>
     <Document>36.864.992/0001-42</Document>
