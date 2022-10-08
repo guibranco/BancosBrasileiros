@@ -4130,11 +4130,11 @@
     <LongName>DMCARD SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>DMCARD SCD S.A.</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2021-10-22</DateOperationStarted>
     <DateRegistered>2021-10-23T20:55:03.4293187-03:00</DateRegistered>
-    <DateUpdated>2021-10-23T20:55:03.4293708-03:00</DateUpdated>
+    <DateUpdated>2022-10-08T12:07:31.8677543Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>450</COMPE>

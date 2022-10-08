@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-10-08 - [@guibranco](https://github.com/guibranco):
+
+- Updated 1 banks
+	- 449 - DMCARD SCD S.A. - 37.555.231/0001-71
+
 ### 2022-10-04 - [@guibranco](https://github.com/guibranco):
 
 - Added 1 banks

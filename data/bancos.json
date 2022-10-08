@@ -5194,15 +5194,15 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-10-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-10-23T20:55:03.4293187-03:00",
-    "DateUpdated": "2021-10-23T20:55:03.4293708-03:00"
+    "DateUpdated": "2022-10-08T12:07:31.8677543+00:00"
   },
   {
     "COMPE": "450",
