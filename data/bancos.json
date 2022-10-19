@@ -5117,16 +5117,16 @@
     "ShortName": "TRINUS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-09-09",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-11-07 17:00:00",
     "DateRegistered": "2021-09-13T19:08:16.9817382-03:00",
-    "DateUpdated": "2021-09-13T19:08:16.9817384-03:00"
+    "DateUpdated": "2022-10-19T12:08:46.7241587+00:00"
   },
   {
     "COMPE": "445",

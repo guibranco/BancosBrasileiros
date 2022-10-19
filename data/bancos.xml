@@ -4078,11 +4078,13 @@
     <LongName>TRINUS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>TRINUS SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-09</DateOperationStarted>
+    <DatePixStarted>2022-11-07 17:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817382-03:00</DateRegistered>
-    <DateUpdated>2021-09-13T19:08:16.9817384-03:00</DateUpdated>
+    <DateUpdated>2022-10-19T12:08:46.7241587Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>445</COMPE>

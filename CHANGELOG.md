@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-10-19 - [@guibranco](https://github.com/guibranco):
+
+- Updated 1 banks
+	- 444 - TRINUS SCD S.A. - 40.654.622/0001-58
+
 ### 2022-10-08 - [@guibranco](https://github.com/guibranco):
 
 - Updated 1 banks
