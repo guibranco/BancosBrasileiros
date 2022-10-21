@@ -5903,6 +5903,28 @@
     "DateUpdated": "2022-07-20T12:06:03.4386094+00:00"
   },
   {
+    "COMPE": "516",
+    "ISPB": "36583700",
+    "Document": "36.583.700/0001-01",
+    "LongName": "FC FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "FC FINANCEIRA S.A. - CFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": [
+      "Consignado",
+      "Pessoal e Troca de Modalidade"
+    ],
+    "Url": null,
+    "DateOperationStarted": "2022-10-24",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-10-21T12:08:38.2728811+00:00",
+    "DateUpdated": "2022-10-21T12:08:38.2179312+00:00"
+  },
+  {
     "COMPE": "545",
     "ISPB": "17352220",
     "Document": "17.352.220/0001-87",

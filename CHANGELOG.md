@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-10-21 - [@guibranco](https://github.com/guibranco):
+
+- Added 1 banks
+	- 516 - FC FINANCEIRA S.A. - CFI - 36.583.700/0001-01
+
 ### 2022-10-19 - [@guibranco](https://github.com/guibranco):
 
 - Updated 1 banks

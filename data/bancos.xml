@@ -4651,6 +4651,23 @@
     <DateUpdated>2022-07-20T12:06:03.4386094Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>516</COMPE>
+    <ISPB>36583700</ISPB>
+    <Document>36.583.700/0001-01</Document>
+    <LongName>FC FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>FC FINANCEIRA S.A. - CFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Consignado</Product>
+      <Product>Pessoal e Troca de Modalidade</Product>
+    </Products>
+    <DateOperationStarted>2022-10-24</DateOperationStarted>
+    <DateRegistered>2022-10-21T12:08:38.2728811Z</DateRegistered>
+    <DateUpdated>2022-10-21T12:08:38.2179312Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>545</COMPE>
     <ISPB>17352220</ISPB>
     <Document>17.352.220/0001-87</Document>
