@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-10-22 - [@guibranco](https://github.com/guibranco):
+
+- Updated 1 banks
+	- 461 - ASAAS IP S.A. - 19.540.550/0001-21
+
 ### 2022-10-21 - [@guibranco](https://github.com/guibranco):
 
 - Added 1 banks

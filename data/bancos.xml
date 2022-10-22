@@ -4270,12 +4270,12 @@
     <ShortName>ASAAS IP S.A.</ShortName>
     <Network>Internet</Network>
     <PixType>DRCT</PixType>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2021-10-29</DateOperationStarted>
     <DatePixStarted>2021-11-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-11-22T11:00:23.6790202-03:00</DateRegistered>
-    <DateUpdated>2021-11-22T11:00:22.8748291-03:00</DateUpdated>
+    <DateUpdated>2022-10-22T12:07:53.6397295Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>462</COMPE>

@@ -5386,15 +5386,15 @@
     "Network": "Internet",
     "Type": null,
     "PixType": "DRCT",
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-10-29",
     "DatePixStarted": "2021-11-01 09:00:00",
     "DateRegistered": "2021-11-22T11:00:23.6790202-03:00",
-    "DateUpdated": "2021-11-22T11:00:22.8748291-03:00"
+    "DateUpdated": "2022-10-22T12:07:53.6397295+00:00"
   },
   {
     "COMPE": "462",
