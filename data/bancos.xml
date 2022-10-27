@@ -3690,11 +3690,13 @@
     <LongName>ÍNDIGO INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
     <ShortName>ÍNDIGO INVESTIMENTOS DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-22</DateOperationStarted>
+    <DatePixStarted>2022-11-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711258-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7112649-03:00</DateUpdated>
+    <DateUpdated>2022-10-27T12:08:54.6071326Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>408</COMPE>
@@ -3753,11 +3755,12 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.bancocapital.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2022-09-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114859-03:00</DateRegistered>
-    <DateUpdated>2022-08-31T12:06:41.9713736Z</DateUpdated>
+    <DateUpdated>2022-10-27T12:08:55.982745Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>413</COMPE>

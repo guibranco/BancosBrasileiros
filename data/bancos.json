@@ -4603,16 +4603,16 @@
     "ShortName": "ÍNDIGO INVESTIMENTOS DTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-11-08 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711258-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7112649-03:00"
+    "DateUpdated": "2022-10-27T12:08:54.6071326+00:00"
   },
   {
     "COMPE": "408",
@@ -4684,13 +4684,13 @@
     "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
-    "SalaryPortability": null,
+    "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": "https://www.bancocapital.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2022-09-01 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114859-03:00",
-    "DateUpdated": "2022-08-31T12:06:41.9713736+00:00"
+    "DateUpdated": "2022-10-27T12:08:55.982745+00:00"
   },
   {
     "COMPE": "413",

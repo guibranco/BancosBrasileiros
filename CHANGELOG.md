@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2022-10-27 - [@guibranco](https://github.com/guibranco):
+
+- Updated 2 banks
+	- 407 - ÍNDIGO INVESTIMENTOS DTVM LTDA. - 00.329.598/0001-67
+	- 412 - SOCIAL BANK S/A - 15.173.776/0001-80
+
 ### 2022-10-22 - [@guibranco](https://github.com/guibranco):
 
 - Updated 1 banks
