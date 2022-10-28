@@ -103,7 +103,7 @@ namespace BancosBrasileiros.MergeTool
 
             var color = ConsoleColor.DarkGreen;
 
-            changeLog.AppendLine($"### {DateTime.Now:yyyy-MM-dd} - [@guibranco](https://github.com/guibranco):\r\n");
+            changeLog.AppendLine($"### {DateTime.Now:yyyy-MM-dd} - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):\r\n");
 
             if (added.Any())
             {
