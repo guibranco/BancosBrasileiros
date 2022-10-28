@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-10-28 - [@guibranco](https://github.com/guibranco):
+
+- Updated 1 banks
+	- 402 - COBUCCIO S.A. SCFI - 36.947.229/0001-85
+
 ### 2022-10-27 - [@guibranco](https://github.com/guibranco):
 
 - Updated 2 banks

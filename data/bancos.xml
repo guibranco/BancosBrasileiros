@@ -3630,7 +3630,7 @@
     <ISPB>36947229</ISPB>
     <Document>36.947.229/0001-85</Document>
     <LongName>COBUCCIO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>COBUCCIO SCD S.A.</ShortName>
+    <ShortName>COBUCCIO S.A. SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3638,7 +3638,7 @@
     <DateOperationStarted>2020-12-03</DateOperationStarted>
     <DatePixStarted>2021-12-08 09:15:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115132-03:00</DateRegistered>
-    <DateUpdated>2021-12-13T12:13:48.6654264Z</DateUpdated>
+    <DateUpdated>2022-10-28T12:08:51.5275633Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>403</COMPE>
