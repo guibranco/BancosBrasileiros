@@ -27,7 +27,6 @@ namespace BancosBrasileiros.MergeTool
     /// </summary>
     internal class Worker
     {
-
         /// <summary>
         /// Works this instance.
         /// </summary>
@@ -109,10 +108,10 @@ namespace BancosBrasileiros.MergeTool
 
             if (added.Any())
             {
-                changeLog.AppendLine($"- Added {added.Count} banks");
+                changeLog.AppendLine($"- Added {added.Count} bank{(added.Count == 1 ? string.Empty : "s")}");
 
                 Logger.Log($"\r\nAdded items: {added.Count}\r\n\r\n", ConsoleColor.White);
-                
+
                 foreach (var item in added)
                 {
                     changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
@@ -125,7 +124,7 @@ namespace BancosBrasileiros.MergeTool
 
             if (updated.Any())
             {
-                changeLog.AppendLine($"- Updated {updated.Count} banks");
+                changeLog.AppendLine($"- Updated {updated.Count} bank{(updated.Count == 1 ? string.Empty : "s")}");
 
                 Logger.Log($"\r\nUpdated items: {updated.Count}\r\n\r\n", ConsoleColor.White);
 
