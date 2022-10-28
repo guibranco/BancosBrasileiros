@@ -4,53 +4,53 @@
 
 ## Changelog
 
-### 2022-10-28 - [@guibranco](https://github.com/guibranco):
+### 2022-10-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Updated 1 banks
+- Updated 1 bank
 	- 402 - COBUCCIO S.A. SCFI - 36.947.229/0001-85
 
-### 2022-10-27 - [@guibranco](https://github.com/guibranco):
+### 2022-10-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 2 banks
 	- 407 - ÍNDIGO INVESTIMENTOS DTVM LTDA. - 00.329.598/0001-67
 	- 412 - SOCIAL BANK S/A - 15.173.776/0001-80
 
-### 2022-10-22 - [@guibranco](https://github.com/guibranco):
+### 2022-10-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Updated 1 banks
+- Updated 1 bank
 	- 461 - ASAAS IP S.A. - 19.540.550/0001-21
 
-### 2022-10-21 - [@guibranco](https://github.com/guibranco):
+### 2022-10-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Added 1 banks
+- Added 1 bank
 	- 516 - FC FINANCEIRA S.A. - CFI - 36.583.700/0001-01
 
-### 2022-10-19 - [@guibranco](https://github.com/guibranco):
+### 2022-10-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Updated 1 banks
+- Updated 1 bank
 	- 444 - TRINUS SCD S.A. - 40.654.622/0001-58
 
-### 2022-10-08 - [@guibranco](https://github.com/guibranco):
+### 2022-10-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Updated 1 banks
+- Updated 1 bank
 	- 449 - DMCARD SCD S.A. - 37.555.231/0001-71
 
-### 2022-10-04 - [@guibranco](https://github.com/guibranco):
+### 2022-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Added 1 banks
+- Added 1 bank
 	- 482 - SBCASH SCD - 42.259.084/0001-22
 
-### 2022-10-01 - [@guibranco](https://github.com/guibranco):
+### 2022-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Updated 1 banks
+- Updated 1 bank
 	- 457 - UY3 SCD S/A - 39.587.424/0001-30
 
-### 2022-09-29 - [@guibranco](https://github.com/guibranco):
+### 2022-09-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
-- Updated 1 banks
+- Updated 1 bank
 	- 301 - DOCK IP S.A. - 13.370.835/0001-85
 
-### 2022-09-27 - [@guibranco](https://github.com/guibranco):
+### 2022-09-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 4 banks
 	- 274 - BMP SCMEPP LTDA - 11.581.339/0001-45
@@ -58,24 +58,26 @@
 	- 396 - HUB IP S.A. - 13.884.775/0001-19
 	- 410 - PLANNER SOCIEDADE DE CRÉDITO DIRETO - 05.684.234/0001-19
 
-### 2022-09-16 - [@guibranco](https://github.com/guibranco):
+### 2022-09-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - [Issue #143](https://github.com/guibranco/bancosBrasileiros/issues/143) Add new fields to schema files and readme.md 
 
-### 2022-06-23 - [@guibranco](https://github.com/guibranco):
+### 2022-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Added new fields to files (release V4)
 
-### 2022-04-21 - [@guibranco](https://github.com/guibranco):
+### 2022-04-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
 	- 279 - CCR DE PRIMAVERA DO LESTE - 26.563.270/0001-02
 
-### 2022-03-31 - [@guibranco](https://github.com/guibranco):
+### 2022-03-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
 - Added 1 bank
     - 478 - GAZINCRED S.A. SCFI
 
 ### 2022-03-16 - [@guibranco](https://github.com/guibranco): 
+
 - Added 3 banks 
 	- 385 - CECM DOS TRAB.PORT. DA G.VITOR
 	- 469 - LECCA DTVM LTDA
@@ -88,6 +90,7 @@
 	- 468 - PORTOSEG S.A. CFI)
     
 ### 2022-02-16 - [@guibranco](https://github.com/guibranco):
+
 - Added 1 bank
     - 468 - PORTOSEG S.A. CFI
 - Uppdated 6 banks 
@@ -99,6 +102,7 @@
     - 450 - FITBANK PAGAMENTOS ELETRONICOS S.A.
 
 ### 2022-02-01 - [@guibranco](https://github.com/guibranco):
+
 - Added 2 banks
     - 451 - J17 - SCD S/A
     - 460 - UNAVANTI SCD S/A
@@ -108,7 +112,8 @@
     - 323 - MERCADO PAGO IP LTDA.
 
 ### 2022-01-05 - [@guibranco](https://github.com/guibranco):
-- Added 1 banks 
+
+- Added 1 bank 
     - 463 - AZUMI DTVM 
 - Updated 6 banks 
     - 350 - CREHNOR LARANJEIRAS
@@ -119,6 +124,7 @@
     - 743 - BANCO SEMEAR
 
 ### 2021-12-13 - [@guibranco](https://github.com/guibranco):
+
 - Added 2 banks
     - 467 - MASTER S/A CCTVM
     - 465 - CAPITAL CONSIG SCD S.A.
@@ -129,6 +135,7 @@
     - 462 - STARK SCD S.A.
 
 ### 2021-11-22 - [@guibranco](https://github.com/guibranco):
+
 - Added 4 banks 
     - 459 - CCM SERV. PÚBLICOS SP
     - 461 - ASAAS IP S.A.
@@ -139,6 +146,7 @@
     - 457 - UY3 SCD S/A
 
 ### 2021-10-23 - [@guibranco](https://github.com/guibranco):
+
 - Added 3 banks 
     - 449 - DMCARD SCD S.A.
     - 457 - PLATACRED SCD S.A.
@@ -149,6 +157,7 @@
     - 440 - CREDIBRF COOP
 
 ### 2021-09-28 - [@guibranco](https://github.com/guibranco):
+
 - Added 2 banks
     - 447 - MIRAE ASSET CCTVM LTDA
     - 439 - ID CTVM 
@@ -159,6 +168,7 @@
     - 260 - NU PAGAMENTOS - IP
 
 ### 2021-09-13 - [@guibranco](https://github.com/guibranco):
+
 - Added 6 banks 
     - 429 - CREDIARE CFI S.A.
     - 458 - HEDGE INVESTMENTS DTVM LTDA.
@@ -171,6 +181,7 @@
     - 630 - BCO LETSBANK S.A.
 
 ### 2021-08-24 - [@guibranco](https://github.com/guibranco):
+
 - Added 5 banks
     - 430 - CCR SEARA
     - 195 - VALOR SCD S.A.
@@ -183,12 +194,14 @@
     - 745 - BCO CITIBANK S.A.
 
 ### 2021-08-02 - [@guibranco](https://github.com/guibranco):
+
 - Added 2 banks
     - 421 - LAR CREDI 
     - 425 - SOCINAL
 - Updated 2 banks
 
 ### 2021-06-22 - [@guibranco](https://github.com/guibranco):
+
 - Added 2 banks
 - Updated 4 banks (SPI/PIX)
 
