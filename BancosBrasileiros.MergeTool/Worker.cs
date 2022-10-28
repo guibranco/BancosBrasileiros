@@ -37,7 +37,7 @@ namespace BancosBrasileiros.MergeTool
             var reader = new Reader();
 
             var source = reader.LoadBase();
-            var initial = source.ToArray().ToList();
+            var original = DeepClone(source);
 
             var ctc = reader.LoadCtc();
             var siloc = reader.LoadSiloc();
@@ -47,7 +47,6 @@ namespace BancosBrasileiros.MergeTool
             var str = reader.LoadStr();
             var pcps = reader.LoadPcps();
 
-            var original = DeepClone(source);
 
             Logger.Log($"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} \r\n", ConsoleColor.DarkGreen);
 
@@ -92,7 +91,7 @@ namespace BancosBrasileiros.MergeTool
 
             foreach (var exc in except)
             {
-                var isUpdated = initial.Any(b => b.Ispb == exc.Ispb);
+                var isUpdated = source.Any(b => b.Ispb == exc.Ispb);
 
                 if (isUpdated)
                     updated.Add(exc);
