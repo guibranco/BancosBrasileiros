@@ -4523,7 +4523,7 @@
     "COMPE": "402",
     "ISPB": "36947229",
     "Document": "36.947.229/0001-85",
-    "LongName": "COBUCCIO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "LongName": "COBUCCIO S/A - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS",
     "ShortName": "COBUCCIO S.A. SCFI",
     "Network": "RSFN",
     "Type": null,
@@ -4536,7 +4536,7 @@
     "DateOperationStarted": "2020-12-03",
     "DatePixStarted": "2021-12-08 09:15:00",
     "DateRegistered": "2021-05-05T09:11:12.7115132-03:00",
-    "DateUpdated": "2022-10-28T12:08:51.5275633+00:00"
+    "DateUpdated": "2022-10-29T12:07:14.5243332+00:00"
   },
   {
     "COMPE": "403",
@@ -4715,8 +4715,8 @@
     "COMPE": "414",
     "ISPB": "37526080",
     "Document": "37.526.080/0001-23",
-    "LongName": "WORK SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "WORK SCD S.A.",
+    "LongName": "LEND SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "LEND SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -4728,7 +4728,7 @@
     "DateOperationStarted": "2021-03-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711514-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115142-03:00"
+    "DateUpdated": "2022-10-29T12:07:14.5244799+00:00"
   },
   {
     "COMPE": "416",
@@ -5208,8 +5208,8 @@
     "COMPE": "450",
     "ISPB": "13203354",
     "Document": "13.203.354/0001-85",
-    "LongName": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
-    "ShortName": "FITBANK PAGAMENTOS ELETRONICOS S.A.",
+    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.",
+    "ShortName": "FITBANK IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5221,7 +5221,7 @@
     "DateOperationStarted": "2021-06-30",
     "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3656028+00:00"
+    "DateUpdated": "2022-10-29T12:07:14.5229596+00:00"
   },
   {
     "COMPE": "451",

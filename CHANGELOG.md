@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2022-10-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 3 banks
+	- 402 - COBUCCIO S.A. SCFI - 36.947.229/0001-85
+	- 414 - LEND SCD S.A. - 37.526.080/0001-23
+	- 450 - FITBANK IP - 13.203.354/0001-85
+
 ### 2022-10-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

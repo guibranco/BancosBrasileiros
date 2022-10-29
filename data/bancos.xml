@@ -3629,7 +3629,7 @@
     <COMPE>402</COMPE>
     <ISPB>36947229</ISPB>
     <Document>36.947.229/0001-85</Document>
-    <LongName>COBUCCIO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <LongName>COBUCCIO S/A - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
     <ShortName>COBUCCIO S.A. SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -3638,7 +3638,7 @@
     <DateOperationStarted>2020-12-03</DateOperationStarted>
     <DatePixStarted>2021-12-08 09:15:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115132-03:00</DateRegistered>
-    <DateUpdated>2022-10-28T12:08:51.5275633Z</DateUpdated>
+    <DateUpdated>2022-10-29T12:07:14.5243332Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>403</COMPE>
@@ -3782,14 +3782,14 @@
     <COMPE>414</COMPE>
     <ISPB>37526080</ISPB>
     <Document>37.526.080/0001-23</Document>
-    <LongName>WORK SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>WORK SCD S.A.</ShortName>
+    <LongName>LEND SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>LEND SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-03-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711514-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115142-03:00</DateUpdated>
+    <DateUpdated>2022-10-29T12:07:14.5244799Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>416</COMPE>
@@ -4145,8 +4145,8 @@
     <COMPE>450</COMPE>
     <ISPB>13203354</ISPB>
     <Document>13.203.354/0001-85</Document>
-    <LongName>FITBANK PAGAMENTOS ELETRONICOS S.A.</LongName>
-    <ShortName>FITBANK PAGAMENTOS ELETRONICOS S.A.</ShortName>
+    <LongName>FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.</LongName>
+    <ShortName>FITBANK IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -4154,7 +4154,7 @@
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3656028Z</DateUpdated>
+    <DateUpdated>2022-10-29T12:07:14.5229596Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>451</COMPE>
