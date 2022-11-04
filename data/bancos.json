@@ -5887,8 +5887,8 @@
     "COMPE": "512",
     "ISPB": "36266751",
     "Document": "36.266.751/0001-00",
-    "LongName": "CAPTALYS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "ShortName": "CAPTALYS DTVM LTDA.",
+    "LongName": "FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "FINVEST DTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -5900,7 +5900,7 @@
     "DateOperationStarted": "2022-08-01",
     "DatePixStarted": null,
     "DateRegistered": "2022-07-20T12:06:03.4386093+00:00",
-    "DateUpdated": "2022-07-20T12:06:03.4386094+00:00"
+    "DateUpdated": "2022-11-04T12:08:27.675962+00:00"
   },
   {
     "COMPE": "516",

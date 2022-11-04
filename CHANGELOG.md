@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-11-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 512 - FINVEST DTVM - 36.266.751/0001-00
+
 ### 2022-10-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 3 banks

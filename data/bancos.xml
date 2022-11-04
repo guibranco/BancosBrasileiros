@@ -4644,14 +4644,14 @@
     <COMPE>512</COMPE>
     <ISPB>36266751</ISPB>
     <Document>36.266.751/0001-00</Document>
-    <LongName>CAPTALYS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>CAPTALYS DTVM LTDA.</ShortName>
+    <LongName>FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>FINVEST DTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-08-01</DateOperationStarted>
     <DateRegistered>2022-07-20T12:06:03.4386093Z</DateRegistered>
-    <DateUpdated>2022-07-20T12:06:03.4386094Z</DateUpdated>
+    <DateUpdated>2022-11-04T12:08:27.675962Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>516</COMPE>
