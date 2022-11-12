@@ -899,16 +899,16 @@
     "ShortName": "BANCO RANDON S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancorandon.com",
     "DateOperationStarted": "2020-08-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-11-21 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114729-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114731-03:00"
+    "DateUpdated": "2022-11-12T12:06:33.149399+00:00"
   },
   {
     "COMPE": "089",
@@ -5923,6 +5923,25 @@
     "DatePixStarted": null,
     "DateRegistered": "2022-10-21T12:08:38.2728811+00:00",
     "DateUpdated": "2022-10-21T12:08:38.2179312+00:00"
+  },
+  {
+    "COMPE": "529",
+    "ISPB": "17079937",
+    "Document": "17.079.937/0001-05",
+    "LongName": "PINBANK BRASIL INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "PINBANK IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-11-16",
+    "DatePixStarted": "2021-12-20 15:08:20",
+    "DateRegistered": "2022-11-12T12:06:34.2025683+00:00",
+    "DateUpdated": "2022-11-12T12:06:33.1744957+00:00"
   },
   {
     "COMPE": "545",

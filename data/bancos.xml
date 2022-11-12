@@ -781,12 +781,14 @@
     <ShortName>BANCO RANDON S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url>https://www.bancorandon.com</Url>
     <DateOperationStarted>2020-08-03</DateOperationStarted>
+    <DatePixStarted>2022-11-21 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114729-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114731-03:00</DateUpdated>
+    <DateUpdated>2022-11-12T12:06:33.149399Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>089</COMPE>
@@ -4669,6 +4671,21 @@
     <DateOperationStarted>2022-10-24</DateOperationStarted>
     <DateRegistered>2022-10-21T12:08:38.2728811Z</DateRegistered>
     <DateUpdated>2022-10-21T12:08:38.2179312Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>529</COMPE>
+    <ISPB>17079937</ISPB>
+    <Document>17.079.937/0001-05</Document>
+    <LongName>PINBANK BRASIL INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PINBANK IP</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-11-16</DateOperationStarted>
+    <DatePixStarted>2021-12-20 15:08:20</DatePixStarted>
+    <DateRegistered>2022-11-12T12:06:34.2025683Z</DateRegistered>
+    <DateUpdated>2022-11-12T12:06:33.1744957Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>545</COMPE>

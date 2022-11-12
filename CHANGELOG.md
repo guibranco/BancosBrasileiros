@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2022-11-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 2 banks
+	- 88 - BANCO RANDON S.A. - 11.476.673/0001-39
+	- 529 - PINBANK IP - 17.079.937/0001-05
+
 ### 2022-11-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
