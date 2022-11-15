@@ -4630,6 +4630,19 @@
     <DateUpdated>2022-08-13T12:30:35.4201883Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>510</COMPE>
+    <ISPB>39738065</ISPB>
+    <Document>39.738.065/0001-74</Document>
+    <LongName>FFCRED SOCIEDADE DE CRÉDITO DIRETO S.A..</LongName>
+    <ShortName>FFCRED SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-11-18</DateOperationStarted>
+    <DateRegistered>2022-11-15T12:07:18.5294791Z</DateRegistered>
+    <DateUpdated>2022-11-15T12:07:18.5294792Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>511</COMPE>
     <ISPB>44683140</ISPB>
     <Document>44.683.140/0001-87</Document>

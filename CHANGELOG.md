@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-11-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 510 - FFCRED SCD S.A. - 39.738.065/0001-74
+
 ### 2022-11-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 2 banks
