@@ -3924,14 +3924,16 @@
     <LongName>COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO</LongName>
     <ShortName>CRED-UFES</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Products>
       <Product>Consignado e Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2021-04-26</DateOperationStarted>
+    <DatePixStarted>2022-11-22 13:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114971-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.9098416Z</DateUpdated>
+    <DateUpdated>2022-11-18T12:06:54.7507678Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>428</COMPE>

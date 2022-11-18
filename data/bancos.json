@@ -4901,7 +4901,7 @@
     "ShortName": "CRED-UFES",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
@@ -4910,9 +4910,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2021-04-26",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-11-22 13:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114971-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.9098416+00:00"
+    "DateUpdated": "2022-11-18T12:06:54.7507678+00:00"
   },
   {
     "COMPE": "428",

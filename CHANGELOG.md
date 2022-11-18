@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-11-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 427 - CRED-UFES - 27.302.181/0001-67
+
 ### 2022-11-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
