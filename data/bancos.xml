@@ -2548,11 +2548,13 @@
     <LongName>HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LT</LongName>
     <ShortName>HSCM SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-09</DateOperationStarted>
+    <DatePixStarted>2022-12-12 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114635-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114636-03:00</DateUpdated>
+    <DateUpdated>2022-11-26T12:06:05.5091259Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>313</COMPE>

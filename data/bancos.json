@@ -3168,16 +3168,16 @@
     "ShortName": "HSCM SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-09",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-12-12 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114635-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114636-03:00"
+    "DateUpdated": "2022-11-26T12:06:05.5091259+00:00"
   },
   {
     "COMPE": "313",

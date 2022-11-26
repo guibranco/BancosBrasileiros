@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-11-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 312 - HSCM SCMEPP LTDA. - 07.693.858/0001-28
+
 ### 2022-11-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
