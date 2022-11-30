@@ -5281,6 +5281,25 @@
     "DateUpdated": "2021-11-22T11:00:23.6790225-03:00"
   },
   {
+    "COMPE": "455",
+    "ISPB": "38429045",
+    "Document": "38.429.045/0001-59",
+    "LongName": "FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "FÊNIX DTVM LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-12-05",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-11-30T12:07:13.984961+00:00",
+    "DateUpdated": "2022-11-30T12:07:13.984961+00:00"
+  },
+  {
     "COMPE": "456",
     "ISPB": "60498557",
     "Document": "60.498.557/0001-26",
@@ -5922,6 +5941,25 @@
     "DateUpdated": "2022-11-04T12:08:27.675962+00:00"
   },
   {
+    "COMPE": "513",
+    "ISPB": "44728700",
+    "Document": "44.728.700/0001-72",
+    "LongName": "ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ATF CREDIT SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-12-02",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-11-30T12:07:13.9849611+00:00",
+    "DateUpdated": "2022-11-30T12:07:13.9849612+00:00"
+  },
+  {
     "COMPE": "516",
     "ISPB": "36583700",
     "Document": "36.583.700/0001-01",
@@ -5942,6 +5980,25 @@
     "DatePixStarted": null,
     "DateRegistered": "2022-10-21T12:08:38.2728811+00:00",
     "DateUpdated": "2022-10-21T12:08:38.2179312+00:00"
+  },
+  {
+    "COMPE": "525",
+    "ISPB": "34265629",
+    "Document": "34.265.629/0001-85",
+    "LongName": "INTERCAM CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "INTERCAM CC LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-12-05",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-11-30T12:07:13.9849608+00:00",
+    "DateUpdated": "2022-11-30T12:07:13.9849609+00:00"
   },
   {
     "COMPE": "529",

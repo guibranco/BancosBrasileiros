@@ -4202,6 +4202,19 @@
     <DateUpdated>2021-11-22T11:00:23.6790225-03:00</DateUpdated>
   </bank>
   <bank>
+    <COMPE>455</COMPE>
+    <ISPB>38429045</ISPB>
+    <Document>38.429.045/0001-59</Document>
+    <LongName>FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>FÊNIX DTVM LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-12-05</DateOperationStarted>
+    <DateRegistered>2022-11-30T12:07:13.984961Z</DateRegistered>
+    <DateUpdated>2022-11-30T12:07:13.984961Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>456</COMPE>
     <ISPB>60498557</ISPB>
     <Document>60.498.557/0001-26</Document>
@@ -4673,6 +4686,19 @@
     <DateUpdated>2022-11-04T12:08:27.675962Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>513</COMPE>
+    <ISPB>44728700</ISPB>
+    <Document>44.728.700/0001-72</Document>
+    <LongName>ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ATF CREDIT SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-12-02</DateOperationStarted>
+    <DateRegistered>2022-11-30T12:07:13.9849611Z</DateRegistered>
+    <DateUpdated>2022-11-30T12:07:13.9849612Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>516</COMPE>
     <ISPB>36583700</ISPB>
     <Document>36.583.700/0001-01</Document>
@@ -4688,6 +4714,19 @@
     <DateOperationStarted>2022-10-24</DateOperationStarted>
     <DateRegistered>2022-10-21T12:08:38.2728811Z</DateRegistered>
     <DateUpdated>2022-10-21T12:08:38.2179312Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>525</COMPE>
+    <ISPB>34265629</ISPB>
+    <Document>34.265.629/0001-85</Document>
+    <LongName>INTERCAM CORRETORA DE CÂMBIO LTDA.</LongName>
+    <ShortName>INTERCAM CC LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-12-05</DateOperationStarted>
+    <DateRegistered>2022-11-30T12:07:13.9849608Z</DateRegistered>
+    <DateUpdated>2022-11-30T12:07:13.9849609Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>529</COMPE>

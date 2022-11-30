@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2022-11-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 3 banks
+	- 525 - INTERCAM CC LTDA - 34.265.629/0001-85
+	- 455 - FÊNIX DTVM LTDA. - 38.429.045/0001-59
+	- 513 - ATF CREDIT SCD S.A. - 44.728.700/0001-72
+
 ### 2022-11-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
