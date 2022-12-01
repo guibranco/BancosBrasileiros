@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-12-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 12 - BANCO INBURSA - 04.866.275/0001-63
+
 ### 2022-11-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 3 banks

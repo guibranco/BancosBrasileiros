@@ -124,7 +124,7 @@
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <Products>
-      <Product>Consigando</Product>
+      <Product>Consignado</Product>
       <Product>Pessoal</Product>
       <Product>Veiculos e Outros Créditos.</Product>
     </Products>
@@ -132,7 +132,7 @@
     <DateOperationStarted>2017-05-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711456-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5500211Z</DateUpdated>
+    <DateUpdated>2022-12-01T12:07:10.8434598Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>014</COMPE>
