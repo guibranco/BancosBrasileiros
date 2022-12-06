@@ -3862,8 +3862,8 @@
     "COMPE": "364",
     "ISPB": "09089356",
     "Document": "09.089.356/0001-18",
-    "LongName": "GERENCIANET S.A.",
-    "ShortName": "GERENCIANET",
+    "LongName": "GERENCIANET S.A- INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "GERENCIANET IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3875,7 +3875,7 @@
     "DateOperationStarted": "2020-03-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114668-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3607764+00:00"
+    "DateUpdated": "2022-12-06T12:06:50.2975387+00:00"
   },
   {
     "COMPE": "365",

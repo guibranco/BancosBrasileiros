@@ -3109,8 +3109,8 @@
     <COMPE>364</COMPE>
     <ISPB>09089356</ISPB>
     <Document>09.089.356/0001-18</Document>
-    <LongName>GERENCIANET S.A.</LongName>
-    <ShortName>GERENCIANET</ShortName>
+    <LongName>GERENCIANET S.A- INSTITUIÇÃO DE PAGAMENTO</LongName>
+    <ShortName>GERENCIANET IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -3118,7 +3118,7 @@
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114668-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3607764Z</DateUpdated>
+    <DateUpdated>2022-12-06T12:06:50.2975387Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>365</COMPE>

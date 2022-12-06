@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-12-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 364 - GERENCIANET IP - 09.089.356/0001-18
+
 ### 2022-12-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
