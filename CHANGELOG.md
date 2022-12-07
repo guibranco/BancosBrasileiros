@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-12-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 519 - LIONS TRUST DTVM - 40.768.766/0001-35
+
 ### 2022-12-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

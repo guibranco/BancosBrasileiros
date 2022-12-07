@@ -5982,6 +5982,25 @@
     "DateUpdated": "2022-10-21T12:08:38.2179312+00:00"
   },
   {
+    "COMPE": "519",
+    "ISPB": "40768766",
+    "Document": "40.768.766/0001-35",
+    "LongName": "LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "LIONS TRUST DTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-12-12",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-12-07T12:06:48.2610092+00:00",
+    "DateUpdated": "2022-12-07T12:06:48.2610093+00:00"
+  },
+  {
     "COMPE": "525",
     "ISPB": "34265629",
     "Document": "34.265.629/0001-85",

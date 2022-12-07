@@ -4716,6 +4716,19 @@
     <DateUpdated>2022-10-21T12:08:38.2179312Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>519</COMPE>
+    <ISPB>40768766</ISPB>
+    <Document>40.768.766/0001-35</Document>
+    <LongName>LIONS TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>LIONS TRUST DTVM</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-12-12</DateOperationStarted>
+    <DateRegistered>2022-12-07T12:06:48.2610092Z</DateRegistered>
+    <DateUpdated>2022-12-07T12:06:48.2610093Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>525</COMPE>
     <ISPB>34265629</ISPB>
     <Document>34.265.629/0001-85</Document>
