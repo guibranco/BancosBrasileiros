@@ -3784,7 +3784,7 @@
     "ShortName": "ZEMA CFI S/A",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
@@ -3797,9 +3797,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2020-06-10",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114578-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2350114+00:00"
+    "DateUpdated": "2022-12-08T12:06:48.0726514+00:00"
   },
   {
     "COMPE": "360",
@@ -5863,6 +5863,25 @@
     "DatePixStarted": null,
     "DateRegistered": "2022-07-19T12:06:21.2700855+00:00",
     "DateUpdated": "2022-07-19T12:06:21.2700856+00:00"
+  },
+  {
+    "COMPE": "507",
+    "ISPB": "37229413",
+    "Document": "37.229.413/0001-52",
+    "LongName": "GERENCIANET S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "GERENCIANET CFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2022-12-12",
+    "DatePixStarted": null,
+    "DateRegistered": "2022-12-08T12:06:49.6471588+00:00",
+    "DateUpdated": "2022-12-08T12:06:49.6471589+00:00"
   },
   {
     "COMPE": "508",

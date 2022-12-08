@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2022-12-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 2 banks
+	- 359 - ZEMA CFI S/A - 05.351.887/0001-86
+	- 507 - GERENCIANET CFI - 37.229.413/0001-52
+
 ### 2022-12-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

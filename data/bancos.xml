@@ -3051,6 +3051,7 @@
     <LongName>ZEMA CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A</LongName>
     <ShortName>ZEMA CFI S/A</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <Products>
@@ -3061,8 +3062,9 @@
       <Product>Veiculos</Product>
     </Products>
     <DateOperationStarted>2020-06-10</DateOperationStarted>
+    <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114578-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2350114Z</DateUpdated>
+    <DateUpdated>2022-12-08T12:06:48.0726514Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>360</COMPE>
@@ -4632,6 +4634,19 @@
     <DateOperationStarted>2022-07-21</DateOperationStarted>
     <DateRegistered>2022-07-19T12:06:21.2700855Z</DateRegistered>
     <DateUpdated>2022-07-19T12:06:21.2700856Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>507</COMPE>
+    <ISPB>37229413</ISPB>
+    <Document>37.229.413/0001-52</Document>
+    <LongName>GERENCIANET S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>GERENCIANET CFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2022-12-12</DateOperationStarted>
+    <DateRegistered>2022-12-08T12:06:49.6471588Z</DateRegistered>
+    <DateUpdated>2022-12-08T12:06:49.6471589Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>508</COMPE>
