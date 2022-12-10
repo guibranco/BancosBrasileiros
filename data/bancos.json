@@ -3489,8 +3489,8 @@
     "COMPE": "332",
     "ISPB": "13140088",
     "Document": "13.140.088/0001-99",
-    "LongName": "Acesso Soluções de Pagamento S.A.",
-    "ShortName": "ACESSO SOLUCOES PAGAMENTO SA",
+    "LongName": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "ACESSO SOLUÇÕES DE PAGAMENTO S.A. – INSTITUIÇÃO DE PAGAMENTO",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3502,7 +3502,7 @@
     "DateOperationStarted": "2019-08-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114807-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3690567+00:00"
+    "DateUpdated": "2022-12-10T12:08:00.2202608+00:00"
   },
   {
     "COMPE": "335",
