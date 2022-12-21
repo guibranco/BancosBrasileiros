@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2022-12-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 2 banks
+	- 286 - UNIPRIME OURO - COOP DE OURO - 07.853.842/0001-35
+	- 299 - BCO AFINZ S.A. - BM - 04.814.563/0001-74
+
 ### 2022-12-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

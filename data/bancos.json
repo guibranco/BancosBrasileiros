@@ -2857,8 +2857,8 @@
     "COMPE": "286",
     "ISPB": "07853842",
     "Document": "07.853.842/0001-35",
-    "LongName": "COOPERATIVA DE CRÉDITO RURAL DE OURO   SULCREDI/OURO",
-    "ShortName": "CCR DE OURO",
+    "LongName": "UNIPRIME OURO - COOPERATIVA DE CRÉDITO DE OURO",
+    "ShortName": "UNIPRIME OURO - COOP DE OURO",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -2870,7 +2870,7 @@
     "DateOperationStarted": "2018-09-17",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114638-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.711464-03:00"
+    "DateUpdated": "2022-12-21T12:06:36.8858485+00:00"
   },
   {
     "COMPE": "288",
@@ -3009,8 +3009,8 @@
     "COMPE": "299",
     "ISPB": "04814563",
     "Document": "04.814.563/0001-74",
-    "LongName": "BANCO SOROCRED S.A. - BANCO MÚLTIPLO",
-    "ShortName": "BCO SOROCRED S.A. - BM",
+    "LongName": "BANCO AFINZ S.A. - BANCO MÚLTIPLO",
+    "ShortName": "BCO AFINZ S.A. - BM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -3025,7 +3025,7 @@
     "DateOperationStarted": "2018-12-03",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114556-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4005228+00:00"
+    "DateUpdated": "2022-12-21T12:06:36.8854042+00:00"
   },
   {
     "COMPE": "300",

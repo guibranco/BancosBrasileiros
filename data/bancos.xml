@@ -2324,8 +2324,8 @@
     <COMPE>286</COMPE>
     <ISPB>07853842</ISPB>
     <Document>07.853.842/0001-35</Document>
-    <LongName>COOPERATIVA DE CRÉDITO RURAL DE OURO   SULCREDI/OURO</LongName>
-    <ShortName>CCR DE OURO</ShortName>
+    <LongName>UNIPRIME OURO - COOPERATIVA DE CRÉDITO DE OURO</LongName>
+    <ShortName>UNIPRIME OURO - COOP DE OURO</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2333,7 +2333,7 @@
     <DateOperationStarted>2018-09-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114638-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.711464-03:00</DateUpdated>
+    <DateUpdated>2022-12-21T12:06:36.8858485Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>288</COMPE>
@@ -2433,8 +2433,8 @@
     <COMPE>299</COMPE>
     <ISPB>04814563</ISPB>
     <Document>04.814.563/0001-74</Document>
-    <LongName>BANCO SOROCRED S.A. - BANCO MÚLTIPLO</LongName>
-    <ShortName>BCO SOROCRED S.A. - BM</ShortName>
+    <LongName>BANCO AFINZ S.A. - BANCO MÚLTIPLO</LongName>
+    <ShortName>BCO AFINZ S.A. - BM</ShortName>
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
@@ -2444,7 +2444,7 @@
     </Products>
     <DateOperationStarted>2018-12-03</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114556-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4005228Z</DateUpdated>
+    <DateUpdated>2022-12-21T12:06:36.8854042Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>300</COMPE>
