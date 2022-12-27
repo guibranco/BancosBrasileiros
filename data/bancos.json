@@ -5190,7 +5190,7 @@
     "ISPB": "37555231",
     "Document": "37.555.231/0001-71",
     "LongName": "DM SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "DMCARD SCD S.A.",
+    "ShortName": "DM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -5202,7 +5202,7 @@
     "DateOperationStarted": "2021-10-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-10-23T20:55:03.4293187-03:00",
-    "DateUpdated": "2022-12-23T12:06:35.9211418+00:00"
+    "DateUpdated": "2022-12-27T12:06:36.1117922+00:00"
   },
   {
     "COMPE": "450",

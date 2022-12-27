@@ -4141,13 +4141,13 @@
     <ISPB>37555231</ISPB>
     <Document>37.555.231/0001-71</Document>
     <LongName>DM SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>DMCARD SCD S.A.</ShortName>
+    <ShortName>DM</ShortName>
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2021-10-22</DateOperationStarted>
     <DateRegistered>2021-10-23T20:55:03.4293187-03:00</DateRegistered>
-    <DateUpdated>2022-12-23T12:06:35.9211418Z</DateUpdated>
+    <DateUpdated>2022-12-27T12:06:36.1117922Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>450</COMPE>

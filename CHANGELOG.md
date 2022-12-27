@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-12-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 449 - DM - 37.555.231/0001-71
+
 ### 2022-12-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
