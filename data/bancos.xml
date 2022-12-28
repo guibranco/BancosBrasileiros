@@ -3896,6 +3896,7 @@
     <LongName>SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>SOCINAL S.A. CFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <Products>
@@ -3905,8 +3906,9 @@
       <Product>Veículos e Outros Créditos</Product>
     </Products>
     <DateOperationStarted>2021-07-27</DateOperationStarted>
+    <DatePixStarted>2022-12-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601087-03:00</DateRegistered>
-    <DateUpdated>2022-07-27T12:06:28.7956742Z</DateUpdated>
+    <DateUpdated>2022-12-28T12:06:49.6418965Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>426</COMPE>

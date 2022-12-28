@@ -4858,7 +4858,7 @@
     "ShortName": "SOCINAL S.A. CFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
@@ -4870,9 +4870,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2021-07-27",
-    "DatePixStarted": null,
+    "DatePixStarted": "2022-12-30 10:00:00",
     "DateRegistered": "2021-08-02T11:56:55.6601087-03:00",
-    "DateUpdated": "2022-07-27T12:06:28.7956742+00:00"
+    "DateUpdated": "2022-12-28T12:06:49.6418965+00:00"
   },
   {
     "COMPE": "426",

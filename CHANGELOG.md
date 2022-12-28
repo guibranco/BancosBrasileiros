@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2022-12-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 425 - SOCINAL S.A. CFI - 03.881.423/0001-56
+
 ### 2022-12-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
