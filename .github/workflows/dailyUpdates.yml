@@ -56,7 +56,7 @@ jobs:
       - name: Checkout developer
         uses: actions/checkout@v3
         with:
-          ref: master
+          ref: main
         
       - name: Check artifact banks files
         uses: xSAVIKx/artifact-exists-action@v0
@@ -94,5 +94,5 @@ jobs:
         run: |
           git add .
           git commit -m "Daily updates (bot)"
-          git push origin master
+          git push origin main
 

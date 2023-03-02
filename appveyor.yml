@@ -5,7 +5,7 @@ skip_commits:
     message: /(Create|Update).*\.(png|jpg|jpeg|bmp|gif|md)/
 branches:
     only:
-    - master
+    - main
 environment:
     nodejs_version: 14.3.0
 install:
@@ -37,5 +37,5 @@ deploy:
 - provider: Environment
   name: NuGet
   on:
-   branch: master
+   branch: main
   artifact: Package

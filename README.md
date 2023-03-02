@@ -9,6 +9,9 @@ Lista de bancos comerciais brasileiros
 [![Known Vulnerabilities](https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic)](https://snyk.io/test/github/guibranco/BancosBrasileiros)
 [![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 
+
+![Bancos Brasileiros logo](logo.png)
+
 ***For a english version of README.md, please [follow me](/README.en.md)***
 
 ---

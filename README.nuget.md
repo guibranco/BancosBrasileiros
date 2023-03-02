@@ -7,6 +7,9 @@ Brazilian commercial banks list
 [![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 [![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 
+
+![Bancos Brasileiros logo](logo.png)
+
 ---
 
 ## Available data

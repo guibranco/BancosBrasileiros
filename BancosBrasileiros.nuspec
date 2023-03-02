@@ -2,7 +2,8 @@
 <package>
   <metadata>
     <id>BancosBrasileiros</id>
-    <version>3.0.0</version>
+    <version>4.0.0</version>
+    <icon>logo.png</icon>
     <readme>README.md</readme>
     <title>Bancos Brasileiros</title>
     <authors>Guilherme Branco Stracini</authors>
@@ -25,6 +26,7 @@
   <files>
     <file src="schemas\csharp.cs" target="contentFiles\any\any\bank.cs" />
     <file src="data\bancos.json" target="contentFiles\any\any\banks.json" />
-    <file src="README.nuget.md" target="README.md" />
+    <file src="logo.png" />
+    <file src="README.nuget.md" target="README.md" />    
   </files>
 </package>
