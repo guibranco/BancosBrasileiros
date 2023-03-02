@@ -44,7 +44,7 @@ Cada uma das listas possui as seguintes informações (schema):
 | SalaryPortability | Efetua/recebe portabilidade de salário | "Banco folha e Destinatário" - ambas as operações,  "Destinatário" - apenas recebe, null
 | Products | Lista de produtos oferecidos | Apenas em português |
 | Url | Website | - |
-| DateOperationStarted | Data de início da operação | - |
+| DateOperationStarted | Data de início da operação comercial | - |
 | DatePixStarted | Data de início da operação PIX | Somente para PSP do SPI |
 | DateRegistered | Data de cadastro no schema | - |
 | DateUpdated | Data de alteração no schema | - |
