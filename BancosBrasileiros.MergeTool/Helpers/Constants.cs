@@ -21,12 +21,12 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// The change log URL
         /// </summary>
-        public const string ChangeLogUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/CHANGELOG.md";
+        public const string ChangeLogUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/CHANGELOG.md";
 
         /// <summary>
         /// The base URL
         /// </summary>
-        public const string BaseUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/master/data/bancos.json";
+        public const string BaseUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/data/bancos.json";
 
         /// <summary>
         /// The string URL
