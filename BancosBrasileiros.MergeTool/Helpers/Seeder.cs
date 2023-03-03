@@ -146,7 +146,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 updated++;
             }
 
-            Logger.Log($"\r\nSTR | Updated: {updated} | Name different: {nameDifferent}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log($"\r\nSITRAF | Updated: {updated} | Name different: {nameDifferent}\r\n", ConsoleColor.DarkYellow);
 
             return this;
         }

@@ -64,6 +64,35 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return content.ReadAsStringAsync().Result;
         }
 
+        private static List<Bank> DownloadAndParsePdf(string url, string system, Func<string, IEnumerable<Bank>> callback)
+        {
+            var result = new List<Bank>();
+            PdfReader reader;
+
+            try
+            {
+                Logger.Log($"Downloading {system}", ConsoleColor.Green);
+                reader = new(url);
+            }
+            catch (Exception e)
+            {
+                Logger.Log($"Error downloading {system}: {e.Message}", ConsoleColor.DarkRed);
+                return result;
+            }
+
+            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
+            {
+                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
+                currentText = Encoding.UTF8.GetString(Encoding.Convert(
+                    Encoding.Default,
+                    Encoding.UTF8,
+                    Encoding.Default.GetBytes(currentText)));
+                result.AddRange(callback(currentText));
+            }
+
+            return result;
+        }
+
         /// <summary>
         /// Loads the change log.
         /// </summary>
@@ -148,7 +177,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="date">The date.</param>
         /// <returns>string.</returns>
-        private string GetPixData(DateTime date)
+        private static string GetPixData(DateTime date)
         {
             try
             {
@@ -166,21 +195,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSlc()
         {
-            Logger.Log("Downloading SLC", ConsoleColor.Green);
             _countingSlc = 0;
-            var result = new List<Bank>();
-            var reader = new PdfReader(Constants.SlcUrl);
-            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
-            {
-                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
-                currentText = Encoding.UTF8.GetString(Encoding.Convert(
-                    Encoding.Default,
-                    Encoding.UTF8,
-                    Encoding.Default.GetBytes(currentText)));
-                result.AddRange(ParseLinesSlc(currentText));
-            }
+            return DownloadAndParsePdf(Constants.SlcUrl, "SLC", ParseLinesSlc);
 
-            return result;
         }
 
         /// <summary>
@@ -255,20 +272,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSiloc()
         {
-            Logger.Log("Downloading SILOC", ConsoleColor.Green);
-            var result = new List<Bank>();
-            var reader = new PdfReader(Constants.SilocUrl);
-            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
-            {
-                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
-                currentText = Encoding.UTF8.GetString(Encoding.Convert(
-                    Encoding.Default,
-                    Encoding.UTF8,
-                    Encoding.Default.GetBytes(currentText)));
-                result.AddRange(ParseLinesSiloc(currentText));
-            }
-
-            return result;
+            return DownloadAndParsePdf(Constants.SilocUrl, "SILOC", ParseLinesSiloc);
         }
 
         /// <summary>
@@ -276,7 +280,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="page">The page.</param>
         /// <returns>IEnumerable&lt;Bank&gt;.</returns>
-        private IEnumerable<Bank> ParseLinesSiloc(string page)
+        private static IEnumerable<Bank> ParseLinesSiloc(string page)
         {
             var result = new List<Bank>();
             var lines = page.Split("\n");
@@ -297,7 +301,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="line">The line.</param>
         /// <returns>Bank.</returns>
-        private Bank ParseLineSiloc(string line)
+        private static Bank ParseLineSiloc(string line)
         {
             if (!Patterns.SilocPattern.IsMatch(line))
                 return null;
@@ -320,21 +324,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadSitraf()
         {
-            Logger.Log("Downloading SITRAF", ConsoleColor.Green);
             _countingSitraf = 0;
-            var result = new List<Bank>();
-            var reader = new PdfReader(Constants.SitrafUrl);
-            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
-            {
-                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
-                currentText = Encoding.UTF8.GetString(Encoding.Convert(
-                    Encoding.Default,
-                    Encoding.UTF8,
-                    Encoding.Default.GetBytes(currentText)));
-                result.AddRange(ParseLinesSitraf(currentText));
-            }
-
-            return result;
+            return DownloadAndParsePdf(Constants.SitrafUrl, "SITRAF", ParseLinesSitraf);
         }
 
         /// <summary>
@@ -395,7 +386,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
             _countingSitraf++;
 
             if (_countingSitraf != code) Logger.Log($"SITRAF | Counting: {_countingSitraf++} | Code: {code}", ConsoleColor.DarkYellow);
-            
+
             return new()
             {
                 Compe = Convert.ToInt32(match.Groups["compe"].Value.Trim()),
@@ -410,21 +401,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadCtc()
         {
-            Logger.Log("Downloading CTC", ConsoleColor.Green);
             _countingCtc = 0;
-            var result = new List<Bank>();
-            var reader = new PdfReader(Constants.CtcUrl);
-            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
-            {
-                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
-                currentText = Encoding.UTF8.GetString(Encoding.Convert(
-                    Encoding.Default,
-                    Encoding.UTF8,
-                    Encoding.Default.GetBytes(currentText)));
-                result.AddRange(ParsePageCtc(currentText));
-            }
-
-            return result;
+            return DownloadAndParsePdf(Constants.CtcUrl, "CTC", ParsePageCtc);
         }
 
         /// <summary>
@@ -491,7 +469,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 Document = match.Groups["cnpj"].Value.Trim(),
                 IspbString = match.Groups["ispb"].Value.Trim(),
                 LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
-                Products = match.Groups["produtos"].Value.Split(",").Select(p => p.Trim()).OrderBy(p=>p).ToArray()
+                Products = match.Groups["produtos"].Value.Split(",").Select(p => p.Trim()).OrderBy(p => p).ToArray()
             };
         }
 
@@ -501,21 +479,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <returns>List&lt;Bank&gt;.</returns>
         public List<Bank> LoadPcps()
         {
-            Logger.Log("Downloading PCPS", ConsoleColor.Green);
             _countingPcps = 0;
-            var result = new List<Bank>();
-            var reader = new PdfReader(Constants.PcpsUrl);
-            for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
-            {
-                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
-                currentText = Encoding.UTF8.GetString(Encoding.Convert(
-                    Encoding.Default,
-                    Encoding.UTF8,
-                    Encoding.Default.GetBytes(currentText)));
-                result.AddRange(ParsePagePcps(currentText));
-            }
-
-            return result;
+            return DownloadAndParsePdf(Constants.PcpsUrl, "PCPS", ParsePagePcps);
         }
 
         /// <summary>
