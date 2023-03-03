@@ -39,14 +39,17 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Cheque Especial",
       "Consignado",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro",
+      "Veículos"
     ],
     "Url": "https://www.bancoamazonia.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114564-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5485925+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6465379+00:00"
   },
   {
     "COMPE": "004",
@@ -337,13 +340,14 @@
     "Products": [
       "Consignado",
       "Imobiliário",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos e Troca de Modalidade"
     ],
     "Url": "https://www.itau.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115099-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5500445+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6479655+00:00"
   },
   {
     "COMPE": "033",
@@ -361,7 +365,6 @@
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
-      "Outros Créditos",
       "Pessoal",
       "Troca de Modalidade e Capital de Giro",
       "Veículos"
@@ -370,7 +373,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115471-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4032283+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6511885+00:00"
   },
   {
     "COMPE": "036",
@@ -404,14 +407,17 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Cheque Especial",
       "Consignado",
-      "Imobiliário e Pessoal"
+      "Imobiliário",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
     ],
     "Url": "https://www.banpara.b.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114571-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4005858+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6473085+00:00"
   },
   {
     "COMPE": "040",
@@ -445,18 +451,19 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro e PRONAMPE",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.banrisul.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115478-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5493547+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6473187+00:00"
   },
   {
     "COMPE": "047",
@@ -720,13 +727,14 @@
     "Products": [
       "Consignado",
       "Imobiliário",
-      "Pessoal e Troca de Modalidade"
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
     ],
     "Url": "https://www.bancointer.com.br",
     "DateOperationStarted": "2008-08-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112852-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.3999887+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6479568+00:00"
   },
   {
     "COMPE": "078",
@@ -755,16 +763,16 @@
     "ShortName": "PICPAY BANK - BANCO MÚLTIPLO S.A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancooriginal.com.br",
     "DateOperationStarted": "2008-07-25",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-04-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114694-03:00",
-    "DateUpdated": "2022-07-07T12:06:14.8083896+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.1945968+00:00"
   },
   {
     "COMPE": "080",
@@ -819,13 +827,17 @@
     "CreditDocument": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Pessoal"
+      "Cheque Especial",
+      "Consignado",
+      "Outros Créditos",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
     ],
     "Url": "https://www.bancotopazio.com.br",
     "DateOperationStarted": "2009-06-12",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114631-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528824+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6512182+00:00"
   },
   {
     "COMPE": "083",
@@ -860,13 +872,14 @@
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
-      "Imobiliário Pessoal e Veículos"
+      "Imobiliário Pessoal",
+      "Veículos e Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2009-11-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114472-03:00",
-    "DateUpdated": "2022-08-05T12:06:01.5903749+00:00"
+    "DateUpdated": "2023-03-03T14:56:55.2689819+00:00"
   },
   {
     "COMPE": "085",
@@ -881,15 +894,19 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Cheque Especial",
       "Consignado",
-      "Imobiliário",
-      "Pessoal e Veículos"
+      "Imobiário",
+      "Outros Créditos",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2010-05-17",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114586-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.7043191+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.7767171+00:00"
   },
   {
     "COMPE": "088",
@@ -1013,16 +1030,16 @@
     "ShortName": "TRAVELEX BANCO DE CÂMBIO S.A.",
     "Network": "RSFN",
     "Type": "Banco de Câmbio",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancoconfidence.com.br",
     "DateOperationStarted": "2010-06-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-01-30 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114742-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114786-03:00"
+    "DateUpdated": "2023-03-03T14:56:54.2246781+00:00"
   },
   {
     "COMPE": "096",
@@ -1301,19 +1318,17 @@
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": [
-      "Cheque Especial",
+      "Cheque Especial e Troca de Modalidade",
       "Consignado",
       "Imobiliário",
-      "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2011-10-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114598-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.6974799+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.7705747+00:00"
   },
   {
     "COMPE": "117",
@@ -1342,16 +1357,16 @@
     "ShortName": "BCO WESTERN UNION",
     "Network": "RSFN",
     "Type": "Banco Comercial",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": false,
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancowesternunion.com.br",
     "DateOperationStarted": "2011-10-10",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-03-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114833-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3545616+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.2356798+00:00"
   },
   {
     "COMPE": "120",
@@ -2196,13 +2211,17 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
-      "Consignado e Imobiliário"
+      "Cheque Especial",
+      "Consignado",
+      "Imobiliário",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
     ],
     "Url": "https://www.original.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115492-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5516934+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6498959+00:00"
   },
   {
     "COMPE": "213",
@@ -2297,13 +2316,15 @@
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Veículos"
+      "Consignado",
+      "Pessoal",
+      "Veículos e Troca de Modalidade"
     ],
     "Url": "https://www.bancofibra.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115225-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5493824+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6473396+00:00"
   },
   {
     "COMPE": "233",
@@ -2409,7 +2430,8 @@
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": [
-      "Cheques Especial",
+      "Cheque Especial",
+      "Consignado",
       "Outros Créditos",
       "Pessoal",
       "Troca de Modalidade e Capital de Giro"
@@ -2418,7 +2440,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114992-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5477382+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6456766+00:00"
   },
   {
     "COMPE": "249",
@@ -3130,16 +3152,16 @@
     "ShortName": "VORTX DTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
-    "Charge": null,
-    "CreditDocument": null,
+    "PixType": "DRCT",
+    "Charge": true,
+    "CreditDocument": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2018-10-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-03-08 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114937-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114939-03:00"
+    "DateUpdated": "2023-03-03T14:56:55.3059096+00:00"
   },
   {
     "COMPE": "311",
@@ -3346,7 +3368,7 @@
     "Type": null,
     "PixType": "DRCT",
     "Charge": true,
-    "CreditDocument": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -3357,7 +3379,7 @@
     "DateOperationStarted": "2020-09-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114933-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5559184+00:00"
+    "DateUpdated": "2023-03-03T14:56:55.3032684+00:00"
   },
   {
     "COMPE": "325",
@@ -3505,6 +3527,25 @@
     "DateUpdated": "2022-12-13T12:06:52.2983548+00:00"
   },
   {
+    "COMPE": "334",
+    "ISPB": "15124464",
+    "Document": "15.124.464/0001-87",
+    "LongName": "BANCO BESA S.A.",
+    "ShortName": "BANCO BESA S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-02-22",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112604+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112605+00:00"
+  },
+  {
     "COMPE": "335",
     "ISPB": "27098060",
     "Document": "27.098.060/0001-45",
@@ -3517,13 +3558,13 @@
     "CreditDocument": null,
     "SalaryPortability": "Destinatário",
     "Products": [
-      "Consignado"
+      "Consignado e Outros Créditos"
     ],
     "Url": "https://www.digio.com.br",
     "DateOperationStarted": "2019-11-25",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114964-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5493125+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6472677+00:00"
   },
   {
     "COMPE": "336",
@@ -3862,8 +3903,8 @@
     "COMPE": "364",
     "ISPB": "09089356",
     "Document": "09.089.356/0001-18",
-    "LongName": "GERENCIANET S.A- INSTITUIÇÃO DE PAGAMENTO",
-    "ShortName": "GERENCIANET IP",
+    "LongName": "EFÍ S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "EFÍ S.A. - IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3875,7 +3916,7 @@
     "DateOperationStarted": "2020-03-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114668-03:00",
-    "DateUpdated": "2022-12-06T12:06:50.2975387+00:00"
+    "DateUpdated": "2023-03-03T14:56:53.4967664+00:00"
   },
   {
     "COMPE": "365",
@@ -4378,13 +4419,15 @@
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Troca de Modalidade"
+      "Consignado",
+      "Pessoal",
+      "Veículos e Troca de Modalidade"
     ],
     "Url": "https://www.bradescofinanciamentos.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114609-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4007197+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6457736+00:00"
   },
   {
     "COMPE": "395",
@@ -4584,16 +4627,16 @@
     "ShortName": "ACCREDITO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-11-27",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-03-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115144-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4022529+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.4069127+00:00"
   },
   {
     "COMPE": "407",
@@ -4819,17 +4862,19 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
-      "Cheque Especial e Troca de Modalidade e Capital de Giro",
+      "Cheque Especial",
       "Consignado",
       "Imobiliário",
+      "Outros Créditos",
       "Pessoal",
+      "Troca de Modalidade e Capital de Giro",
       "Veículos"
     ],
     "Url": "https://www.safra.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115218-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528497+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6511793+00:00"
   },
   {
     "COMPE": "423",
@@ -4878,8 +4923,8 @@
     "COMPE": "426",
     "ISPB": "11285104",
     "Document": "11.285.104/0001-06",
-    "LongName": "Biorc Financeira - Crédito, Financiamento e Investimento S.A.",
-    "ShortName": "BIORC FINANCEIRA - CFI S.A.",
+    "LongName": "NEON FINANCEIRA - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "NEON FINANCEIRA - CFI S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -4891,7 +4936,7 @@
     "DateOperationStarted": "2021-05-21",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-21T23:01:29.4844658-03:00",
-    "DateUpdated": "2021-05-21T23:01:29.4844662-03:00"
+    "DateUpdated": "2023-03-03T14:56:53.496954+00:00"
   },
   {
     "COMPE": "427",
@@ -5042,15 +5087,15 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-09-30",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-28T05:25:19.3476011-03:00",
-    "DateUpdated": "2021-09-28T05:25:19.3476014-03:00"
+    "DateUpdated": "2023-03-03T14:56:55.3054042+00:00"
   },
   {
     "COMPE": "440",
@@ -5443,15 +5488,15 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-12-21",
     "DatePixStarted": null,
     "DateRegistered": "2022-01-05T11:00:34.5914098+00:00",
-    "DateUpdated": "2022-01-05T11:00:34.5914283+00:00"
+    "DateUpdated": "2023-03-03T14:56:55.3057404+00:00"
   },
   {
     "COMPE": "464",
@@ -5556,8 +5601,8 @@
     "COMPE": "470",
     "ISPB": "18394228",
     "Document": "18.394.228/0001-79",
-    "LongName": "CDC SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESADE PEQUENO PORTE LTDA.",
-    "ShortName": "CDC SOCIEDADE DE CRÉDITO",
+    "LongName": "CDC SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CDC SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -5569,7 +5614,7 @@
     "DateOperationStarted": "2022-03-15",
     "DatePixStarted": null,
     "DateRegistered": "2022-03-16T07:58:41.1136636+00:00",
-    "DateUpdated": "2022-03-16T07:58:41.113664+00:00"
+    "DateUpdated": "2023-03-03T14:56:53.4974414+00:00"
   },
   {
     "COMPE": "471",
@@ -5657,9 +5702,9 @@
     "ShortName": "GAZINCRED S.A. SCFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
-    "Charge": null,
-    "CreditDocument": null,
+    "PixType": "DRCT",
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -5670,9 +5715,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2022-03-21",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-01-23 13:00:00",
     "DateRegistered": "2022-03-31T08:12:19.2479082+00:00",
-    "DateUpdated": "2022-06-23T13:51:35.2207262+00:00"
+    "DateUpdated": "2023-03-03T14:56:55.3055716+00:00"
   },
   {
     "COMPE": "479",
@@ -5868,8 +5913,8 @@
     "COMPE": "507",
     "ISPB": "37229413",
     "Document": "37.229.413/0001-52",
-    "LongName": "GERENCIANET S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
-    "ShortName": "GERENCIANET CFI",
+    "LongName": "SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO EFÍ S.A.",
+    "ShortName": "SCFI EFÍ S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -5881,7 +5926,7 @@
     "DateOperationStarted": "2022-12-12",
     "DatePixStarted": null,
     "DateRegistered": "2022-12-08T12:06:49.6471588+00:00",
-    "DateUpdated": "2022-12-08T12:06:49.6471589+00:00"
+    "DateUpdated": "2023-03-03T14:56:53.4981646+00:00"
   },
   {
     "COMPE": "508",
@@ -5901,6 +5946,25 @@
     "DatePixStarted": null,
     "DateRegistered": "2022-08-13T12:30:35.4201882+00:00",
     "DateUpdated": "2022-08-13T12:30:35.4201883+00:00"
+  },
+  {
+    "COMPE": "509",
+    "ISPB": "13935893",
+    "Document": "13.935.893/0001-09",
+    "LongName": "CELCOIN INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "CELCOIN IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-01-23",
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2023-03-03T14:56:55.3112604+00:00",
+    "DateUpdated": "2023-03-03T14:56:54.2370887+00:00"
   },
   {
     "COMPE": "510",
@@ -6001,6 +6065,25 @@
     "DateUpdated": "2022-10-21T12:08:38.2179312+00:00"
   },
   {
+    "COMPE": "518",
+    "ISPB": "37679449",
+    "Document": "37.679.449/0001-38",
+    "LongName": "MERCADO CRÉDITO SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "MERCADO CRÉDITO SCFI S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-01-30",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112607+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112608+00:00"
+  },
+  {
     "COMPE": "519",
     "ISPB": "40768766",
     "Document": "40.768.766/0001-35",
@@ -6018,6 +6101,63 @@
     "DatePixStarted": null,
     "DateRegistered": "2022-12-07T12:06:48.2610092+00:00",
     "DateUpdated": "2022-12-07T12:06:48.2610093+00:00"
+  },
+  {
+    "COMPE": "521",
+    "ISPB": "44019481",
+    "Document": "44.019.481/0001-52",
+    "LongName": "PEAK SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.",
+    "ShortName": "PEAK SEP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-01-27",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.311261+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.311261+00:00"
+  },
+  {
+    "COMPE": "523",
+    "ISPB": "44292580",
+    "Document": "44.292.580/0001-03",
+    "LongName": "HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "HR DIGITAL SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-02-15",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112611+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112612+00:00"
+  },
+  {
+    "COMPE": "524",
+    "ISPB": "45854066",
+    "Document": "45.854.066/0001-87",
+    "LongName": "WNT CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "WNT CAPITAL DTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-03-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112615+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112615+00:00"
   },
   {
     "COMPE": "525",
@@ -6039,6 +6179,63 @@
     "DateUpdated": "2022-11-30T12:07:13.9849609+00:00"
   },
   {
+    "COMPE": "526",
+    "ISPB": "46026562",
+    "Document": "46.026.562/0001-05",
+    "LongName": "MONETARIE SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "MONETARIE SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-01-20",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112616+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112616+00:00"
+  },
+  {
+    "COMPE": "527",
+    "ISPB": "44478623",
+    "Document": "44.478.623/0001-40",
+    "LongName": "ATICCA - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ATICCA SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-02-06",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112612+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112613+00:00"
+  },
+  {
+    "COMPE": "528",
+    "ISPB": "34829992",
+    "Document": "34.829.992/0001-86",
+    "LongName": "REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "REAG DTVM S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-03-06",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112607+00:00"
+  },
+  {
     "COMPE": "529",
     "ISPB": "17079937",
     "Document": "17.079.937/0001-05",
@@ -6056,6 +6253,82 @@
     "DatePixStarted": "2021-12-20 15:08:20",
     "DateRegistered": "2022-11-12T12:06:34.2025683+00:00",
     "DateUpdated": "2022-11-12T12:06:33.1744957+00:00"
+  },
+  {
+    "COMPE": "535",
+    "ISPB": "39519944",
+    "Document": "39.519.944/0001-05",
+    "LongName": "MARÚ SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "MARU SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-02-10",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112609+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112609+00:00"
+  },
+  {
+    "COMPE": "536",
+    "ISPB": "20855875",
+    "Document": "20.855.875/0001-82",
+    "LongName": "NEON PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "NEON PAGAMENTOS S.A. IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-01-12",
+    "DatePixStarted": "2023-01-27 07:15:00",
+    "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
+    "DateUpdated": "2023-03-03T14:56:54.2740312+00:00"
+  },
+  {
+    "COMPE": "537",
+    "ISPB": "45756448",
+    "Document": "45.756.448/0001-78",
+    "LongName": "MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE",
+    "ShortName": "MICROCASH SCMEPP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-03-06",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112613+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112614+00:00"
+  },
+  {
+    "COMPE": "541",
+    "ISPB": "00954288",
+    "Document": "00.954.288/0001-33",
+    "LongName": "FUNDO GARANTIDOR DE CREDITOS - FGC",
+    "ShortName": "FDO GARANTIDOR CRÉDITOS",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-03-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-03T14:56:55.3112602+00:00",
+    "DateUpdated": "2023-03-03T14:56:55.3112603+00:00"
   },
   {
     "COMPE": "545",
@@ -6341,13 +6614,15 @@
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Veículos"
+      "Consignado",
+      "Troca de Modalidade e Capital de Giro",
+      "Veículos"
     ],
     "Url": "https://www.pine.com",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115331-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5517163+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.649929+00:00"
   },
   {
     "COMPE": "652",
@@ -6400,16 +6675,16 @@
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": [
-      "Cheque Especial e Troca de Modalidade",
       "Consignado",
       "Pessoal",
+      "Troca de Modalidade e Capital de Giro",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115485-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5492921+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6472589+00:00"
   },
   {
     "COMPE": "655",
@@ -6425,13 +6700,15 @@
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
-      "Pessoal e Veículos"
+      "Imobiliário",
+      "Pessoal",
+      "Veículos e Outros Créditos"
     ],
     "Url": "https://www.bancovotorantim.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115243-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5534998+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6518652+00:00"
   },
   {
     "COMPE": "707",
@@ -6514,13 +6791,17 @@
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Troca de Modalidade"
+      "Consignado",
+      "Outros Céditos",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro",
+      "Veículos"
     ],
     "Url": "https://www.cetelem.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7113315-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4000363+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6458387+00:00"
   },
   {
     "COMPE": "741",
@@ -6639,16 +6920,20 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro e PRONAMPE",
+      "Cheque Especial",
       "Consignado",
-      "Imobiliário",
+      "Imobiário",
+      "Outros Créditos",
       "Pessoal",
-      "Veículos e Outros Créditos"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.sicredi.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114428-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5485763+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6465182+00:00"
   },
   {
     "COMPE": "751",
@@ -6681,12 +6966,16 @@
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Outros Créditos",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
+    ],
     "Url": "https://www.bnpparibas.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114435-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3417126+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6457509+00:00"
   },
   {
     "COMPE": "753",
@@ -6736,16 +7025,16 @@
     "ShortName": "BOFA MERRILL LYNCH BM S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.ml.com",
     "DateOperationStarted": "2007-11-09",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115324-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.355136+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.4593738+00:00"
   },
   {
     "COMPE": "756",
@@ -6760,19 +7049,20 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro e PRONAMPE",
       "Cheque Especial",
       "Consignado",
       "Imobiário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bancoob.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114457-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4001995+00:00"
+    "DateUpdated": "2023-03-03T14:56:54.6465088+00:00"
   },
   {
     "COMPE": "757",

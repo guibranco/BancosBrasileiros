@@ -40,14 +40,17 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancoamazonia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114564-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5485925Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6465379Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>004</COMPE>
@@ -291,12 +294,13 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos e Troca de Modalidade</Product>
     </Products>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115099-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5500445Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6479655Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>033</COMPE>
@@ -314,7 +318,6 @@
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade e Capital de Giro</Product>
       <Product>Veículos</Product>
@@ -323,7 +326,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115471-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4032283Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6511885Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>036</COMPE>
@@ -353,14 +356,17 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
-      <Product>Imobiliário e Pessoal</Product>
+      <Product>Imobiliário</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
     </Products>
     <Url>https://www.banpara.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114571-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4005858Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6473085Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>040</COMPE>
@@ -390,18 +396,19 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro e PRONAMPE</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.banrisul.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115478-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5493547Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6473187Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>047</COMPE>
@@ -628,13 +635,14 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Pessoal e Troca de Modalidade</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
     </Products>
     <Url>https://www.bancointer.com.br</Url>
     <DateOperationStarted>2008-08-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112852-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.3999887Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6479568Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>078</COMPE>
@@ -657,12 +665,14 @@
     <ShortName>PICPAY BANK - BANCO MÚLTIPLO S.A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url>https://www.bancooriginal.com.br</Url>
     <DateOperationStarted>2008-07-25</DateOperationStarted>
+    <DatePixStarted>2023-04-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114694-03:00</DateRegistered>
-    <DateUpdated>2022-07-07T12:06:14.8083896Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.1945968Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>080</COMPE>
@@ -709,13 +719,17 @@
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <Products>
-      <Product>Consignado e Pessoal</Product>
+      <Product>Cheque Especial</Product>
+      <Product>Consignado</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
     </Products>
     <Url>https://www.bancotopazio.com.br</Url>
     <DateOperationStarted>2009-06-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114631-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528824Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6512182Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>083</COMPE>
@@ -745,12 +759,13 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
-      <Product>Imobiliário Pessoal e Veículos</Product>
+      <Product>Imobiliário Pessoal</Product>
+      <Product>Veículos e Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114472-03:00</DateRegistered>
-    <DateUpdated>2022-08-05T12:06:01.5903749Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:55.2689819Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>085</COMPE>
@@ -764,14 +779,18 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
-      <Product>Imobiliário</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Imobiário</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114586-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.7043191Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.7767171Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>088</COMPE>
@@ -869,12 +888,14 @@
     <ShortName>TRAVELEX BANCO DE CÂMBIO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco de Câmbio</Type>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url>https://www.bancoconfidence.com.br</Url>
     <DateOperationStarted>2010-06-22</DateOperationStarted>
+    <DatePixStarted>2023-01-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114742-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114786-03:00</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.2246781Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>096</COMPE>
@@ -1093,17 +1114,15 @@
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Products>
-      <Product>Cheque Especial</Product>
+      <Product>Cheque Especial e Troca de Modalidade</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2011-10-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114598-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.6974799Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.7705747Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>117</COMPE>
@@ -1126,12 +1145,14 @@
     <ShortName>BCO WESTERN UNION</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
     <Url>https://www.bancowesternunion.com.br</Url>
     <DateOperationStarted>2011-10-10</DateOperationStarted>
+    <DatePixStarted>2023-03-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114833-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3545616Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.2356798Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>120</COMPE>
@@ -1783,13 +1804,17 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
-      <Product>Consignado e Imobiliário</Product>
+      <Product>Cheque Especial</Product>
+      <Product>Consignado</Product>
+      <Product>Imobiliário</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
     </Products>
     <Url>https://www.original.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115492-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5516934Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6498959Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>213</COMPE>
@@ -1875,13 +1900,15 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Products>
-      <Product>Consignado e Veículos</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos e Troca de Modalidade</Product>
     </Products>
     <Url>https://www.bancofibra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115225-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5493824Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6473396Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>233</COMPE>
@@ -1977,7 +2004,8 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Products>
-      <Product>Cheques Especial</Product>
+      <Product>Cheque Especial</Product>
+      <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade e Capital de Giro</Product>
@@ -1986,7 +2014,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114992-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5477382Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6456766Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>249</COMPE>
@@ -2522,11 +2550,13 @@
     <LongName>VORTX DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.</LongName>
     <ShortName>VORTX DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PixType>DRCT</PixType>
+    <Charge>true</Charge>
+    <CreditDocument>true</CreditDocument>
     <DateOperationStarted>2018-10-18</DateOperationStarted>
+    <DatePixStarted>2023-03-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114937-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114939-03:00</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:55.3059096Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>311</COMPE>
@@ -2687,7 +2717,7 @@
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
-    <CreditDocument>true</CreditDocument>
+    <CreditDocument>false</CreditDocument>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -2696,7 +2726,7 @@
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114933-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5559184Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:55.3032684Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>325</COMPE>
@@ -2814,6 +2844,19 @@
     <DateUpdated>2022-12-13T12:06:52.2983548Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>334</COMPE>
+    <ISPB>15124464</ISPB>
+    <Document>15.124.464/0001-87</Document>
+    <LongName>BANCO BESA S.A.</LongName>
+    <ShortName>BANCO BESA S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-02-22</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112605Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>335</COMPE>
     <ISPB>27098060</ISPB>
     <Document>27.098.060/0001-45</Document>
@@ -2826,13 +2869,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
-      <Product>Consignado</Product>
+      <Product>Consignado e Outros Créditos</Product>
     </Products>
     <Url>https://www.digio.com.br</Url>
     <DateOperationStarted>2019-11-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114964-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5493125Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6472677Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>336</COMPE>
@@ -3111,8 +3154,8 @@
     <COMPE>364</COMPE>
     <ISPB>09089356</ISPB>
     <Document>09.089.356/0001-18</Document>
-    <LongName>GERENCIANET S.A- INSTITUIÇÃO DE PAGAMENTO</LongName>
-    <ShortName>GERENCIANET IP</ShortName>
+    <LongName>EFÍ S.A. - INSTITUIÇÃO DE PAGAMENTO</LongName>
+    <ShortName>EFÍ S.A. - IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -3120,7 +3163,7 @@
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114668-03:00</DateRegistered>
-    <DateUpdated>2022-12-06T12:06:50.2975387Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:53.4967664Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>365</COMPE>
@@ -3525,12 +3568,14 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Products>
-      <Product>Consignado e Troca de Modalidade</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos e Troca de Modalidade</Product>
     </Products>
     <Url>https://www.bradescofinanciamentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114609-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4007197Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6457736Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>395</COMPE>
@@ -3683,11 +3728,13 @@
     <LongName>ACCREDITO - SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>ACCREDITO SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <DateOperationStarted>2020-11-27</DateOperationStarted>
+    <DatePixStarted>2023-03-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115144-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4022529Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.4069127Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>407</COMPE>
@@ -3864,17 +3911,19 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
-      <Product>Cheque Especial e Troca de Modalidade e Capital de Giro</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115218-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528497Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6511793Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>423</COMPE>
@@ -3914,14 +3963,14 @@
     <COMPE>426</COMPE>
     <ISPB>11285104</ISPB>
     <Document>11.285.104/0001-06</Document>
-    <LongName>Biorc Financeira - Crédito, Financiamento e Investimento S.A.</LongName>
-    <ShortName>BIORC FINANCEIRA - CFI S.A.</ShortName>
+    <LongName>NEON FINANCEIRA - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>NEON FINANCEIRA - CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DateRegistered>2021-05-21T23:01:29.4844658-03:00</DateRegistered>
-    <DateUpdated>2021-05-21T23:01:29.4844662-03:00</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:53.496954Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>427</COMPE>
@@ -4039,11 +4088,11 @@
     <LongName>ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
     <ShortName>ID CTVM</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2021-09-30</DateOperationStarted>
     <DateRegistered>2021-09-28T05:25:19.3476011-03:00</DateRegistered>
-    <DateUpdated>2021-09-28T05:25:19.3476014-03:00</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:55.3054042Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>440</COMPE>
@@ -4325,11 +4374,11 @@
     <LongName>AZUMI DISTRIBUIDORA DE TíTULOS E VALORES MOBILIáRIOS LTDA.</LongName>
     <ShortName>AZUMI DTVM</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>true</CreditDocument>
     <DateOperationStarted>2021-12-21</DateOperationStarted>
     <DateRegistered>2022-01-05T11:00:34.5914098Z</DateRegistered>
-    <DateUpdated>2022-01-05T11:00:34.5914283Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:55.3057404Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>464</COMPE>
@@ -4409,14 +4458,14 @@
     <COMPE>470</COMPE>
     <ISPB>18394228</ISPB>
     <Document>18.394.228/0001-79</Document>
-    <LongName>CDC SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESADE PEQUENO PORTE LTDA.</LongName>
-    <ShortName>CDC SOCIEDADE DE CRÉDITO</ShortName>
+    <LongName>CDC SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>CDC SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-03-15</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.1136636Z</DateRegistered>
-    <DateUpdated>2022-03-16T07:58:41.113664Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:53.4974414Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>471</COMPE>
@@ -4484,8 +4533,9 @@
     <LongName>GAZINCRED S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>GAZINCRED S.A. SCFI</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PixType>DRCT</PixType>
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <Products>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
@@ -4494,8 +4544,9 @@
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2022-03-21</DateOperationStarted>
+    <DatePixStarted>2023-01-23 13:00:00</DatePixStarted>
     <DateRegistered>2022-03-31T08:12:19.2479082Z</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2207262Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:55.3055716Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>479</COMPE>
@@ -4641,14 +4692,14 @@
     <COMPE>507</COMPE>
     <ISPB>37229413</ISPB>
     <Document>37.229.413/0001-52</Document>
-    <LongName>GERENCIANET S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>GERENCIANET CFI</ShortName>
+    <LongName>SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO EFÍ S.A.</LongName>
+    <ShortName>SCFI EFÍ S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-12</DateOperationStarted>
     <DateRegistered>2022-12-08T12:06:49.6471588Z</DateRegistered>
-    <DateUpdated>2022-12-08T12:06:49.6471589Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:53.4981646Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>508</COMPE>
@@ -4662,6 +4713,21 @@
     <DateOperationStarted>2022-08-18</DateOperationStarted>
     <DateRegistered>2022-08-13T12:30:35.4201882Z</DateRegistered>
     <DateUpdated>2022-08-13T12:30:35.4201883Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>509</COMPE>
+    <ISPB>13935893</ISPB>
+    <Document>13.935.893/0001-09</Document>
+    <LongName>CELCOIN INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>CELCOIN IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-01-23</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:54.2370887Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>510</COMPE>
@@ -4733,6 +4799,19 @@
     <DateUpdated>2022-10-21T12:08:38.2179312Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>518</COMPE>
+    <ISPB>37679449</ISPB>
+    <Document>37.679.449/0001-38</Document>
+    <LongName>MERCADO CRÉDITO SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>MERCADO CRÉDITO SCFI S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-01-30</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112607Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112608Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>519</COMPE>
     <ISPB>40768766</ISPB>
     <Document>40.768.766/0001-35</Document>
@@ -4744,6 +4823,45 @@
     <DateOperationStarted>2022-12-12</DateOperationStarted>
     <DateRegistered>2022-12-07T12:06:48.2610092Z</DateRegistered>
     <DateUpdated>2022-12-07T12:06:48.2610093Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>521</COMPE>
+    <ISPB>44019481</ISPB>
+    <Document>44.019.481/0001-52</Document>
+    <LongName>PEAK SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.</LongName>
+    <ShortName>PEAK SEP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-01-27</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.311261Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.311261Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>523</COMPE>
+    <ISPB>44292580</ISPB>
+    <Document>44.292.580/0001-03</Document>
+    <LongName>HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>HR DIGITAL SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-02-15</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112612Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>524</COMPE>
+    <ISPB>45854066</ISPB>
+    <Document>45.854.066/0001-87</Document>
+    <LongName>WNT CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>WNT CAPITAL DTVM</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-03-01</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112615Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112615Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>525</COMPE>
@@ -4759,6 +4877,45 @@
     <DateUpdated>2022-11-30T12:07:13.9849609Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>526</COMPE>
+    <ISPB>46026562</ISPB>
+    <Document>46.026.562/0001-05</Document>
+    <LongName>MONETARIE SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>MONETARIE SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-01-20</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112616Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112616Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>527</COMPE>
+    <ISPB>44478623</ISPB>
+    <Document>44.478.623/0001-40</Document>
+    <LongName>ATICCA - SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ATICCA SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-02-06</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112612Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112613Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>528</COMPE>
+    <ISPB>34829992</ISPB>
+    <Document>34.829.992/0001-86</Document>
+    <LongName>REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>REAG DTVM S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-03-06</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112607Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>529</COMPE>
     <ISPB>17079937</ISPB>
     <Document>17.079.937/0001-05</Document>
@@ -4772,6 +4929,60 @@
     <DatePixStarted>2021-12-20 15:08:20</DatePixStarted>
     <DateRegistered>2022-11-12T12:06:34.2025683Z</DateRegistered>
     <DateUpdated>2022-11-12T12:06:33.1744957Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>535</COMPE>
+    <ISPB>39519944</ISPB>
+    <Document>39.519.944/0001-05</Document>
+    <LongName>MARÚ SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>MARU SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-02-10</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112609Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112609Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>536</COMPE>
+    <ISPB>20855875</ISPB>
+    <Document>20.855.875/0001-82</Document>
+    <LongName>NEON PAGAMENTOS S.A. - INSTITUIÇÃO DE PAGAMENTO</LongName>
+    <ShortName>NEON PAGAMENTOS S.A. IP</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-01-12</DateOperationStarted>
+    <DatePixStarted>2023-01-27 07:15:00</DatePixStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:54.2740312Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>537</COMPE>
+    <ISPB>45756448</ISPB>
+    <Document>45.756.448/0001-78</Document>
+    <LongName>MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE</LongName>
+    <ShortName>MICROCASH SCMEPP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-03-06</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112613Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112614Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>541</COMPE>
+    <ISPB>00954288</ISPB>
+    <Document>00.954.288/0001-33</Document>
+    <LongName>FUNDO GARANTIDOR DE CREDITOS - FGC</LongName>
+    <ShortName>FDO GARANTIDOR CRÉDITOS</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-03-08</DateOperationStarted>
+    <DateRegistered>2023-03-03T14:56:55.3112602Z</DateRegistered>
+    <DateUpdated>2023-03-03T14:56:55.3112603Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>545</COMPE>
@@ -5030,13 +5241,15 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Products>
-      <Product>Consignado e Veículos</Product>
+      <Product>Consignado</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.pine.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115331-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5517163Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.649929Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>652</COMPE>
@@ -5081,15 +5294,15 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Products>
-      <Product>Cheque Especial e Troca de Modalidade</Product>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115485-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5492921Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6472589Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>655</COMPE>
@@ -5105,13 +5318,15 @@
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Imobiliário</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos e Outros Créditos</Product>
     </Products>
     <Url>https://www.bancovotorantim.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115243-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5534998Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6518652Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
@@ -5185,13 +5400,17 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Products>
-      <Product>Consignado e Troca de Modalidade</Product>
+      <Product>Consignado</Product>
+      <Product>Outros Céditos</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.cetelem.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7113315-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4000363Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6458387Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>741</COMPE>
@@ -5303,16 +5522,20 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro e PRONAMPE</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
-      <Product>Imobiliário</Product>
+      <Product>Imobiário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.sicredi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114428-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5485763Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6465182Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>751</COMPE>
@@ -5339,10 +5562,15 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <Products>
+      <Product>Outros Créditos</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+    </Products>
     <Url>https://www.bnpparibas.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114435-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3417126Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6457509Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>753</COMPE>
@@ -5385,12 +5613,14 @@
     <ShortName>BOFA MERRILL LYNCH BM S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Url>https://www.ml.com</Url>
     <DateOperationStarted>2007-11-09</DateOperationStarted>
+    <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115324-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.355136Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.4593738Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>756</COMPE>
@@ -5405,19 +5635,20 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro e PRONAMPE</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancoob.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114457-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4001995Z</DateUpdated>
+    <DateUpdated>2023-03-03T14:56:54.6465088Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>757</COMPE>
