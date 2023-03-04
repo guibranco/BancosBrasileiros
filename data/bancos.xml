@@ -4088,11 +4088,13 @@
     <LongName>ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
     <ShortName>ID CTVM</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2021-09-30</DateOperationStarted>
+    <DatePixStarted>2023-03-03 10:17:13</DatePixStarted>
     <DateRegistered>2021-09-28T05:25:19.3476011-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3054042Z</DateUpdated>
+    <DateUpdated>2023-03-04T12:06:42.2804637Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>440</COMPE>

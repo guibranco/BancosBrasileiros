@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-03-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 439 - ID CTVM - 16.695.922/0001-09
+
 ### 2023-03-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 50 banks

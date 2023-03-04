@@ -5086,16 +5086,16 @@
     "ShortName": "ID CTVM",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-09-30",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-03-03 10:17:13",
     "DateRegistered": "2021-09-28T05:25:19.3476011-03:00",
-    "DateUpdated": "2023-03-03T14:56:55.3054042+00:00"
+    "DateUpdated": "2023-03-04T12:06:42.2804637+00:00"
   },
   {
     "COMPE": "440",
