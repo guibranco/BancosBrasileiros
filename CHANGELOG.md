@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-03-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 286 - UNIPRIME OURO - COOP DE OURO - 07.853.842/0001-35
+
 ### 2023-03-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

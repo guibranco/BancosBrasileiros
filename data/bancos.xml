@@ -2355,13 +2355,13 @@
     <LongName>UNIPRIME OURO - COOPERATIVA DE CRÉDITO DE OURO</LongName>
     <ShortName>UNIPRIME OURO - COOP DE OURO</ShortName>
     <Network>RSFN</Network>
-    <PixType>DRCT</PixType>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-17</DateOperationStarted>
-    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DatePixStarted>2023-03-06 10:22:14</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114638-03:00</DateRegistered>
-    <DateUpdated>2022-12-21T12:06:36.8858485Z</DateUpdated>
+    <DateUpdated>2023-03-07T12:07:37.8477837Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>288</COMPE>
