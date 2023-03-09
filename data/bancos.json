@@ -6255,6 +6255,25 @@
     "DateUpdated": "2022-11-12T12:06:33.1744957+00:00"
   },
   {
+    "COMPE": "530",
+    "ISPB": "47873449",
+    "Document": "47.873.449/0001-28",
+    "LongName": "SER FINANCE SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "SER FINANCE SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-03-14",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-09T12:07:29.7846292+00:00",
+    "DateUpdated": "2023-03-09T12:07:29.7846293+00:00"
+  },
+  {
     "COMPE": "535",
     "ISPB": "39519944",
     "Document": "39.519.944/0001-05",

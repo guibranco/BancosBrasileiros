@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-03-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 530 - SER FINANCE SCD S.A. - 47.873.449/0001-28
+
 ### 2023-03-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

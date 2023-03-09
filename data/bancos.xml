@@ -4933,6 +4933,19 @@
     <DateUpdated>2022-11-12T12:06:33.1744957Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>530</COMPE>
+    <ISPB>47873449</ISPB>
+    <Document>47.873.449/0001-28</Document>
+    <LongName>SER FINANCE SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SER FINANCE SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-03-14</DateOperationStarted>
+    <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
+    <DateUpdated>2023-03-09T12:07:29.7846293Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>535</COMPE>
     <ISPB>39519944</ISPB>
     <Document>39.519.944/0001-05</Document>
