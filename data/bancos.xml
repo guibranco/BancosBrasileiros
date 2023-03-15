@@ -5332,16 +5332,19 @@
     <CreditDocument>true</CreditDocument>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancovotorantim.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115243-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6518652Z</DateUpdated>
+    <DateUpdated>2023-03-15T12:07:10.8128033Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>

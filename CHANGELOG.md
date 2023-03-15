@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-03-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 655 - BCO VOTORANTIM S.A. - 59.588.111/0001-03
+
 ### 2023-03-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
