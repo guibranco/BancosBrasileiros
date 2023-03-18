@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 3 banks
+	- 285 - FRENTE CC S.A. - 71.677.850/0001-77
+	- 511 - MAGNUM SCD - 44.683.140/0001-87
+	- 141 - MASTER BI S.A. - 09.526.594/0001-43
+
 ### 2023-03-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

@@ -1451,6 +1451,19 @@
     <DateUpdated>2021-09-28T05:25:17.025616-03:00</DateUpdated>
   </bank>
   <bank>
+    <COMPE>141</COMPE>
+    <ISPB>09526594</ISPB>
+    <Document>09.526.594/0001-43</Document>
+    <LongName>BANCO MASTER DE INVESTIMENTO S.A.</LongName>
+    <ShortName>MASTER BI S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-03-20</DateOperationStarted>
+    <DateRegistered>2023-03-18T12:06:16.4394889Z</DateRegistered>
+    <DateUpdated>2023-03-18T12:06:16.439489Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>142</COMPE>
     <ISPB>16944141</ISPB>
     <Document>16.944.141/0001-00</Document>
@@ -2339,14 +2352,14 @@
     <COMPE>285</COMPE>
     <ISPB>71677850</ISPB>
     <Document>71.677.850/0001-77</Document>
-    <LongName>Frente Corretora de Câmbio Ltda.</LongName>
-    <ShortName>FRENTE CC LTDA.</ShortName>
+    <LongName>FRENTE CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>FRENTE CC S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115423-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115425-03:00</DateUpdated>
+    <DateUpdated>2023-03-18T12:06:14.6197474Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>286</COMPE>
@@ -4751,11 +4764,11 @@
     <LongName>MAGNUM SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>MAGNUM SCD</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>true</CreditDocument>
     <DateOperationStarted>2022-08-22</DateOperationStarted>
     <DateRegistered>2022-08-16T12:32:57.3964844Z</DateRegistered>
-    <DateUpdated>2022-08-16T12:32:57.3964848Z</DateUpdated>
+    <DateUpdated>2023-03-18T12:06:16.4345288Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>512</COMPE>
