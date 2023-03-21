@@ -4417,11 +4417,13 @@
     <LongName>CAPITAL CONSIG SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CAPITAL CONSIG SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-12-03</DateOperationStarted>
+    <DatePixStarted>2023-03-27 10:00:00</DatePixStarted>
     <DateRegistered>2021-12-13T12:13:48.9317922Z</DateRegistered>
-    <DateUpdated>2021-12-13T12:13:48.9317923Z</DateUpdated>
+    <DateUpdated>2023-03-21T12:07:14.1153681Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>467</COMPE>

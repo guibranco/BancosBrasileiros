@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-03-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 465 - CAPITAL CONSIG SCD S.A. - 40.083.667/0001-10
+
 ### 2023-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 3 banks
