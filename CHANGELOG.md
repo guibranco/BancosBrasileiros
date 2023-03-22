@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2023-03-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 2 banks
+	- 421 - CC LAR CREDI - 39.343.350/0001-96
+	- 522 - RED SCD S.A. - 47.593.544/0001-78
+
 ### 2023-03-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

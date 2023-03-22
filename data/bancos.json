@@ -4857,16 +4857,16 @@
     "ShortName": "CC LAR CREDI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-07-21",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-03-28 10:00:00",
     "DateRegistered": "2021-08-02T11:56:55.6601604-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3652178+00:00"
+    "DateUpdated": "2023-03-22T12:07:29.6493938+00:00"
   },
   {
     "COMPE": "422",
@@ -6139,6 +6139,25 @@
     "DatePixStarted": null,
     "DateRegistered": "2023-03-03T14:56:55.311261+00:00",
     "DateUpdated": "2023-03-03T14:56:55.311261+00:00"
+  },
+  {
+    "COMPE": "522",
+    "ISPB": "47593544",
+    "Document": "47.593.544/0001-78",
+    "LongName": "RED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "RED SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-03-27",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-03-22T12:07:30.8431247+00:00",
+    "DateUpdated": "2023-03-22T12:07:30.8431248+00:00"
   },
   {
     "COMPE": "523",

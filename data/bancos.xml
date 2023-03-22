@@ -3905,11 +3905,13 @@
     <LongName>LAR COOPERATIVA DE CRÉDITO - LAR CREDI</LongName>
     <ShortName>CC LAR CREDI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <DateOperationStarted>2021-07-21</DateOperationStarted>
+    <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601604-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3652178Z</DateUpdated>
+    <DateUpdated>2023-03-22T12:07:29.6493938Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>422</COMPE>
@@ -4853,6 +4855,19 @@
     <DateOperationStarted>2023-01-27</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.311261Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.311261Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>522</COMPE>
+    <ISPB>47593544</ISPB>
+    <Document>47.593.544/0001-78</Document>
+    <LongName>RED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>RED SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-03-27</DateOperationStarted>
+    <DateRegistered>2023-03-22T12:07:30.8431247Z</DateRegistered>
+    <DateUpdated>2023-03-22T12:07:30.8431248Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>523</COMPE>
