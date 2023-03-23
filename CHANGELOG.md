@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-03-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 537 - MICROCASH SCMEPP LTDA. - 45.756.448/0001-78
+
 ### 2023-03-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 2 banks

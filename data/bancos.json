@@ -6357,16 +6357,16 @@
     "ShortName": "MICROCASH SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-03-06",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-03-28 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112613+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112614+00:00"
+    "DateUpdated": "2023-03-23T12:06:51.3911225+00:00"
   },
   {
     "COMPE": "541",

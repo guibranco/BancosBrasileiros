@@ -5010,11 +5010,13 @@
     <LongName>MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE</LongName>
     <ShortName>MICROCASH SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-06</DateOperationStarted>
+    <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112613Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3112614Z</DateUpdated>
+    <DateUpdated>2023-03-23T12:06:51.3911225Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>541</COMPE>
