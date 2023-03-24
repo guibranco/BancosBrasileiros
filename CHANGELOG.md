@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2023-03-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 7 banks
+	- 99 - UNIPRIME COOPCENTRAL LTDA. - 03.046.391/0001-73
+	- 105 - LECCA CFI S.A. - 07.652.226/0001-16
+	- 368 - BCO CSF S.A. - 08.357.240/0001-50
+	- 373 - UP.P SEP S.A. - 35.977.097/0001-71
+	- 386 - NU FINANCEIRA S.A. CFI - 30.680.829/0001-43
+	- 429 - CREDIARE CFI S.A. - 05.676.026/0001-78
+	- 516 - QISTA S.A. CFI - 36.583.700/0001-01
+
 ### 2023-03-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

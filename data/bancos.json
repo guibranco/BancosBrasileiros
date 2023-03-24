@@ -1111,16 +1111,19 @@
     "CreditDocument": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Cheque Especial",
       "Consignado",
       "Imobiliário",
+      "Outros Créditos",
       "Pessoal",
-      "Veículos e Outros Créditos"
+      "Troca de Modalidade e Capital de Giro",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2011-01-11",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114498-03:00",
-    "DateUpdated": "2022-08-30T12:06:59.6024775+00:00"
+    "DateUpdated": "2023-03-24T12:07:17.0335177+00:00"
   },
   {
     "COMPE": "100",
@@ -1218,13 +1221,14 @@
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Pessoal"
+      "Consignado",
+      "Pessoal e Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2011-12-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114624-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2234528+00:00"
+    "DateUpdated": "2023-03-24T12:07:17.0187801+00:00"
   },
   {
     "COMPE": "107",
@@ -4006,12 +4010,14 @@
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito consignado e Troca de modalidade."
+    ],
     "Url": "https://www.carrefoursolucoes.com.br",
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": "2022-10-31 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114653-03:00",
-    "DateUpdated": "2022-08-24T12:36:19.0352572+00:00"
+    "DateUpdated": "2023-03-24T12:07:16.1761348+00:00"
   },
   {
     "COMPE": "370",
@@ -4064,14 +4070,16 @@
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": [
+      "Outros Créditos",
       "Pessoal",
-      "Veiculos e Outros Créditoss"
+      "Troca de Modalidade e Capital de Giro",
+      "Veiculos"
     ],
     "Url": null,
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2349989+00:00"
+    "DateUpdated": "2023-03-24T12:07:17.0335382+00:00"
   },
   {
     "COMPE": "374",
@@ -4307,13 +4315,14 @@
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": [
-      "Pessoal"
+      "Consignado",
+      "Pessoal e Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2021-01-12",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711501-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2252717+00:00"
+    "DateUpdated": "2023-03-24T12:07:17.0209334+00:00"
   },
   {
     "COMPE": "387",
@@ -5011,15 +5020,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Outros Créditos e Troca de Modalidade",
       "Pessoal",
-      "Veículos"
+      "Veículos e Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2021-09-08",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-13T19:08:16.9817149-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.216358+00:00"
+    "DateUpdated": "2023-03-24T12:07:17.0122005+00:00"
   },
   {
     "COMPE": "430",
@@ -6066,7 +6074,7 @@
     "ISPB": "36583700",
     "Document": "36.583.700/0001-01",
     "LongName": "FC FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
-    "ShortName": "FC FINANCEIRA S.A. - CFI",
+    "ShortName": "QISTA S.A. CFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -6081,7 +6089,7 @@
     "DateOperationStarted": "2022-10-24",
     "DatePixStarted": null,
     "DateRegistered": "2022-10-21T12:08:38.2728811+00:00",
-    "DateUpdated": "2022-10-21T12:08:38.2179312+00:00"
+    "DateUpdated": "2023-03-24T12:07:14.5129618+00:00"
   },
   {
     "COMPE": "518",
