@@ -3721,13 +3721,13 @@
     <LongName>CORA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CORA SCD S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-29</DateOperationStarted>
-    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115149-03:00</DateUpdated>
+    <DateUpdated>2023-03-25T12:06:51.8503278Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>404</COMPE>
@@ -4530,14 +4530,14 @@
     <LongName>Banco Yamaha Motor do Brasil S.A.</LongName>
     <ShortName>BCO YAMAHA MOTOR S.A.</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <Products>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2022-09-05</DateOperationStarted>
     <DateRegistered>2022-09-02T12:07:04.257303Z</DateRegistered>
-    <DateUpdated>2022-09-02T12:07:03.474729Z</DateUpdated>
+    <DateUpdated>2023-03-25T12:06:52.930936Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>477</COMPE>
@@ -4750,12 +4750,12 @@
     <ShortName>CELCOIN IP S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2023-01-23</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.2370887Z</DateUpdated>
+    <DateUpdated>2023-03-25T12:06:52.9307041Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>510</COMPE>
@@ -4813,7 +4813,7 @@
     <COMPE>516</COMPE>
     <ISPB>36583700</ISPB>
     <Document>36.583.700/0001-01</Document>
-    <LongName>FC FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <LongName>QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>QISTA S.A. CFI</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4824,7 +4824,7 @@
     </Products>
     <DateOperationStarted>2022-10-24</DateOperationStarted>
     <DateRegistered>2022-10-21T12:08:38.2728811Z</DateRegistered>
-    <DateUpdated>2023-03-24T12:07:14.5129618Z</DateUpdated>
+    <DateUpdated>2023-03-25T12:06:50.7821051Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>518</COMPE>
