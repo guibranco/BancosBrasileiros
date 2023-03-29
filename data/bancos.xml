@@ -4261,11 +4261,13 @@
     <LongName>CREDIFIT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CREDIFIT SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-15</DateOperationStarted>
+    <DatePixStarted>2023-04-03 11:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817378-03:00</DateRegistered>
-    <DateUpdated>2021-09-13T19:08:16.981738-03:00</DateUpdated>
+    <DateUpdated>2023-03-29T12:07:06.886751Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>454</COMPE>
@@ -4983,6 +4985,34 @@
     <DateOperationStarted>2023-03-14</DateOperationStarted>
     <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
     <DateUpdated>2023-03-09T12:07:29.7846293Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>532</COMPE>
+    <ISPB>45745537</ISPB>
+    <Document>45.745.537/0001-19</Document>
+    <LongName>EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>EAGLE SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-04-03</DateOperationStarted>
+    <DateRegistered>2023-03-29T12:07:07.8301112Z</DateRegistered>
+    <DateUpdated>2023-03-29T12:07:07.8301112Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>534</COMPE>
+    <ISPB>00714671</ISPB>
+    <Document>00.714.671/0001-14</Document>
+    <LongName>EWALLY INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>EWALLY IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-04-03</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2023-03-29T12:07:07.8301111Z</DateRegistered>
+    <DateUpdated>2023-03-29T12:07:06.2710986Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>535</COMPE>

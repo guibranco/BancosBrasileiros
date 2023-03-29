@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-03-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 3 banks
+	- 452 - CREDIFIT SCD S.A. - 39.676.772/0001-83
+	- 534 - EWALLY IP S.A. - 00.714.671/0001-14
+	- 532 - EAGLE SCD S.A. - 45.745.537/0001-19
+
 ### 2023-03-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 4 banks
