@@ -4618,15 +4618,15 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-09-29",
     "DatePixStarted": "2023-03-24 09:10:00",
     "DateRegistered": "2021-05-05T09:11:12.7115147-03:00",
-    "DateUpdated": "2023-03-25T12:06:51.8503278+00:00"
+    "DateUpdated": "2023-04-01T12:05:41.8694987+00:00"
   },
   {
     "COMPE": "404",
@@ -6309,15 +6309,15 @@
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
-    "Charge": null,
-    "CreditDocument": null,
+    "Charge": true,
+    "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-03-14",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-09T12:07:29.7846292+00:00",
-    "DateUpdated": "2023-03-09T12:07:29.7846293+00:00"
+    "DateUpdated": "2023-04-01T12:05:41.8693307+00:00"
   },
   {
     "COMPE": "532",

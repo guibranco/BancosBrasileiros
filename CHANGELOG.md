@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2023-04-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 2 banks
+	- 403 - CORA SCD S.A. - 37.880.206/0001-63
+	- 530 - SER FINANCE SCD S.A. - 47.873.449/0001-28
+
 ### 2023-03-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 3 banks

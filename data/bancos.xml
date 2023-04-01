@@ -3722,12 +3722,12 @@
     <ShortName>CORA SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
-    <DateUpdated>2023-03-25T12:06:51.8503278Z</DateUpdated>
+    <DateUpdated>2023-04-01T12:05:41.8694987Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>404</COMPE>
@@ -4980,11 +4980,11 @@
     <LongName>SER FINANCE SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>SER FINANCE SCD S.A.</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2023-03-14</DateOperationStarted>
     <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
-    <DateUpdated>2023-03-09T12:07:29.7846293Z</DateUpdated>
+    <DateUpdated>2023-04-01T12:05:41.8693307Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>532</COMPE>
