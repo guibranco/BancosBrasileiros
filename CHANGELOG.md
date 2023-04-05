@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-04-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 299 - BCO AFINZ S.A. - BM - 04.814.563/0001-74
+
 ### 2023-04-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 2 banks

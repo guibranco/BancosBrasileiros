@@ -2481,6 +2481,7 @@
     <LongName>BANCO AFINZ S.A. - BANCO MÚLTIPLO</LongName>
     <ShortName>BCO AFINZ S.A. - BM</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <Products>
@@ -2488,8 +2489,9 @@
       <Product>Pessoal e Veículos</Product>
     </Products>
     <DateOperationStarted>2018-12-03</DateOperationStarted>
+    <DatePixStarted>2023-05-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114556-03:00</DateRegistered>
-    <DateUpdated>2022-12-21T12:06:36.8854042Z</DateUpdated>
+    <DateUpdated>2023-04-05T12:07:18.1432351Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>300</COMPE>

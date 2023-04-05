@@ -3058,7 +3058,7 @@
     "ShortName": "BCO AFINZ S.A. - BM",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
@@ -3068,9 +3068,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2018-12-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-05-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114556-03:00",
-    "DateUpdated": "2022-12-21T12:06:36.8854042+00:00"
+    "DateUpdated": "2023-04-05T12:07:18.1432351+00:00"
   },
   {
     "COMPE": "300",
