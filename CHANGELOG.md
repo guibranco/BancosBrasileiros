@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2023-04-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 2 banks
+	- 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
+	- 89 - CREDISAN CC - 62.109.566/0001-03
+
 ### 2023-04-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

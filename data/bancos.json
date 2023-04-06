@@ -863,7 +863,7 @@
     "ISPB": "02398976",
     "Document": "02.398.976/0001-90",
     "LongName": "UNIPRIME DO BRASIL - COOPERATIVA DE CRÉDITO",
-    "ShortName": "UNIPRIME DO BRASIL - COOP",
+    "ShortName": "SISPRIME DO BRASIL - COOP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -879,7 +879,7 @@
     "DateOperationStarted": "2009-11-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114472-03:00",
-    "DateUpdated": "2023-03-03T14:56:55.2689819+00:00"
+    "DateUpdated": "2023-04-06T12:06:45.3528866+00:00"
   },
   {
     "COMPE": "085",
@@ -939,12 +939,18 @@
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Crédito Pessoal",
+      "Financiamento de Veículos",
+      "outros",
+      "troca de modalidade e Catapital de Giro"
+    ],
     "Url": null,
     "DateOperationStarted": "2010-08-30",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115328-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4029276+00:00"
+    "DateUpdated": "2023-04-06T12:06:47.0908944+00:00"
   },
   {
     "COMPE": "091",
