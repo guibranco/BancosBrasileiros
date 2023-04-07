@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-04-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 3 banks
+	- 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
+	- 183 - SOCRED SA - SCMEPP - 09.210.106/0001-94
+	- 511 - MAGNUM SCD - 44.683.140/0001-87
+
 ### 2023-04-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 2 banks
