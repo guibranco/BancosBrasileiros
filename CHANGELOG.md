@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-04-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 523 - HR DIGITAL SCD - 44.292.580/0001-03
+
 ### 2023-04-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 3 banks

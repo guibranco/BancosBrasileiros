@@ -4900,11 +4900,11 @@
     <LongName>HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>HR DIGITAL SCD</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>true</CreditDocument>
     <DateOperationStarted>2023-02-15</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3112612Z</DateUpdated>
+    <DateUpdated>2023-04-11T12:06:56.2721903Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>524</COMPE>
