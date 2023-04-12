@@ -1525,7 +1525,7 @@
     "ISPB": "19307785",
     "Document": "19.307.785/0001-78",
     "LongName": "MS Bank S.A. Banco de Câmbio",
-    "ShortName": "MS BANK S.A. BCO DE CÂMBIO",
+    "ShortName": "BRAZA BANK S.A. BCO DE CÂMBIO",
     "Network": "RSFN",
     "Type": "Banco de Câmbio",
     "PixType": null,
@@ -1537,7 +1537,7 @@
     "DateOperationStarted": "2015-04-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114919-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3619443+00:00"
+    "DateUpdated": "2023-04-12T12:07:09.2372492+00:00"
   },
   {
     "COMPE": "129",
