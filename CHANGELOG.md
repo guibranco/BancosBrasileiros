@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-04-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 128 - BRAZA BANK S.A. BCO DE CÂMBIO - 19.307.785/0001-78
+
 ### 2023-04-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

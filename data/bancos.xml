@@ -1288,7 +1288,7 @@
     <COMPE>128</COMPE>
     <ISPB>19307785</ISPB>
     <Document>19.307.785/0001-78</Document>
-    <LongName>MS Bank S.A. Banco de Câmbio</LongName>
+    <LongName>BRAZA BANK S.A. BANCO DE CÂMBIO</LongName>
     <ShortName>BRAZA BANK S.A. BCO DE CÂMBIO</ShortName>
     <Network>RSFN</Network>
     <Type>Banco de Câmbio</Type>
@@ -1297,7 +1297,7 @@
     <Url>https://www.msbank.com.br</Url>
     <DateOperationStarted>2015-04-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114919-03:00</DateRegistered>
-    <DateUpdated>2023-04-12T12:07:09.2372492Z</DateUpdated>
+    <DateUpdated>2023-04-13T12:07:26.5898227Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>129</COMPE>
