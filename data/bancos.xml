@@ -5071,6 +5071,22 @@
     <DateUpdated>2023-03-23T12:06:51.3911225Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>539</COMPE>
+    <ISPB>00122327</ISPB>
+    <Document>00.122.327/0001-36</Document>
+    <LongName>SANTINVEST S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
+    <ShortName>SANTINVEST S.A. - CFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Consignado</Product>
+    </Products>
+    <DateOperationStarted>2023-04-17</DateOperationStarted>
+    <DateRegistered>2023-04-14T12:06:49.3169426Z</DateRegistered>
+    <DateUpdated>2023-04-14T12:06:49.2612228Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>541</COMPE>
     <ISPB>00954288</ISPB>
     <Document>00.954.288/0001-33</Document>

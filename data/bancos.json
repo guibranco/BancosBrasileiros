@@ -6421,6 +6421,27 @@
     "DateUpdated": "2023-03-23T12:06:51.3911225+00:00"
   },
   {
+    "COMPE": "539",
+    "ISPB": "00122327",
+    "Document": "00.122.327/0001-36",
+    "LongName": "SANTINVEST S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS",
+    "ShortName": "SANTINVEST S.A. - CFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "SalaryPortability": null,
+    "Products": [
+      "Consignado"
+    ],
+    "Url": null,
+    "DateOperationStarted": "2023-04-17",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-04-14T12:06:49.3169426+00:00",
+    "DateUpdated": "2023-04-14T12:06:49.2612228+00:00"
+  },
+  {
     "COMPE": "541",
     "ISPB": "00954288",
     "Document": "00.954.288/0001-33",

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-04-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 539 - SANTINVEST S.A. - CFI - 00.122.327/0001-36
+
 ### 2023-04-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
