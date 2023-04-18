@@ -4328,11 +4328,13 @@
     <LongName>UY3 SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>UY3 SCD S/A</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <DateOperationStarted>2021-10-26</DateOperationStarted>
+    <DatePixStarted>2023-04-17 10:04:25</DatePixStarted>
     <DateRegistered>2021-10-23T20:55:03.4293722-03:00</DateRegistered>
-    <DateUpdated>2022-10-01T12:07:38.0638656Z</DateUpdated>
+    <DateUpdated>2023-04-18T12:07:16.1884183Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>458</COMPE>

@@ -5404,16 +5404,16 @@
     "ShortName": "UY3 SCD S/A",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": true,
     "CreditDocument": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-10-26",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-04-17 10:04:25",
     "DateRegistered": "2021-10-23T20:55:03.4293722-03:00",
-    "DateUpdated": "2022-10-01T12:07:38.0638656+00:00"
+    "DateUpdated": "2023-04-18T12:07:16.1884183+00:00"
   },
   {
     "COMPE": "458",

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-04-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 457 - UY3 SCD S/A - 39.587.424/0001-30
+
 ### 2023-04-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
