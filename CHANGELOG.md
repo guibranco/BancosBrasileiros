@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-04-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 546 - U4C INSTITUIÇÃO DE PAGAMENTO S.A. - 30.980.539/0001-15
+
 ### 2023-04-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

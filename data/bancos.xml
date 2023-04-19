@@ -5115,6 +5115,21 @@
     <DateUpdated>2021-05-05T09:11:12.7114893-03:00</DateUpdated>
   </bank>
   <bank>
+    <COMPE>546</COMPE>
+    <ISPB>30980539</ISPB>
+    <Document>30.980.539/0001-15</Document>
+    <LongName>U4C INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>U4C INSTITUIÇÃO DE PAGAMENTO S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2023-04-24</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2023-04-19T12:07:00.4802737Z</DateRegistered>
+    <DateUpdated>2023-04-19T12:06:59.5516534Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>600</COMPE>
     <ISPB>59118133</ISPB>
     <Document>59.118.133/0001-00</Document>
