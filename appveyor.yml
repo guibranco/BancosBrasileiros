@@ -3,11 +3,14 @@ skip_tags: true
 skip_branch_with_pr: true
 skip_commits:
     message: /(Create|Update).*\.(png|jpg|jpeg|bmp|gif|md)/
+    
 branches:
     only:
     - main
+    
 environment:
-    nodejs_version: 14.3.0
+    nodejs_version: 18
+    
 install:
 - appveyor DownloadFile https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
 - ps: Install-Product node $env:nodejs_version
