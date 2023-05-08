@@ -5,6 +5,7 @@ on:
 
 jobs:
   size-label:
+    permissions: write-all
     runs-on: ubuntu-latest
 
     steps:
