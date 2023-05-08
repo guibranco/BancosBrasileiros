@@ -1,6 +1,6 @@
 # Bancos Brasileiros
 
-Brazilian commercial banks list
+Lista de bancos comerciais brasileiros
 
 [![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
 [![Daily updates](https://github.com/guibranco/BancosBrasileiros/actions/workflows/dailyUpdates.yml/badge.svg)](https://github.com/guibranco/BancosBrasileiros/actions/workflows/dailyUpdates.yml)
@@ -14,15 +14,15 @@ Brazilian commercial banks list
 
 ![Bancos Brasileiros logo](logo.png)
 
-***Para a versão em português do README.md, [siga me](/README.md) por favor.***
+***For a english version of README.md, please [follow me](/README.md)***
 
 ---
 
-## List of banks
+## Lista de bancos
 
-### Formats
+### Formatos
 
-This list contains 300+ registered banks, in the following formats:
+Esta lista contém 300+ bancos cadastrados, nos seguintes formatos:
 
 - **CSV**: [bancos.csv](/data/bancos.csv)
 - **JSON**: [bancos.json](/data/bancos.json)
@@ -30,41 +30,41 @@ This list contains 300+ registered banks, in the following formats:
 - **SQL**: [bancos.sql](/data/bancos.sql)
 - **XML**: [bancos.xml](/data/bancos.xml)
 
-### Available data
+### Dados disponíves
 
-Each of the lists has the following information (schema):
+Cada uma das listas possui as seguintes informações (schema):
 
-| Column | Description | Observations |
+| Coluna | Descrição | Observações |
 |-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
-| COMPE | Code - COMPE | 3 digits |
-| ISPB | Code - ISPB | 8 digits |
-| Document | Document - CNPJ | 14 numbers - 18 digits (formatted) |
-| LongName | Long name  | According to BACEN - STR |
-| ShortName | Short name | According to BACEN - STR|
-| Network | Network | RSFN, Internet, null |
-| Type | Type | commercial, multiple, savings, null |
-| PixType | Type of PIX/SPI participant | DRCT - Directly, INDR - Indirectly, null |
-| Charge | If does charge operations | true, false, null | 
-| CreditDocument | If does DOC/TED operations | true, false, null | 
-| SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null | 
-| Products | List of products offered | In portuguese only | 
+| COMPE | Código - COMPE | 3 dígitos |
+| ISPB | Código - ISPB | 8 dígitos |
+| Document | Documento - CNPJ | 14 números - 18 dígitos (formatado) |
+| LongName | Nome extenso | Conforme BACEN - STR |
+| ShortName | Nome reduzido | Conforme BACEN - STR |
+| Network | Rede | RSFN, Internet, null |
+| Type | Tipo | comercial, múltiplo, caixa econômica, null |
+| PixType | Tipo de participante PIX/SPI | DRCT - Direto, INDR - Indireto, null |
+| Charge | Efetua cobrança | true, false, null | 
+| CreditDocument | Efetua DOC/TED | true, false, null | 
+| SalaryPortability | Efetua/recebe portabilidade de salário | "Banco folha e Destinatário" - ambas as operações,  "Destinatário" - apenas recebe, null
+| Products | Lista de produtos oferecidos | Apenas em português |
 | Url | Website | - |
-| DateOperationStarted | Commercial operation start date | - |
-| DatePixStarted | PIX operation start date | Only for those PSP of SPI |
-| DateRegistered | Registration date on schema | - |
-| DateUpdated | Change date on schema | - |
+| DateOperationStarted | Data de início da operação comercial | - |
+| DatePixStarted | Data de início da operação PIX | Somente para PSP do SPI |
+| DateRegistered | Data de cadastro no schema | - |
+| DateUpdated | Data de alteração no schema | - |
 
 ---
 
-## Schemas and classes
+## Schemas e classes
 
-A schema file is available in the folder [schemas](/schemas) for lists of type:
+Um arquivo de schema está disponível na pasta [schemas](/schemas) para as listas do tipo:
 
-- [JSON](schemas/schema.json)
-- [SQL](schemas/schema.sql)
-- [XML](schemas/schema.xml)
+- [JSON](/schemas/schema.json)
+- [SQL](/schemas/schema.sql)
+- [XML](/schemas/schema.xml)
 
-And classes (DTO - Data Transport Object) in the following languages:
+E classes (DTO - Data Transport Object) das seguintes linguagens:
 
 - [C#](/schemas/csharp.cs) <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 - [Go](/schemas/go.go) <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -78,14 +78,14 @@ And classes (DTO - Data Transport Object) in the following languages:
 
 ---
 
-## Examples
+## Exemplos
 
-Implementation examples are available in the folder [examples](/examples), we currently have examples in the following technologies:
+Exemplos de implementação estão disponíveis na pasta [examples](/examples), atualmente dispomos de exemplos nas seguintes tecnologias:
 
 - [.NET/C#](/examples/dotnet) <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 - [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
 
-If you miss an example, in the language, library or framework, open an issue requesting an example project on the desired technology!
+Caso sinta falta de um exemplo, na linguagem, biblioteca ou framework, abra uma issue solicitando um projeto de exemplo na tecnologia desejada!
 
 ---
 
@@ -94,9 +94,9 @@ If you miss an example, in the language, library or framework, open an issue req
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
-This repository is available at NPM under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
+Este repositório está disponível no NPM com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 
-Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publish version 1.0.0 on NPM.
+Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter idealizado e criado a versão 1.0.0 no NPM.
 
 ```bash
 
@@ -109,7 +109,7 @@ npm i bancos-brasileiros
 [![BancosBrasileiros NuGet Version](https://img.shields.io/nuget/v/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 [![BancosBrasileiros NuGet Downloads](https://img.shields.io/nuget/dt/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 
-This repository is available at NuGet under the name [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
+Este repositório está disponível no NPM com o nome [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
 
 ```bash
 
@@ -119,25 +119,25 @@ dotnet add package BancosBrasileiros
 
 ---
 
-## Acronyms and abbreviations
+## Siglas e abreviações
 
-For those unfamiliar with Brazilian financial/regulatory entities:
+Para aqueles que não estão familiarizados com entidades financeiras/regulatórias brasileiras:
 
-- **ABBC** - Brazilian Association of Banks
-- **BCB** - Central Bank of Brazil (regulatory authority)(also known as *BACEN* or *BC*)
-- **CIP** - Interbank Payments Chamber
-- **CNPJ** - National Register of Legal Entities - *RFB*
-- **COMPE** - Clearing System for Checks and Other Papers
-- **CPF** - Individual Taxpayer Registration - *RFB*
-- **FEBRABAN** - Brazilian Federation of Banks
-- **ISPB** - *SPB* identification
-- **PIX** - Instant Payments
-- **RFB** - Federal Revenue Service of Brazil
-- **RSFN** - *SFN* Network
-- **SFN** - National Financial System
-- **SPB** - Brazilian Payment System
-- **SPI** - Instant Payment System
-- **STR** - Reservation Transfer System
+- **ABBC** - Associação Brasileira de Bancos
+- **BCB** - Banco Central do Brasil (autoridade reguladora) (também chamado de *BACEN* ou *BC*)
+- **CIP** - Câmara Interbancária de Pagamentos
+- **CNPJ** - Cadastro Nacional de Pessoa Jurídica - *RFB*
+- **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
+- **CPF** - Cadastro Pessoa Física - *RFB*
+- **FEBRABAN** - Federação Brasileira de Bancos
+- **ISPB** - Identificação do *SPB*
+- **PIX** - Pagamentos Instantâneos
+- **RFB** - Receita Federal do Brasil
+- **RSFN** - Rede do *SFN*
+- **SFN** - Sistema Financeiro Nacional
+- **SPB** - Sistema de Pagamentos Brasileiro
+- **SPI** - Sistema de Pagamentos Instantâneos
+- **STR** - Sistema de Transferência de Reserva
 
 ---
 
