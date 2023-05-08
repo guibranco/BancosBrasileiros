@@ -14,7 +14,7 @@ Lista de bancos comerciais brasileiros
 
 ![Bancos Brasileiros logo](logo.png)
 
-***For a english version of README.md, please [follow me](/README.en.md)***
+***For a english version of README.md, please [follow me](/README.md)***
 
 ---
 
