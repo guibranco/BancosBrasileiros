@@ -4049,8 +4049,8 @@
     <LongName>Crediare S.A. - Crédito, financiamento e investimento</LongName>
     <ShortName>CREDIARE CFI S.A.</ShortName>
     <Network>RSFN</Network>
-    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Charge>true</Charge>
+    <CreditDocument>false</CreditDocument>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -4058,7 +4058,7 @@
     </Products>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817149-03:00</DateRegistered>
-    <DateUpdated>2023-03-24T12:07:17.0122005Z</DateUpdated>
+    <DateUpdated>2023-06-04T14:21:02.173245Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>430</COMPE>

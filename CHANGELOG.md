@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 429 - CREDIARE CFI S.A. - 05.676.026/0001-78
+
 ### 2023-04-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
