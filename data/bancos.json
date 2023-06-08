@@ -6296,16 +6296,16 @@
     "ShortName": "PINBANK IP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-11-16",
-    "DatePixStarted": "2021-12-20 15:08:20",
+    "DatePixStarted": "2023-06-07 09:15:00",
     "DateRegistered": "2022-11-12T12:06:34.2025683+00:00",
-    "DateUpdated": "2022-11-12T12:06:33.1744957+00:00"
+    "DateUpdated": "2023-06-08T12:06:45.0495454+00:00"
   },
   {
     "COMPE": "530",

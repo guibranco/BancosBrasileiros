@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-06-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 529 - PINBANK IP - 17.079.937/0001-05
+
 ### 2023-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank
