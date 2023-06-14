@@ -1927,15 +1927,17 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <Products>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancofibra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115225-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6473396Z</DateUpdated>
+    <DateUpdated>2023-06-14T12:06:48.3271732Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>233</COMPE>

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-06-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 224 - BCO FIBRA S.A. - 58.616.418/0001-08
+
 ### 2023-06-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

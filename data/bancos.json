@@ -2346,15 +2346,17 @@
     "CreditDocument": true,
     "SalaryPortability": null,
     "Products": [
+      "Cheque Especial",
       "Consignado",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade e Capital de Giro",
+      "Veículos"
     ],
     "Url": "https://www.bancofibra.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115225-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6473396+00:00"
+    "DateUpdated": "2023-06-14T12:06:48.3271732+00:00"
   },
   {
     "COMPE": "233",
