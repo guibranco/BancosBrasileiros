@@ -1,20 +1,55 @@
-class Bank
+<?php
+
+class Bank
 {
-    public $COMPE; //String
-    public $ISPB; //String
-    public $Document; //String
-    public $LongName; //String
-    public $ShortName; //String
-    public $Network; //String
-    public $Type; //String
-    public $Charge; //Boolean
-    public $CreditDocument; //Boolean
-    public $SalaryPortability; //String
-    public $Products; //String
-    public $PixType; //String
-    public $Url; //String
-    public $DateOperationStarted; //String
-    public $DatePixStarted; //String
-    public $DateRegistered; //String
-    public $DateUpdated; //String
+    /** @var string */
+    public $COMPE;
+
+    /** @var string */
+    public $ISPB;
+
+    /** @var string */
+    public $Document;
+
+    /** @var string */
+    public $LongName;
+
+    /** @var string */
+    public $ShortName;
+
+    /** @var string|null */
+    public $Network;
+
+    /** @var string|null */
+    public $Type;
+
+    /** @var string|null */
+    public $PixType;
+
+    /** @var bool|null */
+    public $Charge;
+
+    /** @var bool|null */
+    public $CreditDocument;
+
+    /** @var string|null */
+    public $SalaryPortability;
+
+    /** @var string[]|null */
+    public $Products;
+
+    /** @var string|null */
+    public $Url;
+
+    /** @var string|null */
+    public $DateOperationStarted;
+
+    /** @var string|null */
+    public $DatePixStarted;
+
+    /** @var DateTime|string */
+    public $DateRegistered;
+
+    /** @var DateTime|string */
+    public $DateUpdated;
 }
