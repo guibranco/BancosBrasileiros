@@ -1,0 +1,22 @@
+{
+    "name": "guibranco/bancos-brasileiros",
+    "description": "Brazilian commercial banks list",
+    "type": "library",
+    "homepage": "https://guibranco.github.io/BancosBrasileiros/",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Guibranco\\BancosBrasileiros\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilherme Branco Stracini",
+            "email": "guilherme@guilhermebranco.com.br",
+            "homepage": "https://guilherme.stracini.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
