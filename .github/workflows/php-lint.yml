@@ -1,0 +1,14 @@
+name: PHP Linting
+
+on: pull_request
+
+jobs:
+
+  php-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+
+        - uses: actions/checkout@v3
+
+        - uses: michaelw90/PHP-Lint@master
