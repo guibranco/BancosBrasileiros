@@ -144,3 +144,13 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 ## Changelog
 
 [Changelog](/CHANGELOG.md)
+
+## Contributors
+
+<!-- readme: snyk-bot/-,collaborators,contributors -start -->
+<!-- readme: snyk-bot/-,collaborators,contributors -end -->
+
+## Bots
+
+<!-- readme: snyk-bot,bots -start -->
+<!-- readme: snky-bot,bots -end -->
