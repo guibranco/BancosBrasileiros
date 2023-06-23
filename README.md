@@ -240,7 +240,7 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 
 ## Bots
 
-<!-- readme: bots -start -->
+<!-- readme: snyk-bot,bots -start -->
 <table>
 <tr>
     <td align="center">
@@ -251,4 +251,4 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td></tr>
 </table>
-<!-- readme: bots -end -->
+<!-- readme: snyk-bot,bots -end -->
