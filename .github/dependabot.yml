@@ -5,21 +5,37 @@ updates:
   schedule:
     interval: weekly
   open-pull-requests-limit: 10
+  assignees:
+    - "guibranco"
+  reviewers:
+    - "guibranco"
   
 - package-ecosystem: "nuget"
   directory: "/"
   schedule:
     interval: weekly
   open-pull-requests-limit: 10
+  assignees:
+    - "guibranco"
+  reviewers:
+    - "guibranco"
   
 - package-ecosystem: "npm"
   directory: "/"
   schedule:
     interval: weekly
   open-pull-requests-limit: 10
+  assignees:
+    - "guibranco"
+  reviewers:
+    - "guibranco"
   
 - package-ecosystem: "github-actions"
   directory: "/"
   schedule:
     interval: weekly
   open-pull-requests-limit: 10
+  assignees:
+    - "guibranco"
+  reviewers:
+    - "guibranco"
