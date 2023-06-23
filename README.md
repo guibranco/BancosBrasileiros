@@ -240,7 +240,7 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 
 ## Bots
 
-<!-- readme: snyk-bot,github-actions-bot,bots -start -->
+<!-- readme: snyk-bot,github-actions,bots -start -->
 <table>
 <tr>
     <td align="center">
@@ -251,13 +251,6 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/github-actions-bot">
-            <img src="" width="100;" alt="github-actions-bot"/>
-            <br />
-            <sub><b>Github-actions-bot</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/dependabot[bot]">
             <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100;" alt="dependabot[bot]"/>
             <br />
@@ -265,4 +258,4 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td></tr>
 </table>
-<!-- readme: snyk-bot,github-actions-bot,bots -end -->
+<!-- readme: snyk-bot,github-actions,bots -end -->
