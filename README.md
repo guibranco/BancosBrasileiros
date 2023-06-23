@@ -144,3 +144,13 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 ## Changelog
 
 [Changelog](/CHANGELOG.md)
+
+## Contributors
+
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
+
+## Bots
+
+<!-- readme: bots -start -->
+<!-- readme: bots -end -->
