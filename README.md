@@ -94,7 +94,7 @@ If you miss an example, in the language, library or framework, open an issue req
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
-This repository is available at NPM under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
+This repository is available at [NPM](https://www.npmjs.com) under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 
 Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publish version 1.0.0 on NPM.
 
@@ -109,11 +109,24 @@ npm i bancos-brasileiros
 [![BancosBrasileiros NuGet Version](https://img.shields.io/nuget/v/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 [![BancosBrasileiros NuGet Downloads](https://img.shields.io/nuget/dt/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 
-This repository is available at NuGet under the name [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
+This repository is available at [NuGet](https://www.nuget.org) under the name [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
 
 ```bash
 
 dotnet add package BancosBrasileiros
+
+```
+
+## Packagist - Package Manager for PHP/Composer
+
+[![BancosBrasileiros Packagist Version](https://img.shields.io/packagist/v/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
+[![BancosBrasileiros Packagist Downloads](https://img.shields.io/packagist/dt/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
+
+This repository is available at [Packagist](https://packagist.org) under the name [guibranco/bancos-brasilerios](https://packagist.org/packages/guibranco/bancos-brasileiros)
+
+```bash
+
+composer require guibranco/bancos-brasileiros
 
 ```
 
