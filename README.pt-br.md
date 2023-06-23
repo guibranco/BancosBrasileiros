@@ -94,7 +94,7 @@ Caso sinta falta de um exemplo, na linguagem, biblioteca ou framework, abra uma 
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
-Este repositório está disponível no NPM com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
+Este repositório está disponível no [NPM](https://www.npmjs.com) com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 
 Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter idealizado e criado a versão 1.0.0 no NPM.
 
@@ -109,11 +109,24 @@ npm i bancos-brasileiros
 [![BancosBrasileiros NuGet Version](https://img.shields.io/nuget/v/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 [![BancosBrasileiros NuGet Downloads](https://img.shields.io/nuget/dt/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 
-Este repositório está disponível no NPM com o nome [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
+Este repositório está disponível no [NuGet](https://www.nuget.org) com o nome [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
 
 ```bash
 
 dotnet add package BancosBrasileiros
+
+```
+
+## Packagist - Package Manager for PHP/Composer
+
+[![BancosBrasileiros Packagist Version](https://img.shields.io/packagist/v/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
+[![BancosBrasileiros Packagist Downloads](https://img.shields.io/packagist/dt/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
+
+ste repositório está disponível no  [Packagist](https://packagist.org) com o nome [guibranco/bancos-brasilerios](https://packagist.org/packages/guibranco/bancos-brasileiros)
+
+```bash
+
+composer require guibranco/bancos-brasileiros
 
 ```
 
