@@ -3,14 +3,14 @@
 Lista de bancos comerciais brasileiros
 
 [![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
-[![Daily updates](https://github.com/guibranco/BancosBrasileiros/actions/workflows/dailyUpdates.yml/badge.svg)](https://github.com/guibranco/BancosBrasileiros/actions/workflows/dailyUpdates.yml)
+[![Daily updates](https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg)](https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml)
 [![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 [![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
-[![Known Vulnerabilities](https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic)](https://snyk.io/test/github/guibranco/BancosBrasileiros)
 [![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/2dfea6fc7a71e09ea7da/maintainability)](https://codeclimate.com/github/guibranco/BancosBrasileiros/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/2dfea6fc7a71e09ea7da/test_coverage)](https://codeclimate.com/github/guibranco/BancosBrasileiros/test_coverage)
 [![CodeFactor](https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge)](https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros)
+[![Known Vulnerabilities](https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic)](https://snyk.io/test/github/guibranco/BancosBrasileiros)
 
 ![Bancos Brasileiros logo](logo.png)
 
@@ -147,122 +147,10 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Contributors
 
-<!-- readme: snyk-bot/-,collaborators,snyk-bot/-,contributors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/guibranco">
-            <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
-            <br />
-            <sub><b>Guilherme Branco Stracini</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/snyk-bot">
-            <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="100;" alt="snyk-bot"/>
-            <br />
-            <sub><b>Snyk Bot</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/raphaelcunha">
-            <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
-            <br />
-            <sub><b>Raphael Cunha</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Baldini">
-            <img src="https://avatars.githubusercontent.com/u/8235570?v=4" width="100;" alt="Baldini"/>
-            <br />
-            <sub><b>Guilherme Baldini</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pferreirafabricio">
-            <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
-            <br />
-            <sub><b>Fabrício Pinto Ferreira</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/iurisilvio">
-            <img src="https://avatars.githubusercontent.com/u/105852?v=4" width="100;" alt="iurisilvio"/>
-            <br />
-            <sub><b>Iuri De Silvio</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/jesobreira">
-            <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
-            <br />
-            <sub><b>Jefrey Sobreira Santos</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/leogregianin">
-            <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
-            <br />
-            <sub><b>Leonardo Gregianin</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rafaeldomi">
-            <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
-            <br />
-            <sub><b>Rafael Domiciano</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/luisccf">
-            <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
-            <br />
-            <sub><b>Luis Carlos Cardoso</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rodrigondec">
-            <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
-            <br />
-            <sub><b>Rodrigo Castro</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/vduggen">
-            <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
-            <br />
-            <sub><b>Vitor Duggen</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: snyk-bot/-,collaborators,snyk-bot/-,contributors -end -->
+<!-- readme: collaborators,contributors,snyk-bot/- -start -->
+<!-- readme: collaborators,contributors,snyk-bot/- -end -->
 
 ## Bots
 
 <!-- readme: snyk-bot,bots -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/snyk-bot">
-            <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="100;" alt="snyk-bot"/>
-            <br />
-            <sub><b>Snyk Bot</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/dependabot[bot]">
-            <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100;" alt="dependabot[bot]"/>
-            <br />
-            <sub><b>dependabot[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/github-actions[bot]">
-            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
-            <br />
-            <sub><b>github-actions[bot]</b></sub>
-        </a>
-    </td></tr>
-</table>
 <!-- readme: snyk-bot,bots -end -->
