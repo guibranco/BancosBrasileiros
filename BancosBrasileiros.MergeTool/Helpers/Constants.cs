@@ -41,26 +41,26 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// The SLC URL
         /// </summary>
-        public const string SlcUrl = "https://www.cip-bancos.org.br/Monitoramento/Participantes_Homologados.pdf";
+        public const string SlcUrl = "https://www2.nuclea.com.br/Monitoramento/Participantes_Homologados.pdf";
 
         /// <summary>
         /// The siloc URL
         /// </summary>
-        public const string SilocUrl = "https://www.cip-bancos.org.br/Monitoramento/SILOC.pdf";
+        public const string SilocUrl = "https://www2.nuclea.com.br/Monitoramento/SILOC.pdf";
 
         /// <summary>
         /// The sitraf URL
         /// </summary>
-        public const string SitrafUrl = "https://www.cip-bancos.org.br/Monitoramento/SITRAF.pdf";
+        public const string SitrafUrl = "https://www2.nuclea.com.br/Monitoramento/Relação%20de%20Clientes%20SITRAF.pdf";
 
         /// <summary>
         /// The CTC URL
         /// </summary>
-        public const string CtcUrl = "https://www.cip-bancos.org.br/SAP/CTC.pdf";
+        public const string CtcUrl = "https://www2.nuclea.com.br/SAP/CTC.pdf";
 
         /// <summary>
         /// The PCPS URL
         /// </summary>
-        public const string PcpsUrl = "https://www.cip-bancos.org.br/SAP/Participantes_PCPS.pdf";
+        public const string PcpsUrl = "https://www2.nuclea.com.br/SAP/Rela%C3%A7%C3%A3o%20de%20Participantes%20PCPS.pdf";
     }
 }
