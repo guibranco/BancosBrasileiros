@@ -147,8 +147,8 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Contributors
 
-<!-- readme: collaborators,contributors -start -->
-<!-- readme: collaborators,contributors -end -->
+<!-- readme: collaborators,contributors,snyk-bot/- -start -->
+<!-- readme: collaborators,contributors,snyk-bot/- -end -->
 
 ## Bots
 
