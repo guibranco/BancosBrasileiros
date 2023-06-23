@@ -1,3 +1,5 @@
+name: README.md contributors
+
 on:
     push:
         branches:
