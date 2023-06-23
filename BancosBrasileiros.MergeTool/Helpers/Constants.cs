@@ -51,7 +51,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// The sitraf URL
         /// </summary>
-        public const string SitrafUrl = "https://www2.nuclea.com.br/Monitoramento/Relação%20de%20Clientes%20SITRAF.pdf";
+        public const string SitrafUrl = "https://www2.nuclea.com.br/Monitoramento/Rela%C3%A7%C3%A3o%20de%20Clientes%20SITRAF.pdf";
 
         /// <summary>
         /// The CTC URL
