@@ -97,10 +97,11 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2012-12-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115464-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3596292Z</DateUpdated>
+    <DateUpdated>2023-06-23T17:11:26.6695969Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>011</COMPE>
@@ -3110,13 +3111,14 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Pessoal</Product>
     </Products>
     <DateOperationStarted>2021-02-01</DateOperationStarted>
     <DatePixStarted>2021-07-19 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114686-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2241378Z</DateUpdated>
+    <DateUpdated>2023-06-23T17:11:26.6713522Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>359</COMPE>
@@ -3191,10 +3193,11 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114668-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:53.4967664Z</DateUpdated>
+    <DateUpdated>2023-06-23T17:11:26.6713081Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>365</COMPE>
@@ -4582,6 +4585,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
@@ -4592,7 +4596,7 @@
     <DateOperationStarted>2022-03-21</DateOperationStarted>
     <DatePixStarted>2023-01-23 13:00:00</DatePixStarted>
     <DateRegistered>2022-03-31T08:12:19.2479082Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3055716Z</DateUpdated>
+    <DateUpdated>2023-06-23T17:11:26.6713328Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>479</COMPE>
@@ -5055,10 +5059,11 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2023-01-12</DateOperationStarted>
     <DatePixStarted>2023-01-27 07:15:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.2740312Z</DateUpdated>
+    <DateUpdated>2023-06-23T17:11:26.6713607Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>537</COMPE>

@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2023-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 5 banks
+	- 10 - CREDICOAMO - 81.723.108/0001-04
+	- 358 - MIDWAY S.A. - SCFI - 09.464.032/0001-12
+	- 364 - EFÍ S.A. - IP - 09.089.356/0001-18
+	- 478 - GAZINCRED S.A. SCFI - 11.760.553/0001-69
+	- 536 - NEON PAGAMENTOS S.A. IP - 20.855.875/0001-82
+
 ### 2023-06-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

@@ -104,13 +104,13 @@
     "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2012-12-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115464-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3596292+00:00"
+    "DateUpdated": "2023-06-23T17:11:26.6695969+00:00"
   },
   {
     "COMPE": "011",
@@ -3839,7 +3839,7 @@
     "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Destinatário",
     "Products": [
       "Pessoal"
     ],
@@ -3847,7 +3847,7 @@
     "DateOperationStarted": "2021-02-01",
     "DatePixStarted": "2021-07-19 15:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114686-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2241378+00:00"
+    "DateUpdated": "2023-06-23T17:11:26.6713522+00:00"
   },
   {
     "COMPE": "359",
@@ -3942,13 +3942,13 @@
     "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
-    "SalaryPortability": null,
+    "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-03-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114668-03:00",
-    "DateUpdated": "2023-03-03T14:56:53.4967664+00:00"
+    "DateUpdated": "2023-06-23T17:11:26.6713081+00:00"
   },
   {
     "COMPE": "365",
@@ -5741,7 +5741,7 @@
     "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
-    "SalaryPortability": null,
+    "SalaryPortability": "Destinatário",
     "Products": [
       "Consignado",
       "Outros Créditos",
@@ -5753,7 +5753,7 @@
     "DateOperationStarted": "2022-03-21",
     "DatePixStarted": "2023-01-23 13:00:00",
     "DateRegistered": "2022-03-31T08:12:19.2479082+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3055716+00:00"
+    "DateUpdated": "2023-06-23T17:11:26.6713328+00:00"
   },
   {
     "COMPE": "479",
@@ -6396,13 +6396,13 @@
     "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-01-12",
     "DatePixStarted": "2023-01-27 07:15:00",
     "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
-    "DateUpdated": "2023-03-03T14:56:54.2740312+00:00"
+    "DateUpdated": "2023-06-23T17:11:26.6713607+00:00"
   },
   {
     "COMPE": "537",
