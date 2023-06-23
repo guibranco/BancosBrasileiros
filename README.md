@@ -159,13 +159,6 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/snyk-bot">
-            <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="100;" alt="snyk-bot"/>
-            <br />
-            <sub><b>Snyk Bot</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/raphaelcunha">
             <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
             <br />
@@ -192,15 +185,15 @@ For those unfamiliar with Brazilian financial/regulatory entities:
             <br />
             <sub><b>Iuri De Silvio</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/jesobreira">
             <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
             <br />
             <sub><b>Jefrey Sobreira Santos</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/leogregianin">
             <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
@@ -256,13 +249,6 @@ For those unfamiliar with Brazilian financial/regulatory entities:
             <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100;" alt="dependabot[bot]"/>
             <br />
             <sub><b>dependabot[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/github-actions[bot]">
-            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
-            <br />
-            <sub><b>github-actions[bot]</b></sub>
         </a>
     </td></tr>
 </table>
