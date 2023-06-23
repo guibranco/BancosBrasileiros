@@ -147,7 +147,7 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 
 ## Contributors
 
-<!-- readme: collaborators,contributors -start -->
+<!-- readme: snyk-bot/-collaborators,contributors -start -->
 <table>
 <tr>
     <td align="center">
@@ -236,11 +236,11 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators,contributors -end -->
+<!-- readme: snyk-bot/-,collaborators,contributors -end -->
 
 ## Bots
 
-<!-- readme: snyk-bot,bots -start -->
+<!-- readme: snyk-bot,github-bot,bots -start -->
 <table>
 <tr>
     <td align="center">
@@ -258,4 +258,4 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td></tr>
 </table>
-<!-- readme: snyk-bot,bots -end -->
+<!-- readme: snyk-bot,github-bot,bots -end -->
