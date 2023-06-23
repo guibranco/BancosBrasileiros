@@ -107,7 +107,7 @@ namespace BancosBrasileiros.MergeTool.Dto
                     else
                     {
                         document += "0001";
-                        document += $"{document}00".CalculateBrazilianCorporationDocument();
+                        document += $"{document}00".CalculateBrazilianCorporateDocument();
                     }
                 }
 
@@ -336,7 +336,9 @@ namespace BancosBrasileiros.MergeTool.Dto
         /// Serves as the default hash function.
         /// </summary>
         /// <returns>A hash code for the current object.</returns>
+#pragma warning disable S2328
         public override int GetHashCode()
+#pragma warning restore S2328
         {
             unchecked
             {
