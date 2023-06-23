@@ -251,10 +251,10 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/github-bot">
-            <img src="https://avatars.githubusercontent.com/u/6031226?v=4" width="100;" alt="github-bot"/>
+        <a href="https://github.com/github-actions-bot">
+            <img src="" width="100;" alt="github-actions-bot"/>
             <br />
-            <sub><b>Null</b></sub>
+            <sub><b>Github-actions-bot</b></sub>
         </a>
     </td>
     <td align="center">
@@ -262,13 +262,6 @@ For those unfamiliar with Brazilian financial/regulatory entities:
             <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100;" alt="dependabot[bot]"/>
             <br />
             <sub><b>dependabot[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/github-actions[bot]">
-            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
-            <br />
-            <sub><b>github-actions[bot]</b></sub>
         </a>
     </td></tr>
 </table>
