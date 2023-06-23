@@ -9,7 +9,7 @@ jobs:
     contrib-readme-job:
         runs-on: ubuntu-latest
         name: Update files
-        
+
         steps:
             - name: Contribute List
               uses: akhilmhdh/contributors-readme-action@v2.3.6
