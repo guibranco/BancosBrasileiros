@@ -59,11 +59,14 @@ class Bank
     public static $jsonPath = __DIR__."/../data/bancos.json";
 
     public static function all() {
-        $file = file_get_contents(self::$jsonPath);
+        $file = fopen(self::$jsonPath, "r");
         if (! $file) {
             throw new Exception("Json File not found");
         }
-
-        return json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $file));
+        $file_size = filesize(self::$jsonPath);
+        $contents = fread($file, $file_size);
+        fclose($file);
+        
+        return json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $contents));
     } 
 }
