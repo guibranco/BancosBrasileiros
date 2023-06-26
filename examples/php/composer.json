@@ -1,0 +1,11 @@
+{
+    "name": "samples/php",
+    "autoload": {
+        "psr-4": {
+            "Samples\\": "src/"
+        }
+    },
+    "require": {
+        "guibranco/bancos-brasileiros": "^4.0"
+    }
+}
