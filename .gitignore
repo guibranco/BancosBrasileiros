@@ -386,3 +386,5 @@ FodyWeavers.xsd
 pullRequest.txt
 
 /vendor/
+vendor
+composer.lock

@@ -1,4 +1,7 @@
 <?php
+namespace Guibranco\BancosBrasileiros;
+
+use Exception;
 
 class Bank
 {
@@ -52,4 +55,15 @@ class Bank
 
     /** @var DateTime|string */
     public $DateUpdated;
+
+    public static $jsonPath = __DIR__."/../data/bancos.json";
+
+    public static function all() {
+        $file = file_get_contents(self::$jsonPath);
+        if (! $file) {
+            throw new Exception("Json File not found");
+        }
+
+        return json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $file));
+    } 
 }
