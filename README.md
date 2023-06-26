@@ -13,7 +13,7 @@ Brazilian commercial banks list
 [![Known Vulnerabilities](https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic)](https://snyk.io/test/github/guibranco/BancosBrasileiros)
 [![GitHub issues](https://img.shields.io/github/issues/guibranco/bancosbrasileiros)](https://github.com/guibranco/bancosbrasileiros/issues)
 
-![Bancos Brasileiros logo](logo.png)
+![Bancos Brasileiros logo](https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/logo.png)
 
 ***Para a versão em português do README.md, [siga me](/README.pt-br.md) por favor.***
 
