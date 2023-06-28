@@ -48,7 +48,7 @@ Each of the lists has the following information (schema):
 | Charge | If does charge operations | true, false, null | 
 | CreditDocument | If does DOC/TED operations | true, false, null | 
 | SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null | 
-| Products | List of products offered | In portuguese only | 
+| Products | List of products offered | In Portuguese only | 
 | Url | Website | - |
 | DateOperationStarted | Commercial operation start date | - |
 | DatePixStarted | PIX operation start date | Only for those PSP of SPI |
@@ -159,10 +159,11 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 
 [Changelog](/CHANGELOG.md)
 
+---
 
 ## Contributors
 
-<!-- readme: collaborators,contributors,snyk-bot/- -start -->
+<!-- readme: collaborators, contributors, snyk-bot/- -start -->
 <table>
 <tr>
     <td align="center">
@@ -244,11 +245,11 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators,contributors,snyk-bot/- -end -->
+<!-- readme: collaborators, contributors, snyk-bot/- -end -->
 
 ## Bots
 
-<!-- readme: snyk-bot,bots -start -->
+<!-- readme: snyk-bot, bots -start -->
 <table>
 <tr>
     <td align="center">
