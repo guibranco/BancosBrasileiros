@@ -16,6 +16,7 @@ jobs:
       - name: Checkout MergeTool
         uses: actions/checkout@v3
         with:
+          repo: guibranco/BancosBrasileiros
           ref: MergeTool
 
       - name: Setup .NET
