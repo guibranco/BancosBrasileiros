@@ -10,7 +10,7 @@ composer require guibranco/bancos-brasileiros
 
 # Docs
 
-create an `index.php`
+Create an `index.php`
 
 ```php
 require __DIR__ . '/vendor/autoload.php';
