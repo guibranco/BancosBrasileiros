@@ -124,7 +124,7 @@ dotnet add package BancosBrasileiros
 [![BancosBrasileiros Packagist Version](https://img.shields.io/packagist/v/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 [![BancosBrasileiros Packagist Downloads](https://img.shields.io/packagist/dt/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 
-This repository is available at [Packagist](https://packagist.org) under the name [guibranco/bancos-brasilerios](https://packagist.org/packages/guibranco/bancos-brasileiros)
+This repository is available at [Packagist](https://packagist.org) under the name [guibranco/bancos-brasileiros](https://packagist.org/packages/guibranco/bancos-brasileiros)
 
 ```bash
 
