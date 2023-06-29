@@ -15,11 +15,11 @@ Lista de bancos comerciais brasileiros
 
 ![Bancos Brasileiros logo](logo.png)
 
-***For a english version of README.md, please [follow me](/README.md)***
+***For an English version of README.md, please [follow me](/README.md)***
 
 ---
 
-## Lista de bancos
+## Lista de Bancos
 
 ### Formatos
 
@@ -124,7 +124,7 @@ dotnet add package BancosBrasileiros
 [![BancosBrasileiros Packagist Version](https://img.shields.io/packagist/v/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 [![BancosBrasileiros Packagist Downloads](https://img.shields.io/packagist/dt/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 
-ste repositório está disponível no  [Packagist](https://packagist.org) com o nome [guibranco/bancos-brasilerios](https://packagist.org/packages/guibranco/bancos-brasileiros)
+ste repositório está disponível no  [Packagist](https://packagist.org) com o nome [guibranco/bancos-brasileiros](https://packagist.org/packages/guibranco/bancos-brasileiros)
 
 ```bash
 
