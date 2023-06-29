@@ -224,6 +224,13 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/AmolKumarGupta">
+            <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
+            <br />
+            <sub><b>Amol</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/luisccf">
             <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
             <br />
