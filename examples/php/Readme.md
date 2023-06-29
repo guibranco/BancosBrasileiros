@@ -2,11 +2,6 @@
 
 Brazilian commercial banks list
 
-
-***Para a versão em português do README.md, [siga me](/README.pt-br.md) por favor.***
-
-
-
 # Installation
 
 ```
