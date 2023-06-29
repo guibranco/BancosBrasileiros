@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Guibranco\\BancosBrasileiros\\": ["data/", "schemas/"]
+            "Guibranco\\BancosBrasileiros\\": ["data/", "schemas/", "src/"]
         }
     },
     "authors": [
