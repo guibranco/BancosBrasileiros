@@ -163,7 +163,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Contributors
 
-<!-- readme: collaborators, contributors, snyk-bot/- -start -->
+<!-- readme: collaborators,contributors,snyk-bot/- -start -->
 <table>
 <tr>
     <td align="center">
@@ -245,11 +245,11 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators, contributors, snyk-bot/- -end -->
+<!-- readme: collaborators,contributors,snyk-bot/- -end -->
 
 ## Bots
 
-<!-- readme: snyk-bot, bots -start -->
+<!-- readme: snyk-bot,bots -start -->
 <table>
 <tr>
     <td align="center">
@@ -274,4 +274,4 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
         </a>
     </td></tr>
 </table>
-<!-- readme: snyk-bot, bots -end -->
+<!-- readme: snyk-bot,bots -end -->
