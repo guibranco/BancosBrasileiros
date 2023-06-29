@@ -85,8 +85,9 @@ Implementation examples are available in the folder [examples](/examples), we cu
 
 - [.NET/C#](/examples/dotnet) <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 - [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
+- [PHP](/examples/php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 
-If you miss an example, in the language, library or framework, open an issue requesting an example project on the desired technology!
+If you miss an example, in the language, library, or framework, open an issue requesting an example project on the desired technology!
 
 ---
 
@@ -97,7 +98,7 @@ If you miss an example, in the language, library or framework, open an issue req
 
 This repository is available at [NPM](https://www.npmjs.com) under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
 
-Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publish version 1.0.0 on NPM.
+Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publishing version 1.0.0 on NPM.
 
 ```bash
 
