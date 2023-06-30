@@ -280,6 +280,13 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
             <br />
             <sub><b>dependabot[bot]</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/codefactor-io[bot]">
+            <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
+            <br />
+            <sub><b>codefactor-io[bot]</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: snyk-bot,bots -end -->
