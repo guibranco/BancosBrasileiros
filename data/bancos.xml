@@ -2333,9 +2333,12 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <Products>
+      <Product>Crédito Pessoal e Troca de Modalidade</Product>
+    </Products>
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.401656Z</DateUpdated>
+    <DateUpdated>2023-07-05T12:07:00.909528Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>281</COMPE>

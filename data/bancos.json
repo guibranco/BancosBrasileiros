@@ -2843,12 +2843,14 @@
     "Charge": true,
     "CreditDocument": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Pessoal e Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2018-05-10",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114949-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.401656+00:00"
+    "DateUpdated": "2023-07-05T12:07:00.909528+00:00"
   },
   {
     "COMPE": "281",

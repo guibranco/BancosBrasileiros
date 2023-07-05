@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 280 - WILL FINANCEIRA S.A.CFI - 23.862.762/0001-00
+
 ### 2023-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 5 banks
