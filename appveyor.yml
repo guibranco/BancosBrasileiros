@@ -3,7 +3,8 @@ skip_tags: true
 skip_branch_with_pr: true
 skip_commits:
     message: /(docs\(contributor\)|(Create|Update).*\.(png|jpg|jpeg|bmp|gif|md))/
-    
+    files:
+       - examples/* 
 branches:
     only:
     - main
