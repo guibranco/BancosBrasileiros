@@ -196,20 +196,27 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/guistracini-outsurance-ie">
+            <img src="https://avatars.githubusercontent.com/u/139234732?v=4" width="100;" alt="guistracini-outsurance-ie"/>
+            <br />
+            <sub><b>Guilherme Branco Stracini</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/iurisilvio">
             <img src="https://avatars.githubusercontent.com/u/105852?v=4" width="100;" alt="iurisilvio"/>
             <br />
             <sub><b>Iuri De Silvio</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jesobreira">
             <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
             <br />
             <sub><b>Jefrey Sobreira Santos</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/leogregianin">
             <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
@@ -244,7 +251,8 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
             <br />
             <sub><b>Rodrigo Castro</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vduggen">
             <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
