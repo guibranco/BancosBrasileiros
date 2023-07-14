@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-07-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 189 - HS FINANCEIRA - 07.512.441/0001-11
+
 ### 2023-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

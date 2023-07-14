@@ -1712,9 +1712,12 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Consignado e Troca de Modalidade</Product>
+    </Products>
     <DateOperationStarted>2017-06-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711462-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114622-03:00</DateUpdated>
+    <DateUpdated>2023-07-14T12:06:15.9897797Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>190</COMPE>
