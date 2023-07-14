@@ -40,7 +40,6 @@ artifacts:
   name: Package
 
 deploy:
-deploy:
 - provider: NuGet
   api_key: $(NUGET_TOKEN)
   skip_symbols: false
