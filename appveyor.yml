@@ -11,8 +11,6 @@ branches:
 
 environment:
   nodejs_version: 18
-  GITHUB_TOKEN:
-    secure: AD1z81FqZlvGkCEyDzJ3g6sIJ93ecUE9EuqfUxc4CMiFGW139pWZk+/huuTY5jzG
 
 install:
 - appveyor DownloadFile https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
