@@ -2,18 +2,16 @@ version: 4.0.{build}
 skip_tags: true
 skip_branch_with_pr: true
 skip_commits:
-    message: /(docs\(contributor\)|(Create|Update).*\.(png|jpg|jpeg|bmp|gif|md))/
     files:
-       - examples/* 
+       - examples/*
+
 branches:
     only:
     - main
-    
+
 environment:
   nodejs_version: 18
-  GITHUB_TOKEN:
-    secure: AD1z81FqZlvGkCEyDzJ3g6sIJ93ecUE9EuqfUxc4CMiFGW139pWZk+/huuTY5jzG
-    
+
 install:
 - appveyor DownloadFile https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
 - ps: Install-Product node $env:nodejs_version
