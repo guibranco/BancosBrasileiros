@@ -4,6 +4,7 @@ skip_branch_with_pr: true
 skip_commits:
     files:
        - examples/*
+image: Visual Studio 2022
 
 branches:
     only:
