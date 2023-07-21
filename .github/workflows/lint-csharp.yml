@@ -2,7 +2,8 @@ name: CSharp Linting
 
 on:
   push:
-    branches: MergeTool
+    branches: 
+      - MergeTool
   workflow_dispatch:
 
 env:
