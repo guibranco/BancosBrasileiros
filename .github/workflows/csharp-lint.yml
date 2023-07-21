@@ -1,4 +1,4 @@
-name: CSharp Linter
+name: CSharp Linting
 
 on:
   push:
