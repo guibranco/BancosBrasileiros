@@ -1,0 +1,34 @@
+name: CSharp Linting
+
+on:
+  push:
+    branches: 
+      - MergeTool
+  workflow_dispatch:
+
+env:
+  DOTNET_VERSION: '7.0.x'
+
+jobs:
+  linter-check:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          repository: guibranco/BancosBrasileiros
+          ref: MergeTool
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+
+      - name: Dotnet restore
+        run: dotnet tool restore
+
+      - name: Csharpier format check
+        run: |
+          dotnet csharpier . --check
+          echo "run 'dotnet build' to fix the formatting of the code automatically"
