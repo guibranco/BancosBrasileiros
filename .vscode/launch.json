@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/BancosBrasileiros.MergeTool/bin/Debug/net6.0/BancosBrasileiros.MergeTool.dll",
+            "program": "${workspaceFolder}/BancosBrasileiros.MergeTool/bin/Debug/net7.0/BancosBrasileiros.MergeTool.dll",
             "args": [],
             "cwd": "${workspaceFolder}/BancosBrasileiros.MergeTool",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
