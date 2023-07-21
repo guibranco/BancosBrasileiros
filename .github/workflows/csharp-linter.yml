@@ -2,7 +2,8 @@ name: CSharp Linter
 
 on:
   push:
-    branches: MergeTools
+    branches: MergeTool
+  workflow_dispatch:
 
 env:
   DOTNET_VERSION: '7.0.x'
