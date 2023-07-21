@@ -1,0 +1,41 @@
+name: Build MergeTools
+
+on:
+  push:
+    branches: MergeTool
+
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  DOTNET_VERSION: '7.0.x'
+  
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          repository: guibranco/BancosBrasileiros
+          ref: MergeTool
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: ${{ env.DOTNET_VERSION }}
+          
+      - name: Dotnet restore
+        run: dotnet restore
+        
+      - name: Build
+        run: dotnet build --configuration Release --no-restore
+
+      - name: Run
+        continue-on-error: true
+        run: |
+            cd BancosBrasileiros.MergeTool
+            dotnet run --configuration Release
