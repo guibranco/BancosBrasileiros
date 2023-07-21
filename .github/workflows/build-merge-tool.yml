@@ -1,8 +1,9 @@
-name: Build MergeTools
+name: Build MergeTool
 
 on:
   push:
     branches: MergeTool
+  workflow_dispatch:
 
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
