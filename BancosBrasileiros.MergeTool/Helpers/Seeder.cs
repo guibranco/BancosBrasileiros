@@ -35,7 +35,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// </summary>
         /// <param name="source">The source.</param>
         /// <exception cref="System.ArgumentNullException">source</exception>
-        public Seeder(IList<Bank> source) => _source = source ?? throw new ArgumentNullException(nameof(source));
+        public Seeder(IList<Bank> source) =>
+            _source = source ?? throw new ArgumentNullException(nameof(source));
 
         /// <summary>
         /// Generates the missing document.
@@ -59,7 +60,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 missing++;
             }
 
-            Logger.Log($"\r\nGenerate document | Existing: {existing} | Missing: {missing}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log(
+                $"\r\nGenerate document | Existing: {existing} | Missing: {missing}\r\n",
+                ConsoleColor.DarkYellow
+            );
             return this;
         }
 
@@ -81,7 +85,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Logger.Log($"Adding bank by STR List | {str.Compe} | {str.LongName}", ConsoleColor.DarkGreen);
+                    Logger.Log(
+                        $"Adding bank by STR List | {str.Compe} | {str.LongName}",
+                        ConsoleColor.DarkGreen
+                    );
 
                     if (str.Document is not { Length: 18 })
                         str.Document = str.IspbString;
@@ -90,22 +97,40 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     bank = str;
                 }
 
-                if (bank.LongName.RemoveDiacritics().Equals(str.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) &&
-                    bank.ShortName.RemoveDiacritics().Equals(str.ShortName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
+                if (
+                    bank.LongName
+                        .RemoveDiacritics()
+                        .Equals(
+                            str.LongName.RemoveDiacritics(),
+                            StringComparison.InvariantCultureIgnoreCase
+                        )
+                    && bank.ShortName
+                        .RemoveDiacritics()
+                        .Equals(
+                            str.ShortName.RemoveDiacritics(),
+                            StringComparison.InvariantCultureIgnoreCase
+                        )
+                )
                 {
                     Logger.Log($"STR | Bank updated: {str.LongName}", ConsoleColor.DarkGreen);
                     updated++;
                     continue;
                 }
 
-                Logger.Log($"STR | Bank with name different: {bank.LongName} <-> {str.LongName} | {bank.ShortName} <-> {str.ShortName}", ConsoleColor.DarkYellow);
+                Logger.Log(
+                    $"STR | Bank with name different: {bank.LongName} <-> {str.LongName} | {bank.ShortName} <-> {str.ShortName}",
+                    ConsoleColor.DarkYellow
+                );
                 bank.LongName = str.LongName;
                 bank.ShortName = str.ShortName;
                 bank.DateUpdated = DateTimeOffset.UtcNow;
                 nameFixed++;
             }
 
-            Logger.Log($"\r\nSTR | Updated: {updated} | Fixed: {nameFixed}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log(
+                $"\r\nSTR | Updated: {updated} | Fixed: {nameFixed}\r\n",
+                ConsoleColor.DarkYellow
+            );
             return this;
         }
 
@@ -127,7 +152,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 if (bank == null)
                 {
-                    Logger.Log($"Adding bank by SITRAF List | {sitraf.Compe} | {sitraf.LongName}", ConsoleColor.DarkGreen);
+                    Logger.Log(
+                        $"Adding bank by SITRAF List | {sitraf.Compe} | {sitraf.LongName}",
+                        ConsoleColor.DarkGreen
+                    );
 
                     if (sitraf.Document is not { Length: 18 })
                         sitraf.Document = sitraf.IspbString;
@@ -136,7 +164,14 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     bank = sitraf;
                 }
 
-                if (!bank.LongName.RemoveDiacritics().Equals(sitraf.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase))
+                if (
+                    !bank.LongName
+                        .RemoveDiacritics()
+                        .Equals(
+                            sitraf.LongName.RemoveDiacritics(),
+                            StringComparison.InvariantCultureIgnoreCase
+                        )
+                )
                 {
                     nameDifferent++;
                     continue;
@@ -146,7 +181,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 updated++;
             }
 
-            Logger.Log($"\r\nSITRAF | Updated: {updated} | Name different: {nameDifferent}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log(
+                $"\r\nSITRAF | Updated: {updated} | Name different: {nameDifferent}\r\n",
+                ConsoleColor.DarkYellow
+            );
 
             return this;
         }
@@ -165,46 +203,86 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var slc in items)
             {
-                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(slc.Document));
+                var bank = _source.SingleOrDefault(
+                    b => b.Document != null && b.Document.Equals(slc.Document)
+                );
 
                 if (bank == null)
                 {
-                    bank = _source.SingleOrDefault(b =>
-                        b.LongName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
-                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(slc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                    bank = _source.SingleOrDefault(
+                        b =>
+                            b.LongName
+                                .RemoveDiacritics()
+                                .Equals(
+                                    slc.LongName.RemoveDiacritics(),
+                                    StringComparison.InvariantCultureIgnoreCase
+                                )
+                            || (
+                                b.ShortName != null
+                                && b.ShortName
+                                    .RemoveDiacritics()
+                                    .Equals(
+                                        slc.LongName.RemoveDiacritics(),
+                                        StringComparison.InvariantCultureIgnoreCase
+                                    )
+                            )
+                    );
                 }
 
                 if (bank == null)
                 {
                     var ispb = int.Parse(slc.Document.RemoveNonNumeric()[..8]);
 
-                    if (ispb == 0 && !slc.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
+                    if (
+                        ispb == 0
+                        && !slc.LongName.Equals(
+                            "Banco do Brasil",
+                            StringComparison.InvariantCultureIgnoreCase
+                        )
+                    )
                     {
-                        Logger.Log($"SLC | ISPB nulled: {slc.LongName} | {slc.Document.Trim()}", ConsoleColor.DarkRed);
+                        Logger.Log(
+                            $"SLC | ISPB nulled: {slc.LongName} | {slc.Document.Trim()}",
+                            ConsoleColor.DarkRed
+                        );
                         continue;
                     }
 
-                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(slc.LongName, StringComparison.InvariantCultureIgnoreCase));
+                    bank = _source.SingleOrDefault(
+                        b =>
+                            b.Ispb.Equals(ispb)
+                            && b.LongName.Contains(
+                                slc.LongName,
+                                StringComparison.InvariantCultureIgnoreCase
+                            )
+                    );
                 }
 
                 if (bank == null)
                 {
-                    Logger.Log($"SLC | Bank not found: {slc.LongName} | {slc.Document.Trim()}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"SLC | Bank not found: {slc.LongName} | {slc.Document.Trim()}",
+                        ConsoleColor.DarkRed
+                    );
 
                     notFound++;
                     continue;
                 }
 
-                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
-                    !string.IsNullOrWhiteSpace(slc.Document))
+                if (
+                    (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
+                    && !string.IsNullOrWhiteSpace(slc.Document)
+                )
                 {
                     bank.Document = slc.Document;
                     bank.DateUpdated = DateTimeOffset.UtcNow;
                 }
-
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Logger.Log($"SLC | Invalid document {slc.Compe} | {bank.Document} | {slc.Document}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"SLC | Invalid document {slc.Compe} | {bank.Document} | {slc.Document}",
+                        ConsoleColor.DarkRed
+                    );
                 }
 
                 if (string.IsNullOrWhiteSpace(bank.ShortName))
@@ -216,7 +294,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Logger.Log($"\r\nSLC | Found: {found} | Not found: {notFound}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log(
+                $"\r\nSLC | Found: {found} | Not found: {notFound}\r\n",
+                ConsoleColor.DarkYellow
+            );
             return this;
         }
 
@@ -235,9 +316,24 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var spi in items)
             {
-                var bank = _source.SingleOrDefault(b =>
-                    b.LongName.RemoveDiacritics().Equals(spi.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
-                    (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(spi.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                var bank = _source.SingleOrDefault(
+                    b =>
+                        b.LongName
+                            .RemoveDiacritics()
+                            .Equals(
+                                spi.LongName.RemoveDiacritics(),
+                                StringComparison.InvariantCultureIgnoreCase
+                            )
+                        || (
+                            b.ShortName != null
+                            && b.ShortName
+                                .RemoveDiacritics()
+                                .Equals(
+                                    spi.LongName.RemoveDiacritics(),
+                                    StringComparison.InvariantCultureIgnoreCase
+                                )
+                        )
+                );
 
                 if (bank == null)
                     bank = _source.SingleOrDefault(b => b.Ispb.Equals(spi.Ispb));
@@ -250,10 +346,12 @@ namespace BancosBrasileiros.MergeTool.Helpers
                     continue;
                 }
 
-                if (bank.PixType != null &&
-                    bank.PixType.Equals(spi.PixType) &&
-                    bank.DatePixStarted != null &&
-                    bank.DatePixStarted.Equals(spi.DatePixStarted))
+                if (
+                    bank.PixType != null
+                    && bank.PixType.Equals(spi.PixType)
+                    && bank.DatePixStarted != null
+                    && bank.DatePixStarted.Equals(spi.DatePixStarted)
+                )
                 {
                     Logger.Log($"SPI | PSP updated: {spi.LongName}", ConsoleColor.DarkGreen);
 
@@ -268,7 +366,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Logger.Log($"\r\nSPI | Found: {found} | Not found: {notFound} | Up to Date: {upToDate}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log(
+                $"\r\nSPI | Found: {found} | Not found: {notFound} | Up to Date: {upToDate}\r\n",
+                ConsoleColor.DarkYellow
+            );
 
             return this;
         }
@@ -288,45 +389,85 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var ctc in items)
             {
-                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(ctc.Document));
+                var bank = _source.SingleOrDefault(
+                    b => b.Document != null && b.Document.Equals(ctc.Document)
+                );
 
                 if (bank == null)
                 {
-                    bank = _source.SingleOrDefault(b =>
-                        b.LongName.RemoveDiacritics().Equals(ctc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
-                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(ctc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                    bank = _source.SingleOrDefault(
+                        b =>
+                            b.LongName
+                                .RemoveDiacritics()
+                                .Equals(
+                                    ctc.LongName.RemoveDiacritics(),
+                                    StringComparison.InvariantCultureIgnoreCase
+                                )
+                            || (
+                                b.ShortName != null
+                                && b.ShortName
+                                    .RemoveDiacritics()
+                                    .Equals(
+                                        ctc.LongName.RemoveDiacritics(),
+                                        StringComparison.InvariantCultureIgnoreCase
+                                    )
+                            )
+                    );
                 }
 
                 if (bank == null)
                 {
                     var ispb = int.Parse(ctc.Document.RemoveNonNumeric()[..8]);
 
-                    if (ispb == 0 && !ctc.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
+                    if (
+                        ispb == 0
+                        && !ctc.LongName.Equals(
+                            "Banco do Brasil",
+                            StringComparison.InvariantCultureIgnoreCase
+                        )
+                    )
                     {
-                        Logger.Log($"CTC | ISPB nulled: {ctc.LongName} | {ctc.Document.Trim()}", ConsoleColor.DarkRed);
+                        Logger.Log(
+                            $"CTC | ISPB nulled: {ctc.LongName} | {ctc.Document.Trim()}",
+                            ConsoleColor.DarkRed
+                        );
                         continue;
                     }
 
-                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(ctc.LongName, StringComparison.InvariantCultureIgnoreCase));
+                    bank = _source.SingleOrDefault(
+                        b =>
+                            b.Ispb.Equals(ispb)
+                            && b.LongName.Contains(
+                                ctc.LongName,
+                                StringComparison.InvariantCultureIgnoreCase
+                            )
+                    );
                 }
 
                 if (bank == null)
                 {
-                    Logger.Log($"CTC | Bank not found: {ctc.LongName} | {ctc.Document.Trim()}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"CTC | Bank not found: {ctc.LongName} | {ctc.Document.Trim()}",
+                        ConsoleColor.DarkRed
+                    );
                     notFound++;
                     continue;
                 }
 
-                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
-                    !string.IsNullOrWhiteSpace(ctc.Document))
+                if (
+                    (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
+                    && !string.IsNullOrWhiteSpace(ctc.Document)
+                )
                 {
                     bank.Document = ctc.Document;
                     bank.DateUpdated = DateTimeOffset.UtcNow;
                 }
-
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Logger.Log($"CTC | Invalid document {ctc.Compe} | {bank.Document} | {ctc.Document}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"CTC | Invalid document {ctc.Compe} | {bank.Document} | {ctc.Document}",
+                        ConsoleColor.DarkRed
+                    );
                 }
 
                 if (bank.Products != null && !bank.Products.Except(ctc.Products).Any())
@@ -342,7 +483,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Logger.Log($"\r\nCTC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log(
+                $"\r\nCTC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n",
+                ConsoleColor.DarkYellow
+            );
             return this;
         }
 
@@ -361,38 +505,69 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             foreach (var siloc in items)
             {
-                var bank = _source.SingleOrDefault(b => b.IspbString != null && b.IspbString.Equals(siloc.IspbString));
+                var bank = _source.SingleOrDefault(
+                    b => b.IspbString != null && b.IspbString.Equals(siloc.IspbString)
+                );
 
                 if (bank == null)
                 {
-                    bank = _source.SingleOrDefault(b =>
-                        b.LongName.RemoveDiacritics().Equals(siloc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
-                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(siloc.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                    bank = _source.SingleOrDefault(
+                        b =>
+                            b.LongName
+                                .RemoveDiacritics()
+                                .Equals(
+                                    siloc.LongName.RemoveDiacritics(),
+                                    StringComparison.InvariantCultureIgnoreCase
+                                )
+                            || (
+                                b.ShortName != null
+                                && b.ShortName
+                                    .RemoveDiacritics()
+                                    .Equals(
+                                        siloc.LongName.RemoveDiacritics(),
+                                        StringComparison.InvariantCultureIgnoreCase
+                                    )
+                            )
+                    );
                 }
 
                 if (bank == null)
                 {
-                    Logger.Log($"SILOC | Bank not found: {siloc.LongName} | {siloc.Document.Trim()}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"SILOC | Bank not found: {siloc.LongName} | {siloc.Document.Trim()}",
+                        ConsoleColor.DarkRed
+                    );
                     notFound++;
                     continue;
                 }
 
-                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
-                    !string.IsNullOrWhiteSpace(siloc.Document))
+                if (
+                    (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
+                    && !string.IsNullOrWhiteSpace(siloc.Document)
+                )
                 {
                     bank.Document = siloc.Document;
                     bank.DateUpdated = DateTimeOffset.UtcNow;
                 }
-
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Logger.Log($"SILOC | Invalid document {siloc.Compe} | {bank.Document} | {siloc.Document}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"SILOC | Invalid document {siloc.Compe} | {bank.Document} | {siloc.Document}",
+                        ConsoleColor.DarkRed
+                    );
                 }
 
-                if (bank.Charge != null && bank.Charge.Equals(siloc.Charge) &&
-                    bank.CreditDocument != null && bank.CreditDocument.Equals(siloc.CreditDocument))
+                if (
+                    bank.Charge != null
+                    && bank.Charge.Equals(siloc.Charge)
+                    && bank.CreditDocument != null
+                    && bank.CreditDocument.Equals(siloc.CreditDocument)
+                )
                 {
-                    Logger.Log($"SILOC | COB/DOC updated: {siloc.LongName}",ConsoleColor.DarkGreen);
+                    Logger.Log(
+                        $"SILOC | COB/DOC updated: {siloc.LongName}",
+                        ConsoleColor.DarkGreen
+                    );
                     upToDate++;
                     continue;
                 }
@@ -403,8 +578,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
                 found++;
             }
-            
-            Logger.Log($"\r\nSILOC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n", ConsoleColor.DarkYellow);
+
+            Logger.Log(
+                $"\r\nSILOC | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n",
+                ConsoleColor.DarkYellow
+            );
             return this;
         }
 
@@ -418,55 +596,101 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var found = 0;
             var upToDate = 0;
             var notFound = 0;
-            
+
             Logger.Log("PCPS\r\n", ConsoleColor.DarkYellow);
 
             foreach (var pcps in items)
             {
-                var bank = _source.SingleOrDefault(b => b.Document != null && b.Document.Equals(pcps.Document));
+                var bank = _source.SingleOrDefault(
+                    b => b.Document != null && b.Document.Equals(pcps.Document)
+                );
 
                 if (bank == null)
                 {
-                    bank = _source.SingleOrDefault(b =>
-                        b.LongName.RemoveDiacritics().Equals(pcps.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase) ||
-                        (b.ShortName != null && b.ShortName.RemoveDiacritics().Equals(pcps.LongName.RemoveDiacritics(), StringComparison.InvariantCultureIgnoreCase)));
+                    bank = _source.SingleOrDefault(
+                        b =>
+                            b.LongName
+                                .RemoveDiacritics()
+                                .Equals(
+                                    pcps.LongName.RemoveDiacritics(),
+                                    StringComparison.InvariantCultureIgnoreCase
+                                )
+                            || (
+                                b.ShortName != null
+                                && b.ShortName
+                                    .RemoveDiacritics()
+                                    .Equals(
+                                        pcps.LongName.RemoveDiacritics(),
+                                        StringComparison.InvariantCultureIgnoreCase
+                                    )
+                            )
+                    );
                 }
 
                 if (bank == null)
                 {
                     var ispb = int.Parse(pcps.Document.RemoveNonNumeric()[..8]);
 
-                    if (ispb == 0 && !pcps.LongName.Equals("Banco do Brasil", StringComparison.InvariantCultureIgnoreCase))
+                    if (
+                        ispb == 0
+                        && !pcps.LongName.Equals(
+                            "Banco do Brasil",
+                            StringComparison.InvariantCultureIgnoreCase
+                        )
+                    )
                     {
-                        Logger.Log($"PCPS | ISPB nulled: {pcps.LongName} | {pcps.Document.Trim()}", ConsoleColor.DarkRed);
+                        Logger.Log(
+                            $"PCPS | ISPB nulled: {pcps.LongName} | {pcps.Document.Trim()}",
+                            ConsoleColor.DarkRed
+                        );
                         continue;
                     }
 
-                    bank = _source.SingleOrDefault(b => b.Ispb.Equals(ispb) && b.LongName.Contains(pcps.LongName, StringComparison.InvariantCultureIgnoreCase));
+                    bank = _source.SingleOrDefault(
+                        b =>
+                            b.Ispb.Equals(ispb)
+                            && b.LongName.Contains(
+                                pcps.LongName,
+                                StringComparison.InvariantCultureIgnoreCase
+                            )
+                    );
                 }
 
                 if (bank == null)
                 {
-                    Logger.Log($"PCPS | Bank not found: {pcps.LongName} | {pcps.Document.Trim()}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"PCPS | Bank not found: {pcps.LongName} | {pcps.Document.Trim()}",
+                        ConsoleColor.DarkRed
+                    );
                     notFound++;
                     continue;
                 }
 
-                if ((string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18) &&
-                    !string.IsNullOrWhiteSpace(pcps.Document))
+                if (
+                    (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
+                    && !string.IsNullOrWhiteSpace(pcps.Document)
+                )
                 {
                     bank.Document = pcps.Document;
                     bank.DateUpdated = DateTimeOffset.UtcNow;
                 }
-
                 else if (string.IsNullOrWhiteSpace(bank.Document) || bank.Document.Length != 18)
                 {
-                    Logger.Log($"SILOC | Invalid document {pcps.Compe} | {bank.Document} | {pcps.Document}", ConsoleColor.DarkRed);
+                    Logger.Log(
+                        $"SILOC | Invalid document {pcps.Compe} | {bank.Document} | {pcps.Document}",
+                        ConsoleColor.DarkRed
+                    );
                 }
 
-                if (bank.SalaryPortability != null && bank.SalaryPortability.Equals(pcps.SalaryPortability))
+                if (
+                    bank.SalaryPortability != null
+                    && bank.SalaryPortability.Equals(pcps.SalaryPortability)
+                )
                 {
-                    Logger.Log($"PCPS | Salary portability updated: {pcps.LongName}", ConsoleColor.DarkGreen);
+                    Logger.Log(
+                        $"PCPS | Salary portability updated: {pcps.LongName}",
+                        ConsoleColor.DarkGreen
+                    );
                     upToDate++;
                     continue;
                 }
@@ -476,7 +700,10 @@ namespace BancosBrasileiros.MergeTool.Helpers
                 found++;
             }
 
-            Logger.Log($"\r\nPCPS | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n", ConsoleColor.DarkYellow);
+            Logger.Log(
+                $"\r\nPCPS | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n",
+                ConsoleColor.DarkYellow
+            );
         }
     }
 }

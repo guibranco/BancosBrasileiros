@@ -64,7 +64,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return content.ReadAsStringAsync().Result;
         }
 
-        private static List<Bank> DownloadAndParsePdf(string url, string system, Func<string, IEnumerable<Bank>> callback)
+        private static List<Bank> DownloadAndParsePdf(
+            string url,
+            string system,
+            Func<string, IEnumerable<Bank>> callback
+        )
         {
             var result = new List<Bank>();
             PdfReader reader;
@@ -82,11 +86,18 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             for (var currentPage = 1; currentPage <= reader.NumberOfPages; currentPage++)
             {
-                var currentText = PdfTextExtractor.GetTextFromPage(reader, currentPage, new SimpleTextExtractionStrategy());
-                currentText = Encoding.UTF8.GetString(Encoding.Convert(
-                    Encoding.Default,
-                    Encoding.UTF8,
-                    Encoding.Default.GetBytes(currentText)));
+                var currentText = PdfTextExtractor.GetTextFromPage(
+                    reader,
+                    currentPage,
+                    new SimpleTextExtractionStrategy()
+                );
+                currentText = Encoding.UTF8.GetString(
+                    Encoding.Convert(
+                        Encoding.Default,
+                        Encoding.UTF8,
+                        Encoding.Default.GetBytes(currentText)
+                    )
+                );
                 result.AddRange(callback(currentText));
             }
 
@@ -107,7 +118,9 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             Logger.Log("Downloading base", ConsoleColor.Green);
             var data = DownloadString(Constants.BaseUrl);
-            return SerializerFactory.GetCustomSerializer<List<Bank>>(SerializerFormat.Json).Deserialize(data);
+            return SerializerFactory
+                .GetCustomSerializer<List<Bank>>(SerializerFormat.Json)
+                .Deserialize(data);
         }
 
         /// <summary>
@@ -123,15 +136,24 @@ namespace BancosBrasileiros.MergeTool.Helpers
             return lines
                 .Select(line => Patterns.CsvPattern.Split(line))
                 .Where(columns => columns.Length > 1 && int.TryParse(columns[2], out _))
-                .Select(columns => new Bank
-                {
-                    CompeString = columns[2],
-                    IspbString = columns[0],
-                    LongName = columns[5].Replace("\"", "").Replace("?", "-").Trim(),
-                    ShortName = columns[1].Trim(),
-                    DateOperationStarted = DateTime.ParseExact(columns[6].Trim(), "dd/MM/yyyy", CultureInfo.InvariantCulture).ToString("yyyy-MM-dd"),
-                    Network = columns[4]
-                })
+                .Select(
+                    columns =>
+                        new Bank
+                        {
+                            CompeString = columns[2],
+                            IspbString = columns[0],
+                            LongName = columns[5].Replace("\"", "").Replace("?", "-").Trim(),
+                            ShortName = columns[1].Trim(),
+                            DateOperationStarted = DateTime
+                                .ParseExact(
+                                    columns[6].Trim(),
+                                    "dd/MM/yyyy",
+                                    CultureInfo.InvariantCulture
+                                )
+                                .ToString("yyyy-MM-dd"),
+                            Network = columns[4]
+                        }
+                )
                 .ToList();
         }
 
@@ -155,21 +177,28 @@ namespace BancosBrasileiros.MergeTool.Helpers
             var lines = data.Split("\n").Skip(1).ToArray();
 
             return lines
-                  .Select(line => Patterns.SsvPattern.Split(line))
-                  .Where(columns => columns.Length > 1 && int.TryParse(columns[0], out _))
-                  .Select(columns => new Bank
-                  {
-                      IspbString = columns[0],
-                      LongName = columns[1],
-                      ShortName = columns[2],
-                      PixType = columns[4],
-                      DatePixStarted = DateTime
-                      .Parse(columns[5].Trim(), CultureInfo.InvariantCulture, DateTimeStyles.AssumeLocal)
-                      .ToUniversalTime()
-                      .AddHours(-3)
-                      .ToString("yyyy-MM-dd HH:mm:ss")
-                  })
-                  .ToList();
+                .Select(line => Patterns.SsvPattern.Split(line))
+                .Where(columns => columns.Length > 1 && int.TryParse(columns[0], out _))
+                .Select(
+                    columns =>
+                        new Bank
+                        {
+                            IspbString = columns[0],
+                            LongName = columns[1],
+                            ShortName = columns[2],
+                            PixType = columns[4],
+                            DatePixStarted = DateTime
+                                .Parse(
+                                    columns[5].Trim(),
+                                    CultureInfo.InvariantCulture,
+                                    DateTimeStyles.AssumeLocal
+                                )
+                                .ToUniversalTime()
+                                .AddHours(-3)
+                                .ToString("yyyy-MM-dd HH:mm:ss")
+                        }
+                )
+                .ToList();
         }
 
         /// <summary>
@@ -197,7 +226,6 @@ namespace BancosBrasileiros.MergeTool.Helpers
         {
             _countingSlc = 0;
             return DownloadAndParsePdf(Constants.SlcUrl, "SLC", ParseLinesSlc);
-
         }
 
         /// <summary>
@@ -257,7 +285,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingSlc++;
 
-            if (_countingSlc != code) Logger.Log($"SLC | Counting: {_countingSlc++} | Code: {code}", ConsoleColor.DarkYellow);
+            if (_countingSlc != code)
+                Logger.Log(
+                    $"SLC | Counting: {_countingSlc++} | Code: {code}",
+                    ConsoleColor.DarkYellow
+                );
 
             return new()
             {
@@ -385,7 +417,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingSitraf++;
 
-            if (_countingSitraf != code) Logger.Log($"SITRAF | Counting: {_countingSitraf++} | Code: {code}", ConsoleColor.DarkYellow);
+            if (_countingSitraf != code)
+                Logger.Log(
+                    $"SITRAF | Counting: {_countingSitraf++} | Code: {code}",
+                    ConsoleColor.DarkYellow
+                );
 
             return new()
             {
@@ -462,14 +498,22 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingCtc++;
 
-            if (_countingCtc != code) Logger.Log($"CTC | Counting: {_countingCtc++} | Code: {code}", ConsoleColor.DarkYellow);
+            if (_countingCtc != code)
+                Logger.Log(
+                    $"CTC | Counting: {_countingCtc++} | Code: {code}",
+                    ConsoleColor.DarkYellow
+                );
 
             return new()
             {
                 Document = match.Groups["cnpj"].Value.Trim(),
                 IspbString = match.Groups["ispb"].Value.Trim(),
                 LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
-                Products = match.Groups["produtos"].Value.Split(",").Select(p => p.Trim()).OrderBy(p => p).ToArray()
+                Products = match.Groups["produtos"].Value
+                    .Split(",")
+                    .Select(p => p.Trim())
+                    .OrderBy(p => p)
+                    .ToArray()
             };
         }
 
@@ -540,7 +584,11 @@ namespace BancosBrasileiros.MergeTool.Helpers
 
             _countingPcps++;
 
-            if (_countingPcps != code) Logger.Log($"PCPS | Counting: {_countingPcps++} | Code: {code}", ConsoleColor.DarkYellow);
+            if (_countingPcps != code)
+                Logger.Log(
+                    $"PCPS | Counting: {_countingPcps++} | Code: {code}",
+                    ConsoleColor.DarkYellow
+                );
 
             return new()
             {

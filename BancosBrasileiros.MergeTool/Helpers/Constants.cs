@@ -21,27 +21,32 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// The change log URL
         /// </summary>
-        public const string ChangeLogUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/CHANGELOG.md";
+        public const string ChangeLogUrl =
+            "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/CHANGELOG.md";
 
         /// <summary>
         /// The base URL
         /// </summary>
-        public const string BaseUrl = "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/data/bancos.json";
+        public const string BaseUrl =
+            "https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/data/bancos.json";
 
         /// <summary>
         /// The string URL
         /// </summary>
-        public const string StrUrl = "http://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv";
+        public const string StrUrl =
+            "http://www.bcb.gov.br/pom/spb/estatistica/port/ParticipantesSTRport.csv";
 
         /// <summary>
         /// The spi URL
         /// </summary>
-        public const string SpiUrl = "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-{0:yyyyMMdd}.csv";
+        public const string SpiUrl =
+            "https://www.bcb.gov.br/content/estabilidadefinanceira/spi/participantes-spi-{0:yyyyMMdd}.csv";
 
         /// <summary>
         /// The SLC URL
         /// </summary>
-        public const string SlcUrl = "https://www2.nuclea.com.br/Monitoramento/Participantes_Homologados.pdf";
+        public const string SlcUrl =
+            "https://www2.nuclea.com.br/Monitoramento/Participantes_Homologados.pdf";
 
         /// <summary>
         /// The siloc URL
@@ -51,7 +56,8 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// The sitraf URL
         /// </summary>
-        public const string SitrafUrl = "https://www2.nuclea.com.br/Monitoramento/Rela%C3%A7%C3%A3o%20de%20Clientes%20SITRAF.pdf";
+        public const string SitrafUrl =
+            "https://www2.nuclea.com.br/Monitoramento/Rela%C3%A7%C3%A3o%20de%20Clientes%20SITRAF.pdf";
 
         /// <summary>
         /// The CTC URL
@@ -61,6 +67,7 @@ namespace BancosBrasileiros.MergeTool.Helpers
         /// <summary>
         /// The PCPS URL
         /// </summary>
-        public const string PcpsUrl = "https://www2.nuclea.com.br/SAP/Rela%C3%A7%C3%A3o%20de%20Participantes%20PCPS.pdf";
+        public const string PcpsUrl =
+            "https://www2.nuclea.com.br/SAP/Rela%C3%A7%C3%A3o%20de%20Participantes%20PCPS.pdf";
     }
 }

@@ -47,8 +47,10 @@ namespace BancosBrasileiros.MergeTool
             var str = reader.LoadStr();
             var pcps = reader.LoadPcps();
 
-
-            Logger.Log($"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} \r\n", ConsoleColor.DarkGreen);
+            Logger.Log(
+                $"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} \r\n",
+                ConsoleColor.DarkGreen
+            );
 
             new Seeder(source)
                 .GenerateMissingDocument()
@@ -72,7 +74,10 @@ namespace BancosBrasileiros.MergeTool
 
             foreach (var type in types.OrderBy(g => g.Key))
             {
-                Logger.Log($"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}", ConsoleColor.DarkYellow);
+                Logger.Log(
+                    $"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}",
+                    ConsoleColor.DarkYellow
+                );
             }
 
             source = source.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
@@ -103,18 +108,25 @@ namespace BancosBrasileiros.MergeTool
 
             var color = ConsoleColor.DarkGreen;
 
-            changeLog.AppendLine($"### {DateTime.Now:yyyy-MM-dd} - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):\r\n");
+            changeLog.AppendLine(
+                $"### {DateTime.Now:yyyy-MM-dd} - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):\r\n"
+            );
 
             if (added.Any())
             {
-                changeLog.AppendLine($"- Added {added.Count} bank{(added.Count == 1 ? string.Empty : "s")}");
+                changeLog.AppendLine(
+                    $"- Added {added.Count} bank{(added.Count == 1 ? string.Empty : "s")}"
+                );
 
                 Logger.Log($"\r\nAdded items: {added.Count}\r\n\r\n", ConsoleColor.White);
 
                 foreach (var item in added)
                 {
                     changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
-                    color = color == ConsoleColor.DarkGreen ? ConsoleColor.Cyan : ConsoleColor.DarkGreen;
+                    color =
+                        color == ConsoleColor.DarkGreen
+                            ? ConsoleColor.Cyan
+                            : ConsoleColor.DarkGreen;
                     Logger.Log($"Added: {item}\r\n", color);
                 }
             }
@@ -123,14 +135,17 @@ namespace BancosBrasileiros.MergeTool
 
             if (updated.Any())
             {
-                changeLog.AppendLine($"- Updated {updated.Count} bank{(updated.Count == 1 ? string.Empty : "s")}");
+                changeLog.AppendLine(
+                    $"- Updated {updated.Count} bank{(updated.Count == 1 ? string.Empty : "s")}"
+                );
 
                 Logger.Log($"\r\nUpdated items: {updated.Count}\r\n\r\n", ConsoleColor.White);
 
                 foreach (var item in updated)
                 {
                     changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
-                    color = color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
+                    color =
+                        color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
                     Logger.Log($"Updated: {item}\r\n", color);
                 }
             }

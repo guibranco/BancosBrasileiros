@@ -163,9 +163,10 @@ namespace BancosBrasileiros.MergeTool.Dto
         [XmlElement("Charge")]
         public bool? Charge
         {
-            get => string.IsNullOrWhiteSpace(ChargeStr)
-                ? null
-                : ChargeStr.Equals("sim", StringComparison.InvariantCultureIgnoreCase);
+            get =>
+                string.IsNullOrWhiteSpace(ChargeStr)
+                    ? null
+                    : ChargeStr.Equals("sim", StringComparison.InvariantCultureIgnoreCase);
             set
             {
                 if (value == null)
@@ -191,9 +192,10 @@ namespace BancosBrasileiros.MergeTool.Dto
         [XmlElement("CreditDocument")]
         public bool? CreditDocument
         {
-            get => string.IsNullOrWhiteSpace(CreditDocumentStr)
-                ? null
-                : CreditDocumentStr.Equals("sim", StringComparison.InvariantCultureIgnoreCase);
+            get =>
+                string.IsNullOrWhiteSpace(CreditDocumentStr)
+                    ? null
+                    : CreditDocumentStr.Equals("sim", StringComparison.InvariantCultureIgnoreCase);
             set
             {
                 if (value == null)
@@ -297,23 +299,64 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (ReferenceEquals(this, other))
                 return true;
 
-            return string.Equals(_document, other._document, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(_url, other._url, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(ChargeStr, other.ChargeStr, StringComparison.InvariantCultureIgnoreCase) &&
-                   Compe == other.Compe &&
-                   string.Equals(CreditDocumentStr, other.CreditDocumentStr, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(DateOperationStarted, other.DateOperationStarted, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(DatePixStarted, other.DatePixStarted, StringComparison.InvariantCultureIgnoreCase) &&
-                   Nullable.Equals(DateRegistered, other.DateRegistered) &&
-                   Nullable.Equals(DateUpdated, other.DateUpdated) &&
-                   Ispb == other.Ispb &&
-                   string.Equals(LongName, other.LongName, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase) &&
-                   //Equals(Products, other.Products) &&
-                   string.Equals(SalaryPortability, other.SalaryPortability, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(ShortName, other.ShortName, StringComparison.InvariantCultureIgnoreCase) &&
-                   string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase);
+            return string.Equals(
+                    _document,
+                    other._document,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && string.Equals(_url, other._url, StringComparison.InvariantCultureIgnoreCase)
+                && string.Equals(
+                    ChargeStr,
+                    other.ChargeStr,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && Compe == other.Compe
+                && string.Equals(
+                    CreditDocumentStr,
+                    other.CreditDocumentStr,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && string.Equals(
+                    DateOperationStarted,
+                    other.DateOperationStarted,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && string.Equals(
+                    DatePixStarted,
+                    other.DatePixStarted,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && Nullable.Equals(DateRegistered, other.DateRegistered)
+                && Nullable.Equals(DateUpdated, other.DateUpdated)
+                && Ispb == other.Ispb
+                && string.Equals(
+                    LongName,
+                    other.LongName,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && string.Equals(
+                    Network,
+                    other.Network,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && string.Equals(
+                    PixType,
+                    other.PixType,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                &&
+                //Equals(Products, other.Products) &&
+                string.Equals(
+                    SalaryPortability,
+                    other.SalaryPortability,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && string.Equals(
+                    ShortName,
+                    other.ShortName,
+                    StringComparison.InvariantCultureIgnoreCase
+                )
+                && string.Equals(Type, other.Type, StringComparison.InvariantCultureIgnoreCase);
         }
 
         /// <summary>
@@ -347,9 +390,18 @@ namespace BancosBrasileiros.MergeTool.Dto
                 hashCode.Add(_url ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(ChargeStr ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(Compe);
-                hashCode.Add(CreditDocumentStr ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-                hashCode.Add(DateOperationStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
-                hashCode.Add(DatePixStarted ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(
+                    CreditDocumentStr ?? string.Empty,
+                    StringComparer.InvariantCultureIgnoreCase
+                );
+                hashCode.Add(
+                    DateOperationStarted ?? string.Empty,
+                    StringComparer.InvariantCultureIgnoreCase
+                );
+                hashCode.Add(
+                    DatePixStarted ?? string.Empty,
+                    StringComparer.InvariantCultureIgnoreCase
+                );
                 hashCode.Add(DateRegistered);
                 hashCode.Add(DateUpdated);
                 hashCode.Add(Ispb);
@@ -357,7 +409,10 @@ namespace BancosBrasileiros.MergeTool.Dto
                 hashCode.Add(Network ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(PixType ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 //hashCode.Add(Products);
-                hashCode.Add(SalaryPortability ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
+                hashCode.Add(
+                    SalaryPortability ?? string.Empty,
+                    StringComparer.InvariantCultureIgnoreCase
+                );
                 hashCode.Add(ShortName ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
                 hashCode.Add(Type ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
 
@@ -412,7 +467,9 @@ namespace BancosBrasileiros.MergeTool.Dto
             if (!string.IsNullOrWhiteSpace(DatePixStarted))
                 strBuilder.Append($"Date PIX started: {DatePixStarted} | ");
 
-            strBuilder.Append($"Date registered: {DateRegistered:O} | Date updated: {DateUpdated:O}");
+            strBuilder.Append(
+                $"Date registered: {DateRegistered:O} | Date updated: {DateUpdated:O}"
+            );
 
             return strBuilder.ToString();
         }
