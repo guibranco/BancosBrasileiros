@@ -11,51 +11,56 @@
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
-namespace BancosBrasileiros.MergeTool.Helpers
+
+namespace BancosBrasileiros.MergeTool.Helpers;
+
+/// <summary>
+/// Enum Source.
+/// </summary>
+internal enum Source
 {
     /// <summary>
-    /// Enum Source
+    /// The base.
     /// </summary>
-    internal enum Source
-    {
-        /// <summary>
-        /// The base
-        /// </summary>
-        Base,
+    Base,
 
-        /// <summary>
-        /// The change log
-        /// </summary>
-        ChangeLog,
+    /// <summary>
+    /// The change log.
+    /// </summary>
+    ChangeLog,
 
-        /// <summary>
-        /// The CTC
-        /// </summary>
-        Ctc,
+    /// <summary>
+    /// The CTC.
+    /// </summary>
+    Ctc,
 
-        /// <summary>
-        /// The PCPS
-        /// </summary>
-        Pcps,
+    /// <summary>
+    /// The PCPS.
+    /// </summary>
+    Pcps,
 
-        /// <summary>
-        /// The siloc
-        /// </summary>
-        Siloc,
+    /// <summary>
+    /// The siloc.
+    /// </summary>
+    Siloc,
 
-        /// <summary>
-        /// The sitraf
-        /// </summary>
-        Sitraf,
+    /// <summary>
+    /// The sitraf.
+    /// </summary>
+    Sitraf,
 
-        /// <summary>
-        /// The SLC
-        /// </summary>
-        Slc,
+    /// <summary>
+    /// The SLC.
+    /// </summary>
+    Slc,
 
-        /// <summary>
-        /// The spi
-        /// </summary>
-        Spi
-    }
+    /// <summary>
+    /// The SPI.
+    /// </summary>
+    Spi,
+
+    /// <summary>
+    /// The CQL.
+    /// </summary>
+    Cql,
 }

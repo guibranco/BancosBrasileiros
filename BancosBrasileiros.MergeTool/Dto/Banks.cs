@@ -12,21 +12,20 @@
 // <summary></summary>
 // ***********************************************************************
 
-namespace BancosBrasileiros.MergeTool.Dto
-{
-    using System.Xml.Serialization;
+namespace BancosBrasileiros.MergeTool.Dto;
 
+using System.Xml.Serialization;
+
+/// <summary>
+/// Class Banks.
+/// </summary>
+[XmlRoot("banks")]
+public class Banks
+{
     /// <summary>
-    /// Class Banks.
+    /// Gets or sets the bank.
     /// </summary>
-    [XmlRoot("banks")]
-    public class Banks
-    {
-        /// <summary>
-        /// Gets or sets the bank.
-        /// </summary>
-        /// <value>The bank.</value>
-        [XmlElement("bank")]
-        public Bank[] Bank { get; set; }
-    }
+    /// <value>The bank.</value>
+    [XmlElement("bank")]
+    public Bank[] Bank { get; set; }
 }
