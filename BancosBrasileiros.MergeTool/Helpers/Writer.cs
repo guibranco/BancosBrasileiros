@@ -97,7 +97,7 @@ internal static class Writer
             "# Bancos Brasileiros",
             string.Empty,
             "COMPE | ISPB | Document | Long Name | Short Name | Network | Type | PIX Type | Charge | Credit Document | Legal Cheque | Salary Portability | Products | Url | Date Operation Started | Date PIX Started | Date Registered | Date Updated",
-            "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- "
+            "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- "
         };
 
         lines.AddRange(
