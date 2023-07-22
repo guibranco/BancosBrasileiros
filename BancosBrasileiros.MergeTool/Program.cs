@@ -12,27 +12,27 @@
 // <summary></summary>
 // ***********************************************************************
 
-namespace BancosBrasileiros.MergeTool
+namespace BancosBrasileiros.MergeTool;
+
+using System;
+using System.Text;
+using Helpers;
+
+/// <summary>
+/// Class Program.
+/// </summary>
+static class Program
 {
-    using System;
-    using BancosBrasileiros.MergeTool.Helpers;
-
     /// <summary>
-    /// Class Program.
+    /// Defines the entry point of the application.
     /// </summary>
-    static class Program
+    static void Main()
     {
-        /// <summary>
-        /// Defines the entry point of the application.
-        /// </summary>
-        static void Main()
-        {
-            System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
+        Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
-            Logger.Log("Bancos Brasileiros - Merge tool", ConsoleColor.Cyan);
+        Logger.Log("Bancos Brasileiros - Merge tool", ConsoleColor.Cyan);
 
-            var worker = new Worker();
-            worker.Work();
-        }
+        var worker = new Worker();
+        worker.Work();
     }
 }

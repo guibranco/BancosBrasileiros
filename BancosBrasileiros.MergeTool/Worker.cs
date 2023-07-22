@@ -12,162 +12,160 @@
 // <summary></summary>
 // ***********************************************************************
 
-namespace BancosBrasileiros.MergeTool
+namespace BancosBrasileiros.MergeTool;
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Dto;
+using Helpers;
+using Newtonsoft.Json;
+
+/// <summary>
+/// Class Worker.
+/// </summary>
+internal class Worker
 {
-    using Newtonsoft.Json;
-    using BancosBrasileiros.MergeTool.Helpers;
-    using BancosBrasileiros.MergeTool.Dto;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
+    /// <summary>
+    /// Works this instance.
+    /// </summary>
+    public void Work()
+    {
+        Logger.Log("Reading data files", ConsoleColor.White);
+
+        var reader = new Reader();
+
+        var source = reader.LoadBase();
+        var original = DeepClone(source);
+
+        var ctc = reader.LoadCtc();
+        var siloc = reader.LoadSiloc();
+        var sitraf = reader.LoadSitraf();
+        var slc = reader.LoadSlc();
+        var spi = reader.LoadSpi();
+        var str = reader.LoadStr();
+        var pcps = reader.LoadPcps();
+        var cql = reader.LoadCql();
+
+        Logger.Log(
+            $"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} | CQL: {cql.Count}\r\n",
+            ConsoleColor.DarkGreen
+        );
+
+        new Seeder(source)
+            .GenerateMissingDocument()
+            .SeedStr(str)
+            .SeedSitraf(sitraf)
+            .SeedSlc(slc)
+            .SeedSpi(spi)
+            .SeedCtc(ctc)
+            .SeedSiloc(siloc)
+            .SeedPcps(pcps)
+            .SeedCql(cql);
+
+        foreach (var bank in source)
+        {
+            bank.DateRegistered ??= DateTimeOffset.UtcNow;
+            bank.DateUpdated ??= DateTimeOffset.UtcNow;
+        }
+
+        var types = source.GroupBy(b => b.Type);
+
+        Logger.Log($"Type: All | Total: {source.Count}", ConsoleColor.Yellow);
+
+        foreach (var type in types.OrderBy(g => g.Key))
+        {
+            Logger.Log(
+                $"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}",
+                ConsoleColor.DarkYellow
+            );
+        }
+
+        source = source.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
+
+        var except = source.Except(original).ToList();
+
+        if (!except.Any())
+        {
+            Logger.Log("No new data or updated information", ConsoleColor.DarkMagenta);
+            Environment.Exit(1);
+            return;
+        }
+
+        var added = new List<Bank>();
+        var updated = new List<Bank>();
+
+        foreach (var exc in except)
+        {
+            var isUpdated = source.Exists(b => b.Ispb == exc.Ispb);
+
+            if (isUpdated)
+                updated.Add(exc);
+            else
+                added.Add(exc);
+        }
+
+        var changeLog = new StringBuilder();
+
+        var color = ConsoleColor.DarkGreen;
+
+        changeLog.AppendLine(
+            $"### {DateTime.Now:yyyy-MM-dd} - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):\r\n"
+        );
+
+        if (added.Any())
+        {
+            changeLog.AppendLine(
+                $"- Added {added.Count} bank{(added.Count == 1 ? string.Empty : "s")}"
+            );
+
+            Logger.Log($"\r\nAdded items: {added.Count}\r\n\r\n", ConsoleColor.White);
+
+            foreach (var item in added)
+            {
+                changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
+                color =
+                    color == ConsoleColor.DarkGreen ? ConsoleColor.Cyan : ConsoleColor.DarkGreen;
+                Logger.Log($"Added: {item}\r\n", color);
+            }
+        }
+
+        color = ConsoleColor.DarkBlue;
+
+        if (updated.Any())
+        {
+            changeLog.AppendLine(
+                $"- Updated {updated.Count} bank{(updated.Count == 1 ? string.Empty : "s")}"
+            );
+
+            Logger.Log($"\r\nUpdated items: {updated.Count}\r\n\r\n", ConsoleColor.White);
+
+            foreach (var item in updated)
+            {
+                changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
+                color = color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
+                Logger.Log($"Updated: {item}\r\n", color);
+            }
+        }
+
+        Logger.Log("\r\nSaving result files", ConsoleColor.White);
+
+        Writer.WriteChangeLog(changeLog.ToString());
+        Writer.SaveBanks(source);
+
+        Logger.Log($"Merge done. Banks: {source.Count}", ConsoleColor.White);
+    }
 
     /// <summary>
-    /// Class Worker.
+    /// Deeps the clone.
     /// </summary>
-    internal class Worker
+    /// <typeparam name="T"></typeparam>
+    /// <param name="item">The item.</param>
+    /// <returns>T.</returns>
+    private static T DeepClone<T>(T item)
     {
-        /// <summary>
-        /// Works this instance.
-        /// </summary>
-        public void Work()
-        {
-            Logger.Log("Reading data files", ConsoleColor.White);
-
-            var reader = new Reader();
-
-            var source = reader.LoadBase();
-            var original = DeepClone(source);
-
-            var ctc = reader.LoadCtc();
-            var siloc = reader.LoadSiloc();
-            var sitraf = reader.LoadSitraf();
-            var slc = reader.LoadSlc();
-            var spi = reader.LoadSpi();
-            var str = reader.LoadStr();
-            var pcps = reader.LoadPcps();
-
-            Logger.Log(
-                $"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} \r\n",
-                ConsoleColor.DarkGreen
-            );
-
-            new Seeder(source)
-                .GenerateMissingDocument()
-                .SeedStr(str)
-                .SeedSitraf(sitraf)
-                .SeedSlc(slc)
-                .SeedSpi(spi)
-                .SeedCtc(ctc)
-                .SeedSiloc(siloc)
-                .SeedPcps(pcps);
-
-            foreach (var bank in source)
-            {
-                bank.DateRegistered ??= DateTimeOffset.UtcNow;
-                bank.DateUpdated ??= DateTimeOffset.UtcNow;
-            }
-
-            var types = source.GroupBy(b => b.Type);
-
-            Logger.Log($"Type: All | Total: {source.Count}", ConsoleColor.Yellow);
-
-            foreach (var type in types.OrderBy(g => g.Key))
-            {
-                Logger.Log(
-                    $"Type: {(string.IsNullOrWhiteSpace(type.Key) ? "-" : type.Key)} | Total: {type.Count()}",
-                    ConsoleColor.DarkYellow
-                );
-            }
-
-            source = source.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
-
-            var except = source.Except(original).ToList();
-
-            if (!except.Any())
-            {
-                Logger.Log("No new data or updated information", ConsoleColor.DarkMagenta);
-                Environment.Exit(1);
-                return;
-            }
-
-            var added = new List<Bank>();
-            var updated = new List<Bank>();
-
-            foreach (var exc in except)
-            {
-                var isUpdated = source.Any(b => b.Ispb == exc.Ispb);
-
-                if (isUpdated)
-                    updated.Add(exc);
-                else
-                    added.Add(exc);
-            }
-
-            var changeLog = new StringBuilder();
-
-            var color = ConsoleColor.DarkGreen;
-
-            changeLog.AppendLine(
-                $"### {DateTime.Now:yyyy-MM-dd} - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):\r\n"
-            );
-
-            if (added.Any())
-            {
-                changeLog.AppendLine(
-                    $"- Added {added.Count} bank{(added.Count == 1 ? string.Empty : "s")}"
-                );
-
-                Logger.Log($"\r\nAdded items: {added.Count}\r\n\r\n", ConsoleColor.White);
-
-                foreach (var item in added)
-                {
-                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
-                    color =
-                        color == ConsoleColor.DarkGreen
-                            ? ConsoleColor.Cyan
-                            : ConsoleColor.DarkGreen;
-                    Logger.Log($"Added: {item}\r\n", color);
-                }
-            }
-
-            color = ConsoleColor.DarkBlue;
-
-            if (updated.Any())
-            {
-                changeLog.AppendLine(
-                    $"- Updated {updated.Count} bank{(updated.Count == 1 ? string.Empty : "s")}"
-                );
-
-                Logger.Log($"\r\nUpdated items: {updated.Count}\r\n\r\n", ConsoleColor.White);
-
-                foreach (var item in updated)
-                {
-                    changeLog.AppendLine($"\t- {item.Compe} - {item.ShortName} - {item.Document}");
-                    color =
-                        color == ConsoleColor.DarkBlue ? ConsoleColor.Blue : ConsoleColor.DarkBlue;
-                    Logger.Log($"Updated: {item}\r\n", color);
-                }
-            }
-
-            Logger.Log("\r\nSaving result files", ConsoleColor.White);
-
-            Writer.WriteChangeLog(changeLog.ToString());
-            Writer.SaveBanks(source);
-
-            Logger.Log($"Merge done. Banks: {source.Count}", ConsoleColor.White);
-        }
-
-        /// <summary>
-        /// Deeps the clone.
-        /// </summary>
-        /// <typeparam name="T"></typeparam>
-        /// <param name="item">The item.</param>
-        /// <returns>T.</returns>
-        private static T DeepClone<T>(T item)
-        {
-            var json = JsonConvert.SerializeObject(item);
-            return JsonConvert.DeserializeObject<T>(json);
-        }
+        var json = JsonConvert.SerializeObject(item);
+        return JsonConvert.DeserializeObject<T>(json);
     }
 }
