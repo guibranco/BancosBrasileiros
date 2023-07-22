@@ -15,6 +15,7 @@
 namespace BancosBrasileiros.MergeTool.Dto;
 
 using System;
+using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using System.Text;
@@ -122,6 +123,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The long name.</value>
     [JsonProperty("LongName")]
     [XmlElement("LongName")]
+    [Display(Name = "Long Name")]
     public string LongName { get; set; }
 
     /// <summary>
@@ -130,6 +132,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The short name.</value>
     [JsonProperty("ShortName")]
     [XmlElement("ShortName")]
+    [Display(Name = "Short Name")]
     public string ShortName { get; set; }
 
     /// <summary>
@@ -154,6 +157,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The type of the pix.</value>
     [JsonProperty("PixType")]
     [XmlElement("PixType")]
+    [Display(Name = "PIX Type")]
     public string PixType { get; set; }
 
     /// <summary>
@@ -191,6 +195,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The credit document.</value>
     [JsonProperty("CreditDocument")]
     [XmlElement("CreditDocument")]
+    [Display(Name = "Credit Document")]
     public bool? CreditDocument
     {
         get =>
@@ -220,6 +225,7 @@ public class Bank : IEquatable<Bank>
     /// <value><c>true</c> if [legal cheque]; otherwise, <c>false</c>.</value>
     [JsonProperty("LegalCheque")]
     [XmlElement("LegalCheque")]
+    [Display(Name = "Legal Cheque")]
     public bool LegalCheque { get; set; }
 
     /// <summary>
@@ -228,6 +234,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The salary portability.</value>
     [JsonProperty("SalaryPortability")]
     [XmlElement("SalaryPortability")]
+    [Display(Name = "Salary Portability")]
     public string SalaryPortability { get; set; }
 
     /// <summary>
@@ -267,6 +274,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The date operation started.</value>
     [JsonProperty("DateOperationStarted")]
     [XmlElement("DateOperationStarted")]
+    [Display(Name = "Date Operation Started")]
     public string DateOperationStarted { get; set; }
 
     /// <summary>
@@ -275,6 +283,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The date pix started.</value>
     [JsonProperty("DatePixStarted")]
     [XmlElement("DatePixStarted")]
+    [Display(Name = "Date PIX Started")]
     public string DatePixStarted { get; set; }
 
     /// <summary>
@@ -283,6 +292,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The date registered.</value>
     [JsonProperty("DateRegistered")]
     [XmlElement("DateRegistered")]
+    [Display(Name = "Date Registered")]
     public DateTimeOffset? DateRegistered { get; set; }
 
     /// <summary>
@@ -291,6 +301,7 @@ public class Bank : IEquatable<Bank>
     /// <value>The date updated.</value>
     [JsonProperty("DateUpdated")]
     [XmlElement("DateUpdated")]
+    [Display(Name = "Date Updated")]
     public DateTimeOffset? DateUpdated { get; set; }
 
     #region Equality members

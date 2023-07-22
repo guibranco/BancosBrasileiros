@@ -16,9 +16,12 @@ namespace BancosBrasileiros.MergeTool.Helpers;
 
 using CrispyWaffle.Serialization;
 using Dto;
+using Newtonsoft.Json;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 
 /// <summary>
@@ -71,15 +74,12 @@ internal static class Writer
     /// <param name="banks">The banks.</param>
     private static void SaveCsv(IList<Bank> banks)
     {
-        var lines = new List<string>
-        {
-            "COMPE,ISPB,Document,LongName,ShortName,Network,Type,PixType,Charge,CreditDocument,LegalCheque,SalaryPortability,Products,Url,DateOperationStarted,DatePixStarted,DateRegistered,DateUpdated"
-        };
+        var lines = new List<string> { string.Join(",", GetFieldsJsonPropertyNames) };
 
         lines.AddRange(
             banks.Select(
                 bank =>
-                    $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Network},{bank.Type},{bank.PixType},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "" : bank.ChargeStr)},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "" : bank.CreditDocumentStr)},{(bank.LegalCheque ? "sim" : "não")},{bank.SalaryPortability},{(bank.Products == null ? "NULL" : string.Join("|", bank.Products))},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"
+                    $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Network},{bank.Type},{bank.PixType},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "" : bank.ChargeStr)},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "" : bank.CreditDocumentStr)},{(bank.LegalCheque ? "Sim" : "Não")},{bank.SalaryPortability},{(bank.Products == null ? "NULL" : string.Join("|", bank.Products))},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"
             )
         );
 
@@ -96,14 +96,14 @@ internal static class Writer
         {
             "# Bancos Brasileiros",
             string.Empty,
-            "COMPE | ISPB | Document | Long Name | Short Name | Network | Type | PIX Type | Charge | Credit Document | Legal Cheque | Salary Portability | Products | Url | Date Operation Started | Date PIX Started | Date Registered | Date Updated",
-            "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- "
+            string.Join(" | ", GetFieldsDisplayNames),
+            string.Join(" | ", GetFieldsDisplayNames.Select(_ => "---"))
         };
 
         lines.AddRange(
             banks.Select(
                 bank =>
-                    $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.ChargeStr) || !bank.Charge.HasValue ? "-" : (bank.Charge.Value ? "sim" : "não"))} | {(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) || !bank.CreditDocument.HasValue ? "-" : (bank.CreditDocument.Value ? "sim" : "não"))} | {(bank.LegalCheque ? "sim" : "não")} | {(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "-" : bank.SalaryPortability)} | {(bank.Products == null ? "-" : string.Join(",", bank.Products))} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"
+                    $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.ChargeStr) || !bank.Charge.HasValue ? "-" : (bank.Charge.Value ? "Sim" : "Não"))} | {(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) || !bank.CreditDocument.HasValue ? "-" : (bank.CreditDocument.Value ? "Sim" : "Não"))} | {(bank.LegalCheque ? "Sim" : "Não")} | {(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "-" : bank.SalaryPortability)} | {(bank.Products == null ? "-" : string.Join(",", bank.Products))} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"
             )
         );
 
@@ -118,15 +118,41 @@ internal static class Writer
     {
         var lines = new List<string>();
 
-        const string prefix =
-            "INSERT INTO Banks (Compe, Ispb, Document, LongName, ShortName, Network, Type, PixType, Charge, CreditDocument, LegalCheque, SalaryPortability, Products, Url, DateOperationStarted, DatePixStarted, DateRegistered, DateUpdated) VALUES(";
+        var prefix = $"INSERT INTO Banks ({string.Join(",", GetFieldsJsonPropertyNames)}) VALUES(";
         lines.AddRange(
             banks.Select(
                 bank =>
-                    $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName.Replace("'", "\'")}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.PixType) ? "NULL" : $"'{bank.PixType}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "NULL" : $"'{bank.Charge}'")},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "NULL" : $"'{bank.CreditDocument}'")},'{bank.SalaryPortability}',{(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "NULL" : $"'{bank.SalaryPortability}'")},{(bank.Products == null ? "NULL" : $"'{string.Join(",", bank.Products)}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},{(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "NULL" : $"'{bank.DatePixStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}');"
+                    $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName.Replace("'", "''")}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.PixType) ? "NULL" : $"'{bank.PixType}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "NULL" : $"'{bank.Charge}'")},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "NULL" : $"'{bank.CreditDocument}'")},'{bank.SalaryPortability}',{(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "NULL" : $"'{bank.SalaryPortability}'")},{(bank.Products == null ? "NULL" : $"'{string.Join(",", bank.Products)}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},{(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "NULL" : $"'{bank.DatePixStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}');"
             )
         );
 
         File.WriteAllLines($"result{Path.DirectorySeparatorChar}bancos.sql", lines, Encoding.UTF8);
     }
+
+    /// <summary>
+    /// Gets the get fields json property names.
+    /// </summary>
+    /// <value>The get fields json property names.</value>
+    private static string[] GetFieldsJsonPropertyNames { get; } =
+        typeof(Bank)
+            .GetProperties()
+            .Where(pi => pi.GetCustomAttribute<JsonIgnoreAttribute>() == null)
+            .Select(pi => pi.GetCustomAttribute<JsonPropertyAttribute>()?.PropertyName ?? pi.Name)
+            .ToArray();
+
+    /// <summary>
+    /// Gets the get fields display names.
+    /// </summary>
+    /// <value>The get fields display names.</value>
+    private static string[] GetFieldsDisplayNames { get; } =
+        typeof(Bank)
+            .GetProperties()
+            .Where(pi => pi.GetCustomAttribute<JsonIgnoreAttribute>() == null)
+            .Select(
+                pi =>
+                    pi.GetCustomAttribute<DisplayNameAttribute>()?.DisplayName
+                    ?? pi.GetCustomAttribute<JsonPropertyAttribute>()?.PropertyName
+                    ?? pi.Name
+            )
+            .ToArray();
 }
