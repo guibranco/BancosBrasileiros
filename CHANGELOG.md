@@ -4,6 +4,25 @@
 
 ## Changelog
 
+### 2023-07-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 15 banks
+	- 1 - BCO DO BRASIL S.A. - 00.000.000/0001-91
+	- 3 - BCO DA AMAZONIA S.A. - 04.902.979/0001-44
+	- 4 - BCO DO NORDESTE DO BRASIL S.A. - 07.237.373/0001-20
+	- 21 - BCO BANESTES S.A. - 28.127.603/0001-78
+	- 33 - BCO SANTANDER (BRASIL) S.A. - 90.400.888/0001-42
+	- 37 - BCO DO EST. DO PA S.A. - 04.913.711/0001-08
+	- 41 - BCO DO ESTADO DO RS S.A. - 92.702.067/0001-96
+	- 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
+	- 85 - COOPCENTRAL AILOS - 05.463.212/0001-29
+	- 104 - CAIXA ECONOMICA FEDERAL - 00.360.305/0001-04
+	- 237 - BCO BRADESCO S.A. - 60.746.948/0001-12
+	- 341 - ITAÚ UNIBANCO S.A. - 60.701.190/0001-04
+	- 422 - BCO SAFRA S.A. - 58.160.789/0001-28
+	- 748 - BCO COOPERATIVO SICREDI S.A. - 01.181.521/0001-55
+	- 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
+
 ### 2023-07-22 - [GuiBranco](https://gitbub.com/guibranco):
 
 - [Issue #194](http://github.com/guibranco/bancosBrasileiros/issues/194) - Added Legal Cheque

@@ -11,6 +11,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -25,7 +26,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7109988-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.399726Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286584Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>003</COMPE>
@@ -38,6 +39,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -50,7 +52,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114564-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6465379Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286515Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>004</COMPE>
@@ -63,6 +65,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -72,7 +75,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114613-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5493632Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286794Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>007</COMPE>
@@ -83,6 +86,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2014-06-30</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115088-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3507277Z</DateUpdated>
@@ -97,6 +101,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2012-12-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -112,6 +117,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-06-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115317-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115319-03:00</DateUpdated>
@@ -127,6 +133,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -148,6 +155,7 @@
     <Type>Banco Comercial</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2008-08-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114679-03:00</DateRegistered>
     <DateUpdated>2021-10-23T20:54:59.5224714-03:00</DateUpdated>
@@ -161,6 +169,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-03-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114483-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114485-03:00</DateUpdated>
@@ -175,6 +184,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Capital de Giro e PRONAMPE</Product>
       <Product>Cheque Especial</Product>
@@ -200,6 +210,7 @@
     <Type>Banco Comercial</Type>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bnymellon.com.br</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115161-03:00</DateRegistered>
@@ -215,6 +226,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancotricury.com.br</Url>
     <DateOperationStarted>2013-08-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115214-03:00</DateRegistered>
@@ -231,6 +243,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -245,7 +258,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114987-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5493378Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6287003Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>024</COMPE>
@@ -257,6 +270,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.santander.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114722-03:00</DateRegistered>
@@ -273,6 +287,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Veículos</Product>
@@ -293,6 +308,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -315,6 +331,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -328,7 +345,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115471-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6511885Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286936Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>036</COMPE>
@@ -340,6 +357,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bradescobbi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114605-03:00</DateRegistered>
@@ -356,6 +374,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -368,7 +387,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114571-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6473085Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286651Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>040</COMPE>
@@ -380,6 +399,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancocargill.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711452-03:00</DateRegistered>
@@ -396,6 +416,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro e PRONAMPE</Product>
@@ -410,7 +431,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115478-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6473187Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286723Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>047</COMPE>
@@ -423,6 +444,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -448,6 +470,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2010-09-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114567-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114569-03:00</DateUpdated>
@@ -462,6 +485,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.hipercard.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114491-03:00</DateRegistered>
@@ -477,6 +501,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -498,6 +523,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.goldmansachs.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114545-03:00</DateRegistered>
@@ -513,6 +539,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.andbank-lla.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711518-03:00</DateRegistered>
@@ -528,6 +555,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.morganstanley.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711448-03:00</DateRegistered>
@@ -544,6 +572,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado e Pessoal</Product>
@@ -565,6 +594,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -587,6 +617,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2004-08-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114494-03:00</DateRegistered>
@@ -602,6 +633,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.abnamro.com</Url>
     <DateOperationStarted>2005-11-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114516-03:00</DateRegistered>
@@ -617,6 +649,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancokdb.com.br/home.html</Url>
     <DateOperationStarted>2006-04-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114628-03:00</DateRegistered>
@@ -633,6 +666,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -655,6 +689,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2008-07-31</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711511-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115112-03:00</DateUpdated>
@@ -670,6 +705,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancooriginal.com.br</Url>
     <DateOperationStarted>2008-07-25</DateOperationStarted>
     <DatePixStarted>2023-04-17 10:00:00</DatePixStarted>
@@ -685,6 +721,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2010-11-18</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115427-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115429-03:00</DateUpdated>
@@ -700,6 +737,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Pessoal</Product>
     </Products>
@@ -720,6 +758,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
@@ -743,6 +782,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.boc-brazil.com</Url>
     <DateOperationStarted>2009-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114715-03:00</DateRegistered>
@@ -758,6 +798,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -767,7 +808,7 @@
     <DateOperationStarted>2009-11-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114472-03:00</DateRegistered>
-    <DateUpdated>2023-04-07T12:06:24.5942181Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6287274Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>085</COMPE>
@@ -779,6 +820,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -792,7 +834,7 @@
     <DateOperationStarted>2010-05-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114586-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.7767171Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6287138Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>088</COMPE>
@@ -805,6 +847,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancorandon.com</Url>
     <DateOperationStarted>2020-08-03</DateOperationStarted>
     <DatePixStarted>2022-11-21 10:00:00</DatePixStarted>
@@ -821,6 +864,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Crédito Consignado</Product>
       <Product>Crédito Pessoal</Product>
@@ -842,6 +886,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2010-11-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114439-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114441-03:00</DateUpdated>
@@ -855,6 +900,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2010-07-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114795-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114797-03:00</DateUpdated>
@@ -869,6 +915,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2010-11-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114642-03:00</DateRegistered>
@@ -884,6 +931,7 @@
     <Type>Banco Comercial</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.finaxis.com.br</Url>
     <DateOperationStarted>2010-08-23</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114788-03:00</DateRegistered>
@@ -900,6 +948,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancoconfidence.com.br</Url>
     <DateOperationStarted>2010-06-22</DateOperationStarted>
     <DatePixStarted>2023-01-30 10:00:00</DatePixStarted>
@@ -916,6 +965,7 @@
     <Type>Banco Comercial</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bmfbovespa.com.br/bancobmfbovespa/</Url>
     <DateOperationStarted>2004-11-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711375-03:00</DateRegistered>
@@ -931,6 +981,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -947,6 +998,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-01-18</DateOperationStarted>
     <DatePixStarted>2021-07-12 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115449-03:00</DateRegistered>
@@ -962,6 +1014,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -986,6 +1039,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-04-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7113602-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7113681-03:00</DateUpdated>
@@ -999,6 +1053,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2010-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711535-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115352-03:00</DateUpdated>
@@ -1012,6 +1067,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-11-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114468-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711447-03:00</DateUpdated>
@@ -1027,6 +1083,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -1040,7 +1097,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112717-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5559094Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.628707Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>105</COMPE>
@@ -1051,6 +1108,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Troca de Modalidade</Product>
@@ -1069,6 +1127,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancobbm.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114855-03:00</DateRegistered>
@@ -1083,6 +1142,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Veículos</Product>
@@ -1100,6 +1160,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-03-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115125-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115126-03:00</DateUpdated>
@@ -1113,6 +1174,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-11-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711531-03:00</DateRegistered>
     <DateUpdated>2022-03-16T07:58:39.2787909Z</DateUpdated>
@@ -1126,6 +1188,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial e Troca de Modalidade</Product>
       <Product>Consignado</Product>
@@ -1146,6 +1209,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2011-10-03</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115481-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115483-03:00</DateUpdated>
@@ -1161,6 +1225,7 @@
     <PixType>DRCT</PixType>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancowesternunion.com.br</Url>
     <DateOperationStarted>2011-10-10</DateOperationStarted>
     <DatePixStarted>2023-03-01 10:00:00</DatePixStarted>
@@ -1177,6 +1242,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -1199,6 +1265,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial e Troca de Modalidade</Product>
@@ -1221,6 +1288,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://true</Url>
     <DateOperationStarted>2011-11-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115062-03:00</DateRegistered>
@@ -1237,6 +1305,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.wooribank.com.br</Url>
     <DateOperationStarted>2012-08-09</DateOperationStarted>
@@ -1254,6 +1323,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1269,6 +1339,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2013-01-04</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711481-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114812-03:00</DateUpdated>
@@ -1282,6 +1353,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2012-11-09</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711469-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114691-03:00</DateUpdated>
@@ -1296,6 +1368,7 @@
     <Type>Banco de Câmbio</Type>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.msbank.com.br</Url>
     <DateOperationStarted>2015-04-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114919-03:00</DateRegistered>
@@ -1310,6 +1383,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.ubs.com</Url>
     <DateOperationStarted>2014-03-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114915-03:00</DateRegistered>
@@ -1325,6 +1399,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2013-08-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1340,6 +1415,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2013-07-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115313-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115315-03:00</DateUpdated>
@@ -1354,6 +1430,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.icbc.com.cn</Url>
     <DateOperationStarted>2013-09-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114895-03:00</DateRegistered>
@@ -1369,6 +1446,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -1393,6 +1471,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115095-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115097-03:00</DateUpdated>
@@ -1407,6 +1486,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -1431,6 +1511,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2014-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114719-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114721-03:00</DateUpdated>
@@ -1445,6 +1526,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.intesasanpaolobrasil.com.br</Url>
     <DateOperationStarted>2015-05-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115209-03:00</DateRegistered>
@@ -1459,6 +1541,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2015-05-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115335-03:00</DateRegistered>
     <DateUpdated>2021-09-28T05:25:17.025616-03:00</DateUpdated>
@@ -1472,6 +1555,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-03-20</DateOperationStarted>
     <DateRegistered>2023-03-18T12:06:16.4394889Z</DateRegistered>
     <DateUpdated>2023-03-18T12:06:16.439489Z</DateUpdated>
@@ -1485,6 +1569,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2015-06-23</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114877-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114879-03:00</DateUpdated>
@@ -1498,6 +1583,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2015-08-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114487-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114489-03:00</DateUpdated>
@@ -1512,6 +1598,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bexs.com.br</Url>
     <DateOperationStarted>2016-05-23</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1527,6 +1614,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2015-06-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115187-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115189-03:00</DateUpdated>
@@ -1540,6 +1628,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2015-05-20</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114952-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114954-03:00</DateUpdated>
@@ -1553,6 +1642,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
     </Products>
@@ -1569,6 +1659,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2016-02-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114672-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114673-03:00</DateUpdated>
@@ -1583,6 +1674,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-09-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114582-03:00</DateRegistered>
@@ -1598,6 +1690,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2016-08-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114945-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3582913Z</DateUpdated>
@@ -1611,6 +1704,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2016-11-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114826-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114828-03:00</DateUpdated>
@@ -1625,6 +1719,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Pessoal e Outros Créditos</Product>
@@ -1643,6 +1738,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-05-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115361-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115363-03:00</DateUpdated>
@@ -1656,6 +1752,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-01-20</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114476-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114478-03:00</DateUpdated>
@@ -1670,6 +1767,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-06-12</DateOperationStarted>
     <DatePixStarted>2023-06-28 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114675-03:00</DateRegistered>
@@ -1685,6 +1783,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.itaubba.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114884-03:00</DateRegistered>
@@ -1699,6 +1798,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-07-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115091-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115093-03:00</DateUpdated>
@@ -1712,6 +1812,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Troca de Modalidade</Product>
     </Products>
@@ -1728,6 +1829,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-10-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3590559Z</DateUpdated>
@@ -1741,6 +1843,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-06-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114538-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711454-03:00</DateUpdated>
@@ -1754,6 +1857,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-10-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114926-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114928-03:00</DateUpdated>
@@ -1767,6 +1871,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-08-09</DateOperationStarted>
     <DateRegistered>2021-08-24T13:06:55.8926601-03:00</DateRegistered>
     <DateUpdated>2021-08-24T13:06:55.8926604-03:00</DateUpdated>
@@ -1780,6 +1885,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2017-09-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115043-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115045-03:00</DateUpdated>
@@ -1794,6 +1900,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -1811,6 +1918,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Pessoal</Product>
@@ -1833,6 +1941,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -1858,6 +1967,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -1878,6 +1988,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.johndeere.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115474-03:00</DateRegistered>
@@ -1894,6 +2005,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -1914,6 +2026,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.calyon.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115434-03:00</DateRegistered>
@@ -1930,6 +2043,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
@@ -1953,6 +2067,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancocifra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115358-03:00</DateRegistered>
@@ -1969,6 +2084,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -1982,7 +2098,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115261-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.547804Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286012Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>241</COMPE>
@@ -1994,6 +2110,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://bancoclassico.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115018-03:00</DateRegistered>
@@ -2010,6 +2127,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
@@ -2036,6 +2154,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
@@ -2059,6 +2178,7 @@
     <Type>Banco Comercial</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711529-03:00</DateRegistered>
@@ -2074,6 +2194,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancobcv.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115191-03:00</DateRegistered>
@@ -2088,6 +2209,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2016-11-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115198-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.71152-03:00</DateUpdated>
@@ -2102,6 +2224,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -2123,6 +2246,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-01-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114661-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114663-03:00</DateUpdated>
@@ -2137,6 +2261,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2153,6 +2278,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.fator.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115084-03:00</DateRegistered>
@@ -2168,6 +2294,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancocedula.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115058-03:00</DateRegistered>
@@ -2182,6 +2309,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -2201,6 +2329,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-02-07</DateOperationStarted>
     <DatePixStarted>2022-01-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115202-03:00</DateRegistered>
@@ -2215,6 +2344,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-08-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115302-03:00</DateRegistered>
     <DateUpdated>2022-07-22T07:49:18.4028539Z</DateUpdated>
@@ -2228,6 +2358,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-02-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114984-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114985-03:00</DateUpdated>
@@ -2241,6 +2372,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-11-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7112212-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7112295-03:00</DateUpdated>
@@ -2255,6 +2387,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-04-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114649-03:00</DateRegistered>
@@ -2270,6 +2403,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
@@ -2290,6 +2424,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
     </Products>
@@ -2307,6 +2442,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-05-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711498-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114981-03:00</DateUpdated>
@@ -2321,6 +2457,7 @@
     <PixType>IDRT</PixType>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2018-06-05</DateOperationStarted>
     <DatePixStarted>2022-04-04 14:48:55</DatePixStarted>
@@ -2336,6 +2473,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Crédito Pessoal e Troca de Modalidade</Product>
     </Products>
@@ -2353,6 +2491,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-11-05</DateOperationStarted>
     <DatePixStarted>2021-06-10 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115437-03:00</DateRegistered>
@@ -2367,6 +2506,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-07-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115467-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115469-03:00</DateUpdated>
@@ -2380,6 +2520,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-09-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115423-03:00</DateRegistered>
     <DateUpdated>2023-03-18T12:06:14.6197474Z</DateUpdated>
@@ -2394,6 +2535,7 @@
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-09-17</DateOperationStarted>
     <DatePixStarted>2023-03-06 10:22:14</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114638-03:00</DateRegistered>
@@ -2408,6 +2550,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-07-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115342-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115344-03:00</DateUpdated>
@@ -2421,6 +2564,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-03-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115496-03:00</DateRegistered>
     <DateUpdated>2022-03-16T07:58:39.2793254Z</DateUpdated>
@@ -2435,6 +2579,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2018-11-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2450,6 +2595,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-10-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114995-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114997-03:00</DateUpdated>
@@ -2463,6 +2609,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-09-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115419-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115421-03:00</DateUpdated>
@@ -2476,6 +2623,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-02-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114531-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:13.517057Z</DateUpdated>
@@ -2489,6 +2637,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-08-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114899-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114901-03:00</DateUpdated>
@@ -2503,6 +2652,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Veículos</Product>
@@ -2522,6 +2672,7 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bna.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115051-03:00</DateRegistered>
@@ -2537,6 +2688,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-09-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114822-03:00</DateRegistered>
@@ -2551,6 +2703,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-02-06</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115158-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711516-03:00</DateUpdated>
@@ -2564,6 +2717,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-10-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114523-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114525-03:00</DateUpdated>
@@ -2577,6 +2731,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-11-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114841-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114842-03:00</DateUpdated>
@@ -2591,6 +2746,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2018-10-18</DateOperationStarted>
     <DatePixStarted>2023-03-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114937-03:00</DateRegistered>
@@ -2605,6 +2761,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-01-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115445-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115447-03:00</DateUpdated>
@@ -2619,6 +2776,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-02-09</DateOperationStarted>
     <DatePixStarted>2022-12-12 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114635-03:00</DateRegistered>
@@ -2633,6 +2791,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-08-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114874-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114875-03:00</DateUpdated>
@@ -2646,6 +2805,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-01-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114512-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114514-03:00</DateUpdated>
@@ -2661,6 +2821,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -2683,6 +2844,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-03-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114734-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114735-03:00</DateUpdated>
@@ -2697,6 +2859,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.br.ccb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114616-03:00</DateRegistered>
@@ -2711,6 +2874,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-06-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114908-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711491-03:00</DateUpdated>
@@ -2725,6 +2889,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DatePixStarted>2022-03-14 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114423-03:00</DateRegistered>
@@ -2740,6 +2905,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2019-06-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2756,6 +2922,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -2775,6 +2942,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-05-31</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114815-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114817-03:00</DateUpdated>
@@ -2789,6 +2957,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Pessoal</Product>
     </Products>
@@ -2806,6 +2975,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-03-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114602-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114603-03:00</DateUpdated>
@@ -2820,6 +2990,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -2841,6 +3012,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -2861,6 +3033,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-09-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114829-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114831-03:00</DateUpdated>
@@ -2875,6 +3048,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2019-08-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -2890,6 +3064,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-02-22</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112605Z</DateUpdated>
@@ -2905,6 +3080,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado e Outros Créditos</Product>
@@ -2926,6 +3102,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -2948,6 +3125,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-09-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114697-03:00</DateRegistered>
@@ -2964,6 +3142,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -2977,7 +3156,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115257-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.402737Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6287206Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>342</COMPE>
@@ -2989,6 +3168,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-07-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115047-03:00</DateRegistered>
@@ -3003,6 +3183,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-11-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114956-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114958-03:00</DateUpdated>
@@ -3017,6 +3198,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Pessoal</Product>
@@ -3037,6 +3219,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -3061,6 +3244,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-05-27</DateOperationStarted>
     <DatePixStarted>2022-01-07 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114431-03:00</DateRegistered>
@@ -3075,6 +3259,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-11-29</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115003-03:00</DateRegistered>
     <DateUpdated>2021-09-13T19:08:15.553781-03:00</DateUpdated>
@@ -3088,6 +3273,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-10-30</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115194-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115196-03:00</DateUpdated>
@@ -3102,6 +3288,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2019-10-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115114-03:00</DateRegistered>
@@ -3117,6 +3304,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Pessoal</Product>
@@ -3136,6 +3324,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
@@ -3157,6 +3346,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-07-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114461-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114462-03:00</DateUpdated>
@@ -3171,6 +3361,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-07-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711436-03:00</DateRegistered>
@@ -3185,6 +3376,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-06-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115346-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115348-03:00</DateUpdated>
@@ -3199,6 +3391,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -3214,6 +3407,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-03-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115408-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711541-03:00</DateUpdated>
@@ -3228,6 +3422,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.sgbrasil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115306-03:00</DateRegistered>
@@ -3242,6 +3437,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-03-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115117-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115119-03:00</DateUpdated>
@@ -3257,6 +3453,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Crédito consignado e Troca de modalidade.</Product>
     </Products>
@@ -3276,6 +3473,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.mizuhobank.com/brazil/pt/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115287-03:00</DateRegistered>
@@ -3291,6 +3489,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-05-13</DateOperationStarted>
     <DatePixStarted>2022-11-14 12:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115489-03:00</DateRegistered>
@@ -3305,6 +3504,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
@@ -3325,6 +3525,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Pessoal e Outros Créditos</Product>
     </Products>
@@ -3343,6 +3544,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Pessoal</Product>
     </Products>
@@ -3361,6 +3563,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-10-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114904-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114906-03:00</DateUpdated>
@@ -3374,6 +3577,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-09-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114454-03:00</DateRegistered>
     <DateUpdated>2022-01-05T11:00:32.0511464Z</DateUpdated>
@@ -3387,6 +3591,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial e Troca de Modalidade</Product>
       <Product>Consignado</Product>
@@ -3409,6 +3614,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.picpay.com.br</Url>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
@@ -3426,6 +3632,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Pessoal e Veículos</Product>
     </Products>
@@ -3444,6 +3651,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-07-31</DateOperationStarted>
     <DatePixStarted>2021-12-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114541-03:00</DateRegistered>
@@ -3459,6 +3667,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-07-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711493-03:00</DateRegistered>
@@ -3474,6 +3683,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-10-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114726-03:00</DateRegistered>
@@ -3488,6 +3698,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-03-08</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.1136389Z</DateRegistered>
     <DateUpdated>2022-03-16T07:58:41.1136624Z</DateUpdated>
@@ -3501,6 +3712,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Troca de Modalidade</Product>
@@ -3519,6 +3731,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Veículos</Product>
     </Products>
@@ -3538,6 +3751,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -3562,6 +3776,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Veículos</Product>
     </Products>
@@ -3578,6 +3793,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2020-07-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114646-03:00</DateRegistered>
@@ -3593,6 +3809,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Troca de Modalidade e Capital de Giro</Product>
@@ -3613,6 +3830,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -3632,6 +3850,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-12-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114664-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114666-03:00</DateUpdated>
@@ -3646,6 +3865,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-08-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114837-03:00</DateRegistered>
@@ -3661,6 +3881,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115106-03:00</DateRegistered>
@@ -3675,6 +3896,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-01-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115022-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115024-03:00</DateUpdated>
@@ -3689,6 +3911,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://true</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114446-03:00</DateRegistered>
@@ -3703,6 +3926,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711459-03:00</DateRegistered>
     <DateUpdated>2021-08-24T13:06:53.2851364-03:00</DateUpdated>
@@ -3717,6 +3941,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-05-06</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114851-03:00</DateRegistered>
@@ -3732,6 +3957,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-12-03</DateOperationStarted>
     <DatePixStarted>2021-12-08 09:15:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115132-03:00</DateRegistered>
@@ -3747,6 +3973,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
@@ -3762,6 +3989,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-10-16</DateOperationStarted>
     <DatePixStarted>2021-04-19 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115136-03:00</DateRegistered>
@@ -3777,6 +4005,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-11-27</DateOperationStarted>
     <DatePixStarted>2023-03-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115144-03:00</DateRegistered>
@@ -3792,6 +4021,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2022-11-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711258-03:00</DateRegistered>
@@ -3807,6 +4037,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2020-10-14</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115128-03:00</DateRegistered>
@@ -3821,6 +4052,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
     <DateUpdated>2022-09-27T12:08:38.4172421Z</DateUpdated>
@@ -3835,6 +4067,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Pessoal</Product>
     </Products>
@@ -3854,6 +4087,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.bancocapital.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -3871,6 +4105,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DatePixStarted>2021-06-14 08:00:00</DatePixStarted>
@@ -3886,6 +4121,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-03-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711514-03:00</DateRegistered>
     <DateUpdated>2022-10-29T12:07:14.5244799Z</DateUpdated>
@@ -3899,6 +4135,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-04-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114922-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114924-03:00</DateUpdated>
@@ -3912,6 +4149,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-08-26</DateOperationStarted>
     <DateRegistered>2021-08-24T13:06:55.8926609-03:00</DateRegistered>
     <DateUpdated>2021-08-24T13:06:55.8926612-03:00</DateUpdated>
@@ -3926,6 +4164,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-03-18</DateOperationStarted>
     <DatePixStarted>2022-01-06 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115151-03:00</DateRegistered>
@@ -3941,6 +4180,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-07-21</DateOperationStarted>
     <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601604-03:00</DateRegistered>
@@ -3957,6 +4197,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -3971,7 +4212,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115218-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6511793Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286868Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>423</COMPE>
@@ -3982,6 +4223,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-06-07</DateOperationStarted>
     <DateRegistered>2021-06-03T10:45:43.4334262-03:00</DateRegistered>
     <DateUpdated>2021-06-03T10:45:43.4334304-03:00</DateUpdated>
@@ -3996,6 +4238,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -4016,6 +4259,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DateRegistered>2021-05-21T23:01:29.4844658-03:00</DateRegistered>
     <DateUpdated>2023-03-03T14:56:53.496954Z</DateUpdated>
@@ -4030,6 +4274,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Troca de Modalidade</Product>
     </Products>
@@ -4048,6 +4293,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-04-20</DateOperationStarted>
     <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115154-03:00</DateRegistered>
@@ -4062,6 +4308,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -4081,6 +4328,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-02-11 10:00:00</DatePixStarted>
@@ -4096,6 +4344,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-06-21</DateOperationStarted>
     <DateRegistered>2021-06-22T10:03:37.2758829-03:00</DateRegistered>
     <DateUpdated>2021-06-22T10:03:37.2758835-03:00</DateUpdated>
@@ -4110,6 +4359,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-08-23 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926615-03:00</DateRegistered>
@@ -4124,6 +4374,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-05-04</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115365-03:00</DateRegistered>
     <DateUpdated>2022-08-25T12:36:48.5303514Z</DateUpdated>
@@ -4138,6 +4389,7 @@
     <PixType>IDRT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-09-30</DateOperationStarted>
     <DatePixStarted>2023-03-03 10:17:13</DatePixStarted>
     <DateRegistered>2021-09-28T05:25:19.3476011-03:00</DateRegistered>
@@ -4152,6 +4404,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-09-02</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
     <DateUpdated>2021-10-23T20:54:59.5267227-03:00</DateUpdated>
@@ -4165,6 +4418,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-09-15</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817391-03:00</DateRegistered>
     <DateUpdated>2021-09-13T19:08:16.9817393-03:00</DateUpdated>
@@ -4178,6 +4432,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-11-18</DateOperationStarted>
     <DateRegistered>2021-11-22T11:00:23.679021-03:00</DateRegistered>
     <DateUpdated>2021-11-22T11:00:23.6790215-03:00</DateUpdated>
@@ -4192,6 +4447,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-09-09</DateOperationStarted>
     <DatePixStarted>2022-11-07 17:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817382-03:00</DateRegistered>
@@ -4206,6 +4462,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-06-23</DateOperationStarted>
     <DateRegistered>2021-06-22T10:03:37.2758379-03:00</DateRegistered>
     <DateUpdated>2021-06-22T10:03:37.2758811-03:00</DateUpdated>
@@ -4219,6 +4476,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-09-27</DateOperationStarted>
     <DateRegistered>2021-09-28T05:25:19.347575-03:00</DateRegistered>
     <DateUpdated>2021-09-28T05:25:19.3476005-03:00</DateUpdated>
@@ -4232,6 +4490,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-08-17</DateOperationStarted>
     <DateRegistered>2021-08-24T13:06:55.8926622-03:00</DateRegistered>
     <DateUpdated>2021-08-24T13:06:55.8926625-03:00</DateUpdated>
@@ -4245,6 +4504,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-10-22</DateOperationStarted>
     <DateRegistered>2021-10-23T20:55:03.4293187-03:00</DateRegistered>
     <DateUpdated>2022-12-27T12:06:36.1117922Z</DateUpdated>
@@ -4259,6 +4519,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
@@ -4273,6 +4534,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
     <DateRegistered>2022-02-01T08:17:39.0832206Z</DateRegistered>
     <DateUpdated>2022-02-01T08:17:39.0832325Z</DateUpdated>
@@ -4287,6 +4549,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-09-15</DateOperationStarted>
     <DatePixStarted>2023-04-03 11:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817378-03:00</DateRegistered>
@@ -4301,6 +4564,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-11-23</DateOperationStarted>
     <DateRegistered>2021-11-22T11:00:23.679022-03:00</DateRegistered>
     <DateUpdated>2021-11-22T11:00:23.6790225-03:00</DateUpdated>
@@ -4314,6 +4578,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-12-05</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.984961Z</DateRegistered>
     <DateUpdated>2022-11-30T12:07:13.984961Z</DateUpdated>
@@ -4328,6 +4593,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.br.bk.mufg.jp</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711525-03:00</DateRegistered>
@@ -4343,6 +4609,7 @@
     <PixType>IDRT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-10-26</DateOperationStarted>
     <DatePixStarted>2023-04-17 10:04:25</DatePixStarted>
     <DateRegistered>2021-10-23T20:55:03.4293722-03:00</DateRegistered>
@@ -4357,6 +4624,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817372-03:00</DateRegistered>
     <DateUpdated>2021-09-13T19:08:16.9817374-03:00</DateUpdated>
@@ -4370,6 +4638,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Troca de Modalidade</Product>
     </Products>
@@ -4386,6 +4655,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
     <DateRegistered>2022-02-01T08:17:39.0832328Z</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3661816Z</DateUpdated>
@@ -4400,6 +4670,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-10-29</DateOperationStarted>
     <DatePixStarted>2021-11-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-11-22T11:00:23.6790202-03:00</DateRegistered>
@@ -4415,6 +4686,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-10-01</DateOperationStarted>
     <DatePixStarted>2021-11-29 20:00:00</DatePixStarted>
     <DateRegistered>2021-10-23T20:55:03.4293732-03:00</DateRegistered>
@@ -4429,6 +4701,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-12-21</DateOperationStarted>
     <DateRegistered>2022-01-05T11:00:34.5914098Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3057404Z</DateUpdated>
@@ -4443,6 +4716,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.smbcgroup.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115254-03:00</DateRegistered>
@@ -4458,6 +4732,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-12-03</DateOperationStarted>
     <DatePixStarted>2023-03-27 10:00:00</DatePixStarted>
     <DateRegistered>2021-12-13T12:13:48.9317922Z</DateRegistered>
@@ -4472,6 +4747,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2021-12-16</DateOperationStarted>
     <DateRegistered>2021-12-13T12:13:48.9317806Z</DateRegistered>
     <DateUpdated>2021-12-13T12:13:48.9317918Z</DateUpdated>
@@ -4486,6 +4762,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -4505,6 +4782,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-03-09</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.113663Z</DateRegistered>
     <DateUpdated>2022-08-05T12:06:01.5908103Z</DateUpdated>
@@ -4518,6 +4796,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-03-15</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.1136636Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:53.4974414Z</DateUpdated>
@@ -4531,6 +4810,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-07-18</DateOperationStarted>
     <DateRegistered>2022-07-14T12:06:01.0960677Z</DateRegistered>
     <DateUpdated>2022-07-14T12:06:01.0960678Z</DateUpdated>
@@ -4545,6 +4825,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bcgbrasil.com.br</Url>
     <DateOperationStarted>2009-03-31</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115073-03:00</DateRegistered>
@@ -4559,6 +4840,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Veículos</Product>
     </Products>
@@ -4576,6 +4858,7 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.citibank.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115054-03:00</DateRegistered>
@@ -4591,6 +4874,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -4613,6 +4897,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.itaubank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115247-03:00</DateRegistered>
@@ -4627,6 +4912,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-08-29</DateOperationStarted>
     <DateRegistered>2022-08-24T12:36:20.0513082Z</DateRegistered>
     <DateUpdated>2022-09-10T12:06:04.146867Z</DateUpdated>
@@ -4640,6 +4926,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-10-11</DateOperationStarted>
     <DateRegistered>2022-10-04T12:08:42.7066127Z</DateRegistered>
     <DateUpdated>2022-10-04T12:08:42.7066128Z</DateUpdated>
@@ -4653,6 +4940,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-07-20</DateOperationStarted>
     <DateRegistered>2022-07-16T12:07:46.2417741Z</DateRegistered>
     <DateUpdated>2022-07-16T12:07:46.2417743Z</DateUpdated>
@@ -4667,6 +4955,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.deutsche-bank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115354-03:00</DateRegistered>
@@ -4682,6 +4971,7 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.jpmorganchase.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115176-03:00</DateRegistered>
@@ -4697,6 +4987,7 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.ing.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115184-03:00</DateRegistered>
@@ -4712,6 +5003,7 @@
     <Type>Banco Comercial Estrangeiro - Filial no país</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115169-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711517-03:00</DateUpdated>
@@ -4726,6 +5018,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.csfb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115036-03:00</DateRegistered>
@@ -4740,6 +5033,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-07-21</DateOperationStarted>
     <DateRegistered>2022-07-19T12:06:21.2700855Z</DateRegistered>
     <DateUpdated>2022-07-19T12:06:21.2700856Z</DateUpdated>
@@ -4753,6 +5047,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-12-12</DateOperationStarted>
     <DateRegistered>2022-12-08T12:06:49.6471588Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:53.4981646Z</DateUpdated>
@@ -4766,6 +5061,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-08-18</DateOperationStarted>
     <DateRegistered>2022-08-13T12:30:35.4201882Z</DateRegistered>
     <DateUpdated>2022-08-13T12:30:35.4201883Z</DateUpdated>
@@ -4780,6 +5076,7 @@
     <PixType>IDRT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-01-23</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
@@ -4794,6 +5091,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-11-18</DateOperationStarted>
     <DateRegistered>2022-11-15T12:07:18.5294791Z</DateRegistered>
     <DateUpdated>2022-11-15T12:07:18.5294792Z</DateUpdated>
@@ -4808,6 +5106,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-08-22</DateOperationStarted>
     <DatePixStarted>2023-04-24 10:00:00</DatePixStarted>
     <DateRegistered>2022-08-16T12:32:57.3964844Z</DateRegistered>
@@ -4822,6 +5121,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-08-01</DateOperationStarted>
     <DateRegistered>2022-07-20T12:06:03.4386093Z</DateRegistered>
     <DateUpdated>2022-11-04T12:08:27.675962Z</DateUpdated>
@@ -4835,6 +5135,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-12-02</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.9849611Z</DateRegistered>
     <DateUpdated>2022-11-30T12:07:13.9849612Z</DateUpdated>
@@ -4848,6 +5149,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Troca de Modalidade</Product>
@@ -4865,6 +5167,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-01-30</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112607Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112608Z</DateUpdated>
@@ -4878,6 +5181,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-12-12</DateOperationStarted>
     <DateRegistered>2022-12-07T12:06:48.2610092Z</DateRegistered>
     <DateUpdated>2022-12-07T12:06:48.2610093Z</DateUpdated>
@@ -4891,6 +5195,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-01-27</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.311261Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.311261Z</DateUpdated>
@@ -4904,6 +5209,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-03-27</DateOperationStarted>
     <DateRegistered>2023-03-22T12:07:30.8431247Z</DateRegistered>
     <DateUpdated>2023-03-22T12:07:30.8431248Z</DateUpdated>
@@ -4917,6 +5223,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-02-15</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
     <DateUpdated>2023-04-11T12:06:56.2721903Z</DateUpdated>
@@ -4930,6 +5237,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-03-01</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112615Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112615Z</DateUpdated>
@@ -4943,6 +5251,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-12-05</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.9849608Z</DateRegistered>
     <DateUpdated>2022-11-30T12:07:13.9849609Z</DateUpdated>
@@ -4956,6 +5265,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-01-20</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112616Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112616Z</DateUpdated>
@@ -4969,6 +5279,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-02-06</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112612Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112613Z</DateUpdated>
@@ -4982,6 +5293,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112607Z</DateUpdated>
@@ -4996,6 +5308,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2022-11-16</DateOperationStarted>
     <DatePixStarted>2023-06-07 09:15:00</DatePixStarted>
     <DateRegistered>2022-11-12T12:06:34.2025683Z</DateRegistered>
@@ -5010,6 +5323,7 @@
     <Network>RSFN</Network>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-03-14</DateOperationStarted>
     <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
     <DateUpdated>2023-04-01T12:05:41.8693307Z</DateUpdated>
@@ -5023,6 +5337,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-04-03</DateOperationStarted>
     <DateRegistered>2023-03-29T12:07:07.8301112Z</DateRegistered>
     <DateUpdated>2023-03-29T12:07:07.8301112Z</DateUpdated>
@@ -5037,6 +5352,7 @@
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-04-03</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2023-03-29T12:07:07.8301111Z</DateRegistered>
@@ -5051,6 +5367,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-02-10</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112609Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112609Z</DateUpdated>
@@ -5065,6 +5382,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2023-01-12</DateOperationStarted>
     <DatePixStarted>2023-01-27 07:15:00</DatePixStarted>
@@ -5081,6 +5399,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112613Z</DateRegistered>
@@ -5095,6 +5414,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
     </Products>
@@ -5111,6 +5431,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-03-08</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112602Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112603Z</DateUpdated>
@@ -5124,6 +5445,7 @@
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2010-09-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114892-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114893-03:00</DateUpdated>
@@ -5138,6 +5460,7 @@
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <DateOperationStarted>2023-04-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2023-04-19T12:07:00.4802737Z</DateRegistered>
@@ -5154,6 +5477,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -5176,6 +5500,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Pessoal</Product>
     </Products>
@@ -5196,6 +5521,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.vrinvestimentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -5212,6 +5538,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário e Troca de Modalidade</Product>
@@ -5232,6 +5559,7 @@
     <PixType>DRCT</PixType>
     <Charge>false</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancoguanabara.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -5249,6 +5577,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Pessoal</Product>
       <Product>Veículos e Outros Créditos</Product>
@@ -5270,6 +5599,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial e Troca de Modalidade</Product>
@@ -5293,6 +5623,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado e Veículos</Product>
     </Products>
@@ -5311,6 +5642,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.intercap.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -5328,6 +5660,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial</Product>
       <Product>Pessoal</Product>
@@ -5350,6 +5683,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha</SalaryPortability>
     <Url>https://www.tribanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -5368,6 +5702,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.sofisa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -5386,6 +5721,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Troca de Modalidade e Capital de Giro</Product>
@@ -5407,6 +5743,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115272-03:00</DateRegistered>
@@ -5423,6 +5760,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bip.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -5439,6 +5777,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -5461,6 +5800,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -5488,6 +5828,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
@@ -5514,6 +5855,7 @@
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.ourinvest.com.br</Url>
     <DateOperationStarted>2014-01-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
@@ -5529,6 +5871,7 @@
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Veículos</Product>
@@ -5548,6 +5891,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Outros Céditos</Product>
@@ -5572,6 +5916,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -5594,6 +5939,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado e Pessoal</Product>
@@ -5615,6 +5961,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário e Pessoal</Product>
@@ -5636,6 +5983,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.bancomodal.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
@@ -5653,6 +6001,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.rabobank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7113885-03:00</DateRegistered>
@@ -5669,6 +6018,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro e PRONAMPE</Product>
@@ -5684,7 +6034,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114428-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6465182Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286448Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>751</COMPE>
@@ -5696,6 +6046,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.br.scotiabank.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114999-03:00</DateRegistered>
@@ -5711,6 +6062,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
@@ -5731,6 +6083,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Products>
       <Product>Consignado</Product>
     </Products>
@@ -5749,6 +6102,7 @@
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.btgpactual.com</Url>
     <DateOperationStarted>2015-07-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115441-03:00</DateRegistered>
@@ -5765,6 +6119,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.ml.com</Url>
     <DateOperationStarted>2007-11-09</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
@@ -5782,6 +6137,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>true</LegalCheque>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro e PRONAMPE</Product>
@@ -5797,7 +6153,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114457-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6465088Z</DateUpdated>
+    <DateUpdated>2023-07-22T23:17:11.6286377Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>757</COMPE>
@@ -5810,6 +6166,7 @@
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
+    <LegalCheque>false</LegalCheque>
     <Url>https://www.bancokeb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
