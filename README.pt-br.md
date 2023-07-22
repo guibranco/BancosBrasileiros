@@ -165,7 +165,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ## Contributors
 
-<!-- readme: collaborators,contributors,snyk-bot/- -start -->
+<!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -start -->
 <table>
 <tr>
     <td align="center">
@@ -262,7 +262,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators,contributors,snyk-bot/- -end -->
+<!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -end -->
 
 ## Bots
 
