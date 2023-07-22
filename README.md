@@ -165,7 +165,7 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 
 ## Contributors
 
-<!-- readme: collaborators,contributors,snyk-bot/- -start -->
+<!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -start -->
 <table>
 <tr>
     <td align="center">
@@ -262,7 +262,7 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td></tr>
 </table>
-<!-- readme: collaborators,contributors,snyk-bot/- -end -->
+<!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -end -->
 
 ## Bots
 
