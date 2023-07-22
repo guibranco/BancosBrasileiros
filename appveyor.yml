@@ -1,4 +1,4 @@
-version: 4.0.{build}
+version: 5.0.{build}
 skip_tags: true
 skip_branch_with_pr: true
 skip_commits:
@@ -12,6 +12,8 @@ branches:
 
 environment:
   nodejs_version: 18
+  npm_auth_token:
+    secure: utvTJFeOvz8YUfgc/z87ERaWZs4tDNSAe/atkmUagrQjaxniSCqXn0Q4U1UVx1ST
 
 install:
 - appveyor DownloadFile https://dist.nuget.org/win-x86-commandline/latest/nuget.exe

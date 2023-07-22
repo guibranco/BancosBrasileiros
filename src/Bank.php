@@ -35,6 +35,9 @@ class Bank
     /** @var bool|null */
     public $CreditDocument;
 
+    /** @var bool **/
+    public $LegalCheque;
+
     /** @var string|null */
     public $SalaryPortability;
 

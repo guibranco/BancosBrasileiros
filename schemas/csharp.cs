@@ -35,6 +35,9 @@ namespace BancosBrasileiros
         [JsonProperty("CreditDocument")]
         public bool? CreditDocument { get; set; }
 
+        [JsonProperty("LegalCheque")]
+        public string LegalCheque { get; set; }
+
         [JsonProperty("SalaryPortability")]
         public string SalaryPortability { get; set; }
 

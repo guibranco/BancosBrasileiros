@@ -10,6 +10,7 @@ CREATE TABLE Banks (
     PixType VARCHAR(4) NULL,
     Charge BIT NULL,
     CreditDocument BIT NULL,
+    LegalCheque BIT,
     SalaryPortability VARCHAR(100) NULL,
     Products TEXT NULL,
     Url VARCHAR(255) NULL,

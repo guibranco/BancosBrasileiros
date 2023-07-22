@@ -37,6 +37,8 @@ pub struct BankElement {
     pub charge: bool,
     #[serde(rename = "CreditDocument")]
     pub credit_document: bool,
+    #[serde(rename = "LegalCheque")]
+    pub legal_cheque: bool,
     #[serde(rename = "SalaryPortability")]
     pub salary_portability: String,
     #[serde(rename = "Products")]

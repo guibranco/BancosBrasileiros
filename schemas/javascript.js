@@ -158,7 +158,8 @@ const typeMap = {
         { json: "PixType", js: "PixType", typ: "" },
         { json: "Charge", js: "Charge", typ: "" },
         { json: "CreditDocument", js: "CreditDocument", typ: "" },
-        { json: "SalaryPortability", js: "SalaryPortability", typ: "" }
+        { json: "LegalCheque", js: "LegalCheque", typ: "" },
+        { json: "SalaryPortability", js: "SalaryPortability", typ: "" },
         { json: "Products", js: "Products", typ: "" },
         { json: "Url", js: "Url", typ: u(null, "") },
         { json: "DateOperationStarted", js: "DateOperationStarted", typ: "" },

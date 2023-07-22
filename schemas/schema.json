@@ -60,6 +60,9 @@
                 "CreditDocument": {
                    "type": "boolean"
                 },
+                "LegalCheque": {
+                    "type": "boolean"
+                },
                 "SalaryPortability": {
                   "type": "string"
                 },

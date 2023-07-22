@@ -45,7 +45,10 @@ data class BankElement (
     val charge: Boolean? = null,
 
     @Json("CreditDocument")
-    va creditDocument: Boolean? = null,
+    val creditDocument: Boolean? = null,
+
+    @Json("LegalCheque")
+    val legalCheque: Boolean,
 
     @Json("SalaryPortability")
     val salaryPortability: String? = null,

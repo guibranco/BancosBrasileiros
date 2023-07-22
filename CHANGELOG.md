@@ -4,6 +4,10 @@
 
 ## Changelog
 
+### 2023-07-22 - [GuiBranco](https://gitbub.com/guibranco):
+
+- [Issue #194](http://github.com/guibranco/bancosBrasileiros/issues/194) - Added Legal Cheque
+
 ### 2023-07-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

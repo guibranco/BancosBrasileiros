@@ -2,32 +2,6 @@
 
 Brazilian commercial banks list
 
-# Installation
-
-```
-composer require guibranco/bancos-brasileiros
-```
-
-# Docs
-
-Create an `index.php`
-
-```php
-require __DIR__ . '/vendor/autoload.php';
-
-use Guibranco\BancosBrasileiros\Bank;
-
-$banks = Bank::all(); // return collection of bank
-
-// show in UI
-```
-
-Start a local server in the same directory.
-
-```
-php -S localhost:8080
-```
-
 ### Available data
 
 Each of the Collection has the following information (schema):

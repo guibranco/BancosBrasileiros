@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>BancosBrasileiros</id>
-    <version>4.0.0</version>
+    <version>5.0.0</version>
     <icon>logo.png</icon>
     <readme>README.md</readme>
     <title>Bancos Brasileiros</title>
