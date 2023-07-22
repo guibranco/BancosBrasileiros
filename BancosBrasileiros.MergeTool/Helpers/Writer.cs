@@ -14,12 +14,12 @@
 
 namespace BancosBrasileiros.MergeTool.Helpers;
 
+using CrispyWaffle.Serialization;
+using Dto;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
-using CrispyWaffle.Serialization;
-using Dto;
 
 /// <summary>
 /// Class Writer.
@@ -103,7 +103,7 @@ internal static class Writer
         lines.AddRange(
             banks.Select(
                 bank =>
-                    $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "-" : bank.Charge)} | {(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "-" : bank.CreditDocument)} | {(bank.LegalCheque ? "sim" : "não")} | {(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "-" : bank.SalaryPortability)} | {(bank.Products == null ? "-" : string.Join(",", bank.Products))} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"
+                    $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.ChargeStr) || !bank.Charge.HasValue ? "-" : (bank.Charge.Value ? "sim" : "não"))} | {(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) || !bank.CreditDocument.HasValue ? "-" : (bank.CreditDocument.Value ? "sim" : "não"))} | {(bank.LegalCheque ? "sim" : "não")} | {(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "-" : bank.SalaryPortability)} | {(bank.Products == null ? "-" : string.Join(",", bank.Products))} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"
             )
         );
 
