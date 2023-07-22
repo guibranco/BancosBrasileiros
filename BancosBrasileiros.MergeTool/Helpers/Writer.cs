@@ -19,6 +19,7 @@ using Dto;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -150,7 +151,7 @@ internal static class Writer
             .Where(pi => pi.GetCustomAttribute<JsonIgnoreAttribute>() == null)
             .Select(
                 pi =>
-                    pi.GetCustomAttribute<DisplayNameAttribute>()?.DisplayName
+                    pi.GetCustomAttribute<DisplayAttribute>()?.Name
                     ?? pi.GetCustomAttribute<JsonPropertyAttribute>()?.PropertyName
                     ?? pi.Name
             )
