@@ -35,6 +35,9 @@ class Bank
     /** @var bool **/
     public $LegalCheque;
 
+    /** @var bool **/
+    public $DetectaFlow;
+
     /** @var string|null */
     public $SalaryPortability;
 

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+
+### 2023-07-23 - [GuiBranco](https://gitbub.com/guibranco):
+
+- [Issue #235](http://github.com/guibranco/bancosBrasileiros/issues/235) - Added Detecta Flow
+
 ### 2023-07-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 15 banks

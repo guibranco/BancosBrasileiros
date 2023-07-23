@@ -63,6 +63,9 @@
                 "LegalCheque": {
                     "type": "boolean"
                 },
+                "DetectaFlow": {
+                    "type": "boolean"
+                },
                 "SalaryPortability": {
                   "type": "string"
                 },

@@ -37,6 +37,8 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 "PixType",
 "Charge",
 "CreditDocument",
+"LegalCheque",
+"DetectaFlow",
 "SalaryPortability",
 "Products",
 "Url",
@@ -69,6 +71,10 @@ private Object pixType;
 private Object charge;
 @JsonProperty("CreditDocument")
 private Object creditDocument;
+@JsonProperty("LegalCheque")
+private Object legalCheque;
+@JsonProperty("DetectaFlow")
+private Object detectaFlow;
 @JsonProperty("SalaryPortability")
 private Object salaryPortability;
 @JsonProperty("Products")
@@ -234,6 +240,36 @@ this.creditDocument = creditDocument;
 
 public Bank withCreditDocument(Object creditDocument) {
 this.creditDocument = creditDocument;
+return this;
+}
+
+@JsonProperty("LegalCheque")
+public Object getLegalCheque() {
+return legalCheque;
+}
+
+@JsonProperty("LegalCheque")
+public void setLegalCheque(Object legalCheque) {
+this.legalCheque = legalCheque;
+}
+
+public Bank withLegalCheque(Object legalCheque) {
+this.legalCheque = legalCheque;
+return this;
+}
+
+@JsonProperty("DetectaFlow")
+public Object getDetectaFlow() {
+return detectaFlow;
+}
+
+@JsonProperty("DetectaFlow")
+public void setDetectaFlow(Object detectaFlow) {
+this.detectaFlow = detectaFlow;
+}
+
+public Bank withDetectaFlow(Object detectaFlow) {
+this.detectaFlow = detectaFlow;
 return this;
 }
 

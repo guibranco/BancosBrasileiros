@@ -45,10 +45,11 @@ Cada uma das listas possui as seguintes informações (schema):
 | Network | Rede | RSFN, Internet, null |
 | Type | Tipo | comercial, múltiplo, caixa econômica, null |
 | PixType | Tipo de participante PIX/SPI | DRCT - Direto, INDR - Indireto, null |
-| Charge | Efetua cobrança | true, false, null | 
-| CreditDocument | Efetua DOC/TED | true, false, null | 
-| LegalCheque | Se pertence ao "Cheque Legal" | true, false | 
-| SalaryPortability | Efetua/recebe portabilidade de salário | "Banco folha e Destinatário" - ambas as operações,  "Destinatário" - apenas recebe, null
+| Charge | Efetua cobrança | true, false, null |
+| CreditDocument | Efetua DOC/TED | true, false, null |
+| LegalCheque | Se pertence ao "Cheque Legal" | true, false |
+| DeetctaFlow | Se pertence ao "Detecta Flow" | true, false |
+| SalaryPortability | Efetua/recebe portabilidade de salário | "Banco folha e Destinatário" - ambas as operações,  "Destinatário" - apenas recebe, null |
 | Products | Lista de produtos oferecidos | Apenas em português |
 | Url | Website | - |
 | DateOperationStarted | Data de início da operação comercial | - |

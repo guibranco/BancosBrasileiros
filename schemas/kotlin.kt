@@ -50,6 +50,9 @@ data class BankElement (
     @Json("LegalCheque")
     val legalCheque: Boolean,
 
+    @Json("DetectaFLow")
+    val detectaFlow: Boolean,
+
     @Json("SalaryPortability")
     val salaryPortability: String? = null,
 
