@@ -229,6 +229,15 @@ public class Bank : IEquatable<Bank>
     public bool LegalCheque { get; set; }
 
     /// <summary>
+    /// Gets or sets a value indicating whether [detecta flow].
+    /// </summary>
+    /// <value><c>true</c> if [detecta flow]; otherwise, <c>false</c>.</value>
+    [JsonProperty("DetectaFlow")]
+    [XmlElement("DetectaFLow")]
+    [Display(Name = "Detecta Flow")]
+    public bool DetectaFlow { get; set; }
+
+    /// <summary>
     /// Gets or sets the salary portability.
     /// </summary>
     /// <value>The salary portability.</value>
@@ -353,6 +362,7 @@ public class Bank : IEquatable<Bank>
             && string.Equals(Network, other.Network, StringComparison.InvariantCultureIgnoreCase)
             && string.Equals(PixType, other.PixType, StringComparison.InvariantCultureIgnoreCase)
             && LegalCheque == other.LegalCheque
+            && DetectaFlow == other.DetectaFlow
             //&& Equals(Products, other.Products)
             && string.Equals(
                 SalaryPortability,
@@ -416,6 +426,7 @@ public class Bank : IEquatable<Bank>
             hashCode.Add(PixType ?? string.Empty, StringComparer.InvariantCultureIgnoreCase);
             //hashCode.Add(Products);
             hashCode.Add(LegalCheque);
+            hashCode.Add(DetectaFlow);
             hashCode.Add(
                 SalaryPortability ?? string.Empty,
                 StringComparer.InvariantCultureIgnoreCase
@@ -463,6 +474,8 @@ public class Bank : IEquatable<Bank>
             strBuilder.Append($"Credit document: {CreditDocument} | ");
 
         strBuilder.Append($"Legal cheque: {LegalCheque} | ");
+
+        strBuilder.Append($"Detecta FLow: {DetectaFlow} | ");
 
         if (!string.IsNullOrWhiteSpace(SalaryPortability))
             strBuilder.Append($"Salary portability: {SalaryPortability} | ");

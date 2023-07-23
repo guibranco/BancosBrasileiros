@@ -709,7 +709,8 @@ internal class Seeder
     /// Seeds the CQL.
     /// </summary>
     /// <param name="items">The items.</param>
-    public void SeedCql(IEnumerable<Bank> items)
+    /// <returns>Seeder.</returns>
+    public Seeder SeedCql(IEnumerable<Bank> items)
     {
         var found = 0;
         var upToDate = 0;
@@ -745,6 +746,55 @@ internal class Seeder
 
         Logger.Log(
             $"\r\nCQL | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n",
+            ConsoleColor.DarkYellow
+        );
+
+        return this;
+    }
+
+    /// <summary>
+    /// Seeds the detecta flow.
+    /// </summary>
+    /// <param name="items">The items.</param>
+    public void SeedDetectaFlow(IEnumerable<Bank> items)
+    {
+        var found = 0;
+        var upToDate = 0;
+        var notFound = 0;
+
+        Logger.Log("DetectaFlow\r\n", ConsoleColor.DarkYellow);
+
+        foreach (var detectaFlow in items)
+        {
+            var bank = _source.SingleOrDefault(b => b.Ispb.Equals(detectaFlow.Ispb));
+
+            if (bank == null)
+            {
+                Logger.Log(
+                    $"Detecta FLow | Bank not found: {detectaFlow.LongName} | {detectaFlow.Document.Trim()}",
+                    ConsoleColor.DarkRed
+                );
+                notFound++;
+                continue;
+            }
+
+            if (bank.DetectaFlow)
+            {
+                Logger.Log(
+                    $"Detecta Flow | Detecta FLow updated: {detectaFlow.LongName}",
+                    ConsoleColor.DarkGreen
+                );
+                upToDate++;
+                continue;
+            }
+
+            bank.DetectaFlow = true;
+            bank.DateUpdated = DateTimeOffset.UtcNow;
+            found++;
+        }
+
+        Logger.Log(
+            $"\r\nDetecta Flow | Found: {found} | Not found: {notFound} | Up to date: {upToDate}\r\n",
             ConsoleColor.DarkYellow
         );
     }

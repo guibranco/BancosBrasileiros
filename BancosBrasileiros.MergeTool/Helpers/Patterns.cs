@@ -92,9 +92,22 @@ internal static class Patterns
             TimeSpan.FromSeconds(5)
         );
 
+    /// <summary>
+    /// The CQL pattern
+    /// </summary>
     public static readonly Regex CqlPattern =
         new(
             @"^(?<code>\d{1,3})\s(?<nome>.+?)\s(?<ispb>\d{7,8})\s(?<tipo>.+?)$",
+            RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled,
+            TimeSpan.FromSeconds(5)
+        );
+
+    /// <summary>
+    /// The detecta flow pattern
+    /// </summary>
+    public static readonly Regex DetectaFlowPattern =
+        new(
+            @"^(?<code>\d{1,3})\s(?<nome>.+?)\s(?<cnpj>\d{1,2}\.\d{3}\.\d{3}(?:.|\/)\d{4}([-|·|\.|\s]{1,2})\d{2})\s+(?<ispb>\d{7,8})$",
             RegexOptions.CultureInvariant | RegexOptions.IgnoreCase | RegexOptions.Compiled,
             TimeSpan.FromSeconds(5)
         );

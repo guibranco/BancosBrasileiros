@@ -14,13 +14,13 @@
 
 namespace BancosBrasileiros.MergeTool;
 
+using Dto;
+using Helpers;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Dto;
-using Helpers;
-using Newtonsoft.Json;
 
 /// <summary>
 /// Class Worker.
@@ -39,6 +39,23 @@ internal class Worker
         var source = reader.LoadBase();
         var original = DeepClone(source);
 
+        AcquireData(reader, source);
+
+        if (ProcessData(original, ref source, out var except))
+        {
+            return;
+        }
+
+        ProcessChanges(source, except);
+    }
+
+    /// <summary>
+    /// Acquires the data.
+    /// </summary>
+    /// <param name="reader">The reader.</param>
+    /// <param name="source">The source.</param>
+    private static void AcquireData(Reader reader, List<Bank> source)
+    {
         var ctc = reader.LoadCtc();
         var siloc = reader.LoadSiloc();
         var sitraf = reader.LoadSitraf();
@@ -47,9 +64,10 @@ internal class Worker
         var str = reader.LoadStr();
         var pcps = reader.LoadPcps();
         var cql = reader.LoadCql();
+        var detectaFlow = reader.LoadDetectaFlow();
 
         Logger.Log(
-            $"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} | CQL: {cql.Count}\r\n",
+            $"Source: {source.Count} | CTC: {ctc.Count} | SILOC: {siloc.Count} | SITRAF: {sitraf.Count} | SLC: {slc.Count} | SPI: {spi.Count} | STR: {str.Count} | PCPS: {pcps.Count} | CQL: {cql.Count} | Detecta Flow: {detectaFlow.Count}\r\n",
             ConsoleColor.DarkGreen
         );
 
@@ -62,8 +80,23 @@ internal class Worker
             .SeedCtc(ctc)
             .SeedSiloc(siloc)
             .SeedPcps(pcps)
-            .SeedCql(cql);
+            .SeedCql(cql)
+            .SeedDetectaFlow(detectaFlow);
+    }
 
+    /// <summary>
+    /// Processes the data.
+    /// </summary>
+    /// <param name="original">The original.</param>
+    /// <param name="source">The source.</param>
+    /// <param name="except">The except.</param>
+    /// <returns><c>true</c> if XXXX, <c>false</c> otherwise.</returns>
+    private static bool ProcessData(
+        List<Bank> original,
+        ref List<Bank> source,
+        out List<Bank> except
+    )
+    {
         foreach (var bank in source)
         {
             bank.DateRegistered ??= DateTimeOffset.UtcNow;
@@ -84,15 +117,25 @@ internal class Worker
 
         source = source.Where(b => b.Ispb != 0 || b.Compe == 1).ToList();
 
-        var except = source.Except(original).ToList();
+        except = source.Except(original).ToList();
 
-        if (!except.Any())
+        if (except.Any())
         {
-            Logger.Log("No new data or updated information", ConsoleColor.DarkMagenta);
-            Environment.Exit(1);
-            return;
+            return false;
         }
 
+        Logger.Log("No new data or updated information", ConsoleColor.DarkMagenta);
+        Environment.Exit(1);
+        return true;
+    }
+
+    /// <summary>
+    /// Processes the changes.
+    /// </summary>
+    /// <param name="source">The source.</param>
+    /// <param name="except">The except.</param>
+    private static void ProcessChanges(List<Bank> source, List<Bank> except)
+    {
         var added = new List<Bank>();
         var updated = new List<Bank>();
 

@@ -63,4 +63,9 @@ internal enum Source
     /// The CQL.
     /// </summary>
     Cql,
+
+    /// <summary>
+    /// The detecta flow
+    /// </summary>
+    DetectaFlow,
 }

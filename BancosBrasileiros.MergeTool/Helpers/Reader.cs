@@ -14,6 +14,10 @@
 
 namespace BancosBrasileiros.MergeTool.Helpers;
 
+using CrispyWaffle.Serialization;
+using Dto;
+using iTextSharp.text.pdf;
+using iTextSharp.text.pdf.parser;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -21,10 +25,6 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Text;
-using CrispyWaffle.Serialization;
-using Dto;
-using iTextSharp.text.pdf;
-using iTextSharp.text.pdf.parser;
 
 /// <summary>
 /// Class Reader.
@@ -57,6 +57,11 @@ internal class Reader
     private int _countingCql;
 
     /// <summary>
+    /// The counting detecta flow
+    /// </summary>
+    private int _countingDetectaFlow;
+
+    /// <summary>
     /// Downloads the string.
     /// </summary>
     /// <param name="url">The URL.</param>
@@ -69,6 +74,13 @@ internal class Reader
         return content.ReadAsStringAsync().Result;
     }
 
+    /// <summary>
+    /// Downloads the and parse PDF.
+    /// </summary>
+    /// <param name="url">The URL.</param>
+    /// <param name="system">The system.</param>
+    /// <param name="callback">The callback.</param>
+    /// <returns>List&lt;Bank&gt;.</returns>
     private static List<Bank> DownloadAndParsePdf(
         string url,
         string system,
@@ -598,12 +610,21 @@ internal class Reader
         };
     }
 
+    /// <summary>
+    /// Loads the CQL.
+    /// </summary>
+    /// <returns>List&lt;Bank&gt;.</returns>
     public List<Bank> LoadCql()
     {
         _countingCql = 0;
         return DownloadAndParsePdf(Constants.CqlUrl, "CQL", ParsePageCql);
     }
 
+    /// <summary>
+    /// Parses the page CQL.
+    /// </summary>
+    /// <param name="page">The page.</param>
+    /// <returns>IEnumerable&lt;Bank&gt;.</returns>
     private IEnumerable<Bank> ParsePageCql(string page)
     {
         var lines = page.Split("\n");
@@ -611,6 +632,11 @@ internal class Reader
         return lines.Select(ParseLineCql).Where(bank => bank != null).ToList();
     }
 
+    /// <summary>
+    /// Parses the line CQL.
+    /// </summary>
+    /// <param name="line">The line.</param>
+    /// <returns>Bank.</returns>
     private Bank ParseLineCql(string line)
     {
         if (!Patterns.CqlPattern.IsMatch(line))
@@ -628,6 +654,57 @@ internal class Reader
             LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
             Type = match.Groups["tipo"].Value.Trim(),
             LegalCheque = true
+        };
+    }
+
+    /// <summary>
+    /// Loads the detecta flow.
+    /// </summary>
+    /// <returns>List&lt;Bank&gt;.</returns>
+    public List<Bank> LoadDetectaFlow()
+    {
+        _countingDetectaFlow = 0;
+        return DownloadAndParsePdf(Constants.DetectaFlowUrl, "DetectaFlow", ParsePageDetectaFlow);
+    }
+
+    /// <summary>
+    /// Parses the page detecta flow.
+    /// </summary>
+    /// <param name="page">The page.</param>
+    /// <returns>IEnumerable&lt;Bank&gt;.</returns>
+    private IEnumerable<Bank> ParsePageDetectaFlow(string page)
+    {
+        var lines = page.Split("\n");
+
+        return lines.Select(ParseLineDetectaFlow).Where(bank => bank != null).ToList();
+    }
+
+    /// <summary>
+    /// Parses the line detecta flow.
+    /// </summary>
+    /// <param name="line">The line.</param>
+    /// <returns>Bank.</returns>
+    private Bank ParseLineDetectaFlow(string line)
+    {
+        if (!Patterns.DetectaFlowPattern.IsMatch(line))
+            return null;
+
+        var match = Patterns.DetectaFlowPattern.Match(line);
+        var code = Convert.ToInt32(match.Groups["code"].Value.Trim());
+
+        _countingDetectaFlow++;
+        if (_countingDetectaFlow != code)
+            Logger.Log(
+                $"DetectaFlow | Counting: {_countingDetectaFlow++} | Code: {code}",
+                ConsoleColor.DarkYellow
+            );
+
+        return new Bank
+        {
+            Document = match.Groups["cnpj"].Value.Trim(),
+            IspbString = match.Groups["ispb"].Value.Trim(),
+            LongName = match.Groups["nome"].Value.Replace("\"", "").Trim(),
+            DetectaFlow = true
         };
     }
 }

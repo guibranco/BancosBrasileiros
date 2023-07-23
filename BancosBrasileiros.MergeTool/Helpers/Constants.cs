@@ -77,4 +77,10 @@ internal static class Constants
     /// </summary>
     public const string CqlUrl =
         "https://www2.nuclea.com.br/SAP/Rela%C3%A7%C3%A3o%20de%20Participantes%20CQL.pdf";
+
+    /// <summary>
+    /// The DetectaFlow URL
+    /// </summary>
+    public const string DetectaFlowUrl =
+        "https://www2.nuclea.com.br/SAP/Rela%C3%A7%C3%A3o%20de%20Participantes%20-%20Detecta%20Flow.pdf";
 }

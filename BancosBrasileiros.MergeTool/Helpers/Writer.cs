@@ -18,7 +18,6 @@ using CrispyWaffle.Serialization;
 using Dto;
 using Newtonsoft.Json;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.IO;
 using System.Linq;
@@ -81,7 +80,7 @@ internal static class Writer
         lines.AddRange(
             banks.Select(
                 bank =>
-                    $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Network},{bank.Type},{bank.PixType},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "" : bank.ChargeStr.ToCamelCase())},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "" : bank.CreditDocumentStr.ToCamelCase())},{(bank.LegalCheque ? "Sim" : "Não")},{bank.SalaryPortability},{(bank.Products == null ? "" : string.Join("; ", bank.Products))},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"
+                    $"{bank.Compe:000},{bank.Ispb:00000000},{bank.Document},{bank.LongName.Replace(",", "")},{bank.ShortName.Replace(",", "")},{bank.Network},{bank.Type},{bank.PixType},{(string.IsNullOrWhiteSpace(bank.ChargeStr) ? "" : bank.ChargeStr.ToCamelCase())},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) ? "" : bank.CreditDocumentStr.ToCamelCase())},{(bank.LegalCheque ? "Sim" : "Não")},{(bank.DetectaFlow ? "Sim" : "Não")},{bank.SalaryPortability},{(bank.Products == null ? "" : string.Join("; ", bank.Products))},{bank.Url},{bank.DateOperationStarted},{bank.DatePixStarted},{bank.DateRegistered:O},{bank.DateUpdated:O}"
             )
         );
 
@@ -105,7 +104,7 @@ internal static class Writer
         lines.AddRange(
             banks.Select(
                 bank =>
-                    $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.ChargeStr) || !bank.Charge.HasValue ? "-" : (bank.Charge.Value ? "Sim" : "Não"))} | {(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) || !bank.CreditDocument.HasValue ? "-" : (bank.CreditDocument.Value ? "Sim" : "Não"))} | {(bank.LegalCheque ? "Sim" : "Não")} | {(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "-" : bank.SalaryPortability)} | {(bank.Products == null ? "-" : string.Join(",", bank.Products))} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"
+                    $"{bank.Compe:000} | {bank.Ispb:00000000} | {bank.Document} | {bank.LongName} | {bank.ShortName} | {(string.IsNullOrWhiteSpace(bank.Network) ? "-" : bank.Network)} | {(string.IsNullOrWhiteSpace(bank.Type) ? "-" : bank.Type)} | {(string.IsNullOrWhiteSpace(bank.PixType) ? "-" : bank.PixType)} | {(string.IsNullOrWhiteSpace(bank.ChargeStr) || !bank.Charge.HasValue ? "-" : (bank.Charge.Value ? "Sim" : "Não"))} | {(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) || !bank.CreditDocument.HasValue ? "-" : (bank.CreditDocument.Value ? "Sim" : "Não"))} | {(bank.LegalCheque ? "Sim" : "Não")} | {(bank.DetectaFlow ? "Sim" : "Não")} | {(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "-" : bank.SalaryPortability)} | {(bank.Products == null ? "-" : string.Join(",", bank.Products))} | {(string.IsNullOrWhiteSpace(bank.Url) ? "-" : bank.Url)} | {(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "-" : bank.DateOperationStarted)} | {(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "-" : bank.DatePixStarted)} | {bank.DateRegistered:O} | {bank.DateUpdated:O}"
             )
         );
 
@@ -124,7 +123,7 @@ internal static class Writer
         lines.AddRange(
             banks.Select(
                 bank =>
-                    $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName.Replace("'", "''")}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.PixType) ? "NULL" : $"'{bank.PixType}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.ChargeStr) || !bank.Charge.HasValue ? "NULL" : $"{(bank.Charge.Value ? 1 : 0)}")},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) || !bank.CreditDocument.HasValue ? "NULL" : $"{(bank.CreditDocument.Value ? 1 : 0)}")},'{(bank.LegalCheque ? 1 : 0)}',{(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "NULL" : $"'{bank.SalaryPortability}'")},{(bank.Products == null ? "NULL" : $"'{string.Join(",", bank.Products)}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},{(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "NULL" : $"'{bank.DatePixStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}');"
+                    $"{prefix}'{bank.Compe:000}','{bank.Ispb:00000000}','{bank.Document}','{bank.LongName.Replace("'", "''")}','{bank.ShortName}',{(string.IsNullOrWhiteSpace(bank.Type) ? "NULL" : $"'{bank.Type}'")},{(string.IsNullOrWhiteSpace(bank.PixType) ? "NULL" : $"'{bank.PixType}'")},{(string.IsNullOrWhiteSpace(bank.Network) ? "NULL" : $"'{bank.Network}'")},{(string.IsNullOrWhiteSpace(bank.ChargeStr) || !bank.Charge.HasValue ? "NULL" : $"{(bank.Charge.Value ? 1 : 0)}")},{(string.IsNullOrWhiteSpace(bank.CreditDocumentStr) || !bank.CreditDocument.HasValue ? "NULL" : $"{(bank.CreditDocument.Value ? 1 : 0)}")},{(bank.LegalCheque ? 1 : 0)},{(bank.DetectaFlow ? 1 : 0)},{(string.IsNullOrWhiteSpace(bank.SalaryPortability) ? "NULL" : $"'{bank.SalaryPortability}'")},{(bank.Products == null ? "NULL" : $"'{string.Join(",", bank.Products)}'")},{(string.IsNullOrWhiteSpace(bank.Url) ? "NULL" : $"'{bank.Url}'")},{(string.IsNullOrWhiteSpace(bank.DateOperationStarted) ? "NULL" : $"'{bank.DateOperationStarted}'")},{(string.IsNullOrWhiteSpace(bank.DatePixStarted) ? "NULL" : $"'{bank.DatePixStarted}'")},'{bank.DateRegistered:O}','{bank.DateUpdated:O}');"
             )
         );
 
