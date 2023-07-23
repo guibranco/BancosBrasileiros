@@ -35,6 +35,7 @@ type BankElement struct {
 	Charge               bool      `json:"Charge"`
 	CreditDocument       bool      `json:"CreditDocument"`
 	LegalCheque			 bool	   `json:"LegalCheque"`
+	DetectaFlow			 bool	   `json:"DetectaFlow"`
 	SalaryPortability    string    `json:"SalaryPortability"`
 	Products             []string  `json:"Products"`
 	URL                  string    `json:"Url"`

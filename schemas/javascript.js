@@ -159,6 +159,7 @@ const typeMap = {
         { json: "Charge", js: "Charge", typ: "" },
         { json: "CreditDocument", js: "CreditDocument", typ: "" },
         { json: "LegalCheque", js: "LegalCheque", typ: "" },
+        { json: "DetectaFlow", js: "DetectaFlow", typ: "" },
         { json: "SalaryPortability", js: "SalaryPortability", typ: "" },
         { json: "Products", js: "Products", typ: "" },
         { json: "Url", js: "Url", typ: u(null, "") },

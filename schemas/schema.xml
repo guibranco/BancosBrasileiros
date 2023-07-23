@@ -17,7 +17,8 @@
               <xs:element name="PixType" type="xs:string" />
               <xs:element name="Charge" type="xs:boolean" />
               <xs:element name="CreditDocument" type="xs:boolean" />
-              <xs:element name="LegalCheque" type="xs:string" />
+              <xs:element name="LegalCheque" type="xs:boolean" />
+              <xs:element name="DetectaFlow" type="xs:boolean" />
               <xs:element name="SalaryPortability" type="xs:string" />
               <xs:element name="Products">
                 <xs:complexType>
