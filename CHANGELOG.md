@@ -4,6 +4,19 @@
 
 ## Changelog
 
+### 2023-07-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 9 banks
+	- 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
+	- 85 - COOPCENTRAL AILOS - 05.463.212/0001-29
+	- 89 - CREDISAN CC - 62.109.566/0001-03
+	- 121 - BCO AGIBANK S.A. - 10.664.513/0001-50
+	- 133 - CRESOL CONFEDERAÇÃO - 10.398.952/0001-69
+	- 208 - BANCO BTG PACTUAL S.A. - 30.306.294/0001-45
+	- 655 - BCO VOTORANTIM S.A. - 59.588.111/0001-03
+	- 746 - BCO MODAL S.A. - 30.723.886/0001-62
+	- 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
+
 
 ### 2023-07-23 - [GuiBranco](https://gitbub.com/guibranco):
 
