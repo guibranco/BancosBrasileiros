@@ -9,7 +9,8 @@ branches:
 
 skip_commits:
     files:
-    - examples/*
+    - examples/
+    - schemas/
 
 environment:
   nodejs_version: 18
