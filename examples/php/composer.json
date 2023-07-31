@@ -6,6 +6,6 @@
         }
     },
     "require": {
-        "guibranco/bancos-brasileiros": "^4.0"
+        "guibranco/bancos-brasileiros": "^5.0"
     }
 }
