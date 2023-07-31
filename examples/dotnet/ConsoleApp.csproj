@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="BancosBrasileiros" Version="4.0.45" />
+    <PackageReference Include="BancosBrasileiros" Version="5.0.12" />
   </ItemGroup>
 
 </Project>
