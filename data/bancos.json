@@ -4102,7 +4102,7 @@
     "ShortName": "AL5 S.A. CFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "DRCT",
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -4118,9 +4118,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2019-10-24",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2023-08-01 15:22:55",
     "DateRegistered": "2021-05-05T09:11:12.7114967-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5466857+00:00"
+    "DateUpdated": "2023-08-02T12:05:44.3549376+00:00"
   },
   {
     "COMPE": "350",

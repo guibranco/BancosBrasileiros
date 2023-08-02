@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-08-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 349 - AL5 S.A. CFI - 27.214.112/0001-00
+
 ### 2023-07-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 9 banks
