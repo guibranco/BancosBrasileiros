@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-08-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
+
+- Updated 1 bank
+	- 77 - BANCO INTER - 00.416.968/0001-01
+
 ### 2023-08-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):
 
 - Updated 1 bank

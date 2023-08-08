@@ -700,7 +700,7 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
-    <DetectaFLow>false</DetectaFLow>
+    <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -712,7 +712,7 @@
     <DateOperationStarted>2008-08-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112852-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6479568Z</DateUpdated>
+    <DateUpdated>2023-08-08T12:05:39.2907363Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>078</COMPE>
