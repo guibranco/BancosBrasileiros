@@ -220,6 +220,13 @@ For those unfamiliar with Brazilian financial/regulatory entities:
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/MauriciDmarc">
+            <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
+            <br />
+            <sub><b>Maurici Dmarco</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/rafaeldomi">
             <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
             <br />
@@ -246,7 +253,8 @@ For those unfamiliar with Brazilian financial/regulatory entities:
             <br />
             <sub><b>Rodrigo Castro</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vduggen">
             <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
