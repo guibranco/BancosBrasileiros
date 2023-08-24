@@ -30,10 +30,10 @@
             Console.Write("Buscar COMPE (3 dígitos): ");
             var compe = Console.ReadLine();
 
-            filterBanks(compe);
+            FilterBanks(compe);
         }
 
-        private static void filterBanks(string compe)
+        private static void FilterBanks(string compe)
         {
             Console.Clear();
 
@@ -73,7 +73,7 @@
                 Console.Clear();
                 Console.Write("Buscar COMPE (3 dígitos): ");
                 compe = Console.ReadLine();
-                filterBanks(compe);
+                FilterBanks(compe);
             }
         }
     }
