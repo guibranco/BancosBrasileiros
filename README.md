@@ -15,7 +15,9 @@ Brazilian commercial banks list
 
 ![Bancos Brasileiros logo](https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/logo.png)
 
-***Para a versão em português do README.md, [siga me](/README.pt-br.md) por favor.***
+> **Note**
+>
+> Para a versão em Português *(PT_BR)* do README.md, [siga me](/README.pt-br.md) por favor.
 
 ---
 
