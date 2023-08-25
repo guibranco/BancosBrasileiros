@@ -24,8 +24,8 @@ func (r *Bank) Marshal() ([]byte, error) {
 }
 
 type BankElement struct {
-	Compe                string    `json:"COMPE"`
-	Ispb                 string    `json:"ISPB"`
+	Compe                string    `json:"COMPE"`//Compensação de Cheques e Outros Papéis
+	Ispb                 string    `json:"ISPB"`//Identificador de Sistema de Pagamento Brasileiro
 	Document             string    `json:"Document"`
 	LongName             string    `json:"LongName"`
 	ShortName            string    `json:"ShortName"`

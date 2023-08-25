@@ -51,9 +51,9 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 public class Bank implements Serializable
 {
 
-@JsonProperty("COMPE")
+@JsonProperty("COMPE")//Compensação de Cheques e Outros Papéis
 private String compe;
-@JsonProperty("ISPB")
+@JsonProperty("ISPB")//Identificador de Sistema de Pagamento Brasileiro
 private String ispb;
 @JsonProperty("Document")
 private String document;
