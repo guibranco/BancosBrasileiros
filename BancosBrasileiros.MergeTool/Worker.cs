@@ -154,7 +154,7 @@ internal class Worker
         var color = ConsoleColor.DarkGreen;
 
         changeLog.AppendLine(
-            $"### {DateTime.Now:yyyy-MM-dd} - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool):\r\n"
+            $"### {DateTime.Now:yyyy-MM-dd} - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)\r\n"
         );
 
         if (added.Any())
