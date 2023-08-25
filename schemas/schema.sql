@@ -11,6 +11,7 @@ CREATE TABLE Banks (
     Charge BIT NULL,
     CreditDocument BIT NULL,
     LegalCheque BIT,
+    DetectaFlow BIT,
     SalaryPortability VARCHAR(100) NULL,
     Products TEXT NULL,
     Url VARCHAR(255) NULL,
