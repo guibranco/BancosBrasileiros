@@ -30,7 +30,7 @@ namespace BancosBrasileiros
         public string PixType { get; set; }
 
         [JsonProperty("Charge")]
-        public bool? Charge { get; set;}
+        public bool? Charge { get; set; }
 
         [JsonProperty("CreditDocument")]
         public bool? CreditDocument { get; set; }
