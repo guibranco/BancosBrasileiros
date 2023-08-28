@@ -28,7 +28,7 @@
 	- 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
 
 
-### 2023-07-23 - [GuiBranco](https://gitbub.com/guibranco):
+### 2023-07-23 - [GuiBranco](https://gitbub.com/guibranco)
 
 - [Issue #235](http://github.com/guibranco/bancosBrasileiros/issues/235) - Added Detecta Flow
 
@@ -51,7 +51,7 @@
 	- 748 - BCO COOPERATIVO SICREDI S.A. - 01.181.521/0001-55
 	- 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
 
-### 2023-07-22 - [GuiBranco](https://gitbub.com/guibranco):
+### 2023-07-22 - [GuiBranco](https://gitbub.com/guibranco)
 
 - [Issue #194](http://github.com/guibranco/bancosBrasileiros/issues/194) - Added Legal Cheque
 
