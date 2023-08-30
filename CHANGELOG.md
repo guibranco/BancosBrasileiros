@@ -4,13 +4,6 @@
 
 ## Changelog
 
-### 2023-08-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
-
-- Added 1 bank
-	- 555 - PAN FINANCEIRA S.A. - 02.682.287/0001-02
-- Updated 1 bank
-	- 481 - SUPERLÓGICA SCD S.A. - 43.599.047/0001-26
-
 ### 2023-08-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
 
 - Updated 1 bank
