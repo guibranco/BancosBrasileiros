@@ -88,16 +88,9 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
-      - name: Test
-        run: |
-          git status
-          ls
-          cd data
-          ls
-          git status
       - name: Commit and Push
         if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git add .
           git commit -m "Daily updates (bot)"
-          #git push origin main
+          git push origin main
