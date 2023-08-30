@@ -93,6 +93,9 @@ jobs:
           git status
           ls
           cd data
+          ls
+          git status
+          git add -a
 
       - name: Commit and Push
         if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
