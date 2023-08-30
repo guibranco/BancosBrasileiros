@@ -6356,7 +6356,7 @@
     "ShortName": "SUPERLÓGICA SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "LegalCheque": false,
@@ -6365,9 +6365,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-08-29",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-08-21 09:00:00",
     "DateRegistered": "2022-08-24T12:36:20.0513082+00:00",
-    "DateUpdated": "2022-09-10T12:06:04.146867+00:00"
+    "DateUpdated": "2023-08-30T14:47:13.0817076+00:00"
   },
   {
     "COMPE": "482",
@@ -7150,6 +7150,27 @@
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2023-04-19T12:07:00.4802737+00:00",
     "DateUpdated": "2023-04-19T12:06:59.5516534+00:00"
+  },
+  {
+    "COMPE": "555",
+    "ISPB": "02682287",
+    "Document": "02.682.287/0001-02",
+    "LongName": "PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS",
+    "ShortName": "PAN FINANCEIRA S.A.",
+    "Network": null,
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": null,
+    "DatePixStarted": null,
+    "DateRegistered": "2023-08-30T14:47:14.1131356+00:00",
+    "DateUpdated": "2023-08-30T14:47:14.1131618+00:00"
   },
   {
     "COMPE": "600",
