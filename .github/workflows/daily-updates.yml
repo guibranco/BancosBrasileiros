@@ -95,11 +95,9 @@ jobs:
           cd data
           ls
           git status
-          git add -a
-
       - name: Commit and Push
         if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git add .
           git commit -m "Daily updates (bot)"
-          git push origin main
+          #git push origin main
