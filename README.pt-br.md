@@ -38,7 +38,7 @@ Esta lista contém 300+ bancos cadastrados, nos seguintes formatos:
 Cada uma das listas possui as seguintes informações (schema):
 
 | Coluna | Descrição | Observações |
-|-------------------|:---------------------------------------:|:--------------------------------------------------------------------------:|
+|:------:|:---------:|:-----------:|
 | COMPE | Código - COMPE | 3 dígitos |
 | ISPB | Código - ISPB | 8 dígitos |
 | Document | Documento - CNPJ | 14 números - 18 dígitos (formatado) |
