@@ -4,29 +4,29 @@
 
 ## Changelog
 
-### 2023-09-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-09-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 96 - BCO B3 S.A. - 00.997.185/0001-50
 
-### 2023-08-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-08-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
 	- 555 - PAN FINANCEIRA S.A. - 02.682.287/0001-02
 - Updated 1 bank
 	- 481 - SUPERLÓGICA SCD S.A. - 43.599.047/0001-26
 
-### 2023-08-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-08-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 77 - BANCO INTER - 00.416.968/0001-01
 
-### 2023-08-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-08-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 349 - AL5 S.A. CFI - 27.214.112/0001-00
 
-### 2023-07-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-07-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 9 banks
 	- 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
@@ -44,7 +44,7 @@
 
 - [Issue #235](http://github.com/guibranco/bancosBrasileiros/issues/235) - Added Detecta Flow
 
-### 2023-07-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-07-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 15 banks
 	- 1 - BCO DO BRASIL S.A. - 00.000.000/0001-91
@@ -67,17 +67,17 @@
 
 - [Issue #194](http://github.com/guibranco/bancosBrasileiros/issues/194) - Added Legal Cheque
 
-### 2023-07-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-07-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 189 - HS FINANCEIRA - 07.512.441/0001-11
 
-### 2023-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 280 - WILL FINANCEIRA S.A.CFI - 23.862.762/0001-00
 
-### 2023-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 5 banks
 	- 10 - CREDICOAMO - 81.723.108/0001-04
@@ -86,88 +86,88 @@
 	- 478 - GAZINCRED S.A. SCFI - 11.760.553/0001-69
 	- 536 - NEON PAGAMENTOS S.A. IP - 20.855.875/0001-82
 
-### 2023-06-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-06-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 224 - BCO FIBRA S.A. - 58.616.418/0001-08
 
-### 2023-06-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-06-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 529 - PINBANK IP - 17.079.937/0001-05
 
-### 2023-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 429 - CREDIARE CFI S.A. - 05.676.026/0001-78
 
-### 2023-04-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 16 - CCM DESP TRÂNS SC E RS - 04.715.685/0001-03
 
-### 2023-04-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 546 - U4C INSTITUIÇÃO DE PAGAMENTO S.A. - 30.980.539/0001-15
 
-### 2023-04-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 457 - UY3 SCD S/A - 39.587.424/0001-30
 
-### 2023-04-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 539 - SANTINVEST S.A. - CFI - 00.122.327/0001-36
 
-### 2023-04-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 128 - BRAZA BANK S.A. BCO DE CÂMBIO - 19.307.785/0001-78
 
-### 2023-04-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 128 - BRAZA BANK S.A. BCO DE CÂMBIO - 19.307.785/0001-78
 
-### 2023-04-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 523 - HR DIGITAL SCD - 44.292.580/0001-03
 
-### 2023-04-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
 	- 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
 	- 183 - SOCRED SA - SCMEPP - 09.210.106/0001-94
 	- 511 - MAGNUM SCD - 44.683.140/0001-87
 
-### 2023-04-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
 	- 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
 	- 89 - CREDISAN CC - 62.109.566/0001-03
 
-### 2023-04-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 299 - BCO AFINZ S.A. - BM - 04.814.563/0001-74
 
-### 2023-04-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-04-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
 	- 403 - CORA SCD S.A. - 37.880.206/0001-63
 	- 530 - SER FINANCE SCD S.A. - 47.873.449/0001-28
 
-### 2023-03-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
 	- 452 - CREDIFIT SCD S.A. - 39.676.772/0001-83
 	- 534 - EWALLY IP S.A. - 00.714.671/0001-14
 	- 532 - EAGLE SCD S.A. - 45.745.537/0001-19
 
-### 2023-03-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 4 banks
 	- 403 - CORA SCD S.A. - 37.880.206/0001-63
@@ -175,7 +175,7 @@
 	- 509 - CELCOIN IP S.A. - 13.935.893/0001-09
 	- 516 - QISTA S.A. CFI - 36.583.700/0001-01
 
-### 2023-03-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 7 banks
 	- 99 - UNIPRIME COOPCENTRAL LTDA. - 03.046.391/0001-73
@@ -186,50 +186,50 @@
 	- 429 - CREDIARE CFI S.A. - 05.676.026/0001-78
 	- 516 - QISTA S.A. CFI - 36.583.700/0001-01
 
-### 2023-03-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 537 - MICROCASH SCMEPP LTDA. - 45.756.448/0001-78
 
-### 2023-03-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
 	- 421 - CC LAR CREDI - 39.343.350/0001-96
 	- 522 - RED SCD S.A. - 47.593.544/0001-78
 
-### 2023-03-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 465 - CAPITAL CONSIG SCD S.A. - 40.083.667/0001-10
 
-### 2023-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
 	- 285 - FRENTE CC S.A. - 71.677.850/0001-77
 	- 511 - MAGNUM SCD - 44.683.140/0001-87
 	- 141 - MASTER BI S.A. - 09.526.594/0001-43
 
-### 2023-03-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 655 - BCO VOTORANTIM S.A. - 59.588.111/0001-03
 
-### 2023-03-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 530 - SER FINANCE SCD S.A. - 47.873.449/0001-28
 
-### 2023-03-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 286 - UNIPRIME OURO - COOP DE OURO - 07.853.842/0001-35
 
-### 2023-03-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 439 - ID CTVM - 16.695.922/0001-09
 
-### 2023-03-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2023-03-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 50 banks
 	- 3 - BCO DA AMAZONIA S.A. - 04.902.979/0001-44
@@ -283,145 +283,145 @@
 	- 524 - WNT CAPITAL DTVM - 45.854.066/0001-87
 	- 526 - MONETARIE SCD - 46.026.562/0001-05
 
-### 2022-12-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 425 - SOCINAL S.A. CFI - 03.881.423/0001-56
 
-### 2022-12-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 449 - DM - 37.555.231/0001-71
 
-### 2022-12-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 449 - DMCARD SCD S.A. - 37.555.231/0001-71
 
-### 2022-12-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
 	- 286 - UNIPRIME OURO - COOP DE OURO - 07.853.842/0001-35
 	- 299 - BCO AFINZ S.A. - BM - 04.814.563/0001-74
 
-### 2022-12-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 332 - ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO - 13.140.088/0001-99
 
-### 2022-12-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 332 - ACESSO SOLUÇÕES DE PAGAMENTO S.A. – INSTITUIÇÃO DE PAGAMENTO - 13.140.088/0001-99
 
-### 2022-12-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
 	- 359 - ZEMA CFI S/A - 05.351.887/0001-86
 	- 507 - GERENCIANET CFI - 37.229.413/0001-52
 
-### 2022-12-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 519 - LIONS TRUST DTVM - 40.768.766/0001-35
 
-### 2022-12-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 364 - GERENCIANET IP - 09.089.356/0001-18
 
-### 2022-12-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-12-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 12 - BANCO INBURSA - 04.866.275/0001-63
 
-### 2022-11-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-11-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
 	- 525 - INTERCAM CC LTDA - 34.265.629/0001-85
 	- 455 - FÊNIX DTVM LTDA. - 38.429.045/0001-59
 	- 513 - ATF CREDIT SCD S.A. - 44.728.700/0001-72
 
-### 2022-11-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-11-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 312 - HSCM SCMEPP LTDA. - 07.693.858/0001-28
 
-### 2022-11-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-11-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 427 - CRED-UFES - 27.302.181/0001-67
 
-### 2022-11-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-11-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 510 - FFCRED SCD S.A. - 39.738.065/0001-74
 
-### 2022-11-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-11-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
 	- 88 - BANCO RANDON S.A. - 11.476.673/0001-39
 	- 529 - PINBANK IP - 17.079.937/0001-05
 
-### 2022-11-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-11-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 512 - FINVEST DTVM - 36.266.751/0001-00
 
-### 2022-10-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
 	- 402 - COBUCCIO S.A. SCFI - 36.947.229/0001-85
 	- 414 - LEND SCD S.A. - 37.526.080/0001-23
 	- 450 - FITBANK IP - 13.203.354/0001-85
 
-### 2022-10-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 402 - COBUCCIO S.A. SCFI - 36.947.229/0001-85
 
-### 2022-10-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
 	- 407 - ÍNDIGO INVESTIMENTOS DTVM LTDA. - 00.329.598/0001-67
 	- 412 - SOCIAL BANK S/A - 15.173.776/0001-80
 
-### 2022-10-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 461 - ASAAS IP S.A. - 19.540.550/0001-21
 
-### 2022-10-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
 	- 516 - FC FINANCEIRA S.A. - CFI - 36.583.700/0001-01
 
-### 2022-10-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 444 - TRINUS SCD S.A. - 40.654.622/0001-58
 
-### 2022-10-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 449 - DMCARD SCD S.A. - 37.555.231/0001-71
 
-### 2022-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
 	- 482 - SBCASH SCD - 42.259.084/0001-22
 
-### 2022-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 457 - UY3 SCD S/A - 39.587.424/0001-30
 
-### 2022-09-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-09-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 301 - DOCK IP S.A. - 13.370.835/0001-85
 
-### 2022-09-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-09-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 4 banks
 	- 274 - BMP SCMEPP LTDA - 11.581.339/0001-45
@@ -429,20 +429,20 @@
 	- 396 - HUB IP S.A. - 13.884.775/0001-19
 	- 410 - PLANNER SOCIEDADE DE CRÉDITO DIRETO - 05.684.234/0001-19
 
-### 2022-09-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-09-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - [Issue #143](https://github.com/guibranco/bancosBrasileiros/issues/143) Add new fields to schema files and readme.md 
 
-### 2022-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added new fields to files (release V4)
 
-### 2022-04-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-04-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
 	- 279 - CCR DE PRIMAVERA DO LESTE - 26.563.270/0001-02
 
-### 2022-03-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+### 2022-03-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
     - 478 - GAZINCRED S.A. SCFI
