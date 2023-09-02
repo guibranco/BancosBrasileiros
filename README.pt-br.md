@@ -160,6 +160,16 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 ---
 
+## Atualizações
+
+Os dados são atualizados diariamente de forma automática por meio de uma [ferramenta](https://github.com/guibranco/BancosBrasileiros-MergeTool) que coleta as informações de listas de fontes oficiais.
+
+> **Warning**
+>
+> Se você encontrar algum problema com os dados, banco ausente ou dados desatualizados, abra um issue neste repositório: [Novo Issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
+
+---
+
 ## Changelog
 
 [Changelog](/CHANGELOG.md)
