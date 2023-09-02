@@ -17,7 +17,7 @@ Brazilian commercial banks list
 
 > **Note**
 >
-> Para a versão em Português *(PT_BR)* do README.md, [siga me](/README.pt-br.md) por favor.
+> Para a versão em Português *(PT_BR)* do README.md, [siga me](/bancosBrasileiros/README.pt-br.md) por favor.
 
 ---
 
