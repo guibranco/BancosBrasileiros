@@ -17,7 +17,7 @@ Lista de bancos comerciais brasileiros
 
 > **Note**
 >
-> For an English *(EN_US)* version of README.md, please [follow me](/README.md).
+> For an English *(EN_US)* version of README.md, please [follow me](https://guibranco.github.io/BancosBrasileiros/).
 
 ---
 
