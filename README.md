@@ -168,7 +168,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
 >
 > If you find any issues with the data, missing database, or outdated data, please open an issue in this repository: [New Issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
 
---
+---
 
 ## Changelog
 
