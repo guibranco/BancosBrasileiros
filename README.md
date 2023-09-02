@@ -42,7 +42,7 @@ Each of the lists has the following information (schema):
 | COMPE | Code - COMPE | 3 digits |
 | ISPB | Code - ISPB | 8 digits |
 | Document | Document - CNPJ | 14 numbers - 18 digits (formatted) |
-| LongName | Long name  | According to BACEN - STR |
+| LongName | Long name | According to BACEN - STR |
 | ShortName | Short name | According to BACEN - STR|
 | Network | Network | RSFN, Internet, null |
 | Type | Type | commercial, multiple, savings, null |
