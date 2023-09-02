@@ -1154,7 +1154,7 @@
     "ShortName": "BCO B3 S.A.",
     "Network": "RSFN",
     "Type": "Banco Comercial",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -1163,9 +1163,9 @@
     "Products": null,
     "Url": "https://www.bmfbovespa.com.br/bancobmfbovespa/",
     "DateOperationStarted": "2004-11-12",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-09-11 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711375-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3413284+00:00"
+    "DateUpdated": "2023-09-02T12:05:07.7442102+00:00"
   },
   {
     "COMPE": "097",

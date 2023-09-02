@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-09-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
+
+- Updated 1 bank
+	- 96 - BCO B3 S.A. - 00.997.185/0001-50
+
 ### 2023-08-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros/tree/MergeTool)
 
 - Added 1 bank

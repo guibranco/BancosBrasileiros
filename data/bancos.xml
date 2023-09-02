@@ -1012,14 +1012,16 @@
     <ShortName>BCO B3 S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Comercial</Type>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Url>https://www.bmfbovespa.com.br/bancobmfbovespa/</Url>
     <DateOperationStarted>2004-11-12</DateOperationStarted>
+    <DatePixStarted>2023-09-11 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711375-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3413284Z</DateUpdated>
+    <DateUpdated>2023-09-02T12:05:07.7442102Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>097</COMPE>
