@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout MergeTool
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: guibranco/BancosBrasileiros-MergeTool
 
@@ -55,7 +55,7 @@ jobs:
     steps:
 
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Check artifact banks files
         uses: xSAVIKx/artifact-exists-action@v0
