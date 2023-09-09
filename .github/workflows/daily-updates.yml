@@ -41,7 +41,7 @@ jobs:
             exit "$exitcode"
 
       - name: Send webhook
-        if: failure() && env.exitcode != 2
+        if: env.exitcode != 0 && env.exitcode != 2
         uses: distributhor/workflow-webhook@v3
         env:
           webhook_type: 'json-extended'
@@ -53,14 +53,14 @@ jobs:
 
       - name: Upload banks files
         uses: actions/upload-artifact@v3
-        if: success()
+        if: env.exitcode == 0
         with:
           name: bankFiles
           path: ./BancosBrasileiros.MergeTool/result/bancos.*
 
       - name: Upload changelog file
         uses: actions/upload-artifact@v3
-        if: success()
+        if: env.exitcode == 0
         with:
           name: changeLogFile
           path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md
