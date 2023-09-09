@@ -33,8 +33,23 @@ jobs:
       - name: Run
         continue-on-error: true
         run: |
+            set +e
             cd BancosBrasileiros.MergeTool
             dotnet run --configuration Release
+            exitcode="$?"
+            echo "exitcode=$exitcode" >> $GITHUB_ENV
+            exit "$exitcode"
+
+      - name: Send webhook
+        if: failure() && env.exitcode != 2
+        uses: distributhor/workflow-webhook@v3
+        env:
+          webhook_type: 'json-extended'
+          event_name: 'release'
+          webhook_url: ${{ secrets.RWEBHOOK_URL }}
+          webhook_secret: '{"x-github-release-token": "${{ secrets.WEBHOOK_TOKEN }}"}'
+          data: '{ "error_code": "${{ env.exitcode }}" }'
+          
 
       - name: Upload banks files
         uses: actions/upload-artifact@v3
