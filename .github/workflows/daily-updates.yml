@@ -12,6 +12,8 @@ jobs:
   build:
     name: Build
     runs-on: ubuntu-latest
+    outputs:
+      exitcode: ${{ steps.run.outputs.exitcode }}
 
     steps:
       - name: Checkout MergeTool
@@ -32,12 +34,14 @@ jobs:
 
       - name: Run
         continue-on-error: true
+        id: run
         run: |
             set +e
             cd BancosBrasileiros.MergeTool
             dotnet run --configuration Release
             exitcode="$?"
             echo "exitcode=$exitcode" >> $GITHUB_ENV
+            echo "exitcode=$exitcode" >> $GITHUB_OUTPUT
             exit "$exitcode"
 
       - name: Send webhook
@@ -68,6 +72,7 @@ jobs:
     name: Update
     runs-on: ubuntu-latest
     needs: build
+    if: ${{ needs.build.outputs.exitcode == 0 }}
     steps:
 
       - name: Checkout
