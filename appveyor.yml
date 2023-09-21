@@ -9,8 +9,11 @@ branches:
 
 skip_commits:
     files:
+    - .config/
+    - .github/
     - examples/
     - schemas/
+    - src/
 
 environment:
   nodejs_version: 18
