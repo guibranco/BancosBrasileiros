@@ -142,21 +142,8 @@ composer require guibranco/bancos-brasileiros
 
 Para aqueles que não estão familiarizados com entidades financeiras/regulatórias brasileiras:
 
-- **ABBC** - Associação Brasileira de Bancos
-- **BCB** - Banco Central do Brasil (autoridade reguladora) (também chamado de *BACEN* ou *BC*)
-- **CIP** - Câmara Interbancária de Pagamentos
-- **CNPJ** - Cadastro Nacional de Pessoa Jurídica - *RFB*
-- **COMPE** - Sistema de Compensação de Cheques e Outros Papéis
-- **CPF** - Cadastro Pessoa Física - *RFB*
-- **FEBRABAN** - Federação Brasileira de Bancos
-- **ISPB** - Identificação do *SPB*
-- **PIX** - Pagamentos Instantâneos
-- **RFB** - Receita Federal do Brasil
-- **RSFN** - Rede do *SFN*
-- **SFN** - Sistema Financeiro Nacional
-- **SPB** - Sistema de Pagamentos Brasileiro
-- **SPI** - Sistema de Pagamentos Instantâneos
-- **STR** - Sistema de Transferência de Reserva
+<!--START_SECTION:abbreviations-section-->
+<!--END_SECTION:abbreviations-section-->
 
 ---
 

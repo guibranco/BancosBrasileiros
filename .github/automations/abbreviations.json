@@ -1,0 +1,82 @@
+[
+    {
+        "acronym": "ABBC",
+        "pt_BR": "Associação Brasileira de Bancos",
+        "en_US": "Brazilian Banks Association"
+    },
+    {
+        "acronym": "BCB",
+        "pt_BR": "Banco Central do Brasil (autoridade reguladora) (também conhecido como BACEN ou BC)",
+        "en_US": "Brazilian Central Bank (regulatory authority)(also known as BACEN or BC)"
+    },
+    {
+        "acronym": "CIP",
+        "pt_BR": "Câmara Interbancária de Pagamentos",
+        "en_US": "Interbank Payment Chamber"
+    },
+    {
+        "acronym": "CNPJ",
+        "pt_BR": "Cadastro Nacional de Pessoa Jurídica - RFB",
+        "en_US": "National Register of Legal Entities - RFB"
+    },
+    {
+        "acronym": "COMPE",
+        "pt_BR": "Sistema de Compensação de Cheques e Outros Papéis",
+        "en_US": "Check and Other Papers Compensation System"
+    },
+    {
+        "acronym": "CPF",
+        "pt_BR": "Cadastro de Pessoa Física - RFB",
+        "en_US": "Individual Taxpayer Registry - RFB"
+    },
+    {
+        "acronym": "CVM",
+        "pt_BR": "Comissão de Valores Mobiliários",
+        "en_US": "Securities and Exchange Commission"
+    },
+    {
+        "acronym": "FEBRABAN",
+        "pt_BR": "Federação Brasileira de Bancos",
+        "en_US": "Brazilian Federation of Banks"
+    },
+    {
+        "acronym": "ISPB",
+        "pt_BR": "Identificação de SPB",
+        "en_US": "SPB identification"
+    },
+    {
+        "acronym": "PIX",
+        "pt_BR": "Pagamentos Instantâneos Brasileiro",
+        "en_US": "Brazilian Instant Payments"
+    },
+    {
+        "acronym": "RFB",
+        "pt_BR": "Receita Federal do Brasil",
+        "en_US": "Federal Revenue Service of Brazil"
+    },
+    {
+        "acronym": "RSFN",
+        "pt_BR": "Rede do Sistema Financeiro Nacional",
+        "en_US": "National Financial System Network"
+    },
+    {
+        "acronym": "SFN",
+        "pt_BR": "Sistema Financeiro Nacional",
+        "en_US": "National Financial System"
+    },
+    {
+        "acronym": "SPB",
+        "pt_BR": "Sistema de Pagamentos Brasileiro",
+        "en_US": "Brazilian Payment System"
+    },
+    {
+        "acronym": "SPI",
+        "pt_BR": "Sistema de Pagamentos Instantâneos",
+        "en_US": "Instant Payment System"
+    },
+    {
+        "acronym": "STR",
+        "pt_BR": "Sistema de Transferência de Reservas",
+        "en_US": "Reserves Transfer System"
+    }
+]

@@ -1,0 +1,40 @@
+name: Update experience
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/automations/abbreviations.json
+      - .github/workflows/update-abbreviations.yml
+
+jobs:
+
+  update-readme-with-blog:
+    name: Update this repo's README with abbreviations
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - name: "Read/Write abbreviations in en_US"
+        uses: guibranco/gh-actions-html-table-generator-fork@main
+        with:
+          json-file-path: ".github/automations/abbreviations.json"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          columns: 1
+          file-to-use: "README.md"
+          section-name: "abbreviations-section"
+          object-field-names: '[ "acronym", "en_US" ]'
+          html-cell: '<th>{{ acronym }}</th><td> {{ en_US }}</td>'
+
+          - name: "Read/Write abbreviations in pt_BR"
+          uses: guibranco/gh-actions-html-table-generator-fork@main
+          with:
+            json-file-path: ".github/automations/abbreviations.json"
+            github-token: ${{ secrets.GITHUB_TOKEN }}
+            columns: 1
+            file-to-use: "README.pt-br.md"
+            section-name: "abbreviations-section"
+            object-field-names: '[ "acronym", "pt_BR" ]'
+            html-cell: '<th>{{ acronym }}</th><td> {{ pt_BR }}</td>'

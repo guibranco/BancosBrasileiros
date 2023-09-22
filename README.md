@@ -142,21 +142,8 @@ composer require guibranco/bancos-brasileiros
 
 For those unfamiliar with Brazilian financial/regulatory entities:
 
-- **ABBC** - Brazilian Association of Banks
-- **BCB** - Central Bank of Brazil (regulatory authority)(also known as *BACEN* or *BC*)
-- **CIP** - Interbank Payments Chamber
-- **CNPJ** - National Register of Legal Entities - *RFB*
-- **COMPE** - Clearing System for Checks and Other Papers
-- **CPF** - Individual Taxpayer Registration - *RFB*
-- **FEBRABAN** - Brazilian Federation of Banks
-- **ISPB** - *SPB* identification
-- **PIX** - Instant Payments
-- **RFB** - Federal Revenue Service of Brazil
-- **RSFN** - *SFN* Network
-- **SFN** - National Financial System
-- **SPB** - Brazilian Payment System
-- **SPI** - Instant Payment System
-- **STR** - Reservation Transfer System
+<!--START_SECTION:abbreviations-section-->
+<!--END_SECTION:abbreviations-section-->
 
 ---
 
