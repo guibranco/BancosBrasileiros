@@ -1,4 +1,4 @@
-name: Update experience
+name: Update abbreviations
 
 on:
   workflow_dispatch:
