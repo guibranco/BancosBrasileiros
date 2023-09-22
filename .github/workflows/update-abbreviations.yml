@@ -28,13 +28,13 @@ jobs:
           object-field-names: '[ "acronym", "en_US" ]'
           html-cell: '<th>{{ acronym }}</th><td> {{ en_US }}</td>'
 
-          - name: "Read/Write abbreviations in pt_BR"
-          uses: guibranco/gh-actions-html-table-generator-fork@main
-          with:
-            json-file-path: ".github/automations/abbreviations.json"
-            github-token: ${{ secrets.GITHUB_TOKEN }}
-            columns: 1
-            file-to-use: "README.pt-br.md"
-            section-name: "abbreviations-section"
-            object-field-names: '[ "acronym", "pt_BR" ]'
-            html-cell: '<th>{{ acronym }}</th><td> {{ pt_BR }}</td>'
+      - name: "Read/Write abbreviations in pt_BR"
+        uses: guibranco/gh-actions-html-table-generator-fork@main
+        with:
+          json-file-path: ".github/automations/abbreviations.json"
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          columns: 1
+          file-to-use: "README.pt-br.md"
+          section-name: "abbreviations-section"
+          object-field-names: '[ "acronym", "pt_BR" ]'
+          html-cell: '<th>{{ acronym }}</th><td> {{ pt_BR }}</td>'
