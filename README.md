@@ -143,6 +143,7 @@ composer require guibranco/bancos-brasileiros
 For those unfamiliar with Brazilian financial/regulatory entities:
 
 <!--START_SECTION:abbreviations-section-->
+<table width="100%"><tr><th>ABBC</th><td> Brazilian Banks Association</td></tr><tr><th>BCB</th><td> Brazilian Central Bank (regulatory authority)(also known as BACEN or BC)</td></tr><tr><th>CIP</th><td> Interbank Payment Chamber</td></tr><tr><th>CNPJ</th><td> National Register of Legal Entities - RFB</td></tr><tr><th>COMPE</th><td> Check and Other Papers Compensation System</td></tr><tr><th>CPF</th><td> Individual Taxpayer Registry - RFB</td></tr><tr><th>CVM</th><td> Securities and Exchange Commission</td></tr><tr><th>FEBRABAN</th><td> Brazilian Federation of Banks</td></tr><tr><th>ISPB</th><td> SPB identification</td></tr><tr><th>PIX</th><td> Brazilian Instant Payments</td></tr><tr><th>RFB</th><td> Federal Revenue Service of Brazil</td></tr><tr><th>RSFN</th><td> National Financial System Network</td></tr><tr><th>SFN</th><td> National Financial System</td></tr><tr><th>SILOC</th><td> Deferred Settlement System for Interbank Transfers of Credit Orders</td></tr><tr><th>SITRAF</th><td> Funds Transfer System</td></tr><tr><th>SPB</th><td> Brazilian Payment System</td></tr><tr><th>SPI</th><td> Instant Payment System</td></tr><tr><th>STR</th><td> Reserves Transfer System</td></tr></table>
 <!--END_SECTION:abbreviations-section-->
 
 ---
