@@ -65,6 +65,16 @@
         "en_US": "National Financial System"
     },
     {
+        "acronym": "SILOC",
+        "pt_BR": "Sistema de Liquidação Diferida das Transferências Interbancárias de Ordens de Crédito",
+        "en_US": "Deferred Settlement System for Interbank Transfers of Credit Orders"
+    },
+    {
+        "acronym": "SITRAF",
+        "pt_BR": "Sistema de Transferência de Fundos",
+        "en_US": "Funds Transfer System"
+    },
+    {
         "acronym": "SPB",
         "pt_BR": "Sistema de Pagamentos Brasileiro",
         "en_US": "Brazilian Payment System"
