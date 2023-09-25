@@ -1,5 +1,6 @@
 ﻿[
   {
+    "HasChanges": false,
     "COMPE": "001",
     "ISPB": "00000000",
     "Document": "00.000.000/0001-91",
@@ -29,6 +30,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286584+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "003",
     "ISPB": "04902979",
     "Document": "04.902.979/0001-44",
@@ -56,6 +58,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286515+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "004",
     "ISPB": "07237373",
     "Document": "07.237.373/0001-20",
@@ -81,6 +84,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286794+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "007",
     "ISPB": "33657248",
     "Document": "33.657.248/0001-89",
@@ -102,6 +106,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3507277+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "010",
     "ISPB": "81723108",
     "Document": "81.723.108/0001-04",
@@ -123,6 +128,7 @@
     "DateUpdated": "2023-06-23T17:11:26.6695969+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "011",
     "ISPB": "61809182",
     "Document": "61.809.182/0001-30",
@@ -144,6 +150,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115319-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "012",
     "ISPB": "04866275",
     "Document": "04.866.275/0001-63",
@@ -169,6 +176,7 @@
     "DateUpdated": "2022-12-01T12:07:10.8434598+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "014",
     "ISPB": "09274232",
     "Document": "09.274.232/0001-02",
@@ -190,6 +198,7 @@
     "DateUpdated": "2021-10-23T20:54:59.5224714-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "015",
     "ISPB": "02819125",
     "Document": "02.819.125/0001-73",
@@ -211,10 +220,11 @@
     "DateUpdated": "2021-05-05T09:11:12.7114485-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "016",
     "ISPB": "04715685",
     "Document": "04.715.685/0001-03",
-    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RIO GRANDE DO SUL - SICOOB CREDITRAN",
     "ShortName": "CCM DESP TRÂNS SC E RS",
     "Network": "RSFN",
     "Type": null,
@@ -238,9 +248,10 @@
     "DateOperationStarted": "2012-05-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114553-03:00",
-    "DateUpdated": "2023-04-25T12:06:53.1109612+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0812551+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "017",
     "ISPB": "42272526",
     "Document": "42.272.526/0001-70",
@@ -262,6 +273,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4024695+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "018",
     "ISPB": "57839805",
     "Document": "57.839.805/0001-40",
@@ -283,6 +295,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4026223+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "021",
     "ISPB": "28127603",
     "Document": "28.127.603/0001-78",
@@ -312,6 +325,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6287003+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "024",
     "ISPB": "10866788",
     "Document": "10.866.788/0001-77",
@@ -333,6 +347,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114724-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "025",
     "ISPB": "03323840",
     "Document": "03.323.840/0001-83",
@@ -357,6 +372,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5477558+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "029",
     "ISPB": "33885724",
     "Document": "33.885.724/0001-19",
@@ -383,6 +399,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6479655+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "033",
     "ISPB": "90400888",
     "Document": "90.400.888/0001-42",
@@ -411,6 +428,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286936+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "036",
     "ISPB": "06271464",
     "Document": "06.271.464/0001-19",
@@ -432,6 +450,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114607-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "037",
     "ISPB": "04913711",
     "Document": "04.913.711/0001-08",
@@ -459,6 +478,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286651+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "040",
     "ISPB": "03609817",
     "Document": "03.609.817/0001-50",
@@ -480,6 +500,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114522-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "041",
     "ISPB": "92702067",
     "Document": "92.702.067/0001-96",
@@ -509,6 +530,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286723+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "047",
     "ISPB": "13009717",
     "Document": "13.009.717/0001-46",
@@ -538,6 +560,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5493295+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "060",
     "ISPB": "04913129",
     "Document": "04.913.129/0001-41",
@@ -559,6 +582,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114569-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "062",
     "ISPB": "03012230",
     "Document": "03.012.230/0001-69",
@@ -580,6 +604,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114492-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "063",
     "ISPB": "04184779",
     "Document": "04.184.779/0001-01",
@@ -606,6 +631,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5477881+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "064",
     "ISPB": "04332281",
     "Document": "04.332.281/0001-30",
@@ -627,6 +653,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114547-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "065",
     "ISPB": "48795256",
     "Document": "48.795.256/0001-69",
@@ -648,6 +675,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4025314+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "066",
     "ISPB": "02801938",
     "Document": "02.801.938/0001-36",
@@ -669,6 +697,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114481-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "069",
     "ISPB": "61033106",
     "Document": "61.033.106/0001-86",
@@ -692,6 +721,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5485845+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "070",
     "ISPB": "00000208",
     "Document": "00.000.208/0001-00",
@@ -717,6 +747,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5548994+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "074",
     "ISPB": "03017677",
     "Document": "03.017.677/0001-20",
@@ -738,6 +769,7 @@
     "DateUpdated": "2022-06-23T13:48:15.349196+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "075",
     "ISPB": "03532415",
     "Document": "03.532.415/0001-02",
@@ -759,6 +791,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114518-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "076",
     "ISPB": "07656500",
     "Document": "07.656.500/0001-25",
@@ -780,6 +813,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114629-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "077",
     "ISPB": "00416968",
     "Document": "00.416.968/0001-01",
@@ -806,6 +840,7 @@
     "DateUpdated": "2023-08-08T12:05:39.2907363+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "078",
     "ISPB": "34111187",
     "Document": "34.111.187/0001-12",
@@ -827,6 +862,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115112-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "079",
     "ISPB": "09516419",
     "Document": "09.516.419/0001-75",
@@ -848,6 +884,7 @@
     "DateUpdated": "2023-03-03T14:56:54.1945968+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "080",
     "ISPB": "73622748",
     "Document": "73.622.748/0001-08",
@@ -869,6 +906,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115429-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "081",
     "ISPB": "10264663",
     "Document": "10.264.663/0001-77",
@@ -892,6 +930,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5541944+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "082",
     "ISPB": "07679404",
     "Document": "07.679.404/0001-00",
@@ -919,6 +958,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6512182+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "083",
     "ISPB": "10690848",
     "Document": "10.690.848/0001-43",
@@ -940,6 +980,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3451705+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "084",
     "ISPB": "02398976",
     "Document": "02.398.976/0001-90",
@@ -965,6 +1006,7 @@
     "DateUpdated": "2023-07-23T01:05:58.8643054+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "085",
     "ISPB": "05463212",
     "Document": "05.463.212/0001-29",
@@ -994,6 +1036,7 @@
     "DateUpdated": "2023-07-23T01:05:58.8642887+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "088",
     "ISPB": "11476673",
     "Document": "11.476.673/0001-39",
@@ -1015,6 +1058,7 @@
     "DateUpdated": "2022-11-12T12:06:33.149399+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "089",
     "ISPB": "62109566",
     "Document": "62.109.566/0001-03",
@@ -1042,6 +1086,7 @@
     "DateUpdated": "2023-07-23T01:05:58.864297+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "091",
     "ISPB": "01634601",
     "Document": "01.634.601/0001-19",
@@ -1063,6 +1108,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114441-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "092",
     "ISPB": "12865507",
     "Document": "12.865.507/0001-97",
@@ -1084,10 +1130,11 @@
     "DateUpdated": "2021-05-05T09:11:12.7114797-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "093",
     "ISPB": "07945233",
     "Document": "07.945.233/0001-06",
-    "LongName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT",
+    "LongName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "POLOCRED SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -1102,9 +1149,10 @@
     "DateOperationStarted": "2010-11-09",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114642-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3630957+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0831373+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "094",
     "ISPB": "11758741",
     "Document": "11.758.741/0001-52",
@@ -1126,6 +1174,7 @@
     "DateUpdated": "2022-06-23T13:48:15.347466+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "095",
     "ISPB": "11703662",
     "Document": "11.703.662/0001-44",
@@ -1147,6 +1196,7 @@
     "DateUpdated": "2023-03-03T14:56:54.2246781+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "096",
     "ISPB": "00997185",
     "Document": "00.997.185/0001-50",
@@ -1168,11 +1218,12 @@
     "DateUpdated": "2023-09-02T12:05:07.7442102+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "097",
     "ISPB": "04632856",
     "Document": "04.632.856/0001-30",
     "LongName": "Credisis - Central de Cooperativas de Crédito Ltda.",
-    "ShortName": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
+    "ShortName": "CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -1186,9 +1237,10 @@
     "DateOperationStarted": "2011-02-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114549-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4004962+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0810342+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "098",
     "ISPB": "78157146",
     "Document": "78.157.146/0001-32",
@@ -1210,6 +1262,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3594388+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "099",
     "ISPB": "03046391",
     "Document": "03.046.391/0001-73",
@@ -1239,6 +1292,7 @@
     "DateUpdated": "2023-03-24T12:07:17.0335177+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "100",
     "ISPB": "00806535",
     "Document": "00.806.535/0001-54",
@@ -1260,6 +1314,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7113681-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "101",
     "ISPB": "62287735",
     "Document": "62.287.735/0001-03",
@@ -1281,6 +1336,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115352-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "102",
     "ISPB": "02332886",
     "Document": "02.332.886/0001-04",
@@ -1302,6 +1358,7 @@
     "DateUpdated": "2021-05-05T09:11:12.711447-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "104",
     "ISPB": "00360305",
     "Document": "00.360.305/0001-04",
@@ -1330,6 +1387,7 @@
     "DateUpdated": "2023-07-22T23:17:11.628707+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "105",
     "ISPB": "07652226",
     "Document": "07.652.226/0001-16",
@@ -1354,6 +1412,7 @@
     "DateUpdated": "2023-03-24T12:07:17.0187801+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "107",
     "ISPB": "15114366",
     "Document": "15.114.366/0001-69",
@@ -1375,6 +1434,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3411358+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "108",
     "ISPB": "01800019",
     "Document": "01.800.019/0001-85",
@@ -1399,6 +1459,7 @@
     "DateUpdated": "2022-06-23T13:51:35.2273369+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "111",
     "ISPB": "36113876",
     "Document": "36.113.876/0001-91",
@@ -1420,6 +1481,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115126-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "113",
     "ISPB": "61723847",
     "Document": "61.723.847/0001-99",
@@ -1441,6 +1503,7 @@
     "DateUpdated": "2022-03-16T07:58:39.2787909+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "114",
     "ISPB": "05790149",
     "Document": "05.790.149/0001-35",
@@ -1468,6 +1531,7 @@
     "DateUpdated": "2023-03-03T14:56:54.7705747+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "117",
     "ISPB": "92856905",
     "Document": "92.856.905/0001-86",
@@ -1489,6 +1553,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115483-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "119",
     "ISPB": "13720915",
     "Document": "13.720.915/0001-13",
@@ -1510,6 +1575,7 @@
     "DateUpdated": "2023-03-03T14:56:54.2356798+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "120",
     "ISPB": "33603457",
     "Document": "33.603.457/0001-40",
@@ -1536,6 +1602,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5528422+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "121",
     "ISPB": "10664513",
     "Document": "10.664.513/0001-50",
@@ -1561,6 +1628,7 @@
     "DateUpdated": "2023-07-23T01:05:58.8641594+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "122",
     "ISPB": "33147315",
     "Document": "33.147.315/0001-15",
@@ -1582,6 +1650,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3422902+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "124",
     "ISPB": "15357060",
     "Document": "15.357.060/0001-33",
@@ -1603,6 +1672,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3693123+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "125",
     "ISPB": "45246410",
     "Document": "45.246.410/0001-55",
@@ -1624,6 +1694,7 @@
     "DateUpdated": "2022-06-23T13:48:15.355711+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "126",
     "ISPB": "13220493",
     "Document": "13.220.493/0001-17",
@@ -1645,6 +1716,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114812-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "127",
     "ISPB": "09512542",
     "Document": "09.512.542/0001-18",
@@ -1666,6 +1738,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114691-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "128",
     "ISPB": "19307785",
     "Document": "19.307.785/0001-78",
@@ -1687,6 +1760,7 @@
     "DateUpdated": "2023-04-13T12:07:26.5898227+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "129",
     "ISPB": "18520834",
     "Document": "18.520.834/0001-93",
@@ -1708,6 +1782,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114917-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "130",
     "ISPB": "09313766",
     "Document": "09.313.766/0001-09",
@@ -1729,6 +1804,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4009564+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "131",
     "ISPB": "61747085",
     "Document": "61.747.085/0001-60",
@@ -1750,6 +1826,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115315-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "132",
     "ISPB": "17453575",
     "Document": "17.453.575/0001-62",
@@ -1771,10 +1848,11 @@
     "DateUpdated": "2022-06-23T13:48:15.3609804+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "133",
     "ISPB": "10398952",
     "Document": "10.398.952/0001-69",
-    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E SOLIDÁRIA - CRESOL CONFEDERAÇÃO",
     "ShortName": "CRESOL CONFEDERAÇÃO",
     "Network": "RSFN",
     "Type": null,
@@ -1797,9 +1875,10 @@
     "DateOperationStarted": "2016-05-02",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114705-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8642801+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0837675+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "134",
     "ISPB": "33862244",
     "Document": "33.862.244/0001-32",
@@ -1821,10 +1900,11 @@
     "DateUpdated": "2021-05-05T09:11:12.7115097-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "136",
     "ISPB": "00315557",
     "Document": "00.315.557/0001-11",
-    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASIL.",
     "ShortName": "CONF NAC COOP CENTRAIS UNICRED",
     "Network": "RSFN",
     "Type": null,
@@ -1847,9 +1927,10 @@
     "DateOperationStarted": "2014-07-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112437-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.3999538+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0777684+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "138",
     "ISPB": "10853017",
     "Document": "10.853.017/0001-45",
@@ -1871,6 +1952,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114721-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "139",
     "ISPB": "55230916",
     "Document": "55.230.916/0001-20",
@@ -1892,6 +1974,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115212-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "140",
     "ISPB": "62169875",
     "Document": "62.169.875/0001-79",
@@ -1913,6 +1996,7 @@
     "DateUpdated": "2021-09-28T05:25:17.025616-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "141",
     "ISPB": "09526594",
     "Document": "09.526.594/0001-43",
@@ -1934,6 +2018,7 @@
     "DateUpdated": "2023-03-18T12:06:16.439489+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "142",
     "ISPB": "16944141",
     "Document": "16.944.141/0001-00",
@@ -1955,6 +2040,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114879-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "143",
     "ISPB": "02992317",
     "Document": "02.992.317/0001-87",
@@ -1976,6 +2062,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114489-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "144",
     "ISPB": "13059145",
     "Document": "13.059.145/0001-00",
@@ -1997,6 +2084,7 @@
     "DateUpdated": "2021-05-21T23:01:28.1593486-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "145",
     "ISPB": "50579044",
     "Document": "50.579.044/0001-96",
@@ -2018,6 +2106,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115189-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "146",
     "ISPB": "24074692",
     "Document": "24.074.692/0001-80",
@@ -2039,6 +2128,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114954-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "149",
     "ISPB": "15581638",
     "Document": "15.581.638/0001-30",
@@ -2062,6 +2152,7 @@
     "DateUpdated": "2022-06-23T13:51:35.2184797+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "157",
     "ISPB": "09105360",
     "Document": "09.105.360/0001-22",
@@ -2083,6 +2174,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114673-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "159",
     "ISPB": "05442029",
     "Document": "05.442.029/0001-47",
@@ -2104,6 +2196,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3577168+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "163",
     "ISPB": "23522214",
     "Document": "23.522.214/0001-23",
@@ -2125,6 +2218,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3582913+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "173",
     "ISPB": "13486793",
     "Document": "13.486.793/0001-42",
@@ -2146,6 +2240,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114828-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "174",
     "ISPB": "43180355",
     "Document": "43.180.355/0001-12",
@@ -2169,6 +2264,7 @@
     "DateUpdated": "2022-06-23T13:51:35.22637+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "177",
     "ISPB": "65913436",
     "Document": "65.913.436/0001-17",
@@ -2190,6 +2286,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115363-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "180",
     "ISPB": "02685483",
     "Document": "02.685.483/0001-30",
@@ -2211,10 +2308,11 @@
     "DateUpdated": "2021-05-05T09:11:12.7114478-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "183",
     "ISPB": "09210106",
     "Document": "09.210.106/0001-94",
-    "LongName": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO P",
+    "LongName": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE",
     "ShortName": "SOCRED SA - SCMEPP",
     "Network": "RSFN",
     "Type": null,
@@ -2229,9 +2327,10 @@
     "DateOperationStarted": "2017-06-12",
     "DatePixStarted": "2023-06-28 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114675-03:00",
-    "DateUpdated": "2023-04-07T12:06:25.2608456+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0834476+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "184",
     "ISPB": "17298092",
     "Document": "17.298.092/0001-30",
@@ -2253,6 +2352,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114886-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "188",
     "ISPB": "33775974",
     "Document": "33.775.974/0001-04",
@@ -2274,6 +2374,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115093-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "189",
     "ISPB": "07512441",
     "Document": "07.512.441/0001-11",
@@ -2297,10 +2398,11 @@
     "DateUpdated": "2023-07-14T12:06:15.9897797+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "190",
     "ISPB": "03973814",
     "Document": "03.973.814/0001-09",
-    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI",
+    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAIS DO RIO GRANDE DO SUL",
     "ShortName": "SERVICOOP",
     "Network": "RSFN",
     "Type": null,
@@ -2315,9 +2417,10 @@
     "DateOperationStarted": "2017-10-16",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114527-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3590559+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0802724+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "191",
     "ISPB": "04257795",
     "Document": "04.257.795/0001-79",
@@ -2339,11 +2442,12 @@
     "DateUpdated": "2021-05-05T09:11:12.711454-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "194",
     "ISPB": "20155248",
     "Document": "20.155.248/0001-39",
-    "LongName": "PARMETAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "PARMETAL DTVM LTDA",
+    "LongName": "UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "UNIDA DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2357,9 +2461,10 @@
     "DateOperationStarted": "2017-10-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114926-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114928-03:00"
+    "DateUpdated": "2023-09-25T12:06:32.0854457+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "195",
     "ISPB": "07799277",
     "Document": "07.799.277/0001-75",
@@ -2381,6 +2486,7 @@
     "DateUpdated": "2021-08-24T13:06:55.8926604-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "196",
     "ISPB": "32648370",
     "Document": "32.648.370/0001-26",
@@ -2402,6 +2508,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115045-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "197",
     "ISPB": "16501555",
     "Document": "16.501.555/0001-57",
@@ -2423,6 +2530,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3712081+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "208",
     "ISPB": "30306294",
     "Document": "30.306.294/0001-45",
@@ -2447,6 +2555,7 @@
     "DateUpdated": "2023-07-23T01:05:58.8642022+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "212",
     "ISPB": "92894922",
     "Document": "92.894.922/0001-08",
@@ -2474,6 +2583,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6498959+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "213",
     "ISPB": "54403563",
     "Document": "54.403.563/0001-50",
@@ -2497,6 +2607,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5477639+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "217",
     "ISPB": "91884981",
     "Document": "91.884.981/0001-32",
@@ -2518,6 +2629,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3495801+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "218",
     "ISPB": "71027866",
     "Document": "71.027.866/0001-34",
@@ -2541,6 +2653,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5478121+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "222",
     "ISPB": "75647891",
     "Document": "75.647.891/0001-71",
@@ -2562,6 +2675,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4031082+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "224",
     "ISPB": "58616418",
     "Document": "58.616.418/0001-08",
@@ -2589,6 +2703,7 @@
     "DateUpdated": "2023-06-14T12:06:48.3271732+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "233",
     "ISPB": "62421979",
     "Document": "62.421.979/0001-29",
@@ -2610,6 +2725,7 @@
     "DateUpdated": "2021-05-05T09:11:12.711536-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "237",
     "ISPB": "60746948",
     "Document": "60.746.948/0001-12",
@@ -2638,6 +2754,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286012+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "241",
     "ISPB": "31597552",
     "Document": "31.597.552/0001-52",
@@ -2659,6 +2776,7 @@
     "DateUpdated": "2021-05-05T09:11:12.711502-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "243",
     "ISPB": "33923798",
     "Document": "33.923.798/0001-00",
@@ -2688,6 +2806,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4020827+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "246",
     "ISPB": "28195667",
     "Document": "28.195.667/0001-06",
@@ -2715,6 +2834,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6456766+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "249",
     "ISPB": "61182408",
     "Document": "61.182.408/0001-16",
@@ -2736,6 +2856,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115292-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "250",
     "ISPB": "50585090",
     "Document": "50.585.090/0001-06",
@@ -2757,6 +2878,7 @@
     "DateUpdated": "2022-07-22T07:49:18.402562+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "253",
     "ISPB": "52937216",
     "Document": "52.937.216/0001-81",
@@ -2778,6 +2900,7 @@
     "DateUpdated": "2021-05-05T09:11:12.71152-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "254",
     "ISPB": "14388334",
     "Document": "14.388.334/0001-99",
@@ -2804,6 +2927,7 @@
     "DateUpdated": "2022-06-23T13:51:35.2263568+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "259",
     "ISPB": "08609934",
     "Document": "08.609.934/0001-37",
@@ -2825,6 +2949,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114663-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "260",
     "ISPB": "18236120",
     "Document": "18.236.120/0001-58",
@@ -2846,6 +2971,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4015261+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "265",
     "ISPB": "33644196",
     "Document": "33.644.196/0001-06",
@@ -2867,6 +2993,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4020183+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "266",
     "ISPB": "33132044",
     "Document": "33.132.044/0001-24",
@@ -2888,6 +3015,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3432427+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "268",
     "ISPB": "14511781",
     "Document": "14.511.781/0001-93",
@@ -2913,6 +3041,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5542033+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "269",
     "ISPB": "53518684",
     "Document": "53.518.684/0001-84",
@@ -2934,6 +3063,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3480393+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "270",
     "ISPB": "61444949",
     "Document": "61.444.949/0001-75",
@@ -2955,6 +3085,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4028539+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "271",
     "ISPB": "27842177",
     "Document": "27.842.177/0001-91",
@@ -2976,6 +3107,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114985-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "272",
     "ISPB": "00250699",
     "Document": "00.250.699/0001-48",
@@ -2997,6 +3129,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7112295-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "273",
     "ISPB": "08253539",
     "Document": "08.253.539/0001-64",
@@ -3018,6 +3151,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114651-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "274",
     "ISPB": "11581339",
     "Document": "11.581.339/0001-45",
@@ -3043,6 +3177,7 @@
     "DateUpdated": "2022-09-27T12:08:38.4177957+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "276",
     "ISPB": "11970623",
     "Document": "11.970.623/0001-03",
@@ -3066,6 +3201,7 @@
     "DateUpdated": "2022-07-27T12:06:28.7958806+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "278",
     "ISPB": "27652684",
     "Document": "27.652.684/0001-62",
@@ -3087,6 +3223,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114981-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "279",
     "ISPB": "26563270",
     "Document": "26.563.270/0001-02",
@@ -3108,6 +3245,7 @@
     "DateUpdated": "2022-09-06T12:06:45.251499+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "280",
     "ISPB": "23862762",
     "Document": "23.862.762/0001-00",
@@ -3131,6 +3269,7 @@
     "DateUpdated": "2023-07-05T12:07:00.909528+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "281",
     "ISPB": "76461557",
     "Document": "76.461.557/0001-91",
@@ -3152,6 +3291,7 @@
     "DateUpdated": "2022-06-23T13:48:15.360395+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "283",
     "ISPB": "89960090",
     "Document": "89.960.090/0001-76",
@@ -3173,6 +3313,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115469-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "285",
     "ISPB": "71677850",
     "Document": "71.677.850/0001-77",
@@ -3194,6 +3335,7 @@
     "DateUpdated": "2023-03-18T12:06:14.6197474+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "286",
     "ISPB": "07853842",
     "Document": "07.853.842/0001-35",
@@ -3215,6 +3357,7 @@
     "DateUpdated": "2023-03-07T12:07:37.8477837+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "288",
     "ISPB": "62237649",
     "Document": "62.237.649/0001-88",
@@ -3236,6 +3379,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115344-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "289",
     "ISPB": "94968518",
     "Document": "94.968.518/0001-67",
@@ -3257,6 +3401,7 @@
     "DateUpdated": "2022-03-16T07:58:39.2793254+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "290",
     "ISPB": "08561701",
     "Document": "08.561.701/0001-01",
@@ -3278,11 +3423,12 @@
     "DateUpdated": "2022-06-23T13:48:15.3711849+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "292",
     "ISPB": "28650236",
     "Document": "28.650.236/0001-92",
-    "LongName": "BS2 Distribuidora de Títulos e Valores Mobiliários S.A.",
-    "ShortName": "BS2 DTVM S.A.",
+    "LongName": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "GALAPAGOS DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -3296,9 +3442,10 @@
     "DateOperationStarted": "2018-10-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114995-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114997-03:00"
+    "DateUpdated": "2023-09-25T12:06:32.0861124+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "293",
     "ISPB": "71590442",
     "Document": "71.590.442/0001-83",
@@ -3320,6 +3467,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115421-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "296",
     "ISPB": "04062902",
     "Document": "04.062.902/0001-03",
@@ -3341,6 +3489,7 @@
     "DateUpdated": "2022-06-23T13:48:13.517057+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "298",
     "ISPB": "17772370",
     "Document": "17.772.370/0001-40",
@@ -3362,6 +3511,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114901-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "299",
     "ISPB": "04814563",
     "Document": "04.814.563/0001-74",
@@ -3386,6 +3536,7 @@
     "DateUpdated": "2023-04-05T12:07:18.1432351+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "300",
     "ISPB": "33042151",
     "Document": "33.042.151/0001-61",
@@ -3407,6 +3558,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3457429+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "301",
     "ISPB": "13370835",
     "Document": "13.370.835/0001-85",
@@ -3428,6 +3580,7 @@
     "DateUpdated": "2022-09-29T12:08:26.1905846+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "306",
     "ISPB": "40303299",
     "Document": "40.303.299/0001-78",
@@ -3449,6 +3602,7 @@
     "DateUpdated": "2021-05-05T09:11:12.711516-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "307",
     "ISPB": "03751794",
     "Document": "03.751.794/0001-13",
@@ -3470,6 +3624,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114525-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "309",
     "ISPB": "14190547",
     "Document": "14.190.547/0001-01",
@@ -3491,6 +3646,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114842-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "310",
     "ISPB": "22610500",
     "Document": "22.610.500/0001-88",
@@ -3512,6 +3668,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3059096+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "311",
     "ISPB": "76641497",
     "Document": "76.641.497/0001-99",
@@ -3533,10 +3690,11 @@
     "DateUpdated": "2021-05-05T09:11:12.7115447-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "312",
     "ISPB": "07693858",
     "Document": "07.693.858/0001-28",
-    "LongName": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LT",
+    "LongName": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "HSCM SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -3551,9 +3709,10 @@
     "DateOperationStarted": "2021-02-09",
     "DatePixStarted": "2022-12-12 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114635-03:00",
-    "DateUpdated": "2022-11-26T12:06:05.5091259+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0829332+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "313",
     "ISPB": "16927221",
     "Document": "16.927.221/0001-40",
@@ -3575,6 +3734,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114875-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "315",
     "ISPB": "03502968",
     "Document": "03.502.968/0001-04",
@@ -3596,6 +3756,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114514-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "318",
     "ISPB": "61186680",
     "Document": "61.186.680/0001-74",
@@ -3622,6 +3783,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5477799+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "319",
     "ISPB": "11495073",
     "Document": "11.495.073/0001-18",
@@ -3643,6 +3805,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114735-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "320",
     "ISPB": "07450604",
     "Document": "07.450.604/0001-89",
@@ -3664,10 +3827,11 @@
     "DateUpdated": "2022-07-22T07:49:18.4007514+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "321",
     "ISPB": "18188384",
     "Document": "18.188.384/0001-83",
-    "LongName": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LT",
+    "LongName": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "CREFAZ SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -3682,9 +3846,10 @@
     "DateOperationStarted": "2019-06-11",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114908-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.711491-03:00"
+    "DateUpdated": "2023-09-25T12:06:32.0849932+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "322",
     "ISPB": "01073966",
     "Document": "01.073.966/0001-11",
@@ -3706,6 +3871,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3602012+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "323",
     "ISPB": "10573521",
     "Document": "10.573.521/0001-91",
@@ -3727,6 +3893,7 @@
     "DateUpdated": "2022-06-23T13:48:15.370529+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "324",
     "ISPB": "21332862",
     "Document": "21.332.862/0001-91",
@@ -3752,6 +3919,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3032684+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "325",
     "ISPB": "13293225",
     "Document": "13.293.225/0001-25",
@@ -3773,6 +3941,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114817-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "326",
     "ISPB": "03311443",
     "Document": "03.311.443/0001-91",
@@ -3796,10 +3965,11 @@
     "DateUpdated": "2022-06-23T13:51:35.226364+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "328",
     "ISPB": "05841967",
     "Document": "05.841.967/0001-10",
-    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA LTDA.",
     "ShortName": "CECM FABRIC CALÇADOS SAPIRANGA",
     "Network": "RSFN",
     "Type": null,
@@ -3814,9 +3984,10 @@
     "DateOperationStarted": "2021-03-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114602-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114603-03:00"
+    "DateUpdated": "2023-09-25T12:06:32.0821072+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "329",
     "ISPB": "32402502",
     "Document": "32.402.502/0001-35",
@@ -3843,6 +4014,7 @@
     "DateUpdated": "2022-06-23T13:51:35.2273481+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "330",
     "ISPB": "00556603",
     "Document": "00.556.603/0001-74",
@@ -3869,6 +4041,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5477718+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "331",
     "ISPB": "13673855",
     "Document": "13.673.855/0001-25",
@@ -3890,6 +4063,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114831-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "332",
     "ISPB": "13140088",
     "Document": "13.140.088/0001-99",
@@ -3911,6 +4085,7 @@
     "DateUpdated": "2022-12-13T12:06:52.2983548+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "334",
     "ISPB": "15124464",
     "Document": "15.124.464/0001-87",
@@ -3932,6 +4107,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3112605+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "335",
     "ISPB": "27098060",
     "Document": "27.098.060/0001-45",
@@ -3955,6 +4131,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6472677+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "336",
     "ISPB": "31872495",
     "Document": "31.872.495/0001-72",
@@ -3980,6 +4157,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5478356+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "340",
     "ISPB": "09554480",
     "Document": "09.554.480/0001-07",
@@ -4001,6 +4179,7 @@
     "DateUpdated": "2022-07-07T12:06:14.8084022+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "341",
     "ISPB": "60701190",
     "Document": "60.701.190/0001-04",
@@ -4029,6 +4208,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6287206+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "342",
     "ISPB": "32997490",
     "Document": "32.997.490/0001-39",
@@ -4050,6 +4230,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115049-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "343",
     "ISPB": "24537861",
     "Document": "24.537.861/0001-71",
@@ -4071,6 +4252,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114958-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "348",
     "ISPB": "33264668",
     "Document": "33.264.668/0001-03",
@@ -4095,6 +4277,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5535199+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "349",
     "ISPB": "27214112",
     "Document": "27.214.112/0001-00",
@@ -4123,10 +4306,11 @@
     "DateUpdated": "2023-08-02T12:05:44.3549376+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "350",
     "ISPB": "01330387",
     "Document": "01.330.387/0001-07",
-    "LongName": "COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CENTRO OESTE DO PARANÁ - CREHNOR LARANJEIRAS",
     "ShortName": "CREHNOR LARANJEIRAS",
     "Network": "Internet",
     "Type": null,
@@ -4141,9 +4325,10 @@
     "DateOperationStarted": "2020-05-27",
     "DatePixStarted": "2022-01-07 08:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114431-03:00",
-    "DateUpdated": "2022-01-05T11:00:32.7656692+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0790392+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "352",
     "ISPB": "29162769",
     "Document": "29.162.769/0001-98",
@@ -4165,6 +4350,7 @@
     "DateUpdated": "2021-09-13T19:08:15.553781-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "354",
     "ISPB": "52904364",
     "Document": "52.904.364/0001-08",
@@ -4186,6 +4372,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115196-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "355",
     "ISPB": "34335592",
     "Document": "34.335.592/0001-14",
@@ -4207,6 +4394,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115115-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "358",
     "ISPB": "09464032",
     "Document": "09.464.032/0001-12",
@@ -4230,6 +4418,7 @@
     "DateUpdated": "2023-06-23T17:11:26.6713522+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "359",
     "ISPB": "05351887",
     "Document": "05.351.887/0001-86",
@@ -4257,6 +4446,7 @@
     "DateUpdated": "2022-12-08T12:06:48.0726514+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "360",
     "ISPB": "02276653",
     "Document": "02.276.653/0001-23",
@@ -4278,6 +4468,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114462-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "362",
     "ISPB": "01027058",
     "Document": "01.027.058/0001-91",
@@ -4299,6 +4490,7 @@
     "DateUpdated": "2022-09-27T12:08:38.4165642+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "363",
     "ISPB": "62285390",
     "Document": "62.285.390/0001-40",
@@ -4320,6 +4512,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115348-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "364",
     "ISPB": "09089356",
     "Document": "09.089.356/0001-18",
@@ -4341,6 +4534,7 @@
     "DateUpdated": "2023-06-23T17:11:26.6713081+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "365",
     "ISPB": "68757681",
     "Document": "68.757.681/0001-70",
@@ -4362,6 +4556,7 @@
     "DateUpdated": "2021-05-05T09:11:12.711541-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "366",
     "ISPB": "61533584",
     "Document": "61.533.584/0001-55",
@@ -4383,6 +4578,7 @@
     "DateUpdated": "2022-06-23T13:48:15.352835+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "367",
     "ISPB": "34711571",
     "Document": "34.711.571/0001-56",
@@ -4404,6 +4600,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115119-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "368",
     "ISPB": "08357240",
     "Document": "08.357.240/0001-50",
@@ -4427,6 +4624,7 @@
     "DateUpdated": "2023-03-24T12:07:16.1761348+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "370",
     "ISPB": "61088183",
     "Document": "61.088.183/0001-33",
@@ -4448,6 +4646,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115289-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "371",
     "ISPB": "92875780",
     "Document": "92.875.780/0001-31",
@@ -4469,6 +4668,7 @@
     "DateUpdated": "2022-09-06T12:06:46.3133882+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "373",
     "ISPB": "35977097",
     "Document": "35.977.097/0001-71",
@@ -4495,6 +4695,7 @@
     "DateUpdated": "2023-03-24T12:07:17.0335382+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "374",
     "ISPB": "27351731",
     "Document": "27.351.731/0001-38",
@@ -4518,6 +4719,7 @@
     "DateUpdated": "2022-06-23T13:51:35.2273551+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "376",
     "ISPB": "33172537",
     "Document": "33.172.537/0001-98",
@@ -4541,6 +4743,7 @@
     "DateUpdated": "2022-09-23T12:08:11.8249103+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "377",
     "ISPB": "17826860",
     "Document": "17.826.860/0001-81",
@@ -4562,6 +4765,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114906-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "378",
     "ISPB": "01852137",
     "Document": "01.852.137/0001-37",
@@ -4583,10 +4787,11 @@
     "DateUpdated": "2022-01-05T11:00:32.0511464+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "379",
     "ISPB": "01658426",
     "Document": "01.658.426/0001-08",
-    "LongName": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITU",
+    "LongName": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA.",
     "ShortName": "CECM COOPERFORTE",
     "Network": "RSFN",
     "Type": null,
@@ -4607,9 +4812,10 @@
     "DateOperationStarted": "2020-09-01",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114443-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.1651622+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.079304+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "380",
     "ISPB": "22896431",
     "Document": "22.896.431/0001-10",
@@ -4631,6 +4837,7 @@
     "DateUpdated": "2022-09-10T12:06:04.1466825+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "381",
     "ISPB": "60814191",
     "Document": "60.814.191/0001-57",
@@ -4654,10 +4861,11 @@
     "DateUpdated": "2022-06-23T13:51:34.550966+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "382",
     "ISPB": "04307598",
     "Document": "04.307.598/0001-17",
-    "LongName": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L",
+    "LongName": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LIMITADA.",
     "ShortName": "FIDUCIA SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -4672,9 +4880,10 @@
     "DateOperationStarted": "2020-07-31",
     "DatePixStarted": "2021-12-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114541-03:00",
-    "DateUpdated": "2021-12-13T12:13:48.2864703+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0805127+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "383",
     "ISPB": "21018182",
     "Document": "21.018.182/0001-06",
@@ -4696,10 +4905,11 @@
     "DateUpdated": "2022-06-23T13:48:15.3562873+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "384",
     "ISPB": "11165756",
     "Document": "11.165.756/0001-07",
-    "LongName": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO",
+    "LongName": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "GLOBAL SCM LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -4714,13 +4924,14 @@
     "DateOperationStarted": "2020-10-13",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114726-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114728-03:00"
+    "DateUpdated": "2023-09-25T12:06:32.0840254+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "385",
     "ISPB": "03844699",
     "Document": "03.844.699/0001-64",
-    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE VITORIA - CREDESTIVA.",
     "ShortName": "CECM DOS TRAB.PORT. DA G.VITOR",
     "Network": "Internet",
     "Type": null,
@@ -4735,9 +4946,10 @@
     "DateOperationStarted": "2022-03-08",
     "DatePixStarted": null,
     "DateRegistered": "2022-03-16T07:58:41.1136389+00:00",
-    "DateUpdated": "2022-03-16T07:58:41.1136624+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0800543+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "386",
     "ISPB": "30680829",
     "Document": "30.680.829/0001-43",
@@ -4762,6 +4974,7 @@
     "DateUpdated": "2023-03-24T12:07:17.0209334+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "387",
     "ISPB": "03215790",
     "Document": "03.215.790/0001-10",
@@ -4785,6 +4998,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5528899+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "389",
     "ISPB": "17184037",
     "Document": "17.184.037/0001-10",
@@ -4813,6 +5027,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5509576+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "390",
     "ISPB": "59274605",
     "Document": "59.274.605/0001-13",
@@ -4836,6 +5051,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5493915+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "391",
     "ISPB": "08240446",
     "Document": "08.240.446/0001-03",
@@ -4857,6 +5073,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3693661+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "393",
     "ISPB": "59109165",
     "Document": "59.109.165/0001-49",
@@ -4882,6 +5099,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5528975+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "394",
     "ISPB": "07207996",
     "Document": "07.207.996/0001-50",
@@ -4907,6 +5125,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6457736+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "395",
     "ISPB": "08673569",
     "Document": "08.673.569/0001-20",
@@ -4928,6 +5147,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114666-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "396",
     "ISPB": "13884775",
     "Document": "13.884.775/0001-19",
@@ -4949,6 +5169,7 @@
     "DateUpdated": "2022-09-27T12:08:38.417997+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "397",
     "ISPB": "34088029",
     "Document": "34.088.029/0001-99",
@@ -4970,6 +5191,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115108-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "398",
     "ISPB": "31749596",
     "Document": "31.749.596/0001-50",
@@ -4991,6 +5213,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115024-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "399",
     "ISPB": "01701201",
     "Document": "01.701.201/0001-89",
@@ -5012,10 +5235,11 @@
     "DateUpdated": "2021-05-05T09:11:12.7114448-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "400",
     "ISPB": "05491616",
     "Document": "05.491.616/0001-26",
-    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT",
+    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS",
     "ShortName": "COOP CREDITAG",
     "Network": "Internet",
     "Type": null,
@@ -5030,9 +5254,10 @@
     "DateOperationStarted": "2021-02-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711459-03:00",
-    "DateUpdated": "2021-08-24T13:06:53.2851364-03:00"
+    "DateUpdated": "2023-09-25T12:06:32.0817963+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "401",
     "ISPB": "15111975",
     "Document": "15.111.975/0001-64",
@@ -5054,6 +5279,7 @@
     "DateUpdated": "2022-08-31T12:06:42.9463093+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "402",
     "ISPB": "36947229",
     "Document": "36.947.229/0001-85",
@@ -5075,6 +5301,7 @@
     "DateUpdated": "2022-10-29T12:07:14.5243332+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "403",
     "ISPB": "37880206",
     "Document": "37.880.206/0001-63",
@@ -5096,6 +5323,7 @@
     "DateUpdated": "2023-04-01T12:05:41.8694987+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "404",
     "ISPB": "37241230",
     "Document": "37.241.230/0001-52",
@@ -5117,6 +5345,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115138-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "406",
     "ISPB": "37715993",
     "Document": "37.715.993/0001-98",
@@ -5138,6 +5367,7 @@
     "DateUpdated": "2023-03-03T14:56:54.4069127+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "407",
     "ISPB": "00329598",
     "Document": "00.329.598/0001-67",
@@ -5159,6 +5389,7 @@
     "DateUpdated": "2022-10-27T12:08:54.6071326+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "408",
     "ISPB": "36586946",
     "Document": "36.586.946/0001-29",
@@ -5180,6 +5411,7 @@
     "DateUpdated": "2021-05-05T09:11:12.711513-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "410",
     "ISPB": "05684234",
     "Document": "05.684.234/0001-19",
@@ -5201,6 +5433,7 @@
     "DateUpdated": "2022-09-27T12:08:38.4172421+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "411",
     "ISPB": "05192316",
     "Document": "05.192.316/0001-46",
@@ -5224,6 +5457,7 @@
     "DateUpdated": "2022-06-23T13:51:35.2350045+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "412",
     "ISPB": "15173776",
     "Document": "15.173.776/0001-80",
@@ -5245,6 +5479,7 @@
     "DateUpdated": "2022-10-27T12:08:55.982745+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "413",
     "ISPB": "01858774",
     "Document": "01.858.774/0001-10",
@@ -5266,6 +5501,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3691194+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "414",
     "ISPB": "37526080",
     "Document": "37.526.080/0001-23",
@@ -5287,6 +5523,7 @@
     "DateUpdated": "2022-10-29T12:07:14.5244799+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "416",
     "ISPB": "19324634",
     "Document": "19.324.634/0001-28",
@@ -5308,6 +5545,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114924-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "418",
     "ISPB": "37414009",
     "Document": "37.414.009/0001-59",
@@ -5329,6 +5567,7 @@
     "DateUpdated": "2021-08-24T13:06:55.8926612-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "419",
     "ISPB": "38129006",
     "Document": "38.129.006/0001-36",
@@ -5350,6 +5589,7 @@
     "DateUpdated": "2022-01-05T11:00:33.9703822+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "421",
     "ISPB": "39343350",
     "Document": "39.343.350/0001-96",
@@ -5371,6 +5611,7 @@
     "DateUpdated": "2023-03-22T12:07:29.6493938+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "422",
     "ISPB": "58160789",
     "Document": "58.160.789/0001-28",
@@ -5400,6 +5641,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286868+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "423",
     "ISPB": "00460065",
     "Document": "00.460.065/0001-10",
@@ -5421,6 +5663,7 @@
     "DateUpdated": "2021-06-03T10:45:43.4334304-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "425",
     "ISPB": "03881423",
     "Document": "03.881.423/0001-56",
@@ -5447,6 +5690,7 @@
     "DateUpdated": "2022-12-28T12:06:49.6418965+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "426",
     "ISPB": "11285104",
     "Document": "11.285.104/0001-06",
@@ -5468,6 +5712,7 @@
     "DateUpdated": "2023-03-03T14:56:53.496954+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "427",
     "ISPB": "27302181",
     "Document": "27.302.181/0001-67",
@@ -5491,6 +5736,7 @@
     "DateUpdated": "2022-11-18T12:06:54.7507678+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "428",
     "ISPB": "39664698",
     "Document": "39.664.698/0001-85",
@@ -5512,6 +5758,7 @@
     "DateUpdated": "2022-07-19T12:06:19.3291547+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "429",
     "ISPB": "05676026",
     "Document": "05.676.026/0001-78",
@@ -5537,6 +5784,7 @@
     "DateUpdated": "2023-06-04T14:21:02.173245+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "430",
     "ISPB": "00204963",
     "Document": "00.204.963/0001-07",
@@ -5558,6 +5806,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3693815+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "433",
     "ISPB": "44077014",
     "Document": "44.077.014/0001-89",
@@ -5579,6 +5828,7 @@
     "DateUpdated": "2021-06-22T10:03:37.2758835-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "435",
     "ISPB": "38224857",
     "Document": "38.224.857/0001-68",
@@ -5600,6 +5850,7 @@
     "DateUpdated": "2022-08-10T12:06:36.5859495+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "438",
     "ISPB": "67030395",
     "Document": "67.030.395/0001-46",
@@ -5621,6 +5872,7 @@
     "DateUpdated": "2022-08-25T12:36:48.5303514+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "439",
     "ISPB": "16695922",
     "Document": "16.695.922/0001-09",
@@ -5642,6 +5894,7 @@
     "DateUpdated": "2023-03-04T12:06:42.2804637+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "440",
     "ISPB": "82096447",
     "Document": "82.096.447/0001-70",
@@ -5663,6 +5916,7 @@
     "DateUpdated": "2021-10-23T20:54:59.5267227-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "442",
     "ISPB": "87963450",
     "Document": "87.963.450/0001-68",
@@ -5684,6 +5938,7 @@
     "DateUpdated": "2021-09-13T19:08:16.9817393-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "443",
     "ISPB": "39416705",
     "Document": "39.416.705/0001-20",
@@ -5705,6 +5960,7 @@
     "DateUpdated": "2021-11-22T11:00:23.6790215-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "444",
     "ISPB": "40654622",
     "Document": "40.654.622/0001-58",
@@ -5726,6 +5982,7 @@
     "DateUpdated": "2022-10-19T12:08:46.7241587+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "445",
     "ISPB": "35551187",
     "Document": "35.551.187/0001-04",
@@ -5747,10 +6004,11 @@
     "DateUpdated": "2021-06-22T10:03:37.2758811-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "447",
     "ISPB": "12392983",
     "Document": "12.392.983/0001-38",
-    "LongName": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO",
+    "LongName": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
     "ShortName": "MIRAE ASSET CCTVM LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -5765,9 +6023,10 @@
     "DateOperationStarted": "2021-09-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-28T05:25:19.347575-03:00",
-    "DateUpdated": "2021-09-28T05:25:19.3476005-03:00"
+    "DateUpdated": "2023-09-25T12:06:32.0843257+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "448",
     "ISPB": "39669186",
     "Document": "39.669.186/0001-01",
@@ -5789,6 +6048,7 @@
     "DateUpdated": "2021-08-24T13:06:55.8926625-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "449",
     "ISPB": "37555231",
     "Document": "37.555.231/0001-71",
@@ -5810,6 +6070,7 @@
     "DateUpdated": "2022-12-27T12:06:36.1117922+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "450",
     "ISPB": "13203354",
     "Document": "13.203.354/0001-85",
@@ -5831,6 +6092,7 @@
     "DateUpdated": "2022-10-29T12:07:14.5229596+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "451",
     "ISPB": "40475846",
     "Document": "40.475.846/0001-00",
@@ -5852,6 +6114,7 @@
     "DateUpdated": "2022-02-01T08:17:39.0832325+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "452",
     "ISPB": "39676772",
     "Document": "39.676.772/0001-83",
@@ -5873,6 +6136,7 @@
     "DateUpdated": "2023-03-29T12:07:06.886751+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "454",
     "ISPB": "41592532",
     "Document": "41.592.532/0001-42",
@@ -5894,6 +6158,7 @@
     "DateUpdated": "2021-11-22T11:00:23.6790225-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "455",
     "ISPB": "38429045",
     "Document": "38.429.045/0001-59",
@@ -5915,6 +6180,7 @@
     "DateUpdated": "2022-11-30T12:07:13.984961+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "456",
     "ISPB": "60498557",
     "Document": "60.498.557/0001-26",
@@ -5936,6 +6202,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3459364+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "457",
     "ISPB": "39587424",
     "Document": "39.587.424/0001-30",
@@ -5957,6 +6224,7 @@
     "DateUpdated": "2023-04-18T12:07:16.1884183+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "458",
     "ISPB": "07253654",
     "Document": "07.253.654/0001-76",
@@ -5978,10 +6246,11 @@
     "DateUpdated": "2021-09-13T19:08:16.9817374-03:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "459",
     "ISPB": "04546162",
     "Document": "04.546.162/0001-80",
-    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CREDIFISCO",
     "ShortName": "CCM SERV. PÚBLICOS SP",
     "Network": "RSFN",
     "Type": null,
@@ -5998,9 +6267,10 @@
     "DateOperationStarted": "2021-11-04",
     "DatePixStarted": null,
     "DateRegistered": "2021-11-22T11:00:23.6789568-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.957026+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0807244+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "460",
     "ISPB": "42047025",
     "Document": "42.047.025/0001-90",
@@ -6022,6 +6292,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3661816+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "461",
     "ISPB": "19540550",
     "Document": "19.540.550/0001-21",
@@ -6043,6 +6314,7 @@
     "DateUpdated": "2022-10-22T12:07:53.6397295+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "462",
     "ISPB": "39908427",
     "Document": "39.908.427/0001-28",
@@ -6064,6 +6336,7 @@
     "DateUpdated": "2021-12-13T12:13:48.6766832+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "463",
     "ISPB": "40434681",
     "Document": "40.434.681/0001-10",
@@ -6085,6 +6358,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3057404+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "464",
     "ISPB": "60518222",
     "Document": "60.518.222/0001-22",
@@ -6106,6 +6380,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3532168+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "465",
     "ISPB": "40083667",
     "Document": "40.083.667/0001-10",
@@ -6127,6 +6402,7 @@
     "DateUpdated": "2023-03-21T12:07:14.1153681+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "467",
     "ISPB": "33886862",
     "Document": "33.886.862/0001-12",
@@ -6148,6 +6424,7 @@
     "DateUpdated": "2021-12-13T12:13:48.9317918+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "468",
     "ISPB": "04862600",
     "Document": "04.862.600/0001-10",
@@ -6173,11 +6450,12 @@
     "DateUpdated": "2022-06-23T13:51:35.2273425+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "469",
     "ISPB": "07138049",
     "Document": "07.138.049/0001-54",
-    "LongName": "LIGA INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "LIGA INVEST DTVM LTDA.",
+    "LongName": "PICPAY INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "PICPAY INVEST",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -6191,9 +6469,10 @@
     "DateOperationStarted": "2022-03-09",
     "DatePixStarted": null,
     "DateRegistered": "2022-03-16T07:58:41.113663+00:00",
-    "DateUpdated": "2022-08-05T12:06:01.5908103+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0826218+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "470",
     "ISPB": "18394228",
     "Document": "18.394.228/0001-79",
@@ -6215,10 +6494,11 @@
     "DateUpdated": "2023-03-03T14:56:53.4974414+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "471",
     "ISPB": "04831810",
     "Document": "04.831.810/0001-40",
-    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO",
     "ShortName": "CECM SERV PUBL PINHÃO",
     "Network": "RSFN",
     "Type": null,
@@ -6233,9 +6513,10 @@
     "DateOperationStarted": "2022-07-18",
     "DatePixStarted": null,
     "DateRegistered": "2022-07-14T12:06:01.0960677+00:00",
-    "DateUpdated": "2022-07-14T12:06:01.0960678+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0814668+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "473",
     "ISPB": "33466988",
     "Document": "33.466.988/0001-38",
@@ -6257,6 +6538,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115074-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "475",
     "ISPB": "10371492",
     "Document": "10.371.492/0001-85",
@@ -6280,6 +6562,7 @@
     "DateUpdated": "2023-03-25T12:06:52.930936+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "477",
     "ISPB": "33042953",
     "Document": "33.042.953/0001-71",
@@ -6301,6 +6584,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115056-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "478",
     "ISPB": "11760553",
     "Document": "11.760.553/0001-69",
@@ -6328,6 +6612,7 @@
     "DateUpdated": "2023-06-23T17:11:26.6713328+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "479",
     "ISPB": "60394079",
     "Document": "60.394.079/0001-04",
@@ -6349,6 +6634,7 @@
     "DateUpdated": "2021-05-21T23:01:28.1603338-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "481",
     "ISPB": "43599047",
     "Document": "43.599.047/0001-26",
@@ -6370,6 +6656,7 @@
     "DateUpdated": "2023-08-30T15:00:46.7519457+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "482",
     "ISPB": "42259084",
     "Document": "42.259.084/0001-22",
@@ -6391,6 +6678,7 @@
     "DateUpdated": "2022-10-04T12:08:42.7066128+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "484",
     "ISPB": "36864992",
     "Document": "36.864.992/0001-42",
@@ -6412,6 +6700,7 @@
     "DateUpdated": "2022-07-16T12:07:46.2417743+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "487",
     "ISPB": "62331228",
     "Document": "62.331.228/0001-11",
@@ -6433,6 +6722,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4029972+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "488",
     "ISPB": "46518205",
     "Document": "46.518.205/0001-64",
@@ -6454,6 +6744,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115178-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "492",
     "ISPB": "49336860",
     "Document": "49.336.860/0001-90",
@@ -6475,6 +6766,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115185-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "495",
     "ISPB": "44189447",
     "Document": "44.189.447/0001-26",
@@ -6496,6 +6788,7 @@
     "DateUpdated": "2021-05-05T09:11:12.711517-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "505",
     "ISPB": "32062580",
     "Document": "32.062.580/0001-38",
@@ -6517,6 +6810,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3443935+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "506",
     "ISPB": "42066258",
     "Document": "42.066.258/0001-30",
@@ -6538,6 +6832,7 @@
     "DateUpdated": "2022-07-19T12:06:21.2700856+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "507",
     "ISPB": "37229413",
     "Document": "37.229.413/0001-52",
@@ -6559,6 +6854,7 @@
     "DateUpdated": "2023-03-03T14:56:53.4981646+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "508",
     "ISPB": "61384004",
     "Document": "61.384.004/0001-05",
@@ -6580,6 +6876,7 @@
     "DateUpdated": "2022-08-13T12:30:35.4201883+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "509",
     "ISPB": "13935893",
     "Document": "13.935.893/0001-09",
@@ -6601,6 +6898,7 @@
     "DateUpdated": "2023-03-25T12:06:52.9307041+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "510",
     "ISPB": "39738065",
     "Document": "39.738.065/0001-74",
@@ -6622,6 +6920,7 @@
     "DateUpdated": "2022-11-15T12:07:18.5294792+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "511",
     "ISPB": "44683140",
     "Document": "44.683.140/0001-87",
@@ -6643,6 +6942,7 @@
     "DateUpdated": "2023-04-07T12:06:25.5094876+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "512",
     "ISPB": "36266751",
     "Document": "36.266.751/0001-00",
@@ -6664,6 +6964,7 @@
     "DateUpdated": "2022-11-04T12:08:27.675962+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "513",
     "ISPB": "44728700",
     "Document": "44.728.700/0001-72",
@@ -6685,6 +6986,7 @@
     "DateUpdated": "2022-11-30T12:07:13.9849612+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "516",
     "ISPB": "36583700",
     "Document": "36.583.700/0001-01",
@@ -6709,6 +7011,7 @@
     "DateUpdated": "2023-03-25T12:06:50.7821051+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "518",
     "ISPB": "37679449",
     "Document": "37.679.449/0001-38",
@@ -6730,6 +7033,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3112608+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "519",
     "ISPB": "40768766",
     "Document": "40.768.766/0001-35",
@@ -6751,6 +7055,29 @@
     "DateUpdated": "2022-12-07T12:06:48.2610093+00:00"
   },
   {
+    "HasChanges": false,
+    "COMPE": "520",
+    "ISPB": "44705774",
+    "Document": "44.705.774/0001-93",
+    "LongName": "SOMAPAY SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "SOMAPAY SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836686+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836688+00:00"
+  },
+  {
+    "HasChanges": false,
     "COMPE": "521",
     "ISPB": "44019481",
     "Document": "44.019.481/0001-52",
@@ -6772,6 +7099,7 @@
     "DateUpdated": "2023-03-03T14:56:55.311261+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "522",
     "ISPB": "47593544",
     "Document": "47.593.544/0001-78",
@@ -6793,6 +7121,7 @@
     "DateUpdated": "2023-03-22T12:07:30.8431248+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "523",
     "ISPB": "44292580",
     "Document": "44.292.580/0001-03",
@@ -6814,6 +7143,7 @@
     "DateUpdated": "2023-04-11T12:06:56.2721903+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "524",
     "ISPB": "45854066",
     "Document": "45.854.066/0001-87",
@@ -6835,6 +7165,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3112615+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "525",
     "ISPB": "34265629",
     "Document": "34.265.629/0001-85",
@@ -6856,6 +7187,7 @@
     "DateUpdated": "2022-11-30T12:07:13.9849609+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "526",
     "ISPB": "46026562",
     "Document": "46.026.562/0001-05",
@@ -6877,6 +7209,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3112616+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "527",
     "ISPB": "44478623",
     "Document": "44.478.623/0001-40",
@@ -6898,6 +7231,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3112613+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "528",
     "ISPB": "34829992",
     "Document": "34.829.992/0001-86",
@@ -6919,6 +7253,7 @@
     "DateUpdated": "2023-03-03T14:56:55.3112607+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "529",
     "ISPB": "17079937",
     "Document": "17.079.937/0001-05",
@@ -6940,6 +7275,7 @@
     "DateUpdated": "2023-06-08T12:06:45.0495454+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "530",
     "ISPB": "47873449",
     "Document": "47.873.449/0001-28",
@@ -6961,6 +7297,34 @@
     "DateUpdated": "2023-04-01T12:05:41.8693307+00:00"
   },
   {
+    "HasChanges": true,
+    "COMPE": "531",
+    "ISPB": "34337707",
+    "Document": "34.337.707/0001-00",
+    "LongName": "BMP SOCIEDADE DE CRÉDITO DIRETO S.A",
+    "ShortName": "BMP SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": [
+      "Imobiliário",
+      "Outros Créditos",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
+    ],
+    "Url": null,
+    "DateOperationStarted": "2023-05-22",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.683667+00:00",
+    "DateUpdated": "2023-09-25T12:06:33.7419135+00:00"
+  },
+  {
+    "HasChanges": false,
     "COMPE": "532",
     "ISPB": "45745537",
     "Document": "45.745.537/0001-19",
@@ -6982,6 +7346,29 @@
     "DateUpdated": "2023-03-29T12:07:07.8301112+00:00"
   },
   {
+    "HasChanges": false,
+    "COMPE": "533",
+    "ISPB": "22575466",
+    "Document": "22.575.466/0001-58",
+    "LongName": "M18 INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "M18 IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-07-17",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836661+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836661+00:00"
+  },
+  {
+    "HasChanges": false,
     "COMPE": "534",
     "ISPB": "00714671",
     "Document": "00.714.671/0001-14",
@@ -7003,11 +7390,12 @@
     "DateUpdated": "2023-03-29T12:07:06.2710986+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "535",
     "ISPB": "39519944",
     "Document": "39.519.944/0001-05",
-    "LongName": "MARÚ SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "MARU SCD S.A.",
+    "LongName": "OPEA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "OPEA SCD",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7021,9 +7409,10 @@
     "DateOperationStarted": "2023-02-10",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-03T14:56:55.3112609+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112609+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0880042+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "536",
     "ISPB": "20855875",
     "Document": "20.855.875/0001-82",
@@ -7045,10 +7434,11 @@
     "DateUpdated": "2023-06-23T17:11:26.6713607+00:00"
   },
   {
+    "HasChanges": true,
     "COMPE": "537",
     "ISPB": "45756448",
     "Document": "45.756.448/0001-78",
-    "LongName": "MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE",
+    "LongName": "MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "MICROCASH SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -7063,9 +7453,32 @@
     "DateOperationStarted": "2023-03-06",
     "DatePixStarted": "2023-03-28 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112613+00:00",
-    "DateUpdated": "2023-03-23T12:06:51.3911225+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0890776+00:00"
   },
   {
+    "HasChanges": false,
+    "COMPE": "538",
+    "ISPB": "20251847",
+    "Document": "20.251.847/0001-56",
+    "LongName": "SUDACRED - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
+    "ShortName": "SUDACRED SCMEPP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-05-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836659+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.683666+00:00"
+  },
+  {
+    "HasChanges": false,
     "COMPE": "539",
     "ISPB": "00122327",
     "Document": "00.122.327/0001-36",
@@ -7089,6 +7502,7 @@
     "DateUpdated": "2023-04-14T12:06:49.2612228+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "541",
     "ISPB": "00954288",
     "Document": "00.954.288/0001-33",
@@ -7110,6 +7524,73 @@
     "DateUpdated": "2023-03-03T14:56:55.3112603+00:00"
   },
   {
+    "HasChanges": true,
+    "COMPE": "542",
+    "ISPB": "18189547",
+    "Document": "18.189.547/0001-42",
+    "LongName": "CLOUDWALK INSTITUIÇÃO DE PAGAMENTO E SERVICOS LTDA",
+    "ShortName": "CLOUDWALK IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-07-19",
+    "DatePixStarted": "2023-08-24 16:40:00",
+    "DateRegistered": "2023-09-25T12:06:34.6836657+00:00",
+    "DateUpdated": "2023-09-25T12:06:33.1953693+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "543",
+    "ISPB": "92825397",
+    "Document": "92.825.397/0001-79",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS ELETRICITÁRIOS E DOS TRABALHADORES DAS EMPRESAS DO SETOR DE ENERGIA - COOPCRECE",
+    "ShortName": "COOPCRECE",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-06-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836695+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836697+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "544",
+    "ISPB": "38593706",
+    "Document": "38.593.706/0001-87",
+    "LongName": "MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "MULTICRED SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836672+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836674+00:00"
+  },
+  {
+    "HasChanges": false,
     "COMPE": "545",
     "ISPB": "17352220",
     "Document": "17.352.220/0001-87",
@@ -7131,6 +7612,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114893-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "546",
     "ISPB": "30980539",
     "Document": "30.980.539/0001-15",
@@ -7152,11 +7634,166 @@
     "DateUpdated": "2023-04-19T12:06:59.5516534+00:00"
   },
   {
+    "HasChanges": false,
+    "COMPE": "547",
+    "ISPB": "45331622",
+    "Document": "45.331.622/0001-30",
+    "LongName": "BNK DIGITAL SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "BNK DIGITAL SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-06-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836689+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.683669+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "548",
+    "ISPB": "06249129",
+    "Document": "06.249.129/0001-14",
+    "LongName": "RPW S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "RPW S.A. SCFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-05-29",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836342+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836647+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "549",
+    "ISPB": "15489568",
+    "Document": "15.489.568/0001-95",
+    "LongName": "INTRA INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "INTRA DTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-06-19",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836654+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836655+00:00"
+  },
+  {
+    "HasChanges": true,
+    "COMPE": "550",
+    "ISPB": "32074986",
+    "Document": "32.074.986/0001-30",
+    "LongName": "BEETELLER INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "ShortName": "BEETELLER",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-11",
+    "DatePixStarted": "2022-01-03 14:55:45",
+    "DateRegistered": "2023-09-25T12:06:34.6836666+00:00",
+    "DateUpdated": "2023-09-25T12:06:33.3316109+00:00"
+  },
+  {
+    "HasChanges": true,
+    "COMPE": "552",
+    "ISPB": "32192325",
+    "Document": "32.192.325/0001-00",
+    "LongName": "UZZIPAY INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "UZZIPAY IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-13",
+    "DatePixStarted": "2021-03-05 10:42:15",
+    "DateRegistered": "2023-09-25T12:06:34.6836668+00:00",
+    "DateUpdated": "2023-09-25T12:06:33.3330821+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "553",
+    "ISPB": "48707451",
+    "Document": "48.707.451/0001-90",
+    "LongName": "PERCAPITAL SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "PERCAPITAL SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836691+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836692+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "554",
+    "ISPB": "28811341",
+    "Document": "28.811.341/0001-66",
+    "LongName": "STONEX BANCO DE CÂMBIO S.A.",
+    "ShortName": "STONEX BANCO DE CÂMBIO S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-07-24",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836663+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836664+00:00"
+  },
+  {
+    "HasChanges": true,
     "COMPE": "555",
     "ISPB": "02682287",
     "Document": "02.682.287/0001-02",
     "LongName": "PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS",
-    "ShortName": "PAN FINANCEIRA S.A.",
+    "ShortName": "PAN CFI",
     "Network": null,
     "Type": null,
     "PixType": null,
@@ -7170,9 +7807,101 @@
     "DateOperationStarted": null,
     "DatePixStarted": null,
     "DateRegistered": "2023-08-30T15:00:47.667846+00:00",
-    "DateUpdated": "2023-08-30T15:00:47.6678713+00:00"
+    "DateUpdated": "2023-09-25T12:06:32.0796562+00:00"
   },
   {
+    "HasChanges": false,
+    "COMPE": "556",
+    "ISPB": "40333582",
+    "Document": "40.333.582/0001-42",
+    "LongName": "PROSEFTUR CORRETORA DE CAMBIO S.A",
+    "ShortName": "PROSEFTUR",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-08-03",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836679+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.683668+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "559",
+    "ISPB": "49288113",
+    "Document": "49.288.113/0001-23",
+    "LongName": "KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "KANASTRA SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-25",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836693+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836694+00:00"
+  },
+  {
+    "HasChanges": false,
+    "COMPE": "563",
+    "ISPB": "40276692",
+    "Document": "40.276.692/0001-10",
+    "LongName": "PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A",
+    "ShortName": "PROTEGE PAY CASH IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-18",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836676+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6836677+00:00"
+  },
+  {
+    "HasChanges": true,
+    "COMPE": "567",
+    "ISPB": "33040601",
+    "Document": "33.040.601/0001-87",
+    "LongName": "CREDITAQUI FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "CREDITAQUI FINANCEIRA S.A. - CFI",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": [
+      "Consignado",
+      "Veículos e Outros Créditos"
+    ],
+    "Url": null,
+    "DateOperationStarted": "2023-08-28",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:06:34.6836669+00:00",
+    "DateUpdated": "2023-09-25T12:06:34.6026653+00:00"
+  },
+  {
+    "HasChanges": false,
     "COMPE": "600",
     "ISPB": "59118133",
     "Document": "59.118.133/0001-00",
@@ -7198,6 +7927,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5509406+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "604",
     "ISPB": "31895683",
     "Document": "31.895.683/0001-16",
@@ -7221,6 +7951,7 @@
     "DateUpdated": "2022-06-23T13:51:34.550029+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "610",
     "ISPB": "78626983",
     "Document": "78.626.983/0001-63",
@@ -7242,6 +7973,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3543704+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "611",
     "ISPB": "61820817",
     "Document": "61.820.817/0001-09",
@@ -7266,6 +7998,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5517087+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "612",
     "ISPB": "31880826",
     "Document": "31.880.826/0001-16",
@@ -7287,6 +8020,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3478476+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "613",
     "ISPB": "60850229",
     "Document": "60.850.229/0001-47",
@@ -7311,6 +8045,7 @@
     "DateUpdated": "2022-06-23T13:51:35.2252774+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "623",
     "ISPB": "59285411",
     "Document": "59.285.411/0001-13",
@@ -7338,6 +8073,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5517011+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "626",
     "ISPB": "61348538",
     "Document": "61.348.538/0001-86",
@@ -7361,6 +8097,7 @@
     "DateUpdated": "2022-07-22T07:49:18.402843+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "630",
     "ISPB": "58497702",
     "Document": "58.497.702/0001-02",
@@ -7382,6 +8119,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4026407+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "633",
     "ISPB": "68900810",
     "Document": "68.900.810/0001-38",
@@ -7407,6 +8145,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5528196+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "634",
     "ISPB": "17351180",
     "Document": "17.351.180/0001-59",
@@ -7428,6 +8167,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3692969+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "637",
     "ISPB": "60889128",
     "Document": "60.889.128/0001-80",
@@ -7449,6 +8189,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3692893+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "643",
     "ISPB": "62144175",
     "Document": "62.144.175/0001-20",
@@ -7474,6 +8215,7 @@
     "DateUpdated": "2023-03-03T14:56:54.649929+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "652",
     "ISPB": "60872504",
     "Document": "60.872.504/0001-23",
@@ -7495,6 +8237,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115274-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "653",
     "ISPB": "61024352",
     "Document": "61.024.352/0001-71",
@@ -7516,6 +8259,7 @@
     "DateUpdated": "2022-06-23T13:48:15.3484201+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "654",
     "ISPB": "92874270",
     "Document": "92.874.270/0001-40",
@@ -7542,6 +8286,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6472589+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "655",
     "ISPB": "59588111",
     "Document": "59.588.111/0001-03",
@@ -7571,6 +8316,7 @@
     "DateUpdated": "2023-07-23T01:05:58.8642264+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "707",
     "ISPB": "62232889",
     "Document": "62.232.889/0001-90",
@@ -7600,6 +8346,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5486005+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "712",
     "ISPB": "78632767",
     "Document": "78.632.767/0001-20",
@@ -7621,6 +8368,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115458-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "720",
     "ISPB": "80271455",
     "Document": "80.271.455/0001-80",
@@ -7645,6 +8393,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5528348+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "739",
     "ISPB": "00558456",
     "Document": "00.558.456/0001-71",
@@ -7672,6 +8421,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6458387+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "741",
     "ISPB": "00517645",
     "Document": "00.517.645/0001-04",
@@ -7697,6 +8447,7 @@
     "DateUpdated": "2022-06-23T13:51:34.5528273+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "743",
     "ISPB": "00795423",
     "Document": "00.795.423/0001-45",
@@ -7720,6 +8471,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4000454+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "745",
     "ISPB": "33479023",
     "Document": "33.479.023/0001-80",
@@ -7744,6 +8496,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4019995+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "746",
     "ISPB": "30723886",
     "Document": "30.723.886/0001-62",
@@ -7765,6 +8518,7 @@
     "DateUpdated": "2023-07-23T01:05:58.8642183+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "747",
     "ISPB": "01023570",
     "Document": "01.023.570/0001-60",
@@ -7786,6 +8540,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7114193-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "748",
     "ISPB": "01181521",
     "Document": "01.181.521/0001-55",
@@ -7816,6 +8571,7 @@
     "DateUpdated": "2023-07-22T23:17:11.6286448+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "751",
     "ISPB": "29030467",
     "Document": "29.030.467/0001-66",
@@ -7837,6 +8593,7 @@
     "DateUpdated": "2022-07-22T07:49:18.401793+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "752",
     "ISPB": "01522368",
     "Document": "01.522.368/0001-82",
@@ -7862,6 +8619,7 @@
     "DateUpdated": "2023-03-03T14:56:54.6457509+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "753",
     "ISPB": "74828799",
     "Document": "74.828.799/0001-45",
@@ -7885,6 +8643,7 @@
     "DateUpdated": "2022-07-22T07:49:18.4030981+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "754",
     "ISPB": "76543115",
     "Document": "76.543.115/0001-94",
@@ -7906,6 +8665,7 @@
     "DateUpdated": "2021-05-05T09:11:12.7115443-03:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "755",
     "ISPB": "62073200",
     "Document": "62.073.200/0001-21",
@@ -7927,6 +8687,7 @@
     "DateUpdated": "2023-03-03T14:56:54.4593738+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "756",
     "ISPB": "02038232",
     "Document": "02.038.232/0001-64",
@@ -7957,6 +8718,7 @@
     "DateUpdated": "2023-07-23T01:05:58.8642103+00:00"
   },
   {
+    "HasChanges": false,
     "COMPE": "757",
     "ISPB": "02318507",
     "Document": "02.318.507/0001-13",
