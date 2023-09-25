@@ -214,7 +214,7 @@
     "COMPE": "016",
     "ISPB": "04715685",
     "Document": "04.715.685/0001-03",
-    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RIO GRANDE DO SUL - SICOOB CREDITRAN",
     "ShortName": "CCM DESP TRÂNS SC E RS",
     "Network": "RSFN",
     "Type": null,
@@ -238,7 +238,7 @@
     "DateOperationStarted": "2012-05-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114553-03:00",
-    "DateUpdated": "2023-04-25T12:06:53.1109612+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.076968+00:00"
   },
   {
     "COMPE": "017",
@@ -1087,7 +1087,7 @@
     "COMPE": "093",
     "ISPB": "07945233",
     "Document": "07.945.233/0001-06",
-    "LongName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT",
+    "LongName": "PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "POLOCRED SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -1102,7 +1102,7 @@
     "DateOperationStarted": "2010-11-09",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114642-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3630957+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0782931+00:00"
   },
   {
     "COMPE": "094",
@@ -1172,7 +1172,7 @@
     "ISPB": "04632856",
     "Document": "04.632.856/0001-30",
     "LongName": "Credisis - Central de Cooperativas de Crédito Ltda.",
-    "ShortName": "CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
+    "ShortName": "CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -1186,7 +1186,7 @@
     "DateOperationStarted": "2011-02-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114549-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4004962+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0767922+00:00"
   },
   {
     "COMPE": "098",
@@ -1774,7 +1774,7 @@
     "COMPE": "133",
     "ISPB": "10398952",
     "Document": "10.398.952/0001-69",
-    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E SOLIDÁRIA - CRESOL CONFEDERAÇÃO",
     "ShortName": "CRESOL CONFEDERAÇÃO",
     "Network": "RSFN",
     "Type": null,
@@ -1797,7 +1797,7 @@
     "DateOperationStarted": "2016-05-02",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114705-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8642801+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0788021+00:00"
   },
   {
     "COMPE": "134",
@@ -1824,7 +1824,7 @@
     "COMPE": "136",
     "ISPB": "00315557",
     "Document": "00.315.557/0001-11",
-    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI",
+    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASIL.",
     "ShortName": "CONF NAC COOP CENTRAIS UNICRED",
     "Network": "RSFN",
     "Type": null,
@@ -1847,7 +1847,7 @@
     "DateOperationStarted": "2014-07-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112437-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.3999538+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0743577+00:00"
   },
   {
     "COMPE": "138",
@@ -2214,7 +2214,7 @@
     "COMPE": "183",
     "ISPB": "09210106",
     "Document": "09.210.106/0001-94",
-    "LongName": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO P",
+    "LongName": "SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE",
     "ShortName": "SOCRED SA - SCMEPP",
     "Network": "RSFN",
     "Type": null,
@@ -2229,7 +2229,7 @@
     "DateOperationStarted": "2017-06-12",
     "DatePixStarted": "2023-06-28 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114675-03:00",
-    "DateUpdated": "2023-04-07T12:06:25.2608456+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0785458+00:00"
   },
   {
     "COMPE": "184",
@@ -2300,7 +2300,7 @@
     "COMPE": "190",
     "ISPB": "03973814",
     "Document": "03.973.814/0001-09",
-    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI",
+    "LongName": "SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAIS DO RIO GRANDE DO SUL",
     "ShortName": "SERVICOOP",
     "Network": "RSFN",
     "Type": null,
@@ -2315,7 +2315,7 @@
     "DateOperationStarted": "2017-10-16",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114527-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3590559+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0762144+00:00"
   },
   {
     "COMPE": "191",
@@ -2342,8 +2342,8 @@
     "COMPE": "194",
     "ISPB": "20155248",
     "Document": "20.155.248/0001-39",
-    "LongName": "PARMETAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "PARMETAL DTVM LTDA",
+    "LongName": "UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "UNIDA DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2357,7 +2357,7 @@
     "DateOperationStarted": "2017-10-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114926-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114928-03:00"
+    "DateUpdated": "2023-09-25T12:28:23.0801983+00:00"
   },
   {
     "COMPE": "195",
@@ -3281,8 +3281,8 @@
     "COMPE": "292",
     "ISPB": "28650236",
     "Document": "28.650.236/0001-92",
-    "LongName": "BS2 Distribuidora de Títulos e Valores Mobiliários S.A.",
-    "ShortName": "BS2 DTVM S.A.",
+    "LongName": "GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "GALAPAGOS DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -3296,7 +3296,7 @@
     "DateOperationStarted": "2018-10-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114995-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114997-03:00"
+    "DateUpdated": "2023-09-25T12:28:23.0807008+00:00"
   },
   {
     "COMPE": "293",
@@ -3536,7 +3536,7 @@
     "COMPE": "312",
     "ISPB": "07693858",
     "Document": "07.693.858/0001-28",
-    "LongName": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LT",
+    "LongName": "HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "HSCM SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -3551,7 +3551,7 @@
     "DateOperationStarted": "2021-02-09",
     "DatePixStarted": "2022-12-12 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114635-03:00",
-    "DateUpdated": "2022-11-26T12:06:05.5091259+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0781373+00:00"
   },
   {
     "COMPE": "313",
@@ -3667,7 +3667,7 @@
     "COMPE": "321",
     "ISPB": "18188384",
     "Document": "18.188.384/0001-83",
-    "LongName": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LT",
+    "LongName": "CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "CREFAZ SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -3682,7 +3682,7 @@
     "DateOperationStarted": "2019-06-11",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114908-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.711491-03:00"
+    "DateUpdated": "2023-09-25T12:28:23.0798464+00:00"
   },
   {
     "COMPE": "322",
@@ -3799,7 +3799,7 @@
     "COMPE": "328",
     "ISPB": "05841967",
     "Document": "05.841.967/0001-10",
-    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA LTDA.",
     "ShortName": "CECM FABRIC CALÇADOS SAPIRANGA",
     "Network": "RSFN",
     "Type": null,
@@ -3814,7 +3814,7 @@
     "DateOperationStarted": "2021-03-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114602-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114603-03:00"
+    "DateUpdated": "2023-09-25T12:28:23.0775588+00:00"
   },
   {
     "COMPE": "329",
@@ -4126,7 +4126,7 @@
     "COMPE": "350",
     "ISPB": "01330387",
     "Document": "01.330.387/0001-07",
-    "LongName": "COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CENTRO OESTE DO PARANÁ - CREHNOR LARANJEIRAS",
     "ShortName": "CREHNOR LARANJEIRAS",
     "Network": "Internet",
     "Type": null,
@@ -4141,7 +4141,7 @@
     "DateOperationStarted": "2020-05-27",
     "DatePixStarted": "2022-01-07 08:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114431-03:00",
-    "DateUpdated": "2022-01-05T11:00:32.7656692+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0751863+00:00"
   },
   {
     "COMPE": "352",
@@ -4586,7 +4586,7 @@
     "COMPE": "379",
     "ISPB": "01658426",
     "Document": "01.658.426/0001-08",
-    "LongName": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITU",
+    "LongName": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA.",
     "ShortName": "CECM COOPERFORTE",
     "Network": "RSFN",
     "Type": null,
@@ -4607,7 +4607,7 @@
     "DateOperationStarted": "2020-09-01",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114443-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.1651622+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0754333+00:00"
   },
   {
     "COMPE": "380",
@@ -4657,7 +4657,7 @@
     "COMPE": "382",
     "ISPB": "04307598",
     "Document": "04.307.598/0001-17",
-    "LongName": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L",
+    "LongName": "FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LIMITADA.",
     "ShortName": "FIDUCIA SCMEPP LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -4672,7 +4672,7 @@
     "DateOperationStarted": "2020-07-31",
     "DatePixStarted": "2021-12-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114541-03:00",
-    "DateUpdated": "2021-12-13T12:13:48.2864703+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0763971+00:00"
   },
   {
     "COMPE": "383",
@@ -4699,7 +4699,7 @@
     "COMPE": "384",
     "ISPB": "11165756",
     "Document": "11.165.756/0001-07",
-    "LongName": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO",
+    "LongName": "GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "GLOBAL SCM LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -4714,13 +4714,13 @@
     "DateOperationStarted": "2020-10-13",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114726-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114728-03:00"
+    "DateUpdated": "2023-09-25T12:28:23.0790032+00:00"
   },
   {
     "COMPE": "385",
     "ISPB": "03844699",
     "Document": "03.844.699/0001-64",
-    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE VITORIA - CREDESTIVA.",
     "ShortName": "CECM DOS TRAB.PORT. DA G.VITOR",
     "Network": "Internet",
     "Type": null,
@@ -4735,7 +4735,7 @@
     "DateOperationStarted": "2022-03-08",
     "DatePixStarted": null,
     "DateRegistered": "2022-03-16T07:58:41.1136389+00:00",
-    "DateUpdated": "2022-03-16T07:58:41.1136624+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0760465+00:00"
   },
   {
     "COMPE": "386",
@@ -5015,7 +5015,7 @@
     "COMPE": "400",
     "ISPB": "05491616",
     "Document": "05.491.616/0001-26",
-    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT",
+    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS",
     "ShortName": "COOP CREDITAG",
     "Network": "Internet",
     "Type": null,
@@ -5030,7 +5030,7 @@
     "DateOperationStarted": "2021-02-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711459-03:00",
-    "DateUpdated": "2021-08-24T13:06:53.2851364-03:00"
+    "DateUpdated": "2023-09-25T12:28:23.0773881+00:00"
   },
   {
     "COMPE": "401",
@@ -5750,7 +5750,7 @@
     "COMPE": "447",
     "ISPB": "12392983",
     "Document": "12.392.983/0001-38",
-    "LongName": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO",
+    "LongName": "MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
     "ShortName": "MIRAE ASSET CCTVM LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -5765,7 +5765,7 @@
     "DateOperationStarted": "2021-09-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-28T05:25:19.347575-03:00",
-    "DateUpdated": "2021-09-28T05:25:19.3476005-03:00"
+    "DateUpdated": "2023-09-25T12:28:23.0792525+00:00"
   },
   {
     "COMPE": "448",
@@ -5981,7 +5981,7 @@
     "COMPE": "459",
     "ISPB": "04546162",
     "Document": "04.546.162/0001-80",
-    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CREDIFISCO",
     "ShortName": "CCM SERV. PÚBLICOS SP",
     "Network": "RSFN",
     "Type": null,
@@ -5998,7 +5998,7 @@
     "DateOperationStarted": "2021-11-04",
     "DatePixStarted": null,
     "DateRegistered": "2021-11-22T11:00:23.6789568-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.957026+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0765568+00:00"
   },
   {
     "COMPE": "460",
@@ -6176,8 +6176,8 @@
     "COMPE": "469",
     "ISPB": "07138049",
     "Document": "07.138.049/0001-54",
-    "LongName": "LIGA INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "LIGA INVEST DTVM LTDA.",
+    "LongName": "PICPAY INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "PICPAY INVEST",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -6191,7 +6191,7 @@
     "DateOperationStarted": "2022-03-09",
     "DatePixStarted": null,
     "DateRegistered": "2022-03-16T07:58:41.113663+00:00",
-    "DateUpdated": "2022-08-05T12:06:01.5908103+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0778895+00:00"
   },
   {
     "COMPE": "470",
@@ -6218,7 +6218,7 @@
     "COMPE": "471",
     "ISPB": "04831810",
     "Document": "04.831.810/0001-40",
-    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES",
+    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO",
     "ShortName": "CECM SERV PUBL PINHÃO",
     "Network": "RSFN",
     "Type": null,
@@ -6233,7 +6233,7 @@
     "DateOperationStarted": "2022-07-18",
     "DatePixStarted": null,
     "DateRegistered": "2022-07-14T12:06:01.0960677+00:00",
-    "DateUpdated": "2022-07-14T12:06:01.0960678+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0771302+00:00"
   },
   {
     "COMPE": "473",
@@ -6751,6 +6751,27 @@
     "DateUpdated": "2022-12-07T12:06:48.2610093+00:00"
   },
   {
+    "COMPE": "520",
+    "ISPB": "44705774",
+    "Document": "44.705.774/0001-93",
+    "LongName": "SOMAPAY SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "SOMAPAY SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347557+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347558+00:00"
+  },
+  {
     "COMPE": "521",
     "ISPB": "44019481",
     "Document": "44.019.481/0001-52",
@@ -6961,6 +6982,32 @@
     "DateUpdated": "2023-04-01T12:05:41.8693307+00:00"
   },
   {
+    "COMPE": "531",
+    "ISPB": "34337707",
+    "Document": "34.337.707/0001-00",
+    "LongName": "BMP SOCIEDADE DE CRÉDITO DIRETO S.A",
+    "ShortName": "BMP SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": [
+      "Imobiliário",
+      "Outros Créditos",
+      "Pessoal",
+      "Troca de Modalidade e Capital de Giro"
+    ],
+    "Url": null,
+    "DateOperationStarted": "2023-05-22",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347544+00:00",
+    "DateUpdated": "2023-09-25T12:28:24.3876191+00:00"
+  },
+  {
     "COMPE": "532",
     "ISPB": "45745537",
     "Document": "45.745.537/0001-19",
@@ -6980,6 +7027,27 @@
     "DatePixStarted": null,
     "DateRegistered": "2023-03-29T12:07:07.8301112+00:00",
     "DateUpdated": "2023-03-29T12:07:07.8301112+00:00"
+  },
+  {
+    "COMPE": "533",
+    "ISPB": "22575466",
+    "Document": "22.575.466/0001-58",
+    "LongName": "M18 INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "M18 IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-07-17",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347537+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347538+00:00"
   },
   {
     "COMPE": "534",
@@ -7006,8 +7074,8 @@
     "COMPE": "535",
     "ISPB": "39519944",
     "Document": "39.519.944/0001-05",
-    "LongName": "MARÚ SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "MARU SCD S.A.",
+    "LongName": "OPEA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "OPEA SCD",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7021,7 +7089,7 @@
     "DateOperationStarted": "2023-02-10",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-03T14:56:55.3112609+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112609+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0817578+00:00"
   },
   {
     "COMPE": "536",
@@ -7048,7 +7116,7 @@
     "COMPE": "537",
     "ISPB": "45756448",
     "Document": "45.756.448/0001-78",
-    "LongName": "MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE",
+    "LongName": "MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
     "ShortName": "MICROCASH SCMEPP LTDA.",
     "Network": "RSFN",
     "Type": null,
@@ -7063,7 +7131,28 @@
     "DateOperationStarted": "2023-03-06",
     "DatePixStarted": "2023-03-28 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112613+00:00",
-    "DateUpdated": "2023-03-23T12:06:51.3911225+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0822977+00:00"
+  },
+  {
+    "COMPE": "538",
+    "ISPB": "20251847",
+    "Document": "20.251.847/0001-56",
+    "LongName": "SUDACRED - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.",
+    "ShortName": "SUDACRED SCMEPP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-05-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347536+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347536+00:00"
   },
   {
     "COMPE": "539",
@@ -7110,6 +7199,69 @@
     "DateUpdated": "2023-03-03T14:56:55.3112603+00:00"
   },
   {
+    "COMPE": "542",
+    "ISPB": "18189547",
+    "Document": "18.189.547/0001-42",
+    "LongName": "CLOUDWALK INSTITUIÇÃO DE PAGAMENTO E SERVICOS LTDA",
+    "ShortName": "CLOUDWALK IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-07-19",
+    "DatePixStarted": "2023-08-24 16:40:00",
+    "DateRegistered": "2023-09-25T12:28:25.1347534+00:00",
+    "DateUpdated": "2023-09-25T12:28:23.9509901+00:00"
+  },
+  {
+    "COMPE": "543",
+    "ISPB": "92825397",
+    "Document": "92.825.397/0001-79",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS ELETRICITÁRIOS E DOS TRABALHADORES DAS EMPRESAS DO SETOR DE ENERGIA - COOPCRECE",
+    "ShortName": "COOPCRECE",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-06-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347564+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347565+00:00"
+  },
+  {
+    "COMPE": "544",
+    "ISPB": "38593706",
+    "Document": "38.593.706/0001-87",
+    "LongName": "MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "MULTICRED SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347546+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347547+00:00"
+  },
+  {
     "COMPE": "545",
     "ISPB": "17352220",
     "Document": "17.352.220/0001-87",
@@ -7152,11 +7304,158 @@
     "DateUpdated": "2023-04-19T12:06:59.5516534+00:00"
   },
   {
+    "COMPE": "547",
+    "ISPB": "45331622",
+    "Document": "45.331.622/0001-30",
+    "LongName": "BNK DIGITAL SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "BNK DIGITAL SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-06-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347559+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.134756+00:00"
+  },
+  {
+    "COMPE": "548",
+    "ISPB": "06249129",
+    "Document": "06.249.129/0001-14",
+    "LongName": "RPW S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "RPW S.A. SCFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-05-29",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.134727+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347529+00:00"
+  },
+  {
+    "COMPE": "549",
+    "ISPB": "15489568",
+    "Document": "15.489.568/0001-95",
+    "LongName": "INTRA INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "INTRA DTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-06-19",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347533+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347533+00:00"
+  },
+  {
+    "COMPE": "550",
+    "ISPB": "32074986",
+    "Document": "32.074.986/0001-30",
+    "LongName": "BEETELLER INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "ShortName": "BEETELLER",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-11",
+    "DatePixStarted": "2022-01-03 14:55:45",
+    "DateRegistered": "2023-09-25T12:28:25.1347541+00:00",
+    "DateUpdated": "2023-09-25T12:28:24.0611683+00:00"
+  },
+  {
+    "COMPE": "552",
+    "ISPB": "32192325",
+    "Document": "32.192.325/0001-00",
+    "LongName": "UZZIPAY INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "UZZIPAY IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-13",
+    "DatePixStarted": "2021-03-05 10:42:15",
+    "DateRegistered": "2023-09-25T12:28:25.1347542+00:00",
+    "DateUpdated": "2023-09-25T12:28:24.0622932+00:00"
+  },
+  {
+    "COMPE": "553",
+    "ISPB": "48707451",
+    "Document": "48.707.451/0001-90",
+    "LongName": "PERCAPITAL SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "PERCAPITAL SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347561+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347562+00:00"
+  },
+  {
+    "COMPE": "554",
+    "ISPB": "28811341",
+    "Document": "28.811.341/0001-66",
+    "LongName": "STONEX BANCO DE CÂMBIO S.A.",
+    "ShortName": "STONEX BANCO DE CÂMBIO S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-07-24",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347539+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.134754+00:00"
+  },
+  {
     "COMPE": "555",
     "ISPB": "02682287",
     "Document": "02.682.287/0001-02",
     "LongName": "PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS",
-    "ShortName": "PAN FINANCEIRA S.A.",
+    "ShortName": "PAN CFI",
     "Network": null,
     "Type": null,
     "PixType": null,
@@ -7170,7 +7469,94 @@
     "DateOperationStarted": null,
     "DatePixStarted": null,
     "DateRegistered": "2023-08-30T15:00:47.667846+00:00",
-    "DateUpdated": "2023-08-30T15:00:47.6678713+00:00"
+    "DateUpdated": "2023-09-25T12:28:23.0757285+00:00"
+  },
+  {
+    "COMPE": "556",
+    "ISPB": "40333582",
+    "Document": "40.333.582/0001-42",
+    "LongName": "PROSEFTUR CORRETORA DE CAMBIO S.A",
+    "ShortName": "PROSEFTUR",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-08-03",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.134755+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347551+00:00"
+  },
+  {
+    "COMPE": "559",
+    "ISPB": "49288113",
+    "Document": "49.288.113/0001-23",
+    "LongName": "KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "KANASTRA SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-25",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347563+00:00"
+  },
+  {
+    "COMPE": "563",
+    "ISPB": "40276692",
+    "Document": "40.276.692/0001-10",
+    "LongName": "PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A",
+    "ShortName": "PROTEGE PAY CASH IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-09-18",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347548+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.1347549+00:00"
+  },
+  {
+    "COMPE": "567",
+    "ISPB": "33040601",
+    "Document": "33.040.601/0001-87",
+    "LongName": "CREDITAQUI FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "CREDITAQUI FINANCEIRA S.A. - CFI",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": [
+      "Consignado",
+      "Veículos e Outros Créditos"
+    ],
+    "Url": null,
+    "DateOperationStarted": "2023-08-28",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-09-25T12:28:25.1347543+00:00",
+    "DateUpdated": "2023-09-25T12:28:25.0705327+00:00"
   },
   {
     "COMPE": "600",

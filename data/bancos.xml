@@ -187,7 +187,7 @@
     <COMPE>016</COMPE>
     <ISPB>04715685</ISPB>
     <Document>04.715.685/0001-03</Document>
-    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RI</LongName>
+    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DOS DESPACHANTES DE TRÂNSITO DE SANTA CATARINA E RIO GRANDE DO SUL - SICOOB CREDITRAN</LongName>
     <ShortName>CCM DESP TRÂNS SC E RS</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -208,7 +208,7 @@
     <DateOperationStarted>2012-05-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114553-03:00</DateRegistered>
-    <DateUpdated>2023-04-25T12:06:53.1109612Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.076968Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>017</COMPE>
@@ -955,7 +955,7 @@
     <COMPE>093</COMPE>
     <ISPB>07945233</ISPB>
     <Document>07.945.233/0001-06</Document>
-    <LongName>PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORT</LongName>
+    <LongName>PÓLOCRED   SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
     <ShortName>POLOCRED SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -966,7 +966,7 @@
     <DateOperationStarted>2010-11-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114642-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3630957Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0782931Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>094</COMPE>
@@ -1028,7 +1028,7 @@
     <ISPB>04632856</ISPB>
     <Document>04.632.856/0001-30</Document>
     <LongName>Credisis - Central de Cooperativas de Crédito Ltda.</LongName>
-    <ShortName>CREDISIS CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.</ShortName>
+    <ShortName>CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -1039,7 +1039,7 @@
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114549-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4004962Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0767922Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>098</COMPE>
@@ -1519,7 +1519,7 @@
     <COMPE>133</COMPE>
     <ISPB>10398952</ISPB>
     <Document>10.398.952/0001-69</Document>
-    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E</LongName>
+    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS DE CRÉDITO E ECONOMIA FAMILIAR E SOLIDÁRIA - CRESOL CONFEDERAÇÃO</LongName>
     <ShortName>CRESOL CONFEDERAÇÃO</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -1540,7 +1540,7 @@
     <DateOperationStarted>2016-05-02</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114705-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.8642801Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0788021Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>134</COMPE>
@@ -1561,7 +1561,7 @@
     <COMPE>136</COMPE>
     <ISPB>00315557</ISPB>
     <Document>00.315.557/0001-11</Document>
-    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASI</LongName>
+    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASIL.</LongName>
     <ShortName>CONF NAC COOP CENTRAIS UNICRED</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -1582,7 +1582,7 @@
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112437-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.3999538Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0743577Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>138</COMPE>
@@ -1860,7 +1860,7 @@
     <COMPE>183</COMPE>
     <ISPB>09210106</ISPB>
     <Document>09.210.106/0001-94</Document>
-    <LongName>SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO P</LongName>
+    <LongName>SOCRED S.A. - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE</LongName>
     <ShortName>SOCRED SA - SCMEPP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -1871,7 +1871,7 @@
     <DateOperationStarted>2017-06-12</DateOperationStarted>
     <DatePixStarted>2023-06-28 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114675-03:00</DateRegistered>
-    <DateUpdated>2023-04-07T12:06:25.2608456Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0785458Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>184</COMPE>
@@ -1927,7 +1927,7 @@
     <COMPE>190</COMPE>
     <ISPB>03973814</ISPB>
     <Document>03.973.814/0001-09</Document>
-    <LongName>SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAI</LongName>
+    <LongName>SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAIS DO RIO GRANDE DO SUL</LongName>
     <ShortName>SERVICOOP</ShortName>
     <Network>RSFN</Network>
     <Charge>true</Charge>
@@ -1936,7 +1936,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2017-10-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3590559Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0762144Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>191</COMPE>
@@ -1957,8 +1957,8 @@
     <COMPE>194</COMPE>
     <ISPB>20155248</ISPB>
     <Document>20.155.248/0001-39</Document>
-    <LongName>PARMETAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>PARMETAL DTVM LTDA</ShortName>
+    <LongName>UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>UNIDA DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1966,7 +1966,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2017-10-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114926-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114928-03:00</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0801983Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>195</COMPE>
@@ -2737,8 +2737,8 @@
     <COMPE>292</COMPE>
     <ISPB>28650236</ISPB>
     <Document>28.650.236/0001-92</Document>
-    <LongName>BS2 Distribuidora de Títulos e Valores Mobiliários S.A.</LongName>
-    <ShortName>BS2 DTVM S.A.</ShortName>
+    <LongName>GALAPAGOS CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>GALAPAGOS DTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2746,7 +2746,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2018-10-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114995-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114997-03:00</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0807008Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>293</COMPE>
@@ -2929,7 +2929,7 @@
     <COMPE>312</COMPE>
     <ISPB>07693858</ISPB>
     <Document>07.693.858/0001-28</Document>
-    <LongName>HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LT</LongName>
+    <LongName>HSCM - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
     <ShortName>HSCM SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -2940,7 +2940,7 @@
     <DateOperationStarted>2021-02-09</DateOperationStarted>
     <DatePixStarted>2022-12-12 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114635-03:00</DateRegistered>
-    <DateUpdated>2022-11-26T12:06:05.5091259Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0781373Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>313</COMPE>
@@ -3034,7 +3034,7 @@
     <COMPE>321</COMPE>
     <ISPB>18188384</ISPB>
     <Document>18.188.384/0001-83</Document>
-    <LongName>CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LT</LongName>
+    <LongName>CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.</LongName>
     <ShortName>CREFAZ SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3043,7 +3043,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2019-06-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114908-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.711491-03:00</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0798464Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>322</COMPE>
@@ -3141,7 +3141,7 @@
     <COMPE>328</COMPE>
     <ISPB>05841967</ISPB>
     <Document>05.841.967/0001-10</Document>
-    <LongName>COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA</LongName>
+    <LongName>COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS FABRICANTES DE CALÇADOS DE SAPIRANGA LTDA.</LongName>
     <ShortName>CECM FABRIC CALÇADOS SAPIRANGA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3150,7 +3150,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2021-03-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114602-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114603-03:00</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0775588Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>329</COMPE>
@@ -3423,7 +3423,7 @@
     <COMPE>350</COMPE>
     <ISPB>01330387</ISPB>
     <Document>01.330.387/0001-07</Document>
-    <LongName>COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CE</LongName>
+    <LongName>COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CENTRO OESTE DO PARANÁ - CREHNOR LARANJEIRAS</LongName>
     <ShortName>CREHNOR LARANJEIRAS</ShortName>
     <Network>Internet</Network>
     <PixType>DRCT</PixType>
@@ -3434,7 +3434,7 @@
     <DateOperationStarted>2020-05-27</DateOperationStarted>
     <DatePixStarted>2022-01-07 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114431-03:00</DateRegistered>
-    <DateUpdated>2022-01-05T11:00:32.7656692Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0751863Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>352</COMPE>
@@ -3792,7 +3792,7 @@
     <COMPE>379</COMPE>
     <ISPB>01658426</ISPB>
     <Document>01.658.426/0001-08</Document>
-    <LongName>COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITU</LongName>
+    <LongName>COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA.</LongName>
     <ShortName>CECM COOPERFORTE</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3808,7 +3808,7 @@
     </Products>
     <DateOperationStarted>2020-09-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114443-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.1651622Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0754333Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>380</COMPE>
@@ -3854,7 +3854,7 @@
     <COMPE>382</COMPE>
     <ISPB>04307598</ISPB>
     <Document>04.307.598/0001-17</Document>
-    <LongName>FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE L</LongName>
+    <LongName>FIDÚCIA SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LIMITADA.</LongName>
     <ShortName>FIDUCIA SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -3865,7 +3865,7 @@
     <DateOperationStarted>2020-07-31</DateOperationStarted>
     <DatePixStarted>2021-12-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114541-03:00</DateRegistered>
-    <DateUpdated>2021-12-13T12:13:48.2864703Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0763971Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>383</COMPE>
@@ -3888,7 +3888,7 @@
     <COMPE>384</COMPE>
     <ISPB>11165756</ISPB>
     <Document>11.165.756/0001-07</Document>
-    <LongName>GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO</LongName>
+    <LongName>GLOBAL FINANÇAS SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
     <ShortName>GLOBAL SCM LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -3899,13 +3899,13 @@
     <DateOperationStarted>2020-10-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114726-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114728-03:00</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0790032Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>385</COMPE>
     <ISPB>03844699</ISPB>
     <Document>03.844.699/0001-64</Document>
-    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE V</LongName>
+    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE VITORIA - CREDESTIVA.</LongName>
     <ShortName>CECM DOS TRAB.PORT. DA G.VITOR</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3914,7 +3914,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2022-03-08</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.1136389Z</DateRegistered>
-    <DateUpdated>2022-03-16T07:58:41.1136624Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0760465Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>386</COMPE>
@@ -4146,7 +4146,7 @@
     <COMPE>400</COMPE>
     <ISPB>05491616</ISPB>
     <Document>05.491.616/0001-26</Document>
-    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DO CENTRO OESTE - CREDIT</LongName>
+    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS</LongName>
     <ShortName>COOP CREDITAG</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4155,7 +4155,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711459-03:00</DateRegistered>
-    <DateUpdated>2021-08-24T13:06:53.2851364-03:00</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0773881Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>401</COMPE>
@@ -4730,7 +4730,7 @@
     <COMPE>447</COMPE>
     <ISPB>12392983</ISPB>
     <Document>12.392.983/0001-38</Document>
-    <LongName>MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MO</LongName>
+    <LongName>MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
     <ShortName>MIRAE ASSET CCTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4739,7 +4739,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2021-09-27</DateOperationStarted>
     <DateRegistered>2021-09-28T05:25:19.347575-03:00</DateRegistered>
-    <DateUpdated>2021-09-28T05:25:19.3476005-03:00</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0792525Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>448</COMPE>
@@ -4903,7 +4903,7 @@
     <COMPE>459</COMPE>
     <ISPB>04546162</ISPB>
     <Document>04.546.162/0001-80</Document>
-    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CRE</LongName>
+    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DE SERVIDORES PÚBLICOS DO ESTADO DE SÃO PAULO - CREDIFISCO</LongName>
     <ShortName>CCM SERV. PÚBLICOS SP</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4915,7 +4915,7 @@
     </Products>
     <DateOperationStarted>2021-11-04</DateOperationStarted>
     <DateRegistered>2021-11-22T11:00:23.6789568-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.957026Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0765568Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>460</COMPE>
@@ -5056,8 +5056,8 @@
     <COMPE>469</COMPE>
     <ISPB>07138049</ISPB>
     <Document>07.138.049/0001-54</Document>
-    <LongName>LIGA INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>LIGA INVEST DTVM LTDA.</ShortName>
+    <LongName>PICPAY INVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>PICPAY INVEST</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5065,7 +5065,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2022-03-09</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.113663Z</DateRegistered>
-    <DateUpdated>2022-08-05T12:06:01.5908103Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0778895Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>470</COMPE>
@@ -5086,7 +5086,7 @@
     <COMPE>471</COMPE>
     <ISPB>04831810</ISPB>
     <Document>04.831.810/0001-40</Document>
-    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRES</LongName>
+    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO</LongName>
     <ShortName>CECM SERV PUBL PINHÃO</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5095,7 +5095,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2022-07-18</DateOperationStarted>
     <DateRegistered>2022-07-14T12:06:01.0960677Z</DateRegistered>
-    <DateUpdated>2022-07-14T12:06:01.0960678Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0771302Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>473</COMPE>
@@ -5495,6 +5495,21 @@
     <DateUpdated>2022-12-07T12:06:48.2610093Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>520</COMPE>
+    <ISPB>44705774</ISPB>
+    <Document>44.705.774/0001-93</Document>
+    <LongName>SOMAPAY SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SOMAPAY SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-09-04</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347557Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347558Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>521</COMPE>
     <ISPB>44019481</ISPB>
     <Document>44.019.481/0001-52</Document>
@@ -5647,6 +5662,27 @@
     <DateUpdated>2023-04-01T12:05:41.8693307Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>531</COMPE>
+    <ISPB>34337707</ISPB>
+    <Document>34.337.707/0001-00</Document>
+    <LongName>BMP SOCIEDADE DE CRÉDITO DIRETO S.A</LongName>
+    <ShortName>BMP SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <Products>
+      <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade e Capital de Giro</Product>
+    </Products>
+    <DateOperationStarted>2023-05-22</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347544Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:24.3876191Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>532</COMPE>
     <ISPB>45745537</ISPB>
     <Document>45.745.537/0001-19</Document>
@@ -5660,6 +5696,21 @@
     <DateOperationStarted>2023-04-03</DateOperationStarted>
     <DateRegistered>2023-03-29T12:07:07.8301112Z</DateRegistered>
     <DateUpdated>2023-03-29T12:07:07.8301112Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>533</COMPE>
+    <ISPB>22575466</ISPB>
+    <Document>22.575.466/0001-58</Document>
+    <LongName>M18 INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>M18 IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-07-17</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347537Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347538Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>534</COMPE>
@@ -5682,8 +5733,8 @@
     <COMPE>535</COMPE>
     <ISPB>39519944</ISPB>
     <Document>39.519.944/0001-05</Document>
-    <LongName>MARÚ SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>MARU SCD S.A.</ShortName>
+    <LongName>OPEA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>OPEA SCD</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5691,7 +5742,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-02-10</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112609Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3112609Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0817578Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>536</COMPE>
@@ -5715,7 +5766,7 @@
     <COMPE>537</COMPE>
     <ISPB>45756448</ISPB>
     <Document>45.756.448/0001-78</Document>
-    <LongName>MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE</LongName>
+    <LongName>MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
     <ShortName>MICROCASH SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -5726,7 +5777,22 @@
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112613Z</DateRegistered>
-    <DateUpdated>2023-03-23T12:06:51.3911225Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0822977Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>538</COMPE>
+    <ISPB>20251847</ISPB>
+    <Document>20.251.847/0001-56</Document>
+    <LongName>SUDACRED - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
+    <ShortName>SUDACRED SCMEPP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-05-08</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347536Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347536Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>539</COMPE>
@@ -5762,6 +5828,53 @@
     <DateUpdated>2023-03-03T14:56:55.3112603Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>542</COMPE>
+    <ISPB>18189547</ISPB>
+    <Document>18.189.547/0001-42</Document>
+    <LongName>CLOUDWALK INSTITUIÇÃO DE PAGAMENTO E SERVICOS LTDA</LongName>
+    <ShortName>CLOUDWALK IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-07-19</DateOperationStarted>
+    <DatePixStarted>2023-08-24 16:40:00</DatePixStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347534Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:23.9509901Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>543</COMPE>
+    <ISPB>92825397</ISPB>
+    <Document>92.825.397/0001-79</Document>
+    <LongName>COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS ELETRICITÁRIOS E DOS TRABALHADORES DAS EMPRESAS DO SETOR DE ENERGIA - COOPCRECE</LongName>
+    <ShortName>COOPCRECE</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-06-23</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347564Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347565Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>544</COMPE>
+    <ISPB>38593706</ISPB>
+    <Document>38.593.706/0001-87</Document>
+    <LongName>MULTICRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>MULTICRED SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-09-04</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347546Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347547Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>545</COMPE>
     <ISPB>17352220</ISPB>
     <Document>17.352.220/0001-87</Document>
@@ -5794,17 +5907,190 @@
     <DateUpdated>2023-04-19T12:06:59.5516534Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>547</COMPE>
+    <ISPB>45331622</ISPB>
+    <Document>45.331.622/0001-30</Document>
+    <LongName>BNK DIGITAL SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>BNK DIGITAL SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-06-01</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347559Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.134756Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>548</COMPE>
+    <ISPB>06249129</ISPB>
+    <Document>06.249.129/0001-14</Document>
+    <LongName>RPW S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>RPW S.A. SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-05-29</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.134727Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347529Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>549</COMPE>
+    <ISPB>15489568</ISPB>
+    <Document>15.489.568/0001-95</Document>
+    <LongName>INTRA INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>INTRA DTVM</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-06-19</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347533Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347533Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>550</COMPE>
+    <ISPB>32074986</ISPB>
+    <Document>32.074.986/0001-30</Document>
+    <LongName>BEETELLER INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>BEETELLER</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-09-11</DateOperationStarted>
+    <DatePixStarted>2022-01-03 14:55:45</DatePixStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347541Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:24.0611683Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>552</COMPE>
+    <ISPB>32192325</ISPB>
+    <Document>32.192.325/0001-00</Document>
+    <LongName>UZZIPAY INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>UZZIPAY IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-09-13</DateOperationStarted>
+    <DatePixStarted>2021-03-05 10:42:15</DatePixStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347542Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:24.0622932Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>553</COMPE>
+    <ISPB>48707451</ISPB>
+    <Document>48.707.451/0001-90</Document>
+    <LongName>PERCAPITAL SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>PERCAPITAL SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-09-21</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347561Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347562Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>554</COMPE>
+    <ISPB>28811341</ISPB>
+    <Document>28.811.341/0001-66</Document>
+    <LongName>STONEX BANCO DE CÂMBIO S.A.</LongName>
+    <ShortName>STONEX BANCO DE CÂMBIO S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-07-24</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347539Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.134754Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>555</COMPE>
     <ISPB>02682287</ISPB>
     <Document>02.682.287/0001-02</Document>
     <LongName>PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
-    <ShortName>PAN FINANCEIRA S.A.</ShortName>
+    <ShortName>PAN CFI</ShortName>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
-    <DateUpdated>2023-08-30T15:00:47.6678713Z</DateUpdated>
+    <DateUpdated>2023-09-25T12:28:23.0757285Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>556</COMPE>
+    <ISPB>40333582</ISPB>
+    <Document>40.333.582/0001-42</Document>
+    <LongName>PROSEFTUR CORRETORA DE CAMBIO S.A</LongName>
+    <ShortName>PROSEFTUR</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-08-03</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.134755Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347551Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>559</COMPE>
+    <ISPB>49288113</ISPB>
+    <Document>49.288.113/0001-23</Document>
+    <LongName>KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>KANASTRA SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-09-25</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347563Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>563</COMPE>
+    <ISPB>40276692</ISPB>
+    <Document>40.276.692/0001-10</Document>
+    <LongName>PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A</LongName>
+    <ShortName>PROTEGE PAY CASH IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-09-18</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347548Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.1347549Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>567</COMPE>
+    <ISPB>33040601</ISPB>
+    <Document>33.040.601/0001-87</Document>
+    <LongName>CREDITAQUI FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>CREDITAQUI FINANCEIRA S.A. - CFI</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <Products>
+      <Product>Consignado</Product>
+      <Product>Veículos e Outros Créditos</Product>
+    </Products>
+    <DateOperationStarted>2023-08-28</DateOperationStarted>
+    <DateRegistered>2023-09-25T12:28:25.1347543Z</DateRegistered>
+    <DateUpdated>2023-09-25T12:28:25.0705327Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>600</COMPE>
