@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-09-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 509 - CELCOIN IP S.A. - 13.935.893/0001-09
+    - **PixType**: IDRT **->** DRCT
+    - **DatePixStarted**: 2020-11-03 06:30:00 **->** 2023-09-28 17:40:00
+
 ### 2023-09-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 18 banks
