@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 447 - MIRAE ASSET (BRASIL   CCTVM LTDA. - 12.392.983/0001-38
+    - **LongName**: MIRAE ASSET WEALTH MANAGEMENT (BRAZIL) CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA. **->** MIRAE ASSET (BRASIL   CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA.
+    - **ShortName**: MIRAE ASSET CCTVM LTDA **->** MIRAE ASSET (BRASIL   CCTVM LTDA.
+
 ### 2023-09-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
