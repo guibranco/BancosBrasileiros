@@ -4730,8 +4730,8 @@
     <COMPE>447</COMPE>
     <ISPB>12392983</ISPB>
     <Document>12.392.983/0001-38</Document>
-    <LongName>MIRAE ASSET (BRASIL   CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>MIRAE ASSET (BRASIL   CCTVM LTDA.</ShortName>
+    <LongName>MIRAE ASSET (BRASIL) CORRETORA DE CÂMBIO, TÍTULOS  E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>MIRAE ASSET (BRASIL) CCTVM LTDA.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4739,7 +4739,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2021-09-27</DateOperationStarted>
     <DateRegistered>2021-09-28T05:25:19.347575-03:00</DateRegistered>
-    <DateUpdated>2023-10-04T12:06:30.9212953Z</DateUpdated>
+    <DateUpdated>2023-10-06T12:06:37.6641955Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>448</COMPE>

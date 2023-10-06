@@ -5750,8 +5750,8 @@
     "COMPE": "447",
     "ISPB": "12392983",
     "Document": "12.392.983/0001-38",
-    "LongName": "MIRAE ASSET (BRASIL   CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "ShortName": "MIRAE ASSET (BRASIL   CCTVM LTDA.",
+    "LongName": "MIRAE ASSET (BRASIL) CORRETORA DE CÂMBIO, TÍTULOS  E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "MIRAE ASSET (BRASIL) CCTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -5765,7 +5765,7 @@
     "DateOperationStarted": "2021-09-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-28T05:25:19.347575-03:00",
-    "DateUpdated": "2023-10-04T12:06:30.9212953+00:00"
+    "DateUpdated": "2023-10-06T12:06:37.6641955+00:00"
   },
   {
     "COMPE": "448",
