@@ -68,6 +68,13 @@ jobs:
           name: changeLogFile
           path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md
 
+      - name: Upload release-notes.md
+        uses: actions/upload-artifact@v3
+        if: env.exitcode == 0
+        with:
+          name: releaseNotesFile
+          path: ./BancosBrasileiros.MergeTool/result/release-notes.md
+
   update:
     name: Update
     runs-on: ubuntu-latest
