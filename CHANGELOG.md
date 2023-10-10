@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-10-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 560 - MAG IP LTDA. - 21.995.256/0001-56
+
 ### 2023-10-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

@@ -6059,6 +6059,23 @@
     <DateUpdated>2023-09-25T12:28:25.1347563Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>560</COMPE>
+    <ISPB>21995256</ISPB>
+    <Document>21.995.256/0001-56</Document>
+    <LongName>MAG INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>MAG IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-10-17</DateOperationStarted>
+    <DatePixStarted>2021-02-23 19:27:38</DatePixStarted>
+    <DateRegistered>2023-10-10T12:06:37.2093743Z</DateRegistered>
+    <DateUpdated>2023-10-10T12:06:35.7131141Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>563</COMPE>
     <ISPB>40276692</ISPB>
     <Document>40.276.692/0001-10</Document>

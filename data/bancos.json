@@ -7514,6 +7514,27 @@
     "DateUpdated": "2023-09-25T12:28:25.1347563+00:00"
   },
   {
+    "COMPE": "560",
+    "ISPB": "21995256",
+    "Document": "21.995.256/0001-56",
+    "LongName": "MAG INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "MAG IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-10-17",
+    "DatePixStarted": "2021-02-23 19:27:38",
+    "DateRegistered": "2023-10-10T12:06:37.2093743+00:00",
+    "DateUpdated": "2023-10-10T12:06:35.7131141+00:00"
+  },
+  {
     "COMPE": "563",
     "ISPB": "40276692",
     "Document": "40.276.692/0001-10",
