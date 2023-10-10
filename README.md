@@ -191,6 +191,13 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/sahalhes">
+            <img src="https://avatars.githubusercontent.com/u/146409442?v=4" width="100;" alt="sahalhes"/>
+            <br />
+            <sub><b>E S Sahal Hussain</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/pferreirafabricio">
             <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
             <br />
@@ -203,15 +210,15 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             <br />
             <sub><b>Iuri De Silvio</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/jesobreira">
             <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
             <br />
             <sub><b>Jefrey Sobreira Santos</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/leogregianin">
             <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
@@ -246,15 +253,15 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             <br />
             <sub><b>Luis Carlos Cardoso</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/rodrigondec">
             <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
             <br />
             <sub><b>Rodrigo Castro</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/vduggen">
             <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
