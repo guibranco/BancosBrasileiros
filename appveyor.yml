@@ -1,4 +1,4 @@
-version: 5.0.{build}
+version: 5.1.{build}
 skip_tags: true
 skip_branch_with_pr: true
 image: Visual Studio 2022
@@ -37,15 +37,15 @@ build_script:
 - git config user.email "build@appveyor.com"
 - git config user.name "AppVeyor"
 - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
-- #npm publish
+- npm publish
 - cd ..
-- #cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
+- cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
 - ps: $response=Invoke-RestMethod 'https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile'
 - ps: $releaseNotesUrl=$response.artifacts[0].archive_download_url
 - ps: $headers = @{Authorization = "Bearer $env:GITHUB_TOKEN"}
 - ps: Invoke-WebRequest -Uri $releaseNotesUrl -OutFile release-notes.zip -Headers $headers
 - 7z x release-notes.zip
-- ps: $release_notes=$(cat release-notes.md)
+- ps: $env:release_notes=$(cat release-notes.md)
 
 artifacts:
 - path: '**\*nupkg'
@@ -62,7 +62,7 @@ deploy:
   on:
    branch: main
   tag: v$(appveyor_build_version)
-  description: Release of Bancos Brasileiros - v$(appveyor_build_version) \r\n $(release_notes)
+  description: Release of Bancos Brasileiros - v$(appveyor_build_version) \n $(release_notes)
   auth_token: $(GITHUB_TOKEN)
   force_update: true
   artifact: Package
