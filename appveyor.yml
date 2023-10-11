@@ -39,6 +39,10 @@ build_script:
 - npm publish
 - cd ..
 - cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
+- releaseNotesUrl=$(curl -L https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile | jq -r '.artifacts[0].archive_download_url')
+- curl -L $releaseNotesUrl --header 'Authorization: Bearer %GITHUB_TOKEN%' > releaseNotes.zip
+- 7z x releaseNotes.zip -o .
+- release_notes=$(release-notes.md)
 
 artifacts:
 - path: '**\*nupkg'
@@ -55,7 +59,7 @@ deploy:
   on:
    branch: main
   tag: v$(appveyor_build_version)
-  description: Release of Bancos Brasileiros - v$(appveyor_build_version)
+  description: Release of Bancos Brasileiros - v$(appveyor_build_version) \r\n $(release_notes)
   auth_token: $(GITHUB_TOKEN)
   force_update: true
   artifact: Package
