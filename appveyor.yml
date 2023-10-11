@@ -22,6 +22,7 @@ environment:
 
 install:
 - ps: Install-Product node $env:nodejs_version
+- choco install jq
 - ps: >- 
     npm install --loglevel=error
 
