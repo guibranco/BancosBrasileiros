@@ -45,7 +45,7 @@ build_script:
 - ps: $headers = @{Authorization = "Bearer $env:GITHUB_TOKEN"}
 - ps: Invoke-WebRequest -Uri $releaseNotesUrl -OutFile release-notes.zip -Headers $headers
 - 7z x release-notes.zip
-- $release_notes=$(cat release-notes.md)
+- ps: $release_notes=$(cat release-notes.md)
 
 artifacts:
 - path: '**\*nupkg'
