@@ -40,7 +40,7 @@ build_script:
 - #npm publish
 - cd ..
 - #cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
-- set releaseNotesUrl=$(curl 'https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile' | jq '.artifacts[0].archive_download_url')
+- curl 'https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile' | jq .
 - curl $releaseNotesUrl --header 'Authorization: Bearer %GITHUB_TOKEN%' > releaseNotes.zip
 - 7z x releaseNotes.zip -o .
 - $release_notes=$(cat release-notes.md)
