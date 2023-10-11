@@ -43,7 +43,7 @@ build_script:
 - ps: $response=Invoke-RestMethod 'https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile'
 - ps: $releaseNotesUrl=$response.artifacts[0].archive_download_url
 - echo $releaseNotesUrl
-- cmd: curl -L %releaseNotesUrl% > release-notes.zip
+- cmd: curl -L $releaseNotesUrl > release-notes.zip
 - 7z x release-notes.zip
 - $release_notes=$(cat release-notes.md)
 
