@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-10-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 561 - PAY4FUN IP S.A. - 20.757.199/0001-04
+
 ### 2023-10-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

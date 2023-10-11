@@ -7535,6 +7535,27 @@
     "DateUpdated": "2023-10-10T12:06:35.7131141+00:00"
   },
   {
+    "COMPE": "561",
+    "ISPB": "20757199",
+    "Document": "20.757.199/0001-04",
+    "LongName": "PAY4FUN INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "PAY4FUN IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-10-18",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-10-11T12:06:36.1964889+00:00",
+    "DateUpdated": "2023-10-11T12:06:36.1965145+00:00"
+  },
+  {
     "COMPE": "563",
     "ISPB": "40276692",
     "Document": "40.276.692/0001-10",

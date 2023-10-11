@@ -6076,6 +6076,21 @@
     <DateUpdated>2023-10-10T12:06:35.7131141Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>561</COMPE>
+    <ISPB>20757199</ISPB>
+    <Document>20.757.199/0001-04</Document>
+    <LongName>PAY4FUN INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PAY4FUN IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-10-18</DateOperationStarted>
+    <DateRegistered>2023-10-11T12:06:36.1964889Z</DateRegistered>
+    <DateUpdated>2023-10-11T12:06:36.1965145Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>563</COMPE>
     <ISPB>40276692</ISPB>
     <Document>40.276.692/0001-10</Document>
