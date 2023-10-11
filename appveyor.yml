@@ -42,8 +42,8 @@ build_script:
 - #cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
 - ps: $response=Invoke-RestMethod 'https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile'
 - ps: $releaseNotesUrl=$response.artifacts[0].archive_download_url
-- echo $releaseNotesUrl
-- cmd: curl -L $releaseNotesUrl > release-notes.zip
+- ps: $headers = @{Authorization = "Bearer $GITHUB_TOKEN"}
+- ps: Invoke-WebRequest -Uri $releaseNotesUrl -OutFile release-notes.zip -Headers $headers
 - 7z x release-notes.zip
 - $release_notes=$(cat release-notes.md)
 
