@@ -29,7 +29,6 @@ install:
     "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
 - choco install dart-sdk
 - refreshenv
-- C:\tools\dart-sdk\bin\dart --version
 
 build_script:
 - mkdir -p dist
@@ -51,9 +50,10 @@ build_script:
 - ps: $env:release_notes=$(cat release-notes.md)
 - mkdir assets
 - copy data\bancos.json assets\
-- C:\tools\dart-sdk\bin\dart --version
 - C:\tools\dart-sdk\bin\dart pub get
 - C:\tools\dart-sdk\bin\dart test
+- C:\tools\dart-sdk\bin\dart pub publish --dry-run
+
 artifacts:
 - path: '**\*nupkg'
   name: Package
@@ -73,8 +73,3 @@ deploy:
   auth_token: $(GITHUB_TOKEN)
   force_update: true
   artifact: Package
-  
-- provider: script
-  script: dart pub publish --dry-run
-  on:
-    branch: main  
