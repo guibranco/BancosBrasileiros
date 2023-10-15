@@ -63,8 +63,8 @@ build_script:
 - copy ..\lib\bancos_brasileiros.dart lib\
 - cd lib
 - mkdir src
-- copy ..\..\src\*.dart src\
-- cd ..
+- copy ..\..\lib\src\*.dart src\
+- cd ..\..
 - mkdir test
 - copy ..\test\bancos_brasileiros_test.dart .
 - mkdir resources
