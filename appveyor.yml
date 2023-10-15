@@ -27,6 +27,8 @@ install:
     npm install --loglevel=error
 
     "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
+- choco install dart-sdk
+- refreshenv
 
 build_script:
 - mkdir -p dist
@@ -46,7 +48,8 @@ build_script:
 - ps: Invoke-WebRequest -Uri $releaseNotesUrl -OutFile release-notes.zip -Headers $headers
 - 7z x release-notes.zip
 - ps: $env:release_notes=$(cat release-notes.md)
-
+- dart pub get
+- dart test
 artifacts:
 - path: '**\*nupkg'
   name: Package
@@ -66,3 +69,8 @@ deploy:
   auth_token: $(GITHUB_TOKEN)
   force_update: true
   artifact: Package
+  
+- provider: script
+  script: dart pub publish --dry-run
+  on:
+    branch: main  
