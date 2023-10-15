@@ -51,7 +51,6 @@ build_script:
 - mkdir dart
 - cd dart
 - copy ..\analysis_options.yaml .
-- copy ..\CHANGELOG.md .
 - copy ..\LICENSE .
 - copy ..\pubspec.yaml .
 - copy ..\README.md .
