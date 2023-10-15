@@ -17,7 +17,7 @@ Brazilian commercial banks list
 
 > **Note**
 >
-> Para a versão em Português *(PT_BR)* do README.md, [siga me](https://guibranco.github.io/BancosBrasileiros/README.pt-br.html) por favor.
+> Para a versão em Português _(PT_BR)_ do README.md, [siga me](https://guibranco.github.io/BancosBrasileiros/README.pt-br.html) por favor.
 
 ---
 
@@ -37,27 +37,27 @@ This list contains 300+ registered banks, in the following formats:
 
 Each of the lists has the following information (schema):
 
-| Column | Description | Observations |
-|:------:|:-----------:|:------------:|
-| COMPE | Code - COMPE | 3 digits |
-| ISPB | Code - ISPB | 8 digits |
-| Document | Document - CNPJ | 14 numbers - 18 digits (formatted) |
-| LongName | Long name | According to BACEN - STR |
-| ShortName | Short name | According to BACEN - STR|
-| Network | Network | RSFN, Internet, null |
-| Type | Type | commercial, multiple, savings, null |
-| PixType | Type of PIX/SPI participant | DRCT - Directly, INDR - Indirectly, null |
-| Charge | If does charge operations | true, false, null |
-| CreditDocument | If does DOC/TED operations | true, false, null |
-| LegalCheque | If it belongs to the "Cheque Legal"  | true, false |
-| DeetctaFlow | If it belongs to the "Detecta Flow" | true, false |
-| SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null |
-| Products | List of products offered | In Portuguese only |
-| Url | Website | - |
-| DateOperationStarted | Commercial operation start date | - |
-| DatePixStarted | PIX operation start date | Only for those PSP of SPI |
-| DateRegistered | Registration date on schema | - |
-| DateUpdated | Change date on schema | - |
+|        Column        |             Description             |                                    Observations                                     |
+| :------------------: | :---------------------------------: | :---------------------------------------------------------------------------------: |
+|        COMPE         |            Code - COMPE             |                                      3 digits                                       |
+|         ISPB         |             Code - ISPB             |                                      8 digits                                       |
+|       Document       |           Document - CNPJ           |                         14 numbers - 18 digits (formatted)                          |
+|       LongName       |              Long name              |                              According to BACEN - STR                               |
+|      ShortName       |             Short name              |                              According to BACEN - STR                               |
+|       Network        |               Network               |                                RSFN, Internet, null                                 |
+|         Type         |                Type                 |                         commercial, multiple, savings, null                         |
+|       PixType        |     Type of PIX/SPI participant     |                      DRCT - Directly, INDR - Indirectly, null                       |
+|        Charge        |      If does charge operations      |                                  true, false, null                                  |
+|    CreditDocument    |     If does DOC/TED operations      |                                  true, false, null                                  |
+|     LegalCheque      | If it belongs to the "Cheque Legal" |                                     true, false                                     |
+|     DeetctaFlow      | If it belongs to the "Detecta Flow" |                                     true, false                                     |
+|  SalaryPortability   |  If does/accept salary portability  | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null |
+|       Products       |      List of products offered       |                                 In Portuguese only                                  |
+|         Url          |               Website               |                                          -                                          |
+| DateOperationStarted |   Commercial operation start date   |                                          -                                          |
+|    DatePixStarted    |      PIX operation start date       |                              Only for those PSP of SPI                              |
+|    DateRegistered    |     Registration date on schema     |                                          -                                          |
+|     DateUpdated      |        Change date on schema        |                                          -                                          |
 
 ---
 
@@ -80,6 +80,7 @@ And classes (DTO - Data Transport Object) in the following languages:
 - [Python](/schemas/python.py) <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 - [Rust](/schemas/rust.rs) <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 - [TypeScript](/schemas/typescript.ts) <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+- [Dart](/schemas/dart.dart) <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" />
 
 ---
 
