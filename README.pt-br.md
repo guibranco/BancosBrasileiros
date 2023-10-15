@@ -205,13 +205,20 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Guillergood">
+            <img src="https://avatars.githubusercontent.com/u/16701917?v=4" width="100;" alt="Guillergood"/>
+            <br />
+            <sub><b>Guillermo Bueno Vargas</b></sub>
+        </a>
+    </td></tr>
+<tr>
+    <td align="center">
         <a href="https://github.com/iurisilvio">
             <img src="https://avatars.githubusercontent.com/u/105852?v=4" width="100;" alt="iurisilvio"/>
             <br />
             <sub><b>Iuri De Silvio</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/jesobreira">
             <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
@@ -246,15 +253,15 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
             <br />
             <sub><b>Amol</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/luisccf">
             <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
             <br />
             <sub><b>Luis Carlos Cardoso</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/rodrigondec">
             <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
