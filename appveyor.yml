@@ -66,7 +66,7 @@ build_script:
 - copy ..\..\lib\src\*.dart src\
 - cd ..
 - mkdir test
-- copy ..\test\bancos_brasileiros_test.dart .
+- copy ..\test\bancos_brasileiros_test.dart test\
 - cd test
 - mkdir resources
 - copy ..\..\test\resources\*.json resources\
