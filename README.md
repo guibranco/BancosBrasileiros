@@ -58,6 +58,7 @@ Each of the lists has the following information (schema):
 | DatePixStarted | PIX operation start date | Only for those PSP of SPI |
 | DateRegistered | Registration date on schema | - |
 | DateUpdated | Change date on schema | - |
+
 ---
 
 ## Schemas and classes
