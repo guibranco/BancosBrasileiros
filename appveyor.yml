@@ -48,8 +48,27 @@ build_script:
 - ps: Invoke-WebRequest -Uri $releaseNotesUrl -OutFile release-notes.zip -Headers $headers
 - 7z x release-notes.zip
 - ps: $env:release_notes=$(cat release-notes.md)
+- mkdir dart
+- cd dart
+- copy ..\analysis_options.yaml .
+- copy ..\CHANGELOG.md .
+- copy ..\LICENSE .
+- copy ..\pubspec.yaml .
+- copy ..\README.md .
+- mkdir example
+- copy ..\examples\dart\bancos_brasileiros_example.dart example\
 - mkdir assets
-- copy data\bancos.json assets\
+- copy ..\data\bancos.json assets\
+- mkdir lib
+- copy ..\lib\bancos_brasileiros.dart lib\
+- cd lib
+- mkdir src
+- copy ..\..\src\*.dart src\
+- cd ..
+- mkdir test
+- copy ..\test\bancos_brasileiros_test.dart .
+- mkdir resources
+- copy ..\test\resources\*.json resources\
 - C:\tools\dart-sdk\bin\dart pub get
 - C:\tools\dart-sdk\bin\dart test
 - C:\tools\dart-sdk\bin\dart pub publish --dry-run
