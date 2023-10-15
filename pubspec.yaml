@@ -9,7 +9,6 @@ environment:
 assets:
   - bancos.json
 
-# Add regular dependencies here.
 dependencies:
   # path: ^1.8.0
 
