@@ -64,11 +64,13 @@ build_script:
 - cd lib
 - mkdir src
 - copy ..\..\lib\src\*.dart src\
-- cd ..\..
+- cd ..
 - mkdir test
 - copy ..\test\bancos_brasileiros_test.dart .
+- cd test
 - mkdir resources
 - copy ..\test\resources\*.json resources\
+- cd ..
 - C:\tools\dart-sdk\bin\dart pub get
 - C:\tools\dart-sdk\bin\dart test
 - C:\tools\dart-sdk\bin\dart pub publish --dry-run
