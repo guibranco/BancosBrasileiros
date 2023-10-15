@@ -48,6 +48,8 @@ build_script:
 - ps: Invoke-WebRequest -Uri $releaseNotesUrl -OutFile release-notes.zip -Headers $headers
 - 7z x release-notes.zip
 - ps: $env:release_notes=$(cat release-notes.md)
+- mkdir assets
+- copy data\bancos.json assets\
 - dart pub get
 - dart test
 artifacts:

@@ -1,7 +1,7 @@
 name: bancos_brasileiros
-description: A starting point for Dart libraries or applications.
+description: A JSON list of brazilian commercial banks.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/guibranco/BancosBrasileiros
 
 environment:
   sdk: ^3.1.3
