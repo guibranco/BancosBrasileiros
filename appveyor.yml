@@ -70,7 +70,8 @@ build_script:
 - mkdir resources
 - copy ..\..\test\resources\*.json resources\
 - cd ..
-- ps: (Get-Content ".\pubspec.yaml") -replace "version: 1.0.0", "version: %APPVEYOR_BUILD_VERSION%" | out-File ".\pubspec.yaml"  -Encoding ASCII
+- ps: >-
+    (Get-Content '.\pubspec.yaml') -replace 'version: 1.0.0', 'version: 2.0.0' | out-File '.\pubspec.yaml' -Encoding ASCII
 - echo "## [$(appveyor_build_version)]\r\n$(release_notes)" > CHANGELOG.md
 - C:\tools\dart-sdk\bin\dart pub get
 - C:\tools\dart-sdk\bin\dart test
