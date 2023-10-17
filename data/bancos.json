@@ -7493,6 +7493,27 @@
     "DateUpdated": "2023-09-25T12:28:25.1347551+00:00"
   },
   {
+    "COMPE": "557",
+    "ISPB": "30944783",
+    "Document": "30.944.783/0001-22",
+    "LongName": "PAGPRIME INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "PAGPRIME IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-10-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-10-17T12:06:27.6807413+00:00",
+    "DateUpdated": "2023-10-17T12:06:27.6807666+00:00"
+  },
+  {
     "COMPE": "559",
     "ISPB": "49288113",
     "Document": "49.288.113/0001-23",

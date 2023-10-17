@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-10-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 557 - PAGPRIME IP - 30.944.783/0001-22
+
 ### 2023-10-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
