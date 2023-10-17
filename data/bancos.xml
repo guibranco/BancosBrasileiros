@@ -6044,6 +6044,21 @@
     <DateUpdated>2023-09-25T12:28:25.1347551Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>557</COMPE>
+    <ISPB>30944783</ISPB>
+    <Document>30.944.783/0001-22</Document>
+    <LongName>PAGPRIME INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>PAGPRIME IP</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-10-23</DateOperationStarted>
+    <DateRegistered>2023-10-17T12:06:27.6807413Z</DateRegistered>
+    <DateUpdated>2023-10-17T12:06:27.6807666Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>559</COMPE>
     <ISPB>49288113</ISPB>
     <Document>49.288.113/0001-23</Document>
