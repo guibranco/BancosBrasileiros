@@ -3697,13 +3697,13 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco Folha",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2019-06-14",
     "DatePixStarted": "2022-03-14 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114423-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3602012+00:00"
+    "DateUpdated": "2023-10-20T12:06:29.507013+00:00"
   },
   {
     "COMPE": "323",
@@ -7890,12 +7890,19 @@
     "LegalCheque": false,
     "DetectaFlow": false,
     "SalaryPortability": "Destinatário",
-    "Products": null,
+    "Products": [
+      "Cheque Especial",
+      "Crédito Imobiliário",
+      "Crédito Pessoal",
+      "Financiamento de Veículos",
+      "Outros Créditos",
+      "Troca de Modalides e Cpaital de Giro"
+    ],
     "Url": "https://www.sofisa.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115276-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3692893+00:00"
+    "DateUpdated": "2023-10-20T12:06:28.5324036+00:00"
   },
   {
     "COMPE": "643",

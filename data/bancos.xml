@@ -3057,10 +3057,11 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <SalaryPortability>Banco Folha</SalaryPortability>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DatePixStarted>2022-03-14 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114423-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3602012Z</DateUpdated>
+    <DateUpdated>2023-10-20T12:06:29.507013Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>323</COMPE>
@@ -6389,11 +6390,19 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Products>
+      <Product>Cheque Especial</Product>
+      <Product>Crédito Imobiliário</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Financiamento de Veículos</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Troca de Modalides e Cpaital de Giro</Product>
+    </Products>
     <Url>https://www.sofisa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115276-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3692893Z</DateUpdated>
+    <DateUpdated>2023-10-20T12:06:28.5324036Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>643</COMPE>

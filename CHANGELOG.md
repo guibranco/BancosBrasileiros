@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2023-10-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 322 - CCR DE ABELARDO LUZ - 01.073.966/0001-11
+    - **SalaryPortability** (PCPS): Null **->** Banco Folha
+  - 637 - BCO SOFISA S.A. - 60.889.128/0001-80
+    - **Products** (CTC): Null **->** System.String[]
+
 ### 2023-10-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
