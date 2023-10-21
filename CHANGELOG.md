@@ -4,6 +4,194 @@
 
 ## Changelog
 
+### 2023-10-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 92 banks
+  - 1 - BCO DO BRASIL S.A. - 00.000.000/0001-91
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 3 - BCO DA AMAZONIA S.A. - 04.902.979/0001-44
+    - **Products** (CTC): Cheque Especial, Consignado, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Pessoal, Troca de Modalidade, Veículos
+  - 4 - BCO DO NORDESTE DO BRASIL S.A. - 07.237.373/0001-20
+    - **Products** (CTC): Consignado, Pessoal, Veículos e Outros Créditos **->** Consignado, Outros Créditos, Pessoal, Veículos
+  - 12 - BANCO INBURSA - 04.866.275/0001-63
+    - **Products** (CTC): Consignado, Pessoal, Veiculos e Outros Créditos. **->** Consignado, Outros Créditos., Pessoal, Veiculos
+  - 16 - CCM DESP TRÂNS SC E RS - 04.715.685/0001-03
+    - **Products** (CTC): Capital de Giro e PRONAMPE, Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, PRONAMPE, Troca de Modalidade, Veículos
+  - 21 - BCO BANESTES S.A. - 28.127.603/0001-78
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 25 - BCO ALFA S.A. - 03.323.840/0001-83
+    - **Products** (CTC): Consignado, Pessoal e Veículos **->** Consignado, Pessoal, Veículos
+  - 29 - BANCO ITAÚ CONSIGNADO S.A. - 33.885.724/0001-19
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 33 - BCO SANTANDER (BRASIL) S.A. - 90.400.888/0001-42
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 37 - BCO DO EST. DO PA S.A. - 04.913.711/0001-08
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade
+  - 41 - BCO DO ESTADO DO RS S.A. - 92.702.067/0001-96
+    - **Products** (CTC): Capital de Giro e PRONAMPE, Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Pessoal, PRONAMPE, Troca de Modalidade, Veículos
+  - 47 - BCO DO EST. DE SE S.A. - 13.009.717/0001-46
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 63 - BANCO BRADESCARD - 04.184.779/0001-01
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 69 - BCO CREFISA S.A. - 61.033.106/0001-86
+    - **Products** (CTC): Consignado e Pessoal **->** Consignado, Pessoal
+  - 70 - BRB - BCO DE BRASILIA S.A. - 00.000.208/0001-00
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal e Veículos **->** Consignado, Imobiliário, Pessoal, Veículos
+  - 77 - BANCO INTER - 00.416.968/0001-01
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Consignado, Imobiliário, Pessoal, Troca de Modalidade
+  - 81 - BANCOSEGURO S.A. - 10.264.663/0001-77
+    - **Products** (CTC): Consignado e Pessoal **->** Consignado, Pessoal
+  - 82 - BANCO TOPÁZIO S.A. - 07.679.404/0001-00
+    - **Products** (CTC): Cheque Especial, Consignado, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Cheque Especial, Consignado, Outros Créditos, Pessoal, Troca de Modalidade
+  - 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
+    - **Products** (CTC): Consignado, Imobiliário Pessoal, Veículos e Troca de Modalidade **->** Consignado, Imobiliário Pessoal, Troca de Modalidade, Veículos
+  - 85 - COOPCENTRAL AILOS - 05.463.212/0001-29
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 89 - CREDISAN CC - 62.109.566/0001-03
+    - **Products** (CTC): Crédito Consignado, Crédito Pessoal, Financiamento de Veículos, outros, troca de modalidade e Catapital de Giro **->** Catapital de Giro, Crédito Consignado, Crédito Pessoal, Financiamento de Veículos, outros, troca de modalidade
+  - 99 - UNIPRIME COOPCENTRAL LTDA. - 03.046.391/0001-73
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 104 - CAIXA ECONOMICA FEDERAL - 00.360.305/0001-04
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiário, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiário, Pessoal, Troca de Modalidade, Veículos
+  - 105 - LECCA CFI S.A. - 07.652.226/0001-16
+    - **Products** (CTC): Consignado, Pessoal e Troca de Modalidade **->** Consignado, Pessoal, Troca de Modalidade
+  - 114 - CENTRAL COOPERATIVA DE CRÉDITO NO ESTADO DO ESPÍRITO SANTO - 05.790.149/0001-35
+    - **Products** (CTC): Cheque Especial e Troca de Modalidade, Consignado, Imobiliário, Pessoal, Veículos **->** Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 120 - BCO RODOBENS S.A. - 33.603.457/0001-40
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 121 - BCO AGIBANK S.A. - 10.664.513/0001-50
+    - **Products** (CTC): Cheque Especial e Troca de Modalidade, Consignado, Pessoal **->** Cheque Especial, Consignado, Pessoal, Troca de Modalidade
+  - 133 - CRESOL CONFEDERAÇÃO - 10.398.952/0001-69
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 136 - CONF NAC COOP CENTRAIS UNICRED - 00.315.557/0001-11
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 174 - PEFISA S.A. - C.F.I. - 43.180.355/0001-12
+    - **Products** (CTC): Pessoal e Outros Créditos **->** Outros Créditos, Pessoal
+  - 189 - HS FINANCEIRA - 07.512.441/0001-11
+    - **Products** (CTC): Consignado e Troca de Modalidade **->** Consignado, Troca de Modalidade
+  - 208 - BANCO BTG PACTUAL S.A. - 30.306.294/0001-45
+    - **Products** (CTC): Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 212 - BANCO ORIGINAL - 92.894.922/0001-08
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade
+  - 224 - BCO FIBRA S.A. - 58.616.418/0001-08
+    - **Products** (CTC): Cheque Especial, Consignado, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Pessoal, Troca de Modalidade, Veículos
+  - 237 - BCO BRADESCO S.A. - 60.746.948/0001-12
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 243 - BANCO MASTER - 33.923.798/0001-00
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 246 - BCO ABC BRASIL S.A. - 28.195.667/0001-06
+    - **Products** (CTC): Cheque Especial, Consignado, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Cheque Especial, Consignado, Outros Créditos, Pessoal, Troca de Modalidade
+  - 254 - PARANA BCO S.A. - 14.388.334/0001-99
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 268 - BARI CIA HIPOTECÁRIA - 14.511.781/0001-93
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal e Veículos **->** Consignado, Imobiliário, Pessoal, Veículos
+  - 274 - BMP SCMEPP LTDA - 11.581.339/0001-45
+    - **Products** (CTC): Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade
+  - 280 - WILL FINANCEIRA S.A.CFI - 23.862.762/0001-00
+    - **Products** (CTC): Crédito Pessoal e Troca de Modalidade **->** Crédito Pessoal, Troca de Modalidade
+  - 318 - BCO BMG S.A. - 61.186.680/0001-74
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 324 - CARTOS SCD S.A. - 21.332.862/0001-91
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal e Troca de Modalidade. **->** Consignado, Imobiliário, Pessoal, Troca de Modalidade.
+  - 326 - PARATI - CFI S.A. - 03.311.443/0001-91
+    - **Products** (CTC): Consignado e Pessoal **->** Consignado, Pessoal
+  - 329 - QI SCD S.A. - 32.402.502/0001-35
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Outros Créditos **->** Consignado, Imobiliário, Outros Créditos, Pessoal, Veículos
+  - 330 - BANCO BARI S.A. - 00.556.603/0001-74
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 335 - BANCO DIGIO - 27.098.060/0001-45
+    - **Products** (CTC): Consignado e Outros Créditos **->** Consignado, Outros Créditos
+  - 336 - BCO C6 S.A. - 31.872.495/0001-72
+    - **Products** (CTC): Cheque Especial, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Cheque Especial, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 341 - ITAÚ UNIBANCO S.A. - 60.701.190/0001-04
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 348 - BCO XP S.A. - 33.264.668/0001-03
+    - **Products** (CTC): Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Pessoal, Troca de Modalidade
+  - 349 - AL5 S.A. CFI - 27.214.112/0001-00
+    - **Products** (CTC): Consignado, Imobiliário, Outros, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Consignado, Imobiliário, Outros, Pessoal, Troca de Modalidade, Veículos
+  - 359 - ZEMA CFI S/A - 05.351.887/0001-86
+    - **Products** (CTC): Consignado, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veiculos **->** Capital de Giro, Consignado, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos
+  - 368 - BCO CSF S.A. - 08.357.240/0001-50
+    - **Products** (CTC): Crédito consignado e Troca de modalidade. **->** Crédito consignado, Troca de modalidade.
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veiculos **->** Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos
+  - 374 - REALIZE CFI S.A. - 27.351.731/0001-38
+    - **Products** (CTC): Pessoal e Outros Créditos **->** Outros Créditos, Pessoal
+  - 379 - CECM COOPERFORTE - 01.658.426/0001-08
+    - **Products** (CTC): Cheque Especial e Troca de Modalidade, Consignado, Imobiliário, Pessoal, Veículos **->** Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 381 - BCO MERCEDES-BENZ S.A. - 60.814.191/0001-57
+    - **Products** (CTC): Pessoal e Veículos **->** Pessoal, Veículos
+  - 386 - NU FINANCEIRA S.A. CFI - 30.680.829/0001-43
+    - **Products** (CTC): Consignado, Pessoal e Troca de Modalidade **->** Consignado, Pessoal, Troca de Modalidade
+  - 389 - BCO MERCANTIL DO BRASIL S.A. - 17.184.037/0001-10
+    - **Products** (CTC): Cheque Especial, Consignado, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 393 - BCO VOLKSWAGEN S.A - 59.109.165/0001-49
+    - **Products** (CTC): Consignado, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Consignado, Troca de Modalidade, Veículos
+  - 394 - BCO BRADESCO FINANC. S.A. - 07.207.996/0001-50
+    - **Products** (CTC): Consignado, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Pessoal, Troca de Modalidade, Veículos
+  - 411 - VIA CERTA FINANCIADORA S.A. - CFI - 05.192.316/0001-46
+    - **Products** (CTC): Consignado e Pessoal **->** Consignado, Pessoal
+  - 422 - BCO SAFRA S.A. - 58.160.789/0001-28
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 425 - SOCINAL S.A. CFI - 03.881.423/0001-56
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Veículos e Outros Créditos **->** Consignado, Imobiliário, Outros Créditos, Pessoal, Veículos
+  - 427 - CRED-UFES - 27.302.181/0001-67
+    - **Products** (CTC): Consignado e Troca de Modalidade **->** Consignado, Troca de Modalidade
+  - 429 - CREDIARE CFI S.A. - 05.676.026/0001-78
+    - **Products** (CTC): Consignado, Pessoal, Veículos e Troca de Modalidade **->** Consignado, Pessoal, Troca de Modalidade, Veículos
+  - 459 - CCM SERV. PÚBLICOS SP - 04.546.162/0001-80
+    - **Products** (CTC): Consignado e Troca de Modalidade **->** Consignado, Troca de Modalidade
+  - 468 - PORTOSEG S.A. CFI - 04.862.600/0001-10
+    - **Products** (CTC): Consignado, Pessoal, Veículos e Outros Créditos **->** Consignado, Outros Créditos, Pessoal, Veículos
+  - 478 - GAZINCRED S.A. SCFI - 11.760.553/0001-69
+    - **Products** (CTC): Consignado, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Consignado, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 516 - QISTA S.A. CFI - 36.583.700/0001-01
+    - **Products** (CTC): Consignado, Pessoal e Troca de Modalidade **->** Consignado, Pessoal, Troca de Modalidade
+  - 531 - BMP SCD S.A. - 34.337.707/0001-00
+    - **Products** (CTC): Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade
+  - 567 - CREDITAQUI FINANCEIRA S.A. - CFI - 33.040.601/0001-87
+    - **Products** (CTC): Consignado, Veículos e Outros Créditos **->** Consignado, Outros Créditos, Veículos
+  - 600 - BCO LUSO BRASILEIRO S.A. - 59.118.133/0001-00
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal e Veículos **->** Consignado, Imobiliário, Pessoal, Veículos
+  - 604 - BCO INDUSTRIAL DO BRASIL S.A. - 31.895.683/0001-16
+    - **Products** (CTC): Consignado e Pessoal **->** Consignado, Pessoal
+  - 611 - BCO PAULISTA S.A. - 61.820.817/0001-09
+    - **Products** (CTC): Consignado, Imobiliário e Troca de Modalidade **->** Consignado, Imobiliário, Troca de Modalidade
+  - 613 - OMNI BANCO S.A. - 60.850.229/0001-47
+    - **Products** (CTC): Pessoal, Veículos e Outros Créditos **->** Outros Créditos, Pessoal, Veículos
+  - 623 - BANCO PAN - 59.285.411/0001-13
+    - **Products** (CTC): Cheque Especial e Troca de Modalidade, Consignado, Imobiliário, Pessoal, Veículos **->** Cheque Especial, Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos
+  - 626 - BCO C6 CONSIG - 61.348.538/0001-86
+    - **Products** (CTC): Consignado e Veículos **->** Consignado, Veículos
+  - 633 - BCO RENDIMENTO S.A. - 68.900.810/0001-38
+    - **Products** (CTC): Cheque Especial, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Cheque Especial, Pessoal, Troca de Modalidade
+  - 637 - BCO SOFISA S.A. - 60.889.128/0001-80
+    - **Products** (CTC): Cheque Especial, Crédito Imobiliário, Crédito Pessoal, Financiamento de Veículos, Outros Créditos, Troca de Modalides e Cpaital de Giro **->** Cheque Especial, Cpaital de Giro, Crédito Imobiliário, Crédito Pessoal, Financiamento de Veículos, Outros Créditos, Troca de Modalides
+  - 643 - BCO PINE S.A. - 62.144.175/0001-20
+    - **Products** (CTC): Consignado, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Consignado, Troca de Modalidade, Veículos
+  - 654 - BCO DIGIMAIS S.A. - 92.874.270/0001-40
+    - **Products** (CTC): Consignado, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Consignado, Pessoal, Troca de Modalidade, Veículos
+  - 655 - BCO VOTORANTIM S.A. - 59.588.111/0001-03
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 707 - BCO DAYCOVAL S.A - 62.232.889/0001-90
+    - **Products** (CTC): Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 720 - BCO RNX S.A. - 80.271.455/0001-80
+    - **Products** (CTC): Consignado, Pessoal e Veículos **->** Consignado, Pessoal, Veículos
+  - 739 - BCO CETELEM S.A. - 00.558.456/0001-71
+    - **Products** (CTC): Consignado, Outros Céditos, Pessoal, Troca de Modalidade e Capital de Giro, Veículos **->** Capital de Giro, Consignado, Outros Céditos, Pessoal, Troca de Modalidade, Veículos
+  - 741 - BCO RIBEIRAO PRETO S.A. - 00.517.645/0001-04
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal e Veículos **->** Consignado, Imobiliário, Pessoal, Veículos
+  - 743 - BANCO SEMEAR - 00.795.423/0001-45
+    - **Products** (CTC): Consignado e Pessoal **->** Consignado, Pessoal
+  - 745 - BCO CITIBANK S.A. - 33.479.023/0001-80
+    - **Products** (CTC): Consignado, Imobiliário e Pessoal **->** Consignado, Imobiliário, Pessoal
+  - 748 - BCO COOPERATIVO SICREDI S.A. - 01.181.521/0001-55
+    - **Products** (CTC): Capital de Giro e PRONAMPE, Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, PRONAMPE, Troca de Modalidade, Veículos
+  - 752 - BCO BNP PARIBAS BRASIL S A - 01.522.368/0001-82
+    - **Products** (CTC): Outros Créditos, Pessoal, Troca de Modalidade e Capital de Giro **->** Capital de Giro, Consiginado, Outros Créditos, Pessoal, Troca de Modalidade, veículos
+  - 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
+    - **Products** (CTC): Capital de Giro e PRONAMPE, Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos **->** Capital de Giro, Cheque Especial, Consignado, Imobiário, Outros Créditos, Pessoal, PRONAMPE, Troca de Modalidade, Veículos
+
 ### 2023-10-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

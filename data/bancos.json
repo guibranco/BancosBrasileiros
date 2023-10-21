@@ -14,19 +14,20 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bb.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7109988-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286584+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1793808+00:00"
   },
   {
     "COMPE": "003",
@@ -43,17 +44,18 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bancoamazonia.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114564-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286515+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1779135+00:00"
   },
   {
     "COMPE": "004",
@@ -71,14 +73,15 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
+      "Outros Créditos",
       "Pessoal",
-      "Veículos e Outros Créditos"
+      "Veículos"
     ],
     "Url": "https://www.banconordeste.gov.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114613-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286794+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1800231+00:00"
   },
   {
     "COMPE": "007",
@@ -159,14 +162,15 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
+      "Outros Créditos.",
       "Pessoal",
-      "Veiculos e Outros Créditos."
+      "Veiculos"
     ],
     "Url": "https://www.bancoinbursa.com",
     "DateOperationStarted": "2017-05-04",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711456-03:00",
-    "DateUpdated": "2022-12-01T12:07:10.8434598+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.181094+00:00"
   },
   {
     "COMPE": "014",
@@ -225,12 +229,13 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Capital de Giro e PRONAMPE",
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiário",
       "Outros Créditos",
       "Pessoal",
+      "PRONAMPE",
       "Troca de Modalidade",
       "Veículos"
     ],
@@ -238,7 +243,7 @@
     "DateOperationStarted": "2012-05-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114553-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.076968+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.5629674+00:00"
   },
   {
     "COMPE": "017",
@@ -297,19 +302,20 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.banestes.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114987-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6287003+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1884283+00:00"
   },
   {
     "COMPE": "024",
@@ -348,13 +354,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos"
     ],
     "Url": "https://www.bancoalfa.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114509-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5477558+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1745344+00:00"
   },
   {
     "COMPE": "029",
@@ -374,13 +381,14 @@
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.itau.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115099-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6479655+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.181577+00:00"
   },
   {
     "COMPE": "033",
@@ -397,18 +405,19 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.santander.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115471-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286936+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1863637+00:00"
   },
   {
     "COMPE": "036",
@@ -446,17 +455,18 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": "https://www.banpara.b.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114571-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286651+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1797109+00:00"
   },
   {
     "COMPE": "040",
@@ -494,11 +504,12 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
-      "Capital de Giro e PRONAMPE",
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
+      "PRONAMPE",
       "Troca de Modalidade",
       "Veículos"
     ],
@@ -506,7 +517,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115478-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286723+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1798658+00:00"
   },
   {
     "COMPE": "047",
@@ -523,19 +534,20 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.banese.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114799-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5493295+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1795496+00:00"
   },
   {
     "COMPE": "060",
@@ -597,13 +609,14 @@
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.ibi.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114534-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5477881+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1752278+00:00"
   },
   {
     "COMPE": "064",
@@ -683,13 +696,14 @@
     "DetectaFlow": false,
     "SalaryPortability": "Destinatário",
     "Products": [
-      "Consignado e Pessoal"
+      "Consignado",
+      "Pessoal"
     ],
     "Url": "https://www.crefisa.com.br",
     "DateOperationStarted": "2005-11-18",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115283-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5485845+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.177609+00:00"
   },
   {
     "COMPE": "070",
@@ -708,13 +722,14 @@
     "Products": [
       "Consignado",
       "Imobiliário",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos"
     ],
     "Url": "https://www.brb.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7111961-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5548994+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1897774+00:00"
   },
   {
     "COMPE": "074",
@@ -794,16 +809,17 @@
     "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": "https://www.bancointer.com.br",
     "DateOperationStarted": "2008-08-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112852-03:00",
-    "DateUpdated": "2023-08-08T12:05:39.2907363+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1814264+00:00"
   },
   {
     "COMPE": "078",
@@ -883,13 +899,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Pessoal"
+      "Consignado",
+      "Pessoal"
     ],
     "Url": "https://www.rendimento.com.br",
     "DateOperationStarted": "2008-10-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114701-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5541944+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1882772+00:00"
   },
   {
     "COMPE": "082",
@@ -906,17 +923,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": "https://www.bancotopazio.com.br",
     "DateOperationStarted": "2009-06-12",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114631-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6512182+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1868471+00:00"
   },
   {
     "COMPE": "083",
@@ -956,13 +974,14 @@
     "Products": [
       "Consignado",
       "Imobiliário Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2009-11-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114472-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8643054+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9686568+00:00"
   },
   {
     "COMPE": "085",
@@ -979,19 +998,20 @@
     "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2010-05-17",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114586-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8642887+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.196962+00:00"
   },
   {
     "COMPE": "088",
@@ -1029,17 +1049,18 @@
     "DetectaFlow": true,
     "SalaryPortability": null,
     "Products": [
+      "Catapital de Giro",
       "Crédito Consignado",
       "Crédito Pessoal",
       "Financiamento de Veículos",
       "outros",
-      "troca de modalidade e Catapital de Giro"
+      "troca de modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2010-08-30",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115328-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.864297+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9500273+00:00"
   },
   {
     "COMPE": "091",
@@ -1224,19 +1245,20 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2011-01-11",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114498-03:00",
-    "DateUpdated": "2023-03-24T12:07:17.0335177+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9718001+00:00"
   },
   {
     "COMPE": "100",
@@ -1316,18 +1338,19 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiário",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.caixa.gov.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112717-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.628707+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1910467+00:00"
   },
   {
     "COMPE": "105",
@@ -1345,13 +1368,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Pessoal e Troca de Modalidade"
+      "Pessoal",
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2011-12-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114624-03:00",
-    "DateUpdated": "2023-03-24T12:07:17.0187801+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9554179+00:00"
   },
   {
     "COMPE": "107",
@@ -1455,17 +1479,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Cheque Especial e Troca de Modalidade",
+      "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2011-10-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114598-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.7705747+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.192614+00:00"
   },
   {
     "COMPE": "117",
@@ -1527,13 +1552,14 @@
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.rodobens.com.br",
     "DateOperationStarted": "2012-02-06",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115081-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528422+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.18606+00:00"
   },
   {
     "COMPE": "121",
@@ -1550,15 +1576,16 @@
     "DetectaFlow": true,
     "SalaryPortability": "Destinatário",
     "Products": [
-      "Cheque Especial e Troca de Modalidade",
+      "Cheque Especial",
       "Consignado",
-      "Pessoal"
+      "Pessoal",
+      "Troca de Modalidade"
     ],
     "Url": "https://www.agibank.com.br",
     "DateOperationStarted": "2012-04-04",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114712-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8641594+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1735916+00:00"
   },
   {
     "COMPE": "122",
@@ -1785,19 +1812,20 @@
     "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2016-05-02",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114705-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0788021+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1956945+00:00"
   },
   {
     "COMPE": "134",
@@ -1835,19 +1863,20 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2014-07-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112437-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0743577+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1958664+00:00"
   },
   {
     "COMPE": "138",
@@ -2160,13 +2189,14 @@
     "DetectaFlow": false,
     "SalaryPortability": "Destinatário",
     "Products": [
-      "Pessoal e Outros Créditos"
+      "Outros Créditos",
+      "Pessoal"
     ],
     "Url": null,
     "DateOperationStarted": "2017-11-21",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115165-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.22637+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9587328+00:00"
   },
   {
     "COMPE": "177",
@@ -2288,13 +2318,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Troca de Modalidade"
+      "Consignado",
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2017-06-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711462-03:00",
-    "DateUpdated": "2023-07-14T12:06:15.9897797+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9525364+00:00"
   },
   {
     "COMPE": "190",
@@ -2437,14 +2468,20 @@
     "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
+      "Cheque Especial",
+      "Consignado",
+      "Imobiliário",
+      "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.btgpactual.com",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115006-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8642022+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.17575+00:00"
   },
   {
     "COMPE": "212",
@@ -2461,17 +2498,18 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": "https://www.original.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115492-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6498959+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1834688+00:00"
   },
   {
     "COMPE": "213",
@@ -2576,17 +2614,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bancofibra.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115225-03:00",
-    "DateUpdated": "2023-06-14T12:06:48.3271732+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1801861+00:00"
   },
   {
     "COMPE": "233",
@@ -2624,18 +2663,19 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bradesco.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115261-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286012+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1755602+00:00"
   },
   {
     "COMPE": "241",
@@ -2673,19 +2713,20 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bancomaxima.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-05-12 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115103-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4020827+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1821252+00:00"
   },
   {
     "COMPE": "246",
@@ -2702,17 +2743,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": "https://www.abcbrasil.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114992-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6456766+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.173367+00:00"
   },
   {
     "COMPE": "249",
@@ -2795,13 +2837,14 @@
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.paranabanco.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114844-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2263568+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9584847+00:00"
   },
   {
     "COMPE": "259",
@@ -2904,13 +2947,14 @@
     "Products": [
       "Consignado",
       "Imobiliário",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2017-12-21",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114848-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5542033+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1885754+00:00"
   },
   {
     "COMPE": "269",
@@ -3032,15 +3076,16 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2019-09-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114738-03:00",
-    "DateUpdated": "2022-09-27T12:08:38.4177957+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1888784+00:00"
   },
   {
     "COMPE": "276",
@@ -3122,13 +3167,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Crédito Pessoal e Troca de Modalidade"
+      "Crédito Pessoal",
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2018-05-10",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114949-03:00",
-    "DateUpdated": "2023-07-05T12:07:00.909528+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9721845+00:00"
   },
   {
     "COMPE": "281",
@@ -3613,13 +3659,14 @@
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.bancobmg.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115294-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5477799+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1749154+00:00"
   },
   {
     "COMPE": "319",
@@ -3743,13 +3790,14 @@
     "Products": [
       "Consignado",
       "Imobiliário",
-      "Pessoal e Troca de Modalidade."
+      "Pessoal",
+      "Troca de Modalidade."
     ],
     "Url": null,
     "DateOperationStarted": "2020-09-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114933-03:00",
-    "DateUpdated": "2023-03-03T14:56:55.3032684+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1912056+00:00"
   },
   {
     "COMPE": "325",
@@ -3787,13 +3835,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Pessoal"
+      "Consignado",
+      "Pessoal"
     ],
     "Url": null,
     "DateOperationStarted": "2020-01-07",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114505-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.226364+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9586131+00:00"
   },
   {
     "COMPE": "328",
@@ -3833,14 +3882,15 @@
     "Products": [
       "Consignado",
       "Imobiliário",
+      "Outros Créditos",
       "Pessoal",
-      "Veículos e Outros Créditos"
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2019-04-30",
     "DatePixStarted": "2021-06-14 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711504-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2273481+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9601055+00:00"
   },
   {
     "COMPE": "330",
@@ -3860,13 +3910,14 @@
       "Consignado",
       "Imobiliário",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2019-07-22",
     "DatePixStarted": "2021-02-25 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7113173-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5477718+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1747386+00:00"
   },
   {
     "COMPE": "331",
@@ -3946,13 +3997,14 @@
     "DetectaFlow": false,
     "SalaryPortability": "Destinatário",
     "Products": [
-      "Consignado e Outros Créditos"
+      "Consignado",
+      "Outros Créditos"
     ],
     "Url": "https://www.digio.com.br",
     "DateOperationStarted": "2019-11-25",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114964-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6472677+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1792295+00:00"
   },
   {
     "COMPE": "336",
@@ -3969,15 +4021,19 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
+      "Imobiliário",
+      "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.c6bank.com",
     "DateOperationStarted": "2019-01-31",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115026-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5478356+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.176051+00:00"
   },
   {
     "COMPE": "340",
@@ -4015,18 +4071,20 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
+      "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.itau.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115257-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6287206+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1817233+00:00"
   },
   {
     "COMPE": "342",
@@ -4085,14 +4143,15 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2019-11-01",
     "DatePixStarted": "2021-06-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115069-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5535199+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1880933+00:00"
   },
   {
     "COMPE": "349",
@@ -4109,18 +4168,19 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Consignado",
       "Imobiliário",
       "Outros",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2019-10-24",
     "DatePixStarted": "2023-08-01 15:22:55",
     "DateRegistered": "2021-05-05T09:11:12.7114967-03:00",
-    "DateUpdated": "2023-08-02T12:05:44.3549376+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1707501+00:00"
   },
   {
     "COMPE": "350",
@@ -4244,17 +4304,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Consignado",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veiculos"
     ],
     "Url": null,
     "DateOperationStarted": "2020-06-10",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114578-03:00",
-    "DateUpdated": "2022-12-08T12:06:48.0726514+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9723054+00:00"
   },
   {
     "COMPE": "360",
@@ -4418,13 +4479,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Crédito consignado e Troca de modalidade."
+      "Crédito consignado",
+      "Troca de modalidade."
     ],
     "Url": "https://www.carrefoursolucoes.com.br",
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": "2022-10-31 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114653-03:00",
-    "DateUpdated": "2023-03-24T12:07:16.1761348+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1777644+00:00"
   },
   {
     "COMPE": "370",
@@ -4483,16 +4545,17 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veiculos"
     ],
     "Url": null,
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2023-03-24T12:07:17.0335382+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9719443+00:00"
   },
   {
     "COMPE": "374",
@@ -4509,13 +4572,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Pessoal e Outros Créditos"
+      "Outros Créditos",
+      "Pessoal"
     ],
     "Url": null,
     "DateOperationStarted": "2020-09-16",
     "DatePixStarted": "2021-04-14 12:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114975-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2273551+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9603428+00:00"
   },
   {
     "COMPE": "376",
@@ -4597,17 +4661,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Cheque Especial e Troca de Modalidade",
+      "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2020-09-01",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114443-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0754333+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.8456698+00:00"
   },
   {
     "COMPE": "380",
@@ -4645,13 +4710,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos"
     ],
     "Url": "https://www.bancomercedesbenz.com.br",
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115265-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.550966+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1824214+00:00"
   },
   {
     "COMPE": "382",
@@ -4753,13 +4819,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Pessoal e Troca de Modalidade"
+      "Pessoal",
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2021-01-12",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711501-03:00",
-    "DateUpdated": "2023-03-24T12:07:17.0209334+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9570288+00:00"
   },
   {
     "COMPE": "387",
@@ -4799,18 +4866,19 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.mercantil.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114881-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5509576+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1822773+00:00"
   },
   {
     "COMPE": "390",
@@ -4871,15 +4939,16 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Consignado",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bancovw.com.br",
     "DateOperationStarted": "2020-08-17",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115229-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528975+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1870296+00:00"
   },
   {
     "COMPE": "394",
@@ -4898,13 +4967,14 @@
     "Products": [
       "Consignado",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": "https://www.bradescofinanciamentos.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114609-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6457736+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.175375+00:00"
   },
   {
     "COMPE": "395",
@@ -5215,13 +5285,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Pessoal"
+      "Consignado",
+      "Pessoal"
     ],
     "Url": null,
     "DateOperationStarted": "2021-02-22",
     "DatePixStarted": "2021-06-24 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114575-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2350045+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9720664+00:00"
   },
   {
     "COMPE": "412",
@@ -5385,19 +5456,20 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.safra.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115218-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286868+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1862149+00:00"
   },
   {
     "COMPE": "423",
@@ -5437,14 +5509,15 @@
     "Products": [
       "Consignado",
       "Imobiliário",
+      "Outros Créditos",
       "Pessoal",
-      "Veículos e Outros Créditos"
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2021-07-27",
     "DatePixStarted": "2022-12-30 10:00:00",
     "DateRegistered": "2021-08-02T11:56:55.6601087-03:00",
-    "DateUpdated": "2022-12-28T12:06:49.6418965+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9699655+00:00"
   },
   {
     "COMPE": "426",
@@ -5482,13 +5555,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Troca de Modalidade"
+      "Consignado",
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2021-04-26",
     "DatePixStarted": "2022-11-22 13:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114971-03:00",
-    "DateUpdated": "2022-11-18T12:06:54.7507678+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.5164511+00:00"
   },
   {
     "COMPE": "428",
@@ -5528,13 +5602,14 @@
     "Products": [
       "Consignado",
       "Pessoal",
-      "Veículos e Troca de Modalidade"
+      "Troca de Modalidade",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2021-09-08",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-13T19:08:16.9817149-03:00",
-    "DateUpdated": "2023-06-04T14:21:02.173245+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9498506+00:00"
   },
   {
     "COMPE": "430",
@@ -5992,13 +6067,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Troca de Modalidade"
+      "Consignado",
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2021-11-04",
     "DatePixStarted": null,
     "DateRegistered": "2021-11-22T11:00:23.6789568-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0765568+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.5599179+00:00"
   },
   {
     "COMPE": "460",
@@ -6163,14 +6239,15 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
+      "Outros Créditos",
       "Pessoal",
-      "Veículos e Outros Créditos"
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2022-02-09",
     "DatePixStarted": "2022-03-14 14:00:00",
     "DateRegistered": "2022-02-16T07:02:06.0714205+00:00",
-    "DateUpdated": "2022-06-23T13:51:35.2273425+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9599779+00:00"
   },
   {
     "COMPE": "469",
@@ -6315,17 +6392,18 @@
     "DetectaFlow": false,
     "SalaryPortability": "Destinatário",
     "Products": [
+      "Capital de Giro",
       "Consignado",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2022-03-21",
     "DatePixStarted": "2023-01-23 13:00:00",
     "DateRegistered": "2022-03-31T08:12:19.2479082+00:00",
-    "DateUpdated": "2023-06-23T17:11:26.6713328+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9523959+00:00"
   },
   {
     "COMPE": "479",
@@ -6700,13 +6778,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Pessoal e Troca de Modalidade"
+      "Pessoal",
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2022-10-24",
     "DatePixStarted": null,
     "DateRegistered": "2022-10-21T12:08:38.2728811+00:00",
-    "DateUpdated": "2023-03-25T12:06:50.7821051+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9602279+00:00"
   },
   {
     "COMPE": "518",
@@ -6996,16 +7075,17 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2023-05-22",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347544+00:00",
-    "DateUpdated": "2023-09-25T12:28:24.3876191+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1887304+00:00"
   },
   {
     "COMPE": "532",
@@ -7613,13 +7693,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Veículos e Outros Créditos"
+      "Outros Créditos",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2023-08-28",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347543+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.0705327+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9501542+00:00"
   },
   {
     "COMPE": "600",
@@ -7638,13 +7719,14 @@
     "Products": [
       "Consignado",
       "Imobiliário",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos"
     ],
     "Url": "https://www.lusobrasileiro.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-12-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115232-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5509406+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1819674+00:00"
   },
   {
     "COMPE": "604",
@@ -7661,13 +7743,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Pessoal"
+      "Consignado",
+      "Pessoal"
     ],
     "Url": "https://www.bancoindustrial.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115033-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.550029+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1812644+00:00"
   },
   {
     "COMPE": "610",
@@ -7706,13 +7789,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Imobiliário e Troca de Modalidade"
+      "Imobiliário",
+      "Troca de Modalidade"
     ],
     "Url": "https://www.bancopaulista.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115321-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5517087+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1838119+00:00"
   },
   {
     "COMPE": "612",
@@ -7750,14 +7834,15 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Outros Créditos",
       "Pessoal",
-      "Veículos e Outros Créditos"
+      "Veículos"
     ],
     "Url": "https://www.bancopecunia.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-05-27 08:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115268-03:00",
-    "DateUpdated": "2022-06-23T13:51:35.2252774+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.9571583+00:00"
   },
   {
     "COMPE": "623",
@@ -7774,17 +7859,18 @@
     "DetectaFlow": false,
     "SalaryPortability": "Destinatário",
     "Products": [
-      "Cheque Especial e Troca de Modalidade",
+      "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Pessoal",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bancopan.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711524-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5517011+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1836566+00:00"
   },
   {
     "COMPE": "626",
@@ -7801,13 +7887,14 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
-      "Consignado e Veículos"
+      "Consignado",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115298-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.402843+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1759027+00:00"
   },
   {
     "COMPE": "630",
@@ -7845,15 +7932,16 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade"
     ],
     "Url": "https://www.rendimento.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115412-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528196+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1855386+00:00"
   },
   {
     "COMPE": "634",
@@ -7892,17 +7980,18 @@
     "SalaryPortability": "Destinatário",
     "Products": [
       "Cheque Especial",
+      "Cpaital de Giro",
       "Crédito Imobiliário",
       "Crédito Pessoal",
       "Financiamento de Veículos",
       "Outros Créditos",
-      "Troca de Modalides e Cpaital de Giro"
+      "Troca de Modalides"
     ],
     "Url": "https://www.sofisa.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115276-03:00",
-    "DateUpdated": "2023-10-20T12:06:28.5324036+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1866965+00:00"
   },
   {
     "COMPE": "643",
@@ -7919,15 +8008,16 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Consignado",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.pine.com",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115331-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.649929+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1839625+00:00"
   },
   {
     "COMPE": "652",
@@ -7986,16 +8076,17 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Consignado",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115485-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6472589+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1790758+00:00"
   },
   {
     "COMPE": "655",
@@ -8012,19 +8103,20 @@
     "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.bancovotorantim.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115243-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8642264+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1879341+00:00"
   },
   {
     "COMPE": "707",
@@ -8041,19 +8133,20 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiliário",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.daycoval.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115338-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5486005+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1780613+00:00"
   },
   {
     "COMPE": "712",
@@ -8092,13 +8185,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2021-02-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711546-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528348+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1858515+00:00"
   },
   {
     "COMPE": "739",
@@ -8115,17 +8209,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
       "Consignado",
       "Outros Céditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro",
+      "Troca de Modalidade",
       "Veículos"
     ],
     "Url": "https://www.cetelem.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7113315-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6458387+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1762005+00:00"
   },
   {
     "COMPE": "741",
@@ -8144,13 +8239,14 @@
     "Products": [
       "Consignado",
       "Imobiliário",
-      "Pessoal e Veículos"
+      "Pessoal",
+      "Veículos"
     ],
     "Url": "https://www.brp.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112988-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528273+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1857011+00:00"
   },
   {
     "COMPE": "743",
@@ -8167,13 +8263,14 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
-      "Consignado e Pessoal"
+      "Consignado",
+      "Pessoal"
     ],
     "Url": "https://www.bancosemear.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-12-22 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7113451-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4000454+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1865122+00:00"
   },
   {
     "COMPE": "745",
@@ -8191,13 +8288,14 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Imobiliário e Pessoal"
+      "Imobiliário",
+      "Pessoal"
     ],
     "Url": "https://www.citibank.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-09-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115077-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4019995+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.17636+00:00"
   },
   {
     "COMPE": "746",
@@ -8256,12 +8354,13 @@
     "DetectaFlow": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
-      "Capital de Giro e PRONAMPE",
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiário",
       "Outros Créditos",
       "Pessoal",
+      "PRONAMPE",
       "Troca de Modalidade",
       "Veículos"
     ],
@@ -8269,7 +8368,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114428-03:00",
-    "DateUpdated": "2023-07-22T23:17:11.6286448+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1774569+00:00"
   },
   {
     "COMPE": "751",
@@ -8307,15 +8406,18 @@
     "DetectaFlow": false,
     "SalaryPortability": null,
     "Products": [
+      "Capital de Giro",
+      "Consiginado",
       "Outros Créditos",
       "Pessoal",
-      "Troca de Modalidade e Capital de Giro"
+      "Troca de Modalidade",
+      "veículos"
     ],
     "Url": "https://www.bnpparibas.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114435-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.6457509+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1750727+00:00"
   },
   {
     "COMPE": "753",
@@ -8397,12 +8499,13 @@
     "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
-      "Capital de Giro e PRONAMPE",
+      "Capital de Giro",
       "Cheque Especial",
       "Consignado",
       "Imobiário",
       "Outros Créditos",
       "Pessoal",
+      "PRONAMPE",
       "Troca de Modalidade",
       "Veículos"
     ],
@@ -8410,7 +8513,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114457-03:00",
-    "DateUpdated": "2023-07-23T01:05:58.8642103+00:00"
+    "DateUpdated": "2023-10-21T12:05:56.1772966+00:00"
   },
   {
     "COMPE": "757",

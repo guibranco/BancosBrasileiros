@@ -15,19 +15,20 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7109988-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286584Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1793808Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>003</COMPE>
@@ -44,17 +45,18 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancoamazonia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114564-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286515Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1779135Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>004</COMPE>
@@ -71,14 +73,15 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.banconordeste.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114613-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286794Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1800231Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>007</COMPE>
@@ -143,14 +146,15 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
+      <Product>Outros Créditos.</Product>
       <Product>Pessoal</Product>
-      <Product>Veiculos e Outros Créditos.</Product>
+      <Product>Veiculos</Product>
     </Products>
     <Url>https://www.bancoinbursa.com</Url>
     <DateOperationStarted>2017-05-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711456-03:00</DateRegistered>
-    <DateUpdated>2022-12-01T12:07:10.8434598Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.181094Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>014</COMPE>
@@ -196,19 +200,20 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Capital de Giro e PRONAMPE</Product>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
+      <Product>PRONAMPE</Product>
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2012-05-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114553-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.076968Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.5629674Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>017</COMPE>
@@ -259,19 +264,20 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.banestes.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114987-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6287003Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1884283Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>024</COMPE>
@@ -305,13 +311,14 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancoalfa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114509-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5477558Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1745344Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>029</COMPE>
@@ -329,12 +336,13 @@
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115099-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6479655Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.181577Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>033</COMPE>
@@ -351,18 +359,19 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.santander.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115471-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286936Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1863637Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>036</COMPE>
@@ -396,17 +405,18 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.banpara.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114571-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286651Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1797109Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>040</COMPE>
@@ -440,11 +450,12 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
-      <Product>Capital de Giro e PRONAMPE</Product>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
+      <Product>PRONAMPE</Product>
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
@@ -452,7 +463,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115478-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286723Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1798658Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>047</COMPE>
@@ -469,19 +480,20 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.banese.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114799-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5493295Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1795496Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>060</COMPE>
@@ -531,12 +543,13 @@
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.ibi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114534-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5477881Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1752278Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>064</COMPE>
@@ -604,13 +617,14 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
-      <Product>Consignado e Pessoal</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
     </Products>
     <Url>https://www.crefisa.com.br</Url>
     <DateOperationStarted>2005-11-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115283-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5485845Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.177609Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>070</COMPE>
@@ -629,13 +643,14 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.brb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7111961-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5548994Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1897774Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>074</COMPE>
@@ -703,16 +718,17 @@
     <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.bancointer.com.br</Url>
     <DateOperationStarted>2008-08-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112852-03:00</DateRegistered>
-    <DateUpdated>2023-08-08T12:05:39.2907363Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1814264Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>078</COMPE>
@@ -777,13 +793,14 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Pessoal</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
     </Products>
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2008-10-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114701-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5541944Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1882772Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>082</COMPE>
@@ -799,17 +816,18 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.bancotopazio.com.br</Url>
     <DateOperationStarted>2009-06-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114631-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6512182Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1868471Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>083</COMPE>
@@ -844,12 +862,13 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114472-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.8643054Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9686568Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>085</COMPE>
@@ -865,18 +884,19 @@
     <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114586-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.8642887Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.196962Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>088</COMPE>
@@ -910,16 +930,17 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
     <Products>
+      <Product>Catapital de Giro</Product>
       <Product>Crédito Consignado</Product>
       <Product>Crédito Pessoal</Product>
       <Product>Financiamento de Veículos</Product>
       <Product>outros</Product>
-      <Product>troca de modalidade e Catapital de Giro</Product>
+      <Product>troca de modalidade</Product>
     </Products>
     <DateOperationStarted>2010-08-30</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115328-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.864297Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9500273Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>091</COMPE>
@@ -1072,18 +1093,19 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2011-01-11</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114498-03:00</DateRegistered>
-    <DateUpdated>2023-03-24T12:07:17.0335177Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9718001Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>100</COMPE>
@@ -1145,18 +1167,19 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiário</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.caixa.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112717-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.628707Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1910467Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>105</COMPE>
@@ -1171,11 +1194,12 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Pessoal e Troca de Modalidade</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2011-12-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114624-03:00</DateRegistered>
-    <DateUpdated>2023-03-24T12:07:17.0187801Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9554179Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>107</COMPE>
@@ -1255,15 +1279,16 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Cheque Especial e Troca de Modalidade</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2011-10-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114598-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.7705747Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.192614Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>117</COMPE>
@@ -1315,12 +1340,13 @@
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.rodobens.com.br</Url>
     <DateOperationStarted>2012-02-06</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115081-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528422Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.18606Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>121</COMPE>
@@ -1337,15 +1363,16 @@
     <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
-      <Product>Cheque Especial e Troca de Modalidade</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.agibank.com.br</Url>
     <DateOperationStarted>2012-04-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114712-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.8641594Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1735916Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>122</COMPE>
@@ -1529,18 +1556,19 @@
     <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2016-05-02</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114705-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0788021Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1956945Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>134</COMPE>
@@ -1571,18 +1599,19 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112437-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0743577Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1958664Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>138</COMPE>
@@ -1819,12 +1848,13 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
-      <Product>Pessoal e Outros Créditos</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Pessoal</Product>
     </Products>
     <DateOperationStarted>2017-11-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115165-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.22637Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9587328Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>177</COMPE>
@@ -1917,11 +1947,12 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Troca de Modalidade</Product>
+      <Product>Consignado</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2017-06-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711462-03:00</DateRegistered>
-    <DateUpdated>2023-07-14T12:06:15.9897797Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9525364Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>190</COMPE>
@@ -2031,14 +2062,20 @@
     <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
+      <Product>Cheque Especial</Product>
+      <Product>Consignado</Product>
+      <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.btgpactual.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115006-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.8642022Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.17575Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>212</COMPE>
@@ -2055,17 +2092,18 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.original.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115492-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6498959Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1834688Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>213</COMPE>
@@ -2161,17 +2199,18 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancofibra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115225-03:00</DateRegistered>
-    <DateUpdated>2023-06-14T12:06:48.3271732Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1801861Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>233</COMPE>
@@ -2205,18 +2244,19 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bradesco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115261-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286012Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1755602Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>241</COMPE>
@@ -2249,19 +2289,20 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancomaxima.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115103-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4020827Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1821252Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>246</COMPE>
@@ -2277,17 +2318,18 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.abcbrasil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114992-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6456766Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.173367Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>249</COMPE>
@@ -2354,13 +2396,14 @@
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.paranabanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114844-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2263568Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9584847Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>259</COMPE>
@@ -2443,11 +2486,12 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2017-12-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114848-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5542033Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1885754Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>269</COMPE>
@@ -2541,14 +2585,15 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2019-09-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114738-03:00</DateRegistered>
-    <DateUpdated>2022-09-27T12:08:38.4177957Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1888784Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>276</COMPE>
@@ -2615,11 +2660,12 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Crédito Pessoal e Troca de Modalidade</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
-    <DateUpdated>2023-07-05T12:07:00.909528Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9721845Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>281</COMPE>
@@ -2990,13 +3036,14 @@
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancobmg.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115294-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5477799Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1749154Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>319</COMPE>
@@ -3096,12 +3143,13 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Pessoal e Troca de Modalidade.</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade.</Product>
     </Products>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114933-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3032684Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1912056Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>325</COMPE>
@@ -3131,12 +3179,13 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Pessoal</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
     </Products>
     <DateOperationStarted>2020-01-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114505-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.226364Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9586131Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>328</COMPE>
@@ -3168,13 +3217,14 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2019-04-30</DateOperationStarted>
     <DatePixStarted>2021-06-14 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711504-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2273481Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9601055Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>330</COMPE>
@@ -3192,12 +3242,13 @@
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2019-07-22</DateOperationStarted>
     <DatePixStarted>2021-02-25 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7113173-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5477718Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1747386Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>331</COMPE>
@@ -3262,13 +3313,14 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
-      <Product>Consignado e Outros Créditos</Product>
+      <Product>Consignado</Product>
+      <Product>Outros Créditos</Product>
     </Products>
     <Url>https://www.digio.com.br</Url>
     <DateOperationStarted>2019-11-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114964-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6472677Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1792295Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>336</COMPE>
@@ -3285,15 +3337,19 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
+      <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.c6bank.com</Url>
     <DateOperationStarted>2019-01-31</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115026-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5478356Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.176051Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>340</COMPE>
@@ -3327,18 +3383,20 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115257-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6287206Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1817233Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>342</COMPE>
@@ -3386,13 +3444,14 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2019-11-01</DateOperationStarted>
     <DatePixStarted>2021-06-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115069-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5535199Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1880933Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>349</COMPE>
@@ -3408,17 +3467,18 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2019-10-24</DateOperationStarted>
     <DatePixStarted>2023-08-01 15:22:55</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114967-03:00</DateRegistered>
-    <DateUpdated>2023-08-02T12:05:44.3549376Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1707501Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>350</COMPE>
@@ -3518,16 +3578,17 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veiculos</Product>
     </Products>
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114578-03:00</DateRegistered>
-    <DateUpdated>2022-12-08T12:06:48.0726514Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9723054Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>360</COMPE>
@@ -3655,13 +3716,14 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Crédito consignado e Troca de modalidade.</Product>
+      <Product>Crédito consignado</Product>
+      <Product>Troca de modalidade.</Product>
     </Products>
     <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
-    <DateUpdated>2023-03-24T12:07:16.1761348Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1777644Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>370</COMPE>
@@ -3709,14 +3771,15 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veiculos</Product>
     </Products>
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2023-03-24T12:07:17.0335382Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9719443Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -3731,12 +3794,13 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Pessoal e Outros Créditos</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Pessoal</Product>
     </Products>
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2021-04-14 12:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114975-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2273551Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9603428Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>376</COMPE>
@@ -3801,15 +3865,16 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Cheque Especial e Troca de Modalidade</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2020-09-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114443-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0754333Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.8456698Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>380</COMPE>
@@ -3844,12 +3909,13 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancomercedesbenz.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115265-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.550966Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1824214Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>382</COMPE>
@@ -3930,11 +3996,12 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Pessoal e Troca de Modalidade</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2021-01-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711501-03:00</DateRegistered>
-    <DateUpdated>2023-03-24T12:07:17.0209334Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9570288Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>387</COMPE>
@@ -3971,18 +4038,19 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.mercantil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114881-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5509576Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1822773Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>390</COMPE>
@@ -4031,14 +4099,15 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancovw.com.br</Url>
     <DateOperationStarted>2020-08-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115229-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528975Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1870296Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>394</COMPE>
@@ -4055,12 +4124,13 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bradescofinanciamentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114609-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6457736Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.175375Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>395</COMPE>
@@ -4305,12 +4375,13 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Pessoal</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
     </Products>
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2021-06-24 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114575-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2350045Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9720664Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>412</COMPE>
@@ -4444,19 +4515,20 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.safra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115218-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286868Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1862149Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>423</COMPE>
@@ -4488,13 +4560,14 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2021-07-27</DateOperationStarted>
     <DatePixStarted>2022-12-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601087-03:00</DateRegistered>
-    <DateUpdated>2022-12-28T12:06:49.6418965Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9699655Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>426</COMPE>
@@ -4524,12 +4597,13 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Troca de Modalidade</Product>
+      <Product>Consignado</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2021-04-26</DateOperationStarted>
     <DatePixStarted>2022-11-22 13:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114971-03:00</DateRegistered>
-    <DateUpdated>2022-11-18T12:06:54.7507678Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.5164511Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>428</COMPE>
@@ -4562,11 +4636,12 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Troca de Modalidade</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817149-03:00</DateRegistered>
-    <DateUpdated>2023-06-04T14:21:02.173245Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9498506Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>430</COMPE>
@@ -4912,11 +4987,12 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Troca de Modalidade</Product>
+      <Product>Consignado</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2021-11-04</DateOperationStarted>
     <DateRegistered>2021-11-22T11:00:23.6789568-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0765568Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.5599179Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>460</COMPE>
@@ -5045,13 +5121,14 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2022-02-09</DateOperationStarted>
     <DatePixStarted>2022-03-14 14:00:00</DatePixStarted>
     <DateRegistered>2022-02-16T07:02:06.0714205Z</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2273425Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9599779Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>469</COMPE>
@@ -5164,16 +5241,17 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2022-03-21</DateOperationStarted>
     <DatePixStarted>2023-01-23 13:00:00</DatePixStarted>
     <DateRegistered>2022-03-31T08:12:19.2479082Z</DateRegistered>
-    <DateUpdated>2023-06-23T17:11:26.6713328Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9523959Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>479</COMPE>
@@ -5459,11 +5537,12 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Pessoal e Troca de Modalidade</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2022-10-24</DateOperationStarted>
     <DateRegistered>2022-10-21T12:08:38.2728811Z</DateRegistered>
-    <DateUpdated>2023-03-25T12:06:50.7821051Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9602279Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>518</COMPE>
@@ -5674,14 +5753,15 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2023-05-22</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347544Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:24.3876191Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1887304Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>532</COMPE>
@@ -6134,11 +6214,12 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2023-08-28</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347543Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.0705327Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9501542Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>600</COMPE>
@@ -6156,13 +6237,14 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.lusobrasileiro.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115232-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5509406Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1819674Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>604</COMPE>
@@ -6178,13 +6260,14 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Pessoal</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
     </Products>
     <Url>https://www.bancoindustrial.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115033-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.550029Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1812644Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>610</COMPE>
@@ -6219,12 +6302,13 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Imobiliário e Troca de Modalidade</Product>
+      <Product>Imobiliário</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.bancopaulista.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115321-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5517087Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1838119Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>612</COMPE>
@@ -6259,14 +6343,15 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Veículos e Outros Créditos</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancopecunia.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-27 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115268-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:35.2252774Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.9571583Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>623</COMPE>
@@ -6283,17 +6368,18 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
-      <Product>Cheque Especial e Troca de Modalidade</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancopan.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711524-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5517011Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1836566Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>626</COMPE>
@@ -6307,11 +6393,12 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
-      <Product>Consignado e Veículos</Product>
+      <Product>Consignado</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115298-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.402843Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1759027Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>630</COMPE>
@@ -6346,15 +6433,16 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.rendimento.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115412-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528196Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1855386Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>634</COMPE>
@@ -6392,17 +6480,18 @@
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
+      <Product>Cpaital de Giro</Product>
       <Product>Crédito Imobiliário</Product>
       <Product>Crédito Pessoal</Product>
       <Product>Financiamento de Veículos</Product>
       <Product>Outros Créditos</Product>
-      <Product>Troca de Modalides e Cpaital de Giro</Product>
+      <Product>Troca de Modalides</Product>
     </Products>
     <Url>https://www.sofisa.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115276-03:00</DateRegistered>
-    <DateUpdated>2023-10-20T12:06:28.5324036Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1866965Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>643</COMPE>
@@ -6418,15 +6507,16 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.pine.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115331-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.649929Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1839625Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>652</COMPE>
@@ -6477,15 +6567,16 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115485-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6472589Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1790758Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>655</COMPE>
@@ -6502,19 +6593,20 @@
     <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancovotorantim.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115243-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.8642264Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1879341Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
@@ -6530,19 +6622,20 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.daycoval.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115338-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5486005Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1780613Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>712</COMPE>
@@ -6576,11 +6669,12 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711546-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528348Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1858515Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>739</COMPE>
@@ -6596,17 +6690,18 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
       <Product>Outros Céditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.cetelem.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7113315-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6458387Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1762005Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>741</COMPE>
@@ -6624,13 +6719,14 @@
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
-      <Product>Pessoal e Veículos</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url>https://www.brp.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112988-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528273Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1857011Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>743</COMPE>
@@ -6647,13 +6743,14 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
-      <Product>Consignado e Pessoal</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
     </Products>
     <Url>https://www.bancosemear.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-22 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7113451-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4000454Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1865122Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>745</COMPE>
@@ -6670,13 +6767,14 @@
     <DetectaFLow>false</DetectaFLow>
     <Products>
       <Product>Consignado</Product>
-      <Product>Imobiliário e Pessoal</Product>
+      <Product>Imobiliário</Product>
+      <Product>Pessoal</Product>
     </Products>
     <Url>https://www.citibank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-09-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115077-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4019995Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.17636Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>746</COMPE>
@@ -6730,12 +6828,13 @@
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
-      <Product>Capital de Giro e PRONAMPE</Product>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
+      <Product>PRONAMPE</Product>
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
@@ -6743,7 +6842,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114428-03:00</DateRegistered>
-    <DateUpdated>2023-07-22T23:17:11.6286448Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1774569Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>751</COMPE>
@@ -6775,14 +6874,17 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <Products>
+      <Product>Capital de Giro</Product>
+      <Product>Consiginado</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
-      <Product>Troca de Modalidade e Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>veículos</Product>
     </Products>
     <Url>https://www.bnpparibas.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114435-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.6457509Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1750727Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>753</COMPE>
@@ -6855,12 +6957,13 @@
     <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
-      <Product>Capital de Giro e PRONAMPE</Product>
+      <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
       <Product>Imobiário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
+      <Product>PRONAMPE</Product>
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
@@ -6868,7 +6971,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114457-03:00</DateRegistered>
-    <DateUpdated>2023-07-23T01:05:58.8642103Z</DateUpdated>
+    <DateUpdated>2023-10-21T12:05:56.1772966Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>757</COMPE>
