@@ -9,7 +9,7 @@ jobs:
 
   Ping-Started:
     runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.status == 'requested' }}
+    if: ${{ github.event.workflow_run.status == 'requested' || github.event.workflow_run.status == 'in_progress' }}
     steps:
       - run: curl -m 10 --retry 5 ${{ secrets.ping_url }}/stared
 
