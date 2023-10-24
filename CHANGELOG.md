@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2023-10-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 566 - FLAGSHIP IP LTDA - 23.114.447/0001-97
+- Updated 1 bank
+  - 439 - ID CTVM - 16.695.922/0001-09
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2023-03-03 10:17:13 **->** 2023-10-23 10:10:00
+
 ### 2023-10-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 92 banks

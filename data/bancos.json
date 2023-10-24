@@ -5703,7 +5703,7 @@
     "ShortName": "ID CTVM",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "LegalCheque": false,
@@ -5712,9 +5712,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-09-30",
-    "DatePixStarted": "2023-03-03 10:17:13",
+    "DatePixStarted": "2023-10-23 10:10:00",
     "DateRegistered": "2021-09-28T05:25:19.3476011-03:00",
-    "DateUpdated": "2023-03-04T12:06:42.2804637+00:00"
+    "DateUpdated": "2023-10-24T12:06:12.8296442+00:00"
   },
   {
     "COMPE": "440",
@@ -7676,6 +7676,27 @@
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347548+00:00",
     "DateUpdated": "2023-09-25T12:28:25.1347549+00:00"
+  },
+  {
+    "COMPE": "566",
+    "ISPB": "23114447",
+    "Document": "23.114.447/0001-97",
+    "LongName": "FLAGSHIP INSTITUICAO DE PAGAMENTOS LTDA",
+    "ShortName": "FLAGSHIP IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-10-30",
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2023-10-24T12:06:14.1207735+00:00",
+    "DateUpdated": "2023-10-24T12:06:12.8841523+00:00"
   },
   {
     "COMPE": "567",

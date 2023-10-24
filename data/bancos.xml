@@ -4715,15 +4715,15 @@
     <LongName>ID CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
     <ShortName>ID CTVM</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2021-09-30</DateOperationStarted>
-    <DatePixStarted>2023-03-03 10:17:13</DatePixStarted>
+    <DatePixStarted>2023-10-23 10:10:00</DatePixStarted>
     <DateRegistered>2021-09-28T05:25:19.3476011-03:00</DateRegistered>
-    <DateUpdated>2023-03-04T12:06:42.2804637Z</DateUpdated>
+    <DateUpdated>2023-10-24T12:06:12.8296442Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>440</COMPE>
@@ -6200,6 +6200,23 @@
     <DateOperationStarted>2023-09-18</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347548Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347549Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>566</COMPE>
+    <ISPB>23114447</ISPB>
+    <Document>23.114.447/0001-97</Document>
+    <LongName>FLAGSHIP INSTITUICAO DE PAGAMENTOS LTDA</LongName>
+    <ShortName>FLAGSHIP IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-10-30</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2023-10-24T12:06:14.1207735Z</DateRegistered>
+    <DateUpdated>2023-10-24T12:06:12.8841523Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>567</COMPE>
