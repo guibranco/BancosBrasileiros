@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-10-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 569 - CONTA PRONTA IP - 12.473.687/0001-61
+
 ### 2023-10-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

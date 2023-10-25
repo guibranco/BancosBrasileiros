@@ -7724,6 +7724,27 @@
     "DateUpdated": "2023-10-21T12:05:56.9501542+00:00"
   },
   {
+    "COMPE": "569",
+    "ISPB": "12473687",
+    "Document": "12.473.687/0001-61",
+    "LongName": "CONTA PRONTA INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "CONTA PRONTA IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-10-31",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-10-25T12:06:22.8368523+00:00",
+    "DateUpdated": "2023-10-25T12:06:22.8368905+00:00"
+  },
+  {
     "COMPE": "600",
     "ISPB": "59118133",
     "Document": "59.118.133/0001-00",

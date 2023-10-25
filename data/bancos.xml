@@ -6239,6 +6239,21 @@
     <DateUpdated>2023-10-21T12:05:56.9501542Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>569</COMPE>
+    <ISPB>12473687</ISPB>
+    <Document>12.473.687/0001-61</Document>
+    <LongName>CONTA PRONTA INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>CONTA PRONTA IP</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-10-31</DateOperationStarted>
+    <DateRegistered>2023-10-25T12:06:22.8368523Z</DateRegistered>
+    <DateUpdated>2023-10-25T12:06:22.8368905Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>600</COMPE>
     <ISPB>59118133</ISPB>
     <Document>59.118.133/0001-00</Document>
