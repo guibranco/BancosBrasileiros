@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2023-10-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 514 - EXIM CC LTDA. - 73.302.408/0001-91
+- Updated 1 bank
+  - 534 - EWALLY IP S.A. - 00.714.671/0001-14
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2023-10-25 09:10:00
+
 ### 2023-10-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

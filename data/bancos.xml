@@ -5525,6 +5525,21 @@
     <DateUpdated>2022-11-30T12:07:13.9849612Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>514</COMPE>
+    <ISPB>73302408</ISPB>
+    <Document>73.302.408/0001-91</Document>
+    <LongName>EXIM CORRETORA DE CAMBIO LTDA</LongName>
+    <ShortName>EXIM CC LTDA.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-11-01</DateOperationStarted>
+    <DateRegistered>2023-10-26T12:06:02.2870023Z</DateRegistered>
+    <DateUpdated>2023-10-26T12:06:02.2870283Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>516</COMPE>
     <ISPB>36583700</ISPB>
     <Document>36.583.700/0001-01</Document>
@@ -5800,15 +5815,15 @@
     <LongName>EWALLY INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>EWALLY IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-04-03</DateOperationStarted>
-    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DatePixStarted>2023-10-25 09:10:00</DatePixStarted>
     <DateRegistered>2023-03-29T12:07:07.8301111Z</DateRegistered>
-    <DateUpdated>2023-03-29T12:07:06.2710986Z</DateUpdated>
+    <DateUpdated>2023-10-26T12:06:00.6188278Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>535</COMPE>

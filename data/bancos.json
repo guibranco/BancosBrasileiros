@@ -6763,6 +6763,27 @@
     "DateUpdated": "2022-11-30T12:07:13.9849612+00:00"
   },
   {
+    "COMPE": "514",
+    "ISPB": "73302408",
+    "Document": "73.302.408/0001-91",
+    "LongName": "EXIM CORRETORA DE CAMBIO LTDA",
+    "ShortName": "EXIM CC LTDA.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-11-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-10-26T12:06:02.2870023+00:00",
+    "DateUpdated": "2023-10-26T12:06:02.2870283+00:00"
+  },
+  {
     "COMPE": "516",
     "ISPB": "36583700",
     "Document": "36.583.700/0001-01",
@@ -7137,7 +7158,7 @@
     "ShortName": "EWALLY IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7146,9 +7167,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-04-03",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2023-10-25 09:10:00",
     "DateRegistered": "2023-03-29T12:07:07.8301111+00:00",
-    "DateUpdated": "2023-03-29T12:07:06.2710986+00:00"
+    "DateUpdated": "2023-10-26T12:06:00.6188278+00:00"
   },
   {
     "COMPE": "535",
