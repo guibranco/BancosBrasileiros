@@ -6269,6 +6269,21 @@
     <DateUpdated>2023-10-25T12:06:22.8368905Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>579</COMPE>
+    <ISPB>49555647</ISPB>
+    <Document>49.555.647/0001-79</Document>
+    <LongName>QUADRA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>QUADRA SCD</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-11-07</DateOperationStarted>
+    <DateRegistered>2023-10-31T12:06:23.9585158Z</DateRegistered>
+    <DateUpdated>2023-10-31T12:06:23.9585542Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>600</COMPE>
     <ISPB>59118133</ISPB>
     <Document>59.118.133/0001-00</Document>

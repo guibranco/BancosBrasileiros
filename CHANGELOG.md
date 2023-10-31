@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-10-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 579 - QUADRA SCD - 49.555.647/0001-79
+
 ### 2023-10-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

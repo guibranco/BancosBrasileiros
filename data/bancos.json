@@ -7766,6 +7766,27 @@
     "DateUpdated": "2023-10-25T12:06:22.8368905+00:00"
   },
   {
+    "COMPE": "579",
+    "ISPB": "49555647",
+    "Document": "49.555.647/0001-79",
+    "LongName": "QUADRA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "QUADRA SCD",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-11-07",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-10-31T12:06:23.9585158+00:00",
+    "DateUpdated": "2023-10-31T12:06:23.9585542+00:00"
+  },
+  {
     "COMPE": "600",
     "ISPB": "59118133",
     "Document": "59.118.133/0001-00",
