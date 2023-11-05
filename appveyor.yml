@@ -92,7 +92,7 @@ deploy:
   on:
    branch: main
   tag: v$(appveyor_build_version)
-  description: 'Release of Bancos Brasileiros - v$(appveyor_build_version) \n $(release_notes)'
+  description: 'Release of Bancos Brasileiros - v$(appveyor_build_version) \n$(release_notes)'
   auth_token: $(GITHUB_TOKEN)
   force_update: true
   artifact: Package
