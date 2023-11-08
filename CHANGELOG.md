@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2023-11-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 428 - CREDSYSTEM SCD S.A. - 39.664.698/0001-85
+    - **Products** (CTC): Null **->** Crédito Pessoal, Troca de Modalidade
+
 ### 2023-10-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

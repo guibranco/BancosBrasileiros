@@ -4617,10 +4617,14 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Products>
+      <Product>Crédito Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <DateOperationStarted>2021-04-20</DateOperationStarted>
     <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115154-03:00</DateRegistered>
-    <DateUpdated>2022-07-19T12:06:19.3291547Z</DateUpdated>
+    <DateUpdated>2023-11-08T12:05:58.1724765Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>429</COMPE>
