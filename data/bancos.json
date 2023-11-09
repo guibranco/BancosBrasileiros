@@ -7394,7 +7394,7 @@
     "ShortName": "U4C INSTITUIÇÃO DE PAGAMENTO S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7403,9 +7403,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-04-24",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2023-11-08 17:15:00",
     "DateRegistered": "2023-04-19T12:07:00.4802737+00:00",
-    "DateUpdated": "2023-04-19T12:06:59.5516534+00:00"
+    "DateUpdated": "2023-11-09T12:06:14.1905467+00:00"
   },
   {
     "COMPE": "547",

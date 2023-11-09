@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-11-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 546 - U4C INSTITUIÇÃO DE PAGAMENTO S.A. - 30.980.539/0001-15
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2023-11-08 17:15:00
+
 ### 2023-11-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
