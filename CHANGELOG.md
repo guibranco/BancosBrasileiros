@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-11-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 550 - BEETELLER - 32.074.986/0001-30
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2022-01-03 14:55:45 **->** 2023-11-10 17:10:00
+
 ### 2023-11-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

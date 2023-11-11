@@ -7478,7 +7478,7 @@
     "ShortName": "BEETELLER",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7487,9 +7487,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-11",
-    "DatePixStarted": "2022-01-03 14:55:45",
+    "DatePixStarted": "2023-11-10 17:10:00",
     "DateRegistered": "2023-09-25T12:28:25.1347541+00:00",
-    "DateUpdated": "2023-09-25T12:28:24.0611683+00:00"
+    "DateUpdated": "2023-11-11T12:05:26.4280139+00:00"
   },
   {
     "COMPE": "552",

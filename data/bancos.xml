@@ -6058,15 +6058,15 @@
     <LongName>BEETELLER INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
     <ShortName>BEETELLER</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-09-11</DateOperationStarted>
-    <DatePixStarted>2022-01-03 14:55:45</DatePixStarted>
+    <DatePixStarted>2023-11-10 17:10:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347541Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:24.0611683Z</DateUpdated>
+    <DateUpdated>2023-11-11T12:05:26.4280139Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>552</COMPE>
