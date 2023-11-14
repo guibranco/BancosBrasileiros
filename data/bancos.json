@@ -7702,6 +7702,27 @@
     "DateUpdated": "2023-09-25T12:28:25.1347549+00:00"
   },
   {
+    "COMPE": "565",
+    "ISPB": "74014747",
+    "Document": "74.014.747/0001-35",
+    "LongName": "ÁGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.",
+    "ShortName": "ÁGORA CTVM S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-11-20",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-11-14T12:06:11.793638+00:00",
+    "DateUpdated": "2023-11-14T12:06:11.7936735+00:00"
+  },
+  {
     "COMPE": "566",
     "ISPB": "23114447",
     "Document": "23.114.447/0001-97",

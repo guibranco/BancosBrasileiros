@@ -6221,6 +6221,21 @@
     <DateUpdated>2023-09-25T12:28:25.1347549Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>565</COMPE>
+    <ISPB>74014747</ISPB>
+    <Document>74.014.747/0001-35</Document>
+    <LongName>ÁGORA CORRETORA DE TITULOS E VALORES MOBILIARIOS S.A.</LongName>
+    <ShortName>ÁGORA CTVM S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-11-20</DateOperationStarted>
+    <DateRegistered>2023-11-14T12:06:11.793638Z</DateRegistered>
+    <DateUpdated>2023-11-14T12:06:11.7936735Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>566</COMPE>
     <ISPB>23114447</ISPB>
     <Document>23.114.447/0001-97</Document>

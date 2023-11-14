@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-11-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 565 - ÁGORA CTVM S.A. - 74.014.747/0001-35
+
 ### 2023-11-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
