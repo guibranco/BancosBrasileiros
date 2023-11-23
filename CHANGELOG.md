@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2023-11-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 451 - J17 - SCD S/A - 40.475.846/0001-00
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2023-11-24 10:00:00
+
 ### 2023-11-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

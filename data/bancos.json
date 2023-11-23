@@ -5916,7 +5916,7 @@
     "ShortName": "J17 - SCD S/A",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5925,9 +5925,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-01-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2023-11-24 10:00:00",
     "DateRegistered": "2022-02-01T08:17:39.0832206+00:00",
-    "DateUpdated": "2022-02-01T08:17:39.0832325+00:00"
+    "DateUpdated": "2023-11-23T12:06:11.91515+00:00"
   },
   {
     "COMPE": "452",

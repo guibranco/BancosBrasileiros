@@ -4875,13 +4875,15 @@
     <LongName>J17 - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>J17 - SCD S/A</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
+    <DatePixStarted>2023-11-24 10:00:00</DatePixStarted>
     <DateRegistered>2022-02-01T08:17:39.0832206Z</DateRegistered>
-    <DateUpdated>2022-02-01T08:17:39.0832325Z</DateUpdated>
+    <DateUpdated>2023-11-23T12:06:11.91515Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>452</COMPE>
