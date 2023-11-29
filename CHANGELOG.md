@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2023-11-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 270 - SAGITUR CC - EM LIQUIDAÇÃO EXTRAJUDICIAL - 61.444.949/0001-75
+    - **ShortName** (STR): SAGITUR CC **->** SAGITUR CC - EM LIQUIDAÇÃO EXTRAJUDICIAL
+
 ### 2023-11-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

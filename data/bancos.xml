@@ -2515,7 +2515,7 @@
     <ISPB>61444949</ISPB>
     <Document>61.444.949/0001-75</Document>
     <LongName>SAGITUR CORRETORA DE CÂMBIO S.A.</LongName>
-    <ShortName>SAGITUR CC</ShortName>
+    <ShortName>SAGITUR CC - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2523,7 +2523,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2018-08-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115302-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4028539Z</DateUpdated>
+    <DateUpdated>2023-11-29T12:06:22.4602221Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>271</COMPE>
