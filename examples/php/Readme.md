@@ -45,7 +45,7 @@ Each of the Collection has the following information (schema):
 | Charge | If does charge operations | true, false, null |
 | CreditDocument | If does DOC/TED operations | true, false, null |
 | LegalCheque | If it belongs to the "Cheque Legal"  | true, false |
-| DeetctaFlow | If it belongs to the "Detecta Flow" | true, false |
+| Detecta Flow | If it belongs to the "Detecta Flow" | true, false |
 | SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null |
 | Products | List of products offered | In Portuguese only |
 | Url | Website | - |

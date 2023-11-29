@@ -50,7 +50,7 @@ Cada uma das listas possui as seguintes informações (schema):
 | Charge | Efetua cobrança | true, false, null |
 | CreditDocument | Efetua DOC/TED | true, false, null |
 | LegalCheque | Se pertence ao "Cheque Legal" | true, false |
-| DeetctaFlow | Se pertence ao "Detecta Flow" | true, false |
+| Detecta Flow | Se pertence ao "Detecta Flow" | true, false |
 | SalaryPortability | Efetua/recebe portabilidade de salário | "Banco folha e Destinatário" - ambas as operações,  "Destinatário" - apenas recebe, null |
 | Products | Lista de produtos oferecidos | Apenas em português |
 | Url | Website | - |
