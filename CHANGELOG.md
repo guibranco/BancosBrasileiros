@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2023-12-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 413 - BCO BV S.A. - 01.858.774/0001-10
+    - **DetectaFlow** (DetectaFlow): Empty **->** Empty
+  - 753 - NOVO BCO CONTINENTAL S.A. - BM - 74.828.799/0001-45
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2023-12-18 00:01:00
+
 ### 2023-11-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
