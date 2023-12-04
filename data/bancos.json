@@ -7769,6 +7769,27 @@
     "DateUpdated": "2023-10-21T12:05:56.9501542+00:00"
   },
   {
+    "COMPE": "568",
+    "ISPB": "49933388",
+    "Document": "49.933.388/0001-72",
+    "LongName": "BRCONDOS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "BRCONDOS SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2023-12-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2023-12-04T12:06:24.367144+00:00",
+    "DateUpdated": "2023-12-04T12:06:24.3671662+00:00"
+  },
+  {
     "COMPE": "569",
     "ISPB": "12473687",
     "Document": "12.473.687/0001-61",

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-12-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 568 - BRCONDOS SCD S.A. - 49.933.388/0001-72
+
 ### 2023-12-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

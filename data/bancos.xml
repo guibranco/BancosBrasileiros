@@ -6275,6 +6275,21 @@
     <DateUpdated>2023-10-21T12:05:56.9501542Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>568</COMPE>
+    <ISPB>49933388</ISPB>
+    <Document>49.933.388/0001-72</Document>
+    <LongName>BRCONDOS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>BRCONDOS SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-12-08</DateOperationStarted>
+    <DateRegistered>2023-12-04T12:06:24.367144Z</DateRegistered>
+    <DateUpdated>2023-12-04T12:06:24.3671662Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>569</COMPE>
     <ISPB>12473687</ISPB>
     <Document>12.473.687/0001-61</Document>
