@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-12-08 - [@BrunoM90](https://github.com/BrunoM90)
+
+- Updated 28 banks
+  - Refer to [#342](https://github.com/guibranco/BancosBrasileiros/issues/342) issue for more details.
+
 ### 2023-12-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
