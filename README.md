@@ -322,17 +322,17 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/codefactor-io[bot]">
-            <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
-            <br />
-            <sub><b>codefactor-io[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/stack-file[bot]">
             <img src="https://avatars.githubusercontent.com/in/408123?v=4" width="100;" alt="stack-file[bot]"/>
             <br />
             <sub><b>stack-file[bot]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/codefactor-io[bot]">
+            <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
+            <br />
+            <sub><b>codefactor-io[bot]</b></sub>
         </a>
     </td></tr>
 </table>
