@@ -92,7 +92,7 @@ jobs:
           name: bankFiles
 
       - name: Download banks files
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         if: steps.checkbanksfiles.outputs.exists == 'true'
         with:
           name: bankFiles
@@ -105,7 +105,7 @@ jobs:
           name: changeLogFile
 
       - name: Download change log file
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
         if: steps.checkchangelogfile.outputs.exists == 'true'
         with:
           name: changeLogFile
