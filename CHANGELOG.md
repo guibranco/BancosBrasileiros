@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2023-12-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 572 - ALL IN CRED SCD S.A. - 51.414.521/0001-26
+
 ### 2023-12-08 - [@BrunoM90](https://github.com/BrunoM90)
 
 - Updated 28 banks

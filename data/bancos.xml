@@ -94,6 +94,7 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.bndes.gov.br/wps/portal/site/home</Url>
     <DateOperationStarted>2014-06-30</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115088-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3507277Z</DateUpdated>
@@ -111,6 +112,7 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url>https://www.credicoamo.com.br/</Url>
     <DateOperationStarted>2012-12-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115464-03:00</DateRegistered>
@@ -127,6 +129,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.credit-suisse.com/br/pt.html</Url>
     <DateOperationStarted>2011-06-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115317-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115319-03:00</DateUpdated>
@@ -168,6 +171,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.statestreet.com/br/en/individual#</Url>
     <DateOperationStarted>2008-08-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114679-03:00</DateRegistered>
     <DateUpdated>2021-10-23T20:54:59.5224714-03:00</DateUpdated>
@@ -183,6 +187,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.ubs.com/br/pt.html</Url>
     <DateOperationStarted>2011-03-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114483-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114485-03:00</DateUpdated>
@@ -210,6 +215,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url>https://www.sicoob.com.br/web/sicoobcreditran/sicoob-creditran</Url>
     <DateOperationStarted>2012-05-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114553-03:00</DateRegistered>
@@ -506,6 +512,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.confidencecambio.com.br/</Url>
     <DateOperationStarted>2010-09-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114567-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114569-03:00</DateUpdated>
@@ -741,6 +748,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.haitongib.com.br/</Url>
     <DateOperationStarted>2008-07-31</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711511-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115112-03:00</DateUpdated>
@@ -775,6 +783,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://btcambio.com.br/</Url>
     <DateOperationStarted>2010-11-18</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115427-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115429-03:00</DateUpdated>
@@ -865,6 +874,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url>https://www.sisprimedobrasil.com.br/</Url>
     <DateOperationStarted>2009-11-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114472-03:00</DateRegistered>
@@ -893,6 +903,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url>https://www.ailos.coop.br/</Url>
     <DateOperationStarted>2010-05-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114586-03:00</DateRegistered>
@@ -937,6 +948,7 @@
       <Product>outros</Product>
       <Product>troca de modalidade</Product>
     </Products>
+    <Url>https://portal.credisan.com.br/</Url>
     <DateOperationStarted>2010-08-30</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115328-03:00</DateRegistered>
@@ -953,6 +965,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.unicred.com.br/home</Url>
     <DateOperationStarted>2010-11-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114439-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114441-03:00</DateUpdated>
@@ -968,6 +981,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://brk.com.br/</Url>
     <DateOperationStarted>2010-07-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114795-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114797-03:00</DateUpdated>
@@ -984,6 +998,7 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.polocred.com.br/</Url>
     <DateOperationStarted>2010-11-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114642-03:00</DateRegistered>
@@ -1057,6 +1072,7 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url>https://credisis.com.br/</Url>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114549-03:00</DateRegistered>
@@ -1074,6 +1090,7 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://site.credialianca.com.br/</Url>
     <DateOperationStarted>2011-01-18</DateOperationStarted>
     <DatePixStarted>2021-07-12 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115449-03:00</DateRegistered>
@@ -1102,6 +1119,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url>https://www.uniprime.com.br/singular/central</Url>
     <DateOperationStarted>2011-01-11</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114498-03:00</DateRegistered>
@@ -1118,6 +1136,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.planner.com.br/</Url>
     <DateOperationStarted>2011-04-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7113602-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7113681-03:00</DateUpdated>
@@ -1133,6 +1152,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.dtvm.com.br/</Url>
     <DateOperationStarted>2010-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711535-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115352-03:00</DateUpdated>
@@ -1148,6 +1168,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.xpi.com.br/</Url>
     <DateOperationStarted>2011-11-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114468-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711447-03:00</DateUpdated>
@@ -1197,6 +1218,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url>https://www.lecca.com.br/</Url>
     <DateOperationStarted>2011-12-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114624-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.9554179Z</DateUpdated>
@@ -1233,6 +1255,7 @@
       <Product>Consignado</Product>
       <Product>Pessoal e Veículos</Product>
     </Products>
+    <Url>https://www.portocred.com.br/</Url>
     <DateOperationStarted>2011-11-03</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711445-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:51:35.2273369Z</DateUpdated>
@@ -1248,6 +1271,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://www.oliveiratrust.com.br/</Url>
     <DateOperationStarted>2011-03-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115125-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115126-03:00</DateUpdated>
@@ -1263,6 +1287,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://neon.com.br/</Url>
     <DateOperationStarted>2011-11-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711531-03:00</DateRegistered>
     <DateUpdated>2022-03-16T07:58:39.2787909Z</DateUpdated>
@@ -1286,6 +1311,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url>https://cecoop.com.br/central/</Url>
     <DateOperationStarted>2011-10-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114598-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.192614Z</DateUpdated>
@@ -1301,6 +1327,7 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Url>https://advancedcorretora.com.br/</Url>
     <DateOperationStarted>2011-10-03</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115481-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115483-03:00</DateUpdated>
@@ -6305,6 +6332,21 @@
     <DateUpdated>2023-10-25T12:06:22.8368905Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>572</COMPE>
+    <ISPB>51414521</ISPB>
+    <Document>51.414.521/0001-26</Document>
+    <LongName>ALL IN CRED SOCIEDADE DE CREDITO DIRETO S.A.</LongName>
+    <ShortName>ALL IN CRED SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2023-12-22</DateOperationStarted>
+    <DateRegistered>2023-12-18T12:06:50.1170089Z</DateRegistered>
+    <DateUpdated>2023-12-18T12:06:50.1170312Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>579</COMPE>
     <ISPB>49555647</ISPB>
     <Document>49.555.647/0001-79</Document>
@@ -6770,6 +6812,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url>https://www.bancornx.com.br/</Url>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711546-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.1858515Z</DateUpdated>
