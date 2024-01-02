@@ -89,7 +89,7 @@ jobs:
         uses: xSAVIKx/artifact-exists-action@v0
         id: checkbanksfiles
         with:
-          name: bankFiles
+          name: 'bankFiles'
 
       - name: Download banks files
         uses: actions/download-artifact@v4
@@ -102,7 +102,7 @@ jobs:
         uses: xSAVIKx/artifact-exists-action@v0
         id: checkchangelogfile
         with:
-          name: changeLogFile
+          name: 'changeLogFile'
 
       - name: Download change log file
         uses: actions/download-artifact@v4
