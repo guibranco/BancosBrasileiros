@@ -4409,7 +4409,7 @@
     "ShortName": "SIMPAUL",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -4418,9 +4418,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-03-17",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-01-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115408-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.711541-03:00"
+    "DateUpdated": "2024-01-09T12:06:14.4953628+00:00"
   },
   {
     "COMPE": "366",
@@ -4612,7 +4612,7 @@
     "ShortName": "BMS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -4621,9 +4621,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-10-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-01-11 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114904-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114906-03:00"
+    "DateUpdated": "2024-01-09T12:06:14.2973546+00:00"
   },
   {
     "COMPE": "378",
@@ -5257,7 +5257,7 @@
     "ShortName": "PLANNER SOCIEDADE DE CRÉDITO DIRETO",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5266,9 +5266,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-17",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-01-10 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114594-03:00",
-    "DateUpdated": "2022-09-27T12:08:38.4172421+00:00"
+    "DateUpdated": "2024-01-09T12:06:14.1626613+00:00"
   },
   {
     "COMPE": "411",
@@ -6281,7 +6281,7 @@
     "ShortName": "CDC SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6290,9 +6290,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-03-15",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-01-08 08:00:00",
     "DateRegistered": "2022-03-16T07:58:41.1136636+00:00",
-    "DateUpdated": "2023-03-03T14:56:53.4974414+00:00"
+    "DateUpdated": "2024-01-09T12:06:14.2998511+00:00"
   },
   {
     "COMPE": "471",
@@ -6987,7 +6987,7 @@
     "ShortName": "MONETARIE SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6996,9 +6996,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-01-20",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-01-10 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112616+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112616+00:00"
+    "DateUpdated": "2024-01-09T12:06:14.4595303+00:00"
   },
   {
     "COMPE": "527",
@@ -7280,6 +7280,27 @@
     "DatePixStarted": null,
     "DateRegistered": "2023-04-14T12:06:49.3169426+00:00",
     "DateUpdated": "2023-04-14T12:06:49.2612228+00:00"
+  },
+  {
+    "COMPE": "540",
+    "ISPB": "04849745",
+    "Document": "04.849.745/0001-80",
+    "LongName": "FACILICRED SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR LTDA",
+    "ShortName": "FACILICRED SCM LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-01-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
+    "DateUpdated": "2024-01-09T12:06:15.1387171+00:00"
   },
   {
     "COMPE": "541",
@@ -7679,6 +7700,27 @@
     "DatePixStarted": null,
     "DateRegistered": "2023-10-11T12:06:36.1964889+00:00",
     "DateUpdated": "2023-10-11T12:06:36.1965145+00:00"
+  },
+  {
+    "COMPE": "562",
+    "ISPB": "18684408",
+    "Document": "18.684.408/0001-95",
+    "LongName": "AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-01-08",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-01-09T12:06:15.1387174+00:00",
+    "DateUpdated": "2024-01-09T12:06:15.1387175+00:00"
   },
   {
     "COMPE": "563",

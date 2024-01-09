@@ -3689,13 +3689,15 @@
     <LongName>SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A.</LongName>
     <ShortName>SIMPAUL</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2020-03-17</DateOperationStarted>
+    <DatePixStarted>2024-01-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115408-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.711541-03:00</DateUpdated>
+    <DateUpdated>2024-01-09T12:06:14.4953628Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>366</COMPE>
@@ -3857,13 +3859,15 @@
     <LongName>BMS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>BMS SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2020-10-01</DateOperationStarted>
+    <DatePixStarted>2024-01-11 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114904-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114906-03:00</DateUpdated>
+    <DateUpdated>2024-01-09T12:06:14.2973546Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>378</COMPE>
@@ -4381,13 +4385,15 @@
     <LongName>PLANNER SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>PLANNER SOCIEDADE DE CRÉDITO DIRETO</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2021-02-17</DateOperationStarted>
+    <DatePixStarted>2024-01-10 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2022-09-27T12:08:38.4172421Z</DateUpdated>
+    <DateUpdated>2024-01-09T12:06:14.1626613Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
@@ -5185,13 +5191,15 @@
     <LongName>CDC SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CDC SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2022-03-15</DateOperationStarted>
+    <DatePixStarted>2024-01-08 08:00:00</DatePixStarted>
     <DateRegistered>2022-03-16T07:58:41.1136636Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:53.4974414Z</DateUpdated>
+    <DateUpdated>2024-01-09T12:06:14.2998511Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>471</COMPE>
@@ -5719,13 +5727,15 @@
     <LongName>MONETARIE SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>MONETARIE SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-01-20</DateOperationStarted>
+    <DatePixStarted>2024-01-10 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112616Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3112616Z</DateUpdated>
+    <DateUpdated>2024-01-09T12:06:14.4595303Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>527</COMPE>
@@ -5940,6 +5950,21 @@
     <DateOperationStarted>2023-04-17</DateOperationStarted>
     <DateRegistered>2023-04-14T12:06:49.3169426Z</DateRegistered>
     <DateUpdated>2023-04-14T12:06:49.2612228Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>540</COMPE>
+    <ISPB>04849745</ISPB>
+    <Document>04.849.745/0001-80</Document>
+    <LongName>FACILICRED SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR LTDA</LongName>
+    <ShortName>FACILICRED SCM LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-01-08</DateOperationStarted>
+    <DateRegistered>2024-01-09T12:06:15.138698Z</DateRegistered>
+    <DateUpdated>2024-01-09T12:06:15.1387171Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>541</COMPE>
@@ -6233,6 +6258,21 @@
     <DateOperationStarted>2023-10-18</DateOperationStarted>
     <DateRegistered>2023-10-11T12:06:36.1964889Z</DateRegistered>
     <DateUpdated>2023-10-11T12:06:36.1965145Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>562</COMPE>
+    <ISPB>18684408</ISPB>
+    <Document>18.684.408/0001-95</Document>
+    <LongName>AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-01-08</DateOperationStarted>
+    <DateRegistered>2024-01-09T12:06:15.1387174Z</DateRegistered>
+    <DateUpdated>2024-01-09T12:06:15.1387175Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>563</COMPE>

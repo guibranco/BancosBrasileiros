@@ -4,6 +4,28 @@
 
 ## Changelog
 
+### 2024-01-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 540 - FACILICRED SCM LTDA - 04.849.745/0001-80
+  - 562 - AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS - 18.684.408/0001-95
+- Updated 5 banks
+  - 365 - SIMPAUL - 68.757.681/0001-70
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-01-15 10:00:00
+  - 377 - BMS SCD S.A. - 17.826.860/0001-81
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-01-11 11:00:00
+  - 410 - PLANNER SOCIEDADE DE CRÉDITO DIRETO - 05.684.234/0001-19
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-01-10 11:00:00
+  - 470 - CDC SCD S.A. - 18.394.228/0001-79
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-01-08 08:00:00
+  - 526 - MONETARIE SCD - 46.026.562/0001-05
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-01-10 10:00:00
+
 ### 2023-12-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
