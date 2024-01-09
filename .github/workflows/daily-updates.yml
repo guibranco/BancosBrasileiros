@@ -85,39 +85,23 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Check artifact banks files
-        uses: xSAVIKx/artifact-exists-action@v0
-        id: checkbanksfiles
-        with:
-          name: 'bankFiles'
-
       - name: Download banks files
         uses: actions/download-artifact@v4
-        if: steps.checkbanksfiles.outputs.exists == 'true'
         with:
           name: bankFiles
           path: data/
 
-      - name: Check artifact change log file
-        uses: xSAVIKx/artifact-exists-action@v0
-        id: checkchangelogfile
-        with:
-          name: 'changeLogFile'
-
       - name: Download change log file
         uses: actions/download-artifact@v4
-        if: steps.checkchangelogfile.outputs.exists == 'true'
         with:
           name: changeLogFile
 
       - name: Setup GIT config
-        if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
 
       - name: Commit and Push
-        if: steps.checkbanksfiles.outputs.exists == 'true' && steps.checkchangelogfile.outputs.exists == 'true'
         run: |
           git add .
           git commit -m "Daily updates (bot)"
