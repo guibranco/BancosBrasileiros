@@ -1,11 +1,12 @@
 repo_name: guibranco/BancosBrasileiros
-report_id: a1d63051770fe1f36ba9262d3a5ebe1e
+report_id: 208cbd45a27f026170503583b82f0cab
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T09:38:28+00:00'
-requested_by: dependabot[bot]
+timestamp: '2024-01-11T12:24:00+00:00'
+requested_by: 
 provider: github
 branch: main
-detected_tools_count: 52
+detected_tools_count: 49
 tools:
 - name: C#
   description: Simple, general-purpose, object-oriented programming language for the
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -37,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -47,6 +51,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -57,6 +62,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -66,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -76,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -86,6 +94,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: Rust
   description: A safe, concurrent, practical language
@@ -95,6 +104,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -104,6 +114,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/data/bancos.sql
   detection_source: data/bancos.sql
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2023-09-25 12:26:36.000000000 Z
@@ -116,6 +127,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -127,6 +139,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/BancosBrasileiros.nuspec
   detection_source: BancosBrasileiros.nuspec
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2022-03-31 12:31:21.000000000 Z
@@ -168,6 +181,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/1801/ember-cli.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/examples/emberjs/package.json
   detection_source: examples/emberjs/package.json
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2022-09-27 14:18:29.000000000 Z
@@ -184,17 +198,6 @@ tools:
   detection_source: examples/emberjs/package.json
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2022-09-27 14:18:29.000000000 Z
-- name: pgvector
-  description: Open-source vector similarity search for Postgres
-  website_url: https://github.com/pgvector/pgvector/
-  open_source: false
-  hosted_saas: false
-  category: Data Stores
-  sub_category: Database Tools
-  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
-  detection_source: examples/emberjs/public/robots.txt
-  last_updated_by: Guilherme Branco Stracini
-  last_updated_on: 2021-04-27 18:21:02.000000000 Z
 - name: Babel
   description: Use next generation JavaScript, today.
   website_url: http://babeljs.io/
@@ -218,6 +221,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/examples/emberjs/package.json
   detection_source: examples/emberjs/package.json
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2021-04-27 18:01:47.000000000 Z
@@ -229,6 +233,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -238,9 +243,10 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/.github/workflows/codacy-security-scan.yml
   detection_source: ".github/workflows/codacy-security-scan.yml"
   last_updated_by: dependabot[bot]
-  last_updated_on: 2023-09-05 08:21:06.000000000 Z
+  last_updated_on: 2023-12-19 00:01:47.000000000 Z
 - name: NuGet
   description: The package manager for .NET
   website_url: https://www.nuget.org/
@@ -249,6 +255,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/BancosBrasileiros.nuspec
   detection_source: BancosBrasileiros.nuspec
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2022-03-31 12:31:21.000000000 Z
@@ -289,6 +296,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/examples/dotnet/ConsoleApp.sln
   detection_source: examples/dotnet/ConsoleApp.sln
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2022-03-31 12:55:22.000000000 Z
@@ -314,29 +322,10 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/guibranco/BancosBrasileiros/blob/main/examples/emberjs/package.json
   detection_source: examples/emberjs/package.json
   last_updated_by: Guilherme Branco Stracini
   last_updated_on: 2021-04-27 18:01:47.000000000 Z
-- name: HTML
-  description: Hypertext Markup Language for creating web pages.
-  website_url: http://
-  open_source: false
-  hosted_saas: false
-  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
-  detection_source: examples/emberjs/app/index.html
-  last_updated_by: Guilherme Branco Stracini
-  last_updated_on: 2021-04-27 18:21:02.000000000 Z
-- name: LangChain
-  description: Build AI apps with LLMs through composability
-  website_url: https://github.com/hwchase17/langchain
-  open_source: true
-  hosted_saas: false
-  category: Communications
-  sub_category: Large Language Model Tools
-  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
-  detection_source: examples/emberjs/public/robots.txt
-  last_updated_by: Guilherme Branco Stracini
-  last_updated_on: 2021-04-27 18:21:02.000000000 Z
 - name: "@ember/optional-features"
   description: The default blueprint for ember-cli addons
   package_url: https://www.npmjs.com/@ember/optional-features
