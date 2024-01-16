@@ -3876,13 +3876,15 @@
     <LongName>BANCO BRASILEIRO DE CRÉDITO SOCIEDADE ANÔNIMA</LongName>
     <ShortName>BCO BRASILEIRO DE CRÉDITO S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2020-09-11</DateOperationStarted>
+    <DatePixStarted>2024-03-18 06:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114454-03:00</DateRegistered>
-    <DateUpdated>2022-01-05T11:00:32.0511464Z</DateUpdated>
+    <DateUpdated>2024-01-16T12:08:16.8770942Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>379</COMPE>
@@ -5510,13 +5512,15 @@
     <LongName>FFCRED SOCIEDADE DE CRÉDITO DIRETO S.A..</LongName>
     <ShortName>FFCRED SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2022-11-18</DateOperationStarted>
+    <DatePixStarted>2024-01-15 09:40:38</DatePixStarted>
     <DateRegistered>2022-11-15T12:07:18.5294791Z</DateRegistered>
-    <DateUpdated>2022-11-15T12:07:18.5294792Z</DateUpdated>
+    <DateUpdated>2024-01-16T12:08:17.4096514Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>511</COMPE>

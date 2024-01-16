@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2024-01-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 378 - BCO BRASILEIRO DE CRÉDITO S.A. - 01.852.137/0001-37
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-03-18 06:00:00
+  - 510 - FFCRED SCD S.A. - 39.738.065/0001-74
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-01-15 09:40:38
+
 ### 2024-01-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks

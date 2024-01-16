@@ -4633,7 +4633,7 @@
     "ShortName": "BCO BRASILEIRO DE CRÉDITO S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -4642,9 +4642,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-09-11",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-03-18 06:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114454-03:00",
-    "DateUpdated": "2022-01-05T11:00:32.0511464+00:00"
+    "DateUpdated": "2024-01-16T12:08:16.8770942+00:00"
   },
   {
     "COMPE": "379",
@@ -6689,7 +6689,7 @@
     "ShortName": "FFCRED SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6698,9 +6698,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-11-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-01-15 09:40:38",
     "DateRegistered": "2022-11-15T12:07:18.5294791+00:00",
-    "DateUpdated": "2022-11-15T12:07:18.5294792+00:00"
+    "DateUpdated": "2024-01-16T12:08:17.4096514+00:00"
   },
   {
     "COMPE": "511",
