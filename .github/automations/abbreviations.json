@@ -25,6 +25,11 @@
         "en_US": "Check and Other Papers Compensation System"
     },
     {
+        "acronym": "CTC",
+        "pt_BR": "Central de Transferência de Crédito",
+        "en_US": "Credit Transfer Center"
+    },
+    {
         "acronym": "CPF",
         "pt_BR": "Cadastro de Pessoa Física - RFB",
         "en_US": "Individual Taxpayer Registry - RFB"
@@ -45,6 +50,11 @@
         "en_US": "SPB identification"
     },
     {
+        "acronym": "PCPS",
+        "pt_BR": "Plataforma Centralizada de Portabilidade de Salário",
+        "en_US": "Centralized Salary Portability Platform"
+    },
+    {
         "acronym": "PIX",
         "pt_BR": "Pagamentos Instantâneos Brasileiro",
         "en_US": "Brazilian Instant Payments"
@@ -63,6 +73,11 @@
         "acronym": "SFN",
         "pt_BR": "Sistema Financeiro Nacional",
         "en_US": "National Financial System"
+    },
+    {
+        "acronym": "SLC",
+        "pt_BR": "Serviço de Liquidação Cartões",
+        "en_US": "Card Settlement Service"
     },
     {
         "acronym": "SILOC",
