@@ -5089,7 +5089,7 @@
     "ShortName": "COOP CREDITAG",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5098,9 +5098,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-24",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-01-23 11:13:19",
     "DateRegistered": "2021-05-05T09:11:12.711459-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0773881+00:00"
+    "DateUpdated": "2024-01-24T12:06:57.3329199+00:00"
   },
   {
     "COMPE": "401",

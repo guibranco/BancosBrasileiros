@@ -4253,13 +4253,15 @@
     <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS</LongName>
     <ShortName>COOP CREDITAG</ShortName>
     <Network>Internet</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
+    <DatePixStarted>2024-01-23 11:13:19</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711459-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0773881Z</DateUpdated>
+    <DateUpdated>2024-01-24T12:06:57.3329199Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>401</COMPE>
