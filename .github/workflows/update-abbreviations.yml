@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: "Read/Write abbreviations in en_US"
-        uses: EddieHubCommunity/gh-actions-html-table-generator@main
+        uses: guibranco/gh-actions-html-table-generator-fork@cb1d07f30349b7d0fdf8610988f591c3bc9a9364
         with:
           json-file-path: ".github/automations/abbreviations.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -29,7 +29,7 @@ jobs:
           html-cell: '<th>{{ acronym }}</th><td> {{ en_US }}</td>'
 
       - name: "Read/Write abbreviations in pt_BR"
-        uses: EddieHubCommunity/gh-actions-html-table-generator@main
+        uses: guibranco/gh-actions-html-table-generator-fork@cb1d07f30349b7d0fdf8610988f591c3bc9a9364
         with:
           json-file-path: ".github/automations/abbreviations.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
