@@ -2922,6 +2922,21 @@
     <DateUpdated>2022-09-29T12:08:26.1905846Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>305</COMPE>
+    <ISPB>40353377</ISPB>
+    <Document>40.353.377/0001-49</Document>
+    <LongName>FOURTRADE CORRETORA DE CÂMBIO LTDA.</LongName>
+    <ShortName>FOURTRADE COR. DE CAMBIO LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-02-19</DateOperationStarted>
+    <DateRegistered>2024-02-09T12:06:01.2609905Z</DateRegistered>
+    <DateUpdated>2024-02-09T12:06:01.2610091Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>306</COMPE>
     <ISPB>40303299</ISPB>
     <Document>40.303.299/0001-78</Document>

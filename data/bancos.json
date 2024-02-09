@@ -3474,6 +3474,27 @@
     "DateUpdated": "2022-09-29T12:08:26.1905846+00:00"
   },
   {
+    "COMPE": "305",
+    "ISPB": "40353377",
+    "Document": "40.353.377/0001-49",
+    "LongName": "FOURTRADE CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "FOURTRADE COR. DE CAMBIO LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-02-19",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-02-09T12:06:01.2609905+00:00",
+    "DateUpdated": "2024-02-09T12:06:01.2610091+00:00"
+  },
+  {
     "COMPE": "306",
     "ISPB": "40303299",
     "Document": "40.303.299/0001-78",

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-02-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 305 - FOURTRADE COR. DE CAMBIO LTDA - 40.353.377/0001-49
+
 ### 2024-01-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
