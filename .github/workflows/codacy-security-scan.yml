@@ -2,6 +2,8 @@ name: Codacy Security Scan
 
 on:
   push:
+    branches:
+      - '!dependabot/**'
   pull_request:
   schedule:
     - cron: '30 18 * * 2'
