@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-02-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 586 - Z1 IP LTDA. - 35.810.871/0001-55
+  - 580 - CCCPOUPINV SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE - 87.437.687/0001-05
+
 ### 2024-02-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

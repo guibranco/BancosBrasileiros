@@ -6423,6 +6423,38 @@
     <DateUpdated>2023-10-31T12:06:23.9585542Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>580</COMPE>
+    <ISPB>87437687</ISPB>
+    <Document>87.437.687/0001-05</Document>
+    <LongName>COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE</LongName>
+    <ShortName>CCCPOUPINV SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-02-21</DateOperationStarted>
+    <DateRegistered>2024-02-15T12:06:06.9727601Z</DateRegistered>
+    <DateUpdated>2024-02-15T12:06:06.9727602Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>586</COMPE>
+    <ISPB>35810871</ISPB>
+    <Document>35.810.871/0001-55</Document>
+    <LongName>Z1 INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>Z1 IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-02-21</DateOperationStarted>
+    <DatePixStarted>2022-08-08 10:27:04</DatePixStarted>
+    <DateRegistered>2024-02-15T12:06:06.972741Z</DateRegistered>
+    <DateUpdated>2024-02-15T12:06:06.2132935Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>600</COMPE>
     <ISPB>59118133</ISPB>
     <Document>59.118.133/0001-00</Document>
