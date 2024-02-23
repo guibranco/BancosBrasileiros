@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-02-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 279 - COOP DE PRIMAVERA DO LESTE - 26.563.270/0001-02
+    - **LongName** (STR): PRIMACREDI COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE **->** PRIMACREDI CREDISIS - COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE
+
 ### 2024-02-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks

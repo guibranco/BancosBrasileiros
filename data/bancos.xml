@@ -2661,7 +2661,7 @@
     <COMPE>279</COMPE>
     <ISPB>26563270</ISPB>
     <Document>26.563.270/0001-02</Document>
-    <LongName>PRIMACREDI COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE</LongName>
+    <LongName>PRIMACREDI CREDISIS - COOPERATIVA DE CRÉDITO DE PRIMAVERA DO LESTE</LongName>
     <ShortName>COOP DE PRIMAVERA DO LESTE</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
@@ -2673,7 +2673,7 @@
     <DateOperationStarted>2018-06-05</DateOperationStarted>
     <DatePixStarted>2022-04-04 14:48:55</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711496-03:00</DateRegistered>
-    <DateUpdated>2022-09-06T12:06:45.251499Z</DateUpdated>
+    <DateUpdated>2024-02-23T12:06:50.994238Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>280</COMPE>
