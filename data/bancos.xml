@@ -6438,6 +6438,21 @@
     <DateUpdated>2024-02-15T12:06:06.9727602Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>584</COMPE>
+    <ISPB>80230774</ISPB>
+    <Document>80.230.774/0001-48</Document>
+    <LongName>COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DOS ESTADOS DO PARANÁ, SÃO PAULO E RIO DE JANEIRO - CENTRAL SICREDI PR/SP/RJ</LongName>
+    <ShortName>"CCC POUP E INV DOS ESTADOS DO PR, SP E RJ"</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-02-28</DateOperationStarted>
+    <DateRegistered>2024-02-26T12:06:17.8233066Z</DateRegistered>
+    <DateUpdated>2024-02-26T12:06:17.8233338Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>586</COMPE>
     <ISPB>35810871</ISPB>
     <Document>35.810.871/0001-55</Document>

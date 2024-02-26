@@ -7937,6 +7937,27 @@
     "DateUpdated": "2024-02-15T12:06:06.9727602+00:00"
   },
   {
+    "COMPE": "584",
+    "ISPB": "80230774",
+    "Document": "80.230.774/0001-48",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DOS ESTADOS DO PARANÁ, SÃO PAULO E RIO DE JANEIRO - CENTRAL SICREDI PR/SP/RJ",
+    "ShortName": "\"CCC POUP E INV DOS ESTADOS DO PR, SP E RJ\"",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-02-28",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-02-26T12:06:17.8233066+00:00",
+    "DateUpdated": "2024-02-26T12:06:17.8233338+00:00"
+  },
+  {
     "COMPE": "586",
     "ISPB": "35810871",
     "Document": "35.810.871/0001-55",

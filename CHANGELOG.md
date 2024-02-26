@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-02-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 584 - "CCC POUP E INV DOS ESTADOS DO PR, SP E RJ" - 80.230.774/0001-48
+
 ### 2024-02-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
