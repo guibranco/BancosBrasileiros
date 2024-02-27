@@ -6470,6 +6470,21 @@
     <DateUpdated>2024-02-15T12:06:06.2132935Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>588</COMPE>
+    <ISPB>20308187</ISPB>
+    <Document>20.308.187/0001-00</Document>
+    <LongName>PROVER PROMOCAO DE VENDAS INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>PROVER PROMOCAO DE VENDAS IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-03-04</DateOperationStarted>
+    <DateRegistered>2024-02-27T12:05:53.2736229Z</DateRegistered>
+    <DateUpdated>2024-02-27T12:05:53.2736418Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>600</COMPE>
     <ISPB>59118133</ISPB>
     <Document>59.118.133/0001-00</Document>

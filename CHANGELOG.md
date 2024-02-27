@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-02-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 588 - PROVER PROMOCAO DE VENDAS IP LTDA. - 20.308.187/0001-00
+
 ### 2024-02-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

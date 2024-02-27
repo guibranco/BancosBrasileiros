@@ -7979,6 +7979,27 @@
     "DateUpdated": "2024-02-15T12:06:06.2132935+00:00"
   },
   {
+    "COMPE": "588",
+    "ISPB": "20308187",
+    "Document": "20.308.187/0001-00",
+    "LongName": "PROVER PROMOCAO DE VENDAS INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "PROVER PROMOCAO DE VENDAS IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-03-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-02-27T12:05:53.2736229+00:00",
+    "DateUpdated": "2024-02-27T12:05:53.2736418+00:00"
+  },
+  {
     "COMPE": "600",
     "ISPB": "59118133",
     "Document": "59.118.133/0001-00",
