@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-02-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 590 - REPASSES FINANCEIROS E SOLUCOES TECNOLOGICAS IP S.A. - 40.473.435/0001-78
+  - 558 - QI DTVM LTDA. - 46.955.383/0001-52
+
 ### 2024-02-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
