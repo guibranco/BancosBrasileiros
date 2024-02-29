@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-02-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 460 - UNAVANTI SCD S/A - 42.047.025/0001-90
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-03-05 08:30:00
+
 ### 2024-02-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks

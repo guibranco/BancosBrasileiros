@@ -5059,13 +5059,15 @@
     <LongName>UNAVANTI SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>UNAVANTI SCD S/A</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
+    <DatePixStarted>2024-03-05 08:30:00</DatePixStarted>
     <DateRegistered>2022-02-01T08:17:39.0832328Z</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3661816Z</DateUpdated>
+    <DateUpdated>2024-02-29T12:07:00.5168917Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>461</COMPE>
