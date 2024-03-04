@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-03-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 582 - "CCC POUP INV DE MS, GO, DF E TO" - 33.737.818/0001-40
+  - 597 - ISSUER IP LTDA. - 34.747.388/0001-00
+
 ### 2024-02-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

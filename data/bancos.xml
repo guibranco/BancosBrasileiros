@@ -6455,6 +6455,21 @@
     <DateUpdated>2024-02-15T12:06:06.9727602Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>582</COMPE>
+    <ISPB>33737818</ISPB>
+    <Document>33.737.818/0001-40</Document>
+    <LongName>COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DE MATO GROSSO DO SUL, GOIÁS, DISTRITO FEDERAL E TOCANTINS - CENTRAL SICREDI BRASIL CENTRAL</LongName>
+    <ShortName>"CCC POUP INV DE MS, GO, DF E TO"</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-03-08</DateOperationStarted>
+    <DateRegistered>2024-03-04T12:10:35.000384Z</DateRegistered>
+    <DateUpdated>2024-03-04T12:10:35.000413Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>584</COMPE>
     <ISPB>80230774</ISPB>
     <Document>80.230.774/0001-48</Document>
@@ -6517,6 +6532,23 @@
     <DatePixStarted>2022-12-13 09:09:43</DatePixStarted>
     <DateRegistered>2024-02-28T12:06:05.3104086Z</DateRegistered>
     <DateUpdated>2024-02-28T12:06:04.5801118Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>597</COMPE>
+    <ISPB>34747388</ISPB>
+    <Document>34.747.388/0001-00</Document>
+    <LongName>ISSUER INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>ISSUER IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-03-08</DateOperationStarted>
+    <DatePixStarted>2022-08-29 18:14:55</DatePixStarted>
+    <DateRegistered>2024-03-04T12:10:35.0004133Z</DateRegistered>
+    <DateUpdated>2024-03-04T12:10:34.2132513Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>600</COMPE>
