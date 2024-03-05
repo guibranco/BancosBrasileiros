@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2024-03-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 594 - EMBRACRED S/A SCD - 48.703.388/0001-13
+- Updated 2 banks
+  - 391 - CCR DE IBIAM - 08.240.446/0001-03
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-03-07 10:00:00
+  - 530 - SER FINANCE SCD S.A. - 47.873.449/0001-28
+    - **Products** (CTC): Null **->** Capita de Giro PJ, Crédito Consignado, Crédito Pessoal, Troca de Modalidade
+
 ### 2024-03-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks

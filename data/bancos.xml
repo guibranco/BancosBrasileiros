@@ -4125,14 +4125,16 @@
     <LongName>COOPERATIVA DE CREDITO RURAL DE IBIAM - SULCREDI/IBIAM</LongName>
     <ShortName>CCR DE IBIAM</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2020-07-10</DateOperationStarted>
+    <DatePixStarted>2024-03-07 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114646-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3693661Z</DateUpdated>
+    <DateUpdated>2024-03-05T12:06:34.1101413Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>393</COMPE>
@@ -5818,9 +5820,15 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <Products>
+      <Product>Capita de Giro PJ</Product>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <DateOperationStarted>2023-03-14</DateOperationStarted>
     <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
-    <DateUpdated>2023-04-01T12:05:41.8693307Z</DateUpdated>
+    <DateUpdated>2024-03-05T12:06:35.0883774Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>531</COMPE>
@@ -6532,6 +6540,21 @@
     <DatePixStarted>2022-12-13 09:09:43</DatePixStarted>
     <DateRegistered>2024-02-28T12:06:05.3104086Z</DateRegistered>
     <DateUpdated>2024-02-28T12:06:04.5801118Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>594</COMPE>
+    <ISPB>48703388</ISPB>
+    <Document>48.703.388/0001-13</Document>
+    <LongName>EMBRACRED S/A SOCIEDADE DE CRÉDITO DIRETO</LongName>
+    <ShortName>EMBRACRED S/A SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-03-11</DateOperationStarted>
+    <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
+    <DateUpdated>2024-03-05T12:06:35.1241463Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>597</COMPE>

@@ -4932,7 +4932,7 @@
     "ShortName": "CCR DE IBIAM",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -4941,9 +4941,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-07-10",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-03-07 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114646-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3693661+00:00"
+    "DateUpdated": "2024-03-05T12:06:34.1101413+00:00"
   },
   {
     "COMPE": "393",
@@ -7098,12 +7098,17 @@
     "LegalCheque": false,
     "DetectaFlow": false,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Capita de Giro PJ",
+      "Crédito Consignado",
+      "Crédito Pessoal",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2023-03-14",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-09T12:07:29.7846292+00:00",
-    "DateUpdated": "2023-04-01T12:05:41.8693307+00:00"
+    "DateUpdated": "2024-03-05T12:06:35.0883774+00:00"
   },
   {
     "COMPE": "531",
@@ -8061,6 +8066,27 @@
     "DatePixStarted": "2022-12-13 09:09:43",
     "DateRegistered": "2024-02-28T12:06:05.3104086+00:00",
     "DateUpdated": "2024-02-28T12:06:04.5801118+00:00"
+  },
+  {
+    "COMPE": "594",
+    "ISPB": "48703388",
+    "Document": "48.703.388/0001-13",
+    "LongName": "EMBRACRED S/A SOCIEDADE DE CRÉDITO DIRETO",
+    "ShortName": "EMBRACRED S/A SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-03-11",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-03-05T12:06:35.1241273+00:00",
+    "DateUpdated": "2024-03-05T12:06:35.1241463+00:00"
   },
   {
     "COMPE": "597",
