@@ -6297,20 +6297,22 @@
     <LongName>PAY4FUN INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>PAY4FUN IP S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-10-18</DateOperationStarted>
+    <DatePixStarted>2024-05-13 10:00:00</DatePixStarted>
     <DateRegistered>2023-10-11T12:06:36.1964889Z</DateRegistered>
-    <DateUpdated>2023-10-11T12:06:36.1965145Z</DateUpdated>
+    <DateUpdated>2024-03-08T12:07:00.4999181Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>562</COMPE>
     <ISPB>18684408</ISPB>
     <Document>18.684.408/0001-95</Document>
     <LongName>AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS</ShortName>
+    <ShortName>AZIMUT BRASIL DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6318,7 +6320,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2024-01-08</DateOperationStarted>
     <DateRegistered>2024-01-09T12:06:15.1387174Z</DateRegistered>
-    <DateUpdated>2024-01-09T12:06:15.1387175Z</DateUpdated>
+    <DateUpdated>2024-03-08T12:06:59.688307Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>563</COMPE>

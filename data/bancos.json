@@ -7735,7 +7735,7 @@
     "ShortName": "PAY4FUN IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7744,16 +7744,16 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-10-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-05-13 10:00:00",
     "DateRegistered": "2023-10-11T12:06:36.1964889+00:00",
-    "DateUpdated": "2023-10-11T12:06:36.1965145+00:00"
+    "DateUpdated": "2024-03-08T12:07:00.4999181+00:00"
   },
   {
     "COMPE": "562",
     "ISPB": "18684408",
     "Document": "18.684.408/0001-95",
     "LongName": "AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "ShortName": "AZIMUT BRASIL DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7767,7 +7767,7 @@
     "DateOperationStarted": "2024-01-08",
     "DatePixStarted": null,
     "DateRegistered": "2024-01-09T12:06:15.1387174+00:00",
-    "DateUpdated": "2024-01-09T12:06:15.1387175+00:00"
+    "DateUpdated": "2024-03-08T12:06:59.688307+00:00"
   },
   {
     "COMPE": "563",

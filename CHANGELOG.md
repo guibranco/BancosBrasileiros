@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-03-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 561 - PAY4FUN IP S.A. - 20.757.199/0001-04
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-05-13 10:00:00
+  - 562 - AZIMUT BRASIL DTVM LTDA - 18.684.408/0001-95
+    - **ShortName** (STR): AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS **->** AZIMUT BRASIL DTVM LTDA
+
 ### 2024-03-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
