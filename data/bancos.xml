@@ -6435,6 +6435,21 @@
     <DateUpdated>2023-12-18T12:06:50.1170312Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>577</COMPE>
+    <ISPB>10663610</ISPB>
+    <Document>10.663.610/0001-29</Document>
+    <LongName>DESENVOLVE SP - AGÊNCIA DE FOMENTO DO ESTADO DE SÃO PAULO S.A.</LongName>
+    <ShortName>AF DESENVOLVE SP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-03-15</DateOperationStarted>
+    <DateRegistered>2024-03-11T12:06:18.8734039Z</DateRegistered>
+    <DateUpdated>2024-03-11T12:06:18.8734358Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>579</COMPE>
     <ISPB>49555647</ISPB>
     <Document>49.555.647/0001-79</Document>
@@ -6478,6 +6493,21 @@
     <DateOperationStarted>2024-03-08</DateOperationStarted>
     <DateRegistered>2024-03-04T12:10:35.000384Z</DateRegistered>
     <DateUpdated>2024-03-04T12:10:35.000413Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>583</COMPE>
+    <ISPB>33667205</ISPB>
+    <Document>33.667.205/0001-84</Document>
+    <LongName>COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO CENTRO NORTE DO BRASIL - CENTRAL SICREDI CENTRO NORTE</LongName>
+    <ShortName>CCC POUP INV DO CENTRO NORTE DO BRASIL</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-03-15</DateOperationStarted>
+    <DateRegistered>2024-03-11T12:06:18.8734584Z</DateRegistered>
+    <DateUpdated>2024-03-11T12:06:18.8734585Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>584</COMPE>

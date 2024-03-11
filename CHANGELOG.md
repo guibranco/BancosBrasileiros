@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-03-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 577 - AF DESENVOLVE SP S.A. - 10.663.610/0001-29
+  - 583 - CCC POUP INV DO CENTRO NORTE DO BRASIL - 33.667.205/0001-84
+
 ### 2024-03-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
