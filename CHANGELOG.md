@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-03-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 280 - WILL FINANCEIRA S.A.CFI - 23.862.762/0001-00
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-03-19 10:00:00
+
 ### 2024-03-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks

@@ -3160,7 +3160,7 @@
     "ShortName": "WILL FINANCEIRA S.A.CFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -3172,9 +3172,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2018-05-10",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-03-19 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114949-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9721845+00:00"
+    "DateUpdated": "2024-03-14T12:07:16.0911871+00:00"
   },
   {
     "COMPE": "281",

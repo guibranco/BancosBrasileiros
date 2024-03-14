@@ -2682,6 +2682,7 @@
     <LongName>WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>WILL FINANCEIRA S.A.CFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -2691,8 +2692,9 @@
       <Product>Troca de Modalidade</Product>
     </Products>
     <DateOperationStarted>2018-05-10</DateOperationStarted>
+    <DatePixStarted>2024-03-19 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9721845Z</DateUpdated>
+    <DateUpdated>2024-03-14T12:07:16.0911871Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>281</COMPE>
