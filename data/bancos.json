@@ -2008,8 +2008,8 @@
     "COMPE": "144",
     "ISPB": "13059145",
     "Document": "13.059.145/0001-00",
-    "LongName": "BEXS BANCO DE CÂMBIO S/A",
-    "ShortName": "BEXS BCO DE CAMBIO S.A.",
+    "LongName": "EBURY BANCO DE CÂMBIO S.A.",
+    "ShortName": "EBURY BCO DE CÂMBIO S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -2023,7 +2023,7 @@
     "DateOperationStarted": "2016-05-23",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114803-03:00",
-    "DateUpdated": "2021-05-21T23:01:28.1593486-03:00"
+    "DateUpdated": "2024-03-15T12:06:04.3468719+00:00"
   },
   {
     "COMPE": "145",
@@ -8129,6 +8129,27 @@
     "DatePixStarted": null,
     "DateRegistered": "2024-03-05T12:06:35.1241273+00:00",
     "DateUpdated": "2024-03-05T12:06:35.1241463+00:00"
+  },
+  {
+    "COMPE": "595",
+    "ISPB": "19468242",
+    "Document": "19.468.242/0001-32",
+    "LongName": "ZOOP TECNOLOGIA & INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "ZOOP MEIOS DE PAGAMENTO",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-03-21",
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2024-03-15T12:06:05.5274606+00:00",
+    "DateUpdated": "2024-03-15T12:06:05.1580392+00:00"
   },
   {
     "COMPE": "597",

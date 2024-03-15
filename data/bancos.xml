@@ -1736,8 +1736,8 @@
     <COMPE>144</COMPE>
     <ISPB>13059145</ISPB>
     <Document>13.059.145/0001-00</Document>
-    <LongName>BEXS BANCO DE CÂMBIO S/A</LongName>
-    <ShortName>BEXS BCO DE CAMBIO S.A.</ShortName>
+    <LongName>EBURY BANCO DE CÂMBIO S.A.</LongName>
+    <ShortName>EBURY BCO DE CÂMBIO S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1748,7 +1748,7 @@
     <DateOperationStarted>2016-05-23</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114803-03:00</DateRegistered>
-    <DateUpdated>2021-05-21T23:01:28.1593486-03:00</DateUpdated>
+    <DateUpdated>2024-03-15T12:06:04.3468719Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>145</COMPE>
@@ -6589,6 +6589,23 @@
     <DateOperationStarted>2024-03-11</DateOperationStarted>
     <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
     <DateUpdated>2024-03-05T12:06:35.1241463Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>595</COMPE>
+    <ISPB>19468242</ISPB>
+    <Document>19.468.242/0001-32</Document>
+    <LongName>ZOOP TECNOLOGIA &amp; INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>ZOOP MEIOS DE PAGAMENTO</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-03-21</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2024-03-15T12:06:05.5274606Z</DateRegistered>
+    <DateUpdated>2024-03-15T12:06:05.1580392Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>597</COMPE>

@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-03-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 595 - ZOOP MEIOS DE PAGAMENTO - 19.468.242/0001-32
+- Updated 1 bank
+  - 144 - EBURY BCO DE CÂMBIO S.A. - 13.059.145/0001-00
+    - **LongName** (STR): BEXS BANCO DE CÂMBIO S/A **->** EBURY BANCO DE CÂMBIO S.A.
+    - **ShortName** (STR): BEXS BCO DE CAMBIO S.A. **->** EBURY BCO DE CÂMBIO S.A.
+
 ### 2024-03-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
