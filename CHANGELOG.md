@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 581 - CENTRAL SICREDI NORDESTE - 70.119.680/0001-42
+- Updated 1 bank
+  - 533 - SRM BANK - 22.575.466/0001-58
+    - **LongName** (STR): M18 INSTITUIÇÃO DE PAGAMENTO S.A. **->** SRM BANK INSITITUIÇÃO DE PAGAMENTO S/A
+    - **ShortName** (STR): M18 IP S.A. **->** SRM BANK
+
 ### 2024-03-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

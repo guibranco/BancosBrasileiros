@@ -7162,8 +7162,8 @@
     "COMPE": "533",
     "ISPB": "22575466",
     "Document": "22.575.466/0001-58",
-    "LongName": "M18 INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "M18 IP S.A.",
+    "LongName": "SRM BANK INSITITUIÇÃO DE PAGAMENTO S/A",
+    "ShortName": "SRM BANK",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7177,7 +7177,7 @@
     "DateOperationStarted": "2023-07-17",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347537+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347538+00:00"
+    "DateUpdated": "2024-03-18T12:06:25.9978372+00:00"
   },
   {
     "COMPE": "534",
@@ -7982,6 +7982,27 @@
     "DatePixStarted": null,
     "DateRegistered": "2024-02-15T12:06:06.9727601+00:00",
     "DateUpdated": "2024-02-15T12:06:06.9727602+00:00"
+  },
+  {
+    "COMPE": "581",
+    "ISPB": "70119680",
+    "Document": "70.119.680/0001-42",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO NORDESTE - CENTRAL SICREDI NORDESTE",
+    "ShortName": "CENTRAL SICREDI NORDESTE",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-03-22",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-03-18T12:06:27.2064803+00:00",
+    "DateUpdated": "2024-03-18T12:06:27.2064988+00:00"
   },
   {
     "COMPE": "582",
