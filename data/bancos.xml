@@ -362,7 +362,7 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
-    <DetectaFLow>false</DetectaFLow>
+    <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -377,7 +377,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115471-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1863637Z</DateUpdated>
+    <DateUpdated>2024-03-19T12:06:49.0998085Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>036</COMPE>

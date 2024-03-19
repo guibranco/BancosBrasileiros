@@ -402,7 +402,7 @@
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": true,
-    "DetectaFlow": false,
+    "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -417,7 +417,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115471-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1863637+00:00"
+    "DateUpdated": "2024-03-19T12:06:49.0998085+00:00"
   },
   {
     "COMPE": "036",

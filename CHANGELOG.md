@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-03-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 33 - BCO SANTANDER (BRASIL) S.A. - 90.400.888/0001-42
+    - **DetectaFlow** (DetectaFlow): False **->** True
+
 ### 2024-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
