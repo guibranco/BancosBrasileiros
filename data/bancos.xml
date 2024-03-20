@@ -6548,15 +6548,15 @@
     <LongName>Z1 INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
     <ShortName>Z1 IP LTDA.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2024-02-21</DateOperationStarted>
-    <DatePixStarted>2022-08-08 10:27:04</DatePixStarted>
+    <DatePixStarted>2024-03-19 10:10:00</DatePixStarted>
     <DateRegistered>2024-02-15T12:06:06.972741Z</DateRegistered>
-    <DateUpdated>2024-02-15T12:06:06.2132935Z</DateUpdated>
+    <DateUpdated>2024-03-20T12:06:38.8062276Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>588</COMPE>

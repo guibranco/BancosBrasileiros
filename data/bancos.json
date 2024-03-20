@@ -8075,7 +8075,7 @@
     "ShortName": "Z1 IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8084,9 +8084,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-02-21",
-    "DatePixStarted": "2022-08-08 10:27:04",
+    "DatePixStarted": "2024-03-19 10:10:00",
     "DateRegistered": "2024-02-15T12:06:06.972741+00:00",
-    "DateUpdated": "2024-02-15T12:06:06.2132935+00:00"
+    "DateUpdated": "2024-03-20T12:06:38.8062276+00:00"
   },
   {
     "COMPE": "588",

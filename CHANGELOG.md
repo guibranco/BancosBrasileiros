@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-03-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 586 - Z1 IP LTDA. - 35.810.871/0001-55
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2022-08-08 10:27:04 **->** 2024-03-19 10:10:00
+
 ### 2024-03-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
