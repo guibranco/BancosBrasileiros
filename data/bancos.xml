@@ -4371,8 +4371,8 @@
     <COMPE>407</COMPE>
     <ISPB>00329598</ISPB>
     <Document>00.329.598/0001-67</Document>
-    <LongName>ÍNDIGO INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>ÍNDIGO INVESTIMENTOS DTVM LTDA.</ShortName>
+    <LongName>SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>SEFER INVESTIMENTOS DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4382,7 +4382,7 @@
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2022-11-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711258-03:00</DateRegistered>
-    <DateUpdated>2022-10-27T12:08:54.6071326Z</DateUpdated>
+    <DateUpdated>2024-03-21T12:06:10.8550272Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>408</COMPE>
@@ -5786,13 +5786,15 @@
     <LongName>REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
     <ShortName>REAG DTVM S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-03-06</DateOperationStarted>
+    <DatePixStarted>2024-04-01 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3112607Z</DateUpdated>
+    <DateUpdated>2024-03-21T12:06:11.6874072Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>529</COMPE>

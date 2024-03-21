@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2024-03-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 407 - SEFER INVESTIMENTOS DTVM LTDA - 00.329.598/0001-67
+    - **LongName** (STR): ÍNDIGO INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. **->** SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA
+    - **ShortName** (STR): ÍNDIGO INVESTIMENTOS DTVM LTDA. **->** SEFER INVESTIMENTOS DTVM LTDA
+  - 528 - REAG DTVM S.A. - 34.829.992/0001-86
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-04-01 10:00:00
+
 ### 2024-03-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

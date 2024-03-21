@@ -5232,8 +5232,8 @@
     "COMPE": "407",
     "ISPB": "00329598",
     "Document": "00.329.598/0001-67",
-    "LongName": "ÍNDIGO INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "ShortName": "ÍNDIGO INVESTIMENTOS DTVM LTDA.",
+    "LongName": "SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "SEFER INVESTIMENTOS DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5247,7 +5247,7 @@
     "DateOperationStarted": "2021-02-22",
     "DatePixStarted": "2022-11-08 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711258-03:00",
-    "DateUpdated": "2022-10-27T12:08:54.6071326+00:00"
+    "DateUpdated": "2024-03-21T12:06:10.8550272+00:00"
   },
   {
     "COMPE": "408",
@@ -7050,7 +7050,7 @@
     "ShortName": "REAG DTVM S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7059,9 +7059,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-03-06",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-04-01 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112607+00:00"
+    "DateUpdated": "2024-03-21T12:06:11.6874072+00:00"
   },
   {
     "COMPE": "529",
