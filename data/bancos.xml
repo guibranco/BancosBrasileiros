@@ -5875,7 +5875,7 @@
     <COMPE>533</COMPE>
     <ISPB>22575466</ISPB>
     <Document>22.575.466/0001-58</Document>
-    <LongName>SRM BANK INSITITUIÇÃO DE PAGAMENTO S/A</LongName>
+    <LongName>SRM BANK INSTITUIÇÃO DE PAGAMENTO S/A</LongName>
     <ShortName>SRM BANK</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5884,7 +5884,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-07-17</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347537Z</DateRegistered>
-    <DateUpdated>2024-03-18T12:06:25.9978372Z</DateUpdated>
+    <DateUpdated>2024-03-22T12:06:54.1991257Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>534</COMPE>

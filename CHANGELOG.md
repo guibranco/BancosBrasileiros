@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-03-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 533 - SRM BANK - 22.575.466/0001-58
+    - **LongName** (STR): SRM BANK INSITITUIÇÃO DE PAGAMENTO S/A **->** SRM BANK INSTITUIÇÃO DE PAGAMENTO S/A
+
 ### 2024-03-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
