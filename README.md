@@ -25,7 +25,7 @@
 
 ### Formats
 
-This list contains 300+ registered banks, in the following formats:
+This list contains 400+ registered banks, in the following formats:
 
 - **CSV**: [bancos.csv](/data/bancos.csv)
 - **JSON**: [bancos.json](/data/bancos.json)
@@ -86,14 +86,14 @@ And classes (DTO - Data Transport Object) in the following languages:
 
 ## Examples
 
-Implementation examples are available in the folder [examples](/examples), we currently have examples in the following technologies:
+Implementation examples are available in the folder [examples](/examples). We currently have examples of the following technologies:
 
 - [Dart](/exAMPLES/dart/) <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" />
 - [.NET/C#](/examples/dotnet) <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 - [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
 - [PHP](/examples/php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 
-If you miss an example, in the language, library, or framework, open an issue requesting an example project on the desired technology!
+If you miss an example in the language, library, or framework, open an issue requesting an example project on the desired technology!
 
 ---
 
