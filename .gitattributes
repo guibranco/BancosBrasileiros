@@ -15,3 +15,4 @@
 /appveyor.yml
 /SECURITY.md export-ignore
 /logo.png export-ignore
+/pubspec.yaml
