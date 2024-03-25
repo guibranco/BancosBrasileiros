@@ -1,0 +1,17 @@
+# Path-based git attributes
+# https://www.kernel.org/pub/software/scm/git/docs/gitattributes.html
+
+# Ignore all test and documentation with "export-ignore".
+/.* export-ignore
+/examples export-ignore
+/lib export-ignore
+/schemas export-ignore
+/test export-ignore
+/BancosBrasileiros.nuspec
+/CODE_OF_CONDUCT.md export-ignore
+/CONTRIBUTING.md export-ignore
+/_config.yml export-ignore
+/analysis_options.yaml
+/appveyor.yml
+/SECURITY.md export-ignore
+/logo.png export-ignore
