@@ -7921,6 +7921,27 @@
     "DateUpdated": "2023-12-18T12:06:50.1170312+00:00"
   },
   {
+    "COMPE": "576",
+    "ISPB": "11351086",
+    "Document": "11.351.086/0001-13",
+    "LongName": "MERCADO BITCOIN INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "MERCADO BITCOIN IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-04-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-03-26T12:06:57.0908989+00:00",
+    "DateUpdated": "2024-03-26T12:06:57.0909183+00:00"
+  },
+  {
     "COMPE": "577",
     "ISPB": "10663610",
     "Document": "10.663.610/0001-29",

@@ -6439,6 +6439,21 @@
     <DateUpdated>2023-12-18T12:06:50.1170312Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>576</COMPE>
+    <ISPB>11351086</ISPB>
+    <Document>11.351.086/0001-13</Document>
+    <LongName>MERCADO BITCOIN INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>MERCADO BITCOIN IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-04-01</DateOperationStarted>
+    <DateRegistered>2024-03-26T12:06:57.0908989Z</DateRegistered>
+    <DateUpdated>2024-03-26T12:06:57.0909183Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>577</COMPE>
     <ISPB>10663610</ISPB>
     <Document>10.663.610/0001-29</Document>

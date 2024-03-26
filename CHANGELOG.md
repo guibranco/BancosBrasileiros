@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-03-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 576 - MERCADO BITCOIN IP LTDA - 11.351.086/0001-13
+
 ### 2024-03-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
