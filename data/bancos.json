@@ -4559,7 +4559,7 @@
     "ShortName": "UP.P SEP S.A.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -4574,9 +4574,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2020-03-25",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9719443+00:00"
+    "DateUpdated": "2024-03-29T12:07:14.0279472+00:00"
   },
   {
     "COMPE": "374",
