@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-04-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 350 - COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL - 01.330.387/0001-07
+    - **LongName** (STR): COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CENTRO OESTE DO PARANÁ - CREHNOR LARANJEIRAS **->** COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL - CREHNOR
+    - **ShortName** (STR): CREHNOR LARANJEIRAS **->** COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL
+
 ### 2024-03-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

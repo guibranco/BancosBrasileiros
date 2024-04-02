@@ -3528,8 +3528,8 @@
     <COMPE>350</COMPE>
     <ISPB>01330387</ISPB>
     <Document>01.330.387/0001-07</Document>
-    <LongName>COOPERATIVA DE CRÉDITO RURAL DE PEQUENOS AGRICULTORES E DA REFORMA AGRÁRIA DO CENTRO OESTE DO PARANÁ - CREHNOR LARANJEIRAS</LongName>
-    <ShortName>CREHNOR LARANJEIRAS</ShortName>
+    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL - CREHNOR</LongName>
+    <ShortName>COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL</ShortName>
     <Network>Internet</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3539,7 +3539,7 @@
     <DateOperationStarted>2020-05-27</DateOperationStarted>
     <DatePixStarted>2022-01-07 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114431-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0751863Z</DateUpdated>
+    <DateUpdated>2024-04-02T12:06:56.3558626Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>352</COMPE>
