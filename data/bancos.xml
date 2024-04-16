@@ -7307,6 +7307,7 @@
     <ShortName>BCO BNP PARIBAS BRASIL S A</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -7321,8 +7322,9 @@
     </Products>
     <Url>https://www.bnpparibas.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2024-06-24 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114435-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1750727Z</DateUpdated>
+    <DateUpdated>2024-04-16T12:06:24.0451055Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>753</COMPE>

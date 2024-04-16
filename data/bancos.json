@@ -8911,7 +8911,7 @@
     "ShortName": "BCO BNP PARIBAS BRASIL S A",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -8927,9 +8927,9 @@
     ],
     "Url": "https://www.bnpparibas.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-06-24 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114435-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1750727+00:00"
+    "DateUpdated": "2024-04-16T12:06:24.0451055+00:00"
   },
   {
     "COMPE": "753",

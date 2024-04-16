@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-04-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 752 - BCO BNP PARIBAS BRASIL S A - 01.522.368/0001-82
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-06-24 09:00:00
+
 ### 2024-04-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
