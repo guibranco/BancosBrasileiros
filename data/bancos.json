@@ -7462,7 +7462,7 @@
     "ShortName": "BNK DIGITAL SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7471,9 +7471,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-06-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-04-17 09:37:44",
     "DateRegistered": "2023-09-25T12:28:25.1347559+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.134756+00:00"
+    "DateUpdated": "2024-04-18T12:06:03.8725632+00:00"
   },
   {
     "COMPE": "548",

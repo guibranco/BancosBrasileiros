@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-04-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 547 - BNK DIGITAL SCD S.A. - 45.331.622/0001-30
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-04-17 09:37:44
+
 ### 2024-04-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

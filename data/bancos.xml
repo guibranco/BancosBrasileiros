@@ -6104,13 +6104,15 @@
     <LongName>BNK DIGITAL SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>BNK DIGITAL SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-06-01</DateOperationStarted>
+    <DatePixStarted>2024-04-17 09:37:44</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347559Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.134756Z</DateUpdated>
+    <DateUpdated>2024-04-18T12:06:03.8725632Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>548</COMPE>
