@@ -299,7 +299,7 @@
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": true,
-    "DetectaFlow": false,
+    "DetectaFlow": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -315,7 +315,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114987-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1884283+00:00"
+    "DateUpdated": "2024-04-19T12:06:51.9235635+00:00"
   },
   {
     "COMPE": "024",
@@ -7961,6 +7961,27 @@
     "DatePixStarted": null,
     "DateRegistered": "2024-03-11T12:06:18.8734039+00:00",
     "DateUpdated": "2024-03-11T12:06:18.8734358+00:00"
+  },
+  {
+    "COMPE": "578",
+    "ISPB": "01235921",
+    "Document": "01.235.921/0001-04",
+    "LongName": "COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS MUNICIPAIS DA GRANDE VITÓRIA/ES",
+    "ShortName": "SICRES",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-04-25",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-04-19T12:06:51.9247666+00:00",
+    "DateUpdated": "2024-04-19T12:06:51.924785+00:00"
   },
   {
     "COMPE": "579",

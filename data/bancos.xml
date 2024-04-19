@@ -267,7 +267,7 @@
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
-    <DetectaFLow>false</DetectaFLow>
+    <DetectaFLow>true</DetectaFLow>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -283,7 +283,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114987-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1884283Z</DateUpdated>
+    <DateUpdated>2024-04-19T12:06:51.9235635Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>024</COMPE>
@@ -6471,6 +6471,21 @@
     <DateOperationStarted>2024-03-15</DateOperationStarted>
     <DateRegistered>2024-03-11T12:06:18.8734039Z</DateRegistered>
     <DateUpdated>2024-03-11T12:06:18.8734358Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>578</COMPE>
+    <ISPB>01235921</ISPB>
+    <Document>01.235.921/0001-04</Document>
+    <LongName>COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS MUNICIPAIS DA GRANDE VITÓRIA/ES</LongName>
+    <ShortName>SICRES</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-04-25</DateOperationStarted>
+    <DateRegistered>2024-04-19T12:06:51.9247666Z</DateRegistered>
+    <DateUpdated>2024-04-19T12:06:51.924785Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>579</COMPE>

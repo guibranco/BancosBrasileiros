@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2024-04-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 578 - SICRES - 01.235.921/0001-04
+- Updated 1 bank
+  - 21 - BCO BANESTES S.A. - 28.127.603/0001-78
+    - **DetectaFlow** (DetectaFlow): False **->** True
+
 ### 2024-04-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
