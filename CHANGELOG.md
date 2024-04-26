@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-04-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 538 - SUDACRED SCD S.A. - 20.251.847/0001-56
+    - **LongName** (STR): SUDACRED - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA. **->** SUDACRED SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): SUDACRED SCMEPP LTDA **->** SUDACRED SCD S.A.
+
 ### 2024-04-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
