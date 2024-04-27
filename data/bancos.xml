@@ -5959,8 +5959,8 @@
     <COMPE>538</COMPE>
     <ISPB>20251847</ISPB>
     <Document>20.251.847/0001-56</Document>
-    <LongName>SUDACRED - SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
-    <ShortName>SUDACRED SCMEPP LTDA</ShortName>
+    <LongName>SUDACRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SUDACRED SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5968,7 +5968,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2023-05-08</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347536Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.1347536Z</DateUpdated>
+    <DateUpdated>2024-04-26T12:07:21.5039874Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>539</COMPE>
