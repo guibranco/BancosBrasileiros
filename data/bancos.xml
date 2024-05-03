@@ -5992,8 +5992,8 @@
     <COMPE>540</COMPE>
     <ISPB>04849745</ISPB>
     <Document>04.849.745/0001-80</Document>
-    <LongName>FACILICRED SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR LTDA</LongName>
-    <ShortName>FACILICRED SCM LTDA</ShortName>
+    <LongName>HBI SOCIEDADE DE CRÉDITO DIRETO S/A.</LongName>
+    <ShortName>HBI SCD</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6001,7 +6001,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2024-01-08</DateOperationStarted>
     <DateRegistered>2024-01-09T12:06:15.138698Z</DateRegistered>
-    <DateUpdated>2024-01-09T12:06:15.1387171Z</DateUpdated>
+    <DateUpdated>2024-05-03T12:06:09.3866865Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>541</COMPE>

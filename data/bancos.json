@@ -7311,8 +7311,8 @@
     "COMPE": "540",
     "ISPB": "04849745",
     "Document": "04.849.745/0001-80",
-    "LongName": "FACILICRED SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR LTDA",
-    "ShortName": "FACILICRED SCM LTDA",
+    "LongName": "HBI SOCIEDADE DE CRÉDITO DIRETO S/A.",
+    "ShortName": "HBI SCD",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7326,7 +7326,7 @@
     "DateOperationStarted": "2024-01-08",
     "DatePixStarted": null,
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2024-01-09T12:06:15.1387171+00:00"
+    "DateUpdated": "2024-05-03T12:06:09.3866865+00:00"
   },
   {
     "COMPE": "541",

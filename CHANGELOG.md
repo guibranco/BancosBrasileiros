@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-05-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 540 - HBI SCD - 04.849.745/0001-80
+    - **LongName** (STR): FACILICRED SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR LTDA **->** HBI SOCIEDADE DE CRÉDITO DIRETO S/A.
+    - **ShortName** (STR): FACILICRED SCM LTDA **->** HBI SCD
+
 ### 2024-04-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
