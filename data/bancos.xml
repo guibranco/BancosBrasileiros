@@ -1450,11 +1450,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115172-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.355711Z</DateUpdated>
+    <DateUpdated>2024-05-10T12:06:06.1459093Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>126</COMPE>

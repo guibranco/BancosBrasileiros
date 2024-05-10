@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-05-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 125 - BANCO GENIAL - 45.246.410/0001-55
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+
 ### 2024-05-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks
