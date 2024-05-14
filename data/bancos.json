@@ -1642,13 +1642,13 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": "https://www.brasilplural.com",
     "DateOperationStarted": "2012-11-19",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115172-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.355711+00:00"
+    "DateUpdated": "2024-05-10T12:06:06.1459093+00:00"
   },
   {
     "COMPE": "126",
@@ -7311,8 +7311,8 @@
     "COMPE": "540",
     "ISPB": "04849745",
     "Document": "04.849.745/0001-80",
-    "LongName": "FACILICRED SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR LTDA",
-    "ShortName": "FACILICRED SCM LTDA",
+    "LongName": "HBI SOCIEDADE DE CRÉDITO DIRETO S/A.",
+    "ShortName": "HBI SCD",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7326,7 +7326,7 @@
     "DateOperationStarted": "2024-01-08",
     "DatePixStarted": null,
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2024-01-09T12:06:15.1387171+00:00"
+    "DateUpdated": "2024-05-03T12:06:09.3866865+00:00"
   },
   {
     "COMPE": "541",
@@ -8173,6 +8173,27 @@
     "DateUpdated": "2024-02-28T12:06:04.5801118+00:00"
   },
   {
+    "COMPE": "593",
+    "ISPB": "27084098",
+    "Document": "27.084.098/0001-69",
+    "LongName": "TRANSFEERA INSTITUIÇÃO DE PAGAMENTO S.A",
+    "ShortName": "TRANSFEERA IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-05-15",
+    "DatePixStarted": "2021-05-04 10:27:26",
+    "DateRegistered": "2024-05-09T12:06:38.0035796+00:00",
+    "DateUpdated": "2024-05-09T12:06:37.6901159+00:00"
+  },
+  {
     "COMPE": "594",
     "ISPB": "48703388",
     "Document": "48.703.388/0001-13",
@@ -8376,6 +8397,27 @@
     "DatePixStarted": "2021-05-27 08:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115268-03:00",
     "DateUpdated": "2023-10-21T12:05:56.9571583+00:00"
+  },
+  {
+    "COMPE": "620",
+    "ISPB": "51342763",
+    "Document": "51.342.763/0001-51",
+    "LongName": "REVOLUT SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "REVOLUT SCD S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-05-15",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-05-09T12:06:38.0036073+00:00",
+    "DateUpdated": "2024-05-09T12:06:38.0036074+00:00"
   },
   {
     "COMPE": "623",
