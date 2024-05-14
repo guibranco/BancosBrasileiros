@@ -170,128 +170,133 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
 
 <!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -start -->
 <table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/guibranco">
-            <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
-            <br />
-            <sub><b>Guilherme Branco Stracini</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/raphaelcunha">
-            <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
-            <br />
-            <sub><b>Raphael Cunha</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Baldini">
-            <img src="https://avatars.githubusercontent.com/u/8235570?v=4" width="100;" alt="Baldini"/>
-            <br />
-            <sub><b>Guilherme Baldini</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BrunoM90">
-            <img src="https://avatars.githubusercontent.com/u/152902220?v=4" width="100;" alt="BrunoM90"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sahalhes">
-            <img src="https://avatars.githubusercontent.com/u/146409442?v=4" width="100;" alt="sahalhes"/>
-            <br />
-            <sub><b>E S Sahal Hussain</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/pferreirafabricio">
-            <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
-            <br />
-            <sub><b>Fabrício Pinto Ferreira</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/Guillergood">
-            <img src="https://avatars.githubusercontent.com/u/16701917?v=4" width="100;" alt="Guillergood"/>
-            <br />
-            <sub><b>Guillermo Bueno Vargas</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/iurisilvio">
-            <img src="https://avatars.githubusercontent.com/u/105852?v=4" width="100;" alt="iurisilvio"/>
-            <br />
-            <sub><b>Iuri De Silvio</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/jesobreira">
-            <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
-            <br />
-            <sub><b>Jefrey Sobreira Santos</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/joaovaladares">
-            <img src="https://avatars.githubusercontent.com/u/42593399?v=4" width="100;" alt="joaovaladares"/>
-            <br />
-            <sub><b>João V. Valadares</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/leogregianin">
-            <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
-            <br />
-            <sub><b>Leonardo Gregianin</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MauriciDmarc">
-            <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
-            <br />
-            <sub><b>Maurici Dmarco</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/rafaeldomi">
-            <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
-            <br />
-            <sub><b>Rafael Domiciano</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AmolKumarGupta">
-            <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
-            <br />
-            <sub><b>Amol</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/luisccf">
-            <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
-            <br />
-            <sub><b>Luis Carlos Cardoso</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rodrigondec">
-            <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
-            <br />
-            <sub><b>Rodrigo Castro</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/vduggen">
-            <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
-            <br />
-            <sub><b>Vitor Duggen</b></sub>
-        </a>
-    </td></tr>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/guibranco">
+                    <img src="https://avatars.githubusercontent.com/u/3362854?v=4" width="100;" alt="guibranco"/>
+                    <br />
+                    <sub><b>Guilherme Branco Stracini</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/raphaelcunha">
+                    <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
+                    <br />
+                    <sub><b>Raphael Cunha</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Baldini">
+                    <img src="https://avatars.githubusercontent.com/u/8235570?v=4" width="100;" alt="Baldini"/>
+                    <br />
+                    <sub><b>Guilherme Baldini</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/BrunoM90">
+                    <img src="https://avatars.githubusercontent.com/u/152902220?v=4" width="100;" alt="BrunoM90"/>
+                    <br />
+                    <sub><b>Null</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sahalhes">
+                    <img src="https://avatars.githubusercontent.com/u/146409442?v=4" width="100;" alt="sahalhes"/>
+                    <br />
+                    <sub><b>E S Sahal Hussain</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/pferreirafabricio">
+                    <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
+                    <br />
+                    <sub><b>Fabrício Pinto Ferreira</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/Guillergood">
+                    <img src="https://avatars.githubusercontent.com/u/16701917?v=4" width="100;" alt="Guillergood"/>
+                    <br />
+                    <sub><b>Guillermo Bueno Vargas</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/iurisilvio">
+                    <img src="https://avatars.githubusercontent.com/u/105852?v=4" width="100;" alt="iurisilvio"/>
+                    <br />
+                    <sub><b>Iuri De Silvio</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/jesobreira">
+                    <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
+                    <br />
+                    <sub><b>Jefrey Sobreira Santos</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/joaovaladares">
+                    <img src="https://avatars.githubusercontent.com/u/42593399?v=4" width="100;" alt="joaovaladares"/>
+                    <br />
+                    <sub><b>João V. Valadares</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/leogregianin">
+                    <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
+                    <br />
+                    <sub><b>Leonardo Gregianin</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MauriciDmarc">
+                    <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
+                    <br />
+                    <sub><b>Maurici Dmarco</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/rafaeldomi">
+                    <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
+                    <br />
+                    <sub><b>Rafael Domiciano</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/AmolKumarGupta">
+                    <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
+                    <br />
+                    <sub><b>Amol</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/luisccf">
+                    <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
+                    <br />
+                    <sub><b>Luis Carlos Cardoso</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/rodrigondec">
+                    <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
+                    <br />
+                    <sub><b>Rodrigo Castro</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/vduggen">
+                    <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
+                    <br />
+                    <sub><b>Vitor Duggen</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
 </table>
 <!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -end -->
 
@@ -299,41 +304,44 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
 
 <!-- readme: snyk-bot,bots -start -->
 <table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/snyk-bot">
-            <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="100;" alt="snyk-bot"/>
-            <br />
-            <sub><b>Snyk Bot</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/github-actions[bot]">
-            <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
-            <br />
-            <sub><b>github-actions[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/dependabot[bot]">
-            <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100;" alt="dependabot[bot]"/>
-            <br />
-            <sub><b>dependabot[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/stack-file[bot]">
-            <img src="https://avatars.githubusercontent.com/in/408123?v=4" width="100;" alt="stack-file[bot]"/>
-            <br />
-            <sub><b>stack-file[bot]</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/codefactor-io[bot]">
-            <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
-            <br />
-            <sub><b>codefactor-io[bot]</b></sub>
-        </a>
-    </td></tr>
+	<tbody>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/snyk-bot">
+                    <img src="https://avatars.githubusercontent.com/u/19733683?v=4" width="100;" alt="snyk-bot"/>
+                    <br />
+                    <sub><b>Snyk Bot</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/github-actions[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
+                    <br />
+                    <sub><b>github-actions[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/dependabot[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="100;" alt="dependabot[bot]"/>
+                    <br />
+                    <sub><b>dependabot[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/stack-file[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/408123?v=4" width="100;" alt="stack-file[bot]"/>
+                    <br />
+                    <sub><b>stack-file[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/codefactor-io[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
+                    <br />
+                    <sub><b>codefactor-io[bot]</b></sub>
+                </a>
+            </td>
+		</tr>
+	<tbody>
 </table>
 <!-- readme: snyk-bot,bots -end -->
