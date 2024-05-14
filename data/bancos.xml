@@ -3126,7 +3126,7 @@
     <COMPE>321</COMPE>
     <ISPB>18188384</ISPB>
     <Document>18.188.384/0001-83</Document>
-    <LongName>CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE LTDA.</LongName>
+    <LongName>CREFAZ SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E A EMPRESA DE PEQUENO PORTE S.A.</LongName>
     <ShortName>CREFAZ SCMEPP LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3135,7 +3135,7 @@
     <DetectaFLow>false</DetectaFLow>
     <DateOperationStarted>2019-06-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114908-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0798464Z</DateUpdated>
+    <DateUpdated>2024-05-14T12:06:43.9245743Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>322</COMPE>
