@@ -4,6 +4,18 @@
 
 ## Changelog
 
+### 2024-05-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 125 - BANCO GENIAL - 45.246.410/0001-55
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+
+### 2024-05-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 593 - TRANSFEERA IP S.A. - 27.084.098/0001-69
+  - 620 - REVOLUT SCD S.A. - 51.342.763/0001-51
+
 ### 2024-05-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

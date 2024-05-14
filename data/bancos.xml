@@ -1450,11 +1450,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115172-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.355711Z</DateUpdated>
+    <DateUpdated>2024-05-10T12:06:06.1459093Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>126</COMPE>
@@ -6627,6 +6628,23 @@
     <DateUpdated>2024-02-28T12:06:04.5801118Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>593</COMPE>
+    <ISPB>27084098</ISPB>
+    <Document>27.084.098/0001-69</Document>
+    <LongName>TRANSFEERA INSTITUIÇÃO DE PAGAMENTO S.A</LongName>
+    <ShortName>TRANSFEERA IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-05-15</DateOperationStarted>
+    <DatePixStarted>2021-05-04 10:27:26</DatePixStarted>
+    <DateRegistered>2024-05-09T12:06:38.0035796Z</DateRegistered>
+    <DateUpdated>2024-05-09T12:06:37.6901159Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>594</COMPE>
     <ISPB>48703388</ISPB>
     <Document>48.703.388/0001-13</Document>
@@ -6806,6 +6824,21 @@
     <DatePixStarted>2021-05-27 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115268-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.9571583Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>620</COMPE>
+    <ISPB>51342763</ISPB>
+    <Document>51.342.763/0001-51</Document>
+    <LongName>REVOLUT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>REVOLUT SCD S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <DateOperationStarted>2024-05-15</DateOperationStarted>
+    <DateRegistered>2024-05-09T12:06:38.0036073Z</DateRegistered>
+    <DateUpdated>2024-05-09T12:06:38.0036074Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>623</COMPE>
