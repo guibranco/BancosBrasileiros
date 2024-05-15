@@ -1,0 +1,92 @@
+version = 1
+
+[[analyzers]]
+name = "ruby"
+
+[[analyzers]]
+name = "cxx"
+
+[[analyzers]]
+name = "swift"
+
+[[analyzers]]
+name = "php"
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "https://github.com/guibranco/BancosBrasileiros/blob/main/schemas/go.go"
+
+[[analyzers]]
+name = "rust"
+
+  [analyzers.meta]
+  msrv = "stable"
+
+[[analyzers]]
+name = "sql"
+
+[[analyzers]]
+name = "python"
+
+  [analyzers.meta]
+  runtime_version = "3.x.x"
+
+[[analyzers]]
+name = "kotlin"
+
+  [analyzers.meta]
+  runtime_version = "1.8"
+  language_version = "1.9"
+
+[[analyzers]]
+name = "javascript"
+
+  [analyzers.meta]
+  environment = [
+    "nodejs",
+    "browser"
+  ]
+
+[[analyzers]]
+name = "java"
+
+  [analyzers.meta]
+  runtime_version = "21"
+
+[[analyzers]]
+name = "csharp"
+
+[[transformers]]
+name = "dotnet-format"
+
+[[transformers]]
+name = "gofmt"
+
+[[transformers]]
+name = "gofumpt"
+
+[[transformers]]
+name = "rustfmt"
+
+[[transformers]]
+name = "ruff"
+
+[[transformers]]
+name = "isort"
+
+[[transformers]]
+name = "php-cs-fixer"
+
+[[transformers]]
+name = "swift-format"
+
+[[transformers]]
+name = "clang-format"
+
+[[transformers]]
+name = "rubocop"
+
+[[transformers]]
+name = "standardrb"
