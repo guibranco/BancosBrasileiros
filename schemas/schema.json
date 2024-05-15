@@ -66,6 +66,12 @@
                 "DetectaFlow": {
                     "type": "boolean"
                 },
+                "Pcr": {
+                    "type": "boolean"
+                },
+                "Pcrp": {
+                    "type": "boolean"
+                },
                 "SalaryPortability": {
                   "type": "string"
                 },

@@ -12,6 +12,8 @@ CREATE TABLE Banks (
     CreditDocument BIT NULL,
     LegalCheque BIT,
     DetectaFlow BIT,
+    Pcr BIT,
+    Pcrp BIT,
     SalaryPortability VARCHAR(100) NULL,
     Products TEXT NULL,
     Url VARCHAR(255) NULL,

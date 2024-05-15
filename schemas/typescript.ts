@@ -20,6 +20,8 @@ export interface Bank {
     CreditDocument:         null | boolean;
     LegalCheque:            boolean,
     DetectaFlow:            boolean,
+    Pcr:                    boolean,
+    Pcrp:                   boolean,
     SalaryPortability:      null | string;
     Products:               null | string[];
     Url:                    null | string;
@@ -184,6 +186,8 @@ const typeMap: any = {
         { json: "CreditDocument", js: "CreditDocument", typ: u("", null) },
         { json: "LegalCheque", js: "LegalCheque", typ: u("", null) },
         { json: "DetectaFlow", js: "DetectaFlow", typ: u("", null) },
+        { json: "Pcr", js: "Pcr", typ: u("", null) },
+        { json: "Pcrp", js: "Pcrp", typ: u("", null) },
         { json: "SalaryPortability", js: "SalaryPortability", typ: u("", null) },
         { json: "Products", js: "Products", typ: u("", null) },
         { json: "Url", js: "Url", typ: u("", null) },

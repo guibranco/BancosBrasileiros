@@ -43,6 +43,8 @@ void main() {
         dto1.CreditDocument == dto2.CreditDocument &&
         dto1.LegalCheque == dto2.LegalCheque &&
         dto1.DetectaFlow == dto2.DetectaFlow &&
+        dto1.Pcr == dto2.Pcr &&
+        dto1.Pcrp == dto2.Pcrp &&
         dto1.SalaryPortability == dto2.SalaryPortability &&
         areStringListsEqual(dto1.Products, dto2.Products) &&
         dto1.Url == dto2.Url &&

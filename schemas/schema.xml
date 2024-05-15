@@ -19,6 +19,8 @@
               <xs:element name="CreditDocument" type="xs:boolean" />
               <xs:element name="LegalCheque" type="xs:boolean" />
               <xs:element name="DetectaFlow" type="xs:boolean" />
+              <xs:element name="Pcr" type="xs:boolean" />
+              <xs:element name="Pcrp" type="xs:boolean" />
               <xs:element name="SalaryPortability" type="xs:string" />
               <xs:element name="Products">
                 <xs:complexType>

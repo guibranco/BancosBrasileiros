@@ -51,6 +51,8 @@ Cada uma das listas possui as seguintes informações (schema):
 | CreditDocument | Efetua TED | true, false, null |
 | LegalCheque | Se pertence ao "Cheque Legal" | true, false |
 | Detecta Flow | Se pertence ao "Detecta Flow" | true, false |
+| PCR | Se pertence ao "PCR" | true, false |
+| PCRP | Se pertence ao "PCRP" | true, false |
 | SalaryPortability | Efetua/recebe portabilidade de salário | "Banco folha e Destinatário" - ambas as operações,  "Destinatário" - apenas recebe, null |
 | Products | Lista de produtos oferecidos | Apenas em português |
 | Url | Website | - |
