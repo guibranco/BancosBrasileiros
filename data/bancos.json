@@ -12,8 +12,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -29,7 +29,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7109988-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1793808+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7277793+00:00"
   },
   {
     "COMPE": "003",
@@ -44,8 +44,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -59,7 +59,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114564-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1779135+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7263433+00:00"
   },
   {
     "COMPE": "004",
@@ -74,8 +74,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -87,7 +87,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114613-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1800231+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7287428+00:00"
   },
   {
     "COMPE": "007",
@@ -102,15 +102,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bndes.gov.br/wps/portal/site/home",
     "DateOperationStarted": "2014-06-30",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115088-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3507277+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7328021+00:00"
   },
   {
     "COMPE": "010",
@@ -125,15 +125,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": "https://www.credicoamo.com.br/",
     "DateOperationStarted": "2012-12-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115464-03:00",
-    "DateUpdated": "2023-06-23T17:11:26.6695969+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7432826+00:00"
   },
   {
     "COMPE": "011",
@@ -171,8 +171,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -184,7 +184,7 @@
     "DateOperationStarted": "2017-05-04",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711456-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.181094+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7301824+00:00"
   },
   {
     "COMPE": "014",
@@ -245,8 +245,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -263,7 +263,7 @@
     "DateOperationStarted": "2012-05-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114553-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.5629674+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.742098+00:00"
   },
   {
     "COMPE": "017",
@@ -324,8 +324,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -341,7 +341,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114987-03:00",
-    "DateUpdated": "2024-04-19T12:06:51.9235635+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7387704+00:00"
   },
   {
     "COMPE": "024",
@@ -379,8 +379,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -391,7 +391,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114509-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1745344+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7218759+00:00"
   },
   {
     "COMPE": "029",
@@ -435,8 +435,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -451,7 +451,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115471-03:00",
-    "DateUpdated": "2024-03-19T12:06:49.0998085+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.734926+00:00"
   },
   {
     "COMPE": "036",
@@ -489,8 +489,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -504,7 +504,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114571-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1797109+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7282706+00:00"
   },
   {
     "COMPE": "040",
@@ -542,8 +542,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -559,7 +559,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115478-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1798658+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7285067+00:00"
   },
   {
     "COMPE": "047",
@@ -574,8 +574,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -591,7 +591,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114799-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1795496+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7280086+00:00"
   },
   {
     "COMPE": "060",
@@ -750,8 +750,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": [
       "Consignado",
@@ -761,7 +761,7 @@
     "DateOperationStarted": "2005-11-18",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115283-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.177609+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7258094+00:00"
   },
   {
     "COMPE": "070",
@@ -776,8 +776,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
@@ -789,7 +789,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7111961-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1897774+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.727055+00:00"
   },
   {
     "COMPE": "074",
@@ -873,8 +873,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -887,7 +887,7 @@
     "DateOperationStarted": "2008-08-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112852-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1814264+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.730644+00:00"
   },
   {
     "COMPE": "078",
@@ -971,8 +971,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -982,7 +982,7 @@
     "DateOperationStarted": "2008-10-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114701-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1882772+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7385406+00:00"
   },
   {
     "COMPE": "082",
@@ -997,8 +997,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -1012,7 +1012,7 @@
     "DateOperationStarted": "2009-06-12",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114631-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1868471+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7361503+00:00"
   },
   {
     "COMPE": "083",
@@ -1027,15 +1027,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.boc-brazil.com",
     "DateOperationStarted": "2009-07-14",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114715-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3451705+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7265882+00:00"
   },
   {
     "COMPE": "084",
@@ -1050,8 +1050,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
@@ -1063,7 +1063,7 @@
     "DateOperationStarted": "2009-11-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114472-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9686568+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7509507+00:00"
   },
   {
     "COMPE": "085",
@@ -1078,8 +1078,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -1095,7 +1095,7 @@
     "DateOperationStarted": "2010-05-17",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114586-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.196962+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7416394+00:00"
   },
   {
     "COMPE": "088",
@@ -1133,8 +1133,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Catapital de Giro",
@@ -1148,7 +1148,7 @@
     "DateOperationStarted": "2010-08-30",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115328-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9500273+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7435348+00:00"
   },
   {
     "COMPE": "091",
@@ -1209,15 +1209,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.polocred.com.br/",
     "DateOperationStarted": "2010-11-09",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114642-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0782931+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.74978+00:00"
   },
   {
     "COMPE": "094",
@@ -1232,15 +1232,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.finaxis.com.br",
     "DateOperationStarted": "2010-08-23",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114788-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.347466+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7294369+00:00"
   },
   {
     "COMPE": "095",
@@ -1278,15 +1278,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bmfbovespa.com.br/bancobmfbovespa/",
     "DateOperationStarted": "2004-11-12",
     "DatePixStarted": "2023-09-11 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711375-03:00",
-    "DateUpdated": "2023-09-02T12:05:07.7442102+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7223453+00:00"
   },
   {
     "COMPE": "097",
@@ -1301,15 +1301,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": "https://credisis.com.br/",
     "DateOperationStarted": "2011-02-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114549-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0767922+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7418689+00:00"
   },
   {
     "COMPE": "098",
@@ -1347,8 +1347,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -1364,7 +1364,7 @@
     "DateOperationStarted": "2011-01-11",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114498-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9718001+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7523717+00:00"
   },
   {
     "COMPE": "100",
@@ -1448,8 +1448,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -1464,7 +1464,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112717-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1910467+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7397678+00:00"
   },
   {
     "COMPE": "105",
@@ -1506,15 +1506,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancobbm.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114855-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3411358+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7233843+00:00"
   },
   {
     "COMPE": "108",
@@ -1677,8 +1677,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -1691,7 +1691,7 @@
     "DateOperationStarted": "2012-02-06",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115081-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.18606+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.734465+00:00"
   },
   {
     "COMPE": "121",
@@ -1706,8 +1706,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": [
       "Cheque Especial",
@@ -1719,7 +1719,7 @@
     "DateOperationStarted": "2012-04-04",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114712-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1735916+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7216246+00:00"
   },
   {
     "COMPE": "122",
@@ -1757,15 +1757,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": "https://www.wooribank.com.br",
     "DateOperationStarted": "2012-08-09",
     "DatePixStarted": "2021-04-27 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114862-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3693123+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7378531+00:00"
   },
   {
     "COMPE": "125",
@@ -1780,15 +1780,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": "https://www.brasilplural.com",
     "DateOperationStarted": "2012-11-19",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115172-03:00",
-    "DateUpdated": "2024-05-10T12:06:06.1459093+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7297188+00:00"
   },
   {
     "COMPE": "126",
@@ -1849,15 +1849,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.msbank.com.br",
     "DateOperationStarted": "2015-04-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114919-03:00",
-    "DateUpdated": "2023-04-13T12:07:26.5898227+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7394853+00:00"
   },
   {
     "COMPE": "129",
@@ -1895,15 +1895,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2013-08-12",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114682-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4009564+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7402304+00:00"
   },
   {
     "COMPE": "131",
@@ -1941,15 +1941,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.icbc.com.cn",
     "DateOperationStarted": "2013-09-26",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114895-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3609804+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7461071+00:00"
   },
   {
     "COMPE": "133",
@@ -1964,8 +1964,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -1981,7 +1981,7 @@
     "DateOperationStarted": "2016-05-02",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114705-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1956945+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7411774+00:00"
   },
   {
     "COMPE": "134",
@@ -2019,8 +2019,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -2036,7 +2036,7 @@
     "DateOperationStarted": "2014-07-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112437-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1958664+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.74141+00:00"
   },
   {
     "COMPE": "138",
@@ -2306,15 +2306,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2017-09-04",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114582-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3577168+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7404616+00:00"
   },
   {
     "COMPE": "163",
@@ -2375,8 +2375,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": [
       "Outros Créditos",
@@ -2386,7 +2386,7 @@
     "DateOperationStarted": "2017-11-21",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115165-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9587328+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7489942+00:00"
   },
   {
     "COMPE": "177",
@@ -2542,15 +2542,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2017-10-16",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114527-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0762144+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7507194+00:00"
   },
   {
     "COMPE": "191",
@@ -2657,15 +2657,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2017-10-18",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711487-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3712081+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7516792+00:00"
   },
   {
     "COMPE": "208",
@@ -2680,8 +2680,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -2697,7 +2697,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115006-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.17575+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7241977+00:00"
   },
   {
     "COMPE": "212",
@@ -2712,8 +2712,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -2727,7 +2727,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115492-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1834688+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7330701+00:00"
   },
   {
     "COMPE": "213",
@@ -2742,8 +2742,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado"
@@ -2752,7 +2752,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115206-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5477639+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7221106+00:00"
   },
   {
     "COMPE": "217",
@@ -2790,8 +2790,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Destinatário",
     "Products": [
       "Consignado"
@@ -2800,7 +2800,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115415-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5478121+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7239648+00:00"
   },
   {
     "COMPE": "222",
@@ -2838,8 +2838,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -2853,7 +2853,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115225-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1801861+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7292056+00:00"
   },
   {
     "COMPE": "233",
@@ -2891,8 +2891,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -2907,7 +2907,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115261-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1755602+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7236929+00:00"
   },
   {
     "COMPE": "241",
@@ -2945,8 +2945,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -2962,7 +2962,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-05-12 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115103-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1821252+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7320781+00:00"
   },
   {
     "COMPE": "246",
@@ -2977,8 +2977,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -2992,7 +2992,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114992-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.173367+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7211399+00:00"
   },
   {
     "COMPE": "249",
@@ -3076,8 +3076,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -3090,7 +3090,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114844-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9584847+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7487618+00:00"
   },
   {
     "COMPE": "259",
@@ -3128,15 +3128,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2017-10-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114912-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4015261+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7480643+00:00"
   },
   {
     "COMPE": "265",
@@ -3151,15 +3151,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.fator.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115084-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4020183+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7289723+00:00"
   },
   {
     "COMPE": "266",
@@ -3174,15 +3174,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancocedula.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115058-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3432427+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7248926+00:00"
   },
   {
     "COMPE": "268",
@@ -3225,15 +3225,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2018-02-07",
     "DatePixStarted": "2022-01-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115202-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3480393+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7299517+00:00"
   },
   {
     "COMPE": "270",
@@ -3340,8 +3340,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -3353,7 +3353,7 @@
     "DateOperationStarted": "2019-09-10",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114738-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1888784+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7392307+00:00"
   },
   {
     "COMPE": "276",
@@ -3368,8 +3368,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado"
@@ -3378,7 +3378,7 @@
     "DateOperationStarted": "2018-06-12",
     "DatePixStarted": "2021-04-16 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114792-03:00",
-    "DateUpdated": "2022-07-27T12:06:28.7958806+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7354342+00:00"
   },
   {
     "COMPE": "278",
@@ -3439,8 +3439,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Crédito Pessoal",
@@ -3450,7 +3450,7 @@
     "DateOperationStarted": "2018-05-10",
     "DatePixStarted": "2024-03-19 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114949-03:00",
-    "DateUpdated": "2024-03-14T12:07:16.0911871+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7530639+00:00"
   },
   {
     "COMPE": "281",
@@ -3465,15 +3465,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2018-11-05",
     "DatePixStarted": "2021-06-10 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115437-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.360395+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7423278+00:00"
   },
   {
     "COMPE": "283",
@@ -3718,8 +3718,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -3729,7 +3729,7 @@
     "DateOperationStarted": "2018-12-03",
     "DatePixStarted": "2023-05-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114556-03:00",
-    "DateUpdated": "2023-04-05T12:07:18.1432351+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7213826+00:00"
   },
   {
     "COMPE": "300",
@@ -3744,15 +3744,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bna.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115051-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3457429+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7272868+00:00"
   },
   {
     "COMPE": "301",
@@ -3767,15 +3767,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2018-09-26",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114822-03:00",
-    "DateUpdated": "2022-09-29T12:08:26.1905846+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7446912+00:00"
   },
   {
     "COMPE": "305",
@@ -3882,15 +3882,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2018-10-18",
     "DatePixStarted": "2023-03-08 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114937-03:00",
-    "DateUpdated": "2023-03-03T14:56:55.3059096+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7528311+00:00"
   },
   {
     "COMPE": "311",
@@ -3997,8 +3997,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
@@ -4011,7 +4011,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115294-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1749154+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7229067+00:00"
   },
   {
     "COMPE": "319",
@@ -4049,15 +4049,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.br.ccb.com",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114616-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4007514+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7409226+00:00"
   },
   {
     "COMPE": "321",
@@ -4095,15 +4095,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco Folha",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2019-06-14",
     "DatePixStarted": "2022-03-14 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114423-03:00",
-    "DateUpdated": "2023-10-20T12:06:29.507013+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7425568+00:00"
   },
   {
     "COMPE": "323",
@@ -4118,15 +4118,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2019-06-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114708-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.370529+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7475881+00:00"
   },
   {
     "COMPE": "324",
@@ -4141,8 +4141,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -4154,7 +4154,7 @@
     "DateOperationStarted": "2020-09-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114933-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1912056+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7400004+00:00"
   },
   {
     "COMPE": "325",
@@ -4241,8 +4241,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -4255,7 +4255,7 @@
     "DateOperationStarted": "2019-04-30",
     "DatePixStarted": "2021-06-14 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711504-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9601055+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7500219+00:00"
   },
   {
     "COMPE": "330",
@@ -4270,8 +4270,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -4284,7 +4284,7 @@
     "DateOperationStarted": "2019-07-22",
     "DatePixStarted": "2021-02-25 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7113173-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1747386+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.722633+00:00"
   },
   {
     "COMPE": "331",
@@ -4394,8 +4394,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -4410,7 +4410,7 @@
     "DateOperationStarted": "2019-01-31",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115026-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.176051+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7246608+00:00"
   },
   {
     "COMPE": "340",
@@ -4448,8 +4448,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -4465,7 +4465,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115257-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1817233+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7308751+00:00"
   },
   {
     "COMPE": "342",
@@ -4526,8 +4526,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -4538,7 +4538,7 @@
     "DateOperationStarted": "2019-11-01",
     "DatePixStarted": "2021-06-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115069-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1880933+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7380814+00:00"
   },
   {
     "COMPE": "349",
@@ -4701,8 +4701,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -4716,7 +4716,7 @@
     "DateOperationStarted": "2020-06-10",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114578-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9723054+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7533301+00:00"
   },
   {
     "COMPE": "360",
@@ -4800,15 +4800,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-03-16",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114668-03:00",
-    "DateUpdated": "2023-06-23T17:11:26.6713081+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7449214+00:00"
   },
   {
     "COMPE": "365",
@@ -4892,8 +4892,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Crédito consignado",
@@ -4903,7 +4903,7 @@
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": "2022-10-31 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114653-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1777644+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.726081+00:00"
   },
   {
     "COMPE": "370",
@@ -5019,8 +5019,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Pessoal"
@@ -5029,7 +5029,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2022-10-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115066-03:00",
-    "DateUpdated": "2022-09-23T12:08:11.8249103+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7311056+00:00"
   },
   {
     "COMPE": "377",
@@ -5120,15 +5120,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": "https://www.picpay.com.br",
     "DateOperationStarted": "2020-10-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114941-03:00",
-    "DateUpdated": "2022-09-10T12:06:04.1466825+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7492256+00:00"
   },
   {
     "COMPE": "381",
@@ -5288,8 +5288,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Veículos"
@@ -5298,7 +5298,7 @@
     "DateOperationStarted": "2020-07-21",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114501-03:00",
-    "DateUpdated": "2022-06-23T13:51:34.5528899+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7364295+00:00"
   },
   {
     "COMPE": "389",
@@ -5313,8 +5313,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -5329,7 +5329,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114881-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1822773+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7323096+00:00"
   },
   {
     "COMPE": "390",
@@ -5392,8 +5392,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -5405,7 +5405,7 @@
     "DateOperationStarted": "2020-08-17",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115229-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1870296+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7371618+00:00"
   },
   {
     "COMPE": "394",
@@ -5586,15 +5586,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-05-06",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114851-03:00",
-    "DateUpdated": "2022-08-31T12:06:42.9463093+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7466356+00:00"
   },
   {
     "COMPE": "402",
@@ -5632,15 +5632,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-09-29",
     "DatePixStarted": "2023-03-24 09:10:00",
     "DateRegistered": "2021-05-05T09:11:12.7115147-03:00",
-    "DateUpdated": "2023-04-01T12:05:41.8694987+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7427867+00:00"
   },
   {
     "COMPE": "404",
@@ -5678,15 +5678,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-11-27",
     "DatePixStarted": "2023-03-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115144-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.4069127+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7196733+00:00"
   },
   {
     "COMPE": "407",
@@ -5796,15 +5796,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Destinatário",
     "Products": null,
     "Url": "https://www.bancocapital.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2022-09-01 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114859-03:00",
-    "DateUpdated": "2022-10-27T12:08:55.982745+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7511805+00:00"
   },
   {
     "COMPE": "413",
@@ -5819,15 +5819,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-05-21",
     "DatePixStarted": "2021-06-14 08:00:00",
     "DateRegistered": "2021-05-21T23:01:29.4844407-03:00",
-    "DateUpdated": "2023-12-01T12:06:08.2707077+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7244293+00:00"
   },
   {
     "COMPE": "414",
@@ -5911,15 +5911,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-03-18",
     "DatePixStarted": "2022-01-06 15:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115151-03:00",
-    "DateUpdated": "2022-01-05T11:00:33.9703822+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7482968+00:00"
   },
   {
     "COMPE": "421",
@@ -5934,15 +5934,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-07-21",
     "DatePixStarted": "2023-03-28 10:00:00",
     "DateRegistered": "2021-08-02T11:56:55.6601604-03:00",
-    "DateUpdated": "2023-03-22T12:07:29.6493938+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.747096+00:00"
   },
   {
     "COMPE": "422",
@@ -5957,8 +5957,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -5974,7 +5974,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115218-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1862149+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7346939+00:00"
   },
   {
     "COMPE": "423",
@@ -6012,8 +6012,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -6026,7 +6026,7 @@
     "DateOperationStarted": "2021-07-27",
     "DatePixStarted": "2022-12-30 10:00:00",
     "DateRegistered": "2021-08-02T11:56:55.6601087-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9699655+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7514316+00:00"
   },
   {
     "COMPE": "426",
@@ -6090,8 +6090,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Crédito Pessoal",
@@ -6101,7 +6101,7 @@
     "DateOperationStarted": "2021-04-20",
     "DatePixStarted": "2022-02-14 15:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115154-03:00",
-    "DateUpdated": "2023-11-08T12:05:58.1724765+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7437698+00:00"
   },
   {
     "COMPE": "429",
@@ -6116,8 +6116,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -6129,7 +6129,7 @@
     "DateOperationStarted": "2021-09-08",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-13T19:08:16.9817149-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9498506+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.743045+00:00"
   },
   {
     "COMPE": "430",
@@ -6190,15 +6190,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-08-27",
     "DatePixStarted": "2022-08-23 10:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926615-03:00",
-    "DateUpdated": "2022-08-10T12:06:36.5859495+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7440036+00:00"
   },
   {
     "COMPE": "438",
@@ -6236,15 +6236,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-09-30",
     "DatePixStarted": "2023-10-23 10:10:00",
     "DateRegistered": "2021-09-28T05:25:19.3476011-03:00",
-    "DateUpdated": "2023-10-24T12:06:12.8296442+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7463813+00:00"
   },
   {
     "COMPE": "440",
@@ -6420,15 +6420,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-10-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-10-23T20:55:03.4293187-03:00",
-    "DateUpdated": "2022-12-27T12:06:36.1117922+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7444605+00:00"
   },
   {
     "COMPE": "450",
@@ -6443,15 +6443,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-06-30",
     "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2022-10-29T12:07:14.5229596+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7454123+00:00"
   },
   {
     "COMPE": "451",
@@ -6558,15 +6558,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.br.bk.mufg.jp",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711525-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3459364+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7325708+00:00"
   },
   {
     "COMPE": "457",
@@ -6581,15 +6581,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-10-26",
     "DatePixStarted": "2023-04-17 10:04:25",
     "DateRegistered": "2021-10-23T20:55:03.4293722-03:00",
-    "DateUpdated": "2023-04-18T12:07:16.1884183+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7526008+00:00"
   },
   {
     "COMPE": "458",
@@ -6653,15 +6653,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-01-18",
     "DatePixStarted": "2024-03-05 08:30:00",
     "DateRegistered": "2022-02-01T08:17:39.0832328+00:00",
-    "DateUpdated": "2024-02-29T12:07:00.5168917+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7521413+00:00"
   },
   {
     "COMPE": "461",
@@ -6676,15 +6676,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-10-29",
     "DatePixStarted": "2021-11-01 09:00:00",
     "DateRegistered": "2021-11-22T11:00:23.6790202-03:00",
-    "DateUpdated": "2022-10-22T12:07:53.6397295+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7201875+00:00"
   },
   {
     "COMPE": "462",
@@ -6722,15 +6722,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-12-21",
     "DatePixStarted": null,
     "DateRegistered": "2022-01-05T11:00:34.5914098+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3057404+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7208906+00:00"
   },
   {
     "COMPE": "464",
@@ -6745,15 +6745,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.smbcgroup.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115254-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3532168+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7359196+00:00"
   },
   {
     "COMPE": "465",
@@ -6934,8 +6934,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Veículos"
@@ -6944,7 +6944,7 @@
     "DateOperationStarted": "2022-09-05",
     "DatePixStarted": null,
     "DateRegistered": "2022-09-02T12:07:04.257303+00:00",
-    "DateUpdated": "2023-03-25T12:06:52.930936+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7383112+00:00"
   },
   {
     "COMPE": "477",
@@ -6982,8 +6982,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Destinatário",
     "Products": [
       "Capital de Giro",
@@ -6997,7 +6997,7 @@
     "DateOperationStarted": "2022-03-21",
     "DatePixStarted": "2023-01-23 13:00:00",
     "DateRegistered": "2022-03-31T08:12:19.2479082+00:00",
-    "DateUpdated": "2023-10-21T12:05:56.9523959+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.745645+00:00"
   },
   {
     "COMPE": "479",
@@ -7035,15 +7035,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-08-29",
     "DatePixStarted": "2023-08-21 09:00:00",
     "DateRegistered": "2022-08-24T12:36:20.0513082+00:00",
-    "DateUpdated": "2023-08-30T15:00:46.7519457+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7519094+00:00"
   },
   {
     "COMPE": "482",
@@ -7104,15 +7104,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.deutsche-bank.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115354-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4029972+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7442314+00:00"
   },
   {
     "COMPE": "488",
@@ -7288,15 +7288,15 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-01-23",
     "DatePixStarted": "2023-09-28 17:40:00",
     "DateRegistered": "2023-03-03T14:56:55.3112604+00:00",
-    "DateUpdated": "2023-09-29T12:06:19.5545268+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7406928+00:00"
   },
   {
     "COMPE": "510",
@@ -7334,15 +7334,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-08-22",
     "DatePixStarted": "2023-04-24 10:00:00",
     "DateRegistered": "2022-08-16T12:32:57.3964844+00:00",
-    "DateUpdated": "2023-04-07T12:06:25.5094876+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7473282+00:00"
   },
   {
     "COMPE": "512",
@@ -7380,15 +7380,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-12-02",
     "DatePixStarted": null,
     "DateRegistered": "2022-11-30T12:07:13.9849611+00:00",
-    "DateUpdated": "2022-11-30T12:07:13.9849612+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7206326+00:00"
   },
   {
     "COMPE": "514",
@@ -7568,15 +7568,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-02-15",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-03T14:56:55.3112611+00:00",
-    "DateUpdated": "2023-04-11T12:06:56.2721903+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7458761+00:00"
   },
   {
     "COMPE": "524",
@@ -7683,15 +7683,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-03-06",
     "DatePixStarted": "2024-04-01 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
-    "DateUpdated": "2024-03-21T12:06:11.6874072+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7502547+00:00"
   },
   {
     "COMPE": "529",
@@ -7706,15 +7706,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-11-16",
     "DatePixStarted": "2023-06-07 09:15:00",
     "DateRegistered": "2022-11-12T12:06:34.2025683+00:00",
-    "DateUpdated": "2023-06-08T12:06:45.0495454+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7494567+00:00"
   },
   {
     "COMPE": "530",
@@ -7729,8 +7729,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capita de Giro PJ",
@@ -7742,7 +7742,7 @@
     "DateOperationStarted": "2023-03-14",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-09T12:07:29.7846292+00:00",
-    "DateUpdated": "2024-03-05T12:06:35.0883774+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7504877+00:00"
   },
   {
     "COMPE": "531",
@@ -8386,15 +8386,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-25",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347563+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7468657+00:00"
   },
   {
     "COMPE": "560",
@@ -8942,15 +8942,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-03-11",
     "DatePixStarted": null,
     "DateRegistered": "2024-03-05T12:06:35.1241273+00:00",
-    "DateUpdated": "2024-03-05T12:06:35.1241463+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.745152+00:00"
   },
   {
     "COMPE": "595",
@@ -9011,8 +9011,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -9024,7 +9024,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-12-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115232-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1819674+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7318363+00:00"
   },
   {
     "COMPE": "604",
@@ -9039,8 +9039,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -9050,7 +9050,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115033-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1812644+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7304132+00:00"
   },
   {
     "COMPE": "610",
@@ -9065,15 +9065,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.vrinvestimentos.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115452-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3543704+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7376237+00:00"
   },
   {
     "COMPE": "611",
@@ -9088,8 +9088,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -9100,7 +9100,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115321-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1838119+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7335337+00:00"
   },
   {
     "COMPE": "612",
@@ -9138,8 +9138,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Outros Créditos",
@@ -9150,7 +9150,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-05-27 08:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115268-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9571583+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7485284+00:00"
   },
   {
     "COMPE": "620",
@@ -9188,8 +9188,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": [
       "Cheque Especial",
@@ -9203,7 +9203,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711524-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1836566+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7333032+00:00"
   },
   {
     "COMPE": "626",
@@ -9244,15 +9244,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.intercap.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115221-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4026407+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7316055+00:00"
   },
   {
     "COMPE": "633",
@@ -9267,8 +9267,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -9280,7 +9280,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115412-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1855386+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7340032+00:00"
   },
   {
     "COMPE": "634",
@@ -9295,15 +9295,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha",
     "Products": null,
     "Url": "https://www.tribanco.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114888-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3692969+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7366747+00:00"
   },
   {
     "COMPE": "637",
@@ -9318,8 +9318,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": [
       "Cheque Especial",
@@ -9334,7 +9334,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115276-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1866965+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7356738+00:00"
   },
   {
     "COMPE": "643",
@@ -9349,8 +9349,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -9362,7 +9362,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115331-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1839625+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7337679+00:00"
   },
   {
     "COMPE": "652",
@@ -9400,15 +9400,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bip.b.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711528-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3484201+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7369308+00:00"
   },
   {
     "COMPE": "654",
@@ -9423,8 +9423,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -9437,7 +9437,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115485-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1790758+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7275492+00:00"
   },
   {
     "COMPE": "655",
@@ -9452,8 +9452,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -9469,7 +9469,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115243-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1879341+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.737394+00:00"
   },
   {
     "COMPE": "707",
@@ -9484,8 +9484,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -9501,7 +9501,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115338-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1780613+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7268243+00:00"
   },
   {
     "COMPE": "712",
@@ -9596,8 +9596,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -9609,7 +9609,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112988-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1857011+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7342353+00:00"
   },
   {
     "COMPE": "743",
@@ -9624,8 +9624,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
@@ -9635,7 +9635,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-12-22 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7113451-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1865122+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7351769+00:00"
   },
   {
     "COMPE": "745",
@@ -9650,8 +9650,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -9662,7 +9662,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-09-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115077-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.17636+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7251219+00:00"
   },
   {
     "COMPE": "746",
@@ -9723,8 +9723,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -9741,7 +9741,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114428-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1774569+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7255799+00:00"
   },
   {
     "COMPE": "751",
@@ -9779,8 +9779,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -9794,7 +9794,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2024-06-24 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114435-03:00",
-    "DateUpdated": "2024-04-16T12:06:24.0451055+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7231463+00:00"
   },
   {
     "COMPE": "753",
@@ -9809,8 +9809,8 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": [
       "Consignado"
@@ -9819,7 +9819,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2023-12-18 00:01:00",
     "DateRegistered": "2021-05-05T09:11:12.711543-03:00",
-    "DateUpdated": "2023-12-01T12:06:07.5471721+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7478206+00:00"
   },
   {
     "COMPE": "754",
@@ -9857,15 +9857,15 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.ml.com",
     "DateOperationStarted": "2007-11-09",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115324-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.4593738+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7390016+00:00"
   },
   {
     "COMPE": "756",
@@ -9880,8 +9880,8 @@
     "CreditDocument": true,
     "LegalCheque": true,
     "DetectaFlow": true,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Capital de Giro",
@@ -9898,7 +9898,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114457-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1772966+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7253513+00:00"
   },
   {
     "COMPE": "757",
@@ -9913,14 +9913,14 @@
     "CreditDocument": true,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancokeb.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2021-08-09 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114464-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4002203+00:00"
+    "DateUpdated": "2024-05-15T16:49:45.7313357+00:00"
   }
 ]

@@ -6,6 +6,427 @@
 
 ### 2024-05-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
+- Updated 139 banks
+  - 1 - BCO DO BRASIL S.A. - 00.000.000/0001-91
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 3 - BCO DA AMAZONIA S.A. - 04.902.979/0001-44
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 4 - BCO DO NORDESTE DO BRASIL S.A. - 07.237.373/0001-20
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 7 - BNDES - 33.657.248/0001-89
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 10 - CREDICOAMO - 81.723.108/0001-04
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 12 - BANCO INBURSA - 04.866.275/0001-63
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 16 - CCM DESP TRÂNS SC E RS - 04.715.685/0001-03
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 21 - BCO BANESTES S.A. - 28.127.603/0001-78
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 25 - BCO ALFA S.A. - 03.323.840/0001-83
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 33 - BCO SANTANDER (BRASIL) S.A. - 90.400.888/0001-42
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 37 - BCO DO EST. DO PA S.A. - 04.913.711/0001-08
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 41 - BCO DO ESTADO DO RS S.A. - 92.702.067/0001-96
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 47 - BCO DO EST. DE SE S.A. - 13.009.717/0001-46
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 69 - BCO CREFISA S.A. - 61.033.106/0001-86
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 70 - BRB - BCO DE BRASILIA S.A. - 00.000.208/0001-00
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 77 - BANCO INTER - 00.416.968/0001-01
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 81 - BANCOSEGURO S.A. - 10.264.663/0001-77
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 82 - BANCO TOPÁZIO S.A. - 07.679.404/0001-00
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 83 - BCO DA CHINA BRASIL S.A. - 10.690.848/0001-43
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 85 - COOPCENTRAL AILOS - 05.463.212/0001-29
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 89 - CREDISAN CC - 62.109.566/0001-03
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 93 - POLOCRED SCMEPP LTDA. - 07.945.233/0001-06
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 94 - BANCO FINAXIS - 11.758.741/0001-52
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 96 - BCO B3 S.A. - 00.997.185/0001-50
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 97 - CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA. - 04.632.856/0001-30
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 99 - UNIPRIME COOPCENTRAL LTDA. - 03.046.391/0001-73
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 104 - CAIXA ECONOMICA FEDERAL - 00.360.305/0001-04
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 107 - BCO BOCOM BBM S.A. - 15.114.366/0001-69
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 120 - BCO RODOBENS S.A. - 33.603.457/0001-40
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 121 - BCO AGIBANK S.A. - 10.664.513/0001-50
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 124 - BCO WOORI BANK DO BRASIL S.A. - 15.357.060/0001-33
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 125 - BANCO GENIAL - 45.246.410/0001-55
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 128 - BRAZA BANK S.A. BCO DE CÂMBIO - 19.307.785/0001-78
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 130 - CARUANA SCFI - 09.313.766/0001-09
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 132 - ICBC DO BRASIL BM S.A. - 17.453.575/0001-62
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 133 - CRESOL CONFEDERAÇÃO - 10.398.952/0001-69
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 136 - CONF NAC COOP CENTRAIS UNICRED - 00.315.557/0001-11
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 159 - CASA CREDITO S.A. SCM - 05.442.029/0001-47
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 174 - PEFISA S.A. - C.F.I. - 43.180.355/0001-12
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 190 - SERVICOOP - 03.973.814/0001-09
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 197 - STONE IP S.A. - 16.501.555/0001-57
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 208 - BANCO BTG PACTUAL S.A. - 30.306.294/0001-45
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 212 - BANCO ORIGINAL - 92.894.922/0001-08
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 213 - BCO ARBI S.A. - 54.403.563/0001-50
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 218 - BCO BS2 S.A. - 71.027.866/0001-34
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 224 - BCO FIBRA S.A. - 58.616.418/0001-08
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 237 - BCO BRADESCO S.A. - 60.746.948/0001-12
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 243 - BANCO MASTER - 33.923.798/0001-00
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 246 - BCO ABC BRASIL S.A. - 28.195.667/0001-06
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 254 - PARANA BCO S.A. - 14.388.334/0001-99
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 260 - NU PAGAMENTOS - IP - 18.236.120/0001-58
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 265 - BCO FATOR S.A. - 33.644.196/0001-06
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 266 - BCO CEDULA S.A. - 33.132.044/0001-24
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 269 - BCO HSBC S.A. - 53.518.684/0001-84
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 274 - BMP SCMEPP LTDA - 11.581.339/0001-45
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 276 - BCO SENFF S.A. - 11.970.623/0001-03
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 280 - WILL FINANCEIRA S.A.CFI - 23.862.762/0001-00
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 281 - CCR COOPAVEL - 76.461.557/0001-91
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 299 - BCO AFINZ S.A. - BM - 04.814.563/0001-74
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 300 - BCO LA NACION ARGENTINA - 33.042.151/0001-61
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 301 - DOCK IP S.A. - 13.370.835/0001-85
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 310 - VORTX DTVM LTDA. - 22.610.500/0001-88
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 318 - BCO BMG S.A. - 61.186.680/0001-74
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 320 - BCO CCB BRASIL S.A. - 07.450.604/0001-89
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 322 - CCR DE ABELARDO LUZ - 01.073.966/0001-11
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 323 - MERCADO PAGO IP LTDA. - 10.573.521/0001-91
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 324 - CARTOS SCD S.A. - 21.332.862/0001-91
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 329 - QI SCD S.A. - 32.402.502/0001-35
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 330 - BANCO BARI S.A. - 00.556.603/0001-74
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 336 - BCO C6 S.A. - 31.872.495/0001-72
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 341 - ITAÚ UNIBANCO S.A. - 60.701.190/0001-04
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 348 - BCO XP S.A. - 33.264.668/0001-03
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 359 - ZEMA CFI S/A - 05.351.887/0001-86
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 364 - EFÍ S.A. - IP - 09.089.356/0001-18
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 368 - BCO CSF S.A. - 08.357.240/0001-50
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 376 - BCO J.P. MORGAN S.A. - 33.172.537/0001-98
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 380 - PICPAY - 22.896.431/0001-10
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 387 - BCO TOYOTA DO BRASIL S.A. - 03.215.790/0001-10
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 389 - BCO MERCANTIL DO BRASIL S.A. - 17.184.037/0001-10
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 393 - BCO VOLKSWAGEN S.A - 59.109.165/0001-49
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 401 - IUGU IP S.A. - 15.111.975/0001-64
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 403 - CORA SCD S.A. - 37.880.206/0001-63
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 406 - ACCREDITO SCD S.A. - 37.715.993/0001-98
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 412 - SOCIAL BANK S/A - 15.173.776/0001-80
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 413 - BCO BV S.A. - 01.858.774/0001-10
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 419 - NUMBRS SCD S.A. - 38.129.006/0001-36
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 421 - CC LAR CREDI - 39.343.350/0001-96
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 422 - BCO SAFRA S.A. - 58.160.789/0001-28
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 425 - SOCINAL S.A. CFI - 03.881.423/0001-56
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 428 - CREDSYSTEM SCD S.A. - 39.664.698/0001-85
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 429 - CREDIARE CFI S.A. - 05.676.026/0001-78
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 435 - DELCRED SCD S.A. - 38.224.857/0001-68
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 439 - ID CTVM - 16.695.922/0001-09
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 449 - DM - 37.555.231/0001-71
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 450 - FITBANK IP - 13.203.354/0001-85
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 456 - BCO MUFG BRASIL S.A. - 60.498.557/0001-26
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 457 - UY3 SCD S/A - 39.587.424/0001-30
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 460 - UNAVANTI SCD S/A - 42.047.025/0001-90
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 461 - ASAAS IP S.A. - 19.540.550/0001-21
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 463 - AZUMI DTVM - 40.434.681/0001-10
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 464 - BCO SUMITOMO MITSUI BRASIL S.A. - 60.518.222/0001-22
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 475 - BCO YAMAHA MOTOR S.A. - 10.371.492/0001-85
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 478 - GAZINCRED S.A. SCFI - 11.760.553/0001-69
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 481 - SUPERLÓGICA SCD S.A. - 43.599.047/0001-26
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 487 - DEUTSCHE BANK S.A.BCO ALEMAO - 62.331.228/0001-11
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 509 - CELCOIN IP S.A. - 13.935.893/0001-09
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 511 - MAGNUM SCD - 44.683.140/0001-87
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 513 - ATF CREDIT SCD S.A. - 44.728.700/0001-72
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 528 - REAG DTVM S.A. - 34.829.992/0001-86
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 529 - PINBANK IP - 17.079.937/0001-05
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 530 - SER FINANCE SCD S.A. - 47.873.449/0001-28
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 559 - KANASTRA SCD - 49.288.113/0001-23
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 594 - EMBRACRED S/A SCD - 48.703.388/0001-13
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 600 - BCO LUSO BRASILEIRO S.A. - 59.118.133/0001-00
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 604 - BCO INDUSTRIAL DO BRASIL S.A. - 31.895.683/0001-16
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 610 - BCO VR S.A. - 78.626.983/0001-63
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 611 - BCO PAULISTA S.A. - 61.820.817/0001-09
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 613 - OMNI BANCO S.A. - 60.850.229/0001-47
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 623 - BANCO PAN - 59.285.411/0001-13
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 630 - BCO LETSBANK S.A. - 58.497.702/0001-02
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 633 - BCO RENDIMENTO S.A. - 68.900.810/0001-38
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 634 - BCO TRIANGULO S.A. - 17.351.180/0001-59
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 637 - BCO SOFISA S.A. - 60.889.128/0001-80
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 643 - BCO PINE S.A. - 62.144.175/0001-20
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 653 - BANCO VOITER - 61.024.352/0001-71
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 654 - BCO DIGIMAIS S.A. - 92.874.270/0001-40
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 655 - BCO VOTORANTIM S.A. - 59.588.111/0001-03
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 707 - BCO DAYCOVAL S.A - 62.232.889/0001-90
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 741 - BCO RIBEIRAO PRETO S.A. - 00.517.645/0001-04
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 743 - BANCO SEMEAR - 00.795.423/0001-45
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 745 - BCO CITIBANK S.A. - 33.479.023/0001-80
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 748 - BCO COOPERATIVO SICREDI S.A. - 01.181.521/0001-55
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 752 - BCO BNP PARIBAS BRASIL S A - 01.522.368/0001-82
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 753 - NOVO BCO CONTINENTAL S.A. - BM - 74.828.799/0001-45
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 755 - BOFA MERRILL LYNCH BM S.A. - 62.073.200/0001-21
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 757 - BCO KEB HANA DO BRASIL S.A. - 02.318.507/0001-13
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+
+### 2024-05-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
 - Updated 1 bank
   - 321 - CREFAZ SCMEPP SA - 18.188.384/0001-83
     - **ShortName** (STR): CREFAZ SCMEPP LTDA **->** CREFAZ SCMEPP SA

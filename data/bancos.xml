@@ -13,8 +13,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -30,7 +30,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7109988-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1793808Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7277793Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>003</COMPE>
@@ -45,8 +45,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -60,7 +60,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114564-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1779135Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7263433Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>004</COMPE>
@@ -75,8 +75,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Outros Créditos</Product>
@@ -87,7 +87,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114613-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1800231Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7287428Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>007</COMPE>
@@ -100,12 +100,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.bndes.gov.br/wps/portal/site/home</Url>
     <DateOperationStarted>2014-06-30</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115088-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3507277Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7328021Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>010</COMPE>
@@ -119,14 +119,14 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Url>https://www.credicoamo.com.br/</Url>
     <DateOperationStarted>2012-12-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115464-03:00</DateRegistered>
-    <DateUpdated>2023-06-23T17:11:26.6695969Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7432826Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>011</COMPE>
@@ -159,8 +159,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Outros Créditos.</Product>
@@ -171,7 +171,7 @@
     <DateOperationStarted>2017-05-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711456-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.181094Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7301824Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>014</COMPE>
@@ -222,8 +222,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -239,7 +239,7 @@
     <DateOperationStarted>2012-05-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114553-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.5629674Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.742098Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>017</COMPE>
@@ -292,8 +292,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -309,7 +309,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114987-03:00</DateRegistered>
-    <DateUpdated>2024-04-19T12:06:51.9235635Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7387704Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>024</COMPE>
@@ -343,8 +343,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -354,7 +354,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114509-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1745344Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7218759Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>029</COMPE>
@@ -395,8 +395,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -411,7 +411,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115471-03:00</DateRegistered>
-    <DateUpdated>2024-03-19T12:06:49.0998085Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.734926Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>036</COMPE>
@@ -445,8 +445,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -460,7 +460,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114571-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1797109Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7282706Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>040</COMPE>
@@ -494,8 +494,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -511,7 +511,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115478-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1798658Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7285067Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>047</COMPE>
@@ -526,8 +526,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -543,7 +543,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114799-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1795496Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7280086Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>060</COMPE>
@@ -678,8 +678,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -689,7 +689,7 @@
     <DateOperationStarted>2005-11-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115283-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.177609Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7258094Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>070</COMPE>
@@ -704,8 +704,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -717,7 +717,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7111961-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1897774Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.727055Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>074</COMPE>
@@ -789,8 +789,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -803,7 +803,7 @@
     <DateOperationStarted>2008-08-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112852-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1814264Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.730644Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>078</COMPE>
@@ -875,8 +875,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -885,7 +885,7 @@
     <DateOperationStarted>2008-10-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114701-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1882772Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7385406Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>082</COMPE>
@@ -900,8 +900,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -914,7 +914,7 @@
     <DateOperationStarted>2009-06-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114631-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1868471Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7361503Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>083</COMPE>
@@ -928,12 +928,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.boc-brazil.com</Url>
     <DateOperationStarted>2009-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114715-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3451705Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7265882Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>084</COMPE>
@@ -947,8 +947,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -960,7 +960,7 @@
     <DateOperationStarted>2009-11-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114472-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9686568Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7509507Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>085</COMPE>
@@ -974,8 +974,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -991,7 +991,7 @@
     <DateOperationStarted>2010-05-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114586-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.196962Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7416394Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>088</COMPE>
@@ -1026,8 +1026,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Catapital de Giro</Product>
       <Product>Crédito Consignado</Product>
@@ -1040,7 +1040,7 @@
     <DateOperationStarted>2010-08-30</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115328-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9500273Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7435348Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>091</COMPE>
@@ -1090,13 +1090,13 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.polocred.com.br/</Url>
     <DateOperationStarted>2010-11-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114642-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0782931Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.74978Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>094</COMPE>
@@ -1110,12 +1110,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.finaxis.com.br</Url>
     <DateOperationStarted>2010-08-23</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114788-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.347466Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7294369Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>095</COMPE>
@@ -1151,13 +1151,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.bmfbovespa.com.br/bancobmfbovespa/</Url>
     <DateOperationStarted>2004-11-12</DateOperationStarted>
     <DatePixStarted>2023-09-11 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711375-03:00</DateRegistered>
-    <DateUpdated>2023-09-02T12:05:07.7442102Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7223453Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>097</COMPE>
@@ -1171,14 +1171,14 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Url>https://credisis.com.br/</Url>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114549-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0767922Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7418689Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>098</COMPE>
@@ -1212,8 +1212,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -1229,7 +1229,7 @@
     <DateOperationStarted>2011-01-11</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114498-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9718001Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7523717Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>100</COMPE>
@@ -1298,8 +1298,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -1314,7 +1314,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112717-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1910467Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7397678Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>105</COMPE>
@@ -1351,12 +1351,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.bancobbm.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114855-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3411358Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7233843Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>108</COMPE>
@@ -1493,8 +1493,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -1505,7 +1505,7 @@
     <Url>https://www.rodobens.com.br</Url>
     <DateOperationStarted>2012-02-06</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115081-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.18606Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.734465Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>121</COMPE>
@@ -1520,8 +1520,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -1533,7 +1533,7 @@
     <DateOperationStarted>2012-04-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114712-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1735916Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7216246Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>122</COMPE>
@@ -1567,14 +1567,14 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.wooribank.com.br</Url>
     <DateOperationStarted>2012-08-09</DateOperationStarted>
     <DatePixStarted>2021-04-27 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114862-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3693123Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7378531Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>125</COMPE>
@@ -1588,14 +1588,14 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115172-03:00</DateRegistered>
-    <DateUpdated>2024-05-10T12:06:06.1459093Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7297188Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>126</COMPE>
@@ -1643,12 +1643,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.msbank.com.br</Url>
     <DateOperationStarted>2015-04-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114919-03:00</DateRegistered>
-    <DateUpdated>2023-04-13T12:07:26.5898227Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7394853Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>129</COMPE>
@@ -1680,13 +1680,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2013-08-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114682-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4009564Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7402304Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>131</COMPE>
@@ -1717,12 +1717,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.icbc.com.cn</Url>
     <DateOperationStarted>2013-09-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114895-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3609804Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7461071Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>133</COMPE>
@@ -1736,8 +1736,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -1752,7 +1752,7 @@
     <DateOperationStarted>2016-05-02</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114705-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1956945Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7411774Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>134</COMPE>
@@ -1783,8 +1783,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -1799,7 +1799,7 @@
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112437-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1958664Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.74141Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>138</COMPE>
@@ -2008,12 +2008,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2017-09-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114582-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3577168Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7404616Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>163</COMPE>
@@ -2062,8 +2062,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Outros Créditos</Product>
@@ -2072,7 +2072,7 @@
     <DateOperationStarted>2017-11-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115165-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9587328Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7489942Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>177</COMPE>
@@ -2195,11 +2195,11 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2017-10-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0762144Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7507194Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>191</COMPE>
@@ -2281,13 +2281,13 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711487-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3712081Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7516792Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>208</COMPE>
@@ -2302,8 +2302,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -2319,7 +2319,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115006-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.17575Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7241977Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>212</COMPE>
@@ -2334,8 +2334,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -2349,7 +2349,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115492-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1834688Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7330701Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>213</COMPE>
@@ -2364,8 +2364,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -2374,7 +2374,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115206-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5477639Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7221106Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>217</COMPE>
@@ -2408,8 +2408,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -2418,7 +2418,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115415-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5478121Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7239648Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>222</COMPE>
@@ -2452,8 +2452,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -2466,7 +2466,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115225-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1801861Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7292056Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>233</COMPE>
@@ -2500,8 +2500,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -2516,7 +2516,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115261-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1755602Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7236929Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>241</COMPE>
@@ -2550,8 +2550,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -2566,7 +2566,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115103-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1821252Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7320781Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>246</COMPE>
@@ -2581,8 +2581,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -2595,7 +2595,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114992-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.173367Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7211399Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>249</COMPE>
@@ -2664,8 +2664,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -2677,7 +2677,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114844-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9584847Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7487618Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>259</COMPE>
@@ -2708,13 +2708,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2017-10-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114912-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4015261Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7480643Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>265</COMPE>
@@ -2728,12 +2728,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.fator.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115084-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4020183Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7289723Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>266</COMPE>
@@ -2747,12 +2747,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.bancocedula.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115058-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3432427Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7248926Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>268</COMPE>
@@ -2789,12 +2789,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2018-02-07</DateOperationStarted>
     <DatePixStarted>2022-01-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115202-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3480393Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7299517Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>270</COMPE>
@@ -2878,8 +2878,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Outros Créditos</Product>
@@ -2889,7 +2889,7 @@
     <DateOperationStarted>2019-09-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114738-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1888784Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7392307Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>276</COMPE>
@@ -2903,15 +2903,15 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
     </Products>
     <DateOperationStarted>2018-06-12</DateOperationStarted>
     <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114792-03:00</DateRegistered>
-    <DateUpdated>2022-07-27T12:06:28.7958806Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7354342Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>278</COMPE>
@@ -2962,8 +2962,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Crédito Pessoal</Product>
       <Product>Troca de Modalidade</Product>
@@ -2971,7 +2971,7 @@
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DatePixStarted>2024-03-19 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
-    <DateUpdated>2024-03-14T12:07:16.0911871Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7530639Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>281</COMPE>
@@ -2985,12 +2985,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2018-11-05</DateOperationStarted>
     <DatePixStarted>2021-06-10 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115437-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.360395Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7423278Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>283</COMPE>
@@ -3179,8 +3179,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal e Veículos</Product>
@@ -3188,7 +3188,7 @@
     <DateOperationStarted>2018-12-03</DateOperationStarted>
     <DatePixStarted>2023-05-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114556-03:00</DateRegistered>
-    <DateUpdated>2023-04-05T12:07:18.1432351Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7213826Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>300</COMPE>
@@ -3202,12 +3202,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.bna.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115051-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3457429Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7272868Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>301</COMPE>
@@ -3221,12 +3221,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2018-09-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114822-03:00</DateRegistered>
-    <DateUpdated>2022-09-29T12:08:26.1905846Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7446912Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>305</COMPE>
@@ -3308,12 +3308,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2018-10-18</DateOperationStarted>
     <DatePixStarted>2023-03-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114937-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3059096Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7528311Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>311</COMPE>
@@ -3398,8 +3398,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -3412,7 +3412,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115294-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1749154Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7229067Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>319</COMPE>
@@ -3443,12 +3443,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.br.ccb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114616-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4007514Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7409226Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>321</COMPE>
@@ -3479,13 +3479,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco Folha</SalaryPortability>
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DatePixStarted>2022-03-14 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114423-03:00</DateRegistered>
-    <DateUpdated>2023-10-20T12:06:29.507013Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7425568Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>323</COMPE>
@@ -3499,13 +3499,13 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2019-06-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114708-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.370529Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7475881Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>324</COMPE>
@@ -3519,8 +3519,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -3530,7 +3530,7 @@
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114933-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1912056Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7400004Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>325</COMPE>
@@ -3601,8 +3601,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -3613,7 +3613,7 @@
     <DateOperationStarted>2019-04-30</DateOperationStarted>
     <DatePixStarted>2021-06-14 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711504-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9601055Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7500219Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>330</COMPE>
@@ -3627,8 +3627,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -3639,7 +3639,7 @@
     <DateOperationStarted>2019-07-22</DateOperationStarted>
     <DatePixStarted>2021-02-25 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7113173-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1747386Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.722633Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>331</COMPE>
@@ -3734,8 +3734,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -3750,7 +3750,7 @@
     <DateOperationStarted>2019-01-31</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115026-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.176051Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7246608Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>340</COMPE>
@@ -3784,8 +3784,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -3801,7 +3801,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115257-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1817233Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7308751Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>342</COMPE>
@@ -3851,8 +3851,8 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -3862,7 +3862,7 @@
     <DateOperationStarted>2019-11-01</DateOperationStarted>
     <DatePixStarted>2021-06-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115069-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1880933Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7380814Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>349</COMPE>
@@ -4000,8 +4000,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
@@ -4013,7 +4013,7 @@
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114578-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9723054Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7533301Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>360</COMPE>
@@ -4080,13 +4080,13 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114668-03:00</DateRegistered>
-    <DateUpdated>2023-06-23T17:11:26.6713081Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7449214Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>365</COMPE>
@@ -4156,8 +4156,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Crédito consignado</Product>
       <Product>Troca de modalidade.</Product>
@@ -4166,7 +4166,7 @@
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1777644Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.726081Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>370</COMPE>
@@ -4267,8 +4267,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Pessoal</Product>
     </Products>
@@ -4276,7 +4276,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2022-10-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115066-03:00</DateRegistered>
-    <DateUpdated>2022-09-23T12:08:11.8249103Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7311056Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>377</COMPE>
@@ -4354,14 +4354,14 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.picpay.com.br</Url>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114941-03:00</DateRegistered>
-    <DateUpdated>2022-09-10T12:06:04.1466825Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7492256Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>381</COMPE>
@@ -4494,15 +4494,15 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancotoyota.com.br</Url>
     <DateOperationStarted>2020-07-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114501-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:51:34.5528899Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7364295Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>389</COMPE>
@@ -4517,8 +4517,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -4533,7 +4533,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114881-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1822773Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7323096Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>390</COMPE>
@@ -4587,8 +4587,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
@@ -4598,7 +4598,7 @@
     <Url>https://www.bancovw.com.br</Url>
     <DateOperationStarted>2020-08-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115229-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1870296Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7371618Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>394</COMPE>
@@ -4747,12 +4747,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-05-06</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114851-03:00</DateRegistered>
-    <DateUpdated>2022-08-31T12:06:42.9463093Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7466356Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>402</COMPE>
@@ -4785,12 +4785,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
-    <DateUpdated>2023-04-01T12:05:41.8694987Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7427867Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>404</COMPE>
@@ -4823,12 +4823,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2020-11-27</DateOperationStarted>
     <DatePixStarted>2023-03-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115144-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.4069127Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7196733Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>407</COMPE>
@@ -4923,14 +4923,14 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Url>https://www.bancocapital.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2022-09-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114859-03:00</DateRegistered>
-    <DateUpdated>2022-10-27T12:08:55.982745Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7511805Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>413</COMPE>
@@ -4944,13 +4944,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DatePixStarted>2021-06-14 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-21T23:01:29.4844407-03:00</DateRegistered>
-    <DateUpdated>2023-12-01T12:06:08.2707077Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7244293Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>414</COMPE>
@@ -5015,12 +5015,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <DateOperationStarted>2021-03-18</DateOperationStarted>
     <DatePixStarted>2022-01-06 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115151-03:00</DateRegistered>
-    <DateUpdated>2022-01-05T11:00:33.9703822Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7482968Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>421</COMPE>
@@ -5034,12 +5034,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-07-21</DateOperationStarted>
     <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601604-03:00</DateRegistered>
-    <DateUpdated>2023-03-22T12:07:29.6493938Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.747096Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>422</COMPE>
@@ -5054,8 +5054,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -5071,7 +5071,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115218-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1862149Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7346939Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>423</COMPE>
@@ -5102,8 +5102,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -5114,7 +5114,7 @@
     <DateOperationStarted>2021-07-27</DateOperationStarted>
     <DatePixStarted>2022-12-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601087-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9699655Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7514316Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>426</COMPE>
@@ -5168,8 +5168,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Crédito Pessoal</Product>
       <Product>Troca de Modalidade</Product>
@@ -5177,7 +5177,7 @@
     <DateOperationStarted>2021-04-20</DateOperationStarted>
     <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115154-03:00</DateRegistered>
-    <DateUpdated>2023-11-08T12:05:58.1724765Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7437698Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>429</COMPE>
@@ -5190,8 +5190,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -5200,7 +5200,7 @@
     </Products>
     <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817149-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9498506Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.743045Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>430</COMPE>
@@ -5251,12 +5251,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-08-23 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926615-03:00</DateRegistered>
-    <DateUpdated>2022-08-10T12:06:36.5859495Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7440036Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>438</COMPE>
@@ -5287,12 +5287,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-09-30</DateOperationStarted>
     <DatePixStarted>2023-10-23 10:10:00</DatePixStarted>
     <DateRegistered>2021-09-28T05:25:19.3476011-03:00</DateRegistered>
-    <DateUpdated>2023-10-24T12:06:12.8296442Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7463813Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>440</COMPE>
@@ -5426,11 +5426,11 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-10-22</DateOperationStarted>
     <DateRegistered>2021-10-23T20:55:03.4293187-03:00</DateRegistered>
-    <DateUpdated>2022-12-27T12:06:36.1117922Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7444605Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>450</COMPE>
@@ -5444,12 +5444,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
-    <DateUpdated>2022-10-29T12:07:14.5229596Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7454123Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>451</COMPE>
@@ -5535,12 +5535,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.br.bk.mufg.jp</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711525-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3459364Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7325708Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>457</COMPE>
@@ -5554,12 +5554,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-10-26</DateOperationStarted>
     <DatePixStarted>2023-04-17 10:04:25</DatePixStarted>
     <DateRegistered>2021-10-23T20:55:03.4293722-03:00</DateRegistered>
-    <DateUpdated>2023-04-18T12:07:16.1884183Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7526008Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>458</COMPE>
@@ -5611,12 +5611,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <DateOperationStarted>2022-01-18</DateOperationStarted>
     <DatePixStarted>2024-03-05 08:30:00</DatePixStarted>
     <DateRegistered>2022-02-01T08:17:39.0832328Z</DateRegistered>
-    <DateUpdated>2024-02-29T12:07:00.5168917Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7521413Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>461</COMPE>
@@ -5630,12 +5630,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <DateOperationStarted>2021-10-29</DateOperationStarted>
     <DatePixStarted>2021-11-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-11-22T11:00:23.6790202-03:00</DateRegistered>
-    <DateUpdated>2022-10-22T12:07:53.6397295Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7201875Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>462</COMPE>
@@ -5667,11 +5667,11 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2021-12-21</DateOperationStarted>
     <DateRegistered>2022-01-05T11:00:34.5914098Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3057404Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7208906Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>464</COMPE>
@@ -5685,12 +5685,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.smbcgroup.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115254-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3532168Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7359196Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>465</COMPE>
@@ -5836,14 +5836,14 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Veículos</Product>
     </Products>
     <DateOperationStarted>2022-09-05</DateOperationStarted>
     <DateRegistered>2022-09-02T12:07:04.257303Z</DateRegistered>
-    <DateUpdated>2023-03-25T12:06:52.930936Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7383112Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>477</COMPE>
@@ -5876,8 +5876,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -5890,7 +5890,7 @@
     <DateOperationStarted>2022-03-21</DateOperationStarted>
     <DatePixStarted>2023-01-23 13:00:00</DatePixStarted>
     <DateRegistered>2022-03-31T08:12:19.2479082Z</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9523959Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.745645Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>479</COMPE>
@@ -5922,12 +5922,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2022-08-29</DateOperationStarted>
     <DatePixStarted>2023-08-21 09:00:00</DatePixStarted>
     <DateRegistered>2022-08-24T12:36:20.0513082Z</DateRegistered>
-    <DateUpdated>2023-08-30T15:00:46.7519457Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7519094Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>482</COMPE>
@@ -5975,12 +5975,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.deutsche-bank.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115354-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4029972Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7442314Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>488</COMPE>
@@ -6120,12 +6120,12 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2023-01-23</DateOperationStarted>
     <DatePixStarted>2023-09-28 17:40:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
-    <DateUpdated>2023-09-29T12:06:19.5545268Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7406928Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>510</COMPE>
@@ -6158,12 +6158,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2022-08-22</DateOperationStarted>
     <DatePixStarted>2023-04-24 10:00:00</DatePixStarted>
     <DateRegistered>2022-08-16T12:32:57.3964844Z</DateRegistered>
-    <DateUpdated>2023-04-07T12:06:25.5094876Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7473282Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>512</COMPE>
@@ -6193,11 +6193,11 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <DateOperationStarted>2022-12-02</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.9849611Z</DateRegistered>
-    <DateUpdated>2022-11-30T12:07:13.9849612Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7206326Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>514</COMPE>
@@ -6334,11 +6334,11 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2023-02-15</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
-    <DateUpdated>2023-04-11T12:06:56.2721903Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7458761Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>524</COMPE>
@@ -6422,12 +6422,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2024-04-01 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
-    <DateUpdated>2024-03-21T12:06:11.6874072Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7502547Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>529</COMPE>
@@ -6441,12 +6441,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2022-11-16</DateOperationStarted>
     <DatePixStarted>2023-06-07 09:15:00</DatePixStarted>
     <DateRegistered>2022-11-12T12:06:34.2025683Z</DateRegistered>
-    <DateUpdated>2023-06-08T12:06:45.0495454Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7494567Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>530</COMPE>
@@ -6459,8 +6459,8 @@
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capita de Giro PJ</Product>
       <Product>Crédito Consignado</Product>
@@ -6469,7 +6469,7 @@
     </Products>
     <DateOperationStarted>2023-03-14</DateOperationStarted>
     <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
-    <DateUpdated>2024-03-05T12:06:35.0883774Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7504877Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>531</COMPE>
@@ -6966,11 +6966,11 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2023-09-25</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.1347563Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7468657Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>560</COMPE>
@@ -7391,11 +7391,11 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <DateOperationStarted>2024-03-11</DateOperationStarted>
     <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
-    <DateUpdated>2024-03-05T12:06:35.1241463Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.745152Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>595</COMPE>
@@ -7448,8 +7448,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -7460,7 +7460,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115232-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1819674Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7318363Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>604</COMPE>
@@ -7475,8 +7475,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
@@ -7485,7 +7485,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115033-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1812644Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7304132Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>610</COMPE>
@@ -7500,13 +7500,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.vrinvestimentos.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115452-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3543704Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7376237Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>611</COMPE>
@@ -7520,8 +7520,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -7530,7 +7530,7 @@
     <Url>https://www.bancopaulista.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115321-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1838119Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7335337Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>612</COMPE>
@@ -7566,8 +7566,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
@@ -7577,7 +7577,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-27 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115268-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9571583Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7485284Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>620</COMPE>
@@ -7609,8 +7609,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -7624,7 +7624,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711524-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1836566Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7333032Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>626</COMPE>
@@ -7660,13 +7660,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.intercap.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115221-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4026407Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7316055Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>633</COMPE>
@@ -7681,8 +7681,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -7693,7 +7693,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115412-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1855386Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7340032Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>634</COMPE>
@@ -7708,14 +7708,14 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha</SalaryPortability>
     <Url>https://www.tribanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114888-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3692969Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7366747Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>637</COMPE>
@@ -7730,8 +7730,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
@@ -7746,7 +7746,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115276-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1866965Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7356738Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>643</COMPE>
@@ -7761,8 +7761,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
@@ -7773,7 +7773,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115331-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1839625Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7337679Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>652</COMPE>
@@ -7807,13 +7807,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.bip.b.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711528-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3484201Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7369308Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>654</COMPE>
@@ -7827,8 +7827,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Consignado</Product>
@@ -7839,7 +7839,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115485-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1790758Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7275492Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>655</COMPE>
@@ -7854,8 +7854,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -7871,7 +7871,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115243-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1879341Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.737394Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
@@ -7886,8 +7886,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -7902,7 +7902,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115338-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1780613Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7268243Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>712</COMPE>
@@ -7990,8 +7990,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -8002,7 +8002,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112988-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1857011Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7342353Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>743</COMPE>
@@ -8017,8 +8017,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
@@ -8028,7 +8028,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-22 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7113451-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1865122Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7351769Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>745</COMPE>
@@ -8043,8 +8043,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Consignado</Product>
       <Product>Imobiliário</Product>
@@ -8054,7 +8054,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-09-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115077-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.17636Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7251219Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>746</COMPE>
@@ -8110,8 +8110,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -8128,7 +8128,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114428-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1774569Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7255799Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>751</COMPE>
@@ -8162,8 +8162,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Consiginado</Product>
@@ -8176,7 +8176,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2024-06-24 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114435-03:00</DateRegistered>
-    <DateUpdated>2024-04-16T12:06:24.0451055Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7231463Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>753</COMPE>
@@ -8191,8 +8191,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Products>
       <Product>Consignado</Product>
     </Products>
@@ -8200,7 +8200,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2023-12-18 00:01:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711543-03:00</DateRegistered>
-    <DateUpdated>2023-12-01T12:06:07.5471721Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7478206Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>754</COMPE>
@@ -8234,13 +8234,13 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url>https://www.ml.com</Url>
     <DateOperationStarted>2007-11-09</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115324-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.4593738Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7390016Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>756</COMPE>
@@ -8255,8 +8255,8 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>true</LegalCheque>
     <DetectaFLow>true</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
@@ -8273,7 +8273,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114457-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1772966Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7253513Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>757</COMPE>
@@ -8288,12 +8288,12 @@
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url>https://www.bancokeb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114464-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4002203Z</DateUpdated>
+    <DateUpdated>2024-05-15T16:49:45.7313357Z</DateUpdated>
   </bank>
 </banks>
