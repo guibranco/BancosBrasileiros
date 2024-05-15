@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-05-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 321 - CREFAZ SCMEPP SA - 18.188.384/0001-83
+    - **ShortName** (STR): CREFAZ SCMEPP LTDA **->** CREFAZ SCMEPP SA
+
 ### 20204-05-15 - [GuiBranco](https://github.com/guibranco)
 
 - [Issue #360](https://github.com/guibranco/BancosBrasileiros/issues/360) - Add PCR/PCRP source
