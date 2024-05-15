@@ -53,6 +53,12 @@ data class BankElement (
     @Json("DetectaFLow")
     val detectaFlow: Boolean,
 
+    @Json("Pcr")
+    val pcr: Boolean,
+
+    @Json("Pcrp")
+    val pcrp: Boolean,
+
     @Json("SalaryPortability")
     val salaryPortability: String? = null,
 

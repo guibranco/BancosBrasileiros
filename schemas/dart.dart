@@ -11,6 +11,9 @@ class BankDTO {
   bool _CreditDocument;
   bool _LegalCheque;
   bool _DetectaFlow;
+  bool _Pcr;
+  bool _Pcrp;
+
   String _SalaryPortability;
   List<String> _Products;
   String _Url;
@@ -32,6 +35,8 @@ class BankDTO {
     bool CreditDocument,
     bool LegalCheque,
     bool DetectaFlow,
+    bool Pcr,
+    bool Pcrp,
     String SalaryPortability,
     List<String> Products,
     String Url,
@@ -52,6 +57,8 @@ class BankDTO {
     _CreditDocument = CreditDocument;
     _LegalCheque = LegalCheque;
     _DetectaFlow = DetectaFlow;
+    _Pcr = Pcr;
+    _Pcrp = Pcrp;
     _SalaryPortability = SalaryPortability;
     _Products = Products;
     _Url = Url;
@@ -74,6 +81,8 @@ class BankDTO {
   bool get CreditDocument => _CreditDocument;
   bool get LegalCheque => _LegalCheque;
   bool get DetectaFlow => _DetectaFlow;
+  bool get Pcr => _Pcr;
+  bool get Pcrp => _Pcrp;
   String get SalaryPortability => _SalaryPortability;
   List<String> get Products => _Products;
   String get Url => _Url;
@@ -95,6 +104,8 @@ class BankDTO {
   set CreditDocument(bool value) => _CreditDocument = value;
   set LegalCheque(bool value) => _LegalCheque = value;
   set DetectaFlow(bool value) => _DetectaFlow = value;
+  set Pcr(bool value) => _Pcr = value;
+  set Pcrp(bool value) => _Pcrp = value;
   set SalaryPortability(String value) => _SalaryPortability = value;
   set Products(List<String> value) => _Products = value;
   set Url(String value) => _Url = value;
@@ -117,6 +128,8 @@ class BankDTO {
       'CreditDocument': _CreditDocument,
       'LegalCheque': _LegalCheque,
       'DetectaFlow': _DetectaFlow,
+      'Pcr': _Pcr,
+      'Pcrp': _Pcrp,
       'SalaryPortability': _SalaryPortability,
       'Products': _Products,
       'Url': _Url,
@@ -141,6 +154,8 @@ class BankDTO {
       CreditDocument: json['CreditDocument'],
       LegalCheque: json['LegalCheque'],
       DetectaFlow: json['DetectaFlow'],
+      Pcr: json['Pcr'],
+      Pcrp: json['Pcrp'],
       SalaryPortability: json['SalaryPortability'],
       Products: List<String>.from(json['Products']),
       Url: json['Url'],

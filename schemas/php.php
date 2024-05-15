@@ -38,6 +38,12 @@ class Bank
     /** @var bool **/
     public $DetectaFlow;
 
+    /** @var bool **/
+    public $Pcr;
+
+    /** @var bool **/
+    public $Pcrp;
+
     /** @var string|null */
     public $SalaryPortability;
 

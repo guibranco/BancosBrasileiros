@@ -11,6 +11,8 @@ class BankDTO {
   bool? _CreditDocument;
   bool? _LegalCheque;
   bool? _DetectaFlow;
+  bool? _Pcr;
+  bool? _Pcrp;
   String? _SalaryPortability;
   List<String?>? _Products;
   String? _Url;
@@ -32,6 +34,8 @@ class BankDTO {
       this._CreditDocument,
       this._LegalCheque,
       this._DetectaFlow,
+      this._Pcr,
+      this._Pcrp,
       this._SalaryPortability,
       this._Products,
       this._Url,
@@ -64,6 +68,10 @@ class BankDTO {
   bool? get LegalCheque => _LegalCheque;
 
   bool? get DetectaFlow => _DetectaFlow;
+
+  bool? get Pcr => _Pcr;
+
+  bool? get Pcrp => _Pcrp;
 
   String? get SalaryPortability => _SalaryPortability;
 
@@ -104,6 +112,10 @@ class BankDTO {
 
   set DetectaFlow(bool? value) => _DetectaFlow = value;
 
+  set Pcr(bool? value) => _Pcr = value;
+
+  set Pcrp(bool? value) => _Pcrp = value;
+
   set SalaryPortability(String? value) => _SalaryPortability = value;
 
   set Products(List<String?>? value) => _Products = value;
@@ -132,6 +144,8 @@ class BankDTO {
       'CreditDocument': _CreditDocument,
       'LegalCheque': _LegalCheque,
       'DetectaFlow': _DetectaFlow,
+      'Pcr': _Pcr,
+      'Pcrp': _Pcrp,
       'SalaryPortability': _SalaryPortability,
       'Products': _Products,
       'Url': _Url,
@@ -156,6 +170,8 @@ class BankDTO {
       json['CreditDocument'],
       json['LegalCheque'],
       json['DetectaFlow'],
+      json['Pcr'],
+      json['Pcrp'],
       json['SalaryPortability'],
       List<String?>.from(json['Products'] ?? []),
       json['Url'],
@@ -181,6 +197,8 @@ class BankDTO {
         '"CreditDocument": $CreditDocument, '
         '"LegalCheque": $LegalCheque, '
         '"DetectaFlow": $DetectaFlow, '
+        '"Pcr": $Pcr, '
+        '"Pcrp": $Pcrp, '
         '"SalaryPortability": "$SalaryPortability", '
         '"Products": ${_listToJson(Products)}, '
         '"Url": "$Url", '

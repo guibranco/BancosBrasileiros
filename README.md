@@ -51,6 +51,8 @@ Each of the lists has the following information (schema):
 | CreditDocument | If does TED operations | true, false, null |
 | LegalCheque | If it belongs to the "Cheque Legal"  | true, false |
 | DetectaFlow | If it belongs to the "Detecta Flow" | true, false |
+| PCR | If it belongs to the "PCR" | true, false |
+| PCRP | If it belongs to the "PCRP" | true, false |
 | SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null |
 | Products | List of products offered | In Portuguese only |
 | Url | Website | - |

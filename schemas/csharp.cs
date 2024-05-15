@@ -41,6 +41,12 @@ namespace BancosBrasileiros
         [JsonProperty("DetectaFlow")]
         public bool DetectaFlow { get; set; }
 
+        [JsonProperty("PCR")]
+        public bool Pcr { get; set; }
+
+        [JsonProperty("PCRP")]
+        public bool Pcrp { get; set; }
+
         [JsonProperty("SalaryPortability")]
         public string SalaryPortability { get; set; }
 

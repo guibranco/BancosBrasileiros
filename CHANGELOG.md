@@ -4,6 +4,10 @@
 
 ## Changelog
 
+### 20204-05-15 - [GuiBranco](https://github.com/guibranco)
+
+- [Issue #360](https://github.com/guibranco/BancosBrasileiros/issues/360) - Add PCR/PCRP source
+
 ### 2024-05-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
@@ -675,7 +679,6 @@
 	- 655 - BCO VOTORANTIM S.A. - 59.588.111/0001-03
 	- 746 - BCO MODAL S.A. - 30.723.886/0001-62
 	- 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
-
 
 ### 2023-07-23 - [GuiBranco](https://gitbub.com/guibranco)
 
