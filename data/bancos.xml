@@ -7431,9 +7431,9 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-08</DateOperationStarted>
-    <DatePixStarted>2022-08-29 18:14:55</DatePixStarted>
+    <DatePixStarted>2024-05-17 09:47:12</DatePixStarted>
     <DateRegistered>2024-03-04T12:10:35.0004133Z</DateRegistered>
-    <DateUpdated>2024-03-04T12:10:34.2132513Z</DateUpdated>
+    <DateUpdated>2024-05-18T12:06:39.8544363Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>600</COMPE>
