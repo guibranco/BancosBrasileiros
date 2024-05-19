@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp
+namespace ConsoleApp
 {
     using BancosBrasileiros;
     using System;
@@ -42,7 +42,7 @@
 
             var sortedBanks = banks.Where(b => b.Compe == compe);
 
-            if (sortedBanks.Count() != 0)
+            if (sortedBanks.Any())
             {
                 foreach (var bank in sortedBanks)
                 {

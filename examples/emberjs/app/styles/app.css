@@ -48,7 +48,7 @@ p {
  */
 
 .button {
-  padding: 10px 30px 10px;
+  padding: 10px 30px;
   text-decoration: none;
   color: #fff;
   background: #016aba;
@@ -285,7 +285,7 @@ p {
 }
 
 .bank .image.large {
-  margin: 30px 25px 50px 25px;
+  margin: 30px 25px 50px;
   flex-basis: 100%;
 }
 
@@ -359,7 +359,7 @@ p {
 }
 
 .bank.detailed .image.large {
-  margin: 30px 25px 50px 25px;
+  margin: 30px 25px 50px;
   flex-basis: 100%;
 }
 
@@ -386,7 +386,7 @@ p {
 
 .bank.detailed .map {
   flex-basis: 100%;
-  margin: 50px 25px 25px 25px;
+  margin: 50px 25px 25px;
 }
 
 .bank.detailed .map img {
@@ -396,7 +396,7 @@ p {
 
 @media only screen and (max-width: 919px) {
   .bank.detailed .image, .bank.detailed .image.large {
-    margin: 30px 25px 25px 25px;
+    margin: 30px 25px 25px;
     flex-basis: 100%;
     cursor: default;
   }
