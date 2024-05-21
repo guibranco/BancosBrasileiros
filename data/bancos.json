@@ -7757,8 +7757,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
@@ -7771,7 +7771,7 @@
     "DateOperationStarted": "2023-05-22",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347544+00:00",
-    "DateUpdated": "2023-10-21T12:05:56.1887304+00:00"
+    "DateUpdated": "2024-05-21T12:06:40.2011379+00:00"
   },
   {
     "COMPE": "532",
@@ -8133,15 +8133,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-06-01",
     "DatePixStarted": "2024-04-17 09:37:44",
     "DateRegistered": "2023-09-25T12:28:25.1347559+00:00",
-    "DateUpdated": "2024-04-18T12:06:03.8725632+00:00"
+    "DateUpdated": "2024-05-21T12:06:40.2016927+00:00"
   },
   {
     "COMPE": "548",
@@ -8211,6 +8211,29 @@
     "DatePixStarted": "2023-11-10 17:10:00",
     "DateRegistered": "2023-09-25T12:28:25.1347541+00:00",
     "DateUpdated": "2023-11-11T12:05:26.4280139+00:00"
+  },
+  {
+    "COMPE": "551",
+    "ISPB": "48967968",
+    "Document": "48.967.968/0001-18",
+    "LongName": "VERT DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "VERT DTVM LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-05-27",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-05-21T12:06:40.2035352+00:00",
+    "DateUpdated": "2024-05-21T12:06:40.2035642+00:00"
   },
   {
     "COMPE": "552",
