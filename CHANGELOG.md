@@ -4,6 +4,18 @@
 
 ## Changelog
 
+### 2024-05-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 551 - VERT DTVM LTDA. - 48.967.968/0001-18
+- Updated 2 banks
+  - 531 - BMP SCD S.A. - 34.337.707/0001-00
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 547 - BNK DIGITAL SCD S.A. - 45.331.622/0001-30
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2024-05-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
