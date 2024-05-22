@@ -29,7 +29,7 @@ jobs:
           html-cell: '<th>{{ acronym }}</th><td> {{ en_US }}</td>'
 
       - name: "Read/Write abbreviations in pt_BR"
-        uses: guibranco/gh-actions-html-table-generator-fork@cb1d07f30349b7d0fdf8610988f591c3bc9a9364
+        uses: EddieHubCommunity/gh-actions-html-table-generator@v0.1.1
         with:
           json-file-path: ".github/automations/abbreviations.json"
           github-token: ${{ secrets.GITHUB_TOKEN }}
