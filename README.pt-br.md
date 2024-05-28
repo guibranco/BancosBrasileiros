@@ -17,7 +17,7 @@
 
 ![Bancos Brasileiros logo](logo.png)
 
-> **Note**
+> [!Note]
 >
 > For an English *(EN_US)* version of README.md, please [follow me](https://guibranco.github.io/BancosBrasileiros/).
 
@@ -158,7 +158,7 @@ Para aqueles que não estão familiarizados com entidades financeiras/regulatór
 
 Os dados são atualizados diariamente de forma automática por meio de uma [ferramenta](https://github.com/guibranco/BancosBrasileiros-MergeTool) que coleta as informações de listas de fontes oficiais.
 
-> **Warning**
+> [!Warning]
 >
 > Se você encontrar algum problema com os dados, banco ausente ou dados desatualizados, abra um issue neste repositório: [Novo Issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
 
