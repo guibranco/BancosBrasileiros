@@ -158,7 +158,7 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 
 The data is automatically updated daily using a [tool](https://github.com/guibranco/BancosBrasileiros-MergeTool) that collects information from lists of official sources.
 
-> **Warning**
+> [!Warning]
 >
 > If you find any issues with the data, missing database, or outdated data, please open an issue in this repository: [New Issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
 
