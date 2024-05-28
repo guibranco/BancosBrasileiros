@@ -7379,6 +7379,23 @@
     <DateUpdated>2024-02-28T12:06:04.5801118Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>592</COMPE>
+    <ISPB>45548763</ISPB>
+    <Document>45.548.763/0001-00</Document>
+    <LongName>INSTITUIÇÃO DE PAGAMENTOS MAPS LTDA.</LongName>
+    <ShortName>MAPS IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-03</DateOperationStarted>
+    <DateRegistered>2024-05-28T12:06:53.558223Z</DateRegistered>
+    <DateUpdated>2024-05-28T12:06:53.5582421Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>593</COMPE>
     <ISPB>27084098</ISPB>
     <Document>27.084.098/0001-69</Document>
