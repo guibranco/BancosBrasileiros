@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-05-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 331 - OSLO CAPITAL DTVM SA - 13.673.855/0001-25
+    - **LongName** (STR): Fram Capital Distribuidora de Títulos e Valores Mobiliários S.A. **->** OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A
+    - **ShortName** (STR): FRAM CAPITAL DTVM S.A. **->** OSLO CAPITAL DTVM SA
+
 ### 2024-05-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

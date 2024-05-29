@@ -3645,8 +3645,8 @@
     <COMPE>331</COMPE>
     <ISPB>13673855</ISPB>
     <Document>13.673.855/0001-25</Document>
-    <LongName>Fram Capital Distribuidora de Títulos e Valores Mobiliários S.A.</LongName>
-    <ShortName>FRAM CAPITAL DTVM S.A.</ShortName>
+    <LongName>OSLO CAPITAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A</LongName>
+    <ShortName>OSLO CAPITAL DTVM SA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3656,7 +3656,7 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-09-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114829-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114831-03:00</DateUpdated>
+    <DateUpdated>2024-05-29T12:06:54.8816058Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>332</COMPE>
