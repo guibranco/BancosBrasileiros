@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-05-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 518 - MERCADO CRÉDITO SCFI S.A. - 37.679.449/0001-38
+    - **Products** (CTC): Null **->** Capita de Giro PJ, Cheque Especial, Crédito Pessoal, Financiamento de Veículos, Troca de Modalidade
+
 ### 2024-05-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

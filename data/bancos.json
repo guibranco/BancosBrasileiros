@@ -7456,12 +7456,18 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Capita de Giro PJ",
+      "Cheque Especial",
+      "Crédito Pessoal",
+      "Financiamento de Veículos",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2023-01-30",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-03T14:56:55.3112607+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112608+00:00"
+    "DateUpdated": "2024-05-30T12:06:43.4845721+00:00"
   },
   {
     "COMPE": "519",

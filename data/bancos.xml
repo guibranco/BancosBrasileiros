@@ -6251,9 +6251,16 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Capita de Giro PJ</Product>
+      <Product>Cheque Especial</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Financiamento de Veículos</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <DateOperationStarted>2023-01-30</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112607Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3112608Z</DateUpdated>
+    <DateUpdated>2024-05-30T12:06:43.4845721Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>519</COMPE>
