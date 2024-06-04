@@ -838,11 +838,15 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consiginado</Product>
+      <Product>troca de modalidade.</Product>
+    </Products>
     <Url>https://www.bancooriginal.com.br</Url>
     <DateOperationStarted>2008-07-25</DateOperationStarted>
     <DatePixStarted>2023-04-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114694-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.1945968Z</DateUpdated>
+    <DateUpdated>2024-06-04T12:06:54.4313039Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>080</COMPE>

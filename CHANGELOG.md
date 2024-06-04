@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 79 - PICPAY BANK - BANCO MÚLTIPLO S.A - 09.516.419/0001-75
+    - **Products** (CTC): Null **->** Crédito Consiginado, troca de modalidade.
+
 ### 2024-05-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

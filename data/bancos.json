@@ -928,12 +928,15 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consiginado",
+      "troca de modalidade."
+    ],
     "Url": "https://www.bancooriginal.com.br",
     "DateOperationStarted": "2008-07-25",
     "DatePixStarted": "2023-04-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114694-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.1945968+00:00"
+    "DateUpdated": "2024-06-04T12:06:54.4313039+00:00"
   },
   {
     "COMPE": "080",
