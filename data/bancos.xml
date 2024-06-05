@@ -5133,9 +5133,15 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Outros</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DateRegistered>2021-05-21T23:01:29.4844658-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:53.496954Z</DateUpdated>
+    <DateUpdated>2024-06-05T12:06:51.609081Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>427</COMPE>

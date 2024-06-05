@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-06-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 426 - NEON FINANCEIRA - CFI S.A. - 11.285.104/0001-06
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal, Outros, Troca de Modalidade
+
 ### 2024-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
