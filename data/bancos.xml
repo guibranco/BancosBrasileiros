@@ -7188,6 +7188,23 @@
     <DateUpdated>2023-12-18T12:06:50.1170312Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>575</COMPE>
+    <ISPB>48584954</ISPB>
+    <Document>48.584.954/0001-15</Document>
+    <LongName>DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.</LongName>
+    <ShortName>DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-13</DateOperationStarted>
+    <DateRegistered>2024-06-07T12:08:28.2767917Z</DateRegistered>
+    <DateUpdated>2024-06-07T12:08:28.2768294Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>576</COMPE>
     <ISPB>11351086</ISPB>
     <Document>11.351.086/0001-13</Document>
@@ -7825,6 +7842,23 @@
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115331-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7337679Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>644</COMPE>
+    <ISPB>54647259</ISPB>
+    <Document>54.647.259/0001-58</Document>
+    <LongName>321 SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>321 SCD S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-13</DateOperationStarted>
+    <DateRegistered>2024-06-07T12:08:28.2768552Z</DateRegistered>
+    <DateUpdated>2024-06-07T12:08:28.2768553Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>652</COMPE>

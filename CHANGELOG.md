@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-06-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 575 - DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO. - 48.584.954/0001-15
+  - 644 - 321 SCD S.A. - 54.647.259/0001-58
+
 ### 2024-06-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
