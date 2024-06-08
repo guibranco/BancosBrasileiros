@@ -2068,7 +2068,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <SalaryPortability>Destinatário</SalaryPortability>
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
@@ -2076,7 +2076,7 @@
     <DateOperationStarted>2017-11-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115165-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7489942Z</DateUpdated>
+    <DateUpdated>2024-06-08T12:06:01.6066762Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>177</COMPE>

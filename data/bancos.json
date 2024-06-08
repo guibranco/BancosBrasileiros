@@ -2380,7 +2380,7 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": "Destinatário",
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Outros Créditos",
       "Pessoal"
@@ -2389,7 +2389,7 @@
     "DateOperationStarted": "2017-11-21",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115165-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7489942+00:00"
+    "DateUpdated": "2024-06-08T12:06:01.6066762+00:00"
   },
   {
     "COMPE": "177",

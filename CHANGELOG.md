@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-06-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 174 - PEFISA S.A. - C.F.I. - 43.180.355/0001-12
+    - **SalaryPortability** (PCPS): Destinatário **->** Banco folha e Destinatário
+
 ### 2024-06-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks
