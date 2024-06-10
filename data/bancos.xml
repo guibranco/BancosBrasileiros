@@ -7648,6 +7648,23 @@
     <DateUpdated>2024-05-15T16:49:45.7485284Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>614</COMPE>
+    <ISPB>52440987</ISPB>
+    <Document>52.440.987/0001-69</Document>
+    <LongName>NITRO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>NITRO SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-14</DateOperationStarted>
+    <DateRegistered>2024-06-10T12:07:20.428794Z</DateRegistered>
+    <DateUpdated>2024-06-10T12:07:20.4288223Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>620</COMPE>
     <ISPB>51342763</ISPB>
     <Document>51.342.763/0001-51</Document>

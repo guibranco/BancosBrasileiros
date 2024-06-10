@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-06-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 614 - NITRO SCD S.A. - 52.440.987/0001-69
+
 ### 2024-06-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
