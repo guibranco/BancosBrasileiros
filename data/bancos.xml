@@ -6347,6 +6347,7 @@
     <LongName>HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>HR DIGITAL SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -6354,8 +6355,9 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <DateOperationStarted>2023-02-15</DateOperationStarted>
+    <DatePixStarted>2024-06-10 06:02:13</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7458761Z</DateUpdated>
+    <DateUpdated>2024-06-11T12:07:05.2936207Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>524</COMPE>
@@ -7375,6 +7377,23 @@
     <DatePixStarted>2024-03-19 10:10:00</DatePixStarted>
     <DateRegistered>2024-02-15T12:06:06.972741Z</DateRegistered>
     <DateUpdated>2024-03-20T12:06:38.8062276Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>587</COMPE>
+    <ISPB>37678915</ISPB>
+    <Document>37.678.915/0001-60</Document>
+    <LongName>FIDD DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>FIDD DTVM LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-17</DateOperationStarted>
+    <DateRegistered>2024-06-11T12:07:06.019758Z</DateRegistered>
+    <DateUpdated>2024-06-11T12:07:06.0197778Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>588</COMPE>

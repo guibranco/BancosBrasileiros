@@ -7577,7 +7577,7 @@
     "ShortName": "HR DIGITAL SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -7588,9 +7588,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-02-15",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-06-10 06:02:13",
     "DateRegistered": "2023-03-03T14:56:55.3112611+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7458761+00:00"
+    "DateUpdated": "2024-06-11T12:07:05.2936207+00:00"
   },
   {
     "COMPE": "524",
@@ -8919,6 +8919,29 @@
     "DatePixStarted": "2024-03-19 10:10:00",
     "DateRegistered": "2024-02-15T12:06:06.972741+00:00",
     "DateUpdated": "2024-03-20T12:06:38.8062276+00:00"
+  },
+  {
+    "COMPE": "587",
+    "ISPB": "37678915",
+    "Document": "37.678.915/0001-60",
+    "LongName": "FIDD DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "FIDD DTVM LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-06-17",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-06-11T12:07:06.019758+00:00",
+    "DateUpdated": "2024-06-11T12:07:06.0197778+00:00"
   },
   {
     "COMPE": "588",

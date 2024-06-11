@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-06-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 587 - FIDD DTVM LTDA. - 37.678.915/0001-60
+- Updated 1 bank
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-06-10 06:02:13
+
 ### 2024-06-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
