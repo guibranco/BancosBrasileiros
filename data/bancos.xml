@@ -7413,6 +7413,23 @@
     <DateUpdated>2024-02-27T12:05:53.2736418Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>589</COMPE>
+    <ISPB>51212088</ISPB>
+    <Document>51.212.088/0001-46</Document>
+    <LongName>G5 SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>G5 SCD SA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-18</DateOperationStarted>
+    <DateRegistered>2024-06-12T12:06:51.7759654Z</DateRegistered>
+    <DateUpdated>2024-06-12T12:06:51.7759938Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>590</COMPE>
     <ISPB>40473435</ISPB>
     <Document>40.473.435/0001-78</Document>

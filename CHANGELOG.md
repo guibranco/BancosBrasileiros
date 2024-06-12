@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-06-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 589 - G5 SCD SA - 51.212.088/0001-46
+
 ### 2024-06-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
