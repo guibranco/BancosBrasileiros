@@ -7120,8 +7120,8 @@
     <COMPE>567</COMPE>
     <ISPB>33040601</ISPB>
     <Document>33.040.601/0001-87</Document>
-    <LongName>CREDITAQUI FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>CREDITAQUI FINANCEIRA S.A. - CFI</ShortName>
+    <LongName>MERCANTIL FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>MERCANTIL FINANCEIRA</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7136,7 +7136,7 @@
     </Products>
     <DateOperationStarted>2023-08-28</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347543Z</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9501542Z</DateUpdated>
+    <DateUpdated>2024-06-17T12:07:15.0691344Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>568</COMPE>

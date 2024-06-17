@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-06-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 567 - MERCANTIL FINANCEIRA - 33.040.601/0001-87
+    - **LongName** (STR): CREDITAQUI FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO **->** MERCANTIL FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): CREDITAQUI FINANCEIRA S.A. - CFI **->** MERCANTIL FINANCEIRA
+
 ### 2024-06-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
