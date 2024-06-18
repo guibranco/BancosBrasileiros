@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-06-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 585 - SETHI SCD SA - 50.946.592/0001-07
+
 ### 2024-06-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

@@ -7360,6 +7360,23 @@
     <DateUpdated>2024-02-26T12:06:17.8233338Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>585</COMPE>
+    <ISPB>50946592</ISPB>
+    <Document>50.946.592/0001-07</Document>
+    <LongName>SETHI SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SETHI SCD SA</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-24</DateOperationStarted>
+    <DateRegistered>2024-06-18T12:07:09.9885168Z</DateRegistered>
+    <DateUpdated>2024-06-18T12:07:09.9885361Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>586</COMPE>
     <ISPB>35810871</ISPB>
     <Document>35.810.871/0001-55</Document>
