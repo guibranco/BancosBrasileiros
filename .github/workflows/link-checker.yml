@@ -36,6 +36,5 @@ jobs:
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: Link checker report
-          labels: 'report, automated-issue'
+          labels: 'bug'
           content-filepath: ./lychee/out.md
-          labels: bug
