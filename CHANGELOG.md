@@ -1783,11 +1783,11 @@
 
 - [Issue #4](http://github.com/guibranco/bancosBrasileiros/issues/4) - Added CNPJ column in all lists
 
-### 2021-01-20 - [@gslvrp](https://github.com/gslvrp)
+### 2021-01-20 - [@gslvrp](https://github.com/ghost)
 
 - [Issue #53](http://github.com/guibranco/bancosBrasileiros/issues/53) - Added Digio
 
-### 2021-01-06 - [@ghost](https://github.com/ghost)
+### 2021-01-06 - [@kingaspx](https://github.com/ghost)
 
 - [Issue #51](http://github.com/guibranco/bancosBrasileiros/issues/51) - Added PicPay
 
