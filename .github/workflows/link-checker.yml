@@ -1,0 +1,31 @@
+name: Link checker
+
+on:
+  workflow_dispatch:
+  pull_request: null
+  schedule:
+    - cron: 0 0 * * 0
+
+jobs:
+
+  link-checker:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+      
+    steps:
+    
+      - uses: actions/checkout@v4
+     
+      - name: Run lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.8.0
+        
+      - name: Create issue
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: Link checker report
+          labels: 'report, automated-issue'
+          content-filepath: ./lychee/out.md
