@@ -1787,7 +1787,7 @@
 
 - [Issue #53](http://github.com/guibranco/bancosBrasileiros/issues/53) - Added Digio
 
-### 2021-01-06 - [@kingaspx](https://github.com/kingaspx)
+### 2021-01-06 - [@ghost](https://github.com/ghost)
 
 - [Issue #51](http://github.com/guibranco/bancosBrasileiros/issues/51) - Added PicPay
 
