@@ -17,11 +17,20 @@ jobs:
     steps:
     
       - uses: actions/checkout@v4
-     
+
+      - name: Restore lychee cache
+        uses: actions/cache@v3
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+      
       - name: Run lychee
+        uses: lycheeverse/lychee-action@v1.10.0
         id: lychee
-        uses: lycheeverse/lychee-action@v1.8.0
-        
+        with:
+          args: "--base . --cache --max-cache-age 1d ."
+      
       - name: Create issue
         if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
