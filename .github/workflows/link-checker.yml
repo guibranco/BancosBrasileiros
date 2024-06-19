@@ -29,3 +29,4 @@ jobs:
           title: Link checker report
           labels: 'report, automated-issue'
           content-filepath: ./lychee/out.md
+          labels: bug
