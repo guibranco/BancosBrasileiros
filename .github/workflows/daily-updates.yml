@@ -35,6 +35,9 @@ jobs:
       - name: Run
         continue-on-error: true
         id: run
+        env:
+          DOTNET_SYSTEM_CONSOLE_ALLOW_ANSI_COLOR_REDIRECTION: 1
+          TERM: xterm
         run: |
             set +e
             cd BancosBrasileiros.MergeTool
