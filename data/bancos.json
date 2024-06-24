@@ -818,8 +818,8 @@
     "COMPE": "075",
     "ISPB": "03532415",
     "Document": "03.532.415/0001-02",
-    "LongName": "Banco ABN Amro S.A.",
-    "ShortName": "BCO ABN AMRO S.A.",
+    "LongName": "BANCO ABN AMRO CLEARING S.A.",
+    "ShortName": "BANCO ABN AMRO CLEARING S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": null,
@@ -835,7 +835,7 @@
     "DateOperationStarted": "2005-11-11",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114516-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114518-03:00"
+    "DateUpdated": "2024-06-24T12:07:23.4029087+00:00"
   },
   {
     "COMPE": "076",
@@ -8787,7 +8787,7 @@
     "ISPB": "87437687",
     "Document": "87.437.687/0001-05",
     "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE",
-    "ShortName": "CCCPOUPINV SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE",
+    "ShortName": "CCCPOUPINV SUL E SUDESTE - CENTRAL SUL/SUDESTE",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8803,14 +8803,14 @@
     "DateOperationStarted": "2024-02-21",
     "DatePixStarted": null,
     "DateRegistered": "2024-02-15T12:06:06.9727601+00:00",
-    "DateUpdated": "2024-02-15T12:06:06.9727602+00:00"
+    "DateUpdated": "2024-06-24T12:07:23.4131363+00:00"
   },
   {
     "COMPE": "581",
     "ISPB": "70119680",
     "Document": "70.119.680/0001-42",
     "LongName": "COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO NORDESTE - CENTRAL SICREDI NORDESTE",
-    "ShortName": "CENTRAL SICREDI NORDESTE",
+    "ShortName": "CENTRAL NORDESTE",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8826,7 +8826,7 @@
     "DateOperationStarted": "2024-03-22",
     "DatePixStarted": null,
     "DateRegistered": "2024-03-18T12:06:27.2064803+00:00",
-    "DateUpdated": "2024-03-18T12:06:27.2064988+00:00"
+    "DateUpdated": "2024-06-24T12:07:23.4124494+00:00"
   },
   {
     "COMPE": "582",
@@ -9034,6 +9034,29 @@
     "DatePixStarted": "2022-12-13 09:09:43",
     "DateRegistered": "2024-02-28T12:06:05.3104086+00:00",
     "DateUpdated": "2024-02-28T12:06:04.5801118+00:00"
+  },
+  {
+    "COMPE": "591",
+    "ISPB": "02671743",
+    "Document": "02.671.743/0001-19",
+    "LongName": "BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "BANVOX DTVM",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-06-28",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-06-24T12:07:25.1385983+00:00",
+    "DateUpdated": "2024-06-24T12:07:25.1386177+00:00"
   },
   {
     "COMPE": "592",

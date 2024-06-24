@@ -4,6 +4,19 @@
 
 ## Changelog
 
+### 2024-06-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 591 - BANVOX DTVM - 02.671.743/0001-19
+- Updated 3 banks
+  - 75 - BANCO ABN AMRO CLEARING S.A. - 03.532.415/0001-02
+    - **LongName** (STR): Banco ABN Amro S.A. **->** BANCO ABN AMRO CLEARING S.A.
+    - **ShortName** (STR): BCO ABN AMRO S.A. **->** BANCO ABN AMRO CLEARING S.A.
+  - 580 - CCCPOUPINV SUL E SUDESTE - CENTRAL SUL/SUDESTE - 87.437.687/0001-05
+    - **ShortName** (STR): CCCPOUPINV SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE **->** CCCPOUPINV SUL E SUDESTE - CENTRAL SUL/SUDESTE
+  - 581 - CENTRAL NORDESTE - 70.119.680/0001-42
+    - **ShortName** (STR): CENTRAL SICREDI NORDESTE **->** CENTRAL NORDESTE
+
 ### 2024-06-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

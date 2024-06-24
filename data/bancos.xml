@@ -742,8 +742,8 @@
     <COMPE>075</COMPE>
     <ISPB>03532415</ISPB>
     <Document>03.532.415/0001-02</Document>
-    <LongName>Banco ABN Amro S.A.</LongName>
-    <ShortName>BCO ABN AMRO S.A.</ShortName>
+    <LongName>BANCO ABN AMRO CLEARING S.A.</LongName>
+    <ShortName>BANCO ABN AMRO CLEARING S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -755,7 +755,7 @@
     <Url>https://www.abnamro.com</Url>
     <DateOperationStarted>2005-11-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114516-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114518-03:00</DateUpdated>
+    <DateUpdated>2024-06-24T12:07:23.4029087Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>076</COMPE>
@@ -1553,7 +1553,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://true</Url>
     <DateOperationStarted>2011-11-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115062-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3422902Z</DateUpdated>
@@ -4715,7 +4714,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://true</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114446-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114448-03:00</DateUpdated>
@@ -7279,7 +7277,7 @@
     <ISPB>87437687</ISPB>
     <Document>87.437.687/0001-05</Document>
     <LongName>COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE</LongName>
-    <ShortName>CCCPOUPINV SUL E SUDESTE - CENTRAL SICREDI SUL/SUDESTE</ShortName>
+    <ShortName>CCCPOUPINV SUL E SUDESTE - CENTRAL SUL/SUDESTE</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7289,14 +7287,14 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-02-21</DateOperationStarted>
     <DateRegistered>2024-02-15T12:06:06.9727601Z</DateRegistered>
-    <DateUpdated>2024-02-15T12:06:06.9727602Z</DateUpdated>
+    <DateUpdated>2024-06-24T12:07:23.4131363Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>581</COMPE>
     <ISPB>70119680</ISPB>
     <Document>70.119.680/0001-42</Document>
     <LongName>COOPERATIVA CENTRAL DE CRÉDITO, POUPANÇA E INVESTIMENTO DO NORDESTE - CENTRAL SICREDI NORDESTE</LongName>
-    <ShortName>CENTRAL SICREDI NORDESTE</ShortName>
+    <ShortName>CENTRAL NORDESTE</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7306,7 +7304,7 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-22</DateOperationStarted>
     <DateRegistered>2024-03-18T12:06:27.2064803Z</DateRegistered>
-    <DateUpdated>2024-03-18T12:06:27.2064988Z</DateUpdated>
+    <DateUpdated>2024-06-24T12:07:23.4124494Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>582</COMPE>
@@ -7464,6 +7462,23 @@
     <DatePixStarted>2022-12-13 09:09:43</DatePixStarted>
     <DateRegistered>2024-02-28T12:06:05.3104086Z</DateRegistered>
     <DateUpdated>2024-02-28T12:06:04.5801118Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>591</COMPE>
+    <ISPB>02671743</ISPB>
+    <Document>02.671.743/0001-19</Document>
+    <LongName>BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>BANVOX DTVM</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-06-28</DateOperationStarted>
+    <DateRegistered>2024-06-24T12:07:25.1385983Z</DateRegistered>
+    <DateUpdated>2024-06-24T12:07:25.1386177Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>592</COMPE>
