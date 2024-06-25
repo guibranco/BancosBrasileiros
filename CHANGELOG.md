@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-06-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 712 - OURIBANK S.A. - 78.632.767/0001-20
+    - **LongName** (STR): Banco Ourinvest S.A. **->** OURIBANK S.A. BANCO MÚLTIPLO
+    - **ShortName** (STR): BCO OURINVEST S.A. **->** OURIBANK S.A.
+
 ### 2024-06-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
