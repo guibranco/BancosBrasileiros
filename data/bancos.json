@@ -9728,8 +9728,8 @@
     "COMPE": "712",
     "ISPB": "78632767",
     "Document": "78.632.767/0001-20",
-    "LongName": "Banco Ourinvest S.A.",
-    "ShortName": "BCO OURINVEST S.A.",
+    "LongName": "OURIBANK S.A. BANCO MÚLTIPLO",
+    "ShortName": "OURIBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": "DRCT",
@@ -9745,7 +9745,7 @@
     "DateOperationStarted": "2014-01-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115456-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115458-03:00"
+    "DateUpdated": "2024-06-25T12:06:53.3082056+00:00"
   },
   {
     "COMPE": "720",

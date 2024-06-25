@@ -8078,8 +8078,8 @@
     <COMPE>712</COMPE>
     <ISPB>78632767</ISPB>
     <Document>78.632.767/0001-20</Document>
-    <LongName>Banco Ourinvest S.A.</LongName>
-    <ShortName>BCO OURINVEST S.A.</ShortName>
+    <LongName>OURIBANK S.A. BANCO MÚLTIPLO</LongName>
+    <ShortName>OURIBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -8093,7 +8093,7 @@
     <DateOperationStarted>2014-01-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115456-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115458-03:00</DateUpdated>
+    <DateUpdated>2024-06-25T12:06:53.3082056Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>720</COMPE>
