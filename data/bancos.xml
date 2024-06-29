@@ -4789,10 +4789,15 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Products>
+      <Product>Capital Giro</Product>
+      <Product>Cheque Especial</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7427867Z</DateUpdated>
+    <DateUpdated>2024-06-29T12:28:25.058972Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>404</COMPE>
@@ -6669,11 +6674,11 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <DateOperationStarted>2024-01-08</DateOperationStarted>
     <DateRegistered>2024-01-09T12:06:15.138698Z</DateRegistered>
-    <DateUpdated>2024-05-03T12:06:09.3866865Z</DateUpdated>
+    <DateUpdated>2024-06-29T12:28:25.1292546Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>541</COMPE>

@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-06-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 403 - CORA SCD S.A. - 37.880.206/0001-63
+    - **Products** (CTC): Null **->** Capital Giro, Cheque Especial, Troca de Modalidade
+  - 540 - HBI SCD - 04.849.745/0001-80
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+
 ### 2024-06-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
