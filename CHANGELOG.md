@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-07-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 513 - ATF SCD S.A. - 44.728.700/0001-72
+    - **LongName** (STR): ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A. **->** ATF SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): ATF CREDIT SCD S.A. **->** ATF SCD S.A.
+
 ### 2024-06-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

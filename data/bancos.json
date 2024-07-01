@@ -7383,8 +7383,8 @@
     "COMPE": "513",
     "ISPB": "44728700",
     "Document": "44.728.700/0001-72",
-    "LongName": "ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "ATF CREDIT SCD S.A.",
+    "LongName": "ATF SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ATF SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7400,7 +7400,7 @@
     "DateOperationStarted": "2022-12-02",
     "DatePixStarted": null,
     "DateRegistered": "2022-11-30T12:07:13.9849611+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7206326+00:00"
+    "DateUpdated": "2024-07-01T12:31:48.6647509+00:00"
   },
   {
     "COMPE": "514",

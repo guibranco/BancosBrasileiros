@@ -6199,8 +6199,8 @@
     <COMPE>513</COMPE>
     <ISPB>44728700</ISPB>
     <Document>44.728.700/0001-72</Document>
-    <LongName>ATF CREDIT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>ATF CREDIT SCD S.A.</ShortName>
+    <LongName>ATF SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ATF SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6210,7 +6210,7 @@
     <PCRP>false</PCRP>
     <DateOperationStarted>2022-12-02</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.9849611Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7206326Z</DateUpdated>
+    <DateUpdated>2024-07-01T12:31:48.6647509Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>514</COMPE>
