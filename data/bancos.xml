@@ -7528,6 +7528,7 @@
     <LongName>EMBRACRED S/A SOCIEDADE DE CRÉDITO DIRETO</LongName>
     <ShortName>EMBRACRED S/A SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7535,8 +7536,9 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <DateOperationStarted>2024-03-11</DateOperationStarted>
+    <DatePixStarted>2024-07-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.745152Z</DateUpdated>
+    <DateUpdated>2024-07-02T12:28:19.7824614Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>595</COMPE>

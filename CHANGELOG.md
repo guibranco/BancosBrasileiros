@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-07-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 594 - EMBRACRED S/A SCD - 48.703.388/0001-13
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-07-05 09:00:00
+
 ### 2024-07-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
