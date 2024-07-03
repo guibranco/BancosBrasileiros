@@ -5626,8 +5626,8 @@
     "COMPE": "403",
     "ISPB": "37880206",
     "Document": "37.880.206/0001-63",
-    "LongName": "CORA SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "CORA SCD S.A.",
+    "LongName": "CORA SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "CORA SCFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5647,7 +5647,7 @@
     "DateOperationStarted": "2020-09-29",
     "DatePixStarted": "2023-03-24 09:10:00",
     "DateRegistered": "2021-05-05T09:11:12.7115147-03:00",
-    "DateUpdated": "2024-06-29T12:28:25.058972+00:00"
+    "DateUpdated": "2024-07-03T12:07:14.7108658+00:00"
   },
   {
     "COMPE": "404",
