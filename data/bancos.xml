@@ -4162,14 +4162,15 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <Products>
+      <Product>Cheque Especial</Product>
       <Product>Crédito consignado</Product>
-      <Product>Troca de modalidade.</Product>
+      <Product>Troca de modalidade</Product>
     </Products>
     <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.726081Z</DateUpdated>
+    <DateUpdated>2024-07-05T12:06:44.3839046Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>370</COMPE>

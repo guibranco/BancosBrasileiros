@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 368 - BCO CSF S.A. - 08.357.240/0001-50
+    - **Products** (CTC): Crédito consignado, Troca de modalidade. **->** Cheque Especial, Crédito consignado, Troca de modalidade
+
 ### 2024-07-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

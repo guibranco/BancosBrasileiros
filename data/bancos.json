@@ -4899,14 +4899,15 @@
     "PCRP": true,
     "SalaryPortability": null,
     "Products": [
+      "Cheque Especial",
       "Crédito consignado",
-      "Troca de modalidade."
+      "Troca de modalidade"
     ],
     "Url": "https://www.carrefoursolucoes.com.br",
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": "2022-10-31 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114653-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.726081+00:00"
+    "DateUpdated": "2024-07-05T12:06:44.3839046+00:00"
   },
   {
     "COMPE": "370",
