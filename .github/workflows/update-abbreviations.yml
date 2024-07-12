@@ -3,6 +3,8 @@ name: Update abbreviations
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
     paths:
       - .github/automations/abbreviations.json
       - .github/workflows/update-abbreviations.yml
