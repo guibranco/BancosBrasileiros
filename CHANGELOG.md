@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-07-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 720 - BCO RNX S.A. - 80.271.455/0001-80
+    - **Products** (CTC): Consignado, Pessoal, Veículos **->** Pessoal, Veículos
+
 ### 2024-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

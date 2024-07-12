@@ -9769,7 +9769,6 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": [
-      "Consignado",
       "Pessoal",
       "Veículos"
     ],
@@ -9777,7 +9776,7 @@
     "DateOperationStarted": "2021-02-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711546-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1858515+00:00"
+    "DateUpdated": "2024-07-12T12:07:35.3913004+00:00"
   },
   {
     "COMPE": "739",

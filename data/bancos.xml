@@ -8117,14 +8117,13 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Products>
-      <Product>Consignado</Product>
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.bancornx.com.br/</Url>
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711546-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1858515Z</DateUpdated>
+    <DateUpdated>2024-07-12T12:07:35.3913004Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>739</COMPE>
