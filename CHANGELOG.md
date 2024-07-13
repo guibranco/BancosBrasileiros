@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2024-07-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 79 - PICPAY BANK - BANCO MÚLTIPLO S.A - 09.516.419/0001-75
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 536 - NEON PAGAMENTOS S.A. IP - 20.855.875/0001-82
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2024-07-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
