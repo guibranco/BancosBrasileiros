@@ -53,8 +53,8 @@ jobs:
         env:
           webhook_type: 'json-extended'
           event_name: 'release'
-          webhook_url: ${{ secrets.WEBHOOK_URL }}
-          webhook_secret: '{"x-github-release-token": "${{ secrets.WEBHOOK_TOKEN }}"}'
+          webhook_url: ${{ secrets.RELEASE_WEBHOOK_URL }}
+          webhook_secret: '{"x-github-release-token": "${{ secrets.RELEASE_WEBHOOK_TOKEN }}"}'
           data: '{ "error_code": "${{ env.exitcode }}" }'
 
       - name: Upload banks files
