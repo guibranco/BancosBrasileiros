@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-07-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 619 - TRIO IP LTDA. - 49.931.906/0001-19
+
 ### 2024-07-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

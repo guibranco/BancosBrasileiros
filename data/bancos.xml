@@ -2565,7 +2565,6 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancomaxima.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115103-03:00</DateRegistered>
@@ -4166,7 +4165,6 @@
       <Product>Crédito consignado</Product>
       <Product>Troca de modalidade</Product>
     </Products>
-    <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
@@ -7741,6 +7739,23 @@
     <DateUpdated>2024-06-10T12:07:20.4288223Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>619</COMPE>
+    <ISPB>49931906</ISPB>
+    <Document>49.931.906/0001-19</Document>
+    <LongName>TRIO INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>TRIO IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-08-01</DateOperationStarted>
+    <DateRegistered>2024-07-26T12:29:30.1748074Z</DateRegistered>
+    <DateUpdated>2024-07-26T12:29:30.1748268Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>620</COMPE>
     <ISPB>51342763</ISPB>
     <Document>51.342.763/0001-51</Document>
@@ -8467,7 +8482,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
-    <Url>https://www.bancokeb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114464-03:00</DateRegistered>
