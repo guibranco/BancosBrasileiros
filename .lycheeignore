@@ -1,4 +1,6 @@
 github\.com\/.+\[bot\]
 file:\/\/
 https?:\/\/localhost
-https:\/\/www\.itau\.com\.br
+itau\.com\.br
+bancointer\.com\.br
+paranabanco\.com\.br
