@@ -2622,8 +2622,8 @@
     <COMPE>250</COMPE>
     <ISPB>50585090</ISPB>
     <Document>50.585.090/0001-06</Document>
-    <LongName>BCV - BANCO DE CRÉDITO E VAREJO S.A.</LongName>
-    <ShortName>"BCV - BCO, CRÉDITO E VAREJO S.A."</ShortName>
+    <LongName>BANCO BMG CONSIGNADO S.A.</LongName>
+    <ShortName>BANCO BMG CONSIGNADO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2635,7 +2635,7 @@
     <Url>https://www.bancobcv.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115191-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.402562Z</DateUpdated>
+    <DateUpdated>2024-07-30T12:30:20.9839572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>253</COMPE>

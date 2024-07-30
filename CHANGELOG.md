@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-07-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 250 - BANCO BMG CONSIGNADO S.A. - 50.585.090/0001-06
+    - **LongName** (STR): BCV - BANCO DE CRÉDITO E VAREJO S.A. **->** BANCO BMG CONSIGNADO S.A.
+    - **ShortName** (STR): "BCV - BCO, CRÉDITO E VAREJO S.A." **->** BANCO BMG CONSIGNADO S.A.
+
 ### 2024-07-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

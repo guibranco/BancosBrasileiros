@@ -3024,8 +3024,8 @@
     "COMPE": "250",
     "ISPB": "50585090",
     "Document": "50.585.090/0001-06",
-    "LongName": "BCV - BANCO DE CRÉDITO E VAREJO S.A.",
-    "ShortName": "\"BCV - BCO, CRÉDITO E VAREJO S.A.\"",
+    "LongName": "BANCO BMG CONSIGNADO S.A.",
+    "ShortName": "BANCO BMG CONSIGNADO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": null,
@@ -3041,7 +3041,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115191-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.402562+00:00"
+    "DateUpdated": "2024-07-30T12:30:20.9839572+00:00"
   },
   {
     "COMPE": "253",
