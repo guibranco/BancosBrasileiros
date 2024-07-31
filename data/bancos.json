@@ -1116,12 +1116,16 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Crédito Pessoal. Financiamento de Veículos. Outros.",
+      "Troca de Modalidade"
+    ],
     "Url": "https://www.bancorandon.com",
     "DateOperationStarted": "2020-08-03",
     "DatePixStarted": "2022-11-21 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114729-03:00",
-    "DateUpdated": "2022-11-12T12:06:33.149399+00:00"
+    "DateUpdated": "2024-07-31T12:31:34.635606+00:00"
   },
   {
     "COMPE": "089",

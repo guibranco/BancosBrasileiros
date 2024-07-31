@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-07-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 88 - BANCO RANDON S.A. - 11.476.673/0001-39
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal. Financiamento de Veículos. Outros., Troca de Modalidade
+
 ### 2024-07-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

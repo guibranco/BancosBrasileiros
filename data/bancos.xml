@@ -1012,11 +1012,16 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal. Financiamento de Veículos. Outros.</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url>https://www.bancorandon.com</Url>
     <DateOperationStarted>2020-08-03</DateOperationStarted>
     <DatePixStarted>2022-11-21 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114729-03:00</DateRegistered>
-    <DateUpdated>2022-11-12T12:06:33.149399Z</DateUpdated>
+    <DateUpdated>2024-07-31T12:31:34.635606Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>089</COMPE>
