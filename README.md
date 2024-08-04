@@ -156,6 +156,14 @@ For those unfamiliar with Brazilian financial/regulatory entities:
 ---
 
 ## Updates
+## Installation
+
+You can install the package using pip:
+
+```bash
+pip install bancos_brasileiros
+```
+
 
 The data is automatically updated daily using a [tool](https://github.com/guibranco/BancosBrasileiros-MergeTool) that collects information from lists of official sources.
 
