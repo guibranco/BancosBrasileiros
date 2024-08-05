@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-08-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 599 - AGORACRED S/A SCFI - 36.321.990/0001-07
+
 ### 2024-07-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

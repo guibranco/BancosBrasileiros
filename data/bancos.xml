@@ -934,7 +934,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
-    <Url>https://www.boc-brazil.com</Url>
     <DateOperationStarted>2009-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114715-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7265882Z</DateUpdated>
@@ -1599,7 +1598,6 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
-    <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115172-03:00</DateRegistered>
@@ -2149,7 +2147,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.itaubba.com.br</Url>
+    <Url>https://www.itau.com.br/itaubba-pt</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114884-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114886-03:00</DateUpdated>
@@ -2398,7 +2396,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.johndeere.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115474-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3495801Z</DateUpdated>
@@ -2637,7 +2634,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bancobcv.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115191-03:00</DateRegistered>
     <DateUpdated>2024-07-30T12:30:20.9839572Z</DateUpdated>
@@ -4189,7 +4185,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.mizuhobank.com/brazil/pt/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115287-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115289-03:00</DateUpdated>
@@ -7581,6 +7576,23 @@
     <DatePixStarted>2024-05-17 09:47:12</DatePixStarted>
     <DateRegistered>2024-03-04T12:10:35.0004133Z</DateRegistered>
     <DateUpdated>2024-05-18T12:06:39.8544363Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>599</COMPE>
+    <ISPB>36321990</ISPB>
+    <Document>36.321.990/0001-07</Document>
+    <LongName>AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>AGORACRED S/A SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-08-07</DateOperationStarted>
+    <DateRegistered>2024-08-05T12:07:23.9850149Z</DateRegistered>
+    <DateUpdated>2024-08-05T12:07:23.9850339Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>600</COMPE>
