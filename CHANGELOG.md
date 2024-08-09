@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 336 - BCO C6 S.A. - 31.872.495/0001-72
+    - **SalaryPortability** (PCPS): Banco folha e Destinatário **->** Destinatário
+
 ### 2024-08-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

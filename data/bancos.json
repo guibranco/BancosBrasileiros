@@ -4403,7 +4403,7 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": "Banco folha e Destinatário",
+    "SalaryPortability": "Destinatário",
     "Products": [
       "Capital de Giro",
       "Cheque Especial",
@@ -4417,7 +4417,7 @@
     "DateOperationStarted": "2019-01-31",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115026-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7246608+00:00"
+    "DateUpdated": "2024-08-09T12:07:01.1518628+00:00"
   },
   {
     "COMPE": "340",
