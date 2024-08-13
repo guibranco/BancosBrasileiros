@@ -4535,7 +4535,7 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": "Banco folha e Destinatário",
+    "SalaryPortability": "Destinatário",
     "Products": [
       "Capital de Giro",
       "Pessoal",
@@ -4545,7 +4545,7 @@
     "DateOperationStarted": "2019-11-01",
     "DatePixStarted": "2021-06-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115069-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7380814+00:00"
+    "DateUpdated": "2024-08-13T12:07:50.4184001+00:00"
   },
   {
     "COMPE": "349",

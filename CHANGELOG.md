@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-08-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 348 - BCO XP S.A. - 33.264.668/0001-03
+    - **SalaryPortability** (PCPS): Banco folha e Destinatário **->** Destinatário
+
 ### 2024-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
