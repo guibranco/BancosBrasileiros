@@ -6298,6 +6298,7 @@
     <LongName>SOMAPAY SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>SOMAPAY SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6305,8 +6306,9 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-04</DateOperationStarted>
+    <DatePixStarted>2024-08-13 09:27:38</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347557Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.1347558Z</DateUpdated>
+    <DateUpdated>2024-08-14T12:07:34.3550167Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>521</COMPE>

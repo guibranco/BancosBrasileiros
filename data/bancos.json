@@ -7517,7 +7517,7 @@
     "ShortName": "SOMAPAY SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7528,9 +7528,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-04",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-08-13 09:27:38",
     "DateRegistered": "2023-09-25T12:28:25.1347557+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347558+00:00"
+    "DateUpdated": "2024-08-14T12:07:34.3550167+00:00"
   },
   {
     "COMPE": "521",

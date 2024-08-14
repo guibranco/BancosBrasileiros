@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-08-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 520 - SOMAPAY SCD S.A. - 44.705.774/0001-93
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-08-13 09:27:38
+
 ### 2024-08-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
