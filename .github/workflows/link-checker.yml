@@ -24,12 +24,27 @@ jobs:
           path: .lycheecache
           key: cache-lychee-${{ github.sha }}
           restore-keys: cache-lychee-
+
+      - name: Attach WireGuard connection
+        shell: bash
+        run: |
+          sudo apt install resolvconf
+          sudo apt install wireguard
+          echo "${{ secrets.WIREGUARD_CONFIG }}" > wg0.conf
+          sudo chmod 600 wg0.conf
+          sudo wg-quick up ./wg0.conf
       
       - name: Run lychee
         uses: lycheeverse/lychee-action@v1.10.0
         id: lychee
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           args: "--base . --cache --max-cache-age 1d ."
+
+      - name: Detach WireGuard connection
+        shell: bash
+        run: sudo wg-quick down ./wg0.conf
       
       - name: Create issue
         if: env.lychee_exit_code != 0

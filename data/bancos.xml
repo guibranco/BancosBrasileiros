@@ -934,7 +934,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
-    <Url>https://www.boc-brazil.com</Url>
     <DateOperationStarted>2009-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114715-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7265882Z</DateUpdated>
@@ -1012,11 +1011,16 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal. Financiamento de Veículos. Outros.</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url>https://www.bancorandon.com</Url>
     <DateOperationStarted>2020-08-03</DateOperationStarted>
     <DatePixStarted>2022-11-21 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114729-03:00</DateRegistered>
-    <DateUpdated>2022-11-12T12:06:33.149399Z</DateUpdated>
+    <DateUpdated>2024-07-31T12:31:34.635606Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>089</COMPE>
@@ -1594,7 +1598,6 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
-    <Url>https://www.brasilplural.com</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115172-03:00</DateRegistered>
@@ -2144,7 +2147,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.itaubba.com.br</Url>
+    <Url>https://www.itau.com.br/itaubba-pt</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114884-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114886-03:00</DateUpdated>
@@ -2393,7 +2396,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.johndeere.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115474-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3495801Z</DateUpdated>
@@ -2565,7 +2567,6 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancomaxima.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115103-03:00</DateRegistered>
@@ -2623,8 +2624,8 @@
     <COMPE>250</COMPE>
     <ISPB>50585090</ISPB>
     <Document>50.585.090/0001-06</Document>
-    <LongName>BCV - BANCO DE CRÉDITO E VAREJO S.A.</LongName>
-    <ShortName>"BCV - BCO, CRÉDITO E VAREJO S.A."</ShortName>
+    <LongName>BANCO BMG CONSIGNADO S.A.</LongName>
+    <ShortName>BANCO BMG CONSIGNADO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2633,10 +2634,9 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bancobcv.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115191-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.402562Z</DateUpdated>
+    <DateUpdated>2024-07-30T12:30:20.9839572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>253</COMPE>
@@ -3739,7 +3739,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -3753,7 +3753,7 @@
     <DateOperationStarted>2019-01-31</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115026-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7246608Z</DateUpdated>
+    <DateUpdated>2024-08-09T12:07:01.1518628Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>340</COMPE>
@@ -3856,7 +3856,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <SalaryPortability>Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Pessoal</Product>
@@ -3865,7 +3865,7 @@
     <DateOperationStarted>2019-11-01</DateOperationStarted>
     <DatePixStarted>2021-06-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115069-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7380814Z</DateUpdated>
+    <DateUpdated>2024-08-13T12:07:50.4184001Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>349</COMPE>
@@ -4166,7 +4166,6 @@
       <Product>Crédito consignado</Product>
       <Product>Troca de modalidade</Product>
     </Products>
-    <Url>https://www.carrefoursolucoes.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
@@ -4186,7 +4185,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.mizuhobank.com/brazil/pt/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115287-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115289-03:00</DateUpdated>
@@ -6300,6 +6298,7 @@
     <LongName>SOMAPAY SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>SOMAPAY SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6307,8 +6306,9 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-04</DateOperationStarted>
+    <DatePixStarted>2024-08-13 09:27:38</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347557Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.1347558Z</DateUpdated>
+    <DateUpdated>2024-08-14T12:07:34.3550167Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>521</COMPE>
@@ -7580,6 +7580,23 @@
     <DateUpdated>2024-05-18T12:06:39.8544363Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>599</COMPE>
+    <ISPB>36321990</ISPB>
+    <Document>36.321.990/0001-07</Document>
+    <LongName>AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>AGORACRED S/A SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-08-07</DateOperationStarted>
+    <DateRegistered>2024-08-05T12:07:23.9850149Z</DateRegistered>
+    <DateUpdated>2024-08-05T12:07:23.9850339Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>600</COMPE>
     <ISPB>59118133</ISPB>
     <Document>59.118.133/0001-00</Document>
@@ -7739,6 +7756,23 @@
     <DateOperationStarted>2024-06-14</DateOperationStarted>
     <DateRegistered>2024-06-10T12:07:20.428794Z</DateRegistered>
     <DateUpdated>2024-06-10T12:07:20.4288223Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>619</COMPE>
+    <ISPB>49931906</ISPB>
+    <Document>49.931.906/0001-19</Document>
+    <LongName>TRIO INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>TRIO IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-08-01</DateOperationStarted>
+    <DateRegistered>2024-07-26T12:29:30.1748074Z</DateRegistered>
+    <DateUpdated>2024-07-26T12:29:30.1748268Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>620</COMPE>
@@ -8467,7 +8501,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
-    <Url>https://www.bancokeb.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114464-03:00</DateRegistered>

@@ -4,6 +4,48 @@
 
 ## Changelog
 
+### 2024-08-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 520 - SOMAPAY SCD S.A. - 44.705.774/0001-93
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-08-13 09:27:38
+
+### 2024-08-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 348 - BCO XP S.A. - 33.264.668/0001-03
+    - **SalaryPortability** (PCPS): Banco folha e Destinatário **->** Destinatário
+
+### 2024-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 336 - BCO C6 S.A. - 31.872.495/0001-72
+    - **SalaryPortability** (PCPS): Banco folha e Destinatário **->** Destinatário
+
+### 2024-08-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 599 - AGORACRED S/A SCFI - 36.321.990/0001-07
+
+### 2024-07-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 88 - BANCO RANDON S.A. - 11.476.673/0001-39
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal. Financiamento de Veículos. Outros., Troca de Modalidade
+
+### 2024-07-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 250 - BANCO BMG CONSIGNADO S.A. - 50.585.090/0001-06
+    - **LongName** (STR): BCV - BANCO DE CRÉDITO E VAREJO S.A. **->** BANCO BMG CONSIGNADO S.A.
+    - **ShortName** (STR): "BCV - BCO, CRÉDITO E VAREJO S.A." **->** BANCO BMG CONSIGNADO S.A.
+
+### 2024-07-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 619 - TRIO IP LTDA. - 49.931.906/0001-19
+
 ### 2024-07-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
