@@ -255,7 +255,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bnymellon.com.br</Url>
+    <Url>https://www.bnymellon.com/br/pt.html</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115161-03:00</DateRegistered>
     <DateUpdated>2022-07-22T07:49:18.4024695Z</DateUpdated>
@@ -603,7 +603,6 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.ibi.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114534-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.1752278Z</DateUpdated>
@@ -1361,7 +1360,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
-    <Url>https://www.bancobbm.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114855-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7233843Z</DateUpdated>
@@ -2439,7 +2437,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.calyon.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115434-03:00</DateRegistered>
     <DateUpdated>2022-07-22T07:49:18.4031082Z</DateUpdated>
@@ -2487,7 +2484,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bancocifra.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115358-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711536-03:00</DateUpdated>
@@ -4932,7 +4928,6 @@
     <PCR>true</PCR>
     <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
-    <Url>https://www.bancocapital.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2022-09-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114859-03:00</DateRegistered>
@@ -5917,7 +5912,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.itaubank.com.br</Url>
+    <Url>https://www.itau.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115247-03:00</DateRegistered>
     <DateUpdated>2021-05-21T23:01:28.1603338-03:00</DateUpdated>
@@ -7617,7 +7612,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.lusobrasileiro.com.br</Url>
+    <Url>https://bancoluso.com.br/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-12-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115232-03:00</DateRegistered>
@@ -7857,7 +7852,6 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <Url>https://www.intercap.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115221-03:00</DateRegistered>
@@ -7986,6 +7980,25 @@
     <DateOperationStarted>2024-06-13</DateOperationStarted>
     <DateRegistered>2024-06-07T12:08:28.2768552Z</DateRegistered>
     <DateUpdated>2024-06-07T12:08:28.2768553Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>651</COMPE>
+    <ISPB>25104230</ISPB>
+    <Document>25.104.230/0001-21</Document>
+    <LongName>PAGARE INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PAGARE IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-08-28</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2024-08-22T12:07:02.8349554Z</DateRegistered>
+    <DateUpdated>2024-08-22T12:07:01.9508737Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>652</COMPE>
@@ -8283,7 +8296,6 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Destinatário</SalaryPortability>
-    <Url>https://www.bancomodal.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115014-03:00</DateRegistered>
