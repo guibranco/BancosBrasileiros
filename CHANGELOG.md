@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-08-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 651 - PAGARE IP S.A. - 25.104.230/0001-21
+
 ### 2024-08-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

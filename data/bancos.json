@@ -5158,7 +5158,7 @@
       "Pessoal",
       "Veículos"
     ],
-    "Url": "https://www.bancomercedesbenz.com.br",
+    "Url": "https://www.bancomercedes-benz.com.br",
     "DateOperationStarted": "2020-05-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115265-03:00",
@@ -9639,6 +9639,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2024-06-07T12:08:28.2768552+00:00",
     "DateUpdated": "2024-06-07T12:08:28.2768553+00:00"
+  },
+  {
+    "COMPE": "651",
+    "ISPB": "25104230",
+    "Document": "25.104.230/0001-21",
+    "LongName": "PAGARE INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "PAGARE IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-08-28",
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2024-08-22T12:07:02.8349554+00:00",
+    "DateUpdated": "2024-08-22T12:07:01.9508737+00:00"
   },
   {
     "COMPE": "652",

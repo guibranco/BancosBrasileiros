@@ -2,9 +2,16 @@ name: Link checker
 
 on:
   workflow_dispatch:
-  pull_request: null
+  pull_request:
+  push:
+    branches:
+      - main
   schedule:
     - cron: 0 0 * * 0
+
+concurrency:
+  group: links-cheker
+  cancel-in-progress: true
 
 jobs:
 
@@ -44,6 +51,7 @@ jobs:
 
       - name: Detach WireGuard connection
         shell: bash
+        if: always()
         run: sudo wg-quick down ./wg0.conf
       
       - name: Create issue
