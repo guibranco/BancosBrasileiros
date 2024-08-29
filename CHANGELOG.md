@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-08-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 719 - BANCO MASTER MÚLTIPLO - 33.884.941/0001-94
+
 ### 2024-08-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

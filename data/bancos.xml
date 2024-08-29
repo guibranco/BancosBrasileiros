@@ -603,6 +603,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114534-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.1752278Z</DateUpdated>
@@ -933,6 +934,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2009-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114715-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7265882Z</DateUpdated>
@@ -1360,6 +1362,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114855-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7233843Z</DateUpdated>
@@ -1555,6 +1558,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2011-11-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115062-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3422902Z</DateUpdated>
@@ -1596,6 +1600,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115172-03:00</DateRegistered>
@@ -1614,6 +1619,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2013-01-04</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711481-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114812-03:00</DateUpdated>
@@ -1631,6 +1637,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2012-11-09</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711469-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114691-03:00</DateUpdated>
@@ -1687,6 +1694,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2013-08-12</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114682-03:00</DateRegistered>
@@ -1705,6 +1713,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2013-07-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115313-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115315-03:00</DateUpdated>
@@ -1753,6 +1762,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2016-05-02</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114705-03:00</DateRegistered>
@@ -1771,6 +1781,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115095-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115097-03:00</DateUpdated>
@@ -1800,6 +1811,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112437-03:00</DateRegistered>
@@ -1818,6 +1830,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2014-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114719-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114721-03:00</DateUpdated>
@@ -1854,6 +1867,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-05-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115335-03:00</DateRegistered>
     <DateUpdated>2021-09-28T05:25:17.025616-03:00</DateUpdated>
@@ -1871,6 +1885,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-20</DateOperationStarted>
     <DateRegistered>2023-03-18T12:06:16.4394889Z</DateRegistered>
     <DateUpdated>2023-03-18T12:06:16.439489Z</DateUpdated>
@@ -1888,6 +1903,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-06-23</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114877-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114879-03:00</DateUpdated>
@@ -1905,6 +1921,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-08-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114487-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114489-03:00</DateUpdated>
@@ -1942,6 +1959,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-06-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115187-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115189-03:00</DateUpdated>
@@ -1959,6 +1977,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-05-20</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114952-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114954-03:00</DateUpdated>
@@ -1979,6 +1998,7 @@
     <Products>
       <Product>Consignado</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-07-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114866-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:51:35.2184797Z</DateUpdated>
@@ -1996,6 +2016,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2016-02-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114672-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114673-03:00</DateUpdated>
@@ -2014,6 +2035,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-09-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114582-03:00</DateRegistered>
@@ -2033,6 +2055,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2016-08-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114945-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3582913Z</DateUpdated>
@@ -2050,6 +2073,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2016-11-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114826-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114828-03:00</DateUpdated>
@@ -2073,6 +2097,7 @@
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-11-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115165-03:00</DateRegistered>
@@ -2091,6 +2116,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-05-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115361-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115363-03:00</DateUpdated>
@@ -2108,6 +2134,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-01-20</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114476-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114478-03:00</DateUpdated>
@@ -2126,6 +2153,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-06-12</DateOperationStarted>
     <DatePixStarted>2023-06-28 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114675-03:00</DateRegistered>
@@ -2163,6 +2191,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-07-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115091-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115093-03:00</DateUpdated>
@@ -2184,6 +2213,7 @@
       <Product>Consignado</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-06-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711462-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.9525364Z</DateUpdated>
@@ -2201,6 +2231,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7507194Z</DateUpdated>
@@ -2218,6 +2249,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-06-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114538-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711454-03:00</DateUpdated>
@@ -2235,6 +2267,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114926-03:00</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0801983Z</DateUpdated>
@@ -2252,6 +2285,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-09</DateOperationStarted>
     <DateRegistered>2021-08-24T13:06:55.8926601-03:00</DateRegistered>
     <DateUpdated>2021-08-24T13:06:55.8926604-03:00</DateUpdated>
@@ -2269,6 +2303,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-09-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115043-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115045-03:00</DateUpdated>
@@ -2288,6 +2323,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-18</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711487-03:00</DateRegistered>
@@ -2394,6 +2430,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115474-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3495801Z</DateUpdated>
@@ -2437,6 +2474,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115434-03:00</DateRegistered>
     <DateUpdated>2022-07-22T07:49:18.4031082Z</DateUpdated>
@@ -2484,6 +2522,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115358-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711536-03:00</DateUpdated>
@@ -2563,6 +2602,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-12 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115103-03:00</DateRegistered>
@@ -2630,6 +2670,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115191-03:00</DateRegistered>
     <DateUpdated>2024-07-30T12:30:20.9839572Z</DateUpdated>
@@ -2647,6 +2688,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2016-11-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115198-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.71152-03:00</DateUpdated>
@@ -2691,6 +2733,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-01-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114661-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114663-03:00</DateUpdated>
@@ -2710,6 +2753,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114912-03:00</DateRegistered>
@@ -2772,6 +2816,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-12-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114848-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.1885754Z</DateUpdated>
@@ -2790,6 +2835,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-02-07</DateOperationStarted>
     <DatePixStarted>2022-01-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115202-03:00</DateRegistered>
@@ -2808,6 +2854,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-08-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115302-03:00</DateRegistered>
     <DateUpdated>2023-11-29T12:06:22.4602221Z</DateUpdated>
@@ -2825,6 +2872,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-02-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114984-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114985-03:00</DateUpdated>
@@ -2842,6 +2890,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-11-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7112212-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7112295-03:00</DateUpdated>
@@ -2860,6 +2909,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-04-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114649-03:00</DateRegistered>
@@ -2885,6 +2935,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-09-10</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114738-03:00</DateRegistered>
@@ -2907,6 +2958,7 @@
     <Products>
       <Product>Consignado</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-06-12</DateOperationStarted>
     <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114792-03:00</DateRegistered>
@@ -2925,6 +2977,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-05-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711498-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114981-03:00</DateUpdated>
@@ -2944,6 +2997,7 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-06-05</DateOperationStarted>
     <DatePixStarted>2022-04-04 14:48:55</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711496-03:00</DateRegistered>
@@ -2967,6 +3021,7 @@
       <Product>Crédito Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DatePixStarted>2024-03-19 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
@@ -2986,6 +3041,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-11-05</DateOperationStarted>
     <DatePixStarted>2021-06-10 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115437-03:00</DateRegistered>
@@ -3004,6 +3060,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-07-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115467-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115469-03:00</DateUpdated>
@@ -3021,6 +3078,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115423-03:00</DateRegistered>
     <DateUpdated>2023-03-18T12:06:14.6197474Z</DateUpdated>
@@ -3039,6 +3097,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-17</DateOperationStarted>
     <DatePixStarted>2023-03-06 10:22:14</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114638-03:00</DateRegistered>
@@ -3057,6 +3116,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-07-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115342-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115344-03:00</DateUpdated>
@@ -3074,6 +3134,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-03-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115496-03:00</DateRegistered>
     <DateUpdated>2022-03-16T07:58:39.2793254Z</DateUpdated>
@@ -3093,6 +3154,7 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-11-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114657-03:00</DateRegistered>
@@ -3111,6 +3173,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-10-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114995-03:00</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0807008Z</DateUpdated>
@@ -3128,6 +3191,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-10</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115419-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115421-03:00</DateUpdated>
@@ -3145,6 +3209,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-02-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114531-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:13.517057Z</DateUpdated>
@@ -3162,6 +3227,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-08-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114899-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114901-03:00</DateUpdated>
@@ -3184,6 +3250,7 @@
       <Product>Consignado</Product>
       <Product>Pessoal e Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-12-03</DateOperationStarted>
     <DatePixStarted>2023-05-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114556-03:00</DateRegistered>
@@ -3222,6 +3289,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114822-03:00</DateRegistered>
@@ -3240,6 +3308,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-02-19</DateOperationStarted>
     <DateRegistered>2024-02-09T12:06:01.2609905Z</DateRegistered>
     <DateUpdated>2024-02-09T12:06:01.2610091Z</DateUpdated>
@@ -3257,6 +3326,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-02-06</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115158-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711516-03:00</DateUpdated>
@@ -3274,6 +3344,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-10-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114523-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114525-03:00</DateUpdated>
@@ -3291,6 +3362,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-11-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114841-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114842-03:00</DateUpdated>
@@ -3309,6 +3381,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-10-18</DateOperationStarted>
     <DatePixStarted>2023-03-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114937-03:00</DateRegistered>
@@ -3327,6 +3400,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-01-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115445-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115447-03:00</DateUpdated>
@@ -3345,6 +3419,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-09</DateOperationStarted>
     <DatePixStarted>2022-12-12 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114635-03:00</DateRegistered>
@@ -3363,6 +3438,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-08-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114874-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114875-03:00</DateUpdated>
@@ -3380,6 +3456,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-01-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114512-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114514-03:00</DateUpdated>
@@ -3426,6 +3503,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-03-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114734-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114735-03:00</DateUpdated>
@@ -3462,6 +3540,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-06-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114908-03:00</DateRegistered>
     <DateUpdated>2024-05-15T12:07:37.283303Z</DateUpdated>
@@ -3481,6 +3560,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco Folha</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-06-14</DateOperationStarted>
     <DatePixStarted>2022-03-14 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114423-03:00</DateRegistered>
@@ -3501,6 +3581,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-06-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114708-03:00</DateRegistered>
@@ -3526,6 +3607,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade.</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114933-03:00</DateRegistered>
@@ -3544,6 +3626,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-05-31</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114815-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114817-03:00</DateUpdated>
@@ -3566,6 +3649,7 @@
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-01-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114505-03:00</DateRegistered>
@@ -3584,6 +3668,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-03-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114602-03:00</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0775588Z</DateUpdated>
@@ -3609,6 +3694,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-04-30</DateOperationStarted>
     <DatePixStarted>2021-06-14 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711504-03:00</DateRegistered>
@@ -3635,6 +3721,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-07-22</DateOperationStarted>
     <DatePixStarted>2021-02-25 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7113173-03:00</DateRegistered>
@@ -3653,6 +3740,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-09-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114829-03:00</DateRegistered>
     <DateUpdated>2024-05-29T12:06:54.8816058Z</DateUpdated>
@@ -3672,6 +3760,7 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-08-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114807-03:00</DateRegistered>
@@ -3690,6 +3779,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-22</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112605Z</DateUpdated>
@@ -3765,6 +3855,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-09-25</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114697-03:00</DateRegistered>
@@ -3816,6 +3907,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-07-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115047-03:00</DateRegistered>
@@ -3834,6 +3926,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-11-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114956-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114958-03:00</DateUpdated>
@@ -3858,6 +3951,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-11-01</DateOperationStarted>
     <DatePixStarted>2021-06-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115069-03:00</DateRegistered>
@@ -3887,6 +3981,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-10-24</DateOperationStarted>
     <DatePixStarted>2023-08-01 15:22:55</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114967-03:00</DateRegistered>
@@ -3906,6 +4001,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-05-27</DateOperationStarted>
     <DatePixStarted>2022-01-07 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114431-03:00</DateRegistered>
@@ -3924,6 +4020,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-11-29</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115003-03:00</DateRegistered>
     <DateUpdated>2021-09-13T19:08:15.553781-03:00</DateUpdated>
@@ -3941,6 +4038,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-10-30</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115194-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115196-03:00</DateUpdated>
@@ -3959,6 +4057,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-10-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115114-03:00</DateRegistered>
@@ -3982,6 +4081,7 @@
     <Products>
       <Product>Pessoal</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-01</DateOperationStarted>
     <DatePixStarted>2021-07-19 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114686-03:00</DateRegistered>
@@ -4009,6 +4109,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veiculos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114578-03:00</DateRegistered>
@@ -4027,6 +4128,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-16</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114461-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114462-03:00</DateUpdated>
@@ -4045,6 +4147,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-17</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711436-03:00</DateRegistered>
@@ -4063,6 +4166,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-06-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115346-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115348-03:00</DateUpdated>
@@ -4082,6 +4186,7 @@
     <PCR>true</PCR>
     <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-03-16</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114668-03:00</DateRegistered>
@@ -4101,6 +4206,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-03-17</DateOperationStarted>
     <DatePixStarted>2024-01-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115408-03:00</DateRegistered>
@@ -4138,6 +4244,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-03-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115117-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115119-03:00</DateUpdated>
@@ -4162,6 +4269,7 @@
       <Product>Crédito consignado</Product>
       <Product>Troca de modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DatePixStarted>2022-10-31 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114653-03:00</DateRegistered>
@@ -4181,6 +4289,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115287-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115289-03:00</DateUpdated>
@@ -4199,6 +4308,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-05-13</DateOperationStarted>
     <DatePixStarted>2022-11-14 12:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115489-03:00</DateRegistered>
@@ -4225,6 +4335,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veiculos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
@@ -4248,6 +4359,7 @@
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2021-04-14 12:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114975-03:00</DateRegistered>
@@ -4290,6 +4402,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-10-01</DateOperationStarted>
     <DatePixStarted>2024-01-11 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114904-03:00</DateRegistered>
@@ -4309,6 +4422,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-11</DateOperationStarted>
     <DatePixStarted>2024-03-18 06:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114454-03:00</DateRegistered>
@@ -4335,6 +4449,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114443-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.8456698Z</DateUpdated>
@@ -4379,7 +4494,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancomercedesbenz.com.br</Url>
+    <Url>https://www.bancomercedes-benz.com.br</Url>
     <DateOperationStarted>2020-05-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115265-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.1824214Z</DateUpdated>
@@ -4398,6 +4513,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-31</DateOperationStarted>
     <DatePixStarted>2021-12-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114541-03:00</DateRegistered>
@@ -4417,6 +4533,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-09</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711493-03:00</DateRegistered>
@@ -4436,6 +4553,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-10-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114726-03:00</DateRegistered>
@@ -4454,6 +4572,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-03-08</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.1136389Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0760465Z</DateUpdated>
@@ -4476,6 +4595,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-01-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711501-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.9570288Z</DateUpdated>
@@ -4549,6 +4669,7 @@
     <Products>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115236-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:51:34.5493915Z</DateUpdated>
@@ -4568,6 +4689,7 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-10</DateOperationStarted>
     <DatePixStarted>2024-03-07 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114646-03:00</DateRegistered>
@@ -4636,6 +4758,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-12-01</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114664-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114666-03:00</DateUpdated>
@@ -4654,6 +4777,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-08-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114837-03:00</DateRegistered>
@@ -4673,6 +4797,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115106-03:00</DateRegistered>
@@ -4691,6 +4816,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-01-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115022-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115024-03:00</DateUpdated>
@@ -4709,6 +4835,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114446-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114448-03:00</DateUpdated>
@@ -4727,6 +4854,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DatePixStarted>2024-01-23 11:13:19</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711459-03:00</DateRegistered>
@@ -4746,6 +4874,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-06</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114851-03:00</DateRegistered>
@@ -4765,6 +4894,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-12-03</DateOperationStarted>
     <DatePixStarted>2021-12-08 09:15:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115132-03:00</DateRegistered>
@@ -4789,6 +4919,7 @@
       <Product>Cheque Especial</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-29</DateOperationStarted>
     <DatePixStarted>2023-03-24 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115147-03:00</DateRegistered>
@@ -4808,6 +4939,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-10-16</DateOperationStarted>
     <DatePixStarted>2021-04-19 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115136-03:00</DateRegistered>
@@ -4827,6 +4959,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-11-27</DateOperationStarted>
     <DatePixStarted>2023-03-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115144-03:00</DateRegistered>
@@ -4846,6 +4979,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2022-11-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711258-03:00</DateRegistered>
@@ -4865,6 +4999,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-10-14</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115128-03:00</DateRegistered>
@@ -4884,6 +5019,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DatePixStarted>2024-01-10 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
@@ -4907,6 +5043,7 @@
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2021-06-24 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114575-03:00</DateRegistered>
@@ -4928,6 +5065,7 @@
     <PCR>true</PCR>
     <PCRP>false</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2022-09-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114859-03:00</DateRegistered>
@@ -4948,6 +5086,7 @@
     <PCR>true</PCR>
     <PCRP>false</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DatePixStarted>2021-06-14 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-21T23:01:29.4844407-03:00</DateRegistered>
@@ -4966,6 +5105,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-03-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711514-03:00</DateRegistered>
     <DateUpdated>2022-10-29T12:07:14.5244799Z</DateUpdated>
@@ -4983,6 +5123,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-04-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114922-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114924-03:00</DateUpdated>
@@ -5000,6 +5141,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-26</DateOperationStarted>
     <DateRegistered>2021-08-24T13:06:55.8926609-03:00</DateRegistered>
     <DateUpdated>2021-08-24T13:06:55.8926612-03:00</DateUpdated>
@@ -5018,6 +5160,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-03-18</DateOperationStarted>
     <DatePixStarted>2022-01-06 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115151-03:00</DateRegistered>
@@ -5037,6 +5180,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-07-21</DateOperationStarted>
     <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601604-03:00</DateRegistered>
@@ -5087,6 +5231,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-06-07</DateOperationStarted>
     <DateRegistered>2021-06-03T10:45:43.4334262-03:00</DateRegistered>
     <DateUpdated>2021-06-03T10:45:43.4334304-03:00</DateUpdated>
@@ -5112,6 +5257,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-07-27</DateOperationStarted>
     <DatePixStarted>2022-12-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-02T11:56:55.6601087-03:00</DateRegistered>
@@ -5136,6 +5282,7 @@
       <Product>Outros</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DateRegistered>2021-05-21T23:01:29.4844658-03:00</DateRegistered>
     <DateUpdated>2024-06-05T12:06:51.609081Z</DateUpdated>
@@ -5158,6 +5305,7 @@
       <Product>Consignado</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-04-26</DateOperationStarted>
     <DatePixStarted>2022-11-22 13:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114971-03:00</DateRegistered>
@@ -5181,6 +5329,7 @@
       <Product>Crédito Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-04-20</DateOperationStarted>
     <DatePixStarted>2022-02-14 15:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115154-03:00</DateRegistered>
@@ -5205,6 +5354,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817149-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.743045Z</DateUpdated>
@@ -5224,6 +5374,7 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-02-11 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926308-03:00</DateRegistered>
@@ -5242,6 +5393,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-06-21</DateOperationStarted>
     <DateRegistered>2021-06-22T10:03:37.2758829-03:00</DateRegistered>
     <DateUpdated>2021-06-22T10:03:37.2758835-03:00</DateUpdated>
@@ -5260,6 +5412,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-08-23 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926615-03:00</DateRegistered>
@@ -5278,6 +5431,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-04</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115365-03:00</DateRegistered>
     <DateUpdated>2022-08-25T12:36:48.5303514Z</DateUpdated>
@@ -5296,6 +5450,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-30</DateOperationStarted>
     <DatePixStarted>2023-10-23 10:10:00</DatePixStarted>
     <DateRegistered>2021-09-28T05:25:19.3476011-03:00</DateRegistered>
@@ -5314,6 +5469,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-02</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
     <DateUpdated>2021-10-23T20:54:59.5267227-03:00</DateUpdated>
@@ -5331,6 +5487,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-15</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817391-03:00</DateRegistered>
     <DateUpdated>2021-09-13T19:08:16.9817393-03:00</DateUpdated>
@@ -5348,6 +5505,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-11-18</DateOperationStarted>
     <DateRegistered>2021-11-22T11:00:23.679021-03:00</DateRegistered>
     <DateUpdated>2021-11-22T11:00:23.6790215-03:00</DateUpdated>
@@ -5366,6 +5524,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-09</DateOperationStarted>
     <DatePixStarted>2022-11-07 17:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817382-03:00</DateRegistered>
@@ -5384,6 +5543,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-06-23</DateOperationStarted>
     <DateRegistered>2021-06-22T10:03:37.2758379-03:00</DateRegistered>
     <DateUpdated>2021-06-22T10:03:37.2758811-03:00</DateUpdated>
@@ -5401,6 +5561,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-27</DateOperationStarted>
     <DateRegistered>2021-09-28T05:25:19.347575-03:00</DateRegistered>
     <DateUpdated>2023-10-06T12:06:37.6641955Z</DateUpdated>
@@ -5418,6 +5579,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-17</DateOperationStarted>
     <DateRegistered>2021-08-24T13:06:55.8926622-03:00</DateRegistered>
     <DateUpdated>2021-08-24T13:06:55.8926625-03:00</DateUpdated>
@@ -5435,6 +5597,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-10-22</DateOperationStarted>
     <DateRegistered>2021-10-23T20:55:03.4293187-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7444605Z</DateUpdated>
@@ -5453,6 +5616,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
@@ -5472,6 +5636,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-01-18</DateOperationStarted>
     <DatePixStarted>2023-11-24 10:00:00</DatePixStarted>
     <DateRegistered>2022-02-01T08:17:39.0832206Z</DateRegistered>
@@ -5491,6 +5656,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-15</DateOperationStarted>
     <DatePixStarted>2023-04-03 11:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817378-03:00</DateRegistered>
@@ -5509,6 +5675,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-11-23</DateOperationStarted>
     <DateRegistered>2021-11-22T11:00:23.679022-03:00</DateRegistered>
     <DateUpdated>2021-11-22T11:00:23.6790225-03:00</DateUpdated>
@@ -5526,6 +5693,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-05</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.984961Z</DateRegistered>
     <DateUpdated>2022-11-30T12:07:13.984961Z</DateUpdated>
@@ -5563,6 +5731,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-10-26</DateOperationStarted>
     <DatePixStarted>2023-04-17 10:04:25</DatePixStarted>
     <DateRegistered>2021-10-23T20:55:03.4293722-03:00</DateRegistered>
@@ -5581,6 +5750,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-08</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817372-03:00</DateRegistered>
     <DateUpdated>2021-09-13T19:08:16.9817374-03:00</DateUpdated>
@@ -5602,6 +5772,7 @@
       <Product>Consignado</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-11-04</DateOperationStarted>
     <DateRegistered>2021-11-22T11:00:23.6789568-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.5599179Z</DateUpdated>
@@ -5620,6 +5791,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-01-18</DateOperationStarted>
     <DatePixStarted>2024-03-05 08:30:00</DatePixStarted>
     <DateRegistered>2022-02-01T08:17:39.0832328Z</DateRegistered>
@@ -5639,6 +5811,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-10-29</DateOperationStarted>
     <DatePixStarted>2021-11-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-11-22T11:00:23.6790202-03:00</DateRegistered>
@@ -5658,6 +5831,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-10-01</DateOperationStarted>
     <DatePixStarted>2021-11-29 20:00:00</DatePixStarted>
     <DateRegistered>2021-10-23T20:55:03.4293732-03:00</DateRegistered>
@@ -5676,6 +5850,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-12-21</DateOperationStarted>
     <DateRegistered>2022-01-05T11:00:34.5914098Z</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7208906Z</DateUpdated>
@@ -5713,6 +5888,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-12-03</DateOperationStarted>
     <DatePixStarted>2023-03-27 10:00:00</DatePixStarted>
     <DateRegistered>2021-12-13T12:13:48.9317922Z</DateRegistered>
@@ -5731,6 +5907,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-12-16</DateOperationStarted>
     <DateRegistered>2021-12-13T12:13:48.9317806Z</DateRegistered>
     <DateUpdated>2021-12-13T12:13:48.9317918Z</DateUpdated>
@@ -5755,6 +5932,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-02-09</DateOperationStarted>
     <DatePixStarted>2022-03-14 14:00:00</DatePixStarted>
     <DateRegistered>2022-02-16T07:02:06.0714205Z</DateRegistered>
@@ -5773,6 +5951,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-03-09</DateOperationStarted>
     <DateRegistered>2022-03-16T07:58:41.113663Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0778895Z</DateUpdated>
@@ -5791,6 +5970,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-03-15</DateOperationStarted>
     <DatePixStarted>2024-01-08 08:00:00</DatePixStarted>
     <DateRegistered>2022-03-16T07:58:41.1136636Z</DateRegistered>
@@ -5809,6 +5989,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-07-18</DateOperationStarted>
     <DateRegistered>2022-07-14T12:06:01.0960677Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0771302Z</DateUpdated>
@@ -5848,6 +6029,7 @@
     <Products>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-09-05</DateOperationStarted>
     <DateRegistered>2022-09-02T12:07:04.257303Z</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7383112Z</DateUpdated>
@@ -5894,6 +6076,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-03-21</DateOperationStarted>
     <DatePixStarted>2023-01-23 13:00:00</DatePixStarted>
     <DateRegistered>2022-03-31T08:12:19.2479082Z</DateRegistered>
@@ -5931,6 +6114,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-08-29</DateOperationStarted>
     <DatePixStarted>2023-08-21 09:00:00</DatePixStarted>
     <DateRegistered>2022-08-24T12:36:20.0513082Z</DateRegistered>
@@ -5949,6 +6133,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-10-11</DateOperationStarted>
     <DateRegistered>2022-10-04T12:08:42.7066127Z</DateRegistered>
     <DateUpdated>2022-10-04T12:08:42.7066128Z</DateUpdated>
@@ -5966,6 +6151,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-07-20</DateOperationStarted>
     <DateRegistered>2022-07-16T12:07:46.2417741Z</DateRegistered>
     <DateUpdated>2022-07-16T12:07:46.2417743Z</DateUpdated>
@@ -6041,6 +6227,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115169-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711517-03:00</DateUpdated>
@@ -6077,6 +6264,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-07-21</DateOperationStarted>
     <DateRegistered>2022-07-19T12:06:21.2700855Z</DateRegistered>
     <DateUpdated>2022-07-19T12:06:21.2700856Z</DateUpdated>
@@ -6094,6 +6282,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-12</DateOperationStarted>
     <DateRegistered>2022-12-08T12:06:49.6471588Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:53.4981646Z</DateUpdated>
@@ -6111,6 +6300,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-08-18</DateOperationStarted>
     <DateRegistered>2022-08-13T12:30:35.4201882Z</DateRegistered>
     <DateUpdated>2022-08-13T12:30:35.4201883Z</DateUpdated>
@@ -6129,6 +6319,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-01-23</DateOperationStarted>
     <DatePixStarted>2023-09-28 17:40:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112604Z</DateRegistered>
@@ -6148,6 +6339,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-11-18</DateOperationStarted>
     <DatePixStarted>2024-01-15 09:40:38</DatePixStarted>
     <DateRegistered>2022-11-15T12:07:18.5294791Z</DateRegistered>
@@ -6167,6 +6359,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-08-22</DateOperationStarted>
     <DatePixStarted>2023-04-24 10:00:00</DatePixStarted>
     <DateRegistered>2022-08-16T12:32:57.3964844Z</DateRegistered>
@@ -6185,6 +6378,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-08-01</DateOperationStarted>
     <DateRegistered>2022-07-20T12:06:03.4386093Z</DateRegistered>
     <DateUpdated>2022-11-04T12:08:27.675962Z</DateUpdated>
@@ -6202,6 +6396,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-02</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.9849611Z</DateRegistered>
     <DateUpdated>2024-07-01T12:31:48.6647509Z</DateUpdated>
@@ -6219,6 +6414,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-11-01</DateOperationStarted>
     <DateRegistered>2023-10-26T12:06:02.2870023Z</DateRegistered>
     <DateUpdated>2023-10-26T12:06:02.2870283Z</DateUpdated>
@@ -6241,6 +6437,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-10-24</DateOperationStarted>
     <DateRegistered>2022-10-21T12:08:38.2728811Z</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.9602279Z</DateUpdated>
@@ -6265,6 +6462,7 @@
       <Product>Financiamento de Veículos</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-01-30</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112607Z</DateRegistered>
     <DateUpdated>2024-05-30T12:06:43.4845721Z</DateUpdated>
@@ -6282,6 +6480,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-12</DateOperationStarted>
     <DateRegistered>2022-12-07T12:06:48.2610092Z</DateRegistered>
     <DateUpdated>2022-12-07T12:06:48.2610093Z</DateUpdated>
@@ -6300,6 +6499,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-04</DateOperationStarted>
     <DatePixStarted>2024-08-13 09:27:38</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347557Z</DateRegistered>
@@ -6318,6 +6518,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-01-27</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.311261Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.311261Z</DateUpdated>
@@ -6335,6 +6536,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-27</DateOperationStarted>
     <DateRegistered>2023-03-22T12:07:30.8431247Z</DateRegistered>
     <DateUpdated>2023-03-22T12:07:30.8431248Z</DateUpdated>
@@ -6353,6 +6555,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-15</DateOperationStarted>
     <DatePixStarted>2024-06-10 06:02:13</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
@@ -6371,6 +6574,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-01</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112615Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112615Z</DateUpdated>
@@ -6388,6 +6592,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-05</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.9849608Z</DateRegistered>
     <DateUpdated>2022-11-30T12:07:13.9849609Z</DateUpdated>
@@ -6406,6 +6611,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-01-20</DateOperationStarted>
     <DatePixStarted>2024-01-10 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112616Z</DateRegistered>
@@ -6424,6 +6630,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-06</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112612Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112613Z</DateUpdated>
@@ -6442,6 +6649,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2024-04-01 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
@@ -6461,6 +6669,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-11-16</DateOperationStarted>
     <DatePixStarted>2023-06-07 09:15:00</DatePixStarted>
     <DateRegistered>2022-11-12T12:06:34.2025683Z</DateRegistered>
@@ -6485,6 +6694,7 @@
       <Product>Crédito Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-14</DateOperationStarted>
     <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7504877Z</DateUpdated>
@@ -6509,6 +6719,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-05-22</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347544Z</DateRegistered>
     <DateUpdated>2024-05-21T12:06:40.2011379Z</DateUpdated>
@@ -6526,6 +6737,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-04-03</DateOperationStarted>
     <DateRegistered>2023-03-29T12:07:07.8301112Z</DateRegistered>
     <DateUpdated>2023-03-29T12:07:07.8301112Z</DateUpdated>
@@ -6543,6 +6755,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-07-17</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347537Z</DateRegistered>
     <DateUpdated>2024-03-22T12:06:54.1991257Z</DateUpdated>
@@ -6561,6 +6774,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-04-03</DateOperationStarted>
     <DatePixStarted>2023-10-25 09:10:00</DatePixStarted>
     <DateRegistered>2023-03-29T12:07:07.8301111Z</DateRegistered>
@@ -6579,6 +6793,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-10</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112609Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0817578Z</DateUpdated>
@@ -6598,6 +6813,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-01-12</DateOperationStarted>
     <DatePixStarted>2023-01-27 07:15:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
@@ -6617,6 +6833,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112613Z</DateRegistered>
@@ -6635,6 +6852,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-05-08</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347536Z</DateRegistered>
     <DateUpdated>2024-04-26T12:07:21.5039874Z</DateUpdated>
@@ -6655,6 +6873,7 @@
     <Products>
       <Product>Consignado</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-04-17</DateOperationStarted>
     <DateRegistered>2023-04-14T12:06:49.3169426Z</DateRegistered>
     <DateUpdated>2023-04-14T12:06:49.2612228Z</DateUpdated>
@@ -6672,6 +6891,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-01-08</DateOperationStarted>
     <DateRegistered>2024-01-09T12:06:15.138698Z</DateRegistered>
     <DateUpdated>2024-06-29T12:28:25.1292546Z</DateUpdated>
@@ -6689,6 +6909,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-08</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112602Z</DateRegistered>
     <DateUpdated>2023-03-03T14:56:55.3112603Z</DateUpdated>
@@ -6707,6 +6928,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-07-19</DateOperationStarted>
     <DatePixStarted>2023-08-24 16:40:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347534Z</DateRegistered>
@@ -6725,6 +6947,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-06-23</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347564Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347565Z</DateUpdated>
@@ -6742,6 +6965,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-04</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347546Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347547Z</DateUpdated>
@@ -6759,6 +6983,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2010-09-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114892-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7114893-03:00</DateUpdated>
@@ -6777,6 +7002,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-04-24</DateOperationStarted>
     <DatePixStarted>2023-11-08 17:15:00</DatePixStarted>
     <DateRegistered>2023-04-19T12:07:00.4802737Z</DateRegistered>
@@ -6796,6 +7022,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-06-01</DateOperationStarted>
     <DatePixStarted>2024-04-17 09:37:44</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347559Z</DateRegistered>
@@ -6814,6 +7041,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-05-29</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.134727Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347529Z</DateUpdated>
@@ -6831,6 +7059,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-06-19</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347533Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347533Z</DateUpdated>
@@ -6849,6 +7078,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-11</DateOperationStarted>
     <DatePixStarted>2023-11-10 17:10:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347541Z</DateRegistered>
@@ -6867,6 +7097,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-05-27</DateOperationStarted>
     <DateRegistered>2024-05-21T12:06:40.2035352Z</DateRegistered>
     <DateUpdated>2024-05-21T12:06:40.2035642Z</DateUpdated>
@@ -6885,6 +7116,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-13</DateOperationStarted>
     <DatePixStarted>2021-03-05 10:42:15</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347542Z</DateRegistered>
@@ -6903,6 +7135,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-21</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347561Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347562Z</DateUpdated>
@@ -6920,6 +7153,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-07-24</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347539Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.134754Z</DateUpdated>
@@ -6936,6 +7170,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:23.0757285Z</DateUpdated>
   </bank>
@@ -6952,6 +7187,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-08-03</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.134755Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347551Z</DateUpdated>
@@ -6969,6 +7205,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-23</DateOperationStarted>
     <DateRegistered>2023-10-17T12:06:27.6807413Z</DateRegistered>
     <DateUpdated>2023-10-17T12:06:27.6807666Z</DateUpdated>
@@ -6986,6 +7223,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-04</DateOperationStarted>
     <DateRegistered>2024-02-28T12:06:05.3104277Z</DateRegistered>
     <DateUpdated>2024-02-28T12:06:05.3104278Z</DateUpdated>
@@ -7003,6 +7241,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-25</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7468657Z</DateUpdated>
@@ -7021,6 +7260,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-17</DateOperationStarted>
     <DatePixStarted>2021-02-23 19:27:38</DatePixStarted>
     <DateRegistered>2023-10-10T12:06:37.2093743Z</DateRegistered>
@@ -7040,6 +7280,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-18</DateOperationStarted>
     <DatePixStarted>2024-05-13 10:00:00</DatePixStarted>
     <DateRegistered>2023-10-11T12:06:36.1964889Z</DateRegistered>
@@ -7058,6 +7299,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-01-08</DateOperationStarted>
     <DateRegistered>2024-01-09T12:06:15.1387174Z</DateRegistered>
     <DateUpdated>2024-03-08T12:06:59.688307Z</DateUpdated>
@@ -7075,6 +7317,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-18</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347548Z</DateRegistered>
     <DateUpdated>2023-09-25T12:28:25.1347549Z</DateUpdated>
@@ -7092,6 +7335,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-11-20</DateOperationStarted>
     <DateRegistered>2023-11-14T12:06:11.793638Z</DateRegistered>
     <DateUpdated>2023-11-14T12:06:11.7936735Z</DateUpdated>
@@ -7110,6 +7354,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-30</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2023-10-24T12:06:14.1207735Z</DateRegistered>
@@ -7133,6 +7378,7 @@
       <Product>Outros Créditos</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-08-28</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347543Z</DateRegistered>
     <DateUpdated>2024-06-17T12:07:15.0691344Z</DateUpdated>
@@ -7150,6 +7396,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-12-08</DateOperationStarted>
     <DateRegistered>2023-12-04T12:06:24.367144Z</DateRegistered>
     <DateUpdated>2023-12-04T12:06:24.3671662Z</DateUpdated>
@@ -7167,6 +7414,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-31</DateOperationStarted>
     <DateRegistered>2023-10-25T12:06:22.8368523Z</DateRegistered>
     <DateUpdated>2023-10-25T12:06:22.8368905Z</DateUpdated>
@@ -7184,6 +7432,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-12-22</DateOperationStarted>
     <DateRegistered>2023-12-18T12:06:50.1170089Z</DateRegistered>
     <DateUpdated>2023-12-18T12:06:50.1170312Z</DateUpdated>
@@ -7201,6 +7450,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-13</DateOperationStarted>
     <DateRegistered>2024-06-07T12:08:28.2767917Z</DateRegistered>
     <DateUpdated>2024-06-07T12:08:28.2768294Z</DateUpdated>
@@ -7218,6 +7468,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-04-01</DateOperationStarted>
     <DateRegistered>2024-03-26T12:06:57.0908989Z</DateRegistered>
     <DateUpdated>2024-03-26T12:06:57.0909183Z</DateUpdated>
@@ -7235,6 +7486,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-15</DateOperationStarted>
     <DateRegistered>2024-03-11T12:06:18.8734039Z</DateRegistered>
     <DateUpdated>2024-03-11T12:06:18.8734358Z</DateUpdated>
@@ -7252,6 +7504,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-04-25</DateOperationStarted>
     <DateRegistered>2024-04-19T12:06:51.9247666Z</DateRegistered>
     <DateUpdated>2024-04-19T12:06:51.924785Z</DateUpdated>
@@ -7269,6 +7522,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-11-07</DateOperationStarted>
     <DateRegistered>2023-10-31T12:06:23.9585158Z</DateRegistered>
     <DateUpdated>2023-10-31T12:06:23.9585542Z</DateUpdated>
@@ -7286,6 +7540,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-02-21</DateOperationStarted>
     <DateRegistered>2024-02-15T12:06:06.9727601Z</DateRegistered>
     <DateUpdated>2024-06-24T12:07:23.4131363Z</DateUpdated>
@@ -7303,6 +7558,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-22</DateOperationStarted>
     <DateRegistered>2024-03-18T12:06:27.2064803Z</DateRegistered>
     <DateUpdated>2024-06-24T12:07:23.4124494Z</DateUpdated>
@@ -7320,6 +7576,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-08</DateOperationStarted>
     <DateRegistered>2024-03-04T12:10:35.000384Z</DateRegistered>
     <DateUpdated>2024-03-04T12:10:35.000413Z</DateUpdated>
@@ -7337,6 +7594,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-15</DateOperationStarted>
     <DateRegistered>2024-03-11T12:06:18.8734584Z</DateRegistered>
     <DateUpdated>2024-03-11T12:06:18.8734585Z</DateUpdated>
@@ -7354,6 +7612,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-02-28</DateOperationStarted>
     <DateRegistered>2024-02-26T12:06:17.8233066Z</DateRegistered>
     <DateUpdated>2024-02-26T12:06:17.8233338Z</DateUpdated>
@@ -7371,6 +7630,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-24</DateOperationStarted>
     <DateRegistered>2024-06-18T12:07:09.9885168Z</DateRegistered>
     <DateUpdated>2024-06-18T12:07:09.9885361Z</DateUpdated>
@@ -7389,6 +7649,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-02-21</DateOperationStarted>
     <DatePixStarted>2024-03-19 10:10:00</DatePixStarted>
     <DateRegistered>2024-02-15T12:06:06.972741Z</DateRegistered>
@@ -7407,6 +7668,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-17</DateOperationStarted>
     <DateRegistered>2024-06-11T12:07:06.019758Z</DateRegistered>
     <DateUpdated>2024-06-11T12:07:06.0197778Z</DateUpdated>
@@ -7424,6 +7686,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-04</DateOperationStarted>
     <DateRegistered>2024-02-27T12:05:53.2736229Z</DateRegistered>
     <DateUpdated>2024-02-27T12:05:53.2736418Z</DateUpdated>
@@ -7441,6 +7704,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-18</DateOperationStarted>
     <DateRegistered>2024-06-12T12:06:51.7759654Z</DateRegistered>
     <DateUpdated>2024-06-12T12:06:51.7759938Z</DateUpdated>
@@ -7459,6 +7723,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-04</DateOperationStarted>
     <DatePixStarted>2022-12-13 09:09:43</DatePixStarted>
     <DateRegistered>2024-02-28T12:06:05.3104086Z</DateRegistered>
@@ -7477,6 +7742,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-28</DateOperationStarted>
     <DateRegistered>2024-06-24T12:07:25.1385983Z</DateRegistered>
     <DateUpdated>2024-06-24T12:07:25.1386177Z</DateUpdated>
@@ -7494,6 +7760,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-03</DateOperationStarted>
     <DateRegistered>2024-05-28T12:06:53.558223Z</DateRegistered>
     <DateUpdated>2024-05-28T12:06:53.5582421Z</DateUpdated>
@@ -7512,6 +7779,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-05-15</DateOperationStarted>
     <DatePixStarted>2021-05-04 10:27:26</DatePixStarted>
     <DateRegistered>2024-05-09T12:06:38.0035796Z</DateRegistered>
@@ -7531,6 +7799,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-11</DateOperationStarted>
     <DatePixStarted>2024-07-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
@@ -7550,6 +7819,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-21</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2024-03-15T12:06:05.5274606Z</DateRegistered>
@@ -7569,6 +7839,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-08</DateOperationStarted>
     <DatePixStarted>2024-05-17 09:47:12</DatePixStarted>
     <DateRegistered>2024-03-04T12:10:35.0004133Z</DateRegistered>
@@ -7587,6 +7858,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-08-07</DateOperationStarted>
     <DateRegistered>2024-08-05T12:07:23.9850149Z</DateRegistered>
     <DateUpdated>2024-08-05T12:07:23.9850339Z</DateUpdated>
@@ -7748,6 +8020,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-14</DateOperationStarted>
     <DateRegistered>2024-06-10T12:07:20.428794Z</DateRegistered>
     <DateUpdated>2024-06-10T12:07:20.4288223Z</DateUpdated>
@@ -7765,6 +8038,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-08-01</DateOperationStarted>
     <DateRegistered>2024-07-26T12:29:30.1748074Z</DateRegistered>
     <DateUpdated>2024-07-26T12:29:30.1748268Z</DateUpdated>
@@ -7782,6 +8056,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-05-15</DateOperationStarted>
     <DateRegistered>2024-05-09T12:06:38.0036073Z</DateRegistered>
     <DateUpdated>2024-05-09T12:06:38.0036074Z</DateUpdated>
@@ -7833,6 +8108,7 @@
       <Product>Consignado</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115298-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.1759027Z</DateUpdated>
@@ -7852,6 +8128,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115221-03:00</DateRegistered>
@@ -7977,6 +8254,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-13</DateOperationStarted>
     <DateRegistered>2024-06-07T12:08:28.2768552Z</DateRegistered>
     <DateUpdated>2024-06-07T12:08:28.2768553Z</DateUpdated>
@@ -7995,6 +8273,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-08-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2024-08-22T12:07:02.8349554Z</DateRegistered>
@@ -8061,6 +8340,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115485-03:00</DateRegistered>
@@ -8149,6 +8429,24 @@
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115456-03:00</DateRegistered>
     <DateUpdated>2024-06-25T12:06:53.3082056Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>719</COMPE>
+    <ISPB>33884941</ISPB>
+    <Document>33.884.941/0001-94</Document>
+    <LongName>BANCO MASTER MÚLTIPLO S.A.</LongName>
+    <ShortName>BANCO MASTER MÚLTIPLO</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-09-02</DateOperationStarted>
+    <DateRegistered>2024-08-29T12:32:25.2409945Z</DateRegistered>
+    <DateUpdated>2024-08-29T12:32:25.2410239Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>720</COMPE>
@@ -8296,6 +8594,7 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <SalaryPortability>Destinatário</SalaryPortability>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115014-03:00</DateRegistered>
@@ -8513,6 +8812,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-08-09 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114464-03:00</DateRegistered>
