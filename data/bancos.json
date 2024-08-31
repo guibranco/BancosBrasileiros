@@ -5078,12 +5078,18 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Capita de Giro PJ",
+      "Crédito Pessoal",
+      "Financiamento de Veículos",
+      "Outros",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2020-09-11",
     "DatePixStarted": "2024-03-18 06:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114454-03:00",
-    "DateUpdated": "2024-01-16T12:08:16.8770942+00:00"
+    "DateUpdated": "2024-08-31T12:29:47.980222+00:00"
   },
   {
     "COMPE": "379",

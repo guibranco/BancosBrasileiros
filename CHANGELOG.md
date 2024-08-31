@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-08-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 378 - BCO BRASILEIRO DE CRÉDITO S.A. - 01.852.137/0001-37
+    - **Products** (CTC): Null **->** Capita de Giro PJ, Crédito Pessoal, Financiamento de Veículos, Outros, Troca de Modalidade
+
 ### 2024-08-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

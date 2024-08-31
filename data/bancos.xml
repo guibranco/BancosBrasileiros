@@ -4422,11 +4422,18 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Capita de Giro PJ</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Financiamento de Veículos</Product>
+      <Product>Outros</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-11</DateOperationStarted>
     <DatePixStarted>2024-03-18 06:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114454-03:00</DateRegistered>
-    <DateUpdated>2024-01-16T12:08:16.8770942Z</DateUpdated>
+    <DateUpdated>2024-08-31T12:29:47.980222Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>379</COMPE>
