@@ -58,6 +58,11 @@ jobs:
         if: env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
-          title: Link checker report
-          labels: 'bug'
+          title: 🔗✅ Link checker report
+          labels: |
+            🐛 bug
+            🔗 link checker
+            good first issue
+            help wanted
+            hacktoberfest
           content-filepath: ./lychee/out.md
