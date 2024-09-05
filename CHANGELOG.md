@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-09-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 661 - FREEX CC S.A. - 55.428.859/0001-98
+
 ### 2024-08-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

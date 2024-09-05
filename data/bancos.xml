@@ -8386,6 +8386,24 @@
     <DateUpdated>2024-05-15T16:49:45.737394Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>661</COMPE>
+    <ISPB>55428859</ISPB>
+    <Document>55.428.859/0001-98</Document>
+    <LongName>FREEX CORRETORA DE CAMBIO S.A.</LongName>
+    <ShortName>FREEX CC S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-09-11</DateOperationStarted>
+    <DateRegistered>2024-09-05T12:33:05.3563736Z</DateRegistered>
+    <DateUpdated>2024-09-05T12:33:05.3564037Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>707</COMPE>
     <ISPB>62232889</ISPB>
     <Document>62.232.889/0001-90</Document>
