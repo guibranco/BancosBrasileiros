@@ -9173,7 +9173,7 @@
     "ShortName": "ISSUER IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9184,9 +9184,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-03-08",
-    "DatePixStarted": "2024-05-17 09:47:12",
+    "DatePixStarted": "2024-09-05 10:10:00",
     "DateRegistered": "2024-03-04T12:10:35.0004133+00:00",
-    "DateUpdated": "2024-05-18T12:06:39.8544363+00:00"
+    "DateUpdated": "2024-09-06T12:31:46.1754236+00:00"
   },
   {
     "COMPE": "599",

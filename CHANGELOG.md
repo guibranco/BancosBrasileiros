@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-09-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 597 - ISSUER IP LTDA. - 34.747.388/0001-00
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-05-17 09:47:12 **->** 2024-09-05 10:10:00
+
 ### 2024-09-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
