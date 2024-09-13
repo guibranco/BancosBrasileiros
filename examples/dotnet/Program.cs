@@ -18,11 +18,13 @@ namespace ConsoleApp
             var compe = GetCompeFromUser();
             FilterBanks(compe);
         }
-        private static string GetCompeFromUser(){
+        private static string GetCompeFromUser()
+        {
             Console.Write("Buscar COMPE (3 dígitos): ");
             return Console.ReadLine();
         }
-        private static void ShowBanks(){
+        private static void ShowBanks()
+        {
             Console.WriteLine($"Banks: {banks.Count}");
             foreach (var bank in banks)
             {
@@ -61,8 +63,8 @@ namespace ConsoleApp
                 }
                 return;
             }
-          
-          
+
+
             Console.WriteLine("Nenhum Resultado Encontrado.");
             Console.Write("1.Listar Todos \t 2.Buscar COMPE: ");
             int option = Convert.ToInt32(Console.ReadLine());
