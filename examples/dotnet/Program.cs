@@ -40,7 +40,8 @@ namespace ConsoleApp
         /// The method does not perform any validation on the input, so it is the caller's responsibility 
         /// to ensure that the input meets the expected format of a 3-digit code.
         /// </remarks>
-        private static string GetCompeFromUser(){
+        private static string GetCompeFromUser()
+        {
             Console.Write("Buscar COMPE (3 dígitos): ");
             return Console.ReadLine();
         }
@@ -56,7 +57,8 @@ namespace ConsoleApp
         /// and white for other details. This method does not return any value and is intended for 
         /// console output only.
         /// </remarks>
-        private static void ShowBanks(){
+        private static void ShowBanks()
+        {
             Console.WriteLine($"Banks: {banks.Count}");
             foreach (var bank in banks)
             {
@@ -107,8 +109,8 @@ namespace ConsoleApp
                 }
                 return;
             }
-          
-          
+
+
             Console.WriteLine("Nenhum Resultado Encontrado.");
             Console.Write("1.Listar Todos \t 2.Buscar COMPE: ");
             int option = Convert.ToInt32(Console.ReadLine());
