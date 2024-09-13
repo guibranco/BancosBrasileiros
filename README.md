@@ -367,6 +367,13 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
                     <sub><b>penify-dev[bot]</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/deepsource-autofix[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/57168?v=4" width="100;" alt="deepsource-autofix[bot]"/>
+                    <br />
+                    <sub><b>deepsource-autofix[bot]</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
