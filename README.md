@@ -211,14 +211,21 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Erick-Bueno">
+                    <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
+                    <br />
+                    <sub><b>Erick Bueno</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/pferreirafabricio">
                     <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
                     <br />
                     <sub><b>Fabrício Pinto Ferreira</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Guillergood">
                     <img src="https://avatars.githubusercontent.com/u/16701917?v=4" width="100;" alt="Guillergood"/>
@@ -254,6 +261,8 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
                     <sub><b>Leonardo Gregianin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/MauriciDmarc">
                     <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
@@ -261,8 +270,6 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
                     <sub><b>Maurici Dmarco</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/rafaeldomi">
                     <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
