@@ -10,7 +10,7 @@ on:
     - cron: 0 0 * * 0
 
 concurrency:
-  group: links-cheker
+  group: links-checker
   cancel-in-progress: true
 
 jobs:
@@ -20,6 +20,7 @@ jobs:
     permissions:
       issues: write
       contents: read
+      pull-requests: write
       
     steps:
     
@@ -55,7 +56,7 @@ jobs:
         run: sudo wg-quick down ./wg0.conf
       
       - name: Create issue
-        if: env.lychee_exit_code != 0
+        if: github.event_name != 'pull_request' && env.lychee_exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: 🔗✅ Link checker report
@@ -66,3 +67,11 @@ jobs:
             help wanted
             hacktoberfest
           content-filepath: ./lychee/out.md
+
+      - name: Update PR with comment
+        uses: mshick/add-pr-comment@v2
+        if: github.event_name == 'pull_request' && env.lychee_exit_code != 0
+        with:
+          refresh-message-position: true
+          message-id: 'link-checker-result'
+          message-path: ./lychee/out.md
