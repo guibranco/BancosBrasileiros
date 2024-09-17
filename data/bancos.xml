@@ -350,7 +350,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancoalfa.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114509-03:00</DateRegistered>
@@ -641,7 +641,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.andbank-lla.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711518-03:00</DateRegistered>
     <DateUpdated>2022-07-22T07:49:18.4025314Z</DateUpdated>
@@ -1141,7 +1141,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bancoconfidence.com.br</Url>
+    <Url>https://www.travelexbank.com.br</Url>
     <DateOperationStarted>2010-06-22</DateOperationStarted>
     <DatePixStarted>2023-01-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114742-03:00</DateRegistered>
@@ -1183,7 +1183,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
-    <Url>https://credisis.com.br/</Url>
+    <Url>https://credisis.com.br</Url>
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114549-03:00</DateRegistered>
@@ -1203,7 +1203,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://site.credialianca.com.br/</Url>
+    <Url>https://site.credialianca.com.br</Url>
     <DateOperationStarted>2011-01-18</DateOperationStarted>
     <DatePixStarted>2021-07-12 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115449-03:00</DateRegistered>
@@ -1253,7 +1253,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.planner.com.br/</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2011-04-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7113602-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7113681-03:00</DateUpdated>
@@ -3270,7 +3270,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>false</PCRP>
-    <Url>https://www.bna.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115051-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7272868Z</DateUpdated>
@@ -4624,7 +4624,7 @@
     <Products>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancotoyota.com.br</Url>
+    <Url>https://institucional.bancotoyota.com.br</Url>
     <DateOperationStarted>2020-07-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114501-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7364295Z</DateUpdated>
@@ -4654,7 +4654,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.mercantil.com.br</Url>
+    <Url>https://www.bancomercantil.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114881-03:00</DateRegistered>
@@ -6138,12 +6138,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-10-11</DateOperationStarted>
     <DateRegistered>2022-10-04T12:08:42.7066127Z</DateRegistered>
-    <DateUpdated>2022-10-04T12:08:42.7066128Z</DateUpdated>
+    <DateUpdated>2024-09-17T12:07:21.6345906Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>484</COMPE>
@@ -6253,7 +6253,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.csfb.com</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115036-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.3443935Z</DateUpdated>
@@ -7937,7 +7937,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <Url>https://www.vrinvestimentos.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115452-03:00</DateRegistered>
@@ -8008,7 +8008,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancopecunia.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-05-27 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115268-03:00</DateRegistered>
