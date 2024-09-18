@@ -8267,6 +8267,24 @@
     <DateUpdated>2024-06-07T12:08:28.2768553Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>646</COMPE>
+    <ISPB>91669747</ISPB>
+    <Document>91.669.747/0001-92</Document>
+    <LongName>DM FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>DM SA CFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-09-20</DateOperationStarted>
+    <DateRegistered>2024-09-18T12:07:56.7148071Z</DateRegistered>
+    <DateUpdated>2024-09-18T12:07:56.7148265Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>651</COMPE>
     <ISPB>25104230</ISPB>
     <Document>25.104.230/0001-21</Document>

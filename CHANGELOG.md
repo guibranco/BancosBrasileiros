@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-09-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 646 - DM SA CFI - 91.669.747/0001-92
+
 ### 2024-09-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
