@@ -7796,8 +7796,8 @@
     <COMPE>594</COMPE>
     <ISPB>48703388</ISPB>
     <Document>48.703.388/0001-13</Document>
-    <LongName>EMBRACRED S/A SOCIEDADE DE CRÉDITO DIRETO</LongName>
-    <ShortName>EMBRACRED S/A SCD</ShortName>
+    <LongName>ASA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ASA SOCIEDADE DE CRÉDITO DIRETO S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7810,7 +7810,7 @@
     <DateOperationStarted>2024-03-11</DateOperationStarted>
     <DatePixStarted>2024-07-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
-    <DateUpdated>2024-07-02T12:28:19.7824614Z</DateUpdated>
+    <DateUpdated>2024-09-19T12:07:45.093262Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>595</COMPE>

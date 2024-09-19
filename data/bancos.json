@@ -9123,8 +9123,8 @@
     "COMPE": "594",
     "ISPB": "48703388",
     "Document": "48.703.388/0001-13",
-    "LongName": "EMBRACRED S/A SOCIEDADE DE CRÉDITO DIRETO",
-    "ShortName": "EMBRACRED S/A SCD",
+    "LongName": "ASA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ASA SOCIEDADE DE CRÉDITO DIRETO S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -9140,7 +9140,7 @@
     "DateOperationStarted": "2024-03-11",
     "DatePixStarted": "2024-07-05 09:00:00",
     "DateRegistered": "2024-03-05T12:06:35.1241273+00:00",
-    "DateUpdated": "2024-07-02T12:28:19.7824614+00:00"
+    "DateUpdated": "2024-09-19T12:07:45.093262+00:00"
   },
   {
     "COMPE": "595",

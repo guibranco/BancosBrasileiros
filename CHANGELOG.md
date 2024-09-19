@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-09-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 594 - ASA SOCIEDADE DE CRÉDITO DIRETO S.A. - 48.703.388/0001-13
+    - **LongName** (STR): EMBRACRED S/A SOCIEDADE DE CRÉDITO DIRETO **->** ASA SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): EMBRACRED S/A SCD **->** ASA SOCIEDADE DE CRÉDITO DIRETO S.A.
+
 ### 2024-09-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
