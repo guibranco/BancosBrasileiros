@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-09-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 664 - EAGLE IP LTDA. - 11.414.839/0001-92
+  - 659 - ONEKEY PAYMENTS IP S.A. - 35.210.410/0001-41
+
 ### 2024-09-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
