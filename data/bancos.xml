@@ -6646,8 +6646,8 @@
     <COMPE>528</COMPE>
     <ISPB>34829992</ISPB>
     <Document>34.829.992/0001-86</Document>
-    <LongName>REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
-    <ShortName>REAG DTVM S.A.</ShortName>
+    <LongName>REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>REAG TRUST DTVM</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6660,7 +6660,7 @@
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2024-04-01 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7502547Z</DateUpdated>
+    <DateUpdated>2024-09-25T12:08:06.7384843Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>529</COMPE>

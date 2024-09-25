@@ -7703,8 +7703,8 @@
     "COMPE": "528",
     "ISPB": "34829992",
     "Document": "34.829.992/0001-86",
-    "LongName": "REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-    "ShortName": "REAG DTVM S.A.",
+    "LongName": "REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "REAG TRUST DTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -7720,7 +7720,7 @@
     "DateOperationStarted": "2023-03-06",
     "DatePixStarted": "2024-04-01 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7502547+00:00"
+    "DateUpdated": "2024-09-25T12:08:06.7384843+00:00"
   },
   {
     "COMPE": "529",

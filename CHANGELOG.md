@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-09-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 528 - REAG TRUST DTVM - 34.829.992/0001-86
+    - **LongName** (STR): REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. **->** REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): REAG DTVM S.A. **->** REAG TRUST DTVM
+
 ### 2024-09-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks
