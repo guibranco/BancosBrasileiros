@@ -8191,6 +8191,24 @@
     <DateUpdated>2024-05-15T16:49:45.7366747Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>636</COMPE>
+    <ISPB>40112555</ISPB>
+    <Document>40.112.555/0001-40</Document>
+    <LongName>GIRO - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>GIRO - SCD S/A</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-10-02</DateOperationStarted>
+    <DateRegistered>2024-09-26T12:08:07.0844235Z</DateRegistered>
+    <DateUpdated>2024-09-26T12:08:07.0844593Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>637</COMPE>
     <ISPB>60889128</ISPB>
     <Document>60.889.128/0001-80</Document>

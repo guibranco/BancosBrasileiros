@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2024-09-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 636 - GIRO - SCD S/A - 40.112.555/0001-40
+
 ### 2024-09-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
