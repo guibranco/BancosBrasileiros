@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-09-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 615 - SMART SOLUTIONS GROUP IP LTDA - 37.470.405/0001-01
+- Updated 1 bank
+  - 195 - VALOR S/A SCFI - 07.799.277/0001-75
+    - **LongName** (STR): VALOR SOCIEDADE DE CRÉDITO DIRETO S.A. **->** VALOR S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): VALOR SCD S.A. **->** VALOR S/A SCFI
+
 ### 2024-09-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

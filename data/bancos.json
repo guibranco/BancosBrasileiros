@@ -2609,8 +2609,8 @@
     "COMPE": "195",
     "ISPB": "07799277",
     "Document": "07.799.277/0001-75",
-    "LongName": "VALOR SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "VALOR SCD S.A.",
+    "LongName": "VALOR S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "VALOR S/A SCFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2626,7 +2626,7 @@
     "DateOperationStarted": "2021-08-09",
     "DatePixStarted": null,
     "DateRegistered": "2021-08-24T13:06:55.8926601-03:00",
-    "DateUpdated": "2021-08-24T13:06:55.8926604-03:00"
+    "DateUpdated": "2024-09-30T12:08:39.5604978+00:00"
   },
   {
     "COMPE": "196",
@@ -9387,6 +9387,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2024-06-10T12:07:20.428794+00:00",
     "DateUpdated": "2024-06-10T12:07:20.4288223+00:00"
+  },
+  {
+    "COMPE": "615",
+    "ISPB": "37470405",
+    "Document": "37.470.405/0001-01",
+    "LongName": "SMART SOLUTIONS GROUP INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "SMART SOLUTIONS GROUP IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-10-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-09-30T12:08:41.408497+00:00",
+    "DateUpdated": "2024-09-30T12:08:41.4085273+00:00"
   },
   {
     "COMPE": "619",
