@@ -1319,7 +1319,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.caixa.gov.br</Url>
+    <Url>https://caixa.gov.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112717-03:00</DateRegistered>
@@ -2276,8 +2276,8 @@
     <COMPE>195</COMPE>
     <ISPB>07799277</ISPB>
     <Document>07.799.277/0001-75</Document>
-    <LongName>VALOR SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>VALOR SCD S.A.</ShortName>
+    <LongName>VALOR S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>VALOR S/A SCFI</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2288,7 +2288,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-09</DateOperationStarted>
     <DateRegistered>2021-08-24T13:06:55.8926601-03:00</DateRegistered>
-    <DateUpdated>2021-08-24T13:06:55.8926604-03:00</DateUpdated>
+    <DateUpdated>2024-09-30T12:08:39.5604978Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>196</COMPE>
@@ -6646,8 +6646,8 @@
     <COMPE>528</COMPE>
     <ISPB>34829992</ISPB>
     <Document>34.829.992/0001-86</Document>
-    <LongName>REAG DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
-    <ShortName>REAG DTVM S.A.</ShortName>
+    <LongName>REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>REAG TRUST DTVM</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6660,7 +6660,7 @@
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2024-04-01 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7502547Z</DateUpdated>
+    <DateUpdated>2024-09-25T12:08:06.7384843Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>529</COMPE>
@@ -8033,6 +8033,24 @@
     <DateUpdated>2024-06-10T12:07:20.4288223Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>615</COMPE>
+    <ISPB>37470405</ISPB>
+    <Document>37.470.405/0001-01</Document>
+    <LongName>SMART SOLUTIONS GROUP INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>SMART SOLUTIONS GROUP IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-10-04</DateOperationStarted>
+    <DateRegistered>2024-09-30T12:08:41.408497Z</DateRegistered>
+    <DateUpdated>2024-09-30T12:08:41.4085273Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>619</COMPE>
     <ISPB>49931906</ISPB>
     <Document>49.931.906/0001-19</Document>
@@ -8142,6 +8160,24 @@
     <DateUpdated>2024-05-15T16:49:45.7316055Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>632</COMPE>
+    <ISPB>52586293</ISPB>
+    <Document>52.586.293/0001-34</Document>
+    <LongName>Z-ON SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>Z-ON SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-10-03</DateOperationStarted>
+    <DateRegistered>2024-09-27T12:08:07.9907432Z</DateRegistered>
+    <DateUpdated>2024-09-27T12:08:07.9907632Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>633</COMPE>
     <ISPB>68900810</ISPB>
     <Document>68.900.810/0001-38</Document>
@@ -8189,6 +8225,24 @@
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114888-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7366747Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>636</COMPE>
+    <ISPB>40112555</ISPB>
+    <Document>40.112.555/0001-40</Document>
+    <LongName>GIRO - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>GIRO - SCD S/A</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-10-02</DateOperationStarted>
+    <DateRegistered>2024-09-26T12:08:07.0844235Z</DateRegistered>
+    <DateUpdated>2024-09-26T12:08:07.0844593Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>637</COMPE>
@@ -8404,6 +8458,26 @@
     <DateUpdated>2024-05-15T16:49:45.737394Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>659</COMPE>
+    <ISPB>35210410</ISPB>
+    <Document>35.210.410/0001-41</Document>
+    <LongName>ONEKEY PAYMENTS INSTITUICAO DE PAGAMENTO SA</LongName>
+    <ShortName>ONEKEY PAYMENTS IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-09-30</DateOperationStarted>
+    <DatePixStarted>2022-09-12 11:04:30</DatePixStarted>
+    <DateRegistered>2024-09-24T12:07:36.7070372Z</DateRegistered>
+    <DateUpdated>2024-09-24T12:07:35.7979065Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>661</COMPE>
     <ISPB>55428859</ISPB>
     <Document>55.428.859/0001-98</Document>
@@ -8420,6 +8494,24 @@
     <DateOperationStarted>2024-09-11</DateOperationStarted>
     <DateRegistered>2024-09-05T12:33:05.3563736Z</DateRegistered>
     <DateUpdated>2024-09-05T12:33:05.3564037Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>664</COMPE>
+    <ISPB>11414839</ISPB>
+    <Document>11.414.839/0001-92</Document>
+    <LongName>EAGLE INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>EAGLE IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-09-30</DateOperationStarted>
+    <DateRegistered>2024-09-24T12:07:36.7070087Z</DateRegistered>
+    <DateUpdated>2024-09-24T12:07:36.7070368Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
