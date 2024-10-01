@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 556 - SAYGO CÂMBIO - 40.333.582/0001-42
+    - **LongName** (STR): PROSEFTUR CORRETORA DE CAMBIO S.A **->** SAYGO CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): PROSEFTUR **->** SAYGO CÂMBIO
+
 ### 2024-09-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
