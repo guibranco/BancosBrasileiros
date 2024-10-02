@@ -7761,6 +7761,7 @@
     <LongName>INSTITUIÇÃO DE PAGAMENTOS MAPS LTDA.</LongName>
     <ShortName>MAPS IP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7769,8 +7770,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-03</DateOperationStarted>
+    <DatePixStarted>2024-10-07 11:00:00</DatePixStarted>
     <DateRegistered>2024-05-28T12:06:53.558223Z</DateRegistered>
-    <DateUpdated>2024-05-28T12:06:53.5582421Z</DateUpdated>
+    <DateUpdated>2024-10-02T12:08:04.4963575Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>593</COMPE>

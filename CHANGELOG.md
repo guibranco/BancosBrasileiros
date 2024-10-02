@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-10-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 592 - MAPS IP LTDA. - 45.548.763/0001-00
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-10-07 11:00:00
+
 ### 2024-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
