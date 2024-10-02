@@ -1860,7 +1860,7 @@
     "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://www.msbank.com.br",
+    "Url": "https://www.brazabank.com.br",
     "DateOperationStarted": "2015-04-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114919-03:00",
@@ -8360,8 +8360,8 @@
     "COMPE": "556",
     "ISPB": "40333582",
     "Document": "40.333.582/0001-42",
-    "LongName": "PROSEFTUR CORRETORA DE CAMBIO S.A",
-    "ShortName": "PROSEFTUR",
+    "LongName": "SAYGO CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "SAYGO CÂMBIO",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8377,7 +8377,7 @@
     "DateOperationStarted": "2023-08-03",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.134755+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347551+00:00"
+    "DateUpdated": "2024-10-01T12:08:18.4897466+00:00"
   },
   {
     "COMPE": "557",
