@@ -9544,7 +9544,7 @@
     "ShortName": "Z-ON SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9555,9 +9555,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-10-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-10-03 07:07:47",
     "DateRegistered": "2024-09-27T12:08:07.9907432+00:00",
-    "DateUpdated": "2024-09-27T12:08:07.9907632+00:00"
+    "DateUpdated": "2024-10-04T12:08:01.0865649+00:00"
   },
   {
     "COMPE": "633",

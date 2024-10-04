@@ -8168,6 +8168,7 @@
     <LongName>Z-ON SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>Z-ON SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8176,8 +8177,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-10-03</DateOperationStarted>
+    <DatePixStarted>2024-10-03 07:07:47</DatePixStarted>
     <DateRegistered>2024-09-27T12:08:07.9907432Z</DateRegistered>
-    <DateUpdated>2024-09-27T12:08:07.9907632Z</DateUpdated>
+    <DateUpdated>2024-10-04T12:08:01.0865649Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>633</COMPE>

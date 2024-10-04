@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 632 - Z-ON SCD S.A. - 52.586.293/0001-34
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-10-03 07:07:47
+
 ### 2024-10-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
