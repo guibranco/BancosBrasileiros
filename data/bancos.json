@@ -9081,7 +9081,7 @@
     "ShortName": "MAPS IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9092,9 +9092,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-10-07 11:00:00",
     "DateRegistered": "2024-05-28T12:06:53.558223+00:00",
-    "DateUpdated": "2024-05-28T12:06:53.5582421+00:00"
+    "DateUpdated": "2024-10-02T12:08:04.4963575+00:00"
   },
   {
     "COMPE": "593",
@@ -9544,7 +9544,7 @@
     "ShortName": "Z-ON SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9555,9 +9555,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-10-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-10-03 07:07:47",
     "DateRegistered": "2024-09-27T12:08:07.9907432+00:00",
-    "DateUpdated": "2024-09-27T12:08:07.9907632+00:00"
+    "DateUpdated": "2024-10-04T12:08:01.0865649+00:00"
   },
   {
     "COMPE": "633",

@@ -4,6 +4,20 @@
 
 ## Changelog
 
+### 2024-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 632 - Z-ON SCD S.A. - 52.586.293/0001-34
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-10-03 07:07:47
+
+### 2024-10-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 592 - MAPS IP LTDA. - 45.548.763/0001-00
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-10-07 11:00:00
+
 ### 2024-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
