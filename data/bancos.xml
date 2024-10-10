@@ -3512,8 +3512,8 @@
     <COMPE>320</COMPE>
     <ISPB>07450604</ISPB>
     <Document>07.450.604/0001-89</Document>
-    <LongName>China Construction Bank (Brasil) Banco Múltiplo S/A</LongName>
-    <ShortName>BCO CCB BRASIL S.A.</ShortName>
+    <LongName>BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A</LongName>
+    <ShortName>BOC BRASIL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Charge>true</Charge>
@@ -3525,7 +3525,7 @@
     <Url>https://www.br.ccb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114616-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7409226Z</DateUpdated>
+    <DateUpdated>2024-10-10T12:08:00.7521769Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>321</COMPE>
@@ -5116,6 +5116,24 @@
     <DateOperationStarted>2021-03-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711514-03:00</DateRegistered>
     <DateUpdated>2022-10-29T12:07:14.5244799Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>415</COMPE>
+    <ISPB>17157777</ISPB>
+    <Document>17.157.777/0001-67</Document>
+    <LongName>BANCO NACIONAL S.A.</LongName>
+    <ShortName>BCO NACIONAL</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-10-14</DateOperationStarted>
+    <DateRegistered>2024-10-10T12:08:02.6013885Z</DateRegistered>
+    <DateUpdated>2024-10-10T12:08:02.6014176Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>416</COMPE>

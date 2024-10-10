@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-10-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 415 - BCO NACIONAL - 17.157.777/0001-67
+- Updated 1 bank
+  - 320 - BOC BRASIL - 07.450.604/0001-89
+    - **LongName** (STR): China Construction Bank (Brasil) Banco Múltiplo S/A **->** BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A
+    - **ShortName** (STR): BCO CCB BRASIL S.A. **->** BOC BRASIL
+
 ### 2024-10-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
