@@ -4047,8 +4047,8 @@
     "COMPE": "320",
     "ISPB": "07450604",
     "Document": "07.450.604/0001-89",
-    "LongName": "China Construction Bank (Brasil) Banco Múltiplo S/A",
-    "ShortName": "BCO CCB BRASIL S.A.",
+    "LongName": "BANK OF CHINA (BRASIL) BANCO MÚLTIPLO S/A",
+    "ShortName": "BOC BRASIL",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": null,
@@ -4064,7 +4064,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114616-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7409226+00:00"
+    "DateUpdated": "2024-10-10T12:08:00.7521769+00:00"
   },
   {
     "COMPE": "321",
@@ -5869,6 +5869,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711514-03:00",
     "DateUpdated": "2022-10-29T12:07:14.5244799+00:00"
+  },
+  {
+    "COMPE": "415",
+    "ISPB": "17157777",
+    "Document": "17.157.777/0001-67",
+    "LongName": "BANCO NACIONAL S.A.",
+    "ShortName": "BCO NACIONAL",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-10-14",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-10-10T12:08:02.6013885+00:00",
+    "DateUpdated": "2024-10-10T12:08:02.6014176+00:00"
   },
   {
     "COMPE": "416",
