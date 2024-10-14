@@ -43,7 +43,7 @@ jobs:
           sudo wg-quick up ./wg0.conf
       
       - name: Run lychee
-        uses: lycheeverse/lychee-action@v1.10.0
+        uses: lycheeverse/lychee-action@v2.0.2
         id: lychee
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
