@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-10-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 660 - PAGME IP LTDA - 34.471.744/0001-06
+- Updated 1 bank
+  - 576 - MERCADO BITCOIN IP LTDA - 11.351.086/0001-13
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2024-10-15 10:48:49
+
 ### 2024-10-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

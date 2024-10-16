@@ -4226,7 +4226,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.sgbrasil.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115306-03:00</DateRegistered>
     <DateUpdated>2022-06-23T13:48:15.352835Z</DateUpdated>
@@ -7487,6 +7487,7 @@
     <LongName>MERCADO BITCOIN INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>MERCADO BITCOIN IP LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7495,8 +7496,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-04-01</DateOperationStarted>
+    <DatePixStarted>2024-10-15 10:48:49</DatePixStarted>
     <DateRegistered>2024-03-26T12:06:57.0908989Z</DateRegistered>
-    <DateUpdated>2024-03-26T12:06:57.0909183Z</DateUpdated>
+    <DateUpdated>2024-10-16T12:07:55.4733923Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>577</COMPE>
@@ -8498,6 +8500,26 @@
     <DatePixStarted>2022-09-12 11:04:30</DatePixStarted>
     <DateRegistered>2024-09-24T12:07:36.7070372Z</DateRegistered>
     <DateUpdated>2024-09-24T12:07:35.7979065Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>660</COMPE>
+    <ISPB>34471744</ISPB>
+    <Document>34.471.744/0001-06</Document>
+    <LongName>PAGME INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>PAGME IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-10-22</DateOperationStarted>
+    <DatePixStarted>2023-09-19 15:07:18</DatePixStarted>
+    <DateRegistered>2024-10-16T12:07:56.4868924Z</DateRegistered>
+    <DateUpdated>2024-10-16T12:07:55.6307764Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>661</COMPE>
