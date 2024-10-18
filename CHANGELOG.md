@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2024-10-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 276 - BCO SENFF S.A. - 11.970.623/0001-03
+    - **SalaryPortability** (PCPS): Null **->** Banco Folha
+
 ### 2024-10-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

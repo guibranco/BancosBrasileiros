@@ -2955,6 +2955,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <SalaryPortability>Banco Folha</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
     </Products>
@@ -2962,7 +2963,7 @@
     <DateOperationStarted>2018-06-12</DateOperationStarted>
     <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114792-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7354342Z</DateUpdated>
+    <DateUpdated>2024-10-18T12:07:53.660978Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>278</COMPE>

@@ -3377,7 +3377,7 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco Folha",
     "Products": [
       "Consignado"
     ],
@@ -3385,7 +3385,7 @@
     "DateOperationStarted": "2018-06-12",
     "DatePixStarted": "2021-04-16 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114792-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7354342+00:00"
+    "DateUpdated": "2024-10-18T12:07:53.660978+00:00"
   },
   {
     "COMPE": "278",
