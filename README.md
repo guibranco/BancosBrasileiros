@@ -1,3 +1,9 @@
+# Schema and DTO Generation Workflow
+
+This project includes a GitHub Actions workflow that automatically generates schemas and Data Transfer Object (DTO) files using QuickType. The workflow is triggered on `push` and `pull_request` events targeting the `main` branch.
+
+Generated files are committed back to the repository to ensure all team members have access to the latest schemas and DTOs.
+
 # Bancos Brasileiros
 
 🇧🇷 🏦 📋 Brazilian commercial banks list
