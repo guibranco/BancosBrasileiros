@@ -1,3 +1,4 @@
+
 namespace ConsoleApp
 {
     using System;
@@ -40,10 +41,21 @@ namespace ConsoleApp
         /// to ensure that the input meets the expected format of a 3-digit code.
         /// </remarks>
         private static string GetCompeFromUser()
-        {
-            Console.Write("Buscar COMPE (3 dígitos): ");
-            return Console.ReadLine();
-        }
+{
+    string compe;
+    do
+    {
+        Console.Write("Buscar COMPE (3 dígitos): ");
+        compe = Console.ReadLine();
+    } while (!IsValidCompe(compe));
+
+    return compe;
+}
+
+private static bool IsValidCompe(string compe)
+{
+    return compe.Length == 3 && compe.All(char.IsDigit);
+}
 
         /// <summary>
         /// Displays information about the banks in the collection.
@@ -130,3 +142,4 @@ namespace ConsoleApp
         }
     }
 }
+
