@@ -4,8 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pixeebot Activity Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        h1 { color: #333; }
+    </style>
 </head>
 <body>
     <h1>Welcome to the Pixeebot Activity Dashboard</h1>
+    <div id="metrics">
+        <h2>Repository Metrics</h2>
+        <p>Loading metrics...</p>
+    </div>
+    <script>
 </body>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Simulate fetching data
+            setTimeout(() => {
+                document.querySelector('#metrics p').textContent = 'Metrics will be displayed here.';
+            }, 1000);
+        });
 </html>
