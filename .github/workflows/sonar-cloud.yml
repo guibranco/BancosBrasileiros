@@ -8,6 +8,9 @@ on:
     types: [opened, synchronize, reopened]
 
 jobs:
+      - name: Update Dashboard
+        run: |
+          echo "Updating Pixeebot Activity Dashboard with SonarCloud metrics..."
   sonarcloud:
     name: SonarCloud
     runs-on: ubuntu-latest
