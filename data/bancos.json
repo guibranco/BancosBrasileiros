@@ -3377,7 +3377,7 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco Folha",
     "Products": [
       "Consignado"
     ],
@@ -3385,7 +3385,7 @@
     "DateOperationStarted": "2018-06-12",
     "DatePixStarted": "2021-04-16 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114792-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7354342+00:00"
+    "DateUpdated": "2024-10-18T12:07:53.660978+00:00"
   },
   {
     "COMPE": "278",
@@ -4857,7 +4857,7 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://www.sgbrasil.com.br",
+    "Url": null,
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115306-03:00",
@@ -8736,7 +8736,7 @@
     "ShortName": "MERCADO BITCOIN IP LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8747,9 +8747,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-04-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-10-15 10:48:49",
     "DateRegistered": "2024-03-26T12:06:57.0908989+00:00",
-    "DateUpdated": "2024-03-26T12:06:57.0909183+00:00"
+    "DateUpdated": "2024-10-16T12:07:55.4733923+00:00"
   },
   {
     "COMPE": "577",
@@ -9913,6 +9913,29 @@
     "DatePixStarted": "2022-09-12 11:04:30",
     "DateRegistered": "2024-09-24T12:07:36.7070372+00:00",
     "DateUpdated": "2024-09-24T12:07:35.7979065+00:00"
+  },
+  {
+    "COMPE": "660",
+    "ISPB": "34471744",
+    "Document": "34.471.744/0001-06",
+    "LongName": "PAGME INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "ShortName": "PAGME IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-10-22",
+    "DatePixStarted": "2023-09-19 15:07:18",
+    "DateRegistered": "2024-10-16T12:07:56.4868924+00:00",
+    "DateUpdated": "2024-10-16T12:07:55.6307764+00:00"
   },
   {
     "COMPE": "661",
