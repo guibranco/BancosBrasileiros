@@ -1,4 +1,3 @@
-
 namespace ConsoleApp
 {
     using System;
@@ -48,7 +47,7 @@ namespace ConsoleApp
                 Console.Write("Buscar COMPE (3 dígitos): ");
                 compe = Console.ReadLine();
             } while (!IsValidCompe(compe));
-        
+
             return compe;
         }
 
