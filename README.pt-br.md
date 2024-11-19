@@ -278,6 +278,13 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/victorbrandaao">
+                    <img src="https://avatars.githubusercontent.com/u/85573492?v=4" width="100;" alt="victorbrandaao"/>
+                    <br />
+                    <sub><b>Victor Leonardo Brandão</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/AmolKumarGupta">
                     <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
                     <br />
@@ -298,6 +305,8 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>Rodrigo Castro</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/vduggen">
                     <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
@@ -338,6 +347,13 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/penify-dev[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/399279?v=4" width="100;" alt="penify-dev[bot]"/>
+                    <br />
+                    <sub><b>penify-dev[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/stack-file[bot]">
                     <img src="https://avatars.githubusercontent.com/in/408123?v=4" width="100;" alt="stack-file[bot]"/>
                     <br />
@@ -351,27 +367,20 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>codefactor-io[bot]</b></sub>
                 </a>
             </td>
-            <td align="center">
-                <a href="https://github.com/deepsource-io[bot]">
-                    <img src="https://avatars.githubusercontent.com/in/16372?v=4" width="100;" alt="deepsource-io[bot]"/>
-                    <br />
-                    <sub><b>deepsource-io[bot]</b></sub>
-                </a>
-            </td>
 		</tr>
 		<tr>
-            <td align="center">
-                <a href="https://github.com/penify-dev[bot]">
-                    <img src="https://avatars.githubusercontent.com/in/399279?v=4" width="100;" alt="penify-dev[bot]"/>
-                    <br />
-                    <sub><b>penify-dev[bot]</b></sub>
-                </a>
-            </td>
             <td align="center">
                 <a href="https://github.com/deepsource-autofix[bot]">
                     <img src="https://avatars.githubusercontent.com/in/57168?v=4" width="100;" alt="deepsource-autofix[bot]"/>
                     <br />
                     <sub><b>deepsource-autofix[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/deepsource-io[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/16372?v=4" width="100;" alt="deepsource-io[bot]"/>
+                    <br />
+                    <sub><b>deepsource-io[bot]</b></sub>
                 </a>
             </td>
 		</tr>
