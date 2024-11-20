@@ -16,7 +16,7 @@
 
 ![Bancos Brasileiros logo](https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/logo.png)
 
-> [!Note]
+> [!Important]
 >
 > Para a versão em Português *(PT_BR)* do README.md, [siga me](https://guibranco.github.io/BancosBrasileiros/README.pt-br.html) por favor.
 
