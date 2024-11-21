@@ -54,7 +54,7 @@ jobs:
         run: sudo wg-quick down ./wg0.conf
       
       - name: Create issue
-        if: always() && github.event_name != 'pull_request' && env.lychee_exit_code != 0
+        if: always() && github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
           title: 🔗✅ Link checker report
@@ -68,7 +68,7 @@ jobs:
 
       - name: Update PR with comment
         uses: mshick/add-pr-comment@v2
-        if: always() && github.event_name == 'pull_request' && env.lychee_exit_code != 0
+        if: always() && github.event_name == 'pull_request' && steps.lychee.outputs.exit_code != 0
         with:
           refresh-message-position: true
           message-id: 'link-checker-result'
