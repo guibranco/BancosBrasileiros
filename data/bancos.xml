@@ -1446,7 +1446,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://cecoop.com.br/central/</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2011-10-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114598-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.192614Z</DateUpdated>
