@@ -9040,7 +9040,7 @@
     "ShortName": "G5 SCD SA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9051,9 +9051,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-12-09 09:00:00",
     "DateRegistered": "2024-06-12T12:06:51.7759654+00:00",
-    "DateUpdated": "2024-06-12T12:06:51.7759938+00:00"
+    "DateUpdated": "2024-11-28T12:37:25.5346752+00:00"
   },
   {
     "COMPE": "590",
