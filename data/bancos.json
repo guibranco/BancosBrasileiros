@@ -5770,15 +5770,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-17",
     "DatePixStarted": "2024-01-10 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114594-03:00",
-    "DateUpdated": "2024-01-09T12:06:14.1626613+00:00"
+    "DateUpdated": "2024-11-29T12:36:54.3496718+00:00"
   },
   {
     "COMPE": "411",

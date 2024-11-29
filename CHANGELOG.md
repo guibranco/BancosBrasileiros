@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-11-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 410 - PLANNER SOCIEDADE DE CRÉDITO DIRETO - 05.684.234/0001-19
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2024-11-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
