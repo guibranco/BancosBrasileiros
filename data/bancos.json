@@ -5770,15 +5770,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-17",
     "DatePixStarted": "2024-01-10 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114594-03:00",
-    "DateUpdated": "2024-01-09T12:06:14.1626613+00:00"
+    "DateUpdated": "2024-11-29T12:36:54.3496718+00:00"
   },
   {
     "COMPE": "411",
@@ -9040,7 +9040,7 @@
     "ShortName": "G5 SCD SA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9051,9 +9051,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-12-09 09:00:00",
     "DateRegistered": "2024-06-12T12:06:51.7759654+00:00",
-    "DateUpdated": "2024-06-12T12:06:51.7759938+00:00"
+    "DateUpdated": "2024-11-28T12:37:25.5346752+00:00"
   },
   {
     "COMPE": "590",

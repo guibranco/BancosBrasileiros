@@ -5035,13 +5035,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DatePixStarted>2024-01-10 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2024-01-09T12:06:14.1626613Z</DateUpdated>
+    <DateUpdated>2024-11-29T12:36:54.3496718Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
@@ -7742,6 +7742,7 @@
     <LongName>G5 SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>G5 SCD SA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7750,8 +7751,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-18</DateOperationStarted>
+    <DatePixStarted>2024-12-09 09:00:00</DatePixStarted>
     <DateRegistered>2024-06-12T12:06:51.7759654Z</DateRegistered>
-    <DateUpdated>2024-06-12T12:06:51.7759938Z</DateUpdated>
+    <DateUpdated>2024-11-28T12:37:25.5346752Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>590</COMPE>
