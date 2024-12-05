@@ -7104,7 +7104,7 @@
     "ShortName": "SBCASH SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7115,9 +7115,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-10-11",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-12-11 11:00:00",
     "DateRegistered": "2022-10-04T12:08:42.7066127+00:00",
-    "DateUpdated": "2024-09-17T12:07:21.6345906+00:00"
+    "DateUpdated": "2024-12-05T12:08:35.7132602+00:00"
   },
   {
     "COMPE": "484",
@@ -8695,7 +8695,7 @@
     "ShortName": "ALL IN CRED SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8706,9 +8706,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-12-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-12-10 11:00:00",
     "DateRegistered": "2023-12-18T12:06:50.1170089+00:00",
-    "DateUpdated": "2023-12-18T12:06:50.1170312+00:00"
+    "DateUpdated": "2024-12-05T12:08:35.7332513+00:00"
   },
   {
     "COMPE": "575",

@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2024-12-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 482 - SBCASH SCD - 42.259.084/0001-22
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-12-11 11:00:00
+  - 572 - ALL IN CRED SCD S.A. - 51.414.521/0001-26
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-12-10 11:00:00
+
 ### 2024-11-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
