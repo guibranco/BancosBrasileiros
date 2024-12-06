@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-12-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 674 - HINOVA PAY IP S.A. - 27.970.567/0001-47
+- Updated 1 bank
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-06-10 06:02:13 **->** 2024-12-05 11:10:00
+
 ### 2024-12-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

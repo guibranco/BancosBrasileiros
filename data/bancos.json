@@ -7620,7 +7620,7 @@
     "ShortName": "HR DIGITAL SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -7631,9 +7631,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-02-15",
-    "DatePixStarted": "2024-06-10 06:02:13",
+    "DatePixStarted": "2024-12-05 11:10:00",
     "DateRegistered": "2023-03-03T14:56:55.3112611+00:00",
-    "DateUpdated": "2024-06-11T12:07:05.2936207+00:00"
+    "DateUpdated": "2024-12-06T12:08:40.3608998+00:00"
   },
   {
     "COMPE": "524",
@@ -10056,6 +10056,29 @@
     "DatePixStarted": "2023-11-17 12:11:31",
     "DateRegistered": "2024-11-20T12:08:13.9188245+00:00",
     "DateUpdated": "2024-11-20T12:08:12.9794672+00:00"
+  },
+  {
+    "COMPE": "674",
+    "ISPB": "27970567",
+    "Document": "27.970.567/0001-47",
+    "LongName": "HINOVA PAY INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "HINOVA PAY IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-12-12",
+    "DatePixStarted": "2024-10-15 00:05:41",
+    "DateRegistered": "2024-12-06T12:08:41.1206753+00:00",
+    "DateUpdated": "2024-12-06T12:08:40.2615333+00:00"
   },
   {
     "COMPE": "707",
