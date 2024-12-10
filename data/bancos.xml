@@ -6165,6 +6165,7 @@
     <LongName>SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>SBCASH SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6173,8 +6174,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-10-11</DateOperationStarted>
+    <DatePixStarted>2024-12-11 11:00:00</DatePixStarted>
     <DateRegistered>2022-10-04T12:08:42.7066127Z</DateRegistered>
-    <DateUpdated>2024-09-17T12:07:21.6345906Z</DateUpdated>
+    <DateUpdated>2024-12-05T12:08:35.7132602Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>484</COMPE>
@@ -6586,7 +6588,7 @@
     <LongName>HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>HR DIGITAL SCD</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -6595,9 +6597,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-15</DateOperationStarted>
-    <DatePixStarted>2024-06-10 06:02:13</DatePixStarted>
+    <DatePixStarted>2024-12-05 11:10:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
-    <DateUpdated>2024-06-11T12:07:05.2936207Z</DateUpdated>
+    <DateUpdated>2024-12-06T12:08:40.3608998Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>524</COMPE>
@@ -7468,6 +7470,7 @@
     <LongName>ALL IN CRED SOCIEDADE DE CREDITO DIRETO S.A.</LongName>
     <ShortName>ALL IN CRED SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7476,8 +7479,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-12-22</DateOperationStarted>
+    <DatePixStarted>2024-12-10 11:00:00</DatePixStarted>
     <DateRegistered>2023-12-18T12:06:50.1170089Z</DateRegistered>
-    <DateUpdated>2023-12-18T12:06:50.1170312Z</DateUpdated>
+    <DateUpdated>2024-12-05T12:08:35.7332513Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>575</COMPE>
@@ -8637,6 +8641,26 @@
     <DatePixStarted>2023-11-17 12:11:31</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9188245Z</DateRegistered>
     <DateUpdated>2024-11-20T12:08:12.9794672Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>674</COMPE>
+    <ISPB>27970567</ISPB>
+    <Document>27.970.567/0001-47</Document>
+    <LongName>HINOVA PAY INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>HINOVA PAY IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-12-12</DateOperationStarted>
+    <DatePixStarted>2024-10-15 00:05:41</DatePixStarted>
+    <DateRegistered>2024-12-06T12:08:41.1206753Z</DateRegistered>
+    <DateUpdated>2024-12-06T12:08:40.2615333Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
