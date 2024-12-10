@@ -8269,11 +8269,15 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha</SalaryPortability>
+    <Products>
+      <Product>Cheque Especial</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url>https://www.tribanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114888-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7366747Z</DateUpdated>
+    <DateUpdated>2024-12-10T12:09:00.3599462Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>636</COMPE>
@@ -8571,7 +8575,7 @@
     <LongName>WE PAY OUT INSTITUICAO DE PAGAMENTO LTDA.</LongName>
     <ShortName>WE PAY OUT IP LTDA.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8580,9 +8584,27 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-11-25</DateOperationStarted>
-    <DatePixStarted>2024-07-03 15:28:02</DatePixStarted>
+    <DatePixStarted>2024-12-09 11:10:00</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9188247Z</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:13.0175833Z</DateUpdated>
+    <DateUpdated>2024-12-10T12:09:00.074393Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>663</COMPE>
+    <ISPB>44782130</ISPB>
+    <Document>44.782.130/0001-07</Document>
+    <LongName>ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>ACTUAL DTVM S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-12-16</DateOperationStarted>
+    <DateRegistered>2024-12-10T12:09:00.9597936Z</DateRegistered>
+    <DateUpdated>2024-12-10T12:09:00.9598224Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>664</COMPE>
