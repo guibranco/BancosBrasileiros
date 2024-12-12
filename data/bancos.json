@@ -9631,12 +9631,15 @@
     "PCR": true,
     "PCRP": true,
     "SalaryPortability": "Banco folha",
-    "Products": null,
+    "Products": [
+      "Cheque Especial",
+      "Troca de Modalidade"
+    ],
     "Url": "https://www.tribanco.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114888-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7366747+00:00"
+    "DateUpdated": "2024-12-10T12:09:00.3599462+00:00"
   },
   {
     "COMPE": "636",
@@ -9973,7 +9976,7 @@
     "ShortName": "WE PAY OUT IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9984,9 +9987,32 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-11-25",
-    "DatePixStarted": "2024-07-03 15:28:02",
+    "DatePixStarted": "2024-12-09 11:10:00",
     "DateRegistered": "2024-11-20T12:08:13.9188247+00:00",
-    "DateUpdated": "2024-11-20T12:08:13.0175833+00:00"
+    "DateUpdated": "2024-12-10T12:09:00.074393+00:00"
+  },
+  {
+    "COMPE": "663",
+    "ISPB": "44782130",
+    "Document": "44.782.130/0001-07",
+    "LongName": "ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "ACTUAL DTVM S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-12-16",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-12-10T12:09:00.9597936+00:00",
+    "DateUpdated": "2024-12-10T12:09:00.9598224+00:00"
   },
   {
     "COMPE": "664",
