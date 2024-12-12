@@ -383,6 +383,13 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
                     <sub><b>deepsource-io[bot]</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/gitauto-ai[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/844909?v=4" width="100;" alt="gitauto-ai[bot]"/>
+                    <br />
+                    <sub><b>gitauto-ai[bot]</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
