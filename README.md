@@ -22,8 +22,32 @@
 
 ---
 
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'bancos_brasileiros'
+```
+
 ## List of banks
 
+And then execute:
+
+```bash
+$ bundle install
+```
+
+Or install it yourself as:
+
+
+```bash
+$ gem install bancos_brasileiros
+```
+
+## Usage
+
+TODO: Write usage instructions here
 ### Formats
 
 This list contains 400+ registered banks, in the following formats:
