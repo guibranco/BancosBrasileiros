@@ -177,14 +177,14 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
 		<tr>
             <td align="center">
                 <a href="https://github.com/guibranco">
-                    <img src="https://private-avatars.githubusercontent.com/u/3362854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTUwMDAsIm5iZiI6MTczNDYxMzgwMCwicGF0aCI6Ii91LzMzNjI4NTQifQ.MVvto_5-YE5G3jlUNUy0hdmjhZUwS5Z_TQ29dKHmnaM&v=4" width="100;" alt="guibranco"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/3362854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU5MDAsIm5iZiI6MTczNDYxNDcwMCwicGF0aCI6Ii91LzMzNjI4NTQifQ.rvwUFc2qlWkzBV9o1DuzCqW-5GYOCGVPEH2DeJJ5fxU&v=4" width="100;" alt="guibranco"/>
                     <br />
                     <sub><b>Guilherme Branco Stracini</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/raphaelcunha">
-                    <img src="https://private-avatars.githubusercontent.com/u/3853552?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ4ODAsIm5iZiI6MTczNDYxMzY4MCwicGF0aCI6Ii91LzM4NTM1NTIifQ.qRm1MgpOc1Ed9Pqn4wjIUB9y-ONZkyQTKMfigHTYBqY&v=4" width="100;" alt="raphaelcunha"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/3853552?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU3ODAsIm5iZiI6MTczNDYxNDU4MCwicGF0aCI6Ii91LzM4NTM1NTIifQ.iN-6grPeMKkwSZHcj5jAoVieNVrUvJcWmlM81byHUM4&v=4" width="100;" alt="raphaelcunha"/>
                     <br />
                     <sub><b>Raphael Cunha</b></sub>
                 </a>
@@ -221,7 +221,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
 		<tr>
             <td align="center">
                 <a href="https://github.com/pferreirafabricio">
-                    <img src="https://private-avatars.githubusercontent.com/u/42717522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ4ODAsIm5iZiI6MTczNDYxMzY4MCwicGF0aCI6Ii91LzQyNzE3NTIyIn0.pP0UyXh_wX6W9XC6eP2HKds6QseXymisL-ebLFaDixg&v=4" width="100;" alt="pferreirafabricio"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/42717522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU3ODAsIm5iZiI6MTczNDYxNDU4MCwicGF0aCI6Ii91LzQyNzE3NTIyIn0.yaezYlUPronVThyWdd8Uvzz9zjnkZqPyhrdkYH1n-Kg&v=4" width="100;" alt="pferreirafabricio"/>
                     <br />
                     <sub><b>Fabrício Pinto Ferreira</b></sub>
                 </a>
@@ -256,7 +256,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             </td>
             <td align="center">
                 <a href="https://github.com/leogregianin">
-                    <img src="https://private-avatars.githubusercontent.com/u/1684053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ4ODAsIm5iZiI6MTczNDYxMzY4MCwicGF0aCI6Ii91LzE2ODQwNTMifQ.4ZkI3wghhztxZOuLbybxh03MRzbZZ3kJ3rX5BnufPpY&v=4" width="100;" alt="leogregianin"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/1684053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU3ODAsIm5iZiI6MTczNDYxNDU4MCwicGF0aCI6Ii91LzE2ODQwNTMifQ.NuwXRuBzy2zZus6iMPd0XTn-m1svfS0JDjHCCkhNzPU&v=4" width="100;" alt="leogregianin"/>
                     <br />
                     <sub><b>Leonardo Gregianin</b></sub>
                 </a>
@@ -279,7 +279,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             </td>
             <td align="center">
                 <a href="https://github.com/victorbrandaao">
-                    <img src="https://private-avatars.githubusercontent.com/u/85573492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTUwMDAsIm5iZiI6MTczNDYxMzgwMCwicGF0aCI6Ii91Lzg1NTczNDkyIn0.B-3qE9cyNWmvXS-r6Swi8ZW-F2DNjtRMuWx6CrOrTPk&v=4" width="100;" alt="victorbrandaao"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/85573492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU5MDAsIm5iZiI6MTczNDYxNDcwMCwicGF0aCI6Ii91Lzg1NTczNDkyIn0.CFDEVoTQc-uYrsey1WH55648GDe5rwTUhSI8thfBypA&v=4" width="100;" alt="victorbrandaao"/>
                     <br />
                     <sub><b>Victor Leonardo Brandão</b></sub>
                 </a>
@@ -334,7 +334,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             </td>
             <td align="center">
                 <a href="https://github.com/github-actions[bot]">
-                    <img src="https://private-avatars.githubusercontent.com/in/15368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTUwNjAsIm5iZiI6MTczNDYxMzg2MCwicGF0aCI6Ii9pbi8xNTM2OCJ9.exP9HIepW6JVOoksyfJ4YPX__XrXVV34XDNBSzRcTSQ&v=4" width="100;" alt="github-actions[bot]"/>
+                    <img src="https://private-avatars.githubusercontent.com/in/15368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU5NjAsIm5iZiI6MTczNDYxNDc2MCwicGF0aCI6Ii9pbi8xNTM2OCJ9.zu_eqJBn6q7XVvA9NcxZIb9nyhIOzC6gJfAuT9HfZ7A&v=4" width="100;" alt="github-actions[bot]"/>
                     <br />
                     <sub><b>github-actions[bot]</b></sub>
                 </a>
@@ -355,14 +355,14 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             </td>
             <td align="center">
                 <a href="https://github.com/stack-file[bot]">
-                    <img src="https://private-avatars.githubusercontent.com/in/408123?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ5NDAsIm5iZiI6MTczNDYxMzc0MCwicGF0aCI6Ii9pbi80MDgxMjMifQ._4JsQumsD9iR_tSN6nqS7E3vHFUmuHkOUjJo8Y60kiY&v=4" width="100;" alt="stack-file[bot]"/>
+                    <img src="https://private-avatars.githubusercontent.com/in/408123?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU4NDAsIm5iZiI6MTczNDYxNDY0MCwicGF0aCI6Ii9pbi80MDgxMjMifQ.HiKLCO-cT6RIqAvnJPTINbI3gZAWEwTRjSuq7qbTFe8&v=4" width="100;" alt="stack-file[bot]"/>
                     <br />
                     <sub><b>stack-file[bot]</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/codefactor-io[bot]">
-                    <img src="https://private-avatars.githubusercontent.com/in/25603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTUwNjAsIm5iZiI6MTczNDYxMzg2MCwicGF0aCI6Ii9pbi8yNTYwMyJ9.dswCK6e8q5zH6BnZpSazXYEApFmGjV7RN3B10JnEQPI&v=4" width="100;" alt="codefactor-io[bot]"/>
+                    <img src="https://private-avatars.githubusercontent.com/in/25603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU5NjAsIm5iZiI6MTczNDYxNDc2MCwicGF0aCI6Ii9pbi8yNTYwMyJ9.z_bWQlcJ3gYcqRCE6Z0gLkkX8dLj9Dwi7tx9-7KnKEw&v=4" width="100;" alt="codefactor-io[bot]"/>
                     <br />
                     <sub><b>codefactor-io[bot]</b></sub>
                 </a>
@@ -371,14 +371,14 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
 		<tr>
             <td align="center">
                 <a href="https://github.com/deepsource-autofix[bot]">
-                    <img src="https://private-avatars.githubusercontent.com/in/57168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTUxMjAsIm5iZiI6MTczNDYxMzkyMCwicGF0aCI6Ii9pbi81NzE2OCJ9.n24VOjqORqECPC6I7NkWppVAIHsktu3jtuTQVJSbWCM&v=4" width="100;" alt="deepsource-autofix[bot]"/>
+                    <img src="https://private-avatars.githubusercontent.com/in/57168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTYwMjAsIm5iZiI6MTczNDYxNDgyMCwicGF0aCI6Ii9pbi81NzE2OCJ9.izk8NZ4-lkJBYeBst20dLBCAiEJhWvxzRWEwx1L-pCg&v=4" width="100;" alt="deepsource-autofix[bot]"/>
                     <br />
                     <sub><b>deepsource-autofix[bot]</b></sub>
                 </a>
             </td>
             <td align="center">
                 <a href="https://github.com/deepsource-io[bot]">
-                    <img src="https://private-avatars.githubusercontent.com/in/16372?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ4ODAsIm5iZiI6MTczNDYxMzY4MCwicGF0aCI6Ii9pbi8xNjM3MiJ9.iwyotTomqzS7U6CmXpshxTSUA4u5M12YOqiKJdFEubI&v=4" width="100;" alt="deepsource-io[bot]"/>
+                    <img src="https://private-avatars.githubusercontent.com/in/16372?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU3ODAsIm5iZiI6MTczNDYxNDU4MCwicGF0aCI6Ii9pbi8xNjM3MiJ9._FeRBK0ylD8-GIbxRzdu2kbPqqVFslyjhqBygQZ6zlU&v=4" width="100;" alt="deepsource-io[bot]"/>
                     <br />
                     <sub><b>deepsource-io[bot]</b></sub>
                 </a>
