@@ -198,7 +198,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             </td>
             <td align="center">
                 <a href="https://github.com/BrunoM90">
-                    <img src="https://private-avatars.githubusercontent.com/u/152902220?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ3NjAsIm5iZiI6MTczNDYxMzU2MCwicGF0aCI6Ii91LzE1MjkwMjIyMCJ9.tGEUxGvZadNbt-bgejvqyhvLtvDfUpT9ed2Lm-cMbWk&v=4" width="100;" alt="BrunoM90"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/152902220?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU2NjAsIm5iZiI6MTczNDYxNDQ2MCwicGF0aCI6Ii91LzE1MjkwMjIyMCJ9.jw6IXnyo3HTWTCs0ECF8CS-wg6mj_-n5Z8ElfS_lI2g&v=4" width="100;" alt="BrunoM90"/>
                     <br />
                     <sub><b>Null</b></sub>
                 </a>
@@ -228,7 +228,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             </td>
             <td align="center">
                 <a href="https://github.com/Guillergood">
-                    <img src="https://private-avatars.githubusercontent.com/u/16701917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ4MjAsIm5iZiI6MTczNDYxMzYyMCwicGF0aCI6Ii91LzE2NzAxOTE3In0.jd7ykNRbtw_YCKwXMKdYnoPVOh6kgOMVclDW3ZihDlc&v=4" width="100;" alt="Guillergood"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/16701917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU3MjAsIm5iZiI6MTczNDYxNDUyMCwicGF0aCI6Ii91LzE2NzAxOTE3In0.bOoCbixexxra_EiJp4qm2Qlw5mE_z-pd099SvaNGOZs&v=4" width="100;" alt="Guillergood"/>
                     <br />
                     <sub><b>Guillermo Bueno Vargas</b></sub>
                 </a>
@@ -300,7 +300,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
             </td>
             <td align="center">
                 <a href="https://github.com/rodrigondec">
-                    <img src="https://private-avatars.githubusercontent.com/u/3301060?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTQ3NjAsIm5iZiI6MTczNDYxMzU2MCwicGF0aCI6Ii91LzMzMDEwNjAifQ.IhT6sxZnUpT1Ctkx4X8beeL3r_cWSSVlDQDcFt7GS18&v=4" width="100;" alt="rodrigondec"/>
+                    <img src="https://private-avatars.githubusercontent.com/u/3301060?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTU2NjAsIm5iZiI6MTczNDYxNDQ2MCwicGF0aCI6Ii91LzMzMDEwNjAifQ.g8v-T54Byv_l546hOHjG-rvacp3kRJNJyeXVDDhMy1c&v=4" width="100;" alt="rodrigondec"/>
                     <br />
                     <sub><b>Rodrigo Castro</b></sub>
                 </a>
