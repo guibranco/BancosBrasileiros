@@ -6485,7 +6485,7 @@
     "COMPE": "450",
     "ISPB": "13203354",
     "Document": "13.203.354/0001-85",
-    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.",
+    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.",
     "ShortName": "FITBANK IP",
     "Network": "RSFN",
     "Type": null,
@@ -6502,7 +6502,7 @@
     "DateOperationStarted": "2021-06-30",
     "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7454123+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9507206+00:00"
   },
   {
     "COMPE": "451",
@@ -8457,8 +8457,8 @@
     "COMPE": "559",
     "ISPB": "49288113",
     "Document": "49.288.113/0001-23",
-    "LongName": "KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "KANASTRA SCD",
+    "LongName": "KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "KANASTRA CFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8474,7 +8474,7 @@
     "DateOperationStarted": "2023-09-25",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7468657+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9574874+00:00"
   },
   {
     "COMPE": "560",

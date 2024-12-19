@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2024-12-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 450 - FITBANK IP - 13.203.354/0001-85
+    - **LongName** (STR): FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A. **->** FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.
+  - 559 - KANASTRA CFI - 49.288.113/0001-23
+    - **LongName** (STR): KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A. **->** KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): KANASTRA SCD **->** KANASTRA CFI
+
 ### 2024-12-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
