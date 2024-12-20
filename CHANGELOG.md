@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-12-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 95 - BANCO TRAVELEX S.A. - 11.703.662/0001-44
+    - **LongName** (STR): Travelex Banco de Câmbio S.A. **->** BANCO TRAVELEX S.A.
+    - **ShortName** (STR): TRAVELEX BANCO DE CÂMBIO S.A. **->** BANCO TRAVELEX S.A.
+
 ### 2024-12-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
