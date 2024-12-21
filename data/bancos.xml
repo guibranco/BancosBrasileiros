@@ -1130,8 +1130,8 @@
     <COMPE>095</COMPE>
     <ISPB>11703662</ISPB>
     <Document>11.703.662/0001-44</Document>
-    <LongName>Travelex Banco de Câmbio S.A.</LongName>
-    <ShortName>TRAVELEX BANCO DE CÂMBIO S.A.</ShortName>
+    <LongName>BANCO TRAVELEX S.A.</LongName>
+    <ShortName>BANCO TRAVELEX S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco de Câmbio</Type>
     <PixType>DRCT</PixType>
@@ -1145,7 +1145,7 @@
     <DateOperationStarted>2010-06-22</DateOperationStarted>
     <DatePixStarted>2023-01-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114742-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.2246781Z</DateUpdated>
+    <DateUpdated>2024-12-20T12:07:51.9201305Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>096</COMPE>
@@ -5644,7 +5644,7 @@
     <COMPE>450</COMPE>
     <ISPB>13203354</ISPB>
     <Document>13.203.354/0001-85</Document>
-    <LongName>FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.</LongName>
+    <LongName>FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>FITBANK IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -5658,7 +5658,7 @@
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7454123Z</DateUpdated>
+    <DateUpdated>2024-12-19T12:08:15.9507206Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>451</COMPE>
@@ -7274,8 +7274,8 @@
     <COMPE>559</COMPE>
     <ISPB>49288113</ISPB>
     <Document>49.288.113/0001-23</Document>
-    <LongName>KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>KANASTRA SCD</ShortName>
+    <LongName>KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>KANASTRA CFI</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7286,7 +7286,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-25</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7468657Z</DateUpdated>
+    <DateUpdated>2024-12-19T12:08:15.9574874Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>560</COMPE>
@@ -8517,7 +8517,7 @@
     <LongName>ONEKEY PAYMENTS INSTITUICAO DE PAGAMENTO SA</LongName>
     <ShortName>ONEKEY PAYMENTS IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8526,9 +8526,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-09-30</DateOperationStarted>
-    <DatePixStarted>2022-09-12 11:04:30</DatePixStarted>
+    <DatePixStarted>2024-12-20 10:10:00</DatePixStarted>
     <DateRegistered>2024-09-24T12:07:36.7070372Z</DateRegistered>
-    <DateUpdated>2024-09-24T12:07:35.7979065Z</DateUpdated>
+    <DateUpdated>2024-12-21T12:07:25.473962Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>660</COMPE>
@@ -8643,6 +8643,24 @@
     <DatePixStarted>2021-12-21 02:14:54</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9187948Z</DateRegistered>
     <DateUpdated>2024-11-20T12:08:12.9272681Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>666</COMPE>
+    <ISPB>53842122</ISPB>
+    <Document>53.842.122/0001-91</Document>
+    <LongName>URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>URBANO S.A. SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-12-23</DateOperationStarted>
+    <DateRegistered>2024-12-17T12:08:44.2545545Z</DateRegistered>
+    <DateUpdated>2024-12-17T12:08:44.254587Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>671</COMPE>

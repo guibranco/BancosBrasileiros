@@ -4,6 +4,34 @@
 
 ## Changelog
 
+### 2024-12-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 659 - ONEKEY PAYMENTS IP S.A. - 35.210.410/0001-41
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2022-09-12 11:04:30 **->** 2024-12-20 10:10:00
+
+### 2024-12-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 95 - BANCO TRAVELEX S.A. - 11.703.662/0001-44
+    - **LongName** (STR): Travelex Banco de Câmbio S.A. **->** BANCO TRAVELEX S.A.
+    - **ShortName** (STR): TRAVELEX BANCO DE CÂMBIO S.A. **->** BANCO TRAVELEX S.A.
+
+### 2024-12-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 450 - FITBANK IP - 13.203.354/0001-85
+    - **LongName** (STR): FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A. **->** FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.
+  - 559 - KANASTRA CFI - 49.288.113/0001-23
+    - **LongName** (STR): KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A. **->** KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): KANASTRA SCD **->** KANASTRA CFI
+
+### 2024-12-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 666 - URBANO S.A. SCFI - 53.842.122/0001-91
+
 ### 2024-12-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

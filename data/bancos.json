@@ -1253,8 +1253,8 @@
     "COMPE": "095",
     "ISPB": "11703662",
     "Document": "11.703.662/0001-44",
-    "LongName": "Travelex Banco de Câmbio S.A.",
-    "ShortName": "TRAVELEX BANCO DE CÂMBIO S.A.",
+    "LongName": "BANCO TRAVELEX S.A.",
+    "ShortName": "BANCO TRAVELEX S.A.",
     "Network": "RSFN",
     "Type": "Banco de Câmbio",
     "PixType": "DRCT",
@@ -1270,7 +1270,7 @@
     "DateOperationStarted": "2010-06-22",
     "DatePixStarted": "2023-01-30 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114742-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.2246781+00:00"
+    "DateUpdated": "2024-12-20T12:07:51.9201305+00:00"
   },
   {
     "COMPE": "096",
@@ -6485,7 +6485,7 @@
     "COMPE": "450",
     "ISPB": "13203354",
     "Document": "13.203.354/0001-85",
-    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.",
+    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.",
     "ShortName": "FITBANK IP",
     "Network": "RSFN",
     "Type": null,
@@ -6502,7 +6502,7 @@
     "DateOperationStarted": "2021-06-30",
     "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7454123+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9507206+00:00"
   },
   {
     "COMPE": "451",
@@ -8457,8 +8457,8 @@
     "COMPE": "559",
     "ISPB": "49288113",
     "Document": "49.288.113/0001-23",
-    "LongName": "KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "KANASTRA SCD",
+    "LongName": "KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "KANASTRA CFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8474,7 +8474,7 @@
     "DateOperationStarted": "2023-09-25",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7468657+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9574874+00:00"
   },
   {
     "COMPE": "560",
@@ -9907,7 +9907,7 @@
     "ShortName": "ONEKEY PAYMENTS IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9918,9 +9918,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-09-30",
-    "DatePixStarted": "2022-09-12 11:04:30",
+    "DatePixStarted": "2024-12-20 10:10:00",
     "DateRegistered": "2024-09-24T12:07:36.7070372+00:00",
-    "DateUpdated": "2024-09-24T12:07:35.7979065+00:00"
+    "DateUpdated": "2024-12-21T12:07:25.473962+00:00"
   },
   {
     "COMPE": "660",
@@ -10059,6 +10059,29 @@
     "DatePixStarted": "2021-12-21 02:14:54",
     "DateRegistered": "2024-11-20T12:08:13.9187948+00:00",
     "DateUpdated": "2024-11-20T12:08:12.9272681+00:00"
+  },
+  {
+    "COMPE": "666",
+    "ISPB": "53842122",
+    "Document": "53.842.122/0001-91",
+    "LongName": "URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "URBANO S.A. SCFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-12-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-12-17T12:08:44.2545545+00:00",
+    "DateUpdated": "2024-12-17T12:08:44.254587+00:00"
   },
   {
     "COMPE": "671",
