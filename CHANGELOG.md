@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-12-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 659 - ONEKEY PAYMENTS IP S.A. - 35.210.410/0001-41
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2022-09-12 11:04:30 **->** 2024-12-20 10:10:00
+
 ### 2024-12-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
