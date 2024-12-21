@@ -8517,7 +8517,7 @@
     <LongName>ONEKEY PAYMENTS INSTITUICAO DE PAGAMENTO SA</LongName>
     <ShortName>ONEKEY PAYMENTS IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8526,9 +8526,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-09-30</DateOperationStarted>
-    <DatePixStarted>2022-09-12 11:04:30</DatePixStarted>
+    <DatePixStarted>2024-12-20 10:10:00</DatePixStarted>
     <DateRegistered>2024-09-24T12:07:36.7070372Z</DateRegistered>
-    <DateUpdated>2024-09-24T12:07:35.7979065Z</DateUpdated>
+    <DateUpdated>2024-12-21T12:07:25.473962Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>660</COMPE>
