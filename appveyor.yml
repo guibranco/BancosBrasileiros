@@ -80,6 +80,9 @@ build_script:
 artifacts:
 - path: '**\*nupkg'
   name: Package
+  
+- path: 'data/bancos.json'
+  name: Data
 
 deploy:
 - provider: NuGet
