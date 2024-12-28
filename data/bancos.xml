@@ -196,8 +196,8 @@
     <COMPE>015</COMPE>
     <ISPB>02819125</ISPB>
     <Document>02.819.125/0001-73</Document>
-    <LongName>UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.</LongName>
-    <ShortName>UBS BRASIL CCTVM S.A.</ShortName>
+    <LongName>UBS BB CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>UBS BB CCTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -208,7 +208,7 @@
     <Url>https://www.ubs.com/br/pt.html</Url>
     <DateOperationStarted>2011-03-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114483-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114485-03:00</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:11.780165Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>016</COMPE>
@@ -1130,8 +1130,8 @@
     <COMPE>095</COMPE>
     <ISPB>11703662</ISPB>
     <Document>11.703.662/0001-44</Document>
-    <LongName>Travelex Banco de Câmbio S.A.</LongName>
-    <ShortName>TRAVELEX BANCO DE CÂMBIO S.A.</ShortName>
+    <LongName>BANCO TRAVELEX S.A.</LongName>
+    <ShortName>BANCO TRAVELEX S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco de Câmbio</Type>
     <PixType>DRCT</PixType>
@@ -1145,7 +1145,7 @@
     <DateOperationStarted>2010-06-22</DateOperationStarted>
     <DatePixStarted>2023-01-30 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114742-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.2246781Z</DateUpdated>
+    <DateUpdated>2024-12-20T12:07:51.9201305Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>096</COMPE>
@@ -1446,7 +1446,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://cecoop.com.br/central/</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2011-10-27</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114598-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.192614Z</DateUpdated>
@@ -1665,8 +1665,8 @@
     <COMPE>129</COMPE>
     <ISPB>18520834</ISPB>
     <Document>18.520.834/0001-93</Document>
-    <LongName>UBS Brasil Banco de Investimento S.A.</LongName>
-    <ShortName>UBS BRASIL BI S.A.</ShortName>
+    <LongName>UBS BB BANCO DE INVESTIMENTO S.A.</LongName>
+    <ShortName>UBS BB BI S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1677,7 +1677,7 @@
     <Url>https://www.ubs.com</Url>
     <DateOperationStarted>2014-03-12</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114915-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114917-03:00</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:11.7856061Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>130</COMPE>
@@ -1790,8 +1790,8 @@
     <COMPE>136</COMPE>
     <ISPB>00315557</ISPB>
     <Document>00.315.557/0001-11</Document>
-    <LongName>CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASIL.</LongName>
-    <ShortName>CONF NAC COOP CENTRAIS UNICRED</ShortName>
+    <LongName>COOPERATIVA CENTRAL DE CRÉDITO UNICRED DO BRASIL - UNICRED DO BRASIL</LongName>
+    <ShortName>UNICRED DO BRASIL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -1815,7 +1815,7 @@
     <DateOperationStarted>2014-07-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7112437-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.74141Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:11.7778138Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>138</COMPE>
@@ -2866,6 +2866,7 @@
     <LongName>IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.</LongName>
     <ShortName>IB CCTVM S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -2874,8 +2875,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-02-26</DateOperationStarted>
+    <DatePixStarted>2024-11-18 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114984-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114985-03:00</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:12.9923927Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>272</COMPE>
@@ -2899,8 +2901,8 @@
     <COMPE>273</COMPE>
     <ISPB>08253539</ISPB>
     <Document>08.253.539/0001-64</Document>
-    <LongName>Cooperativa de Crédito Rural de São Miguel do Oeste - Sulcredi/São Miguel</LongName>
-    <ShortName>CCR DE SÃO MIGUEL DO OESTE</ShortName>
+    <LongName>COOPERATIVA DE CREDITO SULCREDI AMPLEA</LongName>
+    <ShortName>COOP SULCREDI AMPLEA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2913,7 +2915,7 @@
     <DateOperationStarted>2018-04-24</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114649-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114651-03:00</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:11.7822814Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>274</COMPE>
@@ -3523,10 +3525,16 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Products>
+      <Product>Consignado</Product>
+      <Product>Imobiliário</Product>
+      <Product>Pessoal</Product>
+      <Product>Veículos</Product>
+    </Products>
     <Url>https://www.br.ccb.com</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114616-03:00</DateRegistered>
-    <DateUpdated>2024-10-10T12:08:00.7521769Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:13.2876978Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>321</COMPE>
@@ -3826,7 +3834,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <SalaryPortability>Destinatário</SalaryPortability>
+    <SalaryPortability>Banco Folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Capital de Giro</Product>
       <Product>Cheque Especial</Product>
@@ -3840,7 +3848,7 @@
     <DateOperationStarted>2019-01-31</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115026-03:00</DateRegistered>
-    <DateUpdated>2024-08-09T12:07:01.1518628Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:13.9098123Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>340</COMPE>
@@ -4443,6 +4451,7 @@
     <LongName>COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA.</LongName>
     <ShortName>CECM COOPERFORTE</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -4459,8 +4468,9 @@
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-09-01</DateOperationStarted>
+    <DatePixStarted>2024-11-25 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114443-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.8456698Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:12.5504802Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>380</COMPE>
@@ -5025,13 +5035,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-02-17</DateOperationStarted>
     <DatePixStarted>2024-01-10 11:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114594-03:00</DateRegistered>
-    <DateUpdated>2024-01-09T12:06:14.1626613Z</DateUpdated>
+    <DateUpdated>2024-11-29T12:36:54.3496718Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>411</COMPE>
@@ -5599,6 +5609,7 @@
     <LongName>HEMERA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
     <ShortName>HEMERA DTVM LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -5607,8 +5618,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-17</DateOperationStarted>
+    <DatePixStarted>2024-11-11 09:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926622-03:00</DateRegistered>
-    <DateUpdated>2021-08-24T13:06:55.8926625-03:00</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:13.0684787Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>449</COMPE>
@@ -5632,7 +5644,7 @@
     <COMPE>450</COMPE>
     <ISPB>13203354</ISPB>
     <Document>13.203.354/0001-85</Document>
-    <LongName>FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.</LongName>
+    <LongName>FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>FITBANK IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -5646,7 +5658,7 @@
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7454123Z</DateUpdated>
+    <DateUpdated>2024-12-19T12:08:15.9507206Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>451</COMPE>
@@ -6153,6 +6165,7 @@
     <LongName>SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>SBCASH SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6161,8 +6174,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-10-11</DateOperationStarted>
+    <DatePixStarted>2024-12-11 11:00:00</DatePixStarted>
     <DateRegistered>2022-10-04T12:08:42.7066127Z</DateRegistered>
-    <DateUpdated>2024-09-17T12:07:21.6345906Z</DateUpdated>
+    <DateUpdated>2024-12-05T12:08:35.7132602Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>484</COMPE>
@@ -6574,7 +6588,7 @@
     <LongName>HR DIGITAL - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
     <ShortName>HR DIGITAL SCD</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -6583,9 +6597,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-15</DateOperationStarted>
-    <DatePixStarted>2024-06-10 06:02:13</DatePixStarted>
+    <DatePixStarted>2024-12-05 11:10:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
-    <DateUpdated>2024-06-11T12:07:05.2936207Z</DateUpdated>
+    <DateUpdated>2024-12-06T12:08:40.3608998Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>524</COMPE>
@@ -6708,6 +6722,7 @@
     <LongName>SER FINANCE SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>SER FINANCE SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>false</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -6722,8 +6737,9 @@
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-03-14</DateOperationStarted>
+    <DatePixStarted>2024-11-13 09:00:00</DatePixStarted>
     <DateRegistered>2023-03-09T12:07:29.7846292Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7504877Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:13.1020585Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>531</COMPE>
@@ -7258,8 +7274,8 @@
     <COMPE>559</COMPE>
     <ISPB>49288113</ISPB>
     <Document>49.288.113/0001-23</Document>
-    <LongName>KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>KANASTRA SCD</ShortName>
+    <LongName>KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>KANASTRA CFI</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7270,7 +7286,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-25</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7468657Z</DateUpdated>
+    <DateUpdated>2024-12-19T12:08:15.9574874Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>560</COMPE>
@@ -7416,6 +7432,7 @@
     <LongName>BRCONDOS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>BRCONDOS SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7424,8 +7441,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-12-08</DateOperationStarted>
+    <DatePixStarted>2024-11-13 11:00:00</DatePixStarted>
     <DateRegistered>2023-12-04T12:06:24.367144Z</DateRegistered>
-    <DateUpdated>2023-12-04T12:06:24.3671662Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:13.1045667Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>569</COMPE>
@@ -7452,6 +7470,7 @@
     <LongName>ALL IN CRED SOCIEDADE DE CREDITO DIRETO S.A.</LongName>
     <ShortName>ALL IN CRED SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7460,8 +7479,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-12-22</DateOperationStarted>
+    <DatePixStarted>2024-12-10 11:00:00</DatePixStarted>
     <DateRegistered>2023-12-18T12:06:50.1170089Z</DateRegistered>
-    <DateUpdated>2023-12-18T12:06:50.1170312Z</DateUpdated>
+    <DateUpdated>2024-12-05T12:08:35.7332513Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>575</COMPE>
@@ -7726,6 +7746,7 @@
     <LongName>G5 SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>G5 SCD SA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7734,8 +7755,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-18</DateOperationStarted>
+    <DatePixStarted>2024-12-09 09:00:00</DatePixStarted>
     <DateRegistered>2024-06-12T12:06:51.7759654Z</DateRegistered>
-    <DateUpdated>2024-06-12T12:06:51.7759938Z</DateUpdated>
+    <DateUpdated>2024-11-28T12:37:25.5346752Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>590</COMPE>
@@ -7802,7 +7824,7 @@
     <LongName>TRANSFEERA INSTITUIÇÃO DE PAGAMENTO S.A</LongName>
     <ShortName>TRANSFEERA IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7811,9 +7833,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-05-15</DateOperationStarted>
-    <DatePixStarted>2021-05-04 10:27:26</DatePixStarted>
+    <DatePixStarted>2024-11-04 09:10:00</DatePixStarted>
     <DateRegistered>2024-05-09T12:06:38.0035796Z</DateRegistered>
-    <DateUpdated>2024-05-09T12:06:37.6901159Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:12.9891048Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>594</COMPE>
@@ -8044,6 +8066,7 @@
     <LongName>NITRO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>NITRO SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8052,8 +8075,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-14</DateOperationStarted>
+    <DatePixStarted>2024-11-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-06-10T12:07:20.428794Z</DateRegistered>
-    <DateUpdated>2024-06-10T12:07:20.4288223Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:13.1074196Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>615</COMPE>
@@ -8124,7 +8148,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <SalaryPortability>Destinatário</SalaryPortability>
+    <SalaryPortability>Banco Folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
@@ -8137,7 +8161,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711524-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7333032Z</DateUpdated>
+    <DateUpdated>2024-11-20T12:08:13.9104425Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>626</COMPE>
@@ -8245,11 +8269,15 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Banco folha</SalaryPortability>
+    <Products>
+      <Product>Cheque Especial</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url>https://www.tribanco.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114888-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7366747Z</DateUpdated>
+    <DateUpdated>2024-12-10T12:09:00.3599462Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>636</COMPE>
@@ -8489,7 +8517,7 @@
     <LongName>ONEKEY PAYMENTS INSTITUICAO DE PAGAMENTO SA</LongName>
     <ShortName>ONEKEY PAYMENTS IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8498,9 +8526,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-09-30</DateOperationStarted>
-    <DatePixStarted>2022-09-12 11:04:30</DatePixStarted>
+    <DatePixStarted>2024-12-20 10:10:00</DatePixStarted>
     <DateRegistered>2024-09-24T12:07:36.7070372Z</DateRegistered>
-    <DateUpdated>2024-09-24T12:07:35.7979065Z</DateUpdated>
+    <DateUpdated>2024-12-21T12:07:25.473962Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>660</COMPE>
@@ -8541,6 +8569,44 @@
     <DateUpdated>2024-09-05T12:33:05.3564037Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>662</COMPE>
+    <ISPB>32708748</ISPB>
+    <Document>32.708.748/0001-30</Document>
+    <LongName>WE PAY OUT INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>WE PAY OUT IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-11-25</DateOperationStarted>
+    <DatePixStarted>2024-12-09 11:10:00</DatePixStarted>
+    <DateRegistered>2024-11-20T12:08:13.9188247Z</DateRegistered>
+    <DateUpdated>2024-12-10T12:09:00.074393Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>663</COMPE>
+    <ISPB>44782130</ISPB>
+    <Document>44.782.130/0001-07</Document>
+    <LongName>ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>ACTUAL DTVM S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-12-16</DateOperationStarted>
+    <DateRegistered>2024-12-10T12:09:00.9597936Z</DateRegistered>
+    <DateUpdated>2024-12-10T12:09:00.9598224Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>664</COMPE>
     <ISPB>11414839</ISPB>
     <Document>11.414.839/0001-92</Document>
@@ -8557,6 +8623,84 @@
     <DateOperationStarted>2024-09-30</DateOperationStarted>
     <DateRegistered>2024-09-24T12:07:36.7070087Z</DateRegistered>
     <DateUpdated>2024-09-24T12:07:36.7070368Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>665</COMPE>
+    <ISPB>20018183</ISPB>
+    <Document>20.018.183/0001-80</Document>
+    <LongName>STARK BANK S.A. - INSTITUICAO DE PAGAMENTO</LongName>
+    <ShortName>STARK BANK S.A. - IP</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-11-25</DateOperationStarted>
+    <DatePixStarted>2021-12-21 02:14:54</DatePixStarted>
+    <DateRegistered>2024-11-20T12:08:13.9187948Z</DateRegistered>
+    <DateUpdated>2024-11-20T12:08:12.9272681Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>666</COMPE>
+    <ISPB>53842122</ISPB>
+    <Document>53.842.122/0001-91</Document>
+    <LongName>URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>URBANO S.A. SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-12-23</DateOperationStarted>
+    <DateRegistered>2024-12-17T12:08:44.2545545Z</DateRegistered>
+    <DateUpdated>2024-12-17T12:08:44.254587Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>671</COMPE>
+    <ISPB>26264220</ISPB>
+    <Document>26.264.220/0001-16</Document>
+    <LongName>ZERO INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>ZERO</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-11-11</DateOperationStarted>
+    <DatePixStarted>2023-11-17 12:11:31</DatePixStarted>
+    <DateRegistered>2024-11-20T12:08:13.9188245Z</DateRegistered>
+    <DateUpdated>2024-11-20T12:08:12.9794672Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>674</COMPE>
+    <ISPB>27970567</ISPB>
+    <Document>27.970.567/0001-47</Document>
+    <LongName>HINOVA PAY INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>HINOVA PAY IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-12-12</DateOperationStarted>
+    <DatePixStarted>2024-10-15 00:05:41</DatePixStarted>
+    <DateRegistered>2024-12-06T12:08:41.1206753Z</DateRegistered>
+    <DateUpdated>2024-12-06T12:08:40.2615333Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>

@@ -4,6 +4,125 @@
 
 ## Changelog
 
+### 2024-12-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 659 - ONEKEY PAYMENTS IP S.A. - 35.210.410/0001-41
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2022-09-12 11:04:30 **->** 2024-12-20 10:10:00
+
+### 2024-12-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 95 - BANCO TRAVELEX S.A. - 11.703.662/0001-44
+    - **LongName** (STR): Travelex Banco de Câmbio S.A. **->** BANCO TRAVELEX S.A.
+    - **ShortName** (STR): TRAVELEX BANCO DE CÂMBIO S.A. **->** BANCO TRAVELEX S.A.
+
+### 2024-12-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 450 - FITBANK IP - 13.203.354/0001-85
+    - **LongName** (STR): FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A. **->** FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.
+  - 559 - KANASTRA CFI - 49.288.113/0001-23
+    - **LongName** (STR): KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A. **->** KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): KANASTRA SCD **->** KANASTRA CFI
+
+### 2024-12-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 666 - URBANO S.A. SCFI - 53.842.122/0001-91
+
+### 2024-12-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 663 - ACTUAL DTVM S.A. - 44.782.130/0001-07
+- Updated 2 banks
+  - 634 - BCO TRIANGULO S.A. - 17.351.180/0001-59
+    - **Products** (CTC): Null **->** Cheque Especial, Troca de Modalidade
+  - 662 - WE PAY OUT IP LTDA. - 32.708.748/0001-30
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-07-03 15:28:02 **->** 2024-12-09 11:10:00
+
+### 2024-12-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 674 - HINOVA PAY IP S.A. - 27.970.567/0001-47
+- Updated 1 bank
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-06-10 06:02:13 **->** 2024-12-05 11:10:00
+
+### 2024-12-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 482 - SBCASH SCD - 42.259.084/0001-22
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-12-11 11:00:00
+  - 572 - ALL IN CRED SCD S.A. - 51.414.521/0001-26
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-12-10 11:00:00
+
+### 2024-11-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 410 - PLANNER SOCIEDADE DE CRÉDITO DIRETO - 05.684.234/0001-19
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
+### 2024-11-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 589 - G5 SCD SA - 51.212.088/0001-46
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-12-09 09:00:00
+
+### 2024-11-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 3 banks
+  - 665 - STARK BANK S.A. - IP - 20.018.183/0001-80
+  - 671 - ZERO - 26.264.220/0001-16
+  - 662 - WE PAY OUT IP LTDA. - 32.708.748/0001-30
+- Updated 14 banks
+  - 15 - UBS BB CCTVM S.A. - 02.819.125/0001-73
+    - **LongName** (STR): UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A. **->** UBS BB CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): UBS BRASIL CCTVM S.A. **->** UBS BB CCTVM S.A.
+  - 129 - UBS BB BI S.A. - 18.520.834/0001-93
+    - **LongName** (STR): UBS Brasil Banco de Investimento S.A. **->** UBS BB BANCO DE INVESTIMENTO S.A.
+    - **ShortName** (STR): UBS BRASIL BI S.A. **->** UBS BB BI S.A.
+  - 136 - UNICRED DO BRASIL - 00.315.557/0001-11
+    - **LongName** (STR): CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASIL. **->** COOPERATIVA CENTRAL DE CRÉDITO UNICRED DO BRASIL - UNICRED DO BRASIL
+    - **ShortName** (STR): CONF NAC COOP CENTRAIS UNICRED **->** UNICRED DO BRASIL
+  - 271 - IB CCTVM S.A. - 27.842.177/0001-91
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-11-18 10:00:00
+  - 273 - COOP SULCREDI AMPLEA - 08.253.539/0001-64
+    - **LongName** (STR): Cooperativa de Crédito Rural de São Miguel do Oeste - Sulcredi/São Miguel **->** COOPERATIVA DE CREDITO SULCREDI AMPLEA
+    - **ShortName** (STR): CCR DE SÃO MIGUEL DO OESTE **->** COOP SULCREDI AMPLEA
+  - 320 - BOC BRASIL - 07.450.604/0001-89
+    - **Products** (CTC): Null **->** Consignado, Imobiliário, Pessoal, Veículos
+  - 336 - BCO C6 S.A. - 31.872.495/0001-72
+    - **SalaryPortability** (PCPS): Destinatário **->** Banco Folha e Destinatário
+  - 379 - CECM COOPERFORTE - 01.658.426/0001-08
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-11-25 09:00:00
+  - 448 - HEMERA DTVM LTDA. - 39.669.186/0001-01
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-11-11 09:00:00
+  - 530 - SER FINANCE SCD S.A. - 47.873.449/0001-28
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-11-13 09:00:00
+  - 568 - BRCONDOS SCD S.A. - 49.933.388/0001-72
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-11-13 11:00:00
+  - 593 - TRANSFEERA IP S.A. - 27.084.098/0001-69
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2021-05-04 10:27:26 **->** 2024-11-04 09:10:00
+  - 614 - NITRO SCD S.A. - 52.440.987/0001-69
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2024-11-05 09:00:00
+  - 623 - BANCO PAN - 59.285.411/0001-13
+    - **SalaryPortability** (PCPS): Destinatário **->** Banco Folha e Destinatário
+
 ### 2024-10-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
