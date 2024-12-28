@@ -1,0 +1,11 @@
+ [package]
+ name = "bancos_brasileiros"
+ version = "0.1.0"
+ authors = ["Your Name <your.email@example.com>"]
+ edition = "2021"
+ description = "A Rust crate for Brazilian bank data"
+ license = "MIT OR Apache-2.0"
+ repository = "https://github.com/username/repository"
+
+ [dependencies]
+ # Add any crate dependencies here

@@ -1,3 +1,15 @@
+ ## Installation
+
+ Add this to your `Cargo.toml`:
+
+ ```toml
+ [dependencies]
+ bancos_brasileiros = "0.1.0"
+ ```
+
+ [![Crates.io](https://img.shields.io/crates/v/bancos_brasileiros.svg)](https://crates.io/crates/bancos_brasileiros)
+
+
 # Bancos Brasileiros
 
 🇧🇷 🏦 📋 Brazilian commercial banks list
