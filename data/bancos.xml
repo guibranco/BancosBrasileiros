@@ -6748,6 +6748,7 @@
     <LongName>BMP SOCIEDADE DE CRÉDITO DIRETO S.A</LongName>
     <ShortName>BMP SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6763,8 +6764,9 @@
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-05-22</DateOperationStarted>
+    <DatePixStarted>2025-01-08 08:00:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347544Z</DateRegistered>
-    <DateUpdated>2024-05-21T12:06:40.2011379Z</DateUpdated>
+    <DateUpdated>2024-12-28T12:07:09.7162254Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>532</COMPE>

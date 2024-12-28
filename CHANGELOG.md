@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-12-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 531 - BMP SCD S.A. - 34.337.707/0001-00
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-08 08:00:00
+
 ### 2024-12-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

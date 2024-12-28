@@ -7809,7 +7809,7 @@
     "ShortName": "BMP SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7826,9 +7826,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2023-05-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-08 08:00:00",
     "DateRegistered": "2023-09-25T12:28:25.1347544+00:00",
-    "DateUpdated": "2024-05-21T12:06:40.2011379+00:00"
+    "DateUpdated": "2024-12-28T12:07:09.7162254+00:00"
   },
   {
     "COMPE": "532",
