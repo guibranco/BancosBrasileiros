@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2024-12-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 80 - BT CORRETORA DE CÂMBIO - 73.622.748/0001-08
+    - **LongName** (STR): B&T CORRETORA DE CAMBIO LTDA. **->** BT CORRETORA DE CÂMBIO
+    - **ShortName** (STR): B&T CC LTDA. **->** BT CORRETORA DE CÂMBIO
+
 ### 2024-12-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

@@ -942,8 +942,8 @@
     "COMPE": "080",
     "ISPB": "73622748",
     "Document": "73.622.748/0001-08",
-    "LongName": "B&T CORRETORA DE CAMBIO LTDA.",
-    "ShortName": "B&T CC LTDA.",
+    "LongName": "BT CORRETORA DE CÂMBIO",
+    "ShortName": "BT CORRETORA DE CÂMBIO",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -959,7 +959,7 @@
     "DateOperationStarted": "2010-11-18",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115427-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115429-03:00"
+    "DateUpdated": "2024-12-31T12:07:58.6026254+00:00"
   },
   {
     "COMPE": "081",
