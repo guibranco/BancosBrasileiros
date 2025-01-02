@@ -852,8 +852,8 @@
     <COMPE>080</COMPE>
     <ISPB>73622748</ISPB>
     <Document>73.622.748/0001-08</Document>
-    <LongName>BT CORRETORA DE CÂMBIO</LongName>
-    <ShortName>BT CORRETORA DE CÂMBIO</ShortName>
+    <LongName>BT CORRETORA DE CÂMBIO LTDA.</LongName>
+    <ShortName>BT CC LTDA.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -864,7 +864,7 @@
     <Url>https://btcambio.com.br/</Url>
     <DateOperationStarted>2010-11-18</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115427-03:00</DateRegistered>
-    <DateUpdated>2024-12-31T12:07:58.6026254Z</DateUpdated>
+    <DateUpdated>2025-01-02T12:08:03.3622899Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>081</COMPE>
