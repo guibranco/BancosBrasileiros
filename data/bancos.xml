@@ -4770,6 +4770,7 @@
     <LongName>F.D'GOLD - DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
     <ShortName>F D GOLD DTVM LTDA</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -4778,8 +4779,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-12-01</DateOperationStarted>
+    <DatePixStarted>2025-02-06 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114664-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114666-03:00</DateUpdated>
+    <DateUpdated>2025-01-04T12:07:03.055914Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>396</COMPE>
@@ -6929,6 +6931,7 @@
     <LongName>HBI SOCIEDADE DE CRÉDITO DIRETO S/A.</LongName>
     <ShortName>HBI SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6937,8 +6940,9 @@
     <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-01-08</DateOperationStarted>
+    <DatePixStarted>2025-01-10 11:30:00</DatePixStarted>
     <DateRegistered>2024-01-09T12:06:15.138698Z</DateRegistered>
-    <DateUpdated>2024-06-29T12:28:25.1292546Z</DateUpdated>
+    <DateUpdated>2025-01-04T12:07:02.9553062Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>541</COMPE>

@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-01-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 395 - F D GOLD DTVM LTDA - 08.673.569/0001-20
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-06 10:00:00
+  - 540 - HBI SCD - 04.849.745/0001-80
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-10 11:30:00
+
 ### 2025-01-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
