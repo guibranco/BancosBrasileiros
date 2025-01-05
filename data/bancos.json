@@ -942,8 +942,8 @@
     "COMPE": "080",
     "ISPB": "73622748",
     "Document": "73.622.748/0001-08",
-    "LongName": "B&T CORRETORA DE CAMBIO LTDA.",
-    "ShortName": "B&T CC LTDA.",
+    "LongName": "BT CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "BT CC LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -959,7 +959,7 @@
     "DateOperationStarted": "2010-11-18",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115427-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115429-03:00"
+    "DateUpdated": "2025-01-02T12:08:03.3622899+00:00"
   },
   {
     "COMPE": "081",
@@ -5462,7 +5462,7 @@
     "ShortName": "F D GOLD DTVM LTDA",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5473,9 +5473,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-12-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-06 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114664-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114666-03:00"
+    "DateUpdated": "2025-01-04T12:07:03.055914+00:00"
   },
   {
     "COMPE": "396",
@@ -8024,7 +8024,7 @@
     "ShortName": "HBI SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8035,9 +8035,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-01-08",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-10 11:30:00",
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2024-06-29T12:28:25.1292546+00:00"
+    "DateUpdated": "2025-01-04T12:07:02.9553062+00:00"
   },
   {
     "COMPE": "541",
