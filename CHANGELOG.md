@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-01-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 676 - DUFRIO CFI S.A. - 35.479.592/0001-50
+
 ### 2025-01-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

@@ -8709,6 +8709,24 @@
     <DateUpdated>2024-12-06T12:08:40.2615333Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>676</COMPE>
+    <ISPB>35479592</ISPB>
+    <Document>35.479.592/0001-50</Document>
+    <LongName>DUFRIO FINANCEIRA, CRÉDITO, FINANCIAMENTO E INVESTIMENTOS S.A.</LongName>
+    <ShortName>DUFRIO CFI S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-01-10</DateOperationStarted>
+    <DateRegistered>2025-01-06T12:08:18.8941877Z</DateRegistered>
+    <DateUpdated>2025-01-06T12:08:18.8942076Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>707</COMPE>
     <ISPB>62232889</ISPB>
     <Document>62.232.889/0001-90</Document>
