@@ -213,8 +213,8 @@
     "COMPE": "015",
     "ISPB": "02819125",
     "Document": "02.819.125/0001-73",
-    "LongName": "UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-    "ShortName": "UBS BRASIL CCTVM S.A.",
+    "LongName": "UBS BB CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "UBS BB CCTVM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -230,7 +230,7 @@
     "DateOperationStarted": "2011-03-15",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114483-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114485-03:00"
+    "DateUpdated": "2024-11-20T12:08:11.780165+00:00"
   },
   {
     "COMPE": "016",
@@ -942,8 +942,8 @@
     "COMPE": "080",
     "ISPB": "73622748",
     "Document": "73.622.748/0001-08",
-    "LongName": "B&T CORRETORA DE CAMBIO LTDA.",
-    "ShortName": "B&T CC LTDA.",
+    "LongName": "BT CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "BT CC LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -959,7 +959,7 @@
     "DateOperationStarted": "2010-11-18",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115427-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115429-03:00"
+    "DateUpdated": "2025-01-02T12:08:03.3622899+00:00"
   },
   {
     "COMPE": "081",
@@ -1253,8 +1253,8 @@
     "COMPE": "095",
     "ISPB": "11703662",
     "Document": "11.703.662/0001-44",
-    "LongName": "Travelex Banco de Câmbio S.A.",
-    "ShortName": "TRAVELEX BANCO DE CÂMBIO S.A.",
+    "LongName": "BANCO TRAVELEX S.A.",
+    "ShortName": "BANCO TRAVELEX S.A.",
     "Network": "RSFN",
     "Type": "Banco de Câmbio",
     "PixType": "DRCT",
@@ -1270,7 +1270,7 @@
     "DateOperationStarted": "2010-06-22",
     "DatePixStarted": "2023-01-30 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114742-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.2246781+00:00"
+    "DateUpdated": "2024-12-20T12:07:51.9201305+00:00"
   },
   {
     "COMPE": "096",
@@ -1619,7 +1619,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://cecoop.com.br/central/",
+    "Url": null,
     "DateOperationStarted": "2011-10-27",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114598-03:00",
@@ -1870,8 +1870,8 @@
     "COMPE": "129",
     "ISPB": "18520834",
     "Document": "18.520.834/0001-93",
-    "LongName": "UBS Brasil Banco de Investimento S.A.",
-    "ShortName": "UBS BRASIL BI S.A.",
+    "LongName": "UBS BB BANCO DE INVESTIMENTO S.A.",
+    "ShortName": "UBS BB BI S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -1887,7 +1887,7 @@
     "DateOperationStarted": "2014-03-12",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114915-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114917-03:00"
+    "DateUpdated": "2024-11-20T12:08:11.7856061+00:00"
   },
   {
     "COMPE": "130",
@@ -2017,8 +2017,8 @@
     "COMPE": "136",
     "ISPB": "00315557",
     "Document": "00.315.557/0001-11",
-    "LongName": "CONFEDERAÇÃO NACIONAL DAS COOPERATIVAS CENTRAIS UNICRED LTDA. - UNICRED DO BRASIL.",
-    "ShortName": "CONF NAC COOP CENTRAIS UNICRED",
+    "LongName": "COOPERATIVA CENTRAL DE CRÉDITO UNICRED DO BRASIL - UNICRED DO BRASIL",
+    "ShortName": "UNICRED DO BRASIL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -2043,7 +2043,7 @@
     "DateOperationStarted": "2014-07-28",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7112437-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.74141+00:00"
+    "DateUpdated": "2024-11-20T12:08:11.7778138+00:00"
   },
   {
     "COMPE": "138",
@@ -3273,7 +3273,7 @@
     "ShortName": "IB CCTVM S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -3284,9 +3284,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2018-02-26",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-11-18 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114984-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114985-03:00"
+    "DateUpdated": "2024-11-20T12:08:12.9923927+00:00"
   },
   {
     "COMPE": "272",
@@ -3315,8 +3315,8 @@
     "COMPE": "273",
     "ISPB": "08253539",
     "Document": "08.253.539/0001-64",
-    "LongName": "Cooperativa de Crédito Rural de São Miguel do Oeste - Sulcredi/São Miguel",
-    "ShortName": "CCR DE SÃO MIGUEL DO OESTE",
+    "LongName": "COOPERATIVA DE CREDITO SULCREDI AMPLEA",
+    "ShortName": "COOP SULCREDI AMPLEA",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3332,7 +3332,7 @@
     "DateOperationStarted": "2018-04-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114649-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114651-03:00"
+    "DateUpdated": "2024-11-20T12:08:11.7822814+00:00"
   },
   {
     "COMPE": "274",
@@ -4059,12 +4059,17 @@
     "PCR": true,
     "PCRP": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Consignado",
+      "Imobiliário",
+      "Pessoal",
+      "Veículos"
+    ],
     "Url": "https://www.br.ccb.com",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114616-03:00",
-    "DateUpdated": "2024-10-10T12:08:00.7521769+00:00"
+    "DateUpdated": "2024-11-20T12:08:13.2876978+00:00"
   },
   {
     "COMPE": "321",
@@ -4403,7 +4408,7 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": "Destinatário",
+    "SalaryPortability": "Banco Folha e Destinatário",
     "Products": [
       "Capital de Giro",
       "Cheque Especial",
@@ -4417,7 +4422,7 @@
     "DateOperationStarted": "2019-01-31",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115026-03:00",
-    "DateUpdated": "2024-08-09T12:07:01.1518628+00:00"
+    "DateUpdated": "2024-11-20T12:08:13.9098123+00:00"
   },
   {
     "COMPE": "340",
@@ -5099,7 +5104,7 @@
     "ShortName": "CECM COOPERFORTE",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5117,9 +5122,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2020-09-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-11-25 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114443-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.8456698+00:00"
+    "DateUpdated": "2024-11-20T12:08:12.5504802+00:00"
   },
   {
     "COMPE": "380",
@@ -5457,7 +5462,7 @@
     "ShortName": "F D GOLD DTVM LTDA",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5468,9 +5473,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-12-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-06 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114664-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114666-03:00"
+    "DateUpdated": "2025-01-04T12:07:03.055914+00:00"
   },
   {
     "COMPE": "396",
@@ -5765,15 +5770,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-17",
     "DatePixStarted": "2024-01-10 11:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114594-03:00",
-    "DateUpdated": "2024-01-09T12:06:14.1626613+00:00"
+    "DateUpdated": "2024-11-29T12:36:54.3496718+00:00"
   },
   {
     "COMPE": "411",
@@ -6438,7 +6443,7 @@
     "ShortName": "HEMERA DTVM LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6449,9 +6454,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-08-17",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-11-11 09:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926622-03:00",
-    "DateUpdated": "2021-08-24T13:06:55.8926625-03:00"
+    "DateUpdated": "2024-11-20T12:08:13.0684787+00:00"
   },
   {
     "COMPE": "449",
@@ -6480,7 +6485,7 @@
     "COMPE": "450",
     "ISPB": "13203354",
     "Document": "13.203.354/0001-85",
-    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTOS ELETRÔNICOS S.A.",
+    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.",
     "ShortName": "FITBANK IP",
     "Network": "RSFN",
     "Type": null,
@@ -6497,7 +6502,7 @@
     "DateOperationStarted": "2021-06-30",
     "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7454123+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9507206+00:00"
   },
   {
     "COMPE": "451",
@@ -7099,7 +7104,7 @@
     "ShortName": "SBCASH SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7110,9 +7115,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-10-11",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-12-11 11:00:00",
     "DateRegistered": "2022-10-04T12:08:42.7066127+00:00",
-    "DateUpdated": "2024-09-17T12:07:21.6345906+00:00"
+    "DateUpdated": "2024-12-05T12:08:35.7132602+00:00"
   },
   {
     "COMPE": "484",
@@ -7615,7 +7620,7 @@
     "ShortName": "HR DIGITAL SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -7626,9 +7631,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-02-15",
-    "DatePixStarted": "2024-06-10 06:02:13",
+    "DatePixStarted": "2024-12-05 11:10:00",
     "DateRegistered": "2023-03-03T14:56:55.3112611+00:00",
-    "DateUpdated": "2024-06-11T12:07:05.2936207+00:00"
+    "DateUpdated": "2024-12-06T12:08:40.3608998+00:00"
   },
   {
     "COMPE": "524",
@@ -7776,7 +7781,7 @@
     "ShortName": "SER FINANCE SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": false,
     "LegalCheque": false,
@@ -7792,9 +7797,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2023-03-14",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-11-13 09:00:00",
     "DateRegistered": "2023-03-09T12:07:29.7846292+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7504877+00:00"
+    "DateUpdated": "2024-11-20T12:08:13.1020585+00:00"
   },
   {
     "COMPE": "531",
@@ -7804,7 +7809,7 @@
     "ShortName": "BMP SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7821,9 +7826,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2023-05-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-08 08:00:00",
     "DateRegistered": "2023-09-25T12:28:25.1347544+00:00",
-    "DateUpdated": "2024-05-21T12:06:40.2011379+00:00"
+    "DateUpdated": "2024-12-28T12:07:09.7162254+00:00"
   },
   {
     "COMPE": "532",
@@ -8019,7 +8024,7 @@
     "ShortName": "HBI SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8030,9 +8035,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-01-08",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-10 11:30:00",
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2024-06-29T12:28:25.1292546+00:00"
+    "DateUpdated": "2025-01-04T12:07:02.9553062+00:00"
   },
   {
     "COMPE": "541",
@@ -8452,8 +8457,8 @@
     "COMPE": "559",
     "ISPB": "49288113",
     "Document": "49.288.113/0001-23",
-    "LongName": "KANASTRA SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "KANASTRA SCD",
+    "LongName": "KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "KANASTRA CFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8469,7 +8474,7 @@
     "DateOperationStarted": "2023-09-25",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7468657+00:00"
+    "DateUpdated": "2024-12-19T12:08:15.9574874+00:00"
   },
   {
     "COMPE": "560",
@@ -8644,7 +8649,7 @@
     "ShortName": "BRCONDOS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8655,9 +8660,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-12-08",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-11-13 11:00:00",
     "DateRegistered": "2023-12-04T12:06:24.367144+00:00",
-    "DateUpdated": "2023-12-04T12:06:24.3671662+00:00"
+    "DateUpdated": "2024-11-20T12:08:13.1045667+00:00"
   },
   {
     "COMPE": "569",
@@ -8690,7 +8695,7 @@
     "ShortName": "ALL IN CRED SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8701,9 +8706,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-12-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-12-10 11:00:00",
     "DateRegistered": "2023-12-18T12:06:50.1170089+00:00",
-    "DateUpdated": "2023-12-18T12:06:50.1170312+00:00"
+    "DateUpdated": "2024-12-05T12:08:35.7332513+00:00"
   },
   {
     "COMPE": "575",
@@ -9035,7 +9040,7 @@
     "ShortName": "G5 SCD SA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9046,9 +9051,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-12-09 09:00:00",
     "DateRegistered": "2024-06-12T12:06:51.7759654+00:00",
-    "DateUpdated": "2024-06-12T12:06:51.7759938+00:00"
+    "DateUpdated": "2024-11-28T12:37:25.5346752+00:00"
   },
   {
     "COMPE": "590",
@@ -9127,7 +9132,7 @@
     "ShortName": "TRANSFEERA IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9138,9 +9143,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-05-15",
-    "DatePixStarted": "2021-05-04 10:27:26",
+    "DatePixStarted": "2024-11-04 09:10:00",
     "DateRegistered": "2024-05-09T12:06:38.0035796+00:00",
-    "DateUpdated": "2024-05-09T12:06:37.6901159+00:00"
+    "DateUpdated": "2024-11-20T12:08:12.9891048+00:00"
   },
   {
     "COMPE": "594",
@@ -9396,7 +9401,7 @@
     "ShortName": "NITRO SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9407,9 +9412,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-14",
-    "DatePixStarted": null,
+    "DatePixStarted": "2024-11-05 09:00:00",
     "DateRegistered": "2024-06-10T12:07:20.428794+00:00",
-    "DateUpdated": "2024-06-10T12:07:20.4288223+00:00"
+    "DateUpdated": "2024-11-20T12:08:13.1074196+00:00"
   },
   {
     "COMPE": "615",
@@ -9495,7 +9500,7 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": "Destinatário",
+    "SalaryPortability": "Banco Folha e Destinatário",
     "Products": [
       "Cheque Especial",
       "Consignado",
@@ -9508,7 +9513,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711524-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7333032+00:00"
+    "DateUpdated": "2024-11-20T12:08:13.9104425+00:00"
   },
   {
     "COMPE": "626",
@@ -9626,12 +9631,15 @@
     "PCR": true,
     "PCRP": true,
     "SalaryPortability": "Banco folha",
-    "Products": null,
+    "Products": [
+      "Cheque Especial",
+      "Troca de Modalidade"
+    ],
     "Url": "https://www.tribanco.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114888-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7366747+00:00"
+    "DateUpdated": "2024-12-10T12:09:00.3599462+00:00"
   },
   {
     "COMPE": "636",
@@ -9899,7 +9907,7 @@
     "ShortName": "ONEKEY PAYMENTS IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9910,9 +9918,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-09-30",
-    "DatePixStarted": "2022-09-12 11:04:30",
+    "DatePixStarted": "2024-12-20 10:10:00",
     "DateRegistered": "2024-09-24T12:07:36.7070372+00:00",
-    "DateUpdated": "2024-09-24T12:07:35.7979065+00:00"
+    "DateUpdated": "2024-12-21T12:07:25.473962+00:00"
   },
   {
     "COMPE": "660",
@@ -9961,6 +9969,52 @@
     "DateUpdated": "2024-09-05T12:33:05.3564037+00:00"
   },
   {
+    "COMPE": "662",
+    "ISPB": "32708748",
+    "Document": "32.708.748/0001-30",
+    "LongName": "WE PAY OUT INSTITUICAO DE PAGAMENTO LTDA.",
+    "ShortName": "WE PAY OUT IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-11-25",
+    "DatePixStarted": "2024-12-09 11:10:00",
+    "DateRegistered": "2024-11-20T12:08:13.9188247+00:00",
+    "DateUpdated": "2024-12-10T12:09:00.074393+00:00"
+  },
+  {
+    "COMPE": "663",
+    "ISPB": "44782130",
+    "Document": "44.782.130/0001-07",
+    "LongName": "ACTUAL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "ACTUAL DTVM S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-12-16",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-12-10T12:09:00.9597936+00:00",
+    "DateUpdated": "2024-12-10T12:09:00.9598224+00:00"
+  },
+  {
     "COMPE": "664",
     "ISPB": "11414839",
     "Document": "11.414.839/0001-92",
@@ -9982,6 +10036,98 @@
     "DatePixStarted": null,
     "DateRegistered": "2024-09-24T12:07:36.7070087+00:00",
     "DateUpdated": "2024-09-24T12:07:36.7070368+00:00"
+  },
+  {
+    "COMPE": "665",
+    "ISPB": "20018183",
+    "Document": "20.018.183/0001-80",
+    "LongName": "STARK BANK S.A. - INSTITUICAO DE PAGAMENTO",
+    "ShortName": "STARK BANK S.A. - IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-11-25",
+    "DatePixStarted": "2021-12-21 02:14:54",
+    "DateRegistered": "2024-11-20T12:08:13.9187948+00:00",
+    "DateUpdated": "2024-11-20T12:08:12.9272681+00:00"
+  },
+  {
+    "COMPE": "666",
+    "ISPB": "53842122",
+    "Document": "53.842.122/0001-91",
+    "LongName": "URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "URBANO S.A. SCFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-12-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2024-12-17T12:08:44.2545545+00:00",
+    "DateUpdated": "2024-12-17T12:08:44.254587+00:00"
+  },
+  {
+    "COMPE": "671",
+    "ISPB": "26264220",
+    "Document": "26.264.220/0001-16",
+    "LongName": "ZERO INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "ZERO",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-11-11",
+    "DatePixStarted": "2023-11-17 12:11:31",
+    "DateRegistered": "2024-11-20T12:08:13.9188245+00:00",
+    "DateUpdated": "2024-11-20T12:08:12.9794672+00:00"
+  },
+  {
+    "COMPE": "674",
+    "ISPB": "27970567",
+    "Document": "27.970.567/0001-47",
+    "LongName": "HINOVA PAY INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "HINOVA PAY IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2024-12-12",
+    "DatePixStarted": "2024-10-15 00:05:41",
+    "DateRegistered": "2024-12-06T12:08:41.1206753+00:00",
+    "DateUpdated": "2024-12-06T12:08:40.2615333+00:00"
   },
   {
     "COMPE": "707",

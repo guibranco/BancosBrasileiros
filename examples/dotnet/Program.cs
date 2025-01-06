@@ -41,8 +41,27 @@ namespace ConsoleApp
         /// </remarks>
         private static string GetCompeFromUser()
         {
-            Console.Write("Buscar COMPE (3 dígitos): ");
-            return Console.ReadLine();
+            string compe;
+            do
+            {
+                Console.Write("Buscar COMPE (3 dígitos): ");
+                compe = Console.ReadLine();
+            } while (!IsValidCompe(compe));
+
+            return compe;
+        }
+
+        /// <summary>
+        /// Validates if the given <paramref name="compe"/> is a valid COMPE code.
+        /// </summary>
+        /// <param name="compe">A string representing the COMPE code to validate.</param>
+        /// <returns>
+        /// <see langword="true"/> if the <paramref name="compe"/> is exactly 3 characters long
+        /// and consists only of numeric digits; otherwise, <see langword="false"/>.
+        /// </returns>
+        private static bool IsValidCompe(string compe)
+        {
+            return compe.Length == 3 && compe.All(char.IsDigit);
         }
 
         /// <summary>

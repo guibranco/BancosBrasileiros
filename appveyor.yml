@@ -1,4 +1,4 @@
-version: 6.0.{build}
+version: 6.1.{build}
 skip_tags: true
 skip_branch_with_pr: true
 image: Visual Studio 2022
@@ -80,6 +80,9 @@ build_script:
 artifacts:
 - path: '**\*nupkg'
   name: Package
+  
+- path: 'data/bancos.json'
+  name: Data
 
 deploy:
 - provider: NuGet
