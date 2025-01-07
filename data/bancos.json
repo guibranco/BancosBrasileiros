@@ -6934,7 +6934,7 @@
     "ShortName": "CECM SERV PUBL PINHÃO",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6945,9 +6945,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-07-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-06 11:46:26",
     "DateRegistered": "2022-07-14T12:06:01.0960677+00:00",
-    "DateUpdated": "2023-09-25T12:28:23.0771302+00:00"
+    "DateUpdated": "2025-01-07T15:49:56.5389729+00:00"
   },
   {
     "COMPE": "473",

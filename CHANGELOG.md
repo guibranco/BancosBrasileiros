@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 471 - CECM SERV PUBL PINHÃO - 04.831.810/0001-40
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-06 11:46:26
+
 ### 2025-01-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
