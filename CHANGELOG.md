@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 569 - CONTA PRONTA IP - 12.473.687/0001-61
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-20 10:00:00
+
 ### 2025-01-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

@@ -7460,6 +7460,7 @@
     <LongName>CONTA PRONTA INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>CONTA PRONTA IP</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7468,8 +7469,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-31</DateOperationStarted>
+    <DatePixStarted>2025-01-20 10:00:00</DatePixStarted>
     <DateRegistered>2023-10-25T12:06:22.8368523Z</DateRegistered>
-    <DateUpdated>2023-10-25T12:06:22.8368905Z</DateUpdated>
+    <DateUpdated>2025-01-08T12:08:14.4195839Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>572</COMPE>
