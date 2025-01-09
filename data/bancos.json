@@ -9470,7 +9470,7 @@
     "ShortName": "REVOLUT SCD S.A.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9481,9 +9481,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-05-15",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-15 12:00:00",
     "DateRegistered": "2024-05-09T12:06:38.0036073+00:00",
-    "DateUpdated": "2024-05-09T12:06:38.0036074+00:00"
+    "DateUpdated": "2025-01-09T12:08:00.6363037+00:00"
   },
   {
     "COMPE": "623",

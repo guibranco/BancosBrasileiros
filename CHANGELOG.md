@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 620 - REVOLUT SCD S.A. - 51.342.763/0001-51
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-15 12:00:00
+
 ### 2025-01-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

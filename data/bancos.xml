@@ -8132,6 +8132,7 @@
     <LongName>REVOLUT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>REVOLUT SCD S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8140,8 +8141,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-05-15</DateOperationStarted>
+    <DatePixStarted>2025-01-15 12:00:00</DatePixStarted>
     <DateRegistered>2024-05-09T12:06:38.0036073Z</DateRegistered>
-    <DateUpdated>2024-05-09T12:06:38.0036074Z</DateUpdated>
+    <DateUpdated>2025-01-09T12:08:00.6363037Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>623</COMPE>
