@@ -1,0 +1,42 @@
+name: Generate Schemas and DTOs
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate-schemas:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install QuickType
+        run: npm install -g quicktype
+
+      - name: Generate Schemas and DTOs
+        run: |
+          quicktype -s json -o src/schemas.ts data/example.json
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+
+      - name: Commit and Push changes
+        run: |
+          git add src/schemas.ts
+          git commit -m 'Update generated schemas/DTO files'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
