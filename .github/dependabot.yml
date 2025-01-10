@@ -41,3 +41,18 @@ updates:
     - "nuget"
     - ".NET"
     - "dependencies"
+
+- package-ecosystem: "composer"
+  directory: "/"
+  schedule:
+    interval: weekly
+  open-pull-requests-limit: 50
+  assignees: 
+    - "guibranco"
+  reviewers: 
+    - "guibranco"
+  labels:
+    - "composer"
+    - "packagist"
+    - "PHP"
+    - "dependencies"

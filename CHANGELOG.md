@@ -4,6 +4,32 @@
 
 ## Changelog
 
+### 2025-01-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 620 - REVOLUT SCD S.A. - 51.342.763/0001-51
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-15 12:00:00
+
+### 2025-01-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 569 - CONTA PRONTA IP - 12.473.687/0001-61
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-20 10:00:00
+
+### 2025-01-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 471 - CECM SERV PUBL PINHÃO - 04.831.810/0001-40
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-06 11:46:26
+
+### 2025-01-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 676 - DUFRIO CFI S.A. - 35.479.592/0001-50
+
 ### 2025-01-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
