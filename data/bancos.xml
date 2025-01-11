@@ -4584,6 +4584,7 @@
     <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS TRABALHADORES PORTUARIOS DA GRANDE VITORIA - CREDESTIVA.</LongName>
     <ShortName>CECM DOS TRAB.PORT. DA G.VITOR</ShortName>
     <Network>Internet</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -4592,8 +4593,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-03-08</DateOperationStarted>
+    <DatePixStarted>2025-01-10 10:17:42</DatePixStarted>
     <DateRegistered>2022-03-16T07:58:41.1136389Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0760465Z</DateUpdated>
+    <DateUpdated>2025-01-11T12:07:13.6599954Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>386</COMPE>
@@ -8006,6 +8008,7 @@
     <ShortName>BCO PAULISTA S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
+    <PixType>DRCT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -8019,8 +8022,9 @@
     </Products>
     <Url>https://www.bancopaulista.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2025-02-10 00:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115321-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7335337Z</DateUpdated>
+    <DateUpdated>2025-01-11T12:07:14.2615199Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>612</COMPE>

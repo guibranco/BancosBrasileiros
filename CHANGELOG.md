@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-01-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 385 - CECM DOS TRAB.PORT. DA G.VITOR - 03.844.699/0001-64
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-10 10:17:42
+  - 611 - BCO PAULISTA S.A. - 61.820.817/0001-09
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-10 00:00:00
+
 ### 2025-01-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

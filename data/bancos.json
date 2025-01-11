@@ -5252,7 +5252,7 @@
     "ShortName": "CECM DOS TRAB.PORT. DA G.VITOR",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5263,9 +5263,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-03-08",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-10 10:17:42",
     "DateRegistered": "2022-03-16T07:58:41.1136389+00:00",
-    "DateUpdated": "2023-09-25T12:28:23.0760465+00:00"
+    "DateUpdated": "2025-01-11T12:07:13.6599954+00:00"
   },
   {
     "COMPE": "386",
@@ -9324,7 +9324,7 @@
     "ShortName": "BCO PAULISTA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -9339,9 +9339,9 @@
     ],
     "Url": "https://www.bancopaulista.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-10 00:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115321-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7335337+00:00"
+    "DateUpdated": "2025-01-11T12:07:14.2615199+00:00"
   },
   {
     "COMPE": "612",
