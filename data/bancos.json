@@ -5481,8 +5481,8 @@
     "COMPE": "396",
     "ISPB": "13884775",
     "Document": "13.884.775/0001-19",
-    "LongName": "HUB INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "HUB IP S.A.",
+    "LongName": "MAGALUPAY INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "MAGALUPAY",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5498,7 +5498,7 @@
     "DateOperationStarted": "2020-08-13",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114837-03:00",
-    "DateUpdated": "2022-09-27T12:08:38.417997+00:00"
+    "DateUpdated": "2025-01-14T12:07:43.1885374+00:00"
   },
   {
     "COMPE": "397",

@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 396 - MAGALUPAY - 13.884.775/0001-19
+    - **LongName** (STR): HUB INSTITUIÇÃO DE PAGAMENTO S.A. **->** MAGALUPAY INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): HUB IP S.A. **->** MAGALUPAY
+
 ### 2025-01-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

@@ -4789,8 +4789,8 @@
     <COMPE>396</COMPE>
     <ISPB>13884775</ISPB>
     <Document>13.884.775/0001-19</Document>
-    <LongName>HUB INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
-    <ShortName>HUB IP S.A.</ShortName>
+    <LongName>MAGALUPAY INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>MAGALUPAY</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4803,7 +4803,7 @@
     <DateOperationStarted>2020-08-13</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114837-03:00</DateRegistered>
-    <DateUpdated>2022-09-27T12:08:38.417997Z</DateUpdated>
+    <DateUpdated>2025-01-14T12:07:43.1885374Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>397</COMPE>
