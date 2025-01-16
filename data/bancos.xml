@@ -2863,8 +2863,8 @@
     <COMPE>271</COMPE>
     <ISPB>27842177</ISPB>
     <Document>27.842.177/0001-91</Document>
-    <LongName>IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.</LongName>
-    <ShortName>IB CCTVM S.A.</ShortName>
+    <LongName>BPY CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>BPY CCTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2877,7 +2877,7 @@
     <DateOperationStarted>2018-02-26</DateOperationStarted>
     <DatePixStarted>2024-11-18 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114984-03:00</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:12.9923927Z</DateUpdated>
+    <DateUpdated>2025-01-16T12:07:47.5198949Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>272</COMPE>

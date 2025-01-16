@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 271 - BPY CCTVM S.A. - 27.842.177/0001-91
+    - **LongName** (STR): IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A. **->** BPY CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): IB CCTVM S.A. **->** BPY CCTVM S.A.
+
 ### 2025-01-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

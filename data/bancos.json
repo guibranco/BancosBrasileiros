@@ -3269,8 +3269,8 @@
     "COMPE": "271",
     "ISPB": "27842177",
     "Document": "27.842.177/0001-91",
-    "LongName": "IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-    "ShortName": "IB CCTVM S.A.",
+    "LongName": "BPY CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "BPY CCTVM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3286,7 +3286,7 @@
     "DateOperationStarted": "2018-02-26",
     "DatePixStarted": "2024-11-18 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114984-03:00",
-    "DateUpdated": "2024-11-20T12:08:12.9923927+00:00"
+    "DateUpdated": "2025-01-16T12:07:47.5198949+00:00"
   },
   {
     "COMPE": "272",
