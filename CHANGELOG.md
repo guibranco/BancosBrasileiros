@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 143 - INTEX BANK BCO DE CÂMBIO S.A. - 02.992.317/0001-87
+    - **LongName** (STR): Treviso Corretora de Câmbio S.A. **->** INTEX BANK BANCO DE CÂMBIO S.A.
+    - **ShortName** (STR): TREVISO CC S.A. **->** INTEX BANK BCO DE CÂMBIO S.A.
+
 ### 2025-01-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

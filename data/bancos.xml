@@ -1912,8 +1912,8 @@
     <COMPE>143</COMPE>
     <ISPB>02992317</ISPB>
     <Document>02.992.317/0001-87</Document>
-    <LongName>Treviso Corretora de Câmbio S.A.</LongName>
-    <ShortName>TREVISO CC S.A.</ShortName>
+    <LongName>INTEX BANK BANCO DE CÂMBIO S.A.</LongName>
+    <ShortName>INTEX BANK BCO DE CÂMBIO S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1924,7 +1924,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-08-24</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114487-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114489-03:00</DateUpdated>
+    <DateUpdated>2025-01-17T12:07:45.6433398Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>144</COMPE>

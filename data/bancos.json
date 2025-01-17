@@ -2164,8 +2164,8 @@
     "COMPE": "143",
     "ISPB": "02992317",
     "Document": "02.992.317/0001-87",
-    "LongName": "Treviso Corretora de Câmbio S.A.",
-    "ShortName": "TREVISO CC S.A.",
+    "LongName": "INTEX BANK BANCO DE CÂMBIO S.A.",
+    "ShortName": "INTEX BANK BCO DE CÂMBIO S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2181,7 +2181,7 @@
     "DateOperationStarted": "2015-08-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114487-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114489-03:00"
+    "DateUpdated": "2025-01-17T12:07:45.6433398+00:00"
   },
   {
     "COMPE": "144",
