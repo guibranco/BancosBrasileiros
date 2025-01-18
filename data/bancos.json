@@ -1197,7 +1197,7 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://brk.com.br/",
+    "Url": null,
     "DateOperationStarted": "2010-07-01",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114795-03:00",
@@ -2164,8 +2164,8 @@
     "COMPE": "143",
     "ISPB": "02992317",
     "Document": "02.992.317/0001-87",
-    "LongName": "Treviso Corretora de Câmbio S.A.",
-    "ShortName": "TREVISO CC S.A.",
+    "LongName": "INTEX BANK BANCO DE CÂMBIO S.A.",
+    "ShortName": "INTEX BANK BCO DE CÂMBIO S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2181,7 +2181,7 @@
     "DateOperationStarted": "2015-08-24",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114487-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114489-03:00"
+    "DateUpdated": "2025-01-17T12:07:45.6433398+00:00"
   },
   {
     "COMPE": "144",
@@ -3269,8 +3269,8 @@
     "COMPE": "271",
     "ISPB": "27842177",
     "Document": "27.842.177/0001-91",
-    "LongName": "IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.",
-    "ShortName": "IB CCTVM S.A.",
+    "LongName": "BPY CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "BPY CCTVM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -3286,7 +3286,7 @@
     "DateOperationStarted": "2018-02-26",
     "DatePixStarted": "2024-11-18 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114984-03:00",
-    "DateUpdated": "2024-11-20T12:08:12.9923927+00:00"
+    "DateUpdated": "2025-01-16T12:07:47.5198949+00:00"
   },
   {
     "COMPE": "272",
@@ -5252,7 +5252,7 @@
     "ShortName": "CECM DOS TRAB.PORT. DA G.VITOR",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5263,9 +5263,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-03-08",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-10 10:17:42",
     "DateRegistered": "2022-03-16T07:58:41.1136389+00:00",
-    "DateUpdated": "2023-09-25T12:28:23.0760465+00:00"
+    "DateUpdated": "2025-01-11T12:07:13.6599954+00:00"
   },
   {
     "COMPE": "386",
@@ -5481,8 +5481,8 @@
     "COMPE": "396",
     "ISPB": "13884775",
     "Document": "13.884.775/0001-19",
-    "LongName": "HUB INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "HUB IP S.A.",
+    "LongName": "MAGALUPAY INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "MAGALUPAY",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5498,7 +5498,7 @@
     "DateOperationStarted": "2020-08-13",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114837-03:00",
-    "DateUpdated": "2022-09-27T12:08:38.417997+00:00"
+    "DateUpdated": "2025-01-14T12:07:43.1885374+00:00"
   },
   {
     "COMPE": "397",
@@ -9324,7 +9324,7 @@
     "ShortName": "BCO PAULISTA S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -9339,9 +9339,9 @@
     ],
     "Url": "https://www.bancopaulista.com.br",
     "DateOperationStarted": "2002-04-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-10 00:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115321-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7335337+00:00"
+    "DateUpdated": "2025-01-11T12:07:14.2615199+00:00"
   },
   {
     "COMPE": "612",

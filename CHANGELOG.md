@@ -4,6 +4,37 @@
 
 ## Changelog
 
+### 2025-01-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 143 - INTEX BANK BCO DE CÂMBIO S.A. - 02.992.317/0001-87
+    - **LongName** (STR): Treviso Corretora de Câmbio S.A. **->** INTEX BANK BANCO DE CÂMBIO S.A.
+    - **ShortName** (STR): TREVISO CC S.A. **->** INTEX BANK BCO DE CÂMBIO S.A.
+
+### 2025-01-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 271 - BPY CCTVM S.A. - 27.842.177/0001-91
+    - **LongName** (STR): IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A. **->** BPY CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): IB CCTVM S.A. **->** BPY CCTVM S.A.
+
+### 2025-01-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 396 - MAGALUPAY - 13.884.775/0001-19
+    - **LongName** (STR): HUB INSTITUIÇÃO DE PAGAMENTO S.A. **->** MAGALUPAY INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): HUB IP S.A. **->** MAGALUPAY
+
+### 2025-01-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 385 - CECM DOS TRAB.PORT. DA G.VITOR - 03.844.699/0001-64
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-10 10:17:42
+  - 611 - BCO PAULISTA S.A. - 61.820.817/0001-09
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-10 00:00:00
+
 ### 2025-01-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
