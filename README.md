@@ -1,15 +1,3 @@
- ## Installation
-
- Add this to your `Cargo.toml`:
-
- ```toml
- [dependencies]
- bancos_brasileiros = "0.1.0"
- ```
-
- [![Crates.io](https://img.shields.io/crates/v/bancos_brasileiros.svg)](https://crates.io/crates/bancos_brasileiros)
-
-
 # Bancos Brasileiros
 
 🇧🇷 🏦 📋 Brazilian commercial banks list
@@ -111,6 +99,19 @@ Implementation examples are available in the folder [examples](/examples). We cu
 If you miss an example in the language, library, or framework, open an issue requesting an example project on the desired technology!
 
 ---
+
+## Crates/Cargo - Rust Package Manager
+
+[![Crates.io](https://img.shields.io/crates/v/bancos_brasileiros.svg)](https://crates.io/crates/bancos_brasileiros)
+
+This repository is available at [Crates](https://crates.io) under the name [BancosBrasileiros](https://crates.io/crates/bancos_brasileiros).
+
+Add this to your `Cargo.toml`:
+
+```toml
+[dependencies]
+bancos_brasileiros = "0.1.0"
+```
 
 ## NPM - Node Package Manager
 
