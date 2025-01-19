@@ -100,6 +100,19 @@ If you miss an example in the language, library, or framework, open an issue req
 
 ---
 
+## Crates/Cargo - Rust Package Manager
+
+[![Crates.io](https://img.shields.io/crates/v/bancos_brasileiros.svg)](https://crates.io/crates/bancos_brasileiros)
+
+This repository is available at [Crates](https://crates.io) under the name [BancosBrasileiros](https://crates.io/crates/bancos_brasileiros).
+
+Add this to your `Cargo.toml`:
+
+```toml
+[dependencies]
+bancos_brasileiros = "0.1.0"
+```
+
 ## NPM - Node Package Manager
 
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
