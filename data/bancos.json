@@ -6106,8 +6106,8 @@
     "COMPE": "427",
     "ISPB": "27302181",
     "Document": "27.302.181/0001-67",
-    "LongName": "COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
-    "ShortName": "CRED-UFES",
+    "LongName": "COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "ShortName": "CRED.UFES",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -6126,7 +6126,7 @@
     "DateOperationStarted": "2021-04-26",
     "DatePixStarted": "2022-11-22 13:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114971-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.5164511+00:00"
+    "DateUpdated": "2025-01-20T12:08:03.3961436+00:00"
   },
   {
     "COMPE": "428",

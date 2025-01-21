@@ -347,6 +347,13 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/gitauto-ai[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/844909?v=4" width="100;" alt="gitauto-ai[bot]"/>
+                    <br />
+                    <sub><b>gitauto-ai[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/penify-dev[bot]">
                     <img src="https://avatars.githubusercontent.com/in/399279?v=4" width="100;" alt="penify-dev[bot]"/>
                     <br />
@@ -360,6 +367,8 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>stack-file[bot]</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/codefactor-io[bot]">
                     <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
@@ -367,8 +376,6 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <sub><b>codefactor-io[bot]</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/deepsource-autofix[bot]">
                     <img src="https://avatars.githubusercontent.com/in/57168?v=4" width="100;" alt="deepsource-autofix[bot]"/>
@@ -381,13 +388,6 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
                     <img src="https://avatars.githubusercontent.com/in/16372?v=4" width="100;" alt="deepsource-io[bot]"/>
                     <br />
                     <sub><b>deepsource-io[bot]</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/gitauto-ai[bot]">
-                    <img src="https://avatars.githubusercontent.com/in/844909?v=4" width="100;" alt="gitauto-ai[bot]"/>
-                    <br />
-                    <sub><b>gitauto-ai[bot]</b></sub>
                 </a>
             </td>
 		</tr>

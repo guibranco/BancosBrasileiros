@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 427 - CRED.UFES - 27.302.181/0001-67
+    - **LongName** (STR): COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO **->** COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+    - **ShortName** (STR): CRED-UFES **->** CRED.UFES
+
 ### 2025-01-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
