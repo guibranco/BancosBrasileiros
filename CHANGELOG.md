@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-01-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 595 - ZOOP MEIOS DE PAGAMENTO - 19.468.242/0001-32
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-01-20 09:10:00
+  - 619 - TRIO IP LTDA. - 49.931.906/0001-19
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-27 09:00:00
+
 ### 2025-01-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

@@ -7876,7 +7876,7 @@
     <LongName>ZOOP TECNOLOGIA &amp; INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>ZOOP MEIOS DE PAGAMENTO</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7885,9 +7885,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-21</DateOperationStarted>
-    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DatePixStarted>2025-01-20 09:10:00</DatePixStarted>
     <DateRegistered>2024-03-15T12:06:05.5274606Z</DateRegistered>
-    <DateUpdated>2024-03-15T12:06:05.1580392Z</DateUpdated>
+    <DateUpdated>2025-01-21T12:08:02.1582577Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>597</COMPE>
@@ -8118,6 +8118,7 @@
     <LongName>TRIO INSTITUICAO DE PAGAMENTO LTDA.</LongName>
     <ShortName>TRIO IP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8126,8 +8127,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-08-01</DateOperationStarted>
+    <DatePixStarted>2025-01-27 09:00:00</DatePixStarted>
     <DateRegistered>2024-07-26T12:29:30.1748074Z</DateRegistered>
-    <DateUpdated>2024-07-26T12:29:30.1748268Z</DateUpdated>
+    <DateUpdated>2025-01-21T12:08:02.357429Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>620</COMPE>
