@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2025-01-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 427 - CRED.UFES - 27.302.181/0001-67
+    - **LongName** (STR): COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO **->** COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+  - 560 - MAG IP LTDA. - 21.995.256/0001-56
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2021-02-23 19:27:38 **->** 2025-01-21 09:10:00
+
 ### 2025-01-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

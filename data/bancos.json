@@ -6106,7 +6106,7 @@
     "COMPE": "427",
     "ISPB": "27302181",
     "Document": "27.302.181/0001-67",
-    "LongName": "COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "LongName": "COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
     "ShortName": "CRED.UFES",
     "Network": "RSFN",
     "Type": null,
@@ -6126,7 +6126,7 @@
     "DateOperationStarted": "2021-04-26",
     "DatePixStarted": "2022-11-22 13:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114971-03:00",
-    "DateUpdated": "2025-01-20T12:08:03.3961436+00:00"
+    "DateUpdated": "2025-01-22T12:07:55.2546872+00:00"
   },
   {
     "COMPE": "428",
@@ -8484,7 +8484,7 @@
     "ShortName": "MAG IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8495,9 +8495,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-10-17",
-    "DatePixStarted": "2021-02-23 19:27:38",
+    "DatePixStarted": "2025-01-21 09:10:00",
     "DateRegistered": "2023-10-10T12:06:37.2093743+00:00",
-    "DateUpdated": "2023-10-10T12:06:35.7131141+00:00"
+    "DateUpdated": "2025-01-22T12:07:56.1675514+00:00"
   },
   {
     "COMPE": "561",
