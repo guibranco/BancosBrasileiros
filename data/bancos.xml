@@ -5618,13 +5618,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-17</DateOperationStarted>
     <DatePixStarted>2024-11-11 09:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926622-03:00</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:13.0684787Z</DateUpdated>
+    <DateUpdated>2025-01-24T12:07:58.3160983Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>449</COMPE>
@@ -7502,6 +7502,7 @@
     <LongName>DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.</LongName>
     <ShortName>DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7510,8 +7511,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-13</DateOperationStarted>
+    <DatePixStarted>2025-03-06 14:00:00</DatePixStarted>
     <DateRegistered>2024-06-07T12:08:28.2767917Z</DateRegistered>
-    <DateUpdated>2024-06-07T12:08:28.2768294Z</DateUpdated>
+    <DateUpdated>2025-01-24T12:07:57.5396673Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>576</COMPE>

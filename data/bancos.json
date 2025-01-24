@@ -6448,15 +6448,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-08-17",
     "DatePixStarted": "2024-11-11 09:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926622-03:00",
-    "DateUpdated": "2024-11-20T12:08:13.0684787+00:00"
+    "DateUpdated": "2025-01-24T12:07:58.3160983+00:00"
   },
   {
     "COMPE": "449",
@@ -8718,7 +8718,7 @@
     "ShortName": "DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8729,9 +8729,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-13",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-03-06 14:00:00",
     "DateRegistered": "2024-06-07T12:08:28.2767917+00:00",
-    "DateUpdated": "2024-06-07T12:08:28.2768294+00:00"
+    "DateUpdated": "2025-01-24T12:07:57.5396673+00:00"
   },
   {
     "COMPE": "576",

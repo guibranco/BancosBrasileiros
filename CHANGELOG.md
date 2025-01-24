@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-01-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 448 - HEMERA DTVM LTDA. - 39.669.186/0001-01
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 575 - DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO. - 48.584.954/0001-15
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-03-06 14:00:00
+
 ### 2025-01-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
