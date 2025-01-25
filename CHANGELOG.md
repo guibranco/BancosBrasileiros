@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 615 - SMART SOLUTIONS GROUP IP LTDA - 37.470.405/0001-01
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-24 10:00:32
+
 ### 2025-01-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
