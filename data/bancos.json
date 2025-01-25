@@ -6106,7 +6106,7 @@
     "COMPE": "427",
     "ISPB": "27302181",
     "Document": "27.302.181/0001-67",
-    "LongName": "COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "LongName": "COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
     "ShortName": "CRED.UFES",
     "Network": "RSFN",
     "Type": null,
@@ -6126,7 +6126,7 @@
     "DateOperationStarted": "2021-04-26",
     "DatePixStarted": "2022-11-22 13:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114971-03:00",
-    "DateUpdated": "2025-01-20T12:08:03.3961436+00:00"
+    "DateUpdated": "2025-01-22T12:07:55.2546872+00:00"
   },
   {
     "COMPE": "428",
@@ -6448,15 +6448,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-08-17",
     "DatePixStarted": "2024-11-11 09:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926622-03:00",
-    "DateUpdated": "2024-11-20T12:08:13.0684787+00:00"
+    "DateUpdated": "2025-01-24T12:07:58.3160983+00:00"
   },
   {
     "COMPE": "449",
@@ -8484,7 +8484,7 @@
     "ShortName": "MAG IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8495,9 +8495,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-10-17",
-    "DatePixStarted": "2021-02-23 19:27:38",
+    "DatePixStarted": "2025-01-21 09:10:00",
     "DateRegistered": "2023-10-10T12:06:37.2093743+00:00",
-    "DateUpdated": "2023-10-10T12:06:35.7131141+00:00"
+    "DateUpdated": "2025-01-22T12:07:56.1675514+00:00"
   },
   {
     "COMPE": "561",
@@ -8718,7 +8718,7 @@
     "ShortName": "DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8729,9 +8729,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-13",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-03-06 14:00:00",
     "DateRegistered": "2024-06-07T12:08:28.2767917+00:00",
-    "DateUpdated": "2024-06-07T12:08:28.2768294+00:00"
+    "DateUpdated": "2025-01-24T12:07:57.5396673+00:00"
   },
   {
     "COMPE": "576",
@@ -9178,7 +9178,7 @@
     "ShortName": "ZOOP MEIOS DE PAGAMENTO",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9189,9 +9189,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-03-21",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2025-01-20 09:10:00",
     "DateRegistered": "2024-03-15T12:06:05.5274606+00:00",
-    "DateUpdated": "2024-03-15T12:06:05.1580392+00:00"
+    "DateUpdated": "2025-01-21T12:08:02.1582577+00:00"
   },
   {
     "COMPE": "597",
@@ -9424,7 +9424,7 @@
     "ShortName": "SMART SOLUTIONS GROUP IP LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9435,9 +9435,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-10-04",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-24 10:00:32",
     "DateRegistered": "2024-09-30T12:08:41.408497+00:00",
-    "DateUpdated": "2024-09-30T12:08:41.4085273+00:00"
+    "DateUpdated": "2025-01-25T12:30:07.2831477+00:00"
   },
   {
     "COMPE": "619",
@@ -9447,7 +9447,7 @@
     "ShortName": "TRIO IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9458,9 +9458,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-08-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-27 09:00:00",
     "DateRegistered": "2024-07-26T12:29:30.1748074+00:00",
-    "DateUpdated": "2024-07-26T12:29:30.1748268+00:00"
+    "DateUpdated": "2025-01-21T12:08:02.357429+00:00"
   },
   {
     "COMPE": "620",

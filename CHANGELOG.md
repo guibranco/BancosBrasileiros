@@ -4,6 +4,42 @@
 
 ## Changelog
 
+### 2025-01-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 615 - SMART SOLUTIONS GROUP IP LTDA - 37.470.405/0001-01
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-24 10:00:32
+
+### 2025-01-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 448 - HEMERA DTVM LTDA. - 39.669.186/0001-01
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 575 - DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO. - 48.584.954/0001-15
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-03-06 14:00:00
+
+### 2025-01-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 427 - CRED.UFES - 27.302.181/0001-67
+    - **LongName** (STR): COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO **->** COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+  - 560 - MAG IP LTDA. - 21.995.256/0001-56
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2021-02-23 19:27:38 **->** 2025-01-21 09:10:00
+
+### 2025-01-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 595 - ZOOP MEIOS DE PAGAMENTO - 19.468.242/0001-32
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-01-20 09:10:00
+  - 619 - TRIO IP LTDA. - 49.931.906/0001-19
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-27 09:00:00
+
 ### 2025-01-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

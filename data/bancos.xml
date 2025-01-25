@@ -5331,7 +5331,7 @@
     <COMPE>427</COMPE>
     <ISPB>27302181</ISPB>
     <Document>27.302.181/0001-67</Document>
-    <LongName>COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO</LongName>
+    <LongName>COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO</LongName>
     <ShortName>CRED.UFES</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
@@ -5349,7 +5349,7 @@
     <DateOperationStarted>2021-04-26</DateOperationStarted>
     <DatePixStarted>2022-11-22 13:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114971-03:00</DateRegistered>
-    <DateUpdated>2025-01-20T12:08:03.3961436Z</DateUpdated>
+    <DateUpdated>2025-01-22T12:07:55.2546872Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>428</COMPE>
@@ -5618,13 +5618,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-08-17</DateOperationStarted>
     <DatePixStarted>2024-11-11 09:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926622-03:00</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:13.0684787Z</DateUpdated>
+    <DateUpdated>2025-01-24T12:07:58.3160983Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>449</COMPE>
@@ -7305,7 +7305,7 @@
     <LongName>MAG INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>MAG IP LTDA.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7314,9 +7314,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-17</DateOperationStarted>
-    <DatePixStarted>2021-02-23 19:27:38</DatePixStarted>
+    <DatePixStarted>2025-01-21 09:10:00</DatePixStarted>
     <DateRegistered>2023-10-10T12:06:37.2093743Z</DateRegistered>
-    <DateUpdated>2023-10-10T12:06:35.7131141Z</DateUpdated>
+    <DateUpdated>2025-01-22T12:07:56.1675514Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>561</COMPE>
@@ -7502,6 +7502,7 @@
     <LongName>DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.</LongName>
     <ShortName>DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7510,8 +7511,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-13</DateOperationStarted>
+    <DatePixStarted>2025-03-06 14:00:00</DatePixStarted>
     <DateRegistered>2024-06-07T12:08:28.2767917Z</DateRegistered>
-    <DateUpdated>2024-06-07T12:08:28.2768294Z</DateUpdated>
+    <DateUpdated>2025-01-24T12:07:57.5396673Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>576</COMPE>
@@ -7876,7 +7878,7 @@
     <LongName>ZOOP TECNOLOGIA &amp; INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>ZOOP MEIOS DE PAGAMENTO</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7885,9 +7887,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-21</DateOperationStarted>
-    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DatePixStarted>2025-01-20 09:10:00</DatePixStarted>
     <DateRegistered>2024-03-15T12:06:05.5274606Z</DateRegistered>
-    <DateUpdated>2024-03-15T12:06:05.1580392Z</DateUpdated>
+    <DateUpdated>2025-01-21T12:08:02.1582577Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>597</COMPE>
@@ -8100,6 +8102,7 @@
     <LongName>SMART SOLUTIONS GROUP INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>SMART SOLUTIONS GROUP IP LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8108,8 +8111,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-10-04</DateOperationStarted>
+    <DatePixStarted>2025-01-24 10:00:32</DatePixStarted>
     <DateRegistered>2024-09-30T12:08:41.408497Z</DateRegistered>
-    <DateUpdated>2024-09-30T12:08:41.4085273Z</DateUpdated>
+    <DateUpdated>2025-01-25T12:30:07.2831477Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>619</COMPE>
@@ -8118,6 +8122,7 @@
     <LongName>TRIO INSTITUICAO DE PAGAMENTO LTDA.</LongName>
     <ShortName>TRIO IP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8126,8 +8131,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-08-01</DateOperationStarted>
+    <DatePixStarted>2025-01-27 09:00:00</DatePixStarted>
     <DateRegistered>2024-07-26T12:29:30.1748074Z</DateRegistered>
-    <DateUpdated>2024-07-26T12:29:30.1748268Z</DateUpdated>
+    <DateUpdated>2025-01-21T12:08:02.357429Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>620</COMPE>
