@@ -8102,6 +8102,7 @@
     <LongName>SMART SOLUTIONS GROUP INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>SMART SOLUTIONS GROUP IP LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8110,8 +8111,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-10-04</DateOperationStarted>
+    <DatePixStarted>2025-01-24 10:00:32</DatePixStarted>
     <DateRegistered>2024-09-30T12:08:41.408497Z</DateRegistered>
-    <DateUpdated>2024-09-30T12:08:41.4085273Z</DateUpdated>
+    <DateUpdated>2025-01-25T12:30:07.2831477Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>619</COMPE>

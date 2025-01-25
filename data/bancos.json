@@ -9424,7 +9424,7 @@
     "ShortName": "SMART SOLUTIONS GROUP IP LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9435,9 +9435,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-10-04",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-24 10:00:32",
     "DateRegistered": "2024-09-30T12:08:41.408497+00:00",
-    "DateUpdated": "2024-09-30T12:08:41.4085273+00:00"
+    "DateUpdated": "2025-01-25T12:30:07.2831477+00:00"
   },
   {
     "COMPE": "619",
