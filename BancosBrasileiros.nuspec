@@ -12,9 +12,9 @@
     <projectUrl>https://guibranco.github.io/BancosBrasileiros/</projectUrl>
     <repository type="git" url="https://github.com/guibranco/BancosBrasileiros/" />
     <license type="expression">Unlicense</license>
-    <description>A JSON list of brazilian commercial banks.</description>
+    <description>A JSON list of Brazilian commercial banks.</description>
     <copyright>© 2023 Guilherme Branco Stracini. All rights reserved.</copyright>
-    <tags>banks,brazilian,bank,commercial,list,json,xml,sql,csv,febraban,abbc,cip,bcb,bacen,bc,cnpj,isbp,markdown</tags>
+    <tags>banks,Brazilian,bank,commercial,list,json,febraban,abbc,cip,bcb,bacen,bc,cnpj,isbp</tags>
     <dependencies>
       <dependency id="Newtonsoft.Json" version="13.0.1" />
     </dependencies>
