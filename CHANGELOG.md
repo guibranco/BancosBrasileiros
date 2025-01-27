@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-01-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 562 - AZIMUT BRASIL DTVM LTDA - 18.684.408/0001-95
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-27 08:12:51
+
 ### 2025-01-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
