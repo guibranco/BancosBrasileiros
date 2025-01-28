@@ -8530,7 +8530,7 @@
     "ShortName": "AZIMUT BRASIL DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8541,9 +8541,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-01-08",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-27 08:12:51",
     "DateRegistered": "2024-01-09T12:06:15.1387174+00:00",
-    "DateUpdated": "2024-03-08T12:06:59.688307+00:00"
+    "DateUpdated": "2025-01-27T12:34:41.917063+00:00"
   },
   {
     "COMPE": "563",

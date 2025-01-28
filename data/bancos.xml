@@ -7345,6 +7345,7 @@
     <LongName>AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
     <ShortName>AZIMUT BRASIL DTVM LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7353,8 +7354,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-01-08</DateOperationStarted>
+    <DatePixStarted>2025-01-27 08:12:51</DatePixStarted>
     <DateRegistered>2024-01-09T12:06:15.1387174Z</DateRegistered>
-    <DateUpdated>2024-03-08T12:06:59.688307Z</DateUpdated>
+    <DateUpdated>2025-01-27T12:34:41.917063Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>563</COMPE>
