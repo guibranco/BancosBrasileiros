@@ -7251,6 +7251,7 @@
     <LongName>PAGPRIME INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>PAGPRIME IP</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7259,8 +7260,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-10-23</DateOperationStarted>
+    <DatePixStarted>2025-02-03 10:00:00</DatePixStarted>
     <DateRegistered>2023-10-17T12:06:27.6807413Z</DateRegistered>
-    <DateUpdated>2023-10-17T12:06:27.6807666Z</DateUpdated>
+    <DateUpdated>2025-01-28T12:33:57.5550097Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>558</COMPE>
@@ -8743,6 +8745,24 @@
     <DateOperationStarted>2025-01-10</DateOperationStarted>
     <DateRegistered>2025-01-06T12:08:18.8941877Z</DateRegistered>
     <DateUpdated>2025-01-06T12:08:18.8942076Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>682</COMPE>
+    <ISPB>46505612</ISPB>
+    <Document>46.505.612/0001-37</Document>
+    <LongName>MONERY INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>MONERY IP S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-02-03</DateOperationStarted>
+    <DateRegistered>2025-01-28T12:33:58.5362079Z</DateRegistered>
+    <DateUpdated>2025-01-28T12:33:58.5362384Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>

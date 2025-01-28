@@ -8415,7 +8415,7 @@
     "ShortName": "PAGPRIME IP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8426,9 +8426,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-10-23",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-03 10:00:00",
     "DateRegistered": "2023-10-17T12:06:27.6807413+00:00",
-    "DateUpdated": "2023-10-17T12:06:27.6807666+00:00"
+    "DateUpdated": "2025-01-28T12:33:57.5550097+00:00"
   },
   {
     "COMPE": "558",
@@ -10151,6 +10151,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-01-06T12:08:18.8941877+00:00",
     "DateUpdated": "2025-01-06T12:08:18.8942076+00:00"
+  },
+  {
+    "COMPE": "682",
+    "ISPB": "46505612",
+    "Document": "46.505.612/0001-37",
+    "LongName": "MONERY INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "MONERY IP S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-02-03",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-01-28T12:33:58.5362079+00:00",
+    "DateUpdated": "2025-01-28T12:33:58.5362384+00:00"
   },
   {
     "COMPE": "707",
