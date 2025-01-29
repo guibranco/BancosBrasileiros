@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2025-01-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 668 - VIA CAPITAL SCD S/A - 48.632.754/0001-90
+- Updated 1 bank
+  - 382 - FIDUCIA SCMEPP LTDA - 04.307.598/0001-17
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+
 ### 2025-01-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

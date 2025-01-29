@@ -5190,13 +5190,13 @@
     "DetectaFlow": false,
     "PCR": null,
     "PCRP": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-07-31",
     "DatePixStarted": "2021-12-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114541-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0763971+00:00"
+    "DateUpdated": "2025-01-29T12:33:42.9254981+00:00"
   },
   {
     "COMPE": "383",
@@ -10082,6 +10082,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2024-12-17T12:08:44.2545545+00:00",
     "DateUpdated": "2024-12-17T12:08:44.254587+00:00"
+  },
+  {
+    "COMPE": "668",
+    "ISPB": "48632754",
+    "Document": "48.632.754/0001-90",
+    "LongName": "VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "VIA CAPITAL SCD S/A",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-02-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-01-29T12:33:42.9304264+00:00",
+    "DateUpdated": "2025-01-29T12:33:42.9304449+00:00"
   },
   {
     "COMPE": "671",

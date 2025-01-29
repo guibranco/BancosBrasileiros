@@ -4531,11 +4531,12 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-31</DateOperationStarted>
     <DatePixStarted>2021-12-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114541-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0763971Z</DateUpdated>
+    <DateUpdated>2025-01-29T12:33:42.9254981Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>383</COMPE>
@@ -8687,6 +8688,24 @@
     <DateOperationStarted>2024-12-23</DateOperationStarted>
     <DateRegistered>2024-12-17T12:08:44.2545545Z</DateRegistered>
     <DateUpdated>2024-12-17T12:08:44.254587Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>668</COMPE>
+    <ISPB>48632754</ISPB>
+    <Document>48.632.754/0001-90</Document>
+    <LongName>VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>VIA CAPITAL SCD S/A</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-02-04</DateOperationStarted>
+    <DateRegistered>2025-01-29T12:33:42.9304264Z</DateRegistered>
+    <DateUpdated>2025-01-29T12:33:42.9304449Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>671</COMPE>
