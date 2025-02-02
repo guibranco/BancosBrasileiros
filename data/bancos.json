@@ -5190,13 +5190,13 @@
     "DetectaFlow": false,
     "PCR": null,
     "PCRP": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-07-31",
     "DatePixStarted": "2021-12-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114541-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0763971+00:00"
+    "DateUpdated": "2025-01-29T12:33:42.9254981+00:00"
   },
   {
     "COMPE": "383",
@@ -8415,7 +8415,7 @@
     "ShortName": "PAGPRIME IP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8426,9 +8426,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-10-23",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-03 10:00:00",
     "DateRegistered": "2023-10-17T12:06:27.6807413+00:00",
-    "DateUpdated": "2023-10-17T12:06:27.6807666+00:00"
+    "DateUpdated": "2025-01-28T12:33:57.5550097+00:00"
   },
   {
     "COMPE": "558",
@@ -10084,6 +10084,29 @@
     "DateUpdated": "2024-12-17T12:08:44.254587+00:00"
   },
   {
+    "COMPE": "668",
+    "ISPB": "48632754",
+    "Document": "48.632.754/0001-90",
+    "LongName": "VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "VIA CAPITAL SCD S/A",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-02-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-01-29T12:33:42.9304264+00:00",
+    "DateUpdated": "2025-01-29T12:33:42.9304449+00:00"
+  },
+  {
     "COMPE": "671",
     "ISPB": "26264220",
     "Document": "26.264.220/0001-16",
@@ -10151,6 +10174,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-01-06T12:08:18.8941877+00:00",
     "DateUpdated": "2025-01-06T12:08:18.8942076+00:00"
+  },
+  {
+    "COMPE": "682",
+    "ISPB": "46505612",
+    "Document": "46.505.612/0001-37",
+    "LongName": "MONERY INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "MONERY IP S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-02-03",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-01-28T12:33:58.5362079+00:00",
+    "DateUpdated": "2025-01-28T12:33:58.5362384+00:00"
   },
   {
     "COMPE": "707",

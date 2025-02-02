@@ -4,6 +4,23 @@
 
 ## Changelog
 
+### 2025-01-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 668 - VIA CAPITAL SCD S/A - 48.632.754/0001-90
+- Updated 1 bank
+  - 382 - FIDUCIA SCMEPP LTDA - 04.307.598/0001-17
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+
+### 2025-01-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 682 - MONERY IP S.A. - 46.505.612/0001-37
+- Updated 1 bank
+  - 557 - PAGPRIME IP - 30.944.783/0001-22
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-03 10:00:00
+
 ### 2025-01-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
