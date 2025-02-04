@@ -4112,17 +4112,19 @@
     <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
+      <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
-      <Product>Veiculos</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114578-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7533301Z</DateUpdated>
+    <DateUpdated>2025-02-04T12:08:19.0107655Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>360</COMPE>

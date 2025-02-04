@@ -4718,17 +4718,19 @@
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
+      "Cheque Especial",
       "Consignado",
+      "Imobiliário",
       "Outros Créditos",
       "Pessoal",
       "Troca de Modalidade",
-      "Veiculos"
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2020-06-10",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114578-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7533301+00:00"
+    "DateUpdated": "2025-02-04T12:08:19.0107655+00:00"
   },
   {
     "COMPE": "360",

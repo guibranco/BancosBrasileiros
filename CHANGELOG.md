@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-02-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 359 - ZEMA CFI S/A - 05.351.887/0001-86
+    - **Products** (CTC): Capital de Giro, Consignado, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+
 ### 2025-01-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
