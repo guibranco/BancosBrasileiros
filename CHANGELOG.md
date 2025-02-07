@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-02-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 140 - NU INVESTIMENTOS S.A. - CTVM - 62.169.875/0001-79
+    - **LongName** (STR): NU INVEST CORRETORA DE VALORES S.A. **->** NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS
+    - **ShortName** (STR): NU INVEST CORRETORA DE VALORES S.A. **->** NU INVESTIMENTOS S.A. - CTVM
+
 ### 2025-02-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

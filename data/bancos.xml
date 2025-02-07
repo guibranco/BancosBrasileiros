@@ -1858,8 +1858,8 @@
     <COMPE>140</COMPE>
     <ISPB>62169875</ISPB>
     <Document>62.169.875/0001-79</Document>
-    <LongName>NU INVEST CORRETORA DE VALORES S.A.</LongName>
-    <ShortName>NU INVEST CORRETORA DE VALORES S.A.</ShortName>
+    <LongName>NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS</LongName>
+    <ShortName>NU INVESTIMENTOS S.A. - CTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1870,7 +1870,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-05-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115335-03:00</DateRegistered>
-    <DateUpdated>2021-09-28T05:25:17.025616-03:00</DateUpdated>
+    <DateUpdated>2025-02-07T12:07:52.609885Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>141</COMPE>
