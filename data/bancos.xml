@@ -1858,8 +1858,8 @@
     <COMPE>140</COMPE>
     <ISPB>62169875</ISPB>
     <Document>62.169.875/0001-79</Document>
-    <LongName>NU INVEST CORRETORA DE VALORES S.A.</LongName>
-    <ShortName>NU INVEST CORRETORA DE VALORES S.A.</ShortName>
+    <LongName>NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS</LongName>
+    <ShortName>NU INVESTIMENTOS S.A. - CTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1870,7 +1870,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2015-05-26</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115335-03:00</DateRegistered>
-    <DateUpdated>2021-09-28T05:25:17.025616-03:00</DateUpdated>
+    <DateUpdated>2025-02-07T12:07:52.609885Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>141</COMPE>
@@ -4112,17 +4112,19 @@
     <PCRP>true</PCRP>
     <Products>
       <Product>Capital de Giro</Product>
+      <Product>Cheque Especial</Product>
       <Product>Consignado</Product>
+      <Product>Imobiliário</Product>
       <Product>Outros Créditos</Product>
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
-      <Product>Veiculos</Product>
+      <Product>Veículos</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-06-10</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114578-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7533301Z</DateUpdated>
+    <DateUpdated>2025-02-04T12:08:19.0107655Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>360</COMPE>
@@ -6023,8 +6025,8 @@
     <COMPE>471</COMPE>
     <ISPB>04831810</ISPB>
     <Document>04.831.810/0001-40</Document>
-    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO</LongName>
-    <ShortName>CECM SERV PUBL PINHÃO</ShortName>
+    <LongName>COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS</LongName>
+    <ShortName>COOP CRESERV CREDISIS</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6037,7 +6039,7 @@
     <DateOperationStarted>2022-07-18</DateOperationStarted>
     <DatePixStarted>2025-01-06 11:46:26</DatePixStarted>
     <DateRegistered>2022-07-14T12:06:01.0960677Z</DateRegistered>
-    <DateUpdated>2025-01-07T15:49:56.5389729Z</DateUpdated>
+    <DateUpdated>2025-02-10T12:08:15.2674125Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>473</COMPE>
@@ -7365,8 +7367,8 @@
     <COMPE>563</COMPE>
     <ISPB>40276692</ISPB>
     <Document>40.276.692/0001-10</Document>
-    <LongName>PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A</LongName>
-    <ShortName>PROTEGE PAY CASH IP S.A.</ShortName>
+    <LongName>PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PROTEGE CASH</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7377,7 +7379,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-18</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347548Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.1347549Z</DateUpdated>
+    <DateUpdated>2025-02-10T12:08:15.2722887Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>565</COMPE>

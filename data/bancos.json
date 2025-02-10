@@ -2095,8 +2095,8 @@
     "COMPE": "140",
     "ISPB": "62169875",
     "Document": "62.169.875/0001-79",
-    "LongName": "NU INVEST CORRETORA DE VALORES S.A.",
-    "ShortName": "NU INVEST CORRETORA DE VALORES S.A.",
+    "LongName": "NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "ShortName": "NU INVESTIMENTOS S.A. - CTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2112,7 +2112,7 @@
     "DateOperationStarted": "2015-05-26",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115335-03:00",
-    "DateUpdated": "2021-09-28T05:25:17.025616-03:00"
+    "DateUpdated": "2025-02-07T12:07:52.609885+00:00"
   },
   {
     "COMPE": "141",
@@ -4718,17 +4718,19 @@
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
+      "Cheque Especial",
       "Consignado",
+      "Imobiliário",
       "Outros Créditos",
       "Pessoal",
       "Troca de Modalidade",
-      "Veiculos"
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2020-06-10",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114578-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7533301+00:00"
+    "DateUpdated": "2025-02-04T12:08:19.0107655+00:00"
   },
   {
     "COMPE": "360",
@@ -6930,8 +6932,8 @@
     "COMPE": "471",
     "ISPB": "04831810",
     "Document": "04.831.810/0001-40",
-    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO",
-    "ShortName": "CECM SERV PUBL PINHÃO",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS",
+    "ShortName": "COOP CRESERV CREDISIS",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -6947,7 +6949,7 @@
     "DateOperationStarted": "2022-07-18",
     "DatePixStarted": "2025-01-06 11:46:26",
     "DateRegistered": "2022-07-14T12:06:01.0960677+00:00",
-    "DateUpdated": "2025-01-07T15:49:56.5389729+00:00"
+    "DateUpdated": "2025-02-10T12:08:15.2674125+00:00"
   },
   {
     "COMPE": "473",
@@ -8549,8 +8551,8 @@
     "COMPE": "563",
     "ISPB": "40276692",
     "Document": "40.276.692/0001-10",
-    "LongName": "PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A",
-    "ShortName": "PROTEGE PAY CASH IP S.A.",
+    "LongName": "PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "PROTEGE CASH",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8566,7 +8568,7 @@
     "DateOperationStarted": "2023-09-18",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347548+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347549+00:00"
+    "DateUpdated": "2025-02-10T12:08:15.2722887+00:00"
   },
   {
     "COMPE": "565",

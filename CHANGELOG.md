@@ -4,6 +4,29 @@
 
 ## Changelog
 
+### 2025-02-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 471 - COOP CRESERV CREDISIS - 04.831.810/0001-40
+    - **LongName** (STR): COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO **->** COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS
+    - **ShortName** (STR): CECM SERV PUBL PINHÃO **->** COOP CRESERV CREDISIS
+  - 563 - PROTEGE CASH - 40.276.692/0001-10
+    - **LongName** (STR): PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A **->** PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): PROTEGE PAY CASH IP S.A. **->** PROTEGE CASH
+
+### 2025-02-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 140 - NU INVESTIMENTOS S.A. - CTVM - 62.169.875/0001-79
+    - **LongName** (STR): NU INVEST CORRETORA DE VALORES S.A. **->** NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS
+    - **ShortName** (STR): NU INVEST CORRETORA DE VALORES S.A. **->** NU INVESTIMENTOS S.A. - CTVM
+
+### 2025-02-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 359 - ZEMA CFI S/A - 05.351.887/0001-86
+    - **Products** (CTC): Capital de Giro, Consignado, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+
 ### 2025-01-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
