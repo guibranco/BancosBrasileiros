@@ -6932,8 +6932,8 @@
     "COMPE": "471",
     "ISPB": "04831810",
     "Document": "04.831.810/0001-40",
-    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO",
-    "ShortName": "CECM SERV PUBL PINHÃO",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS",
+    "ShortName": "COOP CRESERV CREDISIS",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -6949,7 +6949,7 @@
     "DateOperationStarted": "2022-07-18",
     "DatePixStarted": "2025-01-06 11:46:26",
     "DateRegistered": "2022-07-14T12:06:01.0960677+00:00",
-    "DateUpdated": "2025-01-07T15:49:56.5389729+00:00"
+    "DateUpdated": "2025-02-10T12:08:15.2674125+00:00"
   },
   {
     "COMPE": "473",
@@ -8551,8 +8551,8 @@
     "COMPE": "563",
     "ISPB": "40276692",
     "Document": "40.276.692/0001-10",
-    "LongName": "PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A",
-    "ShortName": "PROTEGE PAY CASH IP S.A.",
+    "LongName": "PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "PROTEGE CASH",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8568,7 +8568,7 @@
     "DateOperationStarted": "2023-09-18",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347548+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347549+00:00"
+    "DateUpdated": "2025-02-10T12:08:15.2722887+00:00"
   },
   {
     "COMPE": "565",

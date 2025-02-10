@@ -6025,8 +6025,8 @@
     <COMPE>471</COMPE>
     <ISPB>04831810</ISPB>
     <Document>04.831.810/0001-40</Document>
-    <LongName>COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO</LongName>
-    <ShortName>CECM SERV PUBL PINHÃO</ShortName>
+    <LongName>COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS</LongName>
+    <ShortName>COOP CRESERV CREDISIS</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6039,7 +6039,7 @@
     <DateOperationStarted>2022-07-18</DateOperationStarted>
     <DatePixStarted>2025-01-06 11:46:26</DatePixStarted>
     <DateRegistered>2022-07-14T12:06:01.0960677Z</DateRegistered>
-    <DateUpdated>2025-01-07T15:49:56.5389729Z</DateUpdated>
+    <DateUpdated>2025-02-10T12:08:15.2674125Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>473</COMPE>
@@ -7367,8 +7367,8 @@
     <COMPE>563</COMPE>
     <ISPB>40276692</ISPB>
     <Document>40.276.692/0001-10</Document>
-    <LongName>PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A</LongName>
-    <ShortName>PROTEGE PAY CASH IP S.A.</ShortName>
+    <LongName>PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PROTEGE CASH</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7379,7 +7379,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-18</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347548Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.1347549Z</DateUpdated>
+    <DateUpdated>2025-02-10T12:08:15.2722887Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>565</COMPE>

@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-02-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 471 - COOP CRESERV CREDISIS - 04.831.810/0001-40
+    - **LongName** (STR): COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO **->** COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS
+    - **ShortName** (STR): CECM SERV PUBL PINHÃO **->** COOP CRESERV CREDISIS
+  - 563 - PROTEGE CASH - 40.276.692/0001-10
+    - **LongName** (STR): PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A **->** PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): PROTEGE PAY CASH IP S.A. **->** PROTEGE CASH
+
 ### 2025-02-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
