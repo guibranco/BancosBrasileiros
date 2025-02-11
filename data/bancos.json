@@ -6353,7 +6353,7 @@
     "ShortName": "CREDIHOME SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6364,9 +6364,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-11-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-14 10:00:00",
     "DateRegistered": "2021-11-22T11:00:23.679021-03:00",
-    "DateUpdated": "2021-11-22T11:00:23.6790215-03:00"
+    "DateUpdated": "2025-02-11T12:08:29.5134064+00:00"
   },
   {
     "COMPE": "444",
@@ -8555,7 +8555,7 @@
     "ShortName": "PROTEGE CASH",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8566,9 +8566,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-10 10:43:14",
     "DateRegistered": "2023-09-25T12:28:25.1347548+00:00",
-    "DateUpdated": "2025-02-10T12:08:15.2722887+00:00"
+    "DateUpdated": "2025-02-11T12:08:29.5215389+00:00"
   },
   {
     "COMPE": "565",
