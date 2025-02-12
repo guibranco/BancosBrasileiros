@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-02-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 443 - CREDIHOME SCD - 39.416.705/0001-20
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-14 10:00:00
+  - 563 - PROTEGE CASH - 40.276.692/0001-10
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-10 10:43:14
+
 ### 2025-02-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
