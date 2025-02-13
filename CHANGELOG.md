@@ -4,6 +4,106 @@
 
 ## Changelog
 
+### 2025-02-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 443 - CREDIHOME SCD - 39.416.705/0001-20
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-14 10:00:00
+  - 563 - PROTEGE CASH - 40.276.692/0001-10
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-10 10:43:14
+
+### 2025-02-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 471 - COOP CRESERV CREDISIS - 04.831.810/0001-40
+    - **LongName** (STR): COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO **->** COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS
+    - **ShortName** (STR): CECM SERV PUBL PINHÃO **->** COOP CRESERV CREDISIS
+  - 563 - PROTEGE CASH - 40.276.692/0001-10
+    - **LongName** (STR): PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A **->** PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): PROTEGE PAY CASH IP S.A. **->** PROTEGE CASH
+
+### 2025-02-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 140 - NU INVESTIMENTOS S.A. - CTVM - 62.169.875/0001-79
+    - **LongName** (STR): NU INVEST CORRETORA DE VALORES S.A. **->** NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS
+    - **ShortName** (STR): NU INVEST CORRETORA DE VALORES S.A. **->** NU INVESTIMENTOS S.A. - CTVM
+
+### 2025-02-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 359 - ZEMA CFI S/A - 05.351.887/0001-86
+    - **Products** (CTC): Capital de Giro, Consignado, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Capital de Giro, Cheque Especial, Consignado, Imobiliário, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+
+### 2025-01-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 668 - VIA CAPITAL SCD S/A - 48.632.754/0001-90
+- Updated 1 bank
+  - 382 - FIDUCIA SCMEPP LTDA - 04.307.598/0001-17
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+
+### 2025-01-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 682 - MONERY IP S.A. - 46.505.612/0001-37
+- Updated 1 bank
+  - 557 - PAGPRIME IP - 30.944.783/0001-22
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-03 10:00:00
+
+### 2025-01-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 562 - AZIMUT BRASIL DTVM LTDA - 18.684.408/0001-95
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-27 08:12:51
+
+### 2025-01-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 615 - SMART SOLUTIONS GROUP IP LTDA - 37.470.405/0001-01
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-24 10:00:32
+
+### 2025-01-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 448 - HEMERA DTVM LTDA. - 39.669.186/0001-01
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 575 - DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO. - 48.584.954/0001-15
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-03-06 14:00:00
+
+### 2025-01-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 427 - CRED.UFES - 27.302.181/0001-67
+    - **LongName** (STR): COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO **->** COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+  - 560 - MAG IP LTDA. - 21.995.256/0001-56
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2021-02-23 19:27:38 **->** 2025-01-21 09:10:00
+
+### 2025-01-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 595 - ZOOP MEIOS DE PAGAMENTO - 19.468.242/0001-32
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-01-20 09:10:00
+  - 619 - TRIO IP LTDA. - 49.931.906/0001-19
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-01-27 09:00:00
+
+### 2025-01-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 427 - CRED.UFES - 27.302.181/0001-67
+    - **LongName** (STR): COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO **->** COOPERATIVA D ECRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO
+    - **ShortName** (STR): CRED-UFES **->** CRED.UFES
+
 ### 2025-01-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

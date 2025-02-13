@@ -2095,8 +2095,8 @@
     "COMPE": "140",
     "ISPB": "62169875",
     "Document": "62.169.875/0001-79",
-    "LongName": "NU INVEST CORRETORA DE VALORES S.A.",
-    "ShortName": "NU INVEST CORRETORA DE VALORES S.A.",
+    "LongName": "NU INVESTIMENTOS S.A. - CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS",
+    "ShortName": "NU INVESTIMENTOS S.A. - CTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2112,7 +2112,7 @@
     "DateOperationStarted": "2015-05-26",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115335-03:00",
-    "DateUpdated": "2021-09-28T05:25:17.025616-03:00"
+    "DateUpdated": "2025-02-07T12:07:52.609885+00:00"
   },
   {
     "COMPE": "141",
@@ -4718,17 +4718,19 @@
     "SalaryPortability": null,
     "Products": [
       "Capital de Giro",
+      "Cheque Especial",
       "Consignado",
+      "Imobiliário",
       "Outros Créditos",
       "Pessoal",
       "Troca de Modalidade",
-      "Veiculos"
+      "Veículos"
     ],
     "Url": null,
     "DateOperationStarted": "2020-06-10",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114578-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7533301+00:00"
+    "DateUpdated": "2025-02-04T12:08:19.0107655+00:00"
   },
   {
     "COMPE": "360",
@@ -5190,13 +5192,13 @@
     "DetectaFlow": false,
     "PCR": null,
     "PCRP": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-07-31",
     "DatePixStarted": "2021-12-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114541-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0763971+00:00"
+    "DateUpdated": "2025-01-29T12:33:42.9254981+00:00"
   },
   {
     "COMPE": "383",
@@ -6106,8 +6108,8 @@
     "COMPE": "427",
     "ISPB": "27302181",
     "Document": "27.302.181/0001-67",
-    "LongName": "COOPERATIVA DE CREDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
-    "ShortName": "CRED-UFES",
+    "LongName": "COOPERATIVA DE CRÉDITO DOS SERVIDORES DA UNIVERSIDADE FEDERAL DO ESPIRITO SANTO",
+    "ShortName": "CRED.UFES",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -6126,7 +6128,7 @@
     "DateOperationStarted": "2021-04-26",
     "DatePixStarted": "2022-11-22 13:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114971-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.5164511+00:00"
+    "DateUpdated": "2025-01-22T12:07:55.2546872+00:00"
   },
   {
     "COMPE": "428",
@@ -6351,7 +6353,7 @@
     "ShortName": "CREDIHOME SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6362,9 +6364,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-11-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-14 10:00:00",
     "DateRegistered": "2021-11-22T11:00:23.679021-03:00",
-    "DateUpdated": "2021-11-22T11:00:23.6790215-03:00"
+    "DateUpdated": "2025-02-11T12:08:29.5134064+00:00"
   },
   {
     "COMPE": "444",
@@ -6448,15 +6450,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-08-17",
     "DatePixStarted": "2024-11-11 09:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926622-03:00",
-    "DateUpdated": "2024-11-20T12:08:13.0684787+00:00"
+    "DateUpdated": "2025-01-24T12:07:58.3160983+00:00"
   },
   {
     "COMPE": "449",
@@ -6930,8 +6932,8 @@
     "COMPE": "471",
     "ISPB": "04831810",
     "Document": "04.831.810/0001-40",
-    "LongName": "COOPERATIVA DE ECONOMIA E CREDITO MUTUO DOS SERVIDORES PUBLICOS DE PINHÃO - CRESERV-PINHÃO",
-    "ShortName": "CECM SERV PUBL PINHÃO",
+    "LongName": "COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DOS SERVIDORES PÚBLICOS DE PINHÃO - CRESERV CREDISIS",
+    "ShortName": "COOP CRESERV CREDISIS",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -6947,7 +6949,7 @@
     "DateOperationStarted": "2022-07-18",
     "DatePixStarted": "2025-01-06 11:46:26",
     "DateRegistered": "2022-07-14T12:06:01.0960677+00:00",
-    "DateUpdated": "2025-01-07T15:49:56.5389729+00:00"
+    "DateUpdated": "2025-02-10T12:08:15.2674125+00:00"
   },
   {
     "COMPE": "473",
@@ -8415,7 +8417,7 @@
     "ShortName": "PAGPRIME IP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8426,9 +8428,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-10-23",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-03 10:00:00",
     "DateRegistered": "2023-10-17T12:06:27.6807413+00:00",
-    "DateUpdated": "2023-10-17T12:06:27.6807666+00:00"
+    "DateUpdated": "2025-01-28T12:33:57.5550097+00:00"
   },
   {
     "COMPE": "558",
@@ -8484,7 +8486,7 @@
     "ShortName": "MAG IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8495,9 +8497,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-10-17",
-    "DatePixStarted": "2021-02-23 19:27:38",
+    "DatePixStarted": "2025-01-21 09:10:00",
     "DateRegistered": "2023-10-10T12:06:37.2093743+00:00",
-    "DateUpdated": "2023-10-10T12:06:35.7131141+00:00"
+    "DateUpdated": "2025-01-22T12:07:56.1675514+00:00"
   },
   {
     "COMPE": "561",
@@ -8530,7 +8532,7 @@
     "ShortName": "AZIMUT BRASIL DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8541,19 +8543,19 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-01-08",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-27 08:12:51",
     "DateRegistered": "2024-01-09T12:06:15.1387174+00:00",
-    "DateUpdated": "2024-03-08T12:06:59.688307+00:00"
+    "DateUpdated": "2025-01-27T12:34:41.917063+00:00"
   },
   {
     "COMPE": "563",
     "ISPB": "40276692",
     "Document": "40.276.692/0001-10",
-    "LongName": "PROTEGE PAY CASH INSTITUICAO DE PAGAMENTO S/A",
-    "ShortName": "PROTEGE PAY CASH IP S.A.",
+    "LongName": "PROTEGE CASH INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "PROTEGE CASH",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8564,9 +8566,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-18",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-10 10:43:14",
     "DateRegistered": "2023-09-25T12:28:25.1347548+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347549+00:00"
+    "DateUpdated": "2025-02-11T12:08:29.5215389+00:00"
   },
   {
     "COMPE": "565",
@@ -8718,7 +8720,7 @@
     "ShortName": "DGBK CREDIT S.A. - SOCIEDADE DE CRÉDITO DIRETO.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8729,9 +8731,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-13",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-03-06 14:00:00",
     "DateRegistered": "2024-06-07T12:08:28.2767917+00:00",
-    "DateUpdated": "2024-06-07T12:08:28.2768294+00:00"
+    "DateUpdated": "2025-01-24T12:07:57.5396673+00:00"
   },
   {
     "COMPE": "576",
@@ -9178,7 +9180,7 @@
     "ShortName": "ZOOP MEIOS DE PAGAMENTO",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9189,9 +9191,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-03-21",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2025-01-20 09:10:00",
     "DateRegistered": "2024-03-15T12:06:05.5274606+00:00",
-    "DateUpdated": "2024-03-15T12:06:05.1580392+00:00"
+    "DateUpdated": "2025-01-21T12:08:02.1582577+00:00"
   },
   {
     "COMPE": "597",
@@ -9424,7 +9426,7 @@
     "ShortName": "SMART SOLUTIONS GROUP IP LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9435,9 +9437,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-10-04",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-24 10:00:32",
     "DateRegistered": "2024-09-30T12:08:41.408497+00:00",
-    "DateUpdated": "2024-09-30T12:08:41.4085273+00:00"
+    "DateUpdated": "2025-01-25T12:30:07.2831477+00:00"
   },
   {
     "COMPE": "619",
@@ -9447,7 +9449,7 @@
     "ShortName": "TRIO IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9458,9 +9460,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-08-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-01-27 09:00:00",
     "DateRegistered": "2024-07-26T12:29:30.1748074+00:00",
-    "DateUpdated": "2024-07-26T12:29:30.1748268+00:00"
+    "DateUpdated": "2025-01-21T12:08:02.357429+00:00"
   },
   {
     "COMPE": "620",
@@ -10084,6 +10086,29 @@
     "DateUpdated": "2024-12-17T12:08:44.254587+00:00"
   },
   {
+    "COMPE": "668",
+    "ISPB": "48632754",
+    "Document": "48.632.754/0001-90",
+    "LongName": "VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A",
+    "ShortName": "VIA CAPITAL SCD S/A",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-02-04",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-01-29T12:33:42.9304264+00:00",
+    "DateUpdated": "2025-01-29T12:33:42.9304449+00:00"
+  },
+  {
     "COMPE": "671",
     "ISPB": "26264220",
     "Document": "26.264.220/0001-16",
@@ -10151,6 +10176,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-01-06T12:08:18.8941877+00:00",
     "DateUpdated": "2025-01-06T12:08:18.8942076+00:00"
+  },
+  {
+    "COMPE": "682",
+    "ISPB": "46505612",
+    "Document": "46.505.612/0001-37",
+    "LongName": "MONERY INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "MONERY IP S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-02-03",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-01-28T12:33:58.5362079+00:00",
+    "DateUpdated": "2025-01-28T12:33:58.5362384+00:00"
   },
   {
     "COMPE": "707",
