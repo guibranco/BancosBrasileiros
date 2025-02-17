@@ -8713,6 +8713,29 @@
     "DateUpdated": "2024-12-05T12:08:35.7332513+00:00"
   },
   {
+    "COMPE": "574",
+    "ISPB": "48756121",
+    "Document": "48.756.121/0001-94",
+    "LongName": "A55 SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "A55 SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-02-21",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-02-17T12:08:34.2393803+00:00",
+    "DateUpdated": "2025-02-17T12:08:34.2394101+00:00"
+  },
+  {
     "COMPE": "575",
     "ISPB": "48584954",
     "Document": "48.584.954/0001-15",
@@ -9399,8 +9422,8 @@
     "COMPE": "614",
     "ISPB": "52440987",
     "Document": "52.440.987/0001-69",
-    "LongName": "NITRO SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "NITRO SCD S.A.",
+    "LongName": "SANTS SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "SANTS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -9416,7 +9439,7 @@
     "DateOperationStarted": "2024-06-14",
     "DatePixStarted": "2024-11-05 09:00:00",
     "DateRegistered": "2024-06-10T12:07:20.428794+00:00",
-    "DateUpdated": "2024-11-20T12:08:13.1074196+00:00"
+    "DateUpdated": "2025-02-17T12:08:32.3387329+00:00"
   },
   {
     "COMPE": "615",
