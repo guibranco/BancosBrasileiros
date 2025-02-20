@@ -7507,6 +7507,26 @@
     <DateUpdated>2024-12-05T12:08:35.7332513Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>574</COMPE>
+    <ISPB>48756121</ISPB>
+    <Document>48.756.121/0001-94</Document>
+    <LongName>A55 SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>A55 SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-02-21</DateOperationStarted>
+    <DatePixStarted>2025-02-21 11:00:00</DatePixStarted>
+    <DateRegistered>2025-02-17T12:08:34.2393803Z</DateRegistered>
+    <DateUpdated>2025-02-18T12:08:11.2129112Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>575</COMPE>
     <ISPB>48584954</ISPB>
     <Document>48.584.954/0001-15</Document>
@@ -8090,8 +8110,8 @@
     <COMPE>614</COMPE>
     <ISPB>52440987</ISPB>
     <Document>52.440.987/0001-69</Document>
-    <LongName>NITRO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>NITRO SCD S.A.</ShortName>
+    <LongName>SANTS SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SANTS SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8104,7 +8124,7 @@
     <DateOperationStarted>2024-06-14</DateOperationStarted>
     <DatePixStarted>2024-11-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-06-10T12:07:20.428794Z</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:13.1074196Z</DateUpdated>
+    <DateUpdated>2025-02-17T12:08:32.3387329Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>615</COMPE>

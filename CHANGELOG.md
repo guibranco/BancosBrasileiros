@@ -4,6 +4,22 @@
 
 ## Changelog
 
+### 2025-02-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 574 - A55 SCD S.A. - 48.756.121/0001-94
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-02-21 11:00:00
+
+### 2025-02-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 574 - A55 SCD S.A. - 48.756.121/0001-94
+- Updated 1 bank
+  - 614 - SANTS SCD S.A. - 52.440.987/0001-69
+    - **LongName** (STR): NITRO SOCIEDADE DE CRÉDITO DIRETO S.A. **->** SANTS SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): NITRO SCD S.A. **->** SANTS SCD S.A.
+
 ### 2025-02-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
