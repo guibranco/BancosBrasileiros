@@ -8720,7 +8720,7 @@
     "ShortName": "A55 SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8731,9 +8731,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-02-21",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-02-21 11:00:00",
     "DateRegistered": "2025-02-17T12:08:34.2393803+00:00",
-    "DateUpdated": "2025-02-17T12:08:34.2394101+00:00"
+    "DateUpdated": "2025-02-18T12:08:11.2129112+00:00"
   },
   {
     "COMPE": "575",
