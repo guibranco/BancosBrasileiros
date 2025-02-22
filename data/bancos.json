@@ -6358,15 +6358,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-11-18",
     "DatePixStarted": "2025-02-14 10:00:00",
     "DateRegistered": "2021-11-22T11:00:23.679021-03:00",
-    "DateUpdated": "2025-02-11T12:08:29.5134064+00:00"
+    "DateUpdated": "2025-02-22T12:07:26.4211031+00:00"
   },
   {
     "COMPE": "444",
@@ -9139,15 +9139,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-03",
     "DatePixStarted": "2024-10-07 11:00:00",
     "DateRegistered": "2024-05-28T12:06:53.558223+00:00",
-    "DateUpdated": "2024-10-02T12:08:04.4963575+00:00"
+    "DateUpdated": "2025-02-22T12:07:26.4218013+00:00"
   },
   {
     "COMPE": "593",
