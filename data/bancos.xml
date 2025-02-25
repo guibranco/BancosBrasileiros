@@ -597,7 +597,6 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Products>
-      <Product>Consignado</Product>
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
@@ -606,7 +605,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114534-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1752278Z</DateUpdated>
+    <DateUpdated>2025-02-25T12:08:29.8581381Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>064</COMPE>

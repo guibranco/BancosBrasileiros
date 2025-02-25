@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-02-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 63 - BANCO BRADESCARD - 04.184.779/0001-01
+    - **Products** (CTC): Consignado, Imobiliário, Pessoal, Troca de Modalidade, Veículos **->** Imobiliário, Pessoal, Troca de Modalidade, Veículos
+
 ### 2025-02-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

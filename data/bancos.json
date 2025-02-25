@@ -656,7 +656,6 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": [
-      "Consignado",
       "Imobiliário",
       "Pessoal",
       "Troca de Modalidade",
@@ -666,7 +665,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114534-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1752278+00:00"
+    "DateUpdated": "2025-02-25T12:08:29.8581381+00:00"
   },
   {
     "COMPE": "064",
