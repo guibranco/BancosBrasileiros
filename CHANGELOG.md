@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2025-02-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 667 - LIQUIDO IP LTDA - 48.552.108/0001-13
+- Updated 1 bank
+  - 755 - BOFA MERRILL LYNCH BM S.A. - 62.073.200/0001-21
+    - **Products** (CTC): Null **->** Capital de Giro, Troca de Modalidade
+
 ### 2025-02-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

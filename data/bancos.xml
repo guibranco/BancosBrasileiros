@@ -8715,6 +8715,24 @@
     <DateUpdated>2024-12-17T12:08:44.254587Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>667</COMPE>
+    <ISPB>48552108</ISPB>
+    <Document>48.552.108/0001-13</Document>
+    <LongName>LIQUIDO INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>LIQUIDO IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-03-05</DateOperationStarted>
+    <DateRegistered>2025-02-27T12:08:46.4354377Z</DateRegistered>
+    <DateUpdated>2025-02-27T12:08:46.4354666Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>668</COMPE>
     <ISPB>48632754</ISPB>
     <Document>48.632.754/0001-90</Document>
@@ -9188,11 +9206,15 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Products>
+      <Product>Capital de Giro</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url>https://www.ml.com</Url>
     <DateOperationStarted>2007-11-09</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115324-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7390016Z</DateUpdated>
+    <DateUpdated>2025-02-27T12:08:45.8426042Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>756</COMPE>
