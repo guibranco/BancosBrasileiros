@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-02-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 400 - COOP CREDITAG - 05.491.616/0001-26
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-01-23 11:13:19 **->** 2025-02-27 09:10:00
+
 ### 2025-02-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
