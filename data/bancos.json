@@ -656,7 +656,6 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": [
-      "Consignado",
       "Imobiliário",
       "Pessoal",
       "Troca de Modalidade",
@@ -666,7 +665,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114534-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.1752278+00:00"
+    "DateUpdated": "2025-02-25T12:08:29.8581381+00:00"
   },
   {
     "COMPE": "064",
@@ -5579,7 +5578,7 @@
     "ShortName": "COOP CREDITAG",
     "Network": "Internet",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -5590,9 +5589,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-02-24",
-    "DatePixStarted": "2024-01-23 11:13:19",
+    "DatePixStarted": "2025-02-27 09:10:00",
     "DateRegistered": "2021-05-05T09:11:12.711459-03:00",
-    "DateUpdated": "2024-01-24T12:06:57.3329199+00:00"
+    "DateUpdated": "2025-02-28T12:08:20.7399879+00:00"
   },
   {
     "COMPE": "401",
@@ -10109,6 +10108,29 @@
     "DateUpdated": "2024-12-17T12:08:44.254587+00:00"
   },
   {
+    "COMPE": "667",
+    "ISPB": "48552108",
+    "Document": "48.552.108/0001-13",
+    "LongName": "LIQUIDO INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "LIQUIDO IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-03-05",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-02-27T12:08:46.4354377+00:00",
+    "DateUpdated": "2025-02-27T12:08:46.4354666+00:00"
+  },
+  {
     "COMPE": "668",
     "ISPB": "48632754",
     "Document": "48.632.754/0001-90",
@@ -10634,12 +10656,15 @@
     "PCR": true,
     "PCRP": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Capital de Giro",
+      "Troca de Modalidade"
+    ],
     "Url": "https://www.ml.com",
     "DateOperationStarted": "2007-11-09",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115324-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7390016+00:00"
+    "DateUpdated": "2025-02-27T12:08:45.8426042+00:00"
   },
   {
     "COMPE": "756",
