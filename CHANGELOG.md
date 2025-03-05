@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-03-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 673 - CCR DO AGRESTE ALAGOANO - 08.482.873/0001-90
+  - 685 - TYCOON TECHNOLOGY IIP S.A - 26.615.279/0001-01
+
 ### 2025-02-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
