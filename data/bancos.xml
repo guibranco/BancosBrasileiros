@@ -8771,6 +8771,24 @@
     <DateUpdated>2024-11-20T12:08:12.9794672Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>673</COMPE>
+    <ISPB>08482873</ISPB>
+    <Document>08.482.873/0001-90</Document>
+    <LongName>COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE</LongName>
+    <ShortName>CCR DO AGRESTE ALAGOANO</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-03-10</DateOperationStarted>
+    <DateRegistered>2025-03-05T12:08:37.9410843Z</DateRegistered>
+    <DateUpdated>2025-03-05T12:08:37.9411137Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>674</COMPE>
     <ISPB>27970567</ISPB>
     <Document>27.970.567/0001-47</Document>
@@ -8825,6 +8843,26 @@
     <DateOperationStarted>2025-02-03</DateOperationStarted>
     <DateRegistered>2025-01-28T12:33:58.5362079Z</DateRegistered>
     <DateUpdated>2025-01-28T12:33:58.5362384Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>685</COMPE>
+    <ISPB>26615279</ISPB>
+    <Document>26.615.279/0001-01</Document>
+    <LongName>TYCOON TECHNOLOGY INSTITUICAO DE PAGAMENTO S.A</LongName>
+    <ShortName>TYCOON TECHNOLOGY IIP S.A</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-11-18</DateOperationStarted>
+    <DatePixStarted>2024-11-07 10:27:36</DatePixStarted>
+    <DateRegistered>2025-03-05T12:08:37.9411143Z</DateRegistered>
+    <DateUpdated>2025-03-05T12:08:36.9762761Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
