@@ -4,6 +4,30 @@
 
 ## Changelog
 
+### 2025-03-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 672 - STONE CFI S.A. - 53.505.601/0001-12
+- Updated 6 banks
+  - 190 - SERVICOOP - 03.973.814/0001-09
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-03-11 08:08:29
+  - 379 - COOP COOPERFORTE LTDA. - 01.658.426/0001-08
+    - **LongName** (STR): COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA. **->** COOPERFORTE COOPERATIVA DE CRÉDITO E INVESTIMENTOS LTDA
+    - **ShortName** (STR): CECM COOPERFORTE **->** COOP COOPERFORTE LTDA.
+  - 440 - COOP CREDI&GENTE - 82.096.447/0001-70
+    - **LongName** (STR): CREDIBRF - COOPERATIVA DE CRÉDITO **->** CREDI&GENTE - COOPERATIVA DE CRÉDITO E INVESTIMENTOS
+    - **ShortName** (STR): CREDIBRF COOP **->** COOP CREDI&GENTE
+  - 546 - OKTO IP - 30.980.539/0001-15
+    - **LongName** (STR): U4C INSTITUIÇÃO DE PAGAMENTO S.A. **->** OKTO INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): U4C INSTITUIÇÃO DE PAGAMENTO S.A. **->** OKTO IP
+  - 630 - BCO BLUEBANK S.A. - 58.497.702/0001-02
+    - **LongName** (STR): BANCO LETSBANK S.A. **->** BANCO BLUEBANK S.A.
+    - **ShortName** (STR): BCO LETSBANK S.A. **->** BCO BLUEBANK S.A.
+  - 673 - CCR DO AGRESTE ALAGOANO - 08.482.873/0001-90
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-03-24 08:27:14
+
 ### 2025-03-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks

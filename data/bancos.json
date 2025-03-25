@@ -2543,7 +2543,7 @@
     "ShortName": "SERVICOOP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -2554,9 +2554,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2017-10-16",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-03-11 08:08:29",
     "DateRegistered": "2021-05-05T09:11:12.7114527-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7507194+00:00"
+    "DateUpdated": "2025-03-24T17:11:53.0238038+00:00"
   },
   {
     "COMPE": "191",
@@ -5101,8 +5101,8 @@
     "COMPE": "379",
     "ISPB": "01658426",
     "Document": "01.658.426/0001-08",
-    "LongName": "COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA.",
-    "ShortName": "CECM COOPERFORTE",
+    "LongName": "COOPERFORTE COOPERATIVA DE CRÉDITO E INVESTIMENTOS LTDA",
+    "ShortName": "COOP COOPERFORTE LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5125,7 +5125,7 @@
     "DateOperationStarted": "2020-09-01",
     "DatePixStarted": "2024-11-25 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114443-03:00",
-    "DateUpdated": "2024-11-20T12:08:12.5504802+00:00"
+    "DateUpdated": "2025-03-24T17:11:52.2283287+00:00"
   },
   {
     "COMPE": "380",
@@ -6302,8 +6302,8 @@
     "COMPE": "440",
     "ISPB": "82096447",
     "Document": "82.096.447/0001-70",
-    "LongName": "CREDIBRF - COOPERATIVA DE CRÉDITO",
-    "ShortName": "CREDIBRF COOP",
+    "LongName": "CREDI&GENTE - COOPERATIVA DE CRÉDITO E INVESTIMENTOS",
+    "ShortName": "COOP CREDI&GENTE",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -6319,7 +6319,7 @@
     "DateOperationStarted": "2021-09-02",
     "DatePixStarted": null,
     "DateRegistered": "2021-09-13T19:08:16.9817387-03:00",
-    "DateUpdated": "2021-10-23T20:54:59.5267227-03:00"
+    "DateUpdated": "2025-03-24T17:11:52.2355771+00:00"
   },
   {
     "COMPE": "442",
@@ -8159,8 +8159,8 @@
     "COMPE": "546",
     "ISPB": "30980539",
     "Document": "30.980.539/0001-15",
-    "LongName": "U4C INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "U4C INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "LongName": "OKTO INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "OKTO IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -8176,7 +8176,7 @@
     "DateOperationStarted": "2023-04-24",
     "DatePixStarted": "2023-11-08 17:15:00",
     "DateRegistered": "2023-04-19T12:07:00.4802737+00:00",
-    "DateUpdated": "2023-11-09T12:06:14.1905467+00:00"
+    "DateUpdated": "2025-03-24T17:11:52.2316303+00:00"
   },
   {
     "COMPE": "547",
@@ -9569,8 +9569,8 @@
     "COMPE": "630",
     "ISPB": "58497702",
     "Document": "58.497.702/0001-02",
-    "LongName": "BANCO LETSBANK S.A.",
-    "ShortName": "BCO LETSBANK S.A.",
+    "LongName": "BANCO BLUEBANK S.A.",
+    "ShortName": "BCO BLUEBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": "DRCT",
@@ -9586,7 +9586,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115221-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7316055+00:00"
+    "DateUpdated": "2025-03-24T17:11:52.2343929+00:00"
   },
   {
     "COMPE": "632",
@@ -10177,11 +10177,11 @@
     "DateUpdated": "2024-11-20T12:08:12.9794672+00:00"
   },
   {
-    "COMPE": "673",
-    "ISPB": "08482873",
-    "Document": "08.482.873/0001-90",
-    "LongName": "COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE",
-    "ShortName": "CCR DO AGRESTE ALAGOANO",
+    "COMPE": "672",
+    "ISPB": "53505601",
+    "Document": "53.505.601/0001-12",
+    "LongName": "STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "STONE CFI S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -10194,10 +10194,33 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "DateOperationStarted": "2025-03-10",
+    "DateOperationStarted": "2025-03-18",
     "DatePixStarted": null,
+    "DateRegistered": "2025-03-24T17:11:54.2989356+00:00",
+    "DateUpdated": "2025-03-24T17:11:54.2989529+00:00"
+  },
+  {
+    "COMPE": "673",
+    "ISPB": "08482873",
+    "Document": "08.482.873/0001-90",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE",
+    "ShortName": "CCR DO AGRESTE ALAGOANO",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-03-10",
+    "DatePixStarted": "2025-03-24 08:27:14",
     "DateRegistered": "2025-03-05T12:08:37.9410843+00:00",
-    "DateUpdated": "2025-03-05T12:08:37.9411137+00:00"
+    "DateUpdated": "2025-03-24T17:11:53.1676576+00:00"
   },
   {
     "COMPE": "674",

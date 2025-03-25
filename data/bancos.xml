@@ -2224,6 +2224,7 @@
     <LongName>SERVICOOP - COOPERATIVA DE CRÉDITO DOS SERVIDORES PÚBLICOS ESTADUAIS E MUNICIPAIS DO RIO GRANDE DO SUL</LongName>
     <ShortName>SERVICOOP</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge>true</Charge>
     <CreditDocument>true</CreditDocument>
     <LegalCheque>false</LegalCheque>
@@ -2232,8 +2233,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-16</DateOperationStarted>
+    <DatePixStarted>2025-03-11 08:08:29</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7507194Z</DateUpdated>
+    <DateUpdated>2025-03-24T17:11:53.0238038Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>191</COMPE>
@@ -3530,7 +3532,7 @@
       <Product>Pessoal</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.br.ccb.com</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114616-03:00</DateRegistered>
     <DateUpdated>2024-11-20T12:08:13.2876978Z</DateUpdated>
@@ -4449,8 +4451,8 @@
     <COMPE>379</COMPE>
     <ISPB>01658426</ISPB>
     <Document>01.658.426/0001-08</Document>
-    <LongName>COOPERFORTE - COOPERATIVA DE ECONOMIA E CRÉDITO MÚTUO DE FUNCIONÁRIOS DE INSTITUIÇÕES FINANCEIRAS PÚBLICAS FEDERAIS LTDA.</LongName>
-    <ShortName>CECM COOPERFORTE</ShortName>
+    <LongName>COOPERFORTE COOPERATIVA DE CRÉDITO E INVESTIMENTOS LTDA</LongName>
+    <ShortName>COOP COOPERFORTE LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4471,7 +4473,7 @@
     <DateOperationStarted>2020-09-01</DateOperationStarted>
     <DatePixStarted>2024-11-25 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114443-03:00</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:12.5504802Z</DateUpdated>
+    <DateUpdated>2025-03-24T17:11:52.2283287Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>380</COMPE>
@@ -5502,8 +5504,8 @@
     <COMPE>440</COMPE>
     <ISPB>82096447</ISPB>
     <Document>82.096.447/0001-70</Document>
-    <LongName>CREDIBRF - COOPERATIVA DE CRÉDITO</LongName>
-    <ShortName>CREDIBRF COOP</ShortName>
+    <LongName>CREDI&amp;GENTE - COOPERATIVA DE CRÉDITO E INVESTIMENTOS</LongName>
+    <ShortName>COOP CREDI&amp;GENTE</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5514,7 +5516,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-02</DateOperationStarted>
     <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
-    <DateUpdated>2021-10-23T20:54:59.5267227-03:00</DateUpdated>
+    <DateUpdated>2025-03-24T17:11:52.2355771Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>442</COMPE>
@@ -7048,8 +7050,8 @@
     <COMPE>546</COMPE>
     <ISPB>30980539</ISPB>
     <Document>30.980.539/0001-15</Document>
-    <LongName>U4C INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
-    <ShortName>U4C INSTITUIÇÃO DE PAGAMENTO S.A.</ShortName>
+    <LongName>OKTO INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>OKTO IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7062,7 +7064,7 @@
     <DateOperationStarted>2023-04-24</DateOperationStarted>
     <DatePixStarted>2023-11-08 17:15:00</DatePixStarted>
     <DateRegistered>2023-04-19T12:07:00.4802737Z</DateRegistered>
-    <DateUpdated>2023-11-09T12:06:14.1905467Z</DateUpdated>
+    <DateUpdated>2025-03-24T17:11:52.2316303Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>547</COMPE>
@@ -8241,8 +8243,8 @@
     <COMPE>630</COMPE>
     <ISPB>58497702</ISPB>
     <Document>58.497.702/0001-02</Document>
-    <LongName>BANCO LETSBANK S.A.</LongName>
-    <ShortName>BCO LETSBANK S.A.</ShortName>
+    <LongName>BANCO BLUEBANK S.A.</LongName>
+    <ShortName>BCO BLUEBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -8256,7 +8258,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115221-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7316055Z</DateUpdated>
+    <DateUpdated>2025-03-24T17:11:52.2343929Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>632</COMPE>
@@ -8771,11 +8773,11 @@
     <DateUpdated>2024-11-20T12:08:12.9794672Z</DateUpdated>
   </bank>
   <bank>
-    <COMPE>673</COMPE>
-    <ISPB>08482873</ISPB>
-    <Document>08.482.873/0001-90</Document>
-    <LongName>COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE</LongName>
-    <ShortName>CCR DO AGRESTE ALAGOANO</ShortName>
+    <COMPE>672</COMPE>
+    <ISPB>53505601</ISPB>
+    <Document>53.505.601/0001-12</Document>
+    <LongName>STONE SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>STONE CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8784,9 +8786,29 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-03-18</DateOperationStarted>
+    <DateRegistered>2025-03-24T17:11:54.2989356Z</DateRegistered>
+    <DateUpdated>2025-03-24T17:11:54.2989529Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>673</COMPE>
+    <ISPB>08482873</ISPB>
+    <Document>08.482.873/0001-90</Document>
+    <LongName>COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE</LongName>
+    <ShortName>CCR DO AGRESTE ALAGOANO</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-03-10</DateOperationStarted>
+    <DatePixStarted>2025-03-24 08:27:14</DatePixStarted>
     <DateRegistered>2025-03-05T12:08:37.9410843Z</DateRegistered>
-    <DateUpdated>2025-03-05T12:08:37.9411137Z</DateUpdated>
+    <DateUpdated>2025-03-24T17:11:53.1676576Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>674</COMPE>
