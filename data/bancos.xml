@@ -8849,6 +8849,24 @@
     <DateUpdated>2025-01-06T12:08:18.8942076Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>679</COMPE>
+    <ISPB>36690516</ISPB>
+    <Document>36.690.516/0001-52</Document>
+    <LongName>PAY INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PAY IP S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-01</DateOperationStarted>
+    <DateRegistered>2025-03-26T12:08:47.5102621Z</DateRegistered>
+    <DateUpdated>2025-03-26T12:08:47.5102845Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>682</COMPE>
     <ISPB>46505612</ISPB>
     <Document>46.505.612/0001-37</Document>

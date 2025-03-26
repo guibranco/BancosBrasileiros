@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-03-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 679 - PAY IP S.A. - 36.690.516/0001-52
+
 ### 2025-03-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
