@@ -8905,6 +8905,26 @@
     <DateUpdated>2025-03-05T12:08:36.9762761Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>690</COMPE>
+    <ISPB>16814330</ISPB>
+    <Document>16.814.330/0001-50</Document>
+    <LongName>BK INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>BK IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-02</DateOperationStarted>
+    <DatePixStarted>2022-02-23 14:23:13</DatePixStarted>
+    <DateRegistered>2025-03-27T12:08:46.1786523Z</DateRegistered>
+    <DateUpdated>2025-03-27T12:08:45.1753923Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>707</COMPE>
     <ISPB>62232889</ISPB>
     <Document>62.232.889/0001-90</Document>

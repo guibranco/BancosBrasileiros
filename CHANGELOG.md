@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-03-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 690 - BK IP S.A. - 16.814.330/0001-50
+
 ### 2025-03-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
