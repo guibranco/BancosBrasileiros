@@ -8849,6 +8849,24 @@
     <DateUpdated>2025-01-06T12:08:18.8942076Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>679</COMPE>
+    <ISPB>36690516</ISPB>
+    <Document>36.690.516/0001-52</Document>
+    <LongName>PAY INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PAY IP S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-01</DateOperationStarted>
+    <DateRegistered>2025-03-26T12:08:47.5102621Z</DateRegistered>
+    <DateUpdated>2025-03-26T12:08:47.5102845Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>682</COMPE>
     <ISPB>46505612</ISPB>
     <Document>46.505.612/0001-37</Document>
@@ -8885,6 +8903,26 @@
     <DatePixStarted>2024-11-07 10:27:36</DatePixStarted>
     <DateRegistered>2025-03-05T12:08:37.9411143Z</DateRegistered>
     <DateUpdated>2025-03-05T12:08:36.9762761Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>690</COMPE>
+    <ISPB>16814330</ISPB>
+    <Document>16.814.330/0001-50</Document>
+    <LongName>BK INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>BK IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-02</DateOperationStarted>
+    <DatePixStarted>2022-02-23 14:23:13</DatePixStarted>
+    <DateRegistered>2025-03-27T12:08:46.1786523Z</DateRegistered>
+    <DateUpdated>2025-03-27T12:08:45.1753923Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>
