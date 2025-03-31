@@ -139,8 +139,8 @@
     "COMPE": "011",
     "ISPB": "61809182",
     "Document": "61.809.182/0001-30",
-    "LongName": "CREDIT SUISSE HEDGING-GRIFFO CORRETORA DE VALORES S.A",
-    "ShortName": "C.SUISSE HEDGING-GRIFFO CV S/A",
+    "LongName": "UBS (BRASIL  CORRETORA DE VALORES S.A.",
+    "ShortName": "UBS (BRASIL) CORRETORA DE VALORES S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -156,7 +156,7 @@
     "DateOperationStarted": "2011-06-28",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115317-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115319-03:00"
+    "DateUpdated": "2025-03-31T12:08:34.673235+00:00"
   },
   {
     "COMPE": "012",
@@ -7239,8 +7239,8 @@
     "COMPE": "505",
     "ISPB": "32062580",
     "Document": "32.062.580/0001-38",
-    "LongName": "Banco Credit Suisse (Brasil) S.A.",
-    "ShortName": "BCO CREDIT SUISSE S.A.",
+    "LongName": "BANCO UBS (BRASIL  S.A.",
+    "ShortName": "BCO UBS BRASIL",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": null,
@@ -7256,7 +7256,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115036-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3443935+00:00"
+    "DateUpdated": "2025-03-31T12:08:34.6700589+00:00"
   },
   {
     "COMPE": "506",

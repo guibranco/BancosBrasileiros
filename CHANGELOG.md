@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-03-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 11 - UBS (BRASIL) CORRETORA DE VALORES S.A. - 61.809.182/0001-30
+    - **LongName** (STR): CREDIT SUISSE HEDGING-GRIFFO CORRETORA DE VALORES S.A **->** UBS (BRASIL  CORRETORA DE VALORES S.A.
+    - **ShortName** (STR): C.SUISSE HEDGING-GRIFFO CV S/A **->** UBS (BRASIL) CORRETORA DE VALORES S.A.
+  - 505 - BCO UBS BRASIL - 32.062.580/0001-38
+    - **LongName** (STR): Banco Credit Suisse (Brasil) S.A. **->** BANCO UBS (BRASIL  S.A.
+    - **ShortName** (STR): BCO CREDIT SUISSE S.A. **->** BCO UBS BRASIL
+
 ### 2025-03-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
