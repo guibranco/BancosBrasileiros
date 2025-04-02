@@ -132,7 +132,7 @@
     <COMPE>011</COMPE>
     <ISPB>61809182</ISPB>
     <Document>61.809.182/0001-30</Document>
-    <LongName>UBS (BRASIL  CORRETORA DE VALORES S.A.</LongName>
+    <LongName>UBS (BRASIL) CORRETORA DE VALORES S.A.</LongName>
     <ShortName>UBS (BRASIL) CORRETORA DE VALORES S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -144,7 +144,7 @@
     <Url>https://www.credit-suisse.com/br/pt.html</Url>
     <DateOperationStarted>2011-06-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115317-03:00</DateRegistered>
-    <DateUpdated>2025-03-31T12:08:34.673235Z</DateUpdated>
+    <DateUpdated>2025-04-01T12:08:55.4909839Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>012</COMPE>
@@ -6288,7 +6288,7 @@
     <COMPE>505</COMPE>
     <ISPB>32062580</ISPB>
     <Document>32.062.580/0001-38</Document>
-    <LongName>BANCO UBS (BRASIL  S.A.</LongName>
+    <LongName>BANCO UBS (BRASIL) S.A.</LongName>
     <ShortName>BCO UBS BRASIL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
@@ -6301,7 +6301,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115036-03:00</DateRegistered>
-    <DateUpdated>2025-03-31T12:08:34.6700589Z</DateUpdated>
+    <DateUpdated>2025-04-01T12:08:55.4874481Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>506</COMPE>
