@@ -7295,6 +7295,7 @@
     <LongName>KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>KANASTRA CFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7303,8 +7304,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-25</DateOperationStarted>
+    <DatePixStarted>2025-04-01 11:12:59</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
-    <DateUpdated>2024-12-19T12:08:15.9574874Z</DateUpdated>
+    <DateUpdated>2025-04-02T12:08:48.5042644Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>560</COMPE>
@@ -8923,6 +8925,24 @@
     <DatePixStarted>2022-02-23 14:23:13</DatePixStarted>
     <DateRegistered>2025-03-27T12:08:46.1786523Z</DateRegistered>
     <DateUpdated>2025-03-27T12:08:45.1753923Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>694</COMPE>
+    <ISPB>54811417</ISPB>
+    <Document>54.811.417/0001-63</Document>
+    <LongName>WOOVI INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>WOOVI IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-07</DateOperationStarted>
+    <DateRegistered>2025-04-02T12:08:49.3605006Z</DateRegistered>
+    <DateUpdated>2025-04-02T12:08:49.3605284Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>

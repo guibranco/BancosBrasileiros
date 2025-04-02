@@ -8462,7 +8462,7 @@
     "ShortName": "KANASTRA CFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8473,9 +8473,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-25",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-04-01 11:12:59",
     "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
-    "DateUpdated": "2024-12-19T12:08:15.9574874+00:00"
+    "DateUpdated": "2025-04-02T12:08:48.5042644+00:00"
   },
   {
     "COMPE": "560",
@@ -10359,6 +10359,29 @@
     "DatePixStarted": "2022-02-23 14:23:13",
     "DateRegistered": "2025-03-27T12:08:46.1786523+00:00",
     "DateUpdated": "2025-03-27T12:08:45.1753923+00:00"
+  },
+  {
+    "COMPE": "694",
+    "ISPB": "54811417",
+    "Document": "54.811.417/0001-63",
+    "LongName": "WOOVI INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "WOOVI IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-04-07",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-04-02T12:08:49.3605006+00:00",
+    "DateUpdated": "2025-04-02T12:08:49.3605284+00:00"
   },
   {
     "COMPE": "707",
