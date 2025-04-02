@@ -4,6 +4,23 @@
 
 ## Changelog
 
+### 2025-04-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 694 - WOOVI IP LTDA. - 54.811.417/0001-63
+- Updated 1 bank
+  - 559 - KANASTRA CFI - 49.288.113/0001-23
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-04-01 11:12:59
+
+### 2025-04-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 11 - UBS (BRASIL) CORRETORA DE VALORES S.A. - 61.809.182/0001-30
+    - **LongName** (STR): UBS (BRASIL  CORRETORA DE VALORES S.A. **->** UBS (BRASIL) CORRETORA DE VALORES S.A.
+  - 505 - BCO UBS BRASIL - 32.062.580/0001-38
+    - **LongName** (STR): BANCO UBS (BRASIL  S.A. **->** BANCO UBS (BRASIL) S.A.
+
 ### 2025-03-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
