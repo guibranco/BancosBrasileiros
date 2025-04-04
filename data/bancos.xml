@@ -141,7 +141,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.credit-suisse.com/br/pt.html</Url>
+    <Url>https://www.ubs.com/br/pt.html</Url>
     <DateOperationStarted>2011-06-28</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115317-03:00</DateRegistered>
     <DateUpdated>2025-04-01T12:08:55.4909839Z</DateUpdated>
@@ -8867,6 +8867,24 @@
     <DateOperationStarted>2025-04-01</DateOperationStarted>
     <DateRegistered>2025-03-26T12:08:47.5102621Z</DateRegistered>
     <DateUpdated>2025-03-26T12:08:47.5102845Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>681</COMPE>
+    <ISPB>50871921</ISPB>
+    <Document>50.871.921/0001-06</Document>
+    <LongName>MT INSTITUICAO DE PAGAMENTO SA</LongName>
+    <ShortName>MT IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-10</DateOperationStarted>
+    <DateRegistered>2025-04-04T12:08:42.9013824Z</DateRegistered>
+    <DateUpdated>2025-04-04T12:08:42.9014011Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>682</COMPE>
