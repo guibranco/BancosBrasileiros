@@ -2513,8 +2513,8 @@
     <COMPE>233</COMPE>
     <ISPB>62421979</ISPB>
     <Document>62.421.979/0001-29</Document>
-    <LongName>Banco Cifra S.A.</LongName>
-    <ShortName>BANCO CIFRA</ShortName>
+    <LongName>BANCO BMG SOLUÇÕES FINANCEIRAS S.A.</LongName>
+    <ShortName>BANCO BMG SOLUÇÕES FINANCEIRAS S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2526,7 +2526,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115358-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.711536-03:00</DateUpdated>
+    <DateUpdated>2025-04-08T12:08:49.7135875Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>237</COMPE>
@@ -7799,13 +7799,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-18</DateOperationStarted>
     <DatePixStarted>2024-12-09 09:00:00</DatePixStarted>
     <DateRegistered>2024-06-12T12:06:51.7759654Z</DateRegistered>
-    <DateUpdated>2024-11-28T12:37:25.5346752Z</DateUpdated>
+    <DateUpdated>2025-04-08T12:08:51.8550605Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>590</COMPE>
@@ -8766,13 +8766,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-11-11</DateOperationStarted>
     <DatePixStarted>2023-11-17 12:11:31</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9188245Z</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:12.9794672Z</DateUpdated>
+    <DateUpdated>2025-04-08T12:08:51.8561807Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>672</COMPE>

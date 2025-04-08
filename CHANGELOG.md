@@ -4,6 +4,19 @@
 
 ## Changelog
 
+### 2025-04-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 233 - BANCO BMG SOLUÇÕES FINANCEIRAS S.A. - 62.421.979/0001-29
+    - **LongName** (STR): Banco Cifra S.A. **->** BANCO BMG SOLUÇÕES FINANCEIRAS S.A.
+    - **ShortName** (STR): BANCO CIFRA **->** BANCO BMG SOLUÇÕES FINANCEIRAS S.A.
+  - 589 - G5 SCD SA - 51.212.088/0001-46
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 671 - ZERO - 26.264.220/0001-16
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2025-04-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

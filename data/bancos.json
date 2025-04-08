@@ -2865,8 +2865,8 @@
     "COMPE": "233",
     "ISPB": "62421979",
     "Document": "62.421.979/0001-29",
-    "LongName": "Banco Cifra S.A.",
-    "ShortName": "BANCO CIFRA",
+    "LongName": "BANCO BMG SOLUÇÕES FINANCEIRAS S.A.",
+    "ShortName": "BANCO BMG SOLUÇÕES FINANCEIRAS S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": null,
@@ -2882,7 +2882,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115358-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.711536-03:00"
+    "DateUpdated": "2025-04-08T12:08:49.7135875+00:00"
   },
   {
     "COMPE": "237",
@@ -9069,15 +9069,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-06-18",
     "DatePixStarted": "2024-12-09 09:00:00",
     "DateRegistered": "2024-06-12T12:06:51.7759654+00:00",
-    "DateUpdated": "2024-11-28T12:37:25.5346752+00:00"
+    "DateUpdated": "2025-04-08T12:08:51.8550605+00:00"
   },
   {
     "COMPE": "590",
@@ -10166,15 +10166,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-11-11",
     "DatePixStarted": "2023-11-17 12:11:31",
     "DateRegistered": "2024-11-20T12:08:13.9188245+00:00",
-    "DateUpdated": "2024-11-20T12:08:12.9794672+00:00"
+    "DateUpdated": "2025-04-08T12:08:51.8561807+00:00"
   },
   {
     "COMPE": "672",
