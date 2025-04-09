@@ -8925,6 +8925,24 @@
     <DateUpdated>2025-03-05T12:08:36.9762761Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>688</COMPE>
+    <ISPB>43978697</ISPB>
+    <Document>43.978.697/0001-82</Document>
+    <LongName>KIKAI SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>KIKAI SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-15</DateOperationStarted>
+    <DateRegistered>2025-04-09T12:08:48.4735918Z</DateRegistered>
+    <DateUpdated>2025-04-09T12:08:48.4736154Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>690</COMPE>
     <ISPB>16814330</ISPB>
     <Document>16.814.330/0001-50</Document>

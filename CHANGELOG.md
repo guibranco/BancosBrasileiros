@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-04-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 688 - KIKAI SCD S.A. - 43.978.697/0001-82
+
 ### 2025-04-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
