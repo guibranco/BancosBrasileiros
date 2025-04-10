@@ -9424,4 +9424,22 @@
     <DateRegistered>2021-05-05T09:11:12.7114464-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7313357Z</DateUpdated>
   </bank>
+  <bank>
+    <COMPE>761</COMPE>
+    <ISPB>53842122</ISPB>
+    <Document>53.842.122/0001-91</Document>
+    <LongName>URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>URBANO S.A. SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2024-12-23</DateOperationStarted>
+    <DateRegistered>2025-04-10T12:08:45.4443815Z</DateRegistered>
+    <DateUpdated>2025-04-10T12:08:45.4444218Z</DateUpdated>
+  </bank>
 </banks>

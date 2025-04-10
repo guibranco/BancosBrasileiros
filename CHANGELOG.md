@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-04-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 761 - URBANO S.A. SCFI - 53.842.122/0001-91
+
 ### 2025-04-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
