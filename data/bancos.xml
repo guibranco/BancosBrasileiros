@@ -8869,6 +8869,24 @@
     <DateUpdated>2025-03-26T12:08:47.5102845Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>680</COMPE>
+    <ISPB>55823094</ISPB>
+    <Document>55.823.094/0001-90</Document>
+    <LongName>DELTA GLOBAL SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>DELTA GLOBAL SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-17</DateOperationStarted>
+    <DateRegistered>2025-04-11T12:08:52.4220604Z</DateRegistered>
+    <DateUpdated>2025-04-11T12:08:52.4220785Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>681</COMPE>
     <ISPB>50871921</ISPB>
     <Document>50.871.921/0001-06</Document>
