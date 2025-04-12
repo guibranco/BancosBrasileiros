@@ -7908,7 +7908,7 @@
     "ShortName": "OPEA SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7919,9 +7919,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-02-10",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-05-19 09:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112609+00:00",
-    "DateUpdated": "2023-09-25T12:28:23.0817578+00:00"
+    "DateUpdated": "2025-04-12T12:07:48.1811728+00:00"
   },
   {
     "COMPE": "536",
@@ -8378,12 +8378,15 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Consignado",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": null,
     "DatePixStarted": null,
     "DateRegistered": "2023-08-30T15:00:47.667846+00:00",
-    "DateUpdated": "2023-09-25T12:28:23.0757285+00:00"
+    "DateUpdated": "2025-04-12T12:07:48.9963254+00:00"
   },
   {
     "COMPE": "556",

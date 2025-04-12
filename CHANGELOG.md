@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2025-04-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 535 - OPEA SCD - 39.519.944/0001-05
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-05-19 09:00:00
+  - 555 - PAN CFI - 02.682.287/0001-02
+    - **Products** (CTC): Null **->** Consignado, Troca de Modalidade
+
 ### 2025-04-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

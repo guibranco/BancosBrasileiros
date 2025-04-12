@@ -6843,6 +6843,7 @@
     <LongName>OPEA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>OPEA SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6851,8 +6852,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-10</DateOperationStarted>
+    <DatePixStarted>2025-05-19 09:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112609Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0817578Z</DateUpdated>
+    <DateUpdated>2025-04-12T12:07:48.1811728Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>536</COMPE>
@@ -7228,9 +7230,13 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Consignado</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0757285Z</DateUpdated>
+    <DateUpdated>2025-04-12T12:07:48.9963254Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>556</COMPE>
