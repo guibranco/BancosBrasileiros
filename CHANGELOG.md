@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-04-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 496 - BBVA BRASIL BI S.A. - 45.283.173/0001-00
+
 ### 2025-04-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

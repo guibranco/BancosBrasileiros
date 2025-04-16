@@ -6285,6 +6285,24 @@
     <DateUpdated>2021-05-05T09:11:12.711517-03:00</DateUpdated>
   </bank>
   <bank>
+    <COMPE>496</COMPE>
+    <ISPB>45283173</ISPB>
+    <Document>45.283.173/0001-00</Document>
+    <LongName>BBVA BRASIL BANCO DE INVESTIMENTO S.A.</LongName>
+    <ShortName>BBVA BRASIL BI S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-04-22</DateOperationStarted>
+    <DateRegistered>2025-04-16T12:09:00.8832325Z</DateRegistered>
+    <DateUpdated>2025-04-16T12:09:00.8832514Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>505</COMPE>
     <ISPB>32062580</ISPB>
     <Document>32.062.580/0001-38</Document>
