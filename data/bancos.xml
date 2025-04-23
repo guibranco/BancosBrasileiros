@@ -8991,7 +8991,7 @@
     <LongName>BK INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>BK IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9000,9 +9000,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-04-02</DateOperationStarted>
-    <DatePixStarted>2022-02-23 14:23:13</DatePixStarted>
+    <DatePixStarted>2025-04-22 09:10:00</DatePixStarted>
     <DateRegistered>2025-03-27T12:08:46.1786523Z</DateRegistered>
-    <DateUpdated>2025-03-27T12:08:45.1753923Z</DateUpdated>
+    <DateUpdated>2025-04-23T12:09:02.6884747Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>694</COMPE>

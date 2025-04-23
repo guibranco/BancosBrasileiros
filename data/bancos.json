@@ -10440,7 +10440,7 @@
     "ShortName": "BK IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10451,9 +10451,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-04-02",
-    "DatePixStarted": "2022-02-23 14:23:13",
+    "DatePixStarted": "2025-04-22 09:10:00",
     "DateRegistered": "2025-03-27T12:08:46.1786523+00:00",
-    "DateUpdated": "2025-03-27T12:08:45.1753923+00:00"
+    "DateUpdated": "2025-04-23T12:09:02.6884747+00:00"
   },
   {
     "COMPE": "694",
