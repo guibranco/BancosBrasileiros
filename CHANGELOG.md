@@ -4,6 +4,19 @@
 
 ## Changelog
 
+### 2025-04-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 513 - ATF SCD S.A. - 44.728.700/0001-72
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-04-25 10:36:24
+  - 527 - ATICCA SCD S.A. - 44.478.623/0001-40
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 674 - HINOVA PAY IP S.A. - 27.970.567/0001-47
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+
 ### 2025-04-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

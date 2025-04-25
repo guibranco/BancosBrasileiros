@@ -6222,7 +6222,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
-    <Url>https://www.deutsche-bank.com.br</Url>
+    <Url>https://country.db.com/brazil/index</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115354-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7442314Z</DateUpdated>
@@ -6460,6 +6460,7 @@
     <LongName>ATF SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>ATF SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6468,8 +6469,9 @@
     <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-02</DateOperationStarted>
+    <DatePixStarted>2025-04-25 10:36:24</DatePixStarted>
     <DateRegistered>2022-11-30T12:07:13.9849611Z</DateRegistered>
-    <DateUpdated>2024-07-01T12:31:48.6647509Z</DateUpdated>
+    <DateUpdated>2025-04-25T23:36:40.9756623Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>514</COMPE>
@@ -6698,12 +6700,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-06</DateOperationStarted>
     <DateRegistered>2023-03-03T14:56:55.3112612Z</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:55.3112613Z</DateUpdated>
+    <DateUpdated>2025-04-25T23:36:41.8226599Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>528</COMPE>
@@ -8848,13 +8850,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-12-12</DateOperationStarted>
     <DatePixStarted>2024-10-15 00:05:41</DatePixStarted>
     <DateRegistered>2024-12-06T12:08:41.1206753Z</DateRegistered>
-    <DateUpdated>2024-12-06T12:08:40.2615333Z</DateUpdated>
+    <DateUpdated>2025-04-25T23:36:41.8246542Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>676</COMPE>

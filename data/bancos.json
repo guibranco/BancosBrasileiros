@@ -7450,7 +7450,7 @@
     "ShortName": "ATF SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7461,9 +7461,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-12-02",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-04-25 10:36:24",
     "DateRegistered": "2022-11-30T12:07:13.9849611+00:00",
-    "DateUpdated": "2024-07-01T12:31:48.6647509+00:00"
+    "DateUpdated": "2025-04-25T23:36:40.9756623+00:00"
   },
   {
     "COMPE": "514",
@@ -7741,15 +7741,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-02-06",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-03T14:56:55.3112612+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112613+00:00"
+    "DateUpdated": "2025-04-25T23:36:41.8226599+00:00"
   },
   {
     "COMPE": "528",
@@ -10261,15 +10261,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-12-12",
     "DatePixStarted": "2024-10-15 00:05:41",
     "DateRegistered": "2024-12-06T12:08:41.1206753+00:00",
-    "DateUpdated": "2024-12-06T12:08:40.2615333+00:00"
+    "DateUpdated": "2025-04-25T23:36:41.8246542+00:00"
   },
   {
     "COMPE": "676",
