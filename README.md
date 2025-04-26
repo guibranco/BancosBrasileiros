@@ -1,21 +1,29 @@
 # Bancos Brasileiros
 
-🇧🇷 🏦 📋 Brazilian commercial banks list
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/logo.png" alt="Bancos Brasileiros logo" width="300"/>
+</p>
 
-[![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
-[![Daily updates](https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg)](https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml)
-[![Link checker](https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg)](https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml)
-[![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)](https://github.com/guibranco/BancosBrasileiros/)
-[![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)](https://github.com/guibranco/BancosBrasileiros/)
-[![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
+<p align="center">
+  🇧🇷 🏦 📋 <strong>Comprehensive Brazilian Financial Institutions Database</strong>
+</p>
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/2dfea6fc7a71e09ea7da/maintainability)](https://codeclimate.com/github/guibranco/BancosBrasileiros/maintainability)
-[![CodeFactor](https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge)](https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros)
-[![codebeat badge](https://codebeat.co/badges/6ca48409-5cda-48b2-844e-9248c2416865)](https://codebeat.co/projects/github-com-guibranco-bancosbrasileiros-main)
-[![Known Vulnerabilities](https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic)](https://snyk.io/test/github/guibranco/BancosBrasileiros)
-[![GitHub issues](https://img.shields.io/github/issues/guibranco/bancosbrasileiros)](https://github.com/guibranco/bancosbrasileiros/issues)
+<p align="center">
+  <a href="https://ci.appveyor.com/project/guibranco/bancosbrasileiros"><img src="https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true" alt="Build status"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg" alt="Daily updates"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg" alt="Link checker"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros" alt="GitHub last commit"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/license/guibranco/BancosBrasileiros" alt="GitHub license"></a>
+  <a href="https://wakatime.com/badge/github/guibranco/BancosBrasileiros"><img src="https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg" alt="time tracker"></a>
+</p>
 
-![Bancos Brasileiros logo](https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/logo.png)
+<p align="center">
+  <a href="https://codeclimate.com/github/guibranco/BancosBrasileiros/maintainability"><img src="https://api.codeclimate.com/v1/badges/2dfea6fc7a71e09ea7da/maintainability" alt="Maintainability"></a>
+  <a href="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros"><img src="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge" alt="CodeFactor"></a>
+  <a href="https://codebeat.co/projects/github-com-guibranco-bancosbrasileiros-main"><img src="https://codebeat.co/badges/6ca48409-5cda-48b2-844e-9248c2416865" alt="codebeat badge"></a>
+  <a href="https://snyk.io/test/github/guibranco/BancosBrasileiros"><img src="https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic" alt="Known Vulnerabilities"></a>
+  <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="GitHub issues"></a>
+</p>
 
 > [!Important]
 >
@@ -23,167 +31,156 @@
 
 ---
 
-## List of banks
+## 📖 Overview
 
-### Formats
+Bancos Brasileiros is a comprehensive database containing information on over 400 registered Brazilian financial institutions. The data is automatically updated daily from official sources using our [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool).
 
-This list contains 400+ registered banks, in the following formats:
+## 📊 Available Data Formats
 
-- **CSV**: [bancos.csv](/data/bancos.csv)
-- **JSON**: [bancos.json](/data/bancos.json)
-- **Markdown**: [bancos.md](/data/bancos.md)
-- **SQL**: [bancos.sql](/data/bancos.sql)
-- **XML**: [bancos.xml](/data/bancos.xml)
+The database is available in multiple formats to suit your needs:
 
-### Available data
+- [**CSV**](/data/bancos.csv) - For spreadsheet applications and data analysis
+- [**JSON**](/data/bancos.json) - For web applications and APIs
+- [**Markdown**](/data/bancos.md) - For documentation and GitHub projects
+- [**SQL**](/data/bancos.sql) - For database implementations
+- [**XML**](/data/bancos.xml) - For legacy systems and specific applications
 
-Each of the lists has the following information (schema):
+## 🏛️ Data Schema
 
-| Column | Description | Observations |
-|:------:|:-----------:|:------------:|
-| COMPE | Code - COMPE | 3 digits |
-| ISPB | Code - ISPB | 8 digits |
-| Document | Document - CNPJ | 14 numbers - 18 digits (formatted) |
-| LongName | Long name | According to BACEN - STR |
-| ShortName | Short name | According to BACEN - STR|
-| Network | Network | RSFN, Internet, null |
-| Type | Type | commercial, multiple, savings, null |
-| PixType | Type of PIX/SPI participant | DRCT - Directly, INDR - Indirectly, null |
-| Charge | If does charge operations | true, false, null |
-| CreditDocument | If does TED operations | true, false, null |
-| LegalCheque | If it belongs to the "Cheque Legal"  | true, false |
-| DetectaFlow | If it belongs to the "Detecta Flow" | true, false |
-| PCR | If it belongs to the "PCR" | true, false |
-| PCRP | If it belongs to the "PCRP" | true, false |
-| SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null |
-| Products | List of products offered | In Portuguese only |
-| Url | Website | - |
-| DateOperationStarted | Commercial operation start date | - |
-| DatePixStarted | PIX operation start date | Only for those PSP of SPI |
-| DateRegistered | Registration date on schema | - |
-| DateUpdated | Change date on schema | - |
+Each entry in the database contains the following information:
 
----
+| Field | Description | Format |
+|:------|:------------|:-------|
+| **COMPE** | Bank code (Clearing System) | 3 digits |
+| **ISPB** | Brazilian Payment System ID | 8 digits |
+| **Document** | CNPJ (Company Registration) | 14 numbers or 18 digits (formatted) |
+| **LongName** | Official institution name | As registered with BACEN/STR |
+| **ShortName** | Abbreviated name | As registered with BACEN/STR |
+| **Network** | Connection network type | RSFN, Internet, or null |
+| **Type** | Institution type | commercial, multiple, savings, or null |
+| **PixType** | PIX/SPI participation type | DRCT (Direct), INDR (Indirect), or null |
+| **Charge** | Supports charge operations | true, false, or null |
+| **CreditDocument** | Supports TED operations | true, false, or null |
+| **LegalCheque** | "Cheque Legal" participation | true or false |
+| **DetectaFlow** | "Detecta Flow" participation | true or false |
+| **PCR** | "PCR" participation | true or false |
+| **PCRP** | "PCRP" participation | true or false |
+| **SalaryPortability** | Salary portability support | "Banco folha e Destinatário" (both), "Destinatário" (receive only), or null |
+| **Products** | Offered financial products | List in Portuguese |
+| **Url** | Official website | URL format |
+| **DateOperationStarted** | Commercial operations start date | Date format |
+| **DatePixStarted** | PIX operations start date | Date format (PIX participants only) |
+| **DateRegistered** | Database entry creation date | Date format |
+| **DateUpdated** | Database entry last update | Date format |
 
-## Schemas and classes
+## 🛠️ Schema Files & Class Definitions
 
-A schema file is available in the folder [schemas](/schemas) for lists of type:
+### Schema Files
 
-- [JSON](schemas/schema.json)
-- [SQL](schemas/schema.sql)
-- [XML](schemas/schema.xml)
+Ready-to-use schema definitions are available in the [schemas](/schemas) folder:
 
-And classes (DTO - Data Transport Object) in the following languages:
+- [JSON Schema](/schemas/schema.json)
+- [SQL Schema](/schemas/schema.sql)
+- [XML Schema](/schemas/schema.xml)
 
-- [C#](/schemas/csharp.cs) <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-- [Dart](/schemas/dart.dart) <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" />
-- [Go](/schemas/go.go) <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-- [Java](/schemas/java.java) <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" />
-- [JavaScript](/schemas/javascript.js) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-- [Kotlin](/schemas/kotlin.kt) <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-- [PHP](/schemas/php.php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-- [Python](/schemas/python.py) <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-- [Rust](/schemas/rust.rs) <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-- [TypeScript](/schemas/typescript.ts) <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+### Class Definitions
 
----
+Use our pre-built class definitions in various programming languages:
 
-## Examples
+<div align="center">
 
-Implementation examples are available in the folder [examples](/examples). We currently have examples of the following technologies:
+| Language | File | |
+|:---------|:-----|:--|
+| [C#](/schemas/csharp.cs) | `Bank.cs` | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=dotnet&logoColor=white" /> |
+| [Dart](/schemas/dart.dart) | `bank.dart` | <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" /> |
+| [Go](/schemas/go.go) | `bank.go` | <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> |
+| [Java](/schemas/java.java) | `Bank.java` | <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" /> |
+| [JavaScript](/schemas/javascript.js) | `bank.js` | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> |
+| [Kotlin](/schemas/kotlin.kt) | `Bank.kt` | <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> |
+| [PHP](/schemas/php.php) | `Bank.php` | <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> |
+| [Python](/schemas/python.py) | `bank.py` | <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [Rust](/schemas/rust.rs) | `bank.rs` | <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> |
+| [TypeScript](/schemas/typescript.ts) | `bank.ts` | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> |
 
-- [Dart](/exAMPLES/dart/) <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" />
-- [.NET/C#](/examples/dotnet) <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-- [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
-- [PHP](/examples/php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</div>
 
-If you miss an example in the language, library, or framework, open an issue requesting an example project on the desired technology!
+## 📝 Implementation Examples
 
----
+Practical implementation examples are available in the [examples](/examples) folder:
 
-## Crates/Cargo - Rust Package Manager
+<div align="center">
+
+| Technology | Directory | |
+|:-----------|:----------|:--|
+| [Dart](/examples/dart/) | `/examples/dart/` | <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" /> |
+| [.NET/C#](/examples/dotnet) | `/examples/dotnet/` | <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=dotnet&logoColor=white" /> |
+| [EmberJS](/examples/emberjs) | `/examples/emberjs/` | <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" /> |
+| [PHP](/examples/php) | `/examples/php/` | <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> |
+
+</div>
+
+> [!Tip]
+> Need an example for a specific language or framework? [Open an issue](https://github.com/guibranco/bancosbrasileiros/issues) requesting it!
+
+## 📦 Package Manager Integrations
+
+### Rust Crates (Cargo)
 
 [![Crates.io](https://img.shields.io/crates/v/bancos_brasileiros.svg)](https://crates.io/crates/bancos_brasileiros)
-
-This repository is available at [Crates](https://crates.io) under the name [BancosBrasileiros](https://crates.io/crates/bancos_brasileiros).
-
-Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
 bancos_brasileiros = "0.1.0"
 ```
 
-## NPM - Node Package Manager
+### Node.js (NPM)
 
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
-This repository is available at [NPM](https://www.npmjs.com) under the name [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
-
-Thanks to [@RauppRafael](https://github.com/RauppRafael) for creating and publishing version 1.0.0 on NPM.
-
 ```bash
-
 npm i bancos-brasileiros
-
 ```
 
-## NuGet - Package Manager for .NET
+### .NET (NuGet)
 
 [![BancosBrasileiros NuGet Version](https://img.shields.io/nuget/v/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 [![BancosBrasileiros NuGet Downloads](https://img.shields.io/nuget/dt/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 
-This repository is available at [NuGet](https://www.nuget.org) under the name [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
-
 ```bash
-
 dotnet add package BancosBrasileiros
-
 ```
 
-## Packagist - Package Manager for PHP/Composer
+### PHP (Packagist)
 
 [![BancosBrasileiros Packagist Version](https://img.shields.io/packagist/v/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 [![BancosBrasileiros Packagist Downloads](https://img.shields.io/packagist/dt/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 
-This repository is available at [Packagist](https://packagist.org) under the name [guibranco/bancos-brasileiros](https://packagist.org/packages/guibranco/bancos-brasileiros)
-
 ```bash
-
 composer require guibranco/bancos-brasileiros
-
 ```
 
----
+## 📚 Financial System Acronyms
 
-## Acronyms and abbreviations
-
-For those unfamiliar with Brazilian financial/regulatory entities:
+Understanding the Brazilian financial system terminology:
 
 <!--START_SECTION:abbreviations-section-->
 <table width="100%"><tr><th>ABBC</th><td> Brazilian Banks Association</td></tr><tr><th>BCB</th><td> Central Bank of Brazil (regulatory authority)(also known as BACEN or BC)</td></tr><tr><th>CIP</th><td> Interbank Payment Chamber</td></tr><tr><th>CNPJ</th><td> National Register of Legal Entities - RFB</td></tr><tr><th>COMPE</th><td> Check and Other Papers Compensation System</td></tr><tr><th>CTC</th><td> Credit Transfer Center</td></tr><tr><th>CPF</th><td> Individual Taxpayer Registry - RFB</td></tr><tr><th>CVM</th><td> Securities and Exchange Commission</td></tr><tr><th>FEBRABAN</th><td> Brazilian Federation of Banks</td></tr><tr><th>ISPB</th><td> SPB identification</td></tr><tr><th>PCPS</th><td> Centralized Salary Portability Platform</td></tr><tr><th>PCR</th><td> Centralized Receivables Platform</td></tr><tr><th>PIX</th><td> Brazilian Instant Payments</td></tr><tr><th>RFB</th><td> Federal Revenue Service of Brazil</td></tr><tr><th>RSFN</th><td> National Financial System Network</td></tr><tr><th>SFN</th><td> National Financial System</td></tr><tr><th>SLC</th><td> Card Settlement Service</td></tr><tr><th>SILOC</th><td> Deferred Settlement System for Interbank Transfers of Credit Orders</td></tr><tr><th>SITRAF</th><td> Funds Transfer System</td></tr><tr><th>SPB</th><td> Brazilian Payment System</td></tr><tr><th>SPI</th><td> Instant Payment System</td></tr><tr><th>STR</th><td> Reserves Transfer System</td></tr></table>
 <!--END_SECTION:abbreviations-section-->
 
----
+## 🔄 Updates & Data Quality
 
-## Updates
-
-The data is automatically updated daily using a [tool](https://github.com/guibranco/BancosBrasileiros-MergeTool) that collects information from lists of official sources.
+The database is **automatically updated daily** using our [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool) that collects information from official sources.
 
 > [!Warning]
 >
-> If you find any issues with the data, missing database, or outdated data, please open an issue in this repository: [New Issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
+> Found missing or incorrect data? Please [open an issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
 
----
+## 📜 Changelog
 
-## Changelog
+View our complete [changelog](/CHANGELOG.md) for detailed update history.
 
-[Changelog](/CHANGELOG.md)
-
----
-
-## Contributors
+## 👨‍💻 Contributors
 
 <!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -start -->
 <table>
@@ -333,7 +330,7 @@ The data is automatically updated daily using a [tool](https://github.com/guibra
 </table>
 <!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -end -->
 
-## Bots
+### 🤖 Bots
 
 <!-- readme: snyk-bot,bots -start -->
 <table>
