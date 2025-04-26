@@ -89,7 +89,7 @@ Use our pre-built class definitions in various programming languages:
 
 <div align="center">
 
-| Language | File | |
+| Language | File | Badge |
 |:---------|:-----|:--|
 | [C#](/schemas/csharp.cs) | `Bank.cs` | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=dotnet&logoColor=white" /> |
 | [Dart](/schemas/dart.dart) | `bank.dart` | <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" /> |
@@ -110,7 +110,7 @@ Practical implementation examples are available in the [examples](/examples) fol
 
 <div align="center">
 
-| Technology | Directory | |
+| Technology | Directory | Badge |
 |:-----------|:----------|:--|
 | [Dart](/examples/dart/) | `/examples/dart/` | <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" /> |
 | [.NET/C#](/examples/dotnet) | `/examples/dotnet/` | <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=dotnet&logoColor=white" /> |
