@@ -1,175 +1,186 @@
 # Bancos Brasileiros
 
-🇧🇷 🏦 📋 Lista de bancos comerciais brasileiros
+<p align="center">
+  <img src="https://raw.githubusercontent.com/guibranco/BancosBrasileiros/main/logo.png" alt="Logotipo Bancos Brasileiros" width="300"/>
+</p>
 
-[![Build status](https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true)](https://ci.appveyor.com/project/guibranco/bancosbrasileiros)
-[![Daily updates](https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg)](https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml)
-[![Link checker](https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg)](https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml)
-[![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
-[![GitHub license](https://img.shields.io/github/license/guibranco/BancosBrasileiros)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
-[![time tracker](https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg)](https://wakatime.com/badge/github/guibranco/BancosBrasileiros)
+<p align="center">
+  🇧🇷 🏦 📋 <strong>Base de Dados Abrangente de Instituições Financeiras Brasileiras</strong>
+</p>
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/2dfea6fc7a71e09ea7da/maintainability)](https://codeclimate.com/github/guibranco/BancosBrasileiros/maintainability) [![CodeFactor](https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge)](https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros)
-[![codebeat badge](https://codebeat.co/badges/6ca48409-5cda-48b2-844e-9248c2416865)](https://codebeat.co/projects/github-com-guibranco-bancosbrasileiros-main)
-[![Known Vulnerabilities](https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic)](https://snyk.io/test/github/guibranco/BancosBrasileiros)
-[![GitHub issues](https://img.shields.io/github/issues/guibranco/bancosbrasileiros)](https://github.com/guibranco/bancosbrasileiros/issues)
+<p align="center">
+  <a href="https://ci.appveyor.com/project/guibranco/bancosbrasileiros"><img src="https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true" alt="Status da build"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg" alt="Atualizações diárias"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg" alt="Verificador de links"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros" alt="Último commit no GitHub"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/license/guibranco/BancosBrasileiros" alt="Licença do GitHub"></a>
+  <a href="https://wakatime.com/badge/github/guibranco/BancosBrasileiros"><img src="https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg" alt="rastreador de tempo"></a>
+</p>
 
-![Bancos Brasileiros logo](logo.png)
+<p align="center">
+  <a href="https://codeclimate.com/github/guibranco/BancosBrasileiros/maintainability"><img src="https://api.codeclimate.com/v1/badges/2dfea6fc7a71e09ea7da/maintainability" alt="Manutenibilidade"></a>
+  <a href="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros"><img src="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge" alt="CodeFactor"></a>
+  <a href="https://codebeat.co/projects/github-com-guibranco-bancosbrasileiros-main"><img src="https://codebeat.co/badges/6ca48409-5cda-48b2-844e-9248c2416865" alt="emblema codebeat"></a>
+  <a href="https://snyk.io/test/github/guibranco/BancosBrasileiros"><img src="https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic" alt="Vulnerabilidades Conhecidas"></a>
+  <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="Issues no GitHub"></a>
+</p>
 
-> [!Note]
+> [!Importante]
 >
-> For an English *(EN_US)* version of README.md, please [follow me](https://guibranco.github.io/BancosBrasileiros/).
+> Para a versão em inglês (EN_US) do README.md, [clique aqui](https://github.com/guibranco/BancosBrasileiros) por favor.
 
 ---
 
-## Lista de Bancos
+## 📖 Visão Geral
 
-### Formatos
+Bancos Brasileiros é uma base de dados abrangente contendo informações sobre mais de 400 instituições financeiras brasileiras registradas. Os dados são automaticamente atualizados diariamente a partir de fontes oficiais usando nossa [Ferramenta de Mesclagem](https://github.com/guibranco/BancosBrasileiros-MergeTool).
 
-Esta lista contém 400+ bancos cadastrados, nos seguintes formatos:
+## 📊 Formatos de Dados Disponíveis
 
-- **CSV**: [bancos.csv](/data/bancos.csv)
-- **JSON**: [bancos.json](/data/bancos.json)
-- **Markdown**: [bancos.md](/data/bancos.md)
-- **SQL**: [bancos.sql](/data/bancos.sql)
-- **XML**: [bancos.xml](/data/bancos.xml)
+A base de dados está disponível em múltiplos formatos para atender às suas necessidades:
 
-### Dados disponíves
+- [**CSV**](/data/bancos.csv) - Para aplicativos de planilha e análise de dados
+- [**JSON**](/data/bancos.json) - Para aplicações web e APIs
+- [**Markdown**](/data/bancos.md) - Para documentação e projetos no GitHub
+- [**SQL**](/data/bancos.sql) - Para implementações de banco de dados
+- [**XML**](/data/bancos.xml) - Para sistemas legados e aplicações específicas
 
-Cada uma das listas possui as seguintes informações (schema):
+## 🏛️ Esquema de Dados
 
-| Coluna | Descrição | Observações |
-|:------:|:---------:|:-----------:|
-| COMPE | Código - COMPE | 3 dígitos |
-| ISPB | Código - ISPB | 8 dígitos |
-| Document | Documento - CNPJ | 14 números - 18 dígitos (formatado) |
-| LongName | Nome extenso | Conforme BACEN - STR |
-| ShortName | Nome reduzido | Conforme BACEN - STR |
-| Network | Rede | RSFN, Internet, null |
-| Type | Tipo | comercial, múltiplo, caixa econômica, null |
-| PixType | Tipo de participante PIX/SPI | DRCT - Direto, INDR - Indireto, null |
-| Charge | Efetua cobrança | true, false, null |
-| CreditDocument | Efetua TED | true, false, null |
-| LegalCheque | Se pertence ao "Cheque Legal" | true, false |
-| Detecta Flow | Se pertence ao "Detecta Flow" | true, false |
-| PCR | Se pertence ao "PCR" | true, false |
-| PCRP | Se pertence ao "PCRP" | true, false |
-| SalaryPortability | Efetua/recebe portabilidade de salário | "Banco folha e Destinatário" - ambas as operações,  "Destinatário" - apenas recebe, null |
-| Products | Lista de produtos oferecidos | Apenas em português |
-| Url | Website | - |
-| DateOperationStarted | Data de início da operação comercial | - |
-| DatePixStarted | Data de início da operação PIX | Somente para PSP do SPI |
-| DateRegistered | Data de cadastro no schema | - |
-| DateUpdated | Data de alteração no schema | - |
+Cada entrada na base de dados contém as seguintes informações:
 
----
+| Campo | Descrição | Formato |
+|:------|:------------|:-------|
+| **COMPE** | Código do banco (Sistema de Compensação) | 3 dígitos |
+| **ISPB** | ID do Sistema de Pagamentos Brasileiro | 8 dígitos |
+| **Document** | CNPJ (Cadastro Nacional de Pessoa Jurídica) | 14 números ou 18 dígitos (formatado) |
+| **LongName** | Nome oficial da instituição | Conforme registrado no BACEN/STR |
+| **ShortName** | Nome abreviado | Conforme registrado no BACEN/STR |
+| **Network** | Tipo de rede de conexão | RSFN, Internet, ou nulo |
+| **Type** | Tipo de instituição | comercial, múltiplo, poupança, ou nulo |
+| **PixType** | Tipo de participação no PIX/SPI | DRCT (Direto), INDR (Indireto), ou nulo |
+| **Charge** | Suporta operações de cobrança | verdadeiro, falso, ou nulo |
+| **CreditDocument** | Suporta operações TED | verdadeiro, falso, ou nulo |
+| **LegalCheque** | Participação no "Cheque Legal" | verdadeiro ou falso |
+| **DetectaFlow** | Participação no "Detecta Flow" | verdadeiro ou falso |
+| **PCR** | Participação no "PCR" | verdadeiro ou falso |
+| **PCRP** | Participação no "PCRP" | verdadeiro ou falso |
+| **SalaryPortability** | Suporte à portabilidade salarial | "Banco folha e Destinatário" (ambos), "Destinatário" (apenas recebimento), ou nulo |
+| **Products** | Produtos financeiros oferecidos | Lista em português |
+| **Url** | Site oficial | Formato URL |
+| **DateOperationStarted** | Data de início das operações comerciais | Formato de data |
+| **DatePixStarted** | Data de início das operações PIX | Formato de data (apenas participantes PIX) |
+| **DateRegistered** | Data de criação da entrada no banco de dados | Formato de data |
+| **DateUpdated** | Última atualização da entrada no banco de dados | Formato de data |
 
-## Schemas e classes
+## 🛠️ Arquivos de Esquema e Definições de Classes
 
-Um arquivo de schema está disponível na pasta [schemas](/schemas) para as listas do tipo:
+### Arquivos de Esquema
 
-- [JSON](/schemas/schema.json)
-- [SQL](/schemas/schema.sql)
-- [XML](/schemas/schema.xml)
+Definições de esquema prontas para uso estão disponíveis na pasta [schemas](/schemas):
 
-E classes (DTO - Data Transport Object) das seguintes linguagens:
+- [Esquema JSON](/schemas/schema.json)
+- [Esquema SQL](/schemas/schema.sql)
+- [Esquema XML](/schemas/schema.xml)
 
-- [C#](/schemas/csharp.cs) <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white" />
-- [Dart](/schemas/dart.dart) <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" />
-- [Go](/schemas/go.go) <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-- [Java](/schemas/java.java) <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" />
-- [JavaScript](/schemas/javascript.js) <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
-- [Kotlin](/schemas/kotlin.kt) <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-- [PHP](/schemas/php.php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-- [Python](/schemas/python.py) <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-- [Rust](/schemas/rust.rs) <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-- [TypeScript](/schemas/typescript.ts) <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+### Definições de Classes
 
----
+Use nossas definições de classe pré-construídas em várias linguagens de programação:
 
-## Exemplos
+<div align="center">
 
-Exemplos de implementação estão disponíveis na pasta [examples](/examples), atualmente dispomos de exemplos nas seguintes tecnologias:
+| Linguagem | Arquivo | |
+|:---------|:-----|:--|
+| [C#](/schemas/csharp.cs) | `Bank.cs` | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=dotnet&logoColor=white" /> |
+| [Dart](/schemas/dart.dart) | `bank.dart` | <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" /> |
+| [Go](/schemas/go.go) | `bank.go` | <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> |
+| [Java](/schemas/java.java) | `Bank.java` | <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=OpenJDK&logoColor=white" /> |
+| [JavaScript](/schemas/javascript.js) | `bank.js` | <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> |
+| [Kotlin](/schemas/kotlin.kt) | `Bank.kt` | <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> |
+| [PHP](/schemas/php.php) | `Bank.php` | <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> |
+| [Python](/schemas/python.py) | `bank.py` | <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> |
+| [Rust](/schemas/rust.rs) | `bank.rs` | <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> |
+| [TypeScript](/schemas/typescript.ts) | `bank.ts` | <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> |
 
-- [Dart](/exAMPLES/dart/) <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" />
-- [.NET/C#](/examples/dotnet) <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-- [EmberJS](/examples/emberjs) <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" />
-- [PHP](/examples/php) <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</div>
 
-Caso sinta falta de um exemplo, na linguagem, biblioteca ou framework, abra uma issue solicitando um projeto de exemplo na tecnologia desejada!
+## 📝 Exemplos de Implementação
 
----
+Exemplos práticos de implementação estão disponíveis na pasta [examples](/examples):
 
-## NPM - Node Package Manager
+<div align="center">
+
+| Tecnologia | Diretório | |
+|:-----------|:----------|:--|
+| [Dart](/examples/dart/) | `/examples/dart/` | <img alt="Dart" src="https://img.shields.io/badge/-Dart-00C3B1?style=flat-square&logo=dart&logoColor=white" /> |
+| [.NET/C#](/examples/dotnet) | `/examples/dotnet/` | <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=dotnet&logoColor=white" /> |
+| [EmberJS](/examples/emberjs) | `/examples/emberjs/` | <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" /> |
+| [PHP](/examples/php) | `/examples/php/` | <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> |
+
+</div>
+
+> [!Dica]
+> Precisa de um exemplo para uma linguagem ou framework específico? [Abra uma issue](https://github.com/guibranco/bancosbrasileiros/issues) solicitando!
+
+## 📦 Integrações com Gerenciadores de Pacotes
+
+### Rust Crates (Cargo)
+
+[![Crates.io](https://img.shields.io/crates/v/bancos_brasileiros.svg)](https://crates.io/crates/bancos_brasileiros)
+
+```toml
+[dependencies]
+bancos_brasileiros = "0.1.0"
+```
+
+### Node.js (NPM)
 
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
-Este repositório está disponível no [NPM](https://www.npmjs.com) com o nome [bancos-brasileiros](https://www.npmjs.com/package/bancos-brasileiros).
-
-Um agradecimento ao [@RauppRafael](https://github.com/RauppRafael) por ter idealizado e criado a versão 1.0.0 no NPM.
-
 ```bash
-
 npm i bancos-brasileiros
-
 ```
 
-## NuGet - Package Manager for .NET
+### .NET (NuGet)
 
 [![BancosBrasileiros NuGet Version](https://img.shields.io/nuget/v/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 [![BancosBrasileiros NuGet Downloads](https://img.shields.io/nuget/dt/BancosBrasileiros.svg?style=flat)](https://www.nuget.org/packages/BancosBrasileiros/)
 
-Este repositório está disponível no [NuGet](https://www.nuget.org) com o nome [BancosBrasileiros](https://www.nuget.org/packages/BancosBrasileiros/).
-
 ```bash
-
 dotnet add package BancosBrasileiros
-
 ```
 
-## Packagist - Package Manager for PHP/Composer
+### PHP (Packagist)
 
 [![BancosBrasileiros Packagist Version](https://img.shields.io/packagist/v/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 [![BancosBrasileiros Packagist Downloads](https://img.shields.io/packagist/dt/guibranco/bancos-brasileiros.svg?style=flat)](https://packagist.org/packages/guibranco/bancos-brasileiros)
 
-ste repositório está disponível no  [Packagist](https://packagist.org) com o nome [guibranco/bancos-brasileiros](https://packagist.org/packages/guibranco/bancos-brasileiros)
-
 ```bash
-
 composer require guibranco/bancos-brasileiros
-
 ```
 
----
+## 📚 Siglas do Sistema Financeiro
 
-## Siglas e abreviações
-
-Para aqueles que não estão familiarizados com entidades financeiras/regulatórias brasileiras:
+Entendendo a terminologia do sistema financeiro brasileiro:
 
 <!--START_SECTION:abbreviations-section-->
-<table width="100%"><tr><th>ABBC</th><td> Associação Brasileira de Bancos</td></tr><tr><th>BCB</th><td> Banco Central do Brasil (autoridade reguladora) (também conhecido como BACEN ou BC)</td></tr><tr><th>CIP</th><td> Câmara Interbancária de Pagamentos</td></tr><tr><th>CNPJ</th><td> Cadastro Nacional de Pessoa Jurídica - RFB</td></tr><tr><th>COMPE</th><td> Sistema de Compensação de Cheques e Outros Papéis</td></tr><tr><th>CTC</th><td> Central de Transferência de Crédito</td></tr><tr><th>CPF</th><td> Cadastro de Pessoa Física - RFB</td></tr><tr><th>CVM</th><td> Comissão de Valores Mobiliários</td></tr><tr><th>FEBRABAN</th><td> Federação Brasileira de Bancos</td></tr><tr><th>ISPB</th><td> Identificação de SPB</td></tr><tr><th>PCPS</th><td> Plataforma Centralizada de Portabilidade de Salário</td></tr><tr><th>PCR</th><td> Plataforma Centralizada de Recebíveis</td></tr><tr><th>PIX</th><td> Pagamentos Instantâneos Brasileiro</td></tr><tr><th>RFB</th><td> Receita Federal do Brasil</td></tr><tr><th>RSFN</th><td> Rede do Sistema Financeiro Nacional</td></tr><tr><th>SFN</th><td> Sistema Financeiro Nacional</td></tr><tr><th>SLC</th><td> Serviço de Liquidação Cartões</td></tr><tr><th>SILOC</th><td> Sistema de Liquidação Diferida das Transferências Interbancárias de Ordens de Crédito</td></tr><tr><th>SITRAF</th><td> Sistema de Transferência de Fundos</td></tr><tr><th>SPB</th><td> Sistema de Pagamentos Brasileiro</td></tr><tr><th>SPI</th><td> Sistema de Pagamentos Instantâneos</td></tr><tr><th>STR</th><td> Sistema de Transferência de Reservas</td></tr></table>
+<table width="100%"><tr><th>ABBC</th><td> Associação Brasileira de Bancos</td></tr><tr><th>BCB</th><td> Banco Central do Brasil (autoridade reguladora)(também conhecido como BACEN ou BC)</td></tr><tr><th>CIP</th><td> Câmara Interbancária de Pagamentos</td></tr><tr><th>CNPJ</th><td> Cadastro Nacional da Pessoa Jurídica - RFB</td></tr><tr><th>COMPE</th><td> Sistema de Compensação de Cheques e Outros Papéis</td></tr><tr><th>CTC</th><td> Centro de Transferência de Crédito</td></tr><tr><th>CPF</th><td> Cadastro de Pessoas Físicas - RFB</td></tr><tr><th>CVM</th><td> Comissão de Valores Mobiliários</td></tr><tr><th>FEBRABAN</th><td> Federação Brasileira de Bancos</td></tr><tr><th>ISPB</th><td> Identificação SPB</td></tr><tr><th>PCPS</th><td> Plataforma Centralizada de Portabilidade de Salário</td></tr><tr><th>PCR</th><td> Plataforma Centralizada de Recebíveis</td></tr><tr><th>PIX</th><td> Pagamentos Instantâneos Brasileiros</td></tr><tr><th>RFB</th><td> Receita Federal do Brasil</td></tr><tr><th>RSFN</th><td> Rede do Sistema Financeiro Nacional</td></tr><tr><th>SFN</th><td> Sistema Financeiro Nacional</td></tr><tr><th>SLC</th><td> Serviço de Liquidação de Cartões</td></tr><tr><th>SILOC</th><td> Sistema de Liquidação Diferida das Transferências Interbancárias de Ordens de Crédito</td></tr><tr><th>SITRAF</th><td> Sistema de Transferência de Fundos</td></tr><tr><th>SPB</th><td> Sistema de Pagamentos Brasileiro</td></tr><tr><th>SPI</th><td> Sistema de Pagamentos Instantâneos</td></tr><tr><th>STR</th><td> Sistema de Transferência de Reservas</td></tr></table>
 <!--END_SECTION:abbreviations-section-->
 
----
+## 🔄 Atualizações e Qualidade dos Dados
 
-## Atualizações
+A base de dados é **atualizada automaticamente diariamente** usando nossa [Ferramenta de Mesclagem](https://github.com/guibranco/BancosBrasileiros-MergeTool) que coleta informações de fontes oficiais.
 
-Os dados são atualizados diariamente de forma automática por meio de uma [ferramenta](https://github.com/guibranco/BancosBrasileiros-MergeTool) que coleta as informações de listas de fontes oficiais.
-
-> [!Warning]
+> [!Aviso]
 >
-> Se você encontrar algum problema com os dados, banco ausente ou dados desatualizados, abra um issue neste repositório: [Novo Issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
+> Encontrou dados ausentes ou incorretos? Por favor [abra uma issue](https://github.com/guibranco/BancosBrasileiros/issues/new/choose)
 
----
+## 📜 Registro de Alterações
 
-## Changelog
+Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico detalhado de atualizações.
 
-[Changelog](/CHANGELOG.md)
-
----
-
-## Contributors
+## 👨‍💻 Contribuidores
 
 <!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -start -->
 <table>
@@ -319,7 +330,7 @@ Os dados são atualizados diariamente de forma automática por meio de uma [ferr
 </table>
 <!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -end -->
 
-## Bots
+### 🤖 Bots
 
 <!-- readme: snyk-bot,bots -start -->
 <table>
