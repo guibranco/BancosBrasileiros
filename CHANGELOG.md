@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-04-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 675 - BANQI - 30.723.871/0001-02
+
 ### 2025-04-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks

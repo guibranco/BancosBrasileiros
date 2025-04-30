@@ -8859,6 +8859,26 @@
     <DateUpdated>2025-04-25T23:36:41.8246542Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>675</COMPE>
+    <ISPB>30723871</ISPB>
+    <Document>30.723.871/0001-02</Document>
+    <LongName>BANQI INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>BANQI</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-05-07</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2025-04-30T12:08:51.4008729Z</DateRegistered>
+    <DateUpdated>2025-04-30T12:08:50.4656758Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>676</COMPE>
     <ISPB>35479592</ISPB>
     <Document>35.479.592/0001-50</Document>
