@@ -8785,7 +8785,7 @@
     <ISPB>26264220</ISPB>
     <Document>26.264.220/0001-16</Document>
     <LongName>ZERO INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
-    <ShortName>ZERO</ShortName>
+    <ShortName>COINWISE</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8798,7 +8798,7 @@
     <DateOperationStarted>2024-11-11</DateOperationStarted>
     <DatePixStarted>2023-11-17 12:11:31</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9188245Z</DateRegistered>
-    <DateUpdated>2025-04-08T12:08:51.8561807Z</DateUpdated>
+    <DateUpdated>2025-05-06T12:09:58.114545Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>672</COMPE>
