@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-05-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 671 - COINWISE - 26.264.220/0001-16
+    - **ShortName** (STR): ZERO **->** COINWISE
+
 ### 2025-04-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
