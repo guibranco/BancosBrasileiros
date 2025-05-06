@@ -10184,7 +10184,7 @@
     "ISPB": "26264220",
     "Document": "26.264.220/0001-16",
     "LongName": "ZERO INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "ZERO",
+    "ShortName": "COINWISE",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -10200,7 +10200,7 @@
     "DateOperationStarted": "2024-11-11",
     "DatePixStarted": "2023-11-17 12:11:31",
     "DateRegistered": "2024-11-20T12:08:13.9188245+00:00",
-    "DateUpdated": "2025-04-08T12:08:51.8561807+00:00"
+    "DateUpdated": "2025-05-06T12:09:58.114545+00:00"
   },
   {
     "COMPE": "672",
