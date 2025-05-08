@@ -4,6 +4,18 @@
 
 ## Changelog
 
+### 2025-05-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 482 - ARTTA SCD - 42.259.084/0001-22
+    - **LongName** (STR): SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A. **->** ARTTA SOCIEDADE DE CRÉDITO DIRETO S.A
+    - **ShortName** (STR): SBCASH SCD **->** ARTTA SCD
+  - 527 - ATICCA SCD S.A. - 44.478.623/0001-40
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-06-04 10:00:00
+  - 671 - ZERO IP - 26.264.220/0001-16
+    - **ShortName** (STR): COINWISE **->** ZERO IP
+
 ### 2025-05-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

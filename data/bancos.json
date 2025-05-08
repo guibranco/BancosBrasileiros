@@ -7101,8 +7101,8 @@
     "COMPE": "482",
     "ISPB": "42259084",
     "Document": "42.259.084/0001-22",
-    "LongName": "SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "SBCASH SCD",
+    "LongName": "ARTTA SOCIEDADE DE CRÉDITO DIRETO S.A",
+    "ShortName": "ARTTA SCD",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -7118,7 +7118,7 @@
     "DateOperationStarted": "2022-10-11",
     "DatePixStarted": "2024-12-11 11:00:00",
     "DateRegistered": "2022-10-04T12:08:42.7066127+00:00",
-    "DateUpdated": "2024-12-05T12:08:35.7132602+00:00"
+    "DateUpdated": "2025-05-08T12:09:16.9664546+00:00"
   },
   {
     "COMPE": "484",
@@ -7736,7 +7736,7 @@
     "ShortName": "ATICCA SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7747,9 +7747,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-02-06",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-06-04 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112612+00:00",
-    "DateUpdated": "2025-04-25T23:36:41.8226599+00:00"
+    "DateUpdated": "2025-05-08T12:09:18.4155839+00:00"
   },
   {
     "COMPE": "528",
@@ -10184,7 +10184,7 @@
     "ISPB": "26264220",
     "Document": "26.264.220/0001-16",
     "LongName": "ZERO INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "COINWISE",
+    "ShortName": "ZERO IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -10200,7 +10200,7 @@
     "DateOperationStarted": "2024-11-11",
     "DatePixStarted": "2023-11-17 12:11:31",
     "DateRegistered": "2024-11-20T12:08:13.9188245+00:00",
-    "DateUpdated": "2025-05-06T12:09:58.114545+00:00"
+    "DateUpdated": "2025-05-08T12:09:16.9636507+00:00"
   },
   {
     "COMPE": "672",

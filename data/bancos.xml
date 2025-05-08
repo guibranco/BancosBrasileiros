@@ -6174,8 +6174,8 @@
     <COMPE>482</COMPE>
     <ISPB>42259084</ISPB>
     <Document>42.259.084/0001-22</Document>
-    <LongName>SBCASH SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>SBCASH SCD</ShortName>
+    <LongName>ARTTA SOCIEDADE DE CRÉDITO DIRETO S.A</LongName>
+    <ShortName>ARTTA SCD</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6188,7 +6188,7 @@
     <DateOperationStarted>2022-10-11</DateOperationStarted>
     <DatePixStarted>2024-12-11 11:00:00</DatePixStarted>
     <DateRegistered>2022-10-04T12:08:42.7066127Z</DateRegistered>
-    <DateUpdated>2024-12-05T12:08:35.7132602Z</DateUpdated>
+    <DateUpdated>2025-05-08T12:09:16.9664546Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>484</COMPE>
@@ -6696,6 +6696,7 @@
     <LongName>ATICCA - SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>ATICCA SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6704,8 +6705,9 @@
     <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-06</DateOperationStarted>
+    <DatePixStarted>2025-06-04 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112612Z</DateRegistered>
-    <DateUpdated>2025-04-25T23:36:41.8226599Z</DateUpdated>
+    <DateUpdated>2025-05-08T12:09:18.4155839Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>528</COMPE>
@@ -8785,7 +8787,7 @@
     <ISPB>26264220</ISPB>
     <Document>26.264.220/0001-16</Document>
     <LongName>ZERO INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
-    <ShortName>COINWISE</ShortName>
+    <ShortName>ZERO IP</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8798,7 +8800,7 @@
     <DateOperationStarted>2024-11-11</DateOperationStarted>
     <DatePixStarted>2023-11-17 12:11:31</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9188245Z</DateRegistered>
-    <DateUpdated>2025-05-06T12:09:58.114545Z</DateUpdated>
+    <DateUpdated>2025-05-08T12:09:16.9636507Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>672</COMPE>
