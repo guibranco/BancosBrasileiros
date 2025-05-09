@@ -28,7 +28,7 @@ jobs:
 
       - name: Restore
         run: dotnet restore
- 
+
       - name: Build
         run: dotnet build --configuration Release --no-restore
 
@@ -39,13 +39,13 @@ jobs:
           DOTNET_SYSTEM_CONSOLE_ALLOW_ANSI_COLOR_REDIRECTION: 1
           TERM: xterm
         run: |
-            set +e
-            cd BancosBrasileiros.MergeTool
-            dotnet run --configuration Release
-            exitcode="$?"
-            echo "exitcode=$exitcode" >> $GITHUB_ENV
-            echo "exitcode=$exitcode" >> $GITHUB_OUTPUT
-            exit "$exitcode"
+          set +e
+          cd BancosBrasileiros.MergeTool
+          dotnet run --configuration Release
+          exitcode="$?"
+          echo "exitcode=$exitcode" >> $GITHUB_ENV
+          echo "exitcode=$exitcode" >> $GITHUB_OUTPUT
+          exit "$exitcode"
 
       - name: Send webhook
         if: env.exitcode != 0 && env.exitcode != 187
@@ -77,6 +77,11 @@ jobs:
         with:
           name: releaseNotesFile
           path: ./BancosBrasileiros.MergeTool/result/release-notes.md
+
+      - name: Exit with error if needed
+        if: env.exitcode != 0 && env.exitcode != 187
+        run: |
+          exit ${{ env.exitcode }}
 
   update:
     name: Update
