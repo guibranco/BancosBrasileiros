@@ -43,7 +43,7 @@ jobs:
           sudo wg-quick up ./wg0.conf
       
       - name: Run lychee
-        uses: lycheeverse/lychee-action@v2.4.0
+        uses: lycheeverse/lychee-action@v2.4.1
         id: lychee
         with:
           args: "--base . --cache --max-cache-age 1d ."
