@@ -4,6 +4,30 @@
 
 ## Changelog
 
+### 2025-05-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 689 - NVIO BRASIL SCD S.A. - 51.118.718/0001-18
+- Updated 6 banks
+  - 177 - SAFRA CTVM - 65.913.436/0001-17
+    - **LongName** (STR): Guide Investimentos S.A. Corretora de Valores **->** SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): GUIDE **->** SAFRA CTVM
+  - 588 - PROVER PROMOCAO DE VENDAS IP LTDA. - 20.308.187/0001-00
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-05-22 09:00:00
+  - 666 - URBANO S.A. SCFI - 53.842.122/0001-91
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-06-02 09:00:00
+  - 671 - ZERO IP - 26.264.220/0001-16
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2023-11-17 12:11:31 **->** 2025-05-16 10:10:00
+  - 675 - BANQI - 30.723.871/0001-02
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 694 - WOOVI IP LTDA. - 54.811.417/0001-63
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-05-13 09:00:00
+
 ### 2025-05-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks

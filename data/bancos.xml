@@ -2106,8 +2106,8 @@
     <COMPE>177</COMPE>
     <ISPB>65913436</ISPB>
     <Document>65.913.436/0001-17</Document>
-    <LongName>Guide Investimentos S.A. Corretora de Valores</LongName>
-    <ShortName>GUIDE</ShortName>
+    <LongName>SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>SAFRA CTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2118,7 +2118,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-05-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115361-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115363-03:00</DateUpdated>
+    <DateUpdated>2025-05-21T12:09:22.1123529Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>180</COMPE>
@@ -7804,6 +7804,7 @@
     <LongName>PROVER PROMOCAO DE VENDAS INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>PROVER PROMOCAO DE VENDAS IP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7812,8 +7813,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-04</DateOperationStarted>
+    <DatePixStarted>2025-05-22 09:00:00</DatePixStarted>
     <DateRegistered>2024-02-27T12:05:53.2736229Z</DateRegistered>
-    <DateUpdated>2024-02-27T12:05:53.2736418Z</DateUpdated>
+    <DateUpdated>2025-05-21T12:09:23.1445857Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>589</COMPE>
@@ -8735,6 +8737,7 @@
     <LongName>URBANO S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>URBANO S.A. SCFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8743,8 +8746,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-12-23</DateOperationStarted>
+    <DatePixStarted>2025-06-02 09:00:00</DatePixStarted>
     <DateRegistered>2024-12-17T12:08:44.2545545Z</DateRegistered>
-    <DateUpdated>2024-12-17T12:08:44.254587Z</DateUpdated>
+    <DateUpdated>2025-05-21T12:09:23.3842016Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>667</COMPE>
@@ -8789,7 +8793,7 @@
     <LongName>ZERO INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>ZERO IP</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8798,9 +8802,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-11-11</DateOperationStarted>
-    <DatePixStarted>2023-11-17 12:11:31</DatePixStarted>
+    <DatePixStarted>2025-05-16 10:10:00</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9188245Z</DateRegistered>
-    <DateUpdated>2025-05-08T12:09:16.9636507Z</DateUpdated>
+    <DateUpdated>2025-05-21T12:09:23.2004629Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>672</COMPE>
@@ -8872,13 +8876,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-05-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2025-04-30T12:08:51.4008729Z</DateRegistered>
-    <DateUpdated>2025-04-30T12:08:50.4656758Z</DateUpdated>
+    <DateUpdated>2025-05-21T12:09:24.175717Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>676</COMPE>
@@ -9009,6 +9013,24 @@
     <DateUpdated>2025-04-09T12:08:48.4736154Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>689</COMPE>
+    <ISPB>51118718</ISPB>
+    <Document>51.118.718/0001-18</Document>
+    <LongName>NVIO BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>NVIO BRASIL SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-05-16</DateOperationStarted>
+    <DateRegistered>2025-05-21T12:09:24.1773208Z</DateRegistered>
+    <DateUpdated>2025-05-21T12:09:24.1773377Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>690</COMPE>
     <ISPB>16814330</ISPB>
     <Document>16.814.330/0001-50</Document>
@@ -9035,6 +9057,7 @@
     <LongName>WOOVI INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>WOOVI IP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9043,8 +9066,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-04-07</DateOperationStarted>
+    <DatePixStarted>2025-05-13 09:00:00</DatePixStarted>
     <DateRegistered>2025-04-02T12:08:49.3605006Z</DateRegistered>
-    <DateUpdated>2025-04-02T12:08:49.3605284Z</DateUpdated>
+    <DateUpdated>2025-05-21T12:09:23.3887152Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>

@@ -2398,8 +2398,8 @@
     "COMPE": "177",
     "ISPB": "65913436",
     "Document": "65.913.436/0001-17",
-    "LongName": "Guide Investimentos S.A. Corretora de Valores",
-    "ShortName": "GUIDE",
+    "LongName": "SAFRA ASSET CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "SAFRA CTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2415,7 +2415,7 @@
     "DateOperationStarted": "2017-05-08",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115361-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115363-03:00"
+    "DateUpdated": "2025-05-21T12:09:22.1123529+00:00"
   },
   {
     "COMPE": "180",
@@ -9067,7 +9067,7 @@
     "ShortName": "PROVER PROMOCAO DE VENDAS IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9078,9 +9078,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-03-04",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-05-22 09:00:00",
     "DateRegistered": "2024-02-27T12:05:53.2736229+00:00",
-    "DateUpdated": "2024-02-27T12:05:53.2736418+00:00"
+    "DateUpdated": "2025-05-21T12:09:23.1445857+00:00"
   },
   {
     "COMPE": "589",
@@ -10118,7 +10118,7 @@
     "ShortName": "URBANO S.A. SCFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10129,9 +10129,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-12-23",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-06-02 09:00:00",
     "DateRegistered": "2024-12-17T12:08:44.2545545+00:00",
-    "DateUpdated": "2024-12-17T12:08:44.254587+00:00"
+    "DateUpdated": "2025-05-21T12:09:23.3842016+00:00"
   },
   {
     "COMPE": "667",
@@ -10187,7 +10187,7 @@
     "ShortName": "ZERO IP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10198,9 +10198,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-11-11",
-    "DatePixStarted": "2023-11-17 12:11:31",
+    "DatePixStarted": "2025-05-16 10:10:00",
     "DateRegistered": "2024-11-20T12:08:13.9188245+00:00",
-    "DateUpdated": "2025-05-08T12:09:16.9636507+00:00"
+    "DateUpdated": "2025-05-21T12:09:23.2004629+00:00"
   },
   {
     "COMPE": "672",
@@ -10284,15 +10284,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-05-07",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2025-04-30T12:08:51.4008729+00:00",
-    "DateUpdated": "2025-04-30T12:08:50.4656758+00:00"
+    "DateUpdated": "2025-05-21T12:09:24.175717+00:00"
   },
   {
     "COMPE": "676",
@@ -10456,6 +10456,29 @@
     "DateUpdated": "2025-04-09T12:08:48.4736154+00:00"
   },
   {
+    "COMPE": "689",
+    "ISPB": "51118718",
+    "Document": "51.118.718/0001-18",
+    "LongName": "NVIO BRASIL SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "NVIO BRASIL SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-05-16",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-05-21T12:09:24.1773208+00:00",
+    "DateUpdated": "2025-05-21T12:09:24.1773377+00:00"
+  },
+  {
     "COMPE": "690",
     "ISPB": "16814330",
     "Document": "16.814.330/0001-50",
@@ -10486,7 +10509,7 @@
     "ShortName": "WOOVI IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10497,9 +10520,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-04-07",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-05-13 09:00:00",
     "DateRegistered": "2025-04-02T12:08:49.3605006+00:00",
-    "DateUpdated": "2025-04-02T12:08:49.3605284+00:00"
+    "DateUpdated": "2025-05-21T12:09:23.3887152+00:00"
   },
   {
     "COMPE": "707",
