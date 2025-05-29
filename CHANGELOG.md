@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-05-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 714 - FINAMAX S.A. CFI - 00.411.939/0001-49
+
 ### 2025-05-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
