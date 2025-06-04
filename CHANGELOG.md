@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 687 - INCO SEP S.A. - 35.340.796/0001-06
+
 ### 2025-05-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

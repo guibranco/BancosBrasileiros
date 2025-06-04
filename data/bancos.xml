@@ -8995,6 +8995,24 @@
     <DateUpdated>2025-03-05T12:08:36.9762761Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>687</COMPE>
+    <ISPB>35340796</ISPB>
+    <Document>35.340.796/0001-06</Document>
+    <LongName>INCO SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.</LongName>
+    <ShortName>INCO SEP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-06-10</DateOperationStarted>
+    <DateRegistered>2025-06-04T12:09:36.0386299Z</DateRegistered>
+    <DateUpdated>2025-06-04T12:09:36.0386488Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>688</COMPE>
     <ISPB>43978697</ISPB>
     <Document>43.978.697/0001-82</Document>
