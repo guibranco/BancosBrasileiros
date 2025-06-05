@@ -9568,4 +9568,22 @@
     <DateRegistered>2025-04-10T12:08:45.4443815Z</DateRegistered>
     <DateUpdated>2025-04-10T12:08:45.4444218Z</DateUpdated>
   </bank>
+  <bank>
+    <COMPE>762</COMPE>
+    <ISPB>44064068</ISPB>
+    <Document>44.064.068/0001-00</Document>
+    <LongName>OPPENS SOCIEDADE DE EMPRESTIMO ENTRE PESSOAS S.A</LongName>
+    <ShortName>OPPENS SEP S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-06-11</DateOperationStarted>
+    <DateRegistered>2025-06-05T12:09:51.0317057Z</DateRegistered>
+    <DateUpdated>2025-06-05T12:09:51.0317347Z</DateUpdated>
+  </bank>
 </banks>

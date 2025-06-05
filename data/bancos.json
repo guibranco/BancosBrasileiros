@@ -11069,5 +11069,28 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-04-10T12:08:45.4443815+00:00",
     "DateUpdated": "2025-04-10T12:08:45.4444218+00:00"
+  },
+  {
+    "COMPE": "762",
+    "ISPB": "44064068",
+    "Document": "44.064.068/0001-00",
+    "LongName": "OPPENS SOCIEDADE DE EMPRESTIMO ENTRE PESSOAS S.A",
+    "ShortName": "OPPENS SEP S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-06-11",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-06-05T12:09:51.0317057+00:00",
+    "DateUpdated": "2025-06-05T12:09:51.0317347+00:00"
   }
 ]

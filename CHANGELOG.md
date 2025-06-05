@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-06-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 762 - OPPENS SEP S.A. - 44.064.068/0001-00
+
 ### 2025-06-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
