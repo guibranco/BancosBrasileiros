@@ -8945,6 +8945,7 @@
     <LongName>MT INSTITUICAO DE PAGAMENTO SA</LongName>
     <ShortName>MT IP S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8953,8 +8954,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-04-10</DateOperationStarted>
+    <DatePixStarted>2025-06-10 09:00:00</DatePixStarted>
     <DateRegistered>2025-04-04T12:08:42.9013824Z</DateRegistered>
-    <DateUpdated>2025-04-04T12:08:42.9014011Z</DateUpdated>
+    <DateUpdated>2025-06-06T12:09:16.3804336Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>682</COMPE>

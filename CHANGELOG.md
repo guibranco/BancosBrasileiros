@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-06-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 681 - MT IP S.A. - 50.871.921/0001-06
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-06-10 09:00:00
+
 ### 2025-06-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

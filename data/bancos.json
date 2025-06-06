@@ -10371,7 +10371,7 @@
     "ShortName": "MT IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10382,9 +10382,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-04-10",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-06-10 09:00:00",
     "DateRegistered": "2025-04-04T12:08:42.9013824+00:00",
-    "DateUpdated": "2025-04-04T12:08:42.9014011+00:00"
+    "DateUpdated": "2025-06-06T12:09:16.3804336+00:00"
   },
   {
     "COMPE": "682",
