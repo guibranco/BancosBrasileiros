@@ -1,4 +1,5 @@
 ﻿# Bancos Brasileiros
+# Checking file content to locate broken links
 
 COMPE | ISPB | Document | Long Name | Short Name | Network | Type | PIX Type | Charge | Credit Document | Legal Cheque | Detecta Flow | PCR | PCRP | Salary Portability | Products | Url | Date Operation Started | Date PIX Started | Date Registered | Date Updated
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
