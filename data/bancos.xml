@@ -9091,6 +9091,24 @@
     <DateUpdated>2025-05-21T12:09:23.3887152Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>701</COMPE>
+    <ISPB>51118615</ISPB>
+    <Document>51.118.615/0001-58</Document>
+    <LongName>INTEGRAÇÃO DE CRÉDITO E COBRANÇA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-06-20</DateOperationStarted>
+    <DateRegistered>2025-06-13T12:09:22.5824913Z</DateRegistered>
+    <DateUpdated>2025-06-13T12:09:22.5825346Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>707</COMPE>
     <ISPB>62232889</ISPB>
     <Document>62.232.889/0001-90</Document>
