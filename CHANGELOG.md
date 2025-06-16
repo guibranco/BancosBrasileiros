@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-06-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 678 - FIDEM SCD S/A - 45.716.916/0001-80
+
 ### 2025-06-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
