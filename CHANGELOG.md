@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-06-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 65 - BCO ANDBANK S.A. - 48.795.256/0001-69
+    - **Products** (CTC): Null **->** Capita de Giro PJ, Crédito Consignado, Crédito Imobiliário, Crédito Pessoal, Financiamento de Veículos, Troca de Modalidade
+
 ### 2025-06-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

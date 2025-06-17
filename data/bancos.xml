@@ -640,10 +640,18 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Capita de Giro PJ</Product>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Imobiliário</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Financiamento de Veículos</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711518-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4025314Z</DateUpdated>
+    <DateUpdated>2025-06-17T12:10:04.1767837Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>066</COMPE>

@@ -706,12 +706,19 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Capita de Giro PJ",
+      "Crédito Consignado",
+      "Crédito Imobiliário",
+      "Crédito Pessoal",
+      "Financiamento de Veículos",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711518-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4025314+00:00"
+    "DateUpdated": "2025-06-17T12:10:04.1767837+00:00"
   },
   {
     "COMPE": "066",
