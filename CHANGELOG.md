@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-06-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 764 - INDEPENDÊNCIA CC - 04.306.351/0001-86
+
 ### 2025-06-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

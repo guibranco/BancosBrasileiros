@@ -11145,5 +11145,28 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-06-05T12:09:51.0317057+00:00",
     "DateUpdated": "2025-06-05T12:09:51.0317347+00:00"
+  },
+  {
+    "COMPE": "764",
+    "ISPB": "04306351",
+    "Document": "04.306.351/0001-86",
+    "LongName": "INDEPENDÊNCIA COOPERATIVA DE CRÉDITO E INVESTIMENTO - INDEPENDÊNCIA COOPERATIVA DE CRÉDITO",
+    "ShortName": "INDEPENDÊNCIA CC",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-06-23",
+    "DatePixStarted": "2024-05-24 09:52:22",
+    "DateRegistered": "2025-06-18T12:09:53.9567507+00:00",
+    "DateUpdated": "2025-06-18T12:09:52.6472819+00:00"
   }
 ]

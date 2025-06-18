@@ -9632,4 +9632,24 @@
     <DateRegistered>2025-06-05T12:09:51.0317057Z</DateRegistered>
     <DateUpdated>2025-06-05T12:09:51.0317347Z</DateUpdated>
   </bank>
+  <bank>
+    <COMPE>764</COMPE>
+    <ISPB>04306351</ISPB>
+    <Document>04.306.351/0001-86</Document>
+    <LongName>INDEPENDÊNCIA COOPERATIVA DE CRÉDITO E INVESTIMENTO - INDEPENDÊNCIA COOPERATIVA DE CRÉDITO</LongName>
+    <ShortName>INDEPENDÊNCIA CC</ShortName>
+    <Network>Internet</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-06-23</DateOperationStarted>
+    <DatePixStarted>2024-05-24 09:52:22</DatePixStarted>
+    <DateRegistered>2025-06-18T12:09:53.9567507Z</DateRegistered>
+    <DateUpdated>2025-06-18T12:09:52.6472819Z</DateUpdated>
+  </bank>
 </banks>
