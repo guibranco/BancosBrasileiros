@@ -9003,6 +9003,24 @@
     <DateUpdated>2025-01-28T12:33:58.5362384Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>684</COMPE>
+    <ISPB>56392166</ISPB>
+    <Document>56.392.166/0001-55</Document>
+    <LongName>PLUG FINANCEIRA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>PLUG FINANCEIRA S.A. SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-06-24</DateOperationStarted>
+    <DateRegistered>2025-06-20T12:09:27.4967752Z</DateRegistered>
+    <DateUpdated>2025-06-20T12:09:27.4967938Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>685</COMPE>
     <ISPB>26615279</ISPB>
     <Document>26.615.279/0001-01</Document>

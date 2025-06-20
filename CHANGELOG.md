@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-06-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 684 - PLUG FINANCEIRA S.A. SCFI - 56.392.166/0001-55
+
 ### 2025-06-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
