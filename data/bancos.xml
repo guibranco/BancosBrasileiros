@@ -9115,6 +9115,24 @@
     <DateUpdated>2025-04-23T12:09:02.6884747Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>692</COMPE>
+    <ISPB>56198117</ISPB>
+    <Document>56.198.117/0001-86</Document>
+    <LongName>SQUID SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>SQUID SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-06-27</DateOperationStarted>
+    <DateRegistered>2025-06-23T12:09:36.2371877Z</DateRegistered>
+    <DateUpdated>2025-06-23T12:09:36.2372141Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>694</COMPE>
     <ISPB>54811417</ISPB>
     <Document>54.811.417/0001-63</Document>

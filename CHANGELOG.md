@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-06-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 692 - SQUID SCD S.A. - 56.198.117/0001-86
+
 ### 2025-06-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
