@@ -7439,15 +7439,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-08-01",
     "DatePixStarted": null,
     "DateRegistered": "2022-07-20T12:06:03.4386093+00:00",
-    "DateUpdated": "2022-11-04T12:08:27.675962+00:00"
+    "DateUpdated": "2025-06-24T12:09:37.5744375+00:00"
   },
   {
     "COMPE": "513",

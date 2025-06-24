@@ -6454,12 +6454,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-08-01</DateOperationStarted>
     <DateRegistered>2022-07-20T12:06:03.4386093Z</DateRegistered>
-    <DateUpdated>2022-11-04T12:08:27.675962Z</DateUpdated>
+    <DateUpdated>2025-06-24T12:09:37.5744375Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>513</COMPE>
