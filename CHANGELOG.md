@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-06-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 643 - BCO PINE S.A. - 62.144.175/0001-20
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-07-02 10:00:00
+
 ### 2025-06-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
