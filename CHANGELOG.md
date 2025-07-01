@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-07-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 549 - INTRA DTVM - 15.489.568/0001-95
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-08-18 10:00:00
+
 ### 2025-06-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

@@ -7143,6 +7143,7 @@
     <LongName>INTRA INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
     <ShortName>INTRA DTVM</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7151,8 +7152,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-06-19</DateOperationStarted>
+    <DatePixStarted>2025-08-18 10:00:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347533Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.1347533Z</DateUpdated>
+    <DateUpdated>2025-07-01T12:42:05.3857962Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>550</COMPE>

@@ -8262,7 +8262,7 @@
     "ShortName": "INTRA DTVM",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8273,9 +8273,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-06-19",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-08-18 10:00:00",
     "DateRegistered": "2023-09-25T12:28:25.1347533+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.1347533+00:00"
+    "DateUpdated": "2025-07-01T12:42:05.3857962+00:00"
   },
   {
     "COMPE": "550",
