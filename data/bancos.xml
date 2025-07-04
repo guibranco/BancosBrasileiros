@@ -8314,13 +8314,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-10-03</DateOperationStarted>
     <DatePixStarted>2024-10-03 07:07:47</DatePixStarted>
     <DateRegistered>2024-09-27T12:08:07.9907432Z</DateRegistered>
-    <DateUpdated>2024-10-04T12:08:01.0865649Z</DateUpdated>
+    <DateUpdated>2025-07-04T12:09:22.3434004Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>633</COMPE>
@@ -8494,7 +8494,7 @@
     <LongName>PAGARE INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>PAGARE IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8503,9 +8503,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-08-28</DateOperationStarted>
-    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DatePixStarted>2025-07-03 15:10:00</DatePixStarted>
     <DateRegistered>2024-08-22T12:07:02.8349554Z</DateRegistered>
-    <DateUpdated>2024-08-22T12:07:01.9508737Z</DateUpdated>
+    <DateUpdated>2025-07-04T12:09:21.3093606Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>652</COMPE>

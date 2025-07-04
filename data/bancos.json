@@ -9634,15 +9634,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-10-03",
     "DatePixStarted": "2024-10-03 07:07:47",
     "DateRegistered": "2024-09-27T12:08:07.9907432+00:00",
-    "DateUpdated": "2024-10-04T12:08:01.0865649+00:00"
+    "DateUpdated": "2025-07-04T12:09:22.3434004+00:00"
   },
   {
     "COMPE": "633",
@@ -9834,7 +9834,7 @@
     "ShortName": "PAGARE IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9845,9 +9845,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-08-28",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2025-07-03 15:10:00",
     "DateRegistered": "2024-08-22T12:07:02.8349554+00:00",
-    "DateUpdated": "2024-08-22T12:07:01.9508737+00:00"
+    "DateUpdated": "2025-07-04T12:09:21.3093606+00:00"
   },
   {
     "COMPE": "652",

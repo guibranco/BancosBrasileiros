@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-07-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 632 - Z-ON SCD S.A. - 52.586.293/0001-34
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 651 - PAGARE IP S.A. - 25.104.230/0001-21
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-07-03 15:10:00
+
 ### 2025-07-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
