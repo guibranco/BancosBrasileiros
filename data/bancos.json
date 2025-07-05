@@ -4792,7 +4792,7 @@
     "ShortName": "SINGULARE CTVM S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -4803,9 +4803,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2020-06-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-07-10 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115346-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115348-03:00"
+    "DateUpdated": "2025-07-05T12:10:18.7428509+00:00"
   },
   {
     "COMPE": "364",

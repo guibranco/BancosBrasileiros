@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 363 - SINGULARE CTVM S.A. - 62.285.390/0001-40
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-07-10 10:00:00
+
 ### 2025-07-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

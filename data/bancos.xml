@@ -4180,6 +4180,7 @@
     <LongName>SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
     <ShortName>SINGULARE CTVM S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -4188,8 +4189,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-06-01</DateOperationStarted>
+    <DatePixStarted>2025-07-10 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115346-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115348-03:00</DateUpdated>
+    <DateUpdated>2025-07-05T12:10:18.7428509Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>364</COMPE>
