@@ -18,7 +18,6 @@
 </p>
 
 <p align="center">
-  <a href="https://codeclimate.com/github/guibranco/BancosBrasileiros/maintainability"><img src="https://api.codeclimate.com/v1/badges/2dfea6fc7a71e09ea7da/maintainability" alt="Maintainability"></a>
   <a href="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros"><img src="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge" alt="CodeFactor"></a>
   <a href="https://codebeat.co/projects/github-com-guibranco-bancosbrasileiros-main"><img src="https://codebeat.co/badges/6ca48409-5cda-48b2-844e-9248c2416865" alt="codebeat badge"></a>
   <a href="https://snyk.io/test/github/guibranco/BancosBrasileiros"><img src="https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic" alt="Known Vulnerabilities"></a>
