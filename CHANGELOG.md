@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-07-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 698 - BIT SCD S.A. - 58.367.961/0001-19
+
 ### 2025-07-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
