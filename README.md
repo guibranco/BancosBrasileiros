@@ -129,7 +129,7 @@ Practical implementation examples are available in the [examples](/examples) fol
 
 ```toml
 [dependencies]
-bancos_brasileiros = "0.1.0"
+bancos_brasileiros = "5.0.0"
 ```
 
 ### Node.js (NPM)

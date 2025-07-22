@@ -1,9 +1,9 @@
  [package]
  name = "bancos_brasileiros"
- version = "0.1.0"
- authors = ["Your Name <your.email@example.com>"]
+ version = "5.0.0"
+ authors = ["Guilherme Branco Stracini <opensource@straccini.com>"]
  edition = "2021"
- description = "A Rust crate for Brazilian bank data"
+ description = "Brazilian commercial banks list"
  license = "MIT OR Apache-2.0"
  repository = "https://github.com/username/repository"
 

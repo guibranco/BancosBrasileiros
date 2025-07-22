@@ -23,7 +23,7 @@ environment:
 install:
 - ps: Install-Product node $env:nodejs_version
 - choco install jq
-- ps: >- 
+- ps: >-
     npm install --loglevel=error
 
     "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
@@ -71,7 +71,7 @@ build_script:
 - copy ..\..\test\resources\*.json resources\
 - cd ..
 - ps: >-
-    (Get-Content '.\pubspec.yaml') -replace "version: 1.0.0", "version: $env:APPVEYOR_BUILD_VERSION" | out-File '.\pubspec.yaml' -Encoding ASCII
+    (Get-Content '.\pubspec.yaml') -replace "version: 5.0.0", "version: $env:APPVEYOR_BUILD_VERSION" | out-File '.\pubspec.yaml' -Encoding ASCII
 - echo "## [%APPVEYOR_BUILD_VERSION%] - %RELEASE_NOTES%" > CHANGELOG.md
 - C:\tools\dart-sdk\bin\dart pub get
 - C:\tools\dart-sdk\bin\dart test
@@ -80,7 +80,7 @@ build_script:
 artifacts:
 - path: '**\*nupkg'
   name: Package
-  
+
 - path: 'data/bancos.json'
   name: Data
 
