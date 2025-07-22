@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-07-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 686 - BIZ IP LTDA. - 12.481.100/0001-66
+  - 763 - VUE IP S.A. - 56.106.523/0001-71
+
 ### 2025-07-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

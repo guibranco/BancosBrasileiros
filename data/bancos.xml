@@ -9045,6 +9045,26 @@
     <DateUpdated>2025-03-05T12:08:36.9762761Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>686</COMPE>
+    <ISPB>12481100</ISPB>
+    <Document>12.481.100/0001-66</Document>
+    <LongName>BIZ INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>BIZ IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-07-28</DateOperationStarted>
+    <DatePixStarted>2025-04-09 13:37:42</DatePixStarted>
+    <DateRegistered>2025-07-22T12:09:54.9911607Z</DateRegistered>
+    <DateUpdated>2025-07-22T12:09:53.8750926Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>687</COMPE>
     <ISPB>35340796</ISPB>
     <Document>35.340.796/0001-06</Document>
@@ -9689,6 +9709,24 @@
     <DateOperationStarted>2025-06-11</DateOperationStarted>
     <DateRegistered>2025-06-05T12:09:51.0317057Z</DateRegistered>
     <DateUpdated>2025-06-05T12:09:51.0317347Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>763</COMPE>
+    <ISPB>56106523</ISPB>
+    <Document>56.106.523/0001-71</Document>
+    <LongName>VUE INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>VUE IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-07-28</DateOperationStarted>
+    <DateRegistered>2025-07-22T12:09:54.9911786Z</DateRegistered>
+    <DateUpdated>2025-07-22T12:09:54.9911787Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>764</COMPE>
