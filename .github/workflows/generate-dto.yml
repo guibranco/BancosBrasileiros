@@ -10,9 +10,8 @@ on:
 
 jobs:
   Generate-DTOs:
-
-    runs-on: ubuntu-latest
-    steps:
+      runs-on: ubuntu-latest
+      steps:
         - name: Checkout repository
           uses: actions/checkout@v4
 
