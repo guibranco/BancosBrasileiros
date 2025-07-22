@@ -1,16 +1,14 @@
 name: PHP Linting
 
-on: 
-  pull_request:
-  workflow_dispatch:
+on:
+    pull_request:
+    workflow_dispatch:
 
 jobs:
+    php-lint:
+        runs-on: ubuntu-latest
 
-  php-lint:
-    runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v4
 
-    steps:
-
-        - uses: actions/checkout@v4
-
-        - uses: michaelw90/PHP-Lint@master
+            - uses: michaelw90/PHP-Lint@master

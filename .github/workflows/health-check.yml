@@ -1,26 +1,25 @@
 name: Ping Healthchecks.io
 
 on:
-  workflow_run:
-    workflows: ['Daily updates']
-    types: [requested, completed]
+    workflow_run:
+        workflows: ['Daily updates']
+        types: [requested, completed]
 
 jobs:
+    Ping-Started:
+        runs-on: ubuntu-latest
+        if: ${{ github.event.action == 'requested' }}
+        steps:
+            - run: curl -m 10 --retry 5 ${{ secrets.ping_url }}/start
 
-  Ping-Started:
-    runs-on: ubuntu-latest
-    if: ${{ github.event.action == 'requested' }}
-    steps:
-      - run: curl -m 10 --retry 5 ${{ secrets.ping_url }}/start
+    Ping-Success:
+        runs-on: ubuntu-latest
+        if: ${{ github.event.workflow_run.conclusion == 'success' }}
+        steps:
+            - run: curl -m 10 --retry 5 ${{ secrets.ping_url }}
 
-  Ping-Success:
-    runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    steps:
-      - run: curl -m 10 --retry 5 ${{ secrets.ping_url }}
-
-  Ping-Failure:
-    runs-on: ubuntu-latest
-    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
-    steps:
-      - run: curl -m 10 --retry 5 ${{ secrets.ping_url }}/fail
+    Ping-Failure:
+        runs-on: ubuntu-latest
+        if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+        steps:
+            - run: curl -m 10 --retry 5 ${{ secrets.ping_url }}/fail

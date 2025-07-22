@@ -9,35 +9,35 @@ on:
     workflow_dispatch:
 
 jobs:
-  Generate-DTOs:
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout repository
-          uses: actions/checkout@v4
+    Generate-DTOs:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
 
-        - name: Set up Node.js
-          uses: actions/setup-node@v4
-          with:
-            node-version: '20'
-            cache: 'npm'
+            - name: Set up Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: '20'
+                  cache: 'npm'
 
-        - name: Generate DTOs based on JSON
-          run: |
-            set -euo pipefail
-            # Command:
-            # -i bancos.json        -> Input file
-            # -o dist/bancos.ts     -> Output file
-            # --lang ts             -> Output language (TypeScript)
-            # --just-types          -> Generate only interfaces/types, without extra functions.
-            mkdir -p dist # Ensure the 'dist' folder exists
-            quicktype -i bancos.json -o dist/bancos.ts --lang ts --just-types
-            echo "DTO file generated at dist/bancos.ts"
+            - name: Generate DTOs based on JSON
+              run: |
+                  set -euo pipefail
+                  # Command:
+                  # -i bancos.json        -> Input file
+                  # -o dist/bancos.ts     -> Output file
+                  # --lang ts             -> Output language (TypeScript)
+                  # --just-types          -> Generate only interfaces/types, without extra functions.
+                  mkdir -p dist # Ensure the 'dist' folder exists
+                  quicktype -i bancos.json -o dist/bancos.ts --lang ts --just-types
+                  echo "DTO file generated at dist/bancos.ts"
 
-        - name: Commit generated files
-          uses: stefanzweifel/git-auto-commit-action@v5
-          with:
-            commit_message: 'chore(DTO): Update generated DTOs'
-            commit_user_name: 'GitHub Actions Bot'
-            commit_user_email: 'actions@github.com'
-            file_pattern: 'dist/bancos.ts'
-            skip_dirty_check: true
+            - name: Commit generated files
+              uses: stefanzweifel/git-auto-commit-action@v5
+              with:
+                  commit_message: 'chore(DTO): Update generated DTOs'
+                  commit_user_name: 'GitHub Actions Bot'
+                  commit_user_email: 'actions@github.com'
+                  file_pattern: 'dist/bancos.ts'
+                  skip_dirty_check: true

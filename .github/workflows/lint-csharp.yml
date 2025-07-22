@@ -1,26 +1,24 @@
 name: C# linting
 
 on:
-  workflow_dispatch:
-  pull_request:
+    workflow_dispatch:
+    pull_request:
 
 jobs:
-  
-  csharp-lint:
-    runs-on: ubuntu-latest
-    
-    steps:
+    csharp-lint:
+        runs-on: ubuntu-latest
 
-      - name: Checkout repo
-        uses: actions/checkout@v4
+        steps:
+            - name: Checkout repo
+              uses: actions/checkout@v4
 
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v4
+            - name: Setup .NET
+              uses: actions/setup-dotnet@v4
 
-      - name: .NET restore
-        run: dotnet tool restore
+            - name: .NET restore
+              run: dotnet tool restore
 
-      - name: CSharpier format check
-        run: |
-          dotnet csharpier . --check
-          echo "run 'dotnet build' to fix the formatting of the code automatically"
+            - name: CSharpier format check
+              run: |
+                  dotnet csharpier . --check
+                  echo "run 'dotnet build' to fix the formatting of the code automatically"
