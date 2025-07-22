@@ -21,6 +21,9 @@ jobs:
                   node-version: '20'
                   cache: 'npm'
 
+            - name: Install QuickType
+              run: npm install -g quicktype
+
             - name: Generate DTOs based on JSON
               run: |
                   set -euo pipefail
