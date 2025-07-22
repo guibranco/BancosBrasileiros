@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
-<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:element name="banks">
-    <xs:complexType>
-      <xs:sequence>
-        <xs:element name="bank">
-          <xs:complexType>
+<xs:schema
+    attributeFormDefault="unqualified"
+    elementFormDefault="qualified"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+    <xs:element name="banks">
+        <xs:complexType>
             <xs:sequence>
-              <xs:element name="COMPE" type="xs:unsignedByte" />
-              <xs:element name="ISPB" type="xs:unsignedByte" />
-              <xs:element name="Document" type="xs:string" />
-              <xs:element name="LongName" type="xs:string" />
-              <xs:element name="ShortName" type="xs:string" />
-              <xs:element name="Network" type="xs:string" />
-              <xs:element name="Type" type="xs:string" />
-              <xs:element name="PixType" type="xs:string" />
-              <xs:element name="Charge" type="xs:boolean" />
-              <xs:element name="CreditDocument" type="xs:boolean" />
-              <xs:element name="LegalCheque" type="xs:boolean" />
-              <xs:element name="DetectaFlow" type="xs:boolean" />
-              <xs:element name="Pcr" type="xs:boolean" />
-              <xs:element name="Pcrp" type="xs:boolean" />
-              <xs:element name="SalaryPortability" type="xs:string" />
-              <xs:element name="Products">
-                <xs:complexType>
-                  <xs:sequence>
-                    <xs:element maxOccurs="unbounded" name="Product" type="xs:string" />
-                  </xs:sequence>
-                </xs:complexType>
-              </xs:element>
-              <xs:element name="Url" type="xs:string" />
-              <xs:element name="DateOperationStarted" type="xs:date" />
-              <xs:element name="DatePixStarted" type="xs:string" />
-              <xs:element name="DateRegistered" type="xs:dateTime" />
-              <xs:element name="DateUpdated" type="xs:dateTime" />
+                <xs:element name="bank">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="COMPE" type="xs:unsignedByte" />
+                            <xs:element name="ISPB" type="xs:unsignedByte" />
+                            <xs:element name="Document" type="xs:string" />
+                            <xs:element name="LongName" type="xs:string" />
+                            <xs:element name="ShortName" type="xs:string" />
+                            <xs:element name="Network" type="xs:string" />
+                            <xs:element name="Type" type="xs:string" />
+                            <xs:element name="PixType" type="xs:string" />
+                            <xs:element name="Charge" type="xs:boolean" />
+                            <xs:element name="CreditDocument" type="xs:boolean" />
+                            <xs:element name="LegalCheque" type="xs:boolean" />
+                            <xs:element name="DetectaFlow" type="xs:boolean" />
+                            <xs:element name="Pcr" type="xs:boolean" />
+                            <xs:element name="Pcrp" type="xs:boolean" />
+                            <xs:element name="SalaryPortability" type="xs:string" />
+                            <xs:element name="Products">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element maxOccurs="unbounded" name="Product" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="Url" type="xs:string" />
+                            <xs:element name="DateOperationStarted" type="xs:date" />
+                            <xs:element name="DatePixStarted" type="xs:string" />
+                            <xs:element name="DateRegistered" type="xs:dateTime" />
+                            <xs:element name="DateUpdated" type="xs:dateTime" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
             </xs:sequence>
-          </xs:complexType>
-        </xs:element>
-      </xs:sequence>
-    </xs:complexType>
-  </xs:element>
+        </xs:complexType>
+    </xs:element>
 </xs:schema>
