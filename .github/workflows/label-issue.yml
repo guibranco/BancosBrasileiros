@@ -1,19 +1,18 @@
 name: Labeling new issue
 
 on:
-  issues:
-      types: ['opened', 'edited']
+    issues:
+        types: ['opened', 'edited']
 
 concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+    group: ${{ github.workflow }}-${{ github.ref }}
+    cancel-in-progress: true
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+    build:
+        runs-on: ubuntu-latest
 
-    steps:
-
-      - uses: Renato66/auto-label@v3
-        with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+        steps:
+            - uses: Renato66/auto-label@v3
+              with:
+                  repo-token: ${{ secrets.GITHUB_TOKEN }}

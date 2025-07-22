@@ -1,116 +1,115 @@
 name: Daily updates
 
 on:
-  schedule:
-    - cron: '0 12 * * *'
-  workflow_dispatch:
+    schedule:
+        - cron: '0 12 * * *'
+    workflow_dispatch:
 
 env:
-  DOTNET_VERSION: '9.0.x'
+    DOTNET_VERSION: '9.0.x'
 
 jobs:
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    outputs:
-      exitcode: ${{ steps.run.outputs.exitcode }}
+    build:
+        name: Build
+        runs-on: ubuntu-latest
+        outputs:
+            exitcode: ${{ steps.run.outputs.exitcode }}
 
-    steps:
-      - name: Checkout MergeTool
-        uses: actions/checkout@v4
-        with:
-          repository: guibranco/BancosBrasileiros-MergeTool
+        steps:
+            - name: Checkout MergeTool
+              uses: actions/checkout@v4
+              with:
+                  repository: guibranco/BancosBrasileiros-MergeTool
 
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v4
-        with:
-          dotnet-version: ${{ env.DOTNET_VERSION }}
+            - name: Setup .NET
+              uses: actions/setup-dotnet@v4
+              with:
+                  dotnet-version: ${{ env.DOTNET_VERSION }}
 
-      - name: Restore
-        run: dotnet restore
+            - name: Restore
+              run: dotnet restore
 
-      - name: Build
-        run: dotnet build --configuration Release --no-restore
+            - name: Build
+              run: dotnet build --configuration Release --no-restore
 
-      - name: Run
-        continue-on-error: true
-        id: run
-        env:
-          DOTNET_SYSTEM_CONSOLE_ALLOW_ANSI_COLOR_REDIRECTION: 1
-          TERM: xterm
-        run: |
-          set +e
-          cd BancosBrasileiros.MergeTool
-          dotnet run --configuration Release
-          exitcode="$?"
-          echo "exitcode=$exitcode" >> $GITHUB_ENV
-          echo "exitcode=$exitcode" >> $GITHUB_OUTPUT
-          exit "$exitcode"
+            - name: Run
+              continue-on-error: true
+              id: run
+              env:
+                  DOTNET_SYSTEM_CONSOLE_ALLOW_ANSI_COLOR_REDIRECTION: 1
+                  TERM: xterm
+              run: |
+                  set +e
+                  cd BancosBrasileiros.MergeTool
+                  dotnet run --configuration Release
+                  exitcode="$?"
+                  echo "exitcode=$exitcode" >> $GITHUB_ENV
+                  echo "exitcode=$exitcode" >> $GITHUB_OUTPUT
+                  exit "$exitcode"
 
-      - name: Send webhook
-        if: env.exitcode != 0 && env.exitcode != 187
-        uses: distributhor/workflow-webhook@v3
-        env:
-          webhook_type: 'json-extended'
-          event_name: 'release'
-          webhook_url: ${{ secrets.RELEASE_WEBHOOK_URL }}
-          webhook_secret: '{"x-github-release-token": "${{ secrets.RELEASE_WEBHOOK_TOKEN }}"}'
-          data: '{ "error_code": "${{ env.exitcode }}" }'
+            - name: Send webhook
+              if: env.exitcode != 0 && env.exitcode != 187
+              uses: distributhor/workflow-webhook@v3
+              with:
+                  webhook_type: 'json-extended'
+                  event_name: 'release'
+                  webhook_url: ${{ secrets.RELEASE_WEBHOOK_URL }}
+                  webhook_secret: '{"x-github-release-token": "${{ secrets.RELEASE_WEBHOOK_TOKEN }}"}'
+                  data: '{ "error_code": "${{ env.exitcode }}" }'
 
-      - name: Upload banks files
-        uses: actions/upload-artifact@v4
-        if: env.exitcode == 0
-        with:
-          name: bankFiles
-          path: ./BancosBrasileiros.MergeTool/result/bancos.*
+            - name: Upload banks files
+              uses: actions/upload-artifact@v4
+              if: env.exitcode == 0
+              with:
+                  name: bankFiles
+                  path: ./BancosBrasileiros.MergeTool/result/bancos.*
 
-      - name: Upload changelog file
-        uses: actions/upload-artifact@v4
-        if: env.exitcode == 0
-        with:
-          name: changeLogFile
-          path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md
+            - name: Upload changelog file
+              uses: actions/upload-artifact@v4
+              if: env.exitcode == 0
+              with:
+                  name: changeLogFile
+                  path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md
 
-      - name: Upload release-notes.md
-        uses: actions/upload-artifact@v4
-        if: env.exitcode == 0
-        with:
-          name: releaseNotesFile
-          path: ./BancosBrasileiros.MergeTool/result/release-notes.md
+            - name: Upload release-notes.md
+              uses: actions/upload-artifact@v4
+              if: env.exitcode == 0
+              with:
+                  name: releaseNotesFile
+                  path: ./BancosBrasileiros.MergeTool/result/release-notes.md
 
-      - name: Exit with error if needed
-        if: env.exitcode != 0 && env.exitcode != 187
-        run: |
-          exit ${{ env.exitcode }}
+            - name: Exit with error if needed
+              if: env.exitcode != 0 && env.exitcode != 187
+              run: |
+                  exit ${{ env.exitcode }}
 
-  update:
-    name: Update
-    runs-on: ubuntu-latest
-    needs: build
-    if: ${{ needs.build.outputs.exitcode == 0 }}
-    steps:
+    update:
+        name: Update
+        runs-on: ubuntu-latest
+        needs: build
+        if: ${{ needs.build.outputs.exitcode == 0 }}
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
 
-      - name: Checkout
-        uses: actions/checkout@v4
+            - name: Download banks files
+              uses: actions/download-artifact@v4
+              with:
+                  name: bankFiles
+                  path: data/
 
-      - name: Download banks files
-        uses: actions/download-artifact@v4
-        with:
-          name: bankFiles
-          path: data/
+            - name: Download change log file
+              uses: actions/download-artifact@v4
+              with:
+                  name: changeLogFile
 
-      - name: Download change log file
-        uses: actions/download-artifact@v4
-        with:
-          name: changeLogFile
+            - name: Setup GIT config
+              run: |
+                  git config user.name "GitHub Actions Bot"
+                  git config user.email "<>"
 
-      - name: Setup GIT config
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
-
-      - name: Commit and Push
-        run: |
-          git add .
-          git commit -m "Daily updates (bot)"
-          git push origin main
+            - name: Commit and Push
+              run: |
+                  git add .
+                  git commit -m "Daily updates (bot)"
+                  git push origin main

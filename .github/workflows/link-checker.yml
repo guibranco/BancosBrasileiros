@@ -1,75 +1,73 @@
 name: Link checker
 
 on:
-  workflow_dispatch:
-  pull_request:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: 0 0 * * 0
+    workflow_dispatch:
+    pull_request:
+    push:
+        branches:
+            - main
+    schedule:
+        - cron: 0 0 * * 0
 
 concurrency:
-  group: links-checker
-  cancel-in-progress: true
+    group: links-checker
+    cancel-in-progress: true
 
 jobs:
+    link-checker:
+        runs-on: ubuntu-latest
+        permissions:
+            issues: write
+            contents: read
+            pull-requests: write
 
-  link-checker:
-    runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      contents: read
-      pull-requests: write
-      
-    steps:
-    
-      - uses: actions/checkout@v4
+        steps:
+            - uses: actions/checkout@v4
 
-      - name: Restore lychee cache
-        uses: actions/cache@v4
-        with:
-          path: .lycheecache
-          key: cache-lychee-${{ github.sha }}
-          restore-keys: cache-lychee-
+            - name: Restore lychee cache
+              uses: actions/cache@v4
+              with:
+                  path: .lycheecache
+                  key: cache-lychee-${{ github.sha }}
+                  restore-keys: cache-lychee-
 
-      - name: Attach WireGuard connection
-        shell: bash
-        run: |
-          sudo apt install resolvconf
-          sudo apt install wireguard
-          echo "${{ secrets.WIREGUARD_CONFIG }}" > wg0.conf
-          sudo chmod 600 wg0.conf
-          sudo wg-quick up ./wg0.conf
-      
-      - name: Run lychee
-        uses: lycheeverse/lychee-action@v2.4.1
-        id: lychee
-        with:
-          args: "--base . --cache --max-cache-age 1d ."
+            - name: Attach WireGuard connection
+              shell: bash
+              run: |
+                  sudo apt install resolvconf
+                  sudo apt install wireguard
+                  echo "${{ secrets.WIREGUARD_CONFIG }}" > wg0.conf
+                  sudo chmod 600 wg0.conf
+                  sudo wg-quick up ./wg0.conf
 
-      - name: Detach WireGuard connection
-        shell: bash
-        if: always()
-        run: sudo wg-quick down ./wg0.conf
-      
-      - name: Create issue
-        if: always() && github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: 🔗✅ Link checker report
-          labels: |
-            🐛 bug
-            🔗 link checker
-            good first issue
-            help wanted
-            hacktoberfest
-          content-filepath: ./lychee/out.md
+            - name: Run lychee
+              uses: lycheeverse/lychee-action@v2.4.1
+              id: lychee
+              with:
+                  args: '--base . --cache --max-cache-age 1d .'
 
-      - name: Update PR with comment
-        uses: mshick/add-pr-comment@v2
-        if: always() && github.event_name == 'pull_request' && steps.lychee.outputs.exit_code != 0
-        with:
-          refresh-message-position: true
-          message-id: 'link-checker-result'
-          message-path: ./lychee/out.md
+            - name: Detach WireGuard connection
+              shell: bash
+              if: always()
+              run: sudo wg-quick down ./wg0.conf
+
+            - name: Create issue
+              if: always() && github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+              uses: peter-evans/create-issue-from-file@v5
+              with:
+                  title: 🔗✅ Link checker report
+                  labels: |
+                      🐛 bug
+                      🔗 link checker
+                      good first issue
+                      help wanted
+                      hacktoberfest
+                  content-filepath: ./lychee/out.md
+
+            - name: Update PR with comment
+              uses: mshick/add-pr-comment@v2
+              if: always() && github.event_name == 'pull_request' && steps.lychee.outputs.exit_code != 0
+              with:
+                  refresh-message-position: true
+                  message-id: 'link-checker-result'
+                  message-path: ./lychee/out.md
