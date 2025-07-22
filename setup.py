@@ -2,12 +2,12 @@ from setuptools import find_packages, setup
 
 setup(
     name="BancosBrasileiros",
-    version="0.1.0",
-    description="A package for Brazilian banks information",
+    version="5.0.0",
+    description="Brazilian commercial banks list",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="guibranco",
-    author_email="author@example.com",
+    author_email="opensource@straccini.com",
     url="https://github.com/guibranco/BancosBrasileiros",
     packages=find_packages(where="src"),
     package_dir={"": "src"},

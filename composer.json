@@ -2,7 +2,7 @@
     "name": "guibranco/bancos-brasileiros",
     "description": "Brazilian commercial banks list",
     "type": "library",
-    "homepage": "https://guibranco.github.io/BancosBrasileiros/",
+    "homepage": "https://guilherme.stracini.com.br/BancosBrasileiros/",
     "license": "MIT",
     "autoload": {
         "psr-4": {
