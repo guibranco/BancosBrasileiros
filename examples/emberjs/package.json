@@ -67,6 +67,6 @@
     "edition": "octane"
   },
   "dependencies": {
-    "bancos-brasileiros": "^6.2.32"
+    "bancos-brasileiros": "^6.2.35"
   }
 }
