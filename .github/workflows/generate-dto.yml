@@ -37,7 +37,7 @@ jobs:
                   echo "DTO file generated at dist/bancos.ts"
 
             - name: Commit generated files
-              uses: stefanzweifel/git-auto-commit-action@v5
+              uses: stefanzweifel/git-auto-commit-action@v6
               with:
                   commit_message: 'chore(DTO): Update generated DTOs'
                   commit_user_name: 'GitHub Actions Bot'
