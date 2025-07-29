@@ -23,7 +23,7 @@
   <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="GitHub issues"></a>
 </p>
 
-> [!Importante]
+> [!Important]
 >
 > Para a versão em inglês (EN_US) do README.md, [clique aqui](https://github.com/guibranco/BancosBrasileiros) por favor.
 
