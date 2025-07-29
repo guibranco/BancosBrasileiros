@@ -9,19 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://ci.appveyor.com/project/guibranco/bancosbrasileiros"><img src="https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true" alt="Status da build"></a>
-  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg" alt="Atualizações diárias"></a>
-  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg" alt="Verificador de links"></a>
-  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros" alt="Último commit no GitHub"></a>
-  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/license/guibranco/BancosBrasileiros" alt="Licença do GitHub"></a>
-  <a href="https://wakatime.com/badge/github/guibranco/BancosBrasileiros"><img src="https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg" alt="rastreador de tempo"></a>
+  <a href="https://ci.appveyor.com/project/guibranco/bancosbrasileiros"><img src="https://ci.appveyor.com/api/projects/status/f9sx7ux82epp8bd6?svg=true" alt="Build status"></a>  
+  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/last-commit/guibranco/BancosBrasileiros" alt="GitHub last commit"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/"><img src="https://img.shields.io/github/license/guibranco/BancosBrasileiros" alt="GitHub license"></a>
+  <a href="https://wakatime.com/badge/github/guibranco/BancosBrasileiros"><img src="https://wakatime.com/badge/github/guibranco/BancosBrasileiros.svg" alt="time tracker"></a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg" alt="Daily updates"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg" alt="Link checker"></a>
   <a href="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros"><img src="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge" alt="CodeFactor"></a>
-  <a href="https://codebeat.co/projects/github-com-guibranco-bancosbrasileiros-main"><img src="https://codebeat.co/badges/6ca48409-5cda-48b2-844e-9248c2416865" alt="emblema codebeat"></a>
-  <a href="https://snyk.io/test/github/guibranco/BancosBrasileiros"><img src="https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic" alt="Vulnerabilidades Conhecidas"></a>
-  <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="Issues no GitHub"></a>
+  <a href="https://snyk.io/test/github/guibranco/BancosBrasileiros"><img src="https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic" alt="Known Vulnerabilities"></a>
+  <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="GitHub issues"></a>
 </p>
 
 > [!Importante]
