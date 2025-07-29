@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-07-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 533 - SRM BANK - 22.575.466/0001-58
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-08-04 09:00:00
+  - 687 - INCO SEP S.A. - 35.340.796/0001-06
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-08-04 14:00:00
+
 ### 2025-07-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks

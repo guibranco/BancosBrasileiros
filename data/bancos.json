@@ -7892,7 +7892,7 @@
     "ShortName": "SRM BANK",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7903,9 +7903,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-07-17",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-08-04 09:00:00",
     "DateRegistered": "2023-09-25T12:28:25.1347537+00:00",
-    "DateUpdated": "2024-03-22T12:06:54.1991257+00:00"
+    "DateUpdated": "2025-07-29T23:11:13.0769214+00:00"
   },
   {
     "COMPE": "534",
@@ -10516,7 +10516,7 @@
     "ShortName": "INCO SEP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10527,9 +10527,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-06-10",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-08-04 14:00:00",
     "DateRegistered": "2025-06-04T12:09:36.0386299+00:00",
-    "DateUpdated": "2025-06-04T12:09:36.0386488+00:00"
+    "DateUpdated": "2025-07-29T23:11:13.1989561+00:00"
   },
   {
     "COMPE": "688",
