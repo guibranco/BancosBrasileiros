@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-08-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 760 - EMCASH SERV FINANC SEP S.A. - 34.139.916/0001-49
+
 ### 2025-07-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

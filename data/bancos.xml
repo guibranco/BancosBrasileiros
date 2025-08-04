@@ -9679,6 +9679,24 @@
     <DateUpdated>2024-05-15T16:49:45.7313357Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>760</COMPE>
+    <ISPB>34139916</ISPB>
+    <Document>34.139.916/0001-49</Document>
+    <LongName>EMCASH SERVIÇOS FINANCEIROS SOCIEDADE DE EMPRÉSTIMO ENTRE PESSOAS S.A.</LongName>
+    <ShortName>EMCASH SERV FINANC SEP S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-08-08</DateOperationStarted>
+    <DateRegistered>2025-08-04T12:10:29.8587686Z</DateRegistered>
+    <DateUpdated>2025-08-04T12:10:29.8587973Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>761</COMPE>
     <ISPB>53842122</ISPB>
     <Document>53.842.122/0001-91</Document>
