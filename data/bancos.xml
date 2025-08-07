@@ -8534,8 +8534,8 @@
     <COMPE>653</COMPE>
     <ISPB>61024352</ISPB>
     <Document>61.024.352/0001-71</Document>
-    <LongName>BANCO VOITER S.A.</LongName>
-    <ShortName>BANCO VOITER</ShortName>
+    <LongName>BANCO PLENO S.A.</LongName>
+    <ShortName>BM PLENO S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -8549,7 +8549,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711528-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7369308Z</DateUpdated>
+    <DateUpdated>2025-08-07T12:10:38.4268007Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>654</COMPE>
@@ -9217,6 +9217,24 @@
     <DateUpdated>2025-06-13T12:09:22.5825346Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>703</COMPE>
+    <ISPB>10440482</ISPB>
+    <Document>10.440.482/0001-54</Document>
+    <LongName>GETNET ADQUIRÊNCIA E SERVIÇOS PARA MEIOS DE PAGAMENTO S.A. INSTITUIÇÃO DE PAGAMENTO</LongName>
+    <ShortName>GETNET IP</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-08-13</DateOperationStarted>
+    <DateRegistered>2025-08-07T12:10:40.5358274Z</DateRegistered>
+    <DateUpdated>2025-08-07T12:10:40.5358558Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>707</COMPE>
     <ISPB>62232889</ISPB>
     <Document>62.232.889/0001-90</Document>
@@ -9769,5 +9787,23 @@
     <DatePixStarted>2024-05-24 09:52:22</DatePixStarted>
     <DateRegistered>2025-06-18T12:09:53.9567507Z</DateRegistered>
     <DateUpdated>2025-06-18T12:09:52.6472819Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>768</COMPE>
+    <ISPB>20443996</ISPB>
+    <Document>20.443.996/0001-17</Document>
+    <LongName>BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>BECKER FINANCEIRA SA - CFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-08-13</DateOperationStarted>
+    <DateRegistered>2025-08-07T12:10:40.5358561Z</DateRegistered>
+    <DateUpdated>2025-08-07T12:10:40.5358562Z</DateUpdated>
   </bank>
 </banks>

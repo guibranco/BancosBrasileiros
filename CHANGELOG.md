@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-08-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 703 - GETNET IP - 10.440.482/0001-54
+  - 768 - BECKER FINANCEIRA SA - CFI - 20.443.996/0001-17
+- Updated 1 bank
+  - 653 - BM PLENO S.A. - 61.024.352/0001-71
+    - **LongName** (STR): BANCO VOITER S.A. **->** BANCO PLENO S.A.
+    - **ShortName** (STR): BANCO VOITER **->** BM PLENO S.A.
+
 ### 2025-08-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

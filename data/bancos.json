@@ -9876,8 +9876,8 @@
     "COMPE": "653",
     "ISPB": "61024352",
     "Document": "61.024.352/0001-71",
-    "LongName": "BANCO VOITER S.A.",
-    "ShortName": "BANCO VOITER",
+    "LongName": "BANCO PLENO S.A.",
+    "ShortName": "BM PLENO S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": "DRCT",
@@ -9893,7 +9893,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.711528-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7369308+00:00"
+    "DateUpdated": "2025-08-07T12:10:38.4268007+00:00"
   },
   {
     "COMPE": "654",
@@ -10693,6 +10693,29 @@
     "DateUpdated": "2025-06-13T12:09:22.5825346+00:00"
   },
   {
+    "COMPE": "703",
+    "ISPB": "10440482",
+    "Document": "10.440.482/0001-54",
+    "LongName": "GETNET ADQUIRÊNCIA E SERVIÇOS PARA MEIOS DE PAGAMENTO S.A. INSTITUIÇÃO DE PAGAMENTO",
+    "ShortName": "GETNET IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-08-13",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-08-07T12:10:40.5358274+00:00",
+    "DateUpdated": "2025-08-07T12:10:40.5358558+00:00"
+  },
+  {
     "COMPE": "707",
     "ISPB": "62232889",
     "Document": "62.232.889/0001-90",
@@ -11306,5 +11329,28 @@
     "DatePixStarted": "2024-05-24 09:52:22",
     "DateRegistered": "2025-06-18T12:09:53.9567507+00:00",
     "DateUpdated": "2025-06-18T12:09:52.6472819+00:00"
+  },
+  {
+    "COMPE": "768",
+    "ISPB": "20443996",
+    "Document": "20.443.996/0001-17",
+    "LongName": "BECKER FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "BECKER FINANCEIRA SA - CFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-08-13",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-08-07T12:10:40.5358561+00:00",
+    "DateUpdated": "2025-08-07T12:10:40.5358562+00:00"
   }
 ]
