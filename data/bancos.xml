@@ -1278,7 +1278,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.dtvm.com.br/</Url>
+    <Url>https://www.warren.com.br/</Url>
     <DateOperationStarted>2010-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711535-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115352-03:00</DateUpdated>
@@ -3230,8 +3230,8 @@
     <COMPE>298</COMPE>
     <ISPB>17772370</ISPB>
     <Document>17.772.370/0001-40</Document>
-    <LongName>Vip's Corretora de Câmbio Ltda.</LongName>
-    <ShortName>VIPS CC LTDA.</ShortName>
+    <LongName>VIPS CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>VIPS CC S.A.</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3242,7 +3242,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-08-15</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114899-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114901-03:00</DateUpdated>
+    <DateUpdated>2025-08-08T12:10:11.3897838Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>299</COMPE>

@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-08-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 298 - VIPS CC S.A. - 17.772.370/0001-40
+    - **LongName** (STR): Vip's Corretora de Câmbio Ltda. **->** VIPS CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): VIPS CC LTDA. **->** VIPS CC S.A.
+
 ### 2025-08-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 2 banks
