@@ -280,6 +280,13 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/icarusiftctts">
+                    <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
+                    <br />
+                    <sub><b>Praneel Dev</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/rafaeldomi">
                     <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
                     <br />
@@ -307,6 +314,8 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Luis Carlos Cardoso</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/rodrigondec">
                     <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
@@ -314,8 +323,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Rodrigo Castro</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/vduggen">
                     <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
