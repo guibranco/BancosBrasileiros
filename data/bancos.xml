@@ -6842,13 +6842,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-07-17</DateOperationStarted>
     <DatePixStarted>2025-08-04 09:00:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347537Z</DateRegistered>
-    <DateUpdated>2025-07-29T23:11:13.0769214Z</DateUpdated>
+    <DateUpdated>2025-08-09T12:08:53.5670405Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>534</COMPE>

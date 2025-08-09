@@ -7897,15 +7897,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-07-17",
     "DatePixStarted": "2025-08-04 09:00:00",
     "DateRegistered": "2023-09-25T12:28:25.1347537+00:00",
-    "DateUpdated": "2025-07-29T23:11:13.0769214+00:00"
+    "DateUpdated": "2025-08-09T12:08:53.5670405+00:00"
   },
   {
     "COMPE": "534",
