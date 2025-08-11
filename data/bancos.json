@@ -6355,8 +6355,8 @@
     "COMPE": "443",
     "ISPB": "39416705",
     "Document": "39.416.705/0001-20",
-    "LongName": "CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "CREDIHOME SCD",
+    "LongName": "OCTA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "OCTA SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -6372,7 +6372,7 @@
     "DateOperationStarted": "2021-11-18",
     "DatePixStarted": "2025-02-14 10:00:00",
     "DateRegistered": "2021-11-22T11:00:23.679021-03:00",
-    "DateUpdated": "2025-02-22T12:07:26.4211031+00:00"
+    "DateUpdated": "2025-08-11T12:10:23.8891737+00:00"
   },
   {
     "COMPE": "444",

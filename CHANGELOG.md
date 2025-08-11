@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-08-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 443 - OCTA SCD S.A. - 39.416.705/0001-20
+    - **LongName** (STR): CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A. **->** OCTA SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): CREDIHOME SCD **->** OCTA SCD S.A.
+
 ### 2025-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
