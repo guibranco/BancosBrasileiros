@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-08-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 440 - COOP CREDI&GENTE - 82.096.447/0001-70
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-08-20 09:00:00
+
 ### 2025-08-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

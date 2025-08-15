@@ -6313,7 +6313,7 @@
     "ShortName": "COOP CREDI&GENTE",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6324,9 +6324,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-09-02",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-08-20 09:00:00",
     "DateRegistered": "2021-09-13T19:08:16.9817387-03:00",
-    "DateUpdated": "2025-03-24T17:11:52.2355771+00:00"
+    "DateUpdated": "2025-08-15T12:09:22.8035239+00:00"
   },
   {
     "COMPE": "442",

@@ -5517,6 +5517,7 @@
     <LongName>CREDI&amp;GENTE - COOPERATIVA DE CRÉDITO E INVESTIMENTOS</LongName>
     <ShortName>COOP CREDI&amp;GENTE</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -5525,8 +5526,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-02</DateOperationStarted>
+    <DatePixStarted>2025-08-20 09:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
-    <DateUpdated>2025-03-24T17:11:52.2355771Z</DateUpdated>
+    <DateUpdated>2025-08-15T12:09:22.8035239Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>442</COMPE>
