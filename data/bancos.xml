@@ -5526,9 +5526,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-02</DateOperationStarted>
-    <DatePixStarted>2025-08-20 09:00:00</DatePixStarted>
+    <DatePixStarted>2025-09-18 09:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
-    <DateUpdated>2025-08-15T12:09:22.8035239Z</DateUpdated>
+    <DateUpdated>2025-08-16T12:08:21.0859687Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>442</COMPE>
