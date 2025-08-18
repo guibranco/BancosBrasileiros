@@ -11352,5 +11352,28 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-08-07T12:10:40.5358561+00:00",
     "DateUpdated": "2025-08-07T12:10:40.5358562+00:00"
+  },
+  {
+    "COMPE": "769",
+    "ISPB": "24313102",
+    "Document": "24.313.102/0001-25",
+    "LongName": "99PAY INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "99PAY IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-08-18",
+    "DatePixStarted": "2020-11-03 06:30:00",
+    "DateRegistered": "2025-08-18T12:09:55.8198878+00:00",
+    "DateUpdated": "2025-08-18T12:09:54.7643814+00:00"
   }
 ]

@@ -9808,4 +9808,24 @@
     <DateRegistered>2025-08-07T12:10:40.5358561Z</DateRegistered>
     <DateUpdated>2025-08-07T12:10:40.5358562Z</DateUpdated>
   </bank>
+  <bank>
+    <COMPE>769</COMPE>
+    <ISPB>24313102</ISPB>
+    <Document>24.313.102/0001-25</Document>
+    <LongName>99PAY INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>99PAY IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-08-18</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2025-08-18T12:09:55.8198878Z</DateRegistered>
+    <DateUpdated>2025-08-18T12:09:54.7643814Z</DateUpdated>
+  </bank>
 </banks>

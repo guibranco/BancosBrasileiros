@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-08-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 769 - 99PAY IP S.A. - 24.313.102/0001-25
+
 ### 2025-08-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
