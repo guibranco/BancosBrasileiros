@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-08-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 769 - 99PAY IP S.A. - 24.313.102/0001-25
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-08-18 10:10:00
+
 ### 2025-08-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
