@@ -4,6 +4,46 @@
 
 ## Changelog
 
+### 2025-08-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 769 - 99PAY IP S.A. - 24.313.102/0001-25
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-08-18 10:10:00
+
+### 2025-08-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 769 - 99PAY IP S.A. - 24.313.102/0001-25
+
+### 2025-08-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 440 - COOP CREDI&GENTE - 82.096.447/0001-70
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-08-20 09:00:00 **->** 2025-09-18 09:00:00
+
+### 2025-08-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 440 - COOP CREDI&GENTE - 82.096.447/0001-70
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-08-20 09:00:00
+
+### 2025-08-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 443 - OCTA SCD S.A. - 39.416.705/0001-20
+    - **LongName** (STR): CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A. **->** OCTA SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): CREDIHOME SCD **->** OCTA SCD S.A.
+
+### 2025-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 533 - SRM BANK - 22.575.466/0001-58
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2025-08-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

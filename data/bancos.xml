@@ -5517,6 +5517,7 @@
     <LongName>CREDI&amp;GENTE - COOPERATIVA DE CRÉDITO E INVESTIMENTOS</LongName>
     <ShortName>COOP CREDI&amp;GENTE</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -5525,8 +5526,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-02</DateOperationStarted>
+    <DatePixStarted>2025-09-18 09:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
-    <DateUpdated>2025-03-24T17:11:52.2355771Z</DateUpdated>
+    <DateUpdated>2025-08-16T12:08:21.0859687Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>442</COMPE>
@@ -5550,8 +5552,8 @@
     <COMPE>443</COMPE>
     <ISPB>39416705</ISPB>
     <Document>39.416.705/0001-20</Document>
-    <LongName>CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>CREDIHOME SCD</ShortName>
+    <LongName>OCTA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>OCTA SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5564,7 +5566,7 @@
     <DateOperationStarted>2021-11-18</DateOperationStarted>
     <DatePixStarted>2025-02-14 10:00:00</DatePixStarted>
     <DateRegistered>2021-11-22T11:00:23.679021-03:00</DateRegistered>
-    <DateUpdated>2025-02-22T12:07:26.4211031Z</DateUpdated>
+    <DateUpdated>2025-08-11T12:10:23.8891737Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>444</COMPE>
@@ -6842,13 +6844,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-07-17</DateOperationStarted>
     <DatePixStarted>2025-08-04 09:00:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347537Z</DateRegistered>
-    <DateUpdated>2025-07-29T23:11:13.0769214Z</DateUpdated>
+    <DateUpdated>2025-08-09T12:08:53.5670405Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>534</COMPE>
@@ -9805,5 +9807,25 @@
     <DateOperationStarted>2025-08-13</DateOperationStarted>
     <DateRegistered>2025-08-07T12:10:40.5358561Z</DateRegistered>
     <DateUpdated>2025-08-07T12:10:40.5358562Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>769</COMPE>
+    <ISPB>24313102</ISPB>
+    <Document>24.313.102/0001-25</Document>
+    <LongName>99PAY INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>99PAY IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-08-18</DateOperationStarted>
+    <DatePixStarted>2025-08-18 10:10:00</DatePixStarted>
+    <DateRegistered>2025-08-18T12:09:55.8198878Z</DateRegistered>
+    <DateUpdated>2025-08-19T12:09:19.8698007Z</DateUpdated>
   </bank>
 </banks>

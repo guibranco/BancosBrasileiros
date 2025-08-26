@@ -6313,7 +6313,7 @@
     "ShortName": "COOP CREDI&GENTE",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -6324,9 +6324,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2021-09-02",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-09-18 09:00:00",
     "DateRegistered": "2021-09-13T19:08:16.9817387-03:00",
-    "DateUpdated": "2025-03-24T17:11:52.2355771+00:00"
+    "DateUpdated": "2025-08-16T12:08:21.0859687+00:00"
   },
   {
     "COMPE": "442",
@@ -6355,8 +6355,8 @@
     "COMPE": "443",
     "ISPB": "39416705",
     "Document": "39.416.705/0001-20",
-    "LongName": "CREDIHOME SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "CREDIHOME SCD",
+    "LongName": "OCTA SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "OCTA SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -6372,7 +6372,7 @@
     "DateOperationStarted": "2021-11-18",
     "DatePixStarted": "2025-02-14 10:00:00",
     "DateRegistered": "2021-11-22T11:00:23.679021-03:00",
-    "DateUpdated": "2025-02-22T12:07:26.4211031+00:00"
+    "DateUpdated": "2025-08-11T12:10:23.8891737+00:00"
   },
   {
     "COMPE": "444",
@@ -7897,15 +7897,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-07-17",
     "DatePixStarted": "2025-08-04 09:00:00",
     "DateRegistered": "2023-09-25T12:28:25.1347537+00:00",
-    "DateUpdated": "2025-07-29T23:11:13.0769214+00:00"
+    "DateUpdated": "2025-08-09T12:08:53.5670405+00:00"
   },
   {
     "COMPE": "534",
@@ -11352,5 +11352,28 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-08-07T12:10:40.5358561+00:00",
     "DateUpdated": "2025-08-07T12:10:40.5358562+00:00"
+  },
+  {
+    "COMPE": "769",
+    "ISPB": "24313102",
+    "Document": "24.313.102/0001-25",
+    "LongName": "99PAY INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "99PAY IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-08-18",
+    "DatePixStarted": "2025-08-18 10:10:00",
+    "DateRegistered": "2025-08-18T12:09:55.8198878+00:00",
+    "DateUpdated": "2025-08-19T12:09:19.8698007+00:00"
   }
 ]
