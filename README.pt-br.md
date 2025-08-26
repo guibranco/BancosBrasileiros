@@ -192,6 +192,13 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/icarusiftctts">
+                    <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
+                    <br />
+                    <sub><b>Praneel Dev</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/raphaelcunha">
                     <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
                     <br />
@@ -219,6 +226,8 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>E S Sahal Hussain</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Erick-Bueno">
                     <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
@@ -226,8 +235,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Erick Bueno</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/pferreirafabricio">
                     <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
@@ -263,6 +270,8 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>João V. Valadares</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/leogregianin">
                     <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
@@ -270,20 +279,11 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Leonardo Gregianin</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/MauriciDmarc">
                     <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
                     <br />
                     <sub><b>Maurici Dmarco</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/icarusiftctts">
-                    <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
-                    <br />
-                    <sub><b>Praneel Dev</b></sub>
                 </a>
             </td>
             <td align="center">

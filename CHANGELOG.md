@@ -4,6 +4,32 @@
 
 ## Changelog
 
+### 2025-08-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 769 - 99PAY IP S.A. - 24.313.102/0001-25
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2025-08-18 10:10:00
+
+### 2025-08-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 769 - 99PAY IP S.A. - 24.313.102/0001-25
+
+### 2025-08-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 440 - COOP CREDI&GENTE - 82.096.447/0001-70
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-08-20 09:00:00 **->** 2025-09-18 09:00:00
+
+### 2025-08-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 440 - COOP CREDI&GENTE - 82.096.447/0001-70
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-08-20 09:00:00
+
 ### 2025-08-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
