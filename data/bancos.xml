@@ -5122,11 +5122,18 @@
     <PCR>true</PCR>
     <PCRP>false</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Financiamento de Veículos</Product>
+      <Product>Outros</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DatePixStarted>2021-06-14 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-21T23:01:29.4844407-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7244293Z</DateUpdated>
+    <DateUpdated>2025-08-27T12:09:04.8191973Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>414</COMPE>
@@ -6639,11 +6646,18 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Products>
+      <Product>Capital de Giro PJ</Product>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Imobiliário</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-02-15</DateOperationStarted>
     <DatePixStarted>2024-12-05 11:10:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
-    <DateUpdated>2024-12-06T12:08:40.3608998Z</DateUpdated>
+    <DateUpdated>2025-08-27T12:09:05.4174581Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>524</COMPE>
@@ -7935,8 +7949,8 @@
     <COMPE>594</COMPE>
     <ISPB>48703388</ISPB>
     <Document>48.703.388/0001-13</Document>
-    <LongName>ASA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>ASA SOCIEDADE DE CRÉDITO DIRETO S.A.</ShortName>
+    <LongName>ASA SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>ASA SCFI S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7949,7 +7963,7 @@
     <DateOperationStarted>2024-03-11</DateOperationStarted>
     <DatePixStarted>2024-07-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-03-05T12:06:35.1241273Z</DateRegistered>
-    <DateUpdated>2024-09-19T12:07:45.093262Z</DateUpdated>
+    <DateUpdated>2025-08-27T12:09:03.4115394Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>595</COMPE>
