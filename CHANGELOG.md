@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2025-08-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 413 - BCO BV S.A. - 01.858.774/0001-10
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal, Financiamento de Veículos, Outros, Troca de Modalidade
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **Products** (CTC): Null **->** Capital de Giro PJ, Crédito Consignado, Crédito Imobiliário, Crédito Pessoal, Troca de Modalidade
+  - 594 - ASA SCFI S.A. - 48.703.388/0001-13
+    - **LongName** (STR): ASA SOCIEDADE DE CRÉDITO DIRETO S.A. **->** ASA SOCIEDADE DE CRÉDITO FINANCIAMENTO E INVESTIMENTO S.A.
+    - **ShortName** (STR): ASA SOCIEDADE DE CRÉDITO DIRETO S.A. **->** ASA SCFI S.A.
+
 ### 2025-08-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
