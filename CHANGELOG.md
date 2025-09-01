@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2025-09-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 693 - EFEX IP - 32.820.711/0001-07
+- Updated 1 bank
+  - 684 - HARMOS S.A. - SCFI - 56.392.166/0001-55
+    - **LongName** (STR): PLUG FINANCEIRA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO **->** HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): PLUG FINANCEIRA S.A. SCFI **->** HARMOS S.A. - SCFI
+
 ### 2025-08-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
