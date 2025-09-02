@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-09-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 670 - IP4Y IP LTDA. - 11.491.029/0001-30
+
 ### 2025-09-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
