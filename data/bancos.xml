@@ -8817,6 +8817,26 @@
     <DateUpdated>2025-01-29T12:33:42.9304449Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>670</COMPE>
+    <ISPB>11491029</ISPB>
+    <Document>11.491.029/0001-30</Document>
+    <LongName>IP4Y INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>IP4Y IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-08</DateOperationStarted>
+    <DatePixStarted>2024-11-04 10:41:09</DatePixStarted>
+    <DateRegistered>2025-09-02T12:09:40.6519562Z</DateRegistered>
+    <DateUpdated>2025-09-02T12:09:39.5426304Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>671</COMPE>
     <ISPB>26264220</ISPB>
     <Document>26.264.220/0001-16</Document>
@@ -9028,8 +9048,8 @@
     <COMPE>684</COMPE>
     <ISPB>56392166</ISPB>
     <Document>56.392.166/0001-55</Document>
-    <LongName>PLUG FINANCEIRA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>PLUG FINANCEIRA S.A. SCFI</ShortName>
+    <LongName>HARMOS S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>HARMOS S.A. - SCFI</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -9040,7 +9060,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-06-24</DateOperationStarted>
     <DateRegistered>2025-06-20T12:09:27.4967752Z</DateRegistered>
-    <DateUpdated>2025-06-20T12:09:27.4967938Z</DateUpdated>
+    <DateUpdated>2025-09-01T12:09:23.0599952Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>685</COMPE>
@@ -9175,6 +9195,24 @@
     <DateOperationStarted>2025-06-27</DateOperationStarted>
     <DateRegistered>2025-06-23T12:09:36.2371877Z</DateRegistered>
     <DateUpdated>2025-06-23T12:09:36.2372141Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>693</COMPE>
+    <ISPB>32820711</ISPB>
+    <Document>32.820.711/0001-07</Document>
+    <LongName>EFEX INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>EFEX IP</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-05</DateOperationStarted>
+    <DateRegistered>2025-09-01T12:09:25.2629253Z</DateRegistered>
+    <DateUpdated>2025-09-01T12:09:25.262943Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>694</COMPE>
