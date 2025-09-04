@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-09-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 695 - BEES IP LTDA. - 35.523.352/0001-06
+
 ### 2025-09-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

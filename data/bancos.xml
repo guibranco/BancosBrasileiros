@@ -9235,6 +9235,26 @@
     <DateUpdated>2025-05-21T12:09:23.3887152Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>695</COMPE>
+    <ISPB>35523352</ISPB>
+    <Document>35.523.352/0001-06</Document>
+    <LongName>BEES INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>BEES IP LTDA.</ShortName>
+    <Network>Internet</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-04</DateOperationStarted>
+    <DatePixStarted>2021-08-10 18:57:00</DatePixStarted>
+    <DateRegistered>2025-09-04T12:09:05.5506534Z</DateRegistered>
+    <DateUpdated>2025-09-04T12:09:04.6066825Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>698</COMPE>
     <ISPB>58367961</ISPB>
     <Document>58.367.961/0001-19</Document>
