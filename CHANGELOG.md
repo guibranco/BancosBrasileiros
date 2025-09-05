@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-09-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 342 - CREDITAS SCD - 32.997.490/0001-39
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal, Troca de modalide.
+
 ### 2025-09-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

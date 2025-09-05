@@ -4501,12 +4501,16 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Crédito Pessoal",
+      "Troca de modalide."
+    ],
     "Url": null,
     "DateOperationStarted": "2019-07-26",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115047-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115049-03:00"
+    "DateUpdated": "2025-09-05T12:08:50.482348+00:00"
   },
   {
     "COMPE": "343",

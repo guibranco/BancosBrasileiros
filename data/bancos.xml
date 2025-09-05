@@ -3925,11 +3925,16 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Troca de modalide.</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-07-26</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115047-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115049-03:00</DateUpdated>
+    <DateUpdated>2025-09-05T12:08:50.482348Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>343</COMPE>
