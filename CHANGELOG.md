@@ -4,6 +4,26 @@
 
 ## Changelog
 
+### 2025-09-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 759 - BANSUR JM SCD S.A. - 42.963.742/0001-62
+- Updated 1 bank
+  - 646 - DM SA CFI - 91.669.747/0001-92
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-09-08 10:13:23
+
+### 2025-09-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 342 - CREDITAS SCD - 32.997.490/0001-39
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal, Troca de modalide.
+
+### 2025-09-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 695 - BEES IP LTDA. - 35.523.352/0001-06
+
 ### 2025-09-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
