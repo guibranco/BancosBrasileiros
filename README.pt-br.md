@@ -192,13 +192,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/icarusiftctts">
-                    <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
-                    <br />
-                    <sub><b>Praneel Dev</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/raphaelcunha">
                     <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
                     <br />
@@ -206,105 +199,24 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/Baldini">
-                    <img src="https://avatars.githubusercontent.com/u/8235570?v=4" width="100;" alt="Baldini"/>
+                <a href="https://github.com/icarusiftctts">
+                    <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
                     <br />
-                    <sub><b>Guilherme Baldini</b></sub>
+                    <sub><b>Praneel Dev</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/BrunoM90">
-                    <img src="https://avatars.githubusercontent.com/u/152902220?v=4" width="100;" alt="BrunoM90"/>
+                <a href="https://github.com/vduggen">
+                    <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
                     <br />
-                    <sub><b>Null</b></sub>
+                    <sub><b>Vitor Duggen</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/sahalhes">
-                    <img src="https://avatars.githubusercontent.com/u/146409442?v=4" width="100;" alt="sahalhes"/>
+                <a href="https://github.com/rodrigondec">
+                    <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
                     <br />
-                    <sub><b>E S Sahal Hussain</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/Erick-Bueno">
-                    <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
-                    <br />
-                    <sub><b>Erick Bueno</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/pferreirafabricio">
-                    <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
-                    <br />
-                    <sub><b>Fabrício Pinto Ferreira</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Guillergood">
-                    <img src="https://avatars.githubusercontent.com/u/16701917?v=4" width="100;" alt="Guillergood"/>
-                    <br />
-                    <sub><b>Guillermo Bueno Vargas</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/iurisilvio">
-                    <img src="https://avatars.githubusercontent.com/u/105852?v=4" width="100;" alt="iurisilvio"/>
-                    <br />
-                    <sub><b>Iuri De Silvio</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/jesobreira">
-                    <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
-                    <br />
-                    <sub><b>Jefrey Sobreira Santos</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/joaovaladares">
-                    <img src="https://avatars.githubusercontent.com/u/42593399?v=4" width="100;" alt="joaovaladares"/>
-                    <br />
-                    <sub><b>João V. Valadares</b></sub>
-                </a>
-            </td>
-		</tr>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/leogregianin">
-                    <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
-                    <br />
-                    <sub><b>Leonardo Gregianin</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/MauriciDmarc">
-                    <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
-                    <br />
-                    <sub><b>Maurici Dmarco</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/rafaeldomi">
-                    <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
-                    <br />
-                    <sub><b>Rafael Domiciano</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/victorbrandaao">
-                    <img src="https://avatars.githubusercontent.com/u/85573492?v=4" width="100;" alt="victorbrandaao"/>
-                    <br />
-                    <sub><b>Victor Leonardo Brandão</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/AmolKumarGupta">
-                    <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
-                    <br />
-                    <sub><b>Amol</b></sub>
+                    <sub><b>Rodrigo Castro</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -317,17 +229,105 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/rodrigondec">
-                    <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
+                <a href="https://github.com/AmolKumarGupta">
+                    <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
                     <br />
-                    <sub><b>Rodrigo Castro</b></sub>
+                    <sub><b>Amol</b></sub>
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/vduggen">
-                    <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
+                <a href="https://github.com/victorbrandaao">
+                    <img src="https://avatars.githubusercontent.com/u/85573492?v=4" width="100;" alt="victorbrandaao"/>
                     <br />
-                    <sub><b>Vitor Duggen</b></sub>
+                    <sub><b>Victor Leonardo Brandão</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/rafaeldomi">
+                    <img src="https://avatars.githubusercontent.com/u/135021?v=4" width="100;" alt="rafaeldomi"/>
+                    <br />
+                    <sub><b>Rafael Domiciano</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/MauriciDmarc">
+                    <img src="https://avatars.githubusercontent.com/u/129069676?v=4" width="100;" alt="MauriciDmarc"/>
+                    <br />
+                    <sub><b>Maurici Dmarco</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/leogregianin">
+                    <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
+                    <br />
+                    <sub><b>Leonardo Gregianin</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/joaovaladares">
+                    <img src="https://avatars.githubusercontent.com/u/42593399?v=4" width="100;" alt="joaovaladares"/>
+                    <br />
+                    <sub><b>João V. Valadares</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/jesobreira">
+                    <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
+                    <br />
+                    <sub><b>Jefrey Sobreira Santos</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/iurisilvio">
+                    <img src="https://avatars.githubusercontent.com/u/105852?v=4" width="100;" alt="iurisilvio"/>
+                    <br />
+                    <sub><b>Iuri De Silvio</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Guillergood">
+                    <img src="https://avatars.githubusercontent.com/u/16701917?v=4" width="100;" alt="Guillergood"/>
+                    <br />
+                    <sub><b>Guillermo Bueno Vargas</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/pferreirafabricio">
+                    <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
+                    <br />
+                    <sub><b>Fabrício Pinto Ferreira</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Erick-Bueno">
+                    <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
+                    <br />
+                    <sub><b>Erick Bueno</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/sahalhes">
+                    <img src="https://avatars.githubusercontent.com/u/146409442?v=4" width="100;" alt="sahalhes"/>
+                    <br />
+                    <sub><b>E S Sahal Hussain</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
+                <a href="https://github.com/BrunoM90">
+                    <img src="https://avatars.githubusercontent.com/u/152902220?v=4" width="100;" alt="BrunoM90"/>
+                    <br />
+                    <sub><b>Null</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Baldini">
+                    <img src="https://avatars.githubusercontent.com/u/8235570?v=4" width="100;" alt="Baldini"/>
+                    <br />
+                    <sub><b>Guilherme Baldini</b></sub>
                 </a>
             </td>
 		</tr>
@@ -393,10 +393,10 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/codefactor-io[bot]">
-                    <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
+                <a href="https://github.com/deepsource-io[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/16372?v=4" width="100;" alt="deepsource-io[bot]"/>
                     <br />
-                    <sub><b>codefactor-io[bot]</b></sub>
+                    <sub><b>deepsource-io[bot]</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -407,10 +407,10 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/deepsource-io[bot]">
-                    <img src="https://avatars.githubusercontent.com/in/16372?v=4" width="100;" alt="deepsource-io[bot]"/>
+                <a href="https://github.com/codefactor-io[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/25603?v=4" width="100;" alt="codefactor-io[bot]"/>
                     <br />
-                    <sub><b>deepsource-io[bot]</b></sub>
+                    <sub><b>codefactor-io[bot]</b></sub>
                 </a>
             </td>
 		</tr>
