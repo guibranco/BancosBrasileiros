@@ -9347,6 +9347,24 @@
     <DateUpdated>2024-05-15T16:49:45.7268243Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>708</COMPE>
+    <ISPB>33588252</ISPB>
+    <Document>33.588.252/0001-32</Document>
+    <LongName>BANCO INDUSCRED DE INVESTIMENTO S.A.</LongName>
+    <ShortName>BCO INDUSCRED DE INVESTIM. S/A</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-17</DateOperationStarted>
+    <DateRegistered>2025-09-11T12:09:06.5078443Z</DateRegistered>
+    <DateUpdated>2025-09-11T12:09:06.5078638Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>712</COMPE>
     <ISPB>78632767</ISPB>
     <Document>78.632.767/0001-20</Document>

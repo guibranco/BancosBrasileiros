@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-09-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 708 - BCO INDUSCRED DE INVESTIM. S/A - 33.588.252/0001-32
+
 ### 2025-09-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
