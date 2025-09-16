@@ -11506,5 +11506,28 @@
     "DatePixStarted": "2025-08-18 10:10:00",
     "DateRegistered": "2025-08-18T12:09:55.8198878+00:00",
     "DateUpdated": "2025-08-19T12:09:19.8698007+00:00"
+  },
+  {
+    "COMPE": "772",
+    "ISPB": "20833992",
+    "Document": "20.833.992/0001-45",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA",
+    "ShortName": "CC MECUNP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-09-22",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-09-16T12:09:42.5446455+00:00",
+    "DateUpdated": "2025-09-16T12:09:42.5446735+00:00"
   }
 ]
