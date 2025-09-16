@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-09-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 772 - CC MECUNP - 20.833.992/0001-45
+
 ### 2025-09-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

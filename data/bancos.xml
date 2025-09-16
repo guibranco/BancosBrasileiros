@@ -9943,4 +9943,22 @@
     <DateRegistered>2025-08-18T12:09:55.8198878Z</DateRegistered>
     <DateUpdated>2025-08-19T12:09:19.8698007Z</DateUpdated>
   </bank>
+  <bank>
+    <COMPE>772</COMPE>
+    <ISPB>20833992</ISPB>
+    <Document>20.833.992/0001-45</Document>
+    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA</LongName>
+    <ShortName>CC MECUNP</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-22</DateOperationStarted>
+    <DateRegistered>2025-09-16T12:09:42.5446455Z</DateRegistered>
+    <DateUpdated>2025-09-16T12:09:42.5446735Z</DateUpdated>
+  </bank>
 </banks>
