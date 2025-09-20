@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-09-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 461 - ASAAS IP S.A. - 19.540.550/0001-21
+    - **Pcrp** (PCR): False **->** True
+
 ### 2025-09-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

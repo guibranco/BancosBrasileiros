@@ -5882,12 +5882,12 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
-    <PCRP>false</PCRP>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-10-29</DateOperationStarted>
     <DatePixStarted>2021-11-01 09:00:00</DatePixStarted>
     <DateRegistered>2021-11-22T11:00:23.6790202-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7201875Z</DateUpdated>
+    <DateUpdated>2025-09-20T12:08:16.5032214Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>462</COMPE>
