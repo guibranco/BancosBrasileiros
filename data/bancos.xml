@@ -9906,6 +9906,24 @@
     <DateUpdated>2025-06-18T12:09:52.6472819Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>766</COMPE>
+    <ISPB>52833288</ISPB>
+    <Document>52.833.288/0001-89</Document>
+    <LongName>LB PAY INSTITUIÇÃO DE PAGAMENTO LTDA</LongName>
+    <ShortName>LB PAY IP LTDA</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-26</DateOperationStarted>
+    <DateRegistered>2025-09-22T12:09:35.3767172Z</DateRegistered>
+    <DateUpdated>2025-09-22T12:09:35.376736Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>768</COMPE>
     <ISPB>20443996</ISPB>
     <Document>20.443.996/0001-17</Document>
