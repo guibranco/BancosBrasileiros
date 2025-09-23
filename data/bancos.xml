@@ -8011,6 +8011,24 @@
     <DateUpdated>2024-09-06T12:31:46.1754236Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>598</COMPE>
+    <ISPB>50626276</ISPB>
+    <Document>50.626.276/0001-58</Document>
+    <LongName>KONECT SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>KONECT SCD S/A</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-29</DateOperationStarted>
+    <DateRegistered>2025-09-23T12:09:40.5277053Z</DateRegistered>
+    <DateUpdated>2025-09-23T12:09:40.5277237Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>599</COMPE>
     <ISPB>36321990</ISPB>
     <Document>36.321.990/0001-07</Document>

@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-09-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 598 - KONECT SCD S/A - 50.626.276/0001-58
+
 ### 2025-09-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
