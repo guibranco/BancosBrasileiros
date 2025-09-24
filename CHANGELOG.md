@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-09-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 699 - BFC SCD S.A. - 59.396.084/0001-77
+
 ### 2025-09-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

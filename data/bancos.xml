@@ -9298,6 +9298,24 @@
     <DateUpdated>2025-07-16T12:10:03.3796735Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>699</COMPE>
+    <ISPB>59396084</ISPB>
+    <Document>59.396.084/0001-77</Document>
+    <LongName>BFC SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>BFC SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-30</DateOperationStarted>
+    <DateRegistered>2025-09-24T12:09:40.0805374Z</DateRegistered>
+    <DateUpdated>2025-09-24T12:09:40.0805556Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>701</COMPE>
     <ISPB>51118615</ISPB>
     <Document>51.118.615/0001-58</Document>
