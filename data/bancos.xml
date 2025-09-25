@@ -9352,6 +9352,24 @@
     <DateUpdated>2025-08-07T12:10:40.5358558Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>704</COMPE>
+    <ISPB>44663846</ISPB>
+    <Document>44.663.846/0001-87</Document>
+    <LongName>FEATBANK INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>FEATBANK IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-10-01</DateOperationStarted>
+    <DateRegistered>2025-09-25T12:40:48.6655149Z</DateRegistered>
+    <DateUpdated>2025-09-25T12:40:48.6655433Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>707</COMPE>
     <ISPB>62232889</ISPB>
     <Document>62.232.889/0001-90</Document>

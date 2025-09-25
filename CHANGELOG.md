@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-09-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 704 - FEATBANK IP LTDA - 44.663.846/0001-87
+
 ### 2025-09-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
