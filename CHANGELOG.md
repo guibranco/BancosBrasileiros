@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-09-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 349 - AL5 S.A. SCFI - 27.214.112/0001-00
+    - **LongName** (STR): AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO **->** AL5 S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): AL5 S.A. CFI **->** AL5 S.A. SCFI
+  - 374 - REALIZE SCFI S.A. - 27.351.731/0001-38
+    - **LongName** (STR): REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. **->** REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+    - **ShortName** (STR): REALIZE CFI S.A. **->** REALIZE SCFI S.A.
+
 ### 2025-09-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

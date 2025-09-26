@@ -3984,8 +3984,8 @@
     <COMPE>349</COMPE>
     <ISPB>27214112</ISPB>
     <Document>27.214.112/0001-00</Document>
-    <LongName>AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>AL5 S.A. CFI</ShortName>
+    <LongName>AL5 S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>AL5 S.A. SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4008,7 +4008,7 @@
     <DateOperationStarted>2019-10-24</DateOperationStarted>
     <DatePixStarted>2023-08-01 15:22:55</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114967-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1707501Z</DateUpdated>
+    <DateUpdated>2025-09-26T12:40:05.1333459Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>350</COMPE>
@@ -4372,8 +4372,8 @@
     <COMPE>374</COMPE>
     <ISPB>27351731</ISPB>
     <Document>27.351.731/0001-38</Document>
-    <LongName>REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
-    <ShortName>REALIZE CFI S.A.</ShortName>
+    <LongName>REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>REALIZE SCFI S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4390,7 +4390,7 @@
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2021-04-14 12:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114975-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9603428Z</DateUpdated>
+    <DateUpdated>2025-09-26T12:40:05.1337797Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>376</COMPE>
