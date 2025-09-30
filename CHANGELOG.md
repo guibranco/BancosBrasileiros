@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-09-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 382 - FIDUCIA SCMEPP LTDA - 04.307.598/0001-17
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2025-09-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
