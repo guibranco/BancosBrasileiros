@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 697 - MARMARIS - 45.056.494/0001-64
+
 ### 2025-09-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
