@@ -9280,6 +9280,24 @@
     <DateUpdated>2025-09-04T12:09:04.6066825Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>697</COMPE>
+    <ISPB>45056494</ISPB>
+    <Document>45.056.494/0001-64</Document>
+    <LongName>MARMARIS CORRETORA DE CÂMBIO LTDA.</LongName>
+    <ShortName>MARMARIS</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-10-07</DateOperationStarted>
+    <DateRegistered>2025-10-01T12:41:54.0163983Z</DateRegistered>
+    <DateUpdated>2025-10-01T12:41:54.016428Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>698</COMPE>
     <ISPB>58367961</ISPB>
     <Document>58.367.961/0001-19</Document>
