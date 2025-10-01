@@ -3984,8 +3984,8 @@
     <COMPE>349</COMPE>
     <ISPB>27214112</ISPB>
     <Document>27.214.112/0001-00</Document>
-    <LongName>AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>AL5 S.A. CFI</ShortName>
+    <LongName>AL5 S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>AL5 S.A. SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4008,7 +4008,7 @@
     <DateOperationStarted>2019-10-24</DateOperationStarted>
     <DatePixStarted>2023-08-01 15:22:55</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114967-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.1707501Z</DateUpdated>
+    <DateUpdated>2025-09-26T12:40:05.1333459Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>350</COMPE>
@@ -4372,8 +4372,8 @@
     <COMPE>374</COMPE>
     <ISPB>27351731</ISPB>
     <Document>27.351.731/0001-38</Document>
-    <LongName>REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
-    <ShortName>REALIZE CFI S.A.</ShortName>
+    <LongName>REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>REALIZE SCFI S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4390,7 +4390,7 @@
     <DateOperationStarted>2020-09-16</DateOperationStarted>
     <DatePixStarted>2021-04-14 12:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114975-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9603428Z</DateUpdated>
+    <DateUpdated>2025-09-26T12:40:05.1337797Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>376</COMPE>
@@ -4547,14 +4547,14 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2020-07-31</DateOperationStarted>
     <DatePixStarted>2021-12-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114541-03:00</DateRegistered>
-    <DateUpdated>2025-01-29T12:33:42.9254981Z</DateUpdated>
+    <DateUpdated>2025-09-30T12:41:42.7773357Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>383</COMPE>
@@ -8011,6 +8011,24 @@
     <DateUpdated>2024-09-06T12:31:46.1754236Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>598</COMPE>
+    <ISPB>50626276</ISPB>
+    <Document>50.626.276/0001-58</Document>
+    <LongName>KONECT SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
+    <ShortName>KONECT SCD S/A</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-29</DateOperationStarted>
+    <DateRegistered>2025-09-23T12:09:40.5277053Z</DateRegistered>
+    <DateUpdated>2025-09-23T12:09:40.5277237Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>599</COMPE>
     <ISPB>36321990</ISPB>
     <Document>36.321.990/0001-07</Document>
@@ -9280,6 +9298,24 @@
     <DateUpdated>2025-07-16T12:10:03.3796735Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>699</COMPE>
+    <ISPB>59396084</ISPB>
+    <Document>59.396.084/0001-77</Document>
+    <LongName>BFC SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>BFC SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-09-30</DateOperationStarted>
+    <DateRegistered>2025-09-24T12:09:40.0805374Z</DateRegistered>
+    <DateUpdated>2025-09-24T12:09:40.0805556Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>701</COMPE>
     <ISPB>51118615</ISPB>
     <Document>51.118.615/0001-58</Document>
@@ -9314,6 +9350,24 @@
     <DateOperationStarted>2025-08-13</DateOperationStarted>
     <DateRegistered>2025-08-07T12:10:40.5358274Z</DateRegistered>
     <DateUpdated>2025-08-07T12:10:40.5358558Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>704</COMPE>
+    <ISPB>44663846</ISPB>
+    <Document>44.663.846/0001-87</Document>
+    <LongName>FEATBANK INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>FEATBANK IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-10-01</DateOperationStarted>
+    <DateRegistered>2025-09-25T12:40:48.6655149Z</DateRegistered>
+    <DateUpdated>2025-09-25T12:40:48.6655433Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>

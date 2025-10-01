@@ -4,6 +4,38 @@
 
 ## Changelog
 
+### 2025-09-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 382 - FIDUCIA SCMEPP LTDA - 04.307.598/0001-17
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
+### 2025-09-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 349 - AL5 S.A. SCFI - 27.214.112/0001-00
+    - **LongName** (STR): AL5 S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO **->** AL5 S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): AL5 S.A. CFI **->** AL5 S.A. SCFI
+  - 374 - REALIZE SCFI S.A. - 27.351.731/0001-38
+    - **LongName** (STR): REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. **->** REALIZE SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+    - **ShortName** (STR): REALIZE CFI S.A. **->** REALIZE SCFI S.A.
+
+### 2025-09-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 704 - FEATBANK IP LTDA - 44.663.846/0001-87
+
+### 2025-09-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 699 - BFC SCD S.A. - 59.396.084/0001-77
+
+### 2025-09-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 598 - KONECT SCD S/A - 50.626.276/0001-58
+
 ### 2025-09-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
