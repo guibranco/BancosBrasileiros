@@ -53,7 +53,7 @@ jobs:
 
             - name: Create issue
               if: always() && github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
-              uses: peter-evans/create-issue-from-file@v5
+              uses: peter-evans/create-issue-from-file@v6
               with:
                   title: 🔗✅ Link checker report
                   labels: |
