@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-10-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 567 - MERCANTIL FINANCEIRA - 33.040.601/0001-87
+    - **LongName** (STR): MERCANTIL FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO **->** MERCANTIL FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO.
+
 ### 2025-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
