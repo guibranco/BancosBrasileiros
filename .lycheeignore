@@ -35,6 +35,8 @@ haitongib\.com\.br
 credicoamo\.com\.br
 hipercard\.com\.br
 https?:\/\/localhost
+re:^https?://(www\.)?npmjs\.com/
+re:^https?://registry\.npmjs\.org/
 icbc\.com\.cn
 itau\.com\.br
 lecca\.com\.br
