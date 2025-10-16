@@ -7573,6 +7573,27 @@
     <DateUpdated>2024-12-05T12:08:35.7332513Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>573</COMPE>
+    <ISPB>18282093</ISPB>
+    <Document>18.282.093/0001-50</Document>
+    <LongName>OXY COMPANHIA HIPOTECÁRIA</LongName>
+    <ShortName>OXY CH</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Imobiliário</Product>
+    </Products>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-10-20</DateOperationStarted>
+    <DateRegistered>2025-10-16T12:42:07.4681323Z</DateRegistered>
+    <DateUpdated>2025-10-16T12:42:07.4187823Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>574</COMPE>
     <ISPB>48756121</ISPB>
     <Document>48.756.121/0001-94</Document>
@@ -9334,6 +9355,24 @@
     <DateUpdated>2025-09-24T12:09:40.0805556Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>700</COMPE>
+    <ISPB>53822116</ISPB>
+    <Document>53.822.116/0001-72</Document>
+    <LongName>MW INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>MW IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-10-21</DateOperationStarted>
+    <DateRegistered>2025-10-16T12:42:07.4681663Z</DateRegistered>
+    <DateUpdated>2025-10-16T12:42:07.4681664Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>701</COMPE>
     <ISPB>51118615</ISPB>
     <Document>51.118.615/0001-58</Document>
@@ -10032,6 +10071,24 @@
     <DatePixStarted>2025-08-18 10:10:00</DatePixStarted>
     <DateRegistered>2025-08-18T12:09:55.8198878Z</DateRegistered>
     <DateUpdated>2025-08-19T12:09:19.8698007Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>771</COMPE>
+    <ISPB>57824223</ISPB>
+    <Document>57.824.223/0001-90</Document>
+    <LongName>WX INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>WX IP LTDA.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-10-20</DateOperationStarted>
+    <DateRegistered>2025-10-16T12:42:07.4681667Z</DateRegistered>
+    <DateUpdated>2025-10-16T12:42:07.4681668Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>772</COMPE>
