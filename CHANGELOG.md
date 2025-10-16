@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-10-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 3 banks
+  - 573 - OXY CH - 18.282.093/0001-50
+  - 700 - MW IP LTDA. - 53.822.116/0001-72
+  - 771 - WX IP LTDA. - 57.824.223/0001-90
+
 ### 2025-10-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
