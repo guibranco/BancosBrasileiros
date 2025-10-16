@@ -35,8 +35,6 @@
   "bugs": {
     "url": "https://github.com/guibranco/BancosBrasileiros/issues"
   },
-  "homepage": "https://guilherme.stracini.com.br/BancosBrasileiros/",
-  "dependencies": {
-    "lychee": "^0.2.12"
-  }
+  "homepage": "https://guilherme.stracini.com.br/BancosBrasileiros/"
+  
 }
