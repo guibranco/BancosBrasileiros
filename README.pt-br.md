@@ -133,9 +133,7 @@ bancos_brasileiros = "0.1.0"
 
 ### Node.js (NPM)
 
-<!-- lychee: https://registry.npmjs.org/bancos-brasileiros -->
 [![npm](https://img.shields.io/npm/v/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
-<!-- lychee: https://registry.npmjs.org/bancos-brasileiros -->
 [![npm](https://img.shields.io/npm/dy/bancos-brasileiros)](https://www.npmjs.com/package/bancos-brasileiros)
 
 ```bash
