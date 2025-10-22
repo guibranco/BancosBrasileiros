@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-10-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 679 - PAY IP S.A. - 36.690.516/0001-52
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-10-27 10:00:00
+  - 700 - MW IP LTDA. - 53.822.116/0001-72
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-10-28 09:00:00
+
 ### 2025-10-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 3 banks

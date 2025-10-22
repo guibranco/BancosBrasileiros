@@ -10442,7 +10442,7 @@
     "ShortName": "PAY IP S.A.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10453,9 +10453,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-04-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-10-27 10:00:00",
     "DateRegistered": "2025-03-26T12:08:47.5102621+00:00",
-    "DateUpdated": "2025-03-26T12:08:47.5102845+00:00"
+    "DateUpdated": "2025-10-22T12:09:52.8398644+00:00"
   },
   {
     "COMPE": "680",
@@ -10856,7 +10856,7 @@
     "ShortName": "MW IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10867,9 +10867,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-10-21",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-10-28 09:00:00",
     "DateRegistered": "2025-10-16T12:42:07.4681663+00:00",
-    "DateUpdated": "2025-10-16T12:42:07.4681664+00:00"
+    "DateUpdated": "2025-10-22T12:09:52.9345243+00:00"
   },
   {
     "COMPE": "701",

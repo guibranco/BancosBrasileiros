@@ -9023,6 +9023,7 @@
     <LongName>PAY INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>PAY IP S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9031,8 +9032,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-04-01</DateOperationStarted>
+    <DatePixStarted>2025-10-27 10:00:00</DatePixStarted>
     <DateRegistered>2025-03-26T12:08:47.5102621Z</DateRegistered>
-    <DateUpdated>2025-03-26T12:08:47.5102845Z</DateUpdated>
+    <DateUpdated>2025-10-22T12:09:52.8398644Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>680</COMPE>
@@ -9361,6 +9363,7 @@
     <LongName>MW INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>MW IP LTDA.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9369,8 +9372,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-10-21</DateOperationStarted>
+    <DatePixStarted>2025-10-28 09:00:00</DatePixStarted>
     <DateRegistered>2025-10-16T12:42:07.4681663Z</DateRegistered>
-    <DateUpdated>2025-10-16T12:42:07.4681664Z</DateUpdated>
+    <DateUpdated>2025-10-22T12:09:52.9345243Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>701</COMPE>
