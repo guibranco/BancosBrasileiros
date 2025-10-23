@@ -4,6 +4,12 @@
 
 ## Changelog
 
+### 2025-10-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 555 - "PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS" - 02.682.287/0001-02
+    - **ShortName** (STR): PAN CFI **->** "PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS"
+
 ### 2025-10-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
