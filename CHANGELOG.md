@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-10-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 665 - STARK BANK S.A. - IP - 20.018.183/0001-80
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2021-12-21 02:14:54 **->** 2025-10-23 10:10:00
+
 ### 2025-10-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

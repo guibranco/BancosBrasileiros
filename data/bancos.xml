@@ -8793,7 +8793,7 @@
     <LongName>STARK BANK S.A. - INSTITUICAO DE PAGAMENTO</LongName>
     <ShortName>STARK BANK S.A. - IP</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8802,9 +8802,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-11-25</DateOperationStarted>
-    <DatePixStarted>2021-12-21 02:14:54</DatePixStarted>
+    <DatePixStarted>2025-10-23 10:10:00</DatePixStarted>
     <DateRegistered>2024-11-20T12:08:13.9187948Z</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:12.9272681Z</DateUpdated>
+    <DateUpdated>2025-10-24T12:10:16.708984Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>666</COMPE>

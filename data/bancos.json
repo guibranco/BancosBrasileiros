@@ -10166,7 +10166,7 @@
     "ShortName": "STARK BANK S.A. - IP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10177,9 +10177,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-11-25",
-    "DatePixStarted": "2021-12-21 02:14:54",
+    "DatePixStarted": "2025-10-23 10:10:00",
     "DateRegistered": "2024-11-20T12:08:13.9187948+00:00",
-    "DateUpdated": "2024-11-20T12:08:12.9272681+00:00"
+    "DateUpdated": "2025-10-24T12:10:16.708984+00:00"
   },
   {
     "COMPE": "666",
