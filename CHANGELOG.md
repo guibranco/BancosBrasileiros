@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-10-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 773 - KIWIFY IP - 53.908.413/0001-35
+
 ### 2025-10-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

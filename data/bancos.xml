@@ -10112,4 +10112,22 @@
     <DateRegistered>2025-09-16T12:09:42.5446455Z</DateRegistered>
     <DateUpdated>2025-09-16T12:09:42.5446735Z</DateUpdated>
   </bank>
+  <bank>
+    <COMPE>773</COMPE>
+    <ISPB>53908413</ISPB>
+    <Document>53.908.413/0001-35</Document>
+    <LongName>KIWIFY INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>KIWIFY IP</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-10-31</DateOperationStarted>
+    <DateRegistered>2025-10-27T12:09:55.789143Z</DateRegistered>
+    <DateUpdated>2025-10-27T12:09:55.7891705Z</DateUpdated>
+  </bank>
 </banks>
