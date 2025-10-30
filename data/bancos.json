@@ -9666,8 +9666,8 @@
     "COMPE": "630",
     "ISPB": "58497702",
     "Document": "58.497.702/0001-02",
-    "LongName": "BANCO BLUEBANK S.A.",
-    "ShortName": "BCO BLUEBANK S.A.",
+    "LongName": "BANCO LETSBANK S.A.",
+    "ShortName": "BANCO LETSBANK S.A.",
     "Network": "RSFN",
     "Type": "Banco Múltiplo",
     "PixType": "DRCT",
@@ -9683,7 +9683,7 @@
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115221-03:00",
-    "DateUpdated": "2025-03-24T17:11:52.2343929+00:00"
+    "DateUpdated": "2025-10-30T12:09:47.9888755+00:00"
   },
   {
     "COMPE": "632",
@@ -10626,7 +10626,7 @@
     "ShortName": "KIKAI SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10637,9 +10637,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-04-15",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-11-24 09:00:00",
     "DateRegistered": "2025-04-09T12:08:48.4735918+00:00",
-    "DateUpdated": "2025-04-09T12:08:48.4736154+00:00"
+    "DateUpdated": "2025-10-30T12:09:49.3148617+00:00"
   },
   {
     "COMPE": "689",

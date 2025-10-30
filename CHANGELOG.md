@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-10-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 630 - BANCO LETSBANK S.A. - 58.497.702/0001-02
+    - **LongName** (STR): BANCO BLUEBANK S.A. **->** BANCO LETSBANK S.A.
+    - **ShortName** (STR): BCO BLUEBANK S.A. **->** BANCO LETSBANK S.A.
+  - 688 - KIKAI SCD S.A. - 43.978.697/0001-82
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-11-24 09:00:00
+
 ### 2025-10-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

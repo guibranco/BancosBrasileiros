@@ -8349,8 +8349,8 @@
     <COMPE>630</COMPE>
     <ISPB>58497702</ISPB>
     <Document>58.497.702/0001-02</Document>
-    <LongName>BANCO BLUEBANK S.A.</LongName>
-    <ShortName>BCO BLUEBANK S.A.</ShortName>
+    <LongName>BANCO LETSBANK S.A.</LongName>
+    <ShortName>BANCO LETSBANK S.A.</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -8364,7 +8364,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115221-03:00</DateRegistered>
-    <DateUpdated>2025-03-24T17:11:52.2343929Z</DateUpdated>
+    <DateUpdated>2025-10-30T12:09:47.9888755Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>632</COMPE>
@@ -9177,6 +9177,7 @@
     <LongName>KIKAI SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>KIKAI SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9185,8 +9186,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-04-15</DateOperationStarted>
+    <DatePixStarted>2025-11-24 09:00:00</DatePixStarted>
     <DateRegistered>2025-04-09T12:08:48.4735918Z</DateRegistered>
-    <DateUpdated>2025-04-09T12:08:48.4736154Z</DateUpdated>
+    <DateUpdated>2025-10-30T12:09:49.3148617Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>689</COMPE>
