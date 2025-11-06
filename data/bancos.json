@@ -11738,5 +11738,28 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-10-27T12:09:55.789143+00:00",
     "DateUpdated": "2025-10-27T12:09:55.7891705+00:00"
+  },
+  {
+    "COMPE": "790",
+    "ISPB": "54024532",
+    "Document": "54.024.532/0001-98",
+    "LongName": "MAX INSTITUIÇÃO DE PAGAMENTO LTDA",
+    "ShortName": "MAX IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-11-12",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-11-06T12:09:45.8734762+00:00",
+    "DateUpdated": "2025-11-06T12:09:45.8734949+00:00"
   }
 ]

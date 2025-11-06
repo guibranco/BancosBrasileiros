@@ -4,6 +4,11 @@
 
 ## Changelog
 
+### 2025-11-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 790 - MAX IP - 54.024.532/0001-98
+
 ### 2025-10-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
