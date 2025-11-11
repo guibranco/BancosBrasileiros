@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-11-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 680 - DELTA GLOBAL SCD S.A. - 55.823.094/0001-90
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2025-11-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

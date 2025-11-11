@@ -10470,15 +10470,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-04-17",
     "DatePixStarted": null,
     "DateRegistered": "2025-04-11T12:08:52.4220604+00:00",
-    "DateUpdated": "2025-04-11T12:08:52.4220785+00:00"
+    "DateUpdated": "2025-11-11T12:09:44.0495594+00:00"
   },
   {
     "COMPE": "681",
