@@ -4182,8 +4182,8 @@
     <COMPE>363</COMPE>
     <ISPB>62285390</ISPB>
     <Document>62.285.390/0001-40</Document>
-    <LongName>SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
-    <ShortName>SINGULARE CTVM S.A.</ShortName>
+    <LongName>QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>QI CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4196,7 +4196,7 @@
     <DateOperationStarted>2020-06-01</DateOperationStarted>
     <DatePixStarted>2025-07-10 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115346-03:00</DateRegistered>
-    <DateUpdated>2025-07-05T12:10:18.7428509Z</DateUpdated>
+    <DateUpdated>2025-11-12T12:10:08.2219155Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>364</COMPE>
@@ -5756,8 +5756,8 @@
     <COMPE>455</COMPE>
     <ISPB>38429045</ISPB>
     <Document>38.429.045/0001-59</Document>
-    <LongName>FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>FÊNIX DTVM LTDA.</ShortName>
+    <LongName>VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>VIS DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5768,7 +5768,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-05</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.984961Z</DateRegistered>
-    <DateUpdated>2022-11-30T12:07:13.984961Z</DateUpdated>
+    <DateUpdated>2025-11-12T12:10:08.2198314Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>456</COMPE>

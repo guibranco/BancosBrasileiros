@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-11-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 363 - QI CTVM S.A. - 62.285.390/0001-40
+    - **LongName** (STR): SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. **->** QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): SINGULARE CTVM S.A. **->** QI CTVM S.A.
+  - 455 - VIS DTVM LTDA - 38.429.045/0001-59
+    - **LongName** (STR): FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. **->** VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA
+    - **ShortName** (STR): FÊNIX DTVM LTDA. **->** VIS DTVM LTDA
+
 ### 2025-11-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
