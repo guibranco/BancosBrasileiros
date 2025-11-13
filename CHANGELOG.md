@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-11-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 682 - MONERY IP S.A. - 46.505.612/0001-37
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-12-22 10:00:00
+
 ### 2025-11-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

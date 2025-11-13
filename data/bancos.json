@@ -10511,7 +10511,7 @@
     "ShortName": "MONERY IP S.A.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10522,9 +10522,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-02-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-12-22 10:00:00",
     "DateRegistered": "2025-01-28T12:33:58.5362079+00:00",
-    "DateUpdated": "2025-01-28T12:33:58.5362384+00:00"
+    "DateUpdated": "2025-11-13T12:10:04.961929+00:00"
   },
   {
     "COMPE": "684",

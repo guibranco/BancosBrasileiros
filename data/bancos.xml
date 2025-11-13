@@ -9081,6 +9081,7 @@
     <LongName>MONERY INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>MONERY IP S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9089,8 +9090,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-02-03</DateOperationStarted>
+    <DatePixStarted>2025-12-22 10:00:00</DatePixStarted>
     <DateRegistered>2025-01-28T12:33:58.5362079Z</DateRegistered>
-    <DateUpdated>2025-01-28T12:33:58.5362384Z</DateUpdated>
+    <DateUpdated>2025-11-13T12:10:04.961929Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>684</COMPE>
