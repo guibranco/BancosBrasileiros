@@ -1269,8 +1269,8 @@
     <COMPE>101</COMPE>
     <ISPB>62287735</ISPB>
     <Document>62.287.735/0001-03</Document>
-    <LongName>RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>RENASCENCA DTVM LTDA</ShortName>
+    <LongName>WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>WARREN RENA DTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1281,7 +1281,7 @@
     <Url>https://www.warren.com.br/</Url>
     <DateOperationStarted>2010-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711535-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115352-03:00</DateUpdated>
+    <DateUpdated>2025-11-14T12:09:56.2525187Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>102</COMPE>

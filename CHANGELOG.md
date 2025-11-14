@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-11-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 101 - WARREN RENA DTVM - 62.287.735/0001-03
+    - **LongName** (STR): RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA **->** WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA
+    - **ShortName** (STR): RENASCENCA DTVM LTDA **->** WARREN RENA DTVM
+
 ### 2025-11-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
