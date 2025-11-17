@@ -1406,8 +1406,8 @@
     "COMPE": "101",
     "ISPB": "62287735",
     "Document": "62.287.735/0001-03",
-    "LongName": "RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "RENASCENCA DTVM LTDA",
+    "LongName": "WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "WARREN RENA DTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -1423,7 +1423,7 @@
     "DateOperationStarted": "2010-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711535-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115352-03:00"
+    "DateUpdated": "2025-11-14T12:09:56.2525187+00:00"
   },
   {
     "COMPE": "102",
@@ -4792,8 +4792,8 @@
     "COMPE": "363",
     "ISPB": "62285390",
     "Document": "62.285.390/0001-40",
-    "LongName": "SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-    "ShortName": "SINGULARE CTVM S.A.",
+    "LongName": "QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "QI CTVM S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -4809,7 +4809,7 @@
     "DateOperationStarted": "2020-06-01",
     "DatePixStarted": "2025-07-10 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115346-03:00",
-    "DateUpdated": "2025-07-05T12:10:18.7428509+00:00"
+    "DateUpdated": "2025-11-12T12:10:08.2219155+00:00"
   },
   {
     "COMPE": "364",
@@ -6595,8 +6595,8 @@
     "COMPE": "455",
     "ISPB": "38429045",
     "Document": "38.429.045/0001-59",
-    "LongName": "FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "ShortName": "FÊNIX DTVM LTDA.",
+    "LongName": "VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "VIS DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -6612,7 +6612,7 @@
     "DateOperationStarted": "2022-12-05",
     "DatePixStarted": null,
     "DateRegistered": "2022-11-30T12:07:13.984961+00:00",
-    "DateUpdated": "2022-11-30T12:07:13.984961+00:00"
+    "DateUpdated": "2025-11-12T12:10:08.2198314+00:00"
   },
   {
     "COMPE": "456",
@@ -10470,15 +10470,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-04-17",
     "DatePixStarted": null,
     "DateRegistered": "2025-04-11T12:08:52.4220604+00:00",
-    "DateUpdated": "2025-04-11T12:08:52.4220785+00:00"
+    "DateUpdated": "2025-11-11T12:09:44.0495594+00:00"
   },
   {
     "COMPE": "681",
@@ -10511,7 +10511,7 @@
     "ShortName": "MONERY IP S.A.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10522,9 +10522,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-02-03",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-12-30 09:00:00",
     "DateRegistered": "2025-01-28T12:33:58.5362079+00:00",
-    "DateUpdated": "2025-01-28T12:33:58.5362384+00:00"
+    "DateUpdated": "2025-11-17T12:09:54.7976235+00:00"
   },
   {
     "COMPE": "684",
@@ -11625,6 +11625,29 @@
     "DateUpdated": "2025-09-22T12:09:35.376736+00:00"
   },
   {
+    "COMPE": "767",
+    "ISPB": "62264924",
+    "Document": "62.264.924/0001-52",
+    "LongName": "QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA",
+    "ShortName": "QORE",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-11-24",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-11-17T12:09:55.6848379+00:00",
+    "DateUpdated": "2025-11-17T12:09:55.6848826+00:00"
+  },
+  {
     "COMPE": "768",
     "ISPB": "20443996",
     "Document": "20.443.996/0001-17",
@@ -11738,5 +11761,28 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-10-27T12:09:55.789143+00:00",
     "DateUpdated": "2025-10-27T12:09:55.7891705+00:00"
+  },
+  {
+    "COMPE": "790",
+    "ISPB": "54024532",
+    "Document": "54.024.532/0001-98",
+    "LongName": "MAX INSTITUIÇÃO DE PAGAMENTO LTDA",
+    "ShortName": "MAX IP",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2025-11-12",
+    "DatePixStarted": null,
+    "DateRegistered": "2025-11-06T12:09:45.8734762+00:00",
+    "DateUpdated": "2025-11-06T12:09:45.8734949+00:00"
   }
 ]

@@ -1269,8 +1269,8 @@
     <COMPE>101</COMPE>
     <ISPB>62287735</ISPB>
     <Document>62.287.735/0001-03</Document>
-    <LongName>RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>RENASCENCA DTVM LTDA</ShortName>
+    <LongName>WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>WARREN RENA DTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1281,7 +1281,7 @@
     <Url>https://www.warren.com.br/</Url>
     <DateOperationStarted>2010-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711535-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115352-03:00</DateUpdated>
+    <DateUpdated>2025-11-14T12:09:56.2525187Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>102</COMPE>
@@ -4182,8 +4182,8 @@
     <COMPE>363</COMPE>
     <ISPB>62285390</ISPB>
     <Document>62.285.390/0001-40</Document>
-    <LongName>SINGULARE CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
-    <ShortName>SINGULARE CTVM S.A.</ShortName>
+    <LongName>QI CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>QI CTVM S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4196,7 +4196,7 @@
     <DateOperationStarted>2020-06-01</DateOperationStarted>
     <DatePixStarted>2025-07-10 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115346-03:00</DateRegistered>
-    <DateUpdated>2025-07-05T12:10:18.7428509Z</DateUpdated>
+    <DateUpdated>2025-11-12T12:10:08.2219155Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>364</COMPE>
@@ -5756,8 +5756,8 @@
     <COMPE>455</COMPE>
     <ISPB>38429045</ISPB>
     <Document>38.429.045/0001-59</Document>
-    <LongName>FÊNIX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>FÊNIX DTVM LTDA.</ShortName>
+    <LongName>VIS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>VIS DTVM LTDA</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5768,7 +5768,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-12-05</DateOperationStarted>
     <DateRegistered>2022-11-30T12:07:13.984961Z</DateRegistered>
-    <DateUpdated>2022-11-30T12:07:13.984961Z</DateUpdated>
+    <DateUpdated>2025-11-12T12:10:08.2198314Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>456</COMPE>
@@ -9047,12 +9047,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-04-17</DateOperationStarted>
     <DateRegistered>2025-04-11T12:08:52.4220604Z</DateRegistered>
-    <DateUpdated>2025-04-11T12:08:52.4220785Z</DateUpdated>
+    <DateUpdated>2025-11-11T12:09:44.0495594Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>681</COMPE>
@@ -9081,6 +9081,7 @@
     <LongName>MONERY INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>MONERY IP S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9089,8 +9090,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-02-03</DateOperationStarted>
+    <DatePixStarted>2025-12-30 09:00:00</DatePixStarted>
     <DateRegistered>2025-01-28T12:33:58.5362079Z</DateRegistered>
-    <DateUpdated>2025-01-28T12:33:58.5362384Z</DateUpdated>
+    <DateUpdated>2025-11-17T12:09:54.7976235Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>684</COMPE>
@@ -10041,6 +10043,24 @@
     <DateUpdated>2025-09-22T12:09:35.376736Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>767</COMPE>
+    <ISPB>62264924</ISPB>
+    <Document>62.264.924/0001-52</Document>
+    <LongName>QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>QORE</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-11-24</DateOperationStarted>
+    <DateRegistered>2025-11-17T12:09:55.6848379Z</DateRegistered>
+    <DateUpdated>2025-11-17T12:09:55.6848826Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>768</COMPE>
     <ISPB>20443996</ISPB>
     <Document>20.443.996/0001-17</Document>
@@ -10131,5 +10151,23 @@
     <DateOperationStarted>2025-10-31</DateOperationStarted>
     <DateRegistered>2025-10-27T12:09:55.789143Z</DateRegistered>
     <DateUpdated>2025-10-27T12:09:55.7891705Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>790</COMPE>
+    <ISPB>54024532</ISPB>
+    <Document>54.024.532/0001-98</Document>
+    <LongName>MAX INSTITUIÇÃO DE PAGAMENTO LTDA</LongName>
+    <ShortName>MAX IP</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-11-12</DateOperationStarted>
+    <DateRegistered>2025-11-06T12:09:45.8734762Z</DateRegistered>
+    <DateUpdated>2025-11-06T12:09:45.8734949Z</DateUpdated>
   </bank>
 </banks>
