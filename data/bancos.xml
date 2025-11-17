@@ -1269,8 +1269,8 @@
     <COMPE>101</COMPE>
     <ISPB>62287735</ISPB>
     <Document>62.287.735/0001-03</Document>
-    <LongName>RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>RENASCENCA DTVM LTDA</ShortName>
+    <LongName>WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>WARREN RENA DTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1281,7 +1281,7 @@
     <Url>https://www.warren.com.br/</Url>
     <DateOperationStarted>2010-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711535-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115352-03:00</DateUpdated>
+    <DateUpdated>2025-11-14T12:09:56.2525187Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>102</COMPE>
@@ -9081,6 +9081,7 @@
     <LongName>MONERY INSTITUICAO DE PAGAMENTO S.A.</LongName>
     <ShortName>MONERY IP S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9089,8 +9090,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-02-03</DateOperationStarted>
+    <DatePixStarted>2025-12-30 09:00:00</DatePixStarted>
     <DateRegistered>2025-01-28T12:33:58.5362079Z</DateRegistered>
-    <DateUpdated>2025-01-28T12:33:58.5362384Z</DateUpdated>
+    <DateUpdated>2025-11-17T12:09:54.7976235Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>684</COMPE>
@@ -10039,6 +10041,24 @@
     <DateOperationStarted>2025-09-26</DateOperationStarted>
     <DateRegistered>2025-09-22T12:09:35.3767172Z</DateRegistered>
     <DateUpdated>2025-09-22T12:09:35.376736Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>767</COMPE>
+    <ISPB>62264924</ISPB>
+    <Document>62.264.924/0001-52</Document>
+    <LongName>QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>QORE</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-11-24</DateOperationStarted>
+    <DateRegistered>2025-11-17T12:09:55.6848379Z</DateRegistered>
+    <DateUpdated>2025-11-17T12:09:55.6848826Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>768</COMPE>

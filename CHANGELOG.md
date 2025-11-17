@@ -4,6 +4,29 @@
 
 ## Changelog
 
+### 2025-11-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 767 - QORE - 62.264.924/0001-52
+- Updated 1 bank
+  - 682 - MONERY IP S.A. - 46.505.612/0001-37
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-12-22 10:00:00 **->** 2025-12-30 09:00:00
+
+### 2025-11-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 101 - WARREN RENA DTVM - 62.287.735/0001-03
+    - **LongName** (STR): RENASCENCA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA **->** WARREN RENA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA
+    - **ShortName** (STR): RENASCENCA DTVM LTDA **->** WARREN RENA DTVM
+
+### 2025-11-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 682 - MONERY IP S.A. - 46.505.612/0001-37
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-12-22 10:00:00
+
 ### 2025-11-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
