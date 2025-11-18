@@ -9090,9 +9090,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-02-03</DateOperationStarted>
-    <DatePixStarted>2025-12-22 10:00:00</DatePixStarted>
+    <DatePixStarted>2025-12-30 09:00:00</DatePixStarted>
     <DateRegistered>2025-01-28T12:33:58.5362079Z</DateRegistered>
-    <DateUpdated>2025-11-13T12:10:04.961929Z</DateUpdated>
+    <DateUpdated>2025-11-17T12:09:54.7976235Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>684</COMPE>
@@ -9241,12 +9241,12 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-06-27</DateOperationStarted>
     <DateRegistered>2025-06-23T12:09:36.2371877Z</DateRegistered>
-    <DateUpdated>2025-06-23T12:09:36.2372141Z</DateUpdated>
+    <DateUpdated>2025-11-18T12:09:45.6075385Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>693</COMPE>
@@ -10041,6 +10041,24 @@
     <DateOperationStarted>2025-09-26</DateOperationStarted>
     <DateRegistered>2025-09-22T12:09:35.3767172Z</DateRegistered>
     <DateUpdated>2025-09-22T12:09:35.376736Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>767</COMPE>
+    <ISPB>62264924</ISPB>
+    <Document>62.264.924/0001-52</Document>
+    <LongName>QORE DISTRIBUIDORA DE TITULOS E VALORES MOBILIÁRIOS LTDA</LongName>
+    <ShortName>QORE</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2025-11-24</DateOperationStarted>
+    <DateRegistered>2025-11-17T12:09:55.6848379Z</DateRegistered>
+    <DateUpdated>2025-11-17T12:09:55.6848826Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>768</COMPE>

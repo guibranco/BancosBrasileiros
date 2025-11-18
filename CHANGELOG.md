@@ -4,6 +4,22 @@
 
 ## Changelog
 
+### 2025-11-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 692 - SQUID SCD S.A. - 56.198.117/0001-86
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+
+### 2025-11-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 767 - QORE - 62.264.924/0001-52
+- Updated 1 bank
+  - 682 - MONERY IP S.A. - 46.505.612/0001-37
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-12-22 10:00:00 **->** 2025-12-30 09:00:00
+
 ### 2025-11-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
