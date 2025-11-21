@@ -44,7 +44,7 @@ jobs:
               uses: lycheeverse/lychee-action@v2.7.0
               id: lychee
               with:
-                  args: '--base . --cache --max-cache-age 1d .'
+                  args: '--root-dir "$(pwd)" --cache --max-cache-age 1d .'
 
             - name: Detach WireGuard connection
               shell: bash
