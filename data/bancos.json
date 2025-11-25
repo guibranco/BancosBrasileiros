@@ -10557,7 +10557,7 @@
     "ShortName": "TYCOON TECHNOLOGY IIP S.A",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10568,9 +10568,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-11-18",
-    "DatePixStarted": "2024-11-07 10:27:36",
+    "DatePixStarted": "2025-11-24 10:10:00",
     "DateRegistered": "2025-03-05T12:08:37.9411143+00:00",
-    "DateUpdated": "2025-03-05T12:08:36.9762761+00:00"
+    "DateUpdated": "2025-11-25T12:10:52.1483754+00:00"
   },
   {
     "COMPE": "686",
@@ -10833,7 +10833,7 @@
     "ShortName": "BFC SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10844,9 +10844,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-09-30",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-12-17 12:00:00",
     "DateRegistered": "2025-09-24T12:09:40.0805374+00:00",
-    "DateUpdated": "2025-09-24T12:09:40.0805556+00:00"
+    "DateUpdated": "2025-11-25T12:10:52.3234241+00:00"
   },
   {
     "COMPE": "700",
