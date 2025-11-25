@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-11-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 685 - TYCOON TECHNOLOGY IIP S.A - 26.615.279/0001-01
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-11-07 10:27:36 **->** 2025-11-24 10:10:00
+  - 699 - BFC SCD S.A. - 59.396.084/0001-77
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-12-17 12:00:00
+
 ### 2025-11-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
