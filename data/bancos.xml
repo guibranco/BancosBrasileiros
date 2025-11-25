@@ -9119,7 +9119,7 @@
     <LongName>TYCOON TECHNOLOGY INSTITUICAO DE PAGAMENTO S.A</LongName>
     <ShortName>TYCOON TECHNOLOGY IIP S.A</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9128,9 +9128,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-11-18</DateOperationStarted>
-    <DatePixStarted>2024-11-07 10:27:36</DatePixStarted>
+    <DatePixStarted>2025-11-24 10:10:00</DatePixStarted>
     <DateRegistered>2025-03-05T12:08:37.9411143Z</DateRegistered>
-    <DateUpdated>2025-03-05T12:08:36.9762761Z</DateUpdated>
+    <DateUpdated>2025-11-25T12:10:52.1483754Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>686</COMPE>
@@ -9349,6 +9349,7 @@
     <LongName>BFC SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>BFC SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9357,8 +9358,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-09-30</DateOperationStarted>
+    <DatePixStarted>2025-12-17 12:00:00</DatePixStarted>
     <DateRegistered>2025-09-24T12:09:40.0805374Z</DateRegistered>
-    <DateUpdated>2025-09-24T12:09:40.0805556Z</DateUpdated>
+    <DateUpdated>2025-11-25T12:10:52.3234241Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>700</COMPE>
