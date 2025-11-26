@@ -6934,15 +6934,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-03-15",
     "DatePixStarted": "2024-01-08 08:00:00",
     "DateRegistered": "2022-03-16T07:58:41.1136636+00:00",
-    "DateUpdated": "2024-01-09T12:06:14.2998511+00:00"
+    "DateUpdated": "2025-11-26T12:10:13.9617322+00:00"
   },
   {
     "COMPE": "471",

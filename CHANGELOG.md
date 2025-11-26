@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-11-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 470 - CDC SCD S.A. - 18.394.228/0001-79
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2025-11-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
