@@ -5536,11 +5536,15 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignadoe</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-09-02</DateOperationStarted>
     <DatePixStarted>2025-09-18 09:00:00</DatePixStarted>
     <DateRegistered>2021-09-13T19:08:16.9817387-03:00</DateRegistered>
-    <DateUpdated>2025-08-16T12:08:21.0859687Z</DateUpdated>
+    <DateUpdated>2025-11-28T12:10:03.8586174Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>442</COMPE>
@@ -8134,11 +8138,15 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Products>
+      <Product>Crédito Consignade</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115452-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7376237Z</DateUpdated>
+    <DateUpdated>2025-11-28T12:10:03.3185806Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>611</COMPE>
@@ -10143,6 +10151,7 @@
     <LongName>KIWIFY INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>KIWIFY IP</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -10151,8 +10160,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-10-31</DateOperationStarted>
+    <DatePixStarted>2025-12-09 10:00:00</DatePixStarted>
     <DateRegistered>2025-10-27T12:09:55.789143Z</DateRegistered>
-    <DateUpdated>2025-10-27T12:09:55.7891705Z</DateUpdated>
+    <DateUpdated>2025-11-28T12:10:03.1203539Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>790</COMPE>

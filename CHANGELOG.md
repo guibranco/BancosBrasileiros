@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2025-11-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 440 - COOP CREDI&GENTE - 82.096.447/0001-70
+    - **Products** (CTC): Null **->** Crédito Consignadoe, Troca de Modalidade
+  - 610 - BCO VR S.A. - 78.626.983/0001-63
+    - **Products** (CTC): Null **->** Crédito Consignade, Troca de Modalidade
+  - 773 - KIWIFY IP - 53.908.413/0001-35
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-12-09 10:00:00
+
 ### 2025-11-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
