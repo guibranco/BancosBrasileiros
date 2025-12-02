@@ -8874,8 +8874,8 @@
     <COMPE>670</COMPE>
     <ISPB>11491029</ISPB>
     <Document>11.491.029/0001-30</Document>
-    <LongName>IP4Y INSTITUICAO DE PAGAMENTO LTDA</LongName>
-    <ShortName>IP4Y IP LTDA.</ShortName>
+    <LongName>BSN PAGAMENTOS INSTITUIÇÃO DE PAGAMENTO LTDA</LongName>
+    <ShortName>BSN</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8888,7 +8888,7 @@
     <DateOperationStarted>2025-09-08</DateOperationStarted>
     <DatePixStarted>2024-11-04 10:41:09</DatePixStarted>
     <DateRegistered>2025-09-02T12:09:40.6519562Z</DateRegistered>
-    <DateUpdated>2025-09-02T12:09:39.5426304Z</DateUpdated>
+    <DateUpdated>2025-12-02T12:10:25.7536936Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>671</COMPE>
@@ -9318,8 +9318,8 @@
     <COMPE>697</COMPE>
     <ISPB>45056494</ISPB>
     <Document>45.056.494/0001-64</Document>
-    <LongName>MARMARIS CORRETORA DE CÂMBIO LTDA.</LongName>
-    <ShortName>MARMARIS</ShortName>
+    <LongName>JM CORRETORA DE CÂMBIO LTDA.</LongName>
+    <ShortName>JM CORRETORA DE CÂMBIO</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -9330,7 +9330,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-10-07</DateOperationStarted>
     <DateRegistered>2025-10-01T12:41:54.0163983Z</DateRegistered>
-    <DateUpdated>2025-10-01T12:41:54.016428Z</DateUpdated>
+    <DateUpdated>2025-12-02T12:10:25.7611264Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>698</COMPE>
