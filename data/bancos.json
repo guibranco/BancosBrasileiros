@@ -10260,8 +10260,8 @@
     "COMPE": "670",
     "ISPB": "11491029",
     "Document": "11.491.029/0001-30",
-    "LongName": "IP4Y INSTITUICAO DE PAGAMENTO LTDA",
-    "ShortName": "IP4Y IP LTDA.",
+    "LongName": "BSN PAGAMENTOS INSTITUIÇÃO DE PAGAMENTO LTDA",
+    "ShortName": "BSN",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -10277,7 +10277,7 @@
     "DateOperationStarted": "2025-09-08",
     "DatePixStarted": "2024-11-04 10:41:09",
     "DateRegistered": "2025-09-02T12:09:40.6519562+00:00",
-    "DateUpdated": "2025-09-02T12:09:39.5426304+00:00"
+    "DateUpdated": "2025-12-02T12:10:25.7536936+00:00"
   },
   {
     "COMPE": "671",
@@ -10789,8 +10789,8 @@
     "COMPE": "697",
     "ISPB": "45056494",
     "Document": "45.056.494/0001-64",
-    "LongName": "MARMARIS CORRETORA DE CÂMBIO LTDA.",
-    "ShortName": "MARMARIS",
+    "LongName": "JM CORRETORA DE CÂMBIO LTDA.",
+    "ShortName": "JM CORRETORA DE CÂMBIO",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -10806,7 +10806,7 @@
     "DateOperationStarted": "2025-10-07",
     "DatePixStarted": null,
     "DateRegistered": "2025-10-01T12:41:54.0163983+00:00",
-    "DateUpdated": "2025-10-01T12:41:54.016428+00:00"
+    "DateUpdated": "2025-12-02T12:10:25.7611264+00:00"
   },
   {
     "COMPE": "698",

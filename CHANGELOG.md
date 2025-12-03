@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-12-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 670 - BSN - 11.491.029/0001-30
+    - **LongName** (STR): IP4Y INSTITUICAO DE PAGAMENTO LTDA **->** BSN PAGAMENTOS INSTITUIÇÃO DE PAGAMENTO LTDA
+    - **ShortName** (STR): IP4Y IP LTDA. **->** BSN
+  - 697 - JM CORRETORA DE CÂMBIO - 45.056.494/0001-64
+    - **LongName** (STR): MARMARIS CORRETORA DE CÂMBIO LTDA. **->** JM CORRETORA DE CÂMBIO LTDA.
+    - **ShortName** (STR): MARMARIS **->** JM CORRETORA DE CÂMBIO
+
 ### 2025-12-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 6 banks
