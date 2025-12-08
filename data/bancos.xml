@@ -7967,13 +7967,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-05-15</DateOperationStarted>
     <DatePixStarted>2024-11-04 09:10:00</DatePixStarted>
     <DateRegistered>2024-05-09T12:06:38.0035796Z</DateRegistered>
-    <DateUpdated>2024-11-20T12:08:12.9891048Z</DateUpdated>
+    <DateUpdated>2025-12-08T12:10:16.4468751Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>594</COMPE>
