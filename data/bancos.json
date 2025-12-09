@@ -9238,15 +9238,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-05-15",
     "DatePixStarted": "2024-11-04 09:10:00",
     "DateRegistered": "2024-05-09T12:06:38.0035796+00:00",
-    "DateUpdated": "2024-11-20T12:08:12.9891048+00:00"
+    "DateUpdated": "2025-12-08T12:10:16.4468751+00:00"
   },
   {
     "COMPE": "594",
