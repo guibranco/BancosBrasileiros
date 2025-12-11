@@ -7283,8 +7283,8 @@
     <COMPE>555</COMPE>
     <ISPB>02682287</ISPB>
     <Document>02.682.287/0001-02</Document>
-    <LongName>PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
-    <ShortName>"PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS"</ShortName>
+    <LongName>PAN FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
+    <ShortName>PAN FINAN</ShortName>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7297,7 +7297,7 @@
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
-    <DateUpdated>2025-10-23T12:09:59.6223617Z</DateUpdated>
+    <DateUpdated>2025-12-11T12:10:25.1754704Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>556</COMPE>

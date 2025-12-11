@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-12-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 555 - PAN FINAN - 02.682.287/0001-02
+    - **LongName** (STR): PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS **->** PAN FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS
+    - **ShortName** (STR): "PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS" **->** PAN FINAN
+
 ### 2025-12-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

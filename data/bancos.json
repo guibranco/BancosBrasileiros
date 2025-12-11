@@ -8415,8 +8415,8 @@
     "COMPE": "555",
     "ISPB": "02682287",
     "Document": "02.682.287/0001-02",
-    "LongName": "PAN FINANCEIRA S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS",
-    "ShortName": "\"PAN FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS\"",
+    "LongName": "PAN FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS",
+    "ShortName": "PAN FINAN",
     "Network": null,
     "Type": null,
     "PixType": null,
@@ -8435,7 +8435,7 @@
     "DateOperationStarted": null,
     "DatePixStarted": null,
     "DateRegistered": "2023-08-30T15:00:47.667846+00:00",
-    "DateUpdated": "2025-10-23T12:09:59.6223617+00:00"
+    "DateUpdated": "2025-12-11T12:10:25.1754704+00:00"
   },
   {
     "COMPE": "556",
