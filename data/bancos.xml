@@ -5333,8 +5333,8 @@
     <COMPE>426</COMPE>
     <ISPB>11285104</ISPB>
     <Document>11.285.104/0001-06</Document>
-    <LongName>NEON FINANCEIRA - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
-    <ShortName>NEON FINANCEIRA - CFI S.A.</ShortName>
+    <LongName>NEON FINANCEIRA - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A</LongName>
+    <ShortName>NEON FINANCEIRA - SCFI S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5351,7 +5351,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-21</DateOperationStarted>
     <DateRegistered>2021-05-21T23:01:29.4844658-03:00</DateRegistered>
-    <DateUpdated>2024-06-05T12:06:51.609081Z</DateUpdated>
+    <DateUpdated>2025-12-12T12:10:13.6532148Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>427</COMPE>
@@ -10173,6 +10173,7 @@
     <LongName>MAX INSTITUIÇÃO DE PAGAMENTO LTDA</LongName>
     <ShortName>MAX IP</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -10181,7 +10182,8 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-11-12</DateOperationStarted>
+    <DatePixStarted>2025-12-16 10:00:00</DatePixStarted>
     <DateRegistered>2025-11-06T12:09:45.8734762Z</DateRegistered>
-    <DateUpdated>2025-11-06T12:09:45.8734949Z</DateUpdated>
+    <DateUpdated>2025-12-12T12:10:15.0135248Z</DateUpdated>
   </bank>
 </banks>

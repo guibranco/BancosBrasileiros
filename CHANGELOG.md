@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-12-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 426 - NEON FINANCEIRA - SCFI S.A. - 11.285.104/0001-06
+    - **LongName** (STR): NEON FINANCEIRA - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A. **->** NEON FINANCEIRA - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A
+    - **ShortName** (STR): NEON FINANCEIRA - CFI S.A. **->** NEON FINANCEIRA - SCFI S.A.
+  - 790 - MAX IP - 54.024.532/0001-98
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-12-16 10:00:00
+
 ### 2025-12-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
