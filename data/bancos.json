@@ -10885,7 +10885,7 @@
     "ShortName": "INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10896,9 +10896,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-06-20",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-12-12 17:51:41",
     "DateRegistered": "2025-06-13T12:09:22.5824913+00:00",
-    "DateUpdated": "2025-06-13T12:09:22.5825346+00:00"
+    "DateUpdated": "2025-12-15T12:11:04.3648621+00:00"
   },
   {
     "COMPE": "703",

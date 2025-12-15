@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-12-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 701 - INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD - 51.118.615/0001-58
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2025-12-12 17:51:41
+
 ### 2025-12-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

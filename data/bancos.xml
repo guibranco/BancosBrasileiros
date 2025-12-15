@@ -9397,6 +9397,7 @@
     <LongName>INTEGRAÇÃO DE CRÉDITO E COBRANÇA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9405,8 +9406,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-06-20</DateOperationStarted>
+    <DatePixStarted>2025-12-12 17:51:41</DatePixStarted>
     <DateRegistered>2025-06-13T12:09:22.5824913Z</DateRegistered>
-    <DateUpdated>2025-06-13T12:09:22.5825346Z</DateUpdated>
+    <DateUpdated>2025-12-15T12:11:04.3648621Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>703</COMPE>
