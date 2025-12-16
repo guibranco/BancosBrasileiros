@@ -7693,7 +7693,7 @@
     "ShortName": "WNT CAPITAL DTVM",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7704,9 +7704,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-03-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-01-20 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112615+00:00",
-    "DateUpdated": "2023-03-03T14:56:55.3112615+00:00"
+    "DateUpdated": "2025-12-16T12:10:29.0158187+00:00"
   },
   {
     "COMPE": "525",
@@ -7781,8 +7781,8 @@
     "COMPE": "528",
     "ISPB": "34829992",
     "Document": "34.829.992/0001-86",
-    "LongName": "REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-    "ShortName": "REAG TRUST DTVM",
+    "LongName": "CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "CBSF DTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -7798,7 +7798,7 @@
     "DateOperationStarted": "2023-03-06",
     "DatePixStarted": "2024-04-01 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
-    "DateUpdated": "2024-09-25T12:08:06.7384843+00:00"
+    "DateUpdated": "2025-12-16T12:10:27.67736+00:00"
   },
   {
     "COMPE": "529",

@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2025-12-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 524 - WNT CAPITAL DTVM - 45.854.066/0001-87
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2026-01-20 10:00:00
+  - 528 - CBSF DTVM - 34.829.992/0001-86
+    - **LongName** (STR): REAG TRUST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. **->** CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): REAG TRUST DTVM **->** CBSF DTVM
+
 ### 2025-12-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
