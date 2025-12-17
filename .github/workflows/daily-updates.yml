@@ -93,13 +93,13 @@ jobs:
               uses: actions/checkout@v6
 
             - name: Download banks files
-              uses: actions/download-artifact@v6
+              uses: actions/download-artifact@v7
               with:
                   name: bankFiles
                   path: data/
 
             - name: Download change log file
-              uses: actions/download-artifact@v6
+              uses: actions/download-artifact@v7
               with:
                   name: changeLogFile
 
