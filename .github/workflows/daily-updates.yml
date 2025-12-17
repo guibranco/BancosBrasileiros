@@ -58,21 +58,21 @@ jobs:
                   data: '{ "error_code": "${{ env.exitcode }}" }'
 
             - name: Upload banks files
-              uses: actions/upload-artifact@v5
+              uses: actions/upload-artifact@v6
               if: env.exitcode == 0
               with:
                   name: bankFiles
                   path: ./BancosBrasileiros.MergeTool/result/bancos.*
 
             - name: Upload changelog file
-              uses: actions/upload-artifact@v5
+              uses: actions/upload-artifact@v6
               if: env.exitcode == 0
               with:
                   name: changeLogFile
                   path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md
 
             - name: Upload release-notes.md
-              uses: actions/upload-artifact@v5
+              uses: actions/upload-artifact@v6
               if: env.exitcode == 0
               with:
                   name: releaseNotesFile
