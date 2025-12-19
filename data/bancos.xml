@@ -10007,6 +10007,7 @@
     <LongName>VUE INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>VUE IP S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -10015,8 +10016,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-07-28</DateOperationStarted>
+    <DatePixStarted>2025-12-23 10:00:00</DatePixStarted>
     <DateRegistered>2025-07-22T12:09:54.9911786Z</DateRegistered>
-    <DateUpdated>2025-07-22T12:09:54.9911787Z</DateUpdated>
+    <DateUpdated>2025-12-19T12:09:44.5173249Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>764</COMPE>

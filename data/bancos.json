@@ -11569,7 +11569,7 @@
     "ShortName": "VUE IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -11580,9 +11580,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-07-28",
-    "DatePixStarted": null,
+    "DatePixStarted": "2025-12-23 10:00:00",
     "DateRegistered": "2025-07-22T12:09:54.9911786+00:00",
-    "DateUpdated": "2025-07-22T12:09:54.9911787+00:00"
+    "DateUpdated": "2025-12-19T12:09:44.5173249+00:00"
   },
   {
     "COMPE": "764",

@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-12-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 763 - VUE IP S.A. - 56.106.523/0001-71
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-12-23 10:00:00
+
 ### 2025-12-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
