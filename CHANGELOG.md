@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-12-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 766 - LB PAY IP LTDA - 52.833.288/0001-89
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2026-01-05 10:00:00
+
 ### 2025-12-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
