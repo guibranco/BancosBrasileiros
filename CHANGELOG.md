@@ -4,6 +4,13 @@
 
 ## Changelog
 
+### 2025-12-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 595 - IFOOD PAGO IP - 19.468.242/0001-32
+    - **LongName** (STR): ZOOP TECNOLOGIA & INSTITUICAO DE PAGAMENTO S.A. **->** IFOOD PAGO INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): ZOOP MEIOS DE PAGAMENTO **->** IFOOD PAGO IP
+
 ### 2025-12-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

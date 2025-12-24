@@ -8001,8 +8001,8 @@
     <COMPE>595</COMPE>
     <ISPB>19468242</ISPB>
     <Document>19.468.242/0001-32</Document>
-    <LongName>ZOOP TECNOLOGIA &amp; INSTITUICAO DE PAGAMENTO S.A.</LongName>
-    <ShortName>ZOOP MEIOS DE PAGAMENTO</ShortName>
+    <LongName>IFOOD PAGO INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>IFOOD PAGO IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8015,7 +8015,7 @@
     <DateOperationStarted>2024-03-21</DateOperationStarted>
     <DatePixStarted>2025-01-20 09:10:00</DatePixStarted>
     <DateRegistered>2024-03-15T12:06:05.5274606Z</DateRegistered>
-    <DateUpdated>2025-01-21T12:08:02.1582577Z</DateUpdated>
+    <DateUpdated>2025-12-24T12:10:09.2485628Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>597</COMPE>

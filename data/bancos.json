@@ -9275,8 +9275,8 @@
     "COMPE": "595",
     "ISPB": "19468242",
     "Document": "19.468.242/0001-32",
-    "LongName": "ZOOP TECNOLOGIA & INSTITUICAO DE PAGAMENTO S.A.",
-    "ShortName": "ZOOP MEIOS DE PAGAMENTO",
+    "LongName": "IFOOD PAGO INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "IFOOD PAGO IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -9292,7 +9292,7 @@
     "DateOperationStarted": "2024-03-21",
     "DatePixStarted": "2025-01-20 09:10:00",
     "DateRegistered": "2024-03-15T12:06:05.5274606+00:00",
-    "DateUpdated": "2025-01-21T12:08:02.1582577+00:00"
+    "DateUpdated": "2025-12-24T12:10:09.2485628+00:00"
   },
   {
     "COMPE": "597",
