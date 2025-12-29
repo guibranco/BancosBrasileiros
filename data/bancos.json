@@ -4993,17 +4993,14 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": [
-      "Capital de Giro",
-      "Outros Créditos",
-      "Pessoal",
-      "Troca de Modalidade",
-      "Veiculos"
+      "Consignado",
+      "Pessoal"
     ],
     "Url": null,
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2024-03-29T12:07:14.0279472+00:00"
+    "DateUpdated": "2025-12-29T12:10:40.6224822+00:00"
   },
   {
     "COMPE": "374",
@@ -10479,12 +10476,15 @@
     "PCR": true,
     "PCRP": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Crédito Pessoal E Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2025-04-17",
     "DatePixStarted": null,
     "DateRegistered": "2025-04-11T12:08:52.4220604+00:00",
-    "DateUpdated": "2025-11-11T12:09:44.0495594+00:00"
+    "DateUpdated": "2025-12-29T12:10:40.6070922+00:00"
   },
   {
     "COMPE": "681",
