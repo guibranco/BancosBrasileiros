@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2025-12-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 680 - DELTA GLOBAL SCD S.A. - 55.823.094/0001-90
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal E Troca de Modalidade
+
 ### 2025-12-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
