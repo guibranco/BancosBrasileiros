@@ -4,6 +4,10 @@
 
 ## Changelog
 
+### 2026-01-08 - [@guibranco](https://github.com/guibranco)
+
+- Removido COMPE 666 - duplicado com COMPE 761 via [#865](https://github.com/guibranco/BancosBrasileiros/issues/865)
+
 ### 2025-12-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
@@ -3198,3 +3202,4 @@
 
 ### 2017-10-26 - [@guibranco](https://github.com/guibranco)
 - Added 248 banks no formato **T-SQL**
+
