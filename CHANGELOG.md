@@ -4,6 +4,40 @@
 
 ## Changelog
 
+### 2026-01-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 3 banks
+  - 775 - CONTAAZUL IP LTDA. - 47.381.104/0001-57
+  - 696 - LOAN BRASIL SCD S.A. - 50.032.584/0001-55
+  - 786 - AWX BRASIL IP LTDA. - 52.076.716/0001-76
+- Updated 10 banks
+  - 47 - BCO DO EST. DE SE S.A. - 13.009.717/0001-46
+    - **Pcrp** (PCR): False **->** True
+  - 352 - SANTANDER CTVM S.A. - 29.162.769/0001-98
+    - **LongName** (STR): TORO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. **->** SANTANDER CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): TORO CTVM S.A. **->** SANTANDER CTVM S.A.
+  - 358 - MIDWAY S.A. - SCFI - 09.464.032/0001-12
+    - **LongName** (STR): MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO **->** MIDWAY S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 508 - AVENUE SECURITIES BI S.A. - 61.384.004/0001-05
+    - **LongName** (STR): AVENUE SECURITIES DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. **->** AVENUE SECURITIES BANCO DE INVESTIMENTO S.A.
+    - **ShortName** (STR): AVENUE SECURITIES DTVM LTDA. **->** AVENUE SECURITIES BI S.A.
+  - 550 - BEETELLER IP LTDA. - 32.074.986/0001-30
+    - **ShortName** (STR): BEETELLER **->** BEETELLER IP LTDA.
+  - 646 - DM SCFI - 91.669.747/0001-92
+    - **LongName** (STR): DM FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO **->** DM SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A
+    - **ShortName** (STR): DM SA CFI **->** DM SCFI
+  - 699 - BFC SCD S.A. - 59.396.084/0001-77
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 761 - URBANO S.A. SCFI - 53.842.122/0001-91
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2025-06-02 09:00:00
+  - 766 - LB PAY IP LTDA - 52.833.288/0001-89
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2026-01-05 10:00:00 **->** 2026-01-15 10:00:00
+
 ### 2026-01-08 - [@guibranco](https://github.com/guibranco)
 
 - Removido COMPE 666 - duplicado com COMPE 761 via [#865](https://github.com/guibranco/BancosBrasileiros/issues/865)
