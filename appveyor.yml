@@ -16,9 +16,7 @@ skip_commits:
     - src/
 
 environment:
-  nodejs_version: 18
-  npm_auth_token:
-    secure: utvTJFeOvz8YUfgc/z87ERaWZs4tDNSAe/atkmUagrQjaxniSCqXn0Q4U1UVx1ST
+  nodejs_version: 22
 
 install:
 - ps: Install-Product node $env:nodejs_version
