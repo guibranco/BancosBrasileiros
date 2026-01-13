@@ -305,7 +305,7 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://www.bancotricury.com.br",
+    "Url": "https://bancotricury.com.br",
     "DateOperationStarted": "2013-08-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115214-03:00",
@@ -1648,7 +1648,7 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://advancedcorretora.com.br/",
+    "Url": "https://www.advancedcorretora.com.br/",
     "DateOperationStarted": "2011-10-03",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115481-03:00",
@@ -1728,7 +1728,7 @@
       "Pessoal",
       "Troca de Modalidade"
     ],
-    "Url": "https://www.agibank.com.br",
+    "Url": "https://agibank.com.br",
     "DateOperationStarted": "2012-04-04",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114712-03:00",
@@ -2206,11 +2206,11 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://www.bexs.com.br",
+    "Url": null,
     "DateOperationStarted": "2016-05-23",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114803-03:00",
-    "DateUpdated": "2024-03-15T12:06:04.3468719+00:00"
+    "DateUpdated": "2026-01-13T18:31:00.0000000+00:00"
   },
   {
     "COMPE": "145",
@@ -2916,7 +2916,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bradesco.com.br",
+    "Url": "https://banco.bradesco",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115261-03:00",
@@ -2939,7 +2939,7 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://bancoclassico.com.br",
+    "Url": "https://www.bancoclassico.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115018-03:00",
