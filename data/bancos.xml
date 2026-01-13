@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-01-12T12:11:11.9120125Z</DateUpdated>
+    <DateUpdated>2026-01-13T12:11:18.6037495Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10124,6 +10124,7 @@
     <LongName>WX INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>WX IP LTDA.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -10132,8 +10133,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-10-20</DateOperationStarted>
+    <DatePixStarted>2026-01-20 10:00:00</DatePixStarted>
     <DateRegistered>2025-10-16T12:42:07.4681667Z</DateRegistered>
-    <DateUpdated>2025-10-16T12:42:07.4681668Z</DateUpdated>
+    <DateUpdated>2026-01-13T12:11:17.822513Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>772</COMPE>
