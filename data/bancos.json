@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-01-12T12:11:11.9120125+00:00"
+    "DateUpdated": "2026-01-13T12:11:18.6037495+00:00"
   },
   {
     "COMPE": "374",
@@ -11707,7 +11707,7 @@
     "ShortName": "WX IP LTDA.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -11718,9 +11718,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-10-20",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-01-20 10:00:00",
     "DateRegistered": "2025-10-16T12:42:07.4681667+00:00",
-    "DateUpdated": "2025-10-16T12:42:07.4681668+00:00"
+    "DateUpdated": "2026-01-13T12:11:17.822513+00:00"
   },
   {
     "COMPE": "772",
