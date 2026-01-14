@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-01-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 668 - VIA CAPITAL SCD S/A - 48.632.754/0001-90
+    - **Products** (CTC): Null **->** Crédito Consignado, Troca de Modalidade
+
 ### 2026-01-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

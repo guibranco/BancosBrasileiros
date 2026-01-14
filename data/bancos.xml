@@ -274,7 +274,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bancotricury.com.br</Url>
+    <Url>https://bancotricury.com.br</Url>
     <DateOperationStarted>2013-08-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115214-03:00</DateRegistered>
     <DateUpdated>2022-07-22T07:49:18.4026223Z</DateUpdated>
@@ -1471,7 +1471,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://advancedcorretora.com.br/</Url>
+    <Url>https://www.advancedcorretora.com.br/</Url>
     <DateOperationStarted>2011-10-03</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115481-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115483-03:00</DateUpdated>
@@ -1545,7 +1545,7 @@
       <Product>Pessoal</Product>
       <Product>Troca de Modalidade</Product>
     </Products>
-    <Url>https://www.agibank.com.br</Url>
+    <Url>https://agibank.com.br</Url>
     <DateOperationStarted>2012-04-04</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114712-03:00</DateRegistered>
@@ -1947,11 +1947,11 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bexs.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2016-05-23</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114803-03:00</DateRegistered>
-    <DateUpdated>2024-03-15T12:06:04.3468719Z</DateUpdated>
+    <DateUpdated>2026-01-13T18:31:00Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>145</COMPE>
@@ -2561,7 +2561,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bradesco.com.br</Url>
+    <Url>https://banco.bradesco</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115261-03:00</DateRegistered>
@@ -2581,7 +2581,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://bancoclassico.com.br</Url>
+    <Url>https://www.bancoclassico.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115018-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.711502-03:00</DateUpdated>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-01-13T12:11:18.6037495Z</DateUpdated>
+    <DateUpdated>2026-01-14T12:10:48.6884441Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -8844,10 +8844,14 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-02-04</DateOperationStarted>
     <DateRegistered>2025-01-29T12:33:42.9304264Z</DateRegistered>
-    <DateUpdated>2025-01-29T12:33:42.9304449Z</DateUpdated>
+    <DateUpdated>2026-01-14T12:10:48.6886895Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>670</COMPE>

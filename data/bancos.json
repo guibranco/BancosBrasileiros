@@ -2210,7 +2210,7 @@
     "DateOperationStarted": "2016-05-23",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114803-03:00",
-    "DateUpdated": "2026-01-13T18:31:00.0000000+00:00"
+    "DateUpdated": "2026-01-13T18:31:00+00:00"
   },
   {
     "COMPE": "145",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-01-13T12:11:18.6037495+00:00"
+    "DateUpdated": "2026-01-14T12:10:48.6884441+00:00"
   },
   {
     "COMPE": "374",
@@ -10223,12 +10223,15 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2025-02-04",
     "DatePixStarted": null,
     "DateRegistered": "2025-01-29T12:33:42.9304264+00:00",
-    "DateUpdated": "2025-01-29T12:33:42.9304449+00:00"
+    "DateUpdated": "2026-01-14T12:10:48.6886895+00:00"
   },
   {
     "COMPE": "670",
