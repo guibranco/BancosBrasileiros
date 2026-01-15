@@ -255,7 +255,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.bnymellon.com/br/pt.html</Url>
+    <Url>https://www.bny.com/corporate/br/pt.html</Url>
     <DateOperationStarted>2012-11-19</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115161-03:00</DateRegistered>
     <DateUpdated>2022-07-22T07:49:18.4024695Z</DateUpdated>
@@ -759,7 +759,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.abnamro.com</Url>
+    <Url>https://www.abnamro.com/en/home</Url>
     <DateOperationStarted>2005-11-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114516-03:00</DateRegistered>
     <DateUpdated>2024-06-24T12:07:23.4029087Z</DateUpdated>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-01-14T12:10:48.6884441Z</DateUpdated>
+    <DateUpdated>2026-01-15T12:11:14.6435785Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -8116,7 +8116,7 @@
       <Product>Consignado</Product>
       <Product>Pessoal</Product>
     </Products>
-    <Url>https://www.bancoindustrial.com.br</Url>
+    <Url>https://www.bib.com.br/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115033-03:00</DateRegistered>
@@ -10218,6 +10218,26 @@
     <DateOperationStarted>2026-01-13</DateOperationStarted>
     <DateRegistered>2026-01-10T13:26:02.7540734Z</DateRegistered>
     <DateUpdated>2026-01-10T13:26:02.7540734Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>788</COMPE>
+    <ISPB>35713491</ISPB>
+    <Document>35.713.491/0001-00</Document>
+    <LongName>PROTOTYPE INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PROTOTYPE IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-01-15</DateOperationStarted>
+    <DatePixStarted>2025-11-05 09:10:00</DatePixStarted>
+    <DateRegistered>2026-01-15T12:11:14.6796047Z</DateRegistered>
+    <DateUpdated>2026-01-15T12:11:13.7723542Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>790</COMPE>

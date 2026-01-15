@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-01-14T12:10:48.6884441+00:00"
+    "DateUpdated": "2026-01-15T12:11:14.6435785+00:00"
   },
   {
     "COMPE": "374",
@@ -11816,6 +11816,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2026-01-10T13:26:02.7540734+00:00",
     "DateUpdated": "2026-01-10T13:26:02.7540734+00:00"
+  },
+  {
+    "COMPE": "788",
+    "ISPB": "35713491",
+    "Document": "35.713.491/0001-00",
+    "LongName": "PROTOTYPE INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "PROTOTYPE IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-01-15",
+    "DatePixStarted": "2025-11-05 09:10:00",
+    "DateRegistered": "2026-01-15T12:11:14.6796047+00:00",
+    "DateUpdated": "2026-01-15T12:11:13.7723542+00:00"
   },
   {
     "COMPE": "790",
