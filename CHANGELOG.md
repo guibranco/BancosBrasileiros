@@ -4,6 +4,21 @@
 
 ## Changelog
 
+### 2026-01-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 4 banks
+  - 117 - ADVANCED CC LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL - 92.856.905/0001-86
+    - **LongName** (STR): ADVANCED CORRETORA DE CÂMBIO LTDA **->** ADVANCED CORRETORA DE CÂMBIO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): ADVANCED CC LTDA **->** ADVANCED CC LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 528 - CBSF DTVM -EM LIQUIDAÇÃO EXTRAJUDICIAL - 34.829.992/0001-86
+    - **LongName** (STR): CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. **->** CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.- EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): CBSF DTVM **->** CBSF DTVM -EM LIQUIDAÇÃO EXTRAJUDICIAL
+  - 686 - BIZ IP LTDA. - 12.481.100/0001-66
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-04-09 13:37:42 **->** 2026-01-16 10:10:00
+
 ### 2026-01-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

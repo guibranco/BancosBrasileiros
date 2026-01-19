@@ -1635,8 +1635,8 @@
     "COMPE": "117",
     "ISPB": "92856905",
     "Document": "92.856.905/0001-86",
-    "LongName": "ADVANCED CORRETORA DE CÂMBIO LTDA",
-    "ShortName": "ADVANCED CC LTDA",
+    "LongName": "ADVANCED CORRETORA DE CÂMBIO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "ADVANCED CC LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -1652,7 +1652,7 @@
     "DateOperationStarted": "2011-10-03",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115481-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115483-03:00"
+    "DateUpdated": "2026-01-19T12:11:46.7933669+00:00"
   },
   {
     "COMPE": "119",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-01-18T12:09:40.0783064+00:00"
+    "DateUpdated": "2026-01-19T12:11:48.929154+00:00"
   },
   {
     "COMPE": "374",
@@ -7778,8 +7778,8 @@
     "COMPE": "528",
     "ISPB": "34829992",
     "Document": "34.829.992/0001-86",
-    "LongName": "CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-    "ShortName": "CBSF DTVM",
+    "LongName": "CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.- EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "CBSF DTVM -EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -7795,7 +7795,7 @@
     "DateOperationStarted": "2023-03-06",
     "DatePixStarted": "2024-04-01 10:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112606+00:00",
-    "DateUpdated": "2025-12-16T12:10:27.67736+00:00"
+    "DateUpdated": "2026-01-19T12:11:46.7882728+00:00"
   },
   {
     "COMPE": "529",
@@ -10566,7 +10566,7 @@
     "ShortName": "BIZ IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10577,9 +10577,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-07-28",
-    "DatePixStarted": "2025-04-09 13:37:42",
+    "DatePixStarted": "2026-01-16 10:10:00",
     "DateRegistered": "2025-07-22T12:09:54.9911607+00:00",
-    "DateUpdated": "2025-07-22T12:09:53.8750926+00:00"
+    "DateUpdated": "2026-01-19T12:11:47.8164887+00:00"
   },
   {
     "COMPE": "687",

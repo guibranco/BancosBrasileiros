@@ -1462,8 +1462,8 @@
     <COMPE>117</COMPE>
     <ISPB>92856905</ISPB>
     <Document>92.856.905/0001-86</Document>
-    <LongName>ADVANCED CORRETORA DE CÂMBIO LTDA</LongName>
-    <ShortName>ADVANCED CC LTDA</ShortName>
+    <LongName>ADVANCED CORRETORA DE CÂMBIO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>ADVANCED CC LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1474,7 +1474,7 @@
     <Url>https://www.advancedcorretora.com.br/</Url>
     <DateOperationStarted>2011-10-03</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115481-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115483-03:00</DateUpdated>
+    <DateUpdated>2026-01-19T12:11:46.7933669Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>119</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-01-18T12:09:40.0783064Z</DateUpdated>
+    <DateUpdated>2026-01-19T12:11:48.929154Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6747,8 +6747,8 @@
     <COMPE>528</COMPE>
     <ISPB>34829992</ISPB>
     <Document>34.829.992/0001-86</Document>
-    <LongName>CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
-    <ShortName>CBSF DTVM</ShortName>
+    <LongName>CBSF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.- EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>CBSF DTVM -EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6761,7 +6761,7 @@
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2024-04-01 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112606Z</DateRegistered>
-    <DateUpdated>2025-12-16T12:10:27.67736Z</DateUpdated>
+    <DateUpdated>2026-01-19T12:11:46.7882728Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>529</COMPE>
@@ -9134,7 +9134,7 @@
     <LongName>BIZ INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>BIZ IP LTDA.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9143,9 +9143,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-07-28</DateOperationStarted>
-    <DatePixStarted>2025-04-09 13:37:42</DatePixStarted>
+    <DatePixStarted>2026-01-16 10:10:00</DatePixStarted>
     <DateRegistered>2025-07-22T12:09:54.9911607Z</DateRegistered>
-    <DateUpdated>2025-07-22T12:09:53.8750926Z</DateUpdated>
+    <DateUpdated>2026-01-19T12:11:47.8164887Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>687</COMPE>
