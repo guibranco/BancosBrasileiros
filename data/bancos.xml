@@ -3019,8 +3019,8 @@
     <COMPE>280</COMPE>
     <ISPB>23862762</ISPB>
     <Document>23.862.762/0001-00</Document>
-    <LongName>WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>WILL FINANCEIRA S.A.CFI</ShortName>
+    <LongName>WILL FINANCEIRA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>WILL FINANCEIRA S.A.CFI - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -3037,7 +3037,7 @@
     <DateOperationStarted>2018-05-10</DateOperationStarted>
     <DatePixStarted>2024-03-19 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7530639Z</DateUpdated>
+    <DateUpdated>2026-01-22T12:11:46.6590572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>281</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-01-21T12:11:57.554189Z</DateUpdated>
+    <DateUpdated>2026-01-22T12:11:48.7824799Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
