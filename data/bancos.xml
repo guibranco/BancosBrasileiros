@@ -3035,9 +3035,9 @@
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-05-10</DateOperationStarted>
-    <DatePixStarted>2024-03-19 10:00:00</DatePixStarted>
+    <DatePixStarted>2026-01-30 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114949-03:00</DateRegistered>
-    <DateUpdated>2026-01-22T12:11:46.6590572Z</DateUpdated>
+    <DateUpdated>2026-02-02T12:15:35.2761094Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>281</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-02-01T12:11:26.562288Z</DateUpdated>
+    <DateUpdated>2026-02-02T12:15:36.2926578Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -9344,6 +9344,7 @@
     <LongName>BIT SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>BIT SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9352,8 +9353,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-07-22</DateOperationStarted>
+    <DatePixStarted>2026-03-17 10:00:00</DatePixStarted>
     <DateRegistered>2025-07-16T12:10:03.379655Z</DateRegistered>
-    <DateUpdated>2025-07-16T12:10:03.3796735Z</DateUpdated>
+    <DateUpdated>2026-02-02T12:15:35.5025234Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>699</COMPE>
@@ -10218,6 +10220,24 @@
     <DatePixStarted>2025-08-07 10:29:34</DatePixStarted>
     <DateRegistered>2026-01-10T13:26:02.7540522Z</DateRegistered>
     <DateUpdated>2026-01-10T13:26:01.8361588Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>780</COMPE>
+    <ISPB>12102128</ISPB>
+    <Document>12.102.128/0001-45</Document>
+    <LongName>SAFETYPAY BRASIL INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>SAFETYPAY BRASIL IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-02-06</DateOperationStarted>
+    <DateRegistered>2026-02-02T12:15:36.326175Z</DateRegistered>
+    <DateUpdated>2026-02-02T12:15:36.3261964Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>786</COMPE>

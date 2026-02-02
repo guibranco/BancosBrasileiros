@@ -4,6 +4,20 @@
 
 ## Changelog
 
+### 2026-02-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 780 - SAFETYPAY BRASIL IP LTDA - 12.102.128/0001-45
+- Updated 3 banks
+  - 280 - WILL FINANCEIRA S.A.CFI - EM LIQUIDAÇÃO EXTRAJUDICIAL - 23.862.762/0001-00
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-03-19 10:00:00 **->** 2026-01-30 09:00:00
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 698 - BIT SCD S.A. - 58.367.961/0001-19
+    - **PixType** (SPI): Null **->** DRCT
+    - **DatePixStarted** (SPI): Null **->** 2026-03-17 10:00:00
+
 ### 2026-02-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

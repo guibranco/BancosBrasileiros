@@ -3461,9 +3461,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2018-05-10",
-    "DatePixStarted": "2024-03-19 10:00:00",
+    "DatePixStarted": "2026-01-30 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114949-03:00",
-    "DateUpdated": "2026-01-22T12:11:46.6590572+00:00"
+    "DateUpdated": "2026-02-02T12:15:35.2761094+00:00"
   },
   {
     "COMPE": "281",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-01T12:11:26.562288+00:00"
+    "DateUpdated": "2026-02-02T12:15:36.2926578+00:00"
   },
   {
     "COMPE": "374",
@@ -10819,7 +10819,7 @@
     "ShortName": "BIT SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10830,9 +10830,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-07-22",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-03-17 10:00:00",
     "DateRegistered": "2025-07-16T12:10:03.379655+00:00",
-    "DateUpdated": "2025-07-16T12:10:03.3796735+00:00"
+    "DateUpdated": "2026-02-02T12:15:35.5025234+00:00"
   },
   {
     "COMPE": "699",
@@ -11816,6 +11816,29 @@
     "DatePixStarted": "2025-08-07 10:29:34",
     "DateRegistered": "2026-01-10T13:26:02.7540522+00:00",
     "DateUpdated": "2026-01-10T13:26:01.8361588+00:00"
+  },
+  {
+    "COMPE": "780",
+    "ISPB": "12102128",
+    "Document": "12.102.128/0001-45",
+    "LongName": "SAFETYPAY BRASIL INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "SAFETYPAY BRASIL IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-02-06",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-02-02T12:15:36.326175+00:00",
+    "DateUpdated": "2026-02-02T12:15:36.3261964+00:00"
   },
   {
     "COMPE": "786",
