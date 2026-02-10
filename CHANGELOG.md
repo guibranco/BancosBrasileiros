@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-02-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 763 - VUE IP S.A. - 56.106.523/0001-71
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-12-23 10:00:00 **->** 2026-02-13 11:00:00
+
 ### 2026-02-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
