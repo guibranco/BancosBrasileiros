@@ -2534,13 +2534,13 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Troca de Modalidade"
+      "Troca de Modalidade- 15 -"
     ],
     "Url": null,
     "DateOperationStarted": "2017-06-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711462-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9525364+00:00"
+    "DateUpdated": "2026-02-12T12:18:23.7155697+00:00"
   },
   {
     "COMPE": "190",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-11T12:21:12.4593252+00:00"
+    "DateUpdated": "2026-02-12T12:18:23.7269296+00:00"
   },
   {
     "COMPE": "374",
@@ -5269,12 +5269,17 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Crédito Pessoal",
+      "Financiamento de Veículos",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2022-03-08",
     "DatePixStarted": "2025-01-10 10:17:42",
     "DateRegistered": "2022-03-16T07:58:41.1136389+00:00",
-    "DateUpdated": "2025-01-11T12:07:13.6599954+00:00"
+    "DateUpdated": "2026-02-12T12:18:23.6941045+00:00"
   },
   {
     "COMPE": "386",
@@ -11908,6 +11913,29 @@
     "DatePixStarted": "2025-12-16 10:00:00",
     "DateRegistered": "2025-11-06T12:09:45.8734762+00:00",
     "DateUpdated": "2025-12-12T12:10:15.0135248+00:00"
+  },
+  {
+    "COMPE": "791",
+    "ISPB": "62448932",
+    "Document": "62.448.932/0001-59",
+    "LongName": "MULTIPLIKE FINANCEIRA S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "MULTIPLIKE FINANCEIRA S.A. SCFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-02-20",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-02-12T12:18:23.763228+00:00",
+    "DateUpdated": "2026-02-12T12:18:23.763249+00:00"
   },
   {
     "COMPE": "792",

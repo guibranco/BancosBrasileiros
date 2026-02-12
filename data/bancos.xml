@@ -2218,12 +2218,12 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Products>
       <Product>Consignado</Product>
-      <Product>Troca de Modalidade</Product>
+      <Product>Troca de Modalidade- 15 -</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-06-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711462-03:00</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9525364Z</DateUpdated>
+    <DateUpdated>2026-02-12T12:18:23.7155697Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>190</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-02-11T12:21:12.4593252Z</DateUpdated>
+    <DateUpdated>2026-02-12T12:18:23.7269296Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -4607,11 +4607,17 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Crédito Consignado</Product>
+      <Product>Crédito Pessoal</Product>
+      <Product>Financiamento de Veículos</Product>
+      <Product>Troca de Modalidade</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-03-08</DateOperationStarted>
     <DatePixStarted>2025-01-10 10:17:42</DatePixStarted>
     <DateRegistered>2022-03-16T07:58:41.1136389Z</DateRegistered>
-    <DateUpdated>2025-01-11T12:07:13.6599954Z</DateUpdated>
+    <DateUpdated>2026-02-12T12:18:23.6941045Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>386</COMPE>
@@ -9517,7 +9523,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.ouribank.com.br</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2014-01-28</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115456-03:00</DateRegistered>
@@ -10296,6 +10302,24 @@
     <DatePixStarted>2025-12-16 10:00:00</DatePixStarted>
     <DateRegistered>2025-11-06T12:09:45.8734762Z</DateRegistered>
     <DateUpdated>2025-12-12T12:10:15.0135248Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>791</COMPE>
+    <ISPB>62448932</ISPB>
+    <Document>62.448.932/0001-59</Document>
+    <LongName>MULTIPLIKE FINANCEIRA S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>MULTIPLIKE FINANCEIRA S.A. SCFI</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-02-20</DateOperationStarted>
+    <DateRegistered>2026-02-12T12:18:23.763228Z</DateRegistered>
+    <DateUpdated>2026-02-12T12:18:23.763249Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>792</COMPE>

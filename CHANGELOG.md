@@ -4,6 +4,18 @@
 
 ## Changelog
 
+### 2026-02-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 791 - MULTIPLIKE FINANCEIRA S.A. SCFI - 62.448.932/0001-59
+- Updated 3 banks
+  - 189 - HS FINANCEIRA - 07.512.441/0001-11
+    - **Products** (CTC): Consignado, Troca de Modalidade **->** Consignado, Troca de Modalidade- 15 -
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 385 - CECM DOS TRAB.PORT. DA G.VITOR - 03.844.699/0001-64
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal, Financiamento de Veículos, Troca de Modalidade
+
 ### 2026-02-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
