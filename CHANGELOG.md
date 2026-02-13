@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2026-02-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 596 - CACTVS IP S.A. - 39.696.395/0001-44
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 554 - BCO STONEX S.A. - 28.811.341/0001-66
+    - **LongName** (STR): STONEX BANCO DE CÂMBIO S.A. **->** BANCO STONEX S.A.
+    - **ShortName** (STR): STONEX BANCO DE CÂMBIO S.A. **->** BCO STONEX S.A.
+
 ### 2026-02-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank

@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-12T12:18:23.7269296+00:00"
+    "DateUpdated": "2026-02-13T12:15:25.9143664+00:00"
   },
   {
     "COMPE": "374",
@@ -8394,8 +8394,8 @@
     "COMPE": "554",
     "ISPB": "28811341",
     "Document": "28.811.341/0001-66",
-    "LongName": "STONEX BANCO DE CÂMBIO S.A.",
-    "ShortName": "STONEX BANCO DE CÂMBIO S.A.",
+    "LongName": "BANCO STONEX S.A.",
+    "ShortName": "BCO STONEX S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8411,7 +8411,7 @@
     "DateOperationStarted": "2023-07-24",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347539+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.134754+00:00"
+    "DateUpdated": "2026-02-13T12:15:23.8386823+00:00"
   },
   {
     "COMPE": "555",
@@ -9295,6 +9295,29 @@
     "DatePixStarted": "2025-01-20 09:10:00",
     "DateRegistered": "2024-03-15T12:06:05.5274606+00:00",
     "DateUpdated": "2025-12-24T12:10:09.2485628+00:00"
+  },
+  {
+    "COMPE": "596",
+    "ISPB": "39696395",
+    "Document": "39.696.395/0001-44",
+    "LongName": "CACTVS INSTITUICAO DE PAGAMENTO S.A",
+    "ShortName": "CACTVS IP S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-02-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-02-13T12:15:25.9644294+00:00",
+    "DateUpdated": "2026-02-13T12:15:25.9644599+00:00"
   },
   {
     "COMPE": "597",

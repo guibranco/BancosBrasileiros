@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-02-12T12:18:23.7269296Z</DateUpdated>
+    <DateUpdated>2026-02-13T12:15:25.9143664Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7270,8 +7270,8 @@
     <COMPE>554</COMPE>
     <ISPB>28811341</ISPB>
     <Document>28.811.341/0001-66</Document>
-    <LongName>STONEX BANCO DE CÂMBIO S.A.</LongName>
-    <ShortName>STONEX BANCO DE CÂMBIO S.A.</ShortName>
+    <LongName>BANCO STONEX S.A.</LongName>
+    <ShortName>BCO STONEX S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7282,7 +7282,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-07-24</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347539Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:25.134754Z</DateUpdated>
+    <DateUpdated>2026-02-13T12:15:23.8386823Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>555</COMPE>
@@ -8019,6 +8019,24 @@
     <DatePixStarted>2025-01-20 09:10:00</DatePixStarted>
     <DateRegistered>2024-03-15T12:06:05.5274606Z</DateRegistered>
     <DateUpdated>2025-12-24T12:10:09.2485628Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>596</COMPE>
+    <ISPB>39696395</ISPB>
+    <Document>39.696.395/0001-44</Document>
+    <LongName>CACTVS INSTITUICAO DE PAGAMENTO S.A</LongName>
+    <ShortName>CACTVS IP S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-02-23</DateOperationStarted>
+    <DateRegistered>2026-02-13T12:15:25.9644294Z</DateRegistered>
+    <DateUpdated>2026-02-13T12:15:25.9644599Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>597</COMPE>
