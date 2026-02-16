@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-15T12:11:56.5151272+00:00"
+    "DateUpdated": "2026-02-16T12:17:41.0588315+00:00"
   },
   {
     "COMPE": "374",
@@ -10476,7 +10476,7 @@
     "ShortName": "DELTA GLOBAL SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10490,9 +10490,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2025-04-17",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-02-17 10:00:00",
     "DateRegistered": "2025-04-11T12:08:52.4220604+00:00",
-    "DateUpdated": "2025-12-29T12:10:40.6070922+00:00"
+    "DateUpdated": "2026-02-16T12:17:40.2433641+00:00"
   },
   {
     "COMPE": "681",
