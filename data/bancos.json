@@ -938,7 +938,7 @@
       "Crédito Consiginado",
       "troca de modalidade."
     ],
-    "Url": "https://www.bancooriginal.com.br",
+    "Url": "https://www.original.com.br",
     "DateOperationStarted": "2008-07-25",
     "DatePixStarted": "2023-04-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114694-03:00",
@@ -2809,7 +2809,7 @@
     "Products": [
       "Consignado"
     ],
-    "Url": "https://www.bs2.com/banco/",
+    "Url": "https://www.bancobs2.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115415-03:00",
@@ -4424,7 +4424,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.c6bank.com",
+    "Url": "https://www.c6bank.com.br",
     "DateOperationStarted": "2019-01-31",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115026-03:00",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-16T12:17:41.0588315+00:00"
+    "DateUpdated": "2026-02-17T12:17:13.6252117+00:00"
   },
   {
     "COMPE": "374",
@@ -5152,7 +5152,7 @@
     "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": null,
-    "Url": "https://www.picpay.com.br",
+    "Url": "https://picpay.com",
     "DateOperationStarted": "2020-10-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114941-03:00",
@@ -5434,7 +5434,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bancovw.com.br",
+    "Url": "https://www.vwfs.com.br",
     "DateOperationStarted": "2020-08-17",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115229-03:00",
@@ -5462,7 +5462,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bradescofinanciamentos.com.br",
+    "Url": "https://financiamentos.bradesco",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114609-03:00",
@@ -10045,7 +10045,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bancovotorantim.com.br",
+    "Url": "https://www.bv.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115243-03:00",
