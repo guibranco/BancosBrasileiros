@@ -938,7 +938,7 @@
       "Crédito Consiginado",
       "troca de modalidade."
     ],
-    "Url": "https://www.bancooriginal.com.br",
+    "Url": "https://www.original.com.br",
     "DateOperationStarted": "2008-07-25",
     "DatePixStarted": "2023-04-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114694-03:00",
@@ -2534,13 +2534,13 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Troca de Modalidade"
+      "Troca de Modalidade- 15 -"
     ],
     "Url": null,
     "DateOperationStarted": "2017-06-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711462-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9525364+00:00"
+    "DateUpdated": "2026-02-12T12:18:23.7155697+00:00"
   },
   {
     "COMPE": "190",
@@ -2809,7 +2809,7 @@
     "Products": [
       "Consignado"
     ],
-    "Url": "https://www.bs2.com/banco/",
+    "Url": "https://www.bancobs2.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115415-03:00",
@@ -4424,7 +4424,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.c6bank.com",
+    "Url": "https://www.c6bank.com.br",
     "DateOperationStarted": "2019-01-31",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115026-03:00",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-11T12:21:12.4593252+00:00"
+    "DateUpdated": "2026-02-17T12:17:13.6252117+00:00"
   },
   {
     "COMPE": "374",
@@ -5152,7 +5152,7 @@
     "PCRP": true,
     "SalaryPortability": "Destinatário",
     "Products": null,
-    "Url": "https://www.picpay.com.br",
+    "Url": "https://picpay.com",
     "DateOperationStarted": "2020-10-15",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114941-03:00",
@@ -5269,12 +5269,17 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Crédito Pessoal",
+      "Financiamento de Veículos",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2022-03-08",
     "DatePixStarted": "2025-01-10 10:17:42",
     "DateRegistered": "2022-03-16T07:58:41.1136389+00:00",
-    "DateUpdated": "2025-01-11T12:07:13.6599954+00:00"
+    "DateUpdated": "2026-02-12T12:18:23.6941045+00:00"
   },
   {
     "COMPE": "386",
@@ -5429,7 +5434,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bancovw.com.br",
+    "Url": "https://www.vwfs.com.br",
     "DateOperationStarted": "2020-08-17",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115229-03:00",
@@ -5457,7 +5462,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bradescofinanciamentos.com.br",
+    "Url": "https://financiamentos.bradesco",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114609-03:00",
@@ -8389,8 +8394,8 @@
     "COMPE": "554",
     "ISPB": "28811341",
     "Document": "28.811.341/0001-66",
-    "LongName": "STONEX BANCO DE CÂMBIO S.A.",
-    "ShortName": "STONEX BANCO DE CÂMBIO S.A.",
+    "LongName": "BANCO STONEX S.A.",
+    "ShortName": "BCO STONEX S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8406,7 +8411,7 @@
     "DateOperationStarted": "2023-07-24",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347539+00:00",
-    "DateUpdated": "2023-09-25T12:28:25.134754+00:00"
+    "DateUpdated": "2026-02-13T12:15:23.8386823+00:00"
   },
   {
     "COMPE": "555",
@@ -9292,6 +9297,29 @@
     "DateUpdated": "2025-12-24T12:10:09.2485628+00:00"
   },
   {
+    "COMPE": "596",
+    "ISPB": "39696395",
+    "Document": "39.696.395/0001-44",
+    "LongName": "CACTVS INSTITUICAO DE PAGAMENTO S.A",
+    "ShortName": "CACTVS IP S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-02-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-02-13T12:15:25.9644294+00:00",
+    "DateUpdated": "2026-02-13T12:15:25.9644599+00:00"
+  },
+  {
     "COMPE": "597",
     "ISPB": "34747388",
     "Document": "34.747.388/0001-00",
@@ -10017,7 +10045,7 @@
       "Troca de Modalidade",
       "Veículos"
     ],
-    "Url": "https://www.bancovotorantim.com.br",
+    "Url": "https://www.bv.com.br",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115243-03:00",
@@ -10448,7 +10476,7 @@
     "ShortName": "DELTA GLOBAL SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10462,9 +10490,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2025-04-17",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-02-17 10:00:00",
     "DateRegistered": "2025-04-11T12:08:52.4220604+00:00",
-    "DateUpdated": "2025-12-29T12:10:40.6070922+00:00"
+    "DateUpdated": "2026-02-16T12:17:40.2433641+00:00"
   },
   {
     "COMPE": "681",
@@ -11908,6 +11936,29 @@
     "DatePixStarted": "2025-12-16 10:00:00",
     "DateRegistered": "2025-11-06T12:09:45.8734762+00:00",
     "DateUpdated": "2025-12-12T12:10:15.0135248+00:00"
+  },
+  {
+    "COMPE": "791",
+    "ISPB": "62448932",
+    "Document": "62.448.932/0001-59",
+    "LongName": "MULTIPLIKE FINANCEIRA S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "MULTIPLIKE FINANCEIRA S.A. SCFI",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-02-20",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-02-12T12:18:23.763228+00:00",
+    "DateUpdated": "2026-02-12T12:18:23.763249+00:00"
   },
   {
     "COMPE": "792",

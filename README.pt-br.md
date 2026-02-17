@@ -330,6 +330,13 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Guilherme Baldini</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/apoorvdarshan">
+                    <img src="https://avatars.githubusercontent.com/u/90602809?v=4" width="100;" alt="apoorvdarshan"/>
+                    <br />
+                    <sub><b>Apoorv Darshan</b></sub>
+                </a>
+            </td>
 		</tr>
 	<tbody>
 </table>
