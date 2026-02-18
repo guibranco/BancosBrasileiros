@@ -849,7 +849,7 @@
       <Product>Crédito Consiginado</Product>
       <Product>troca de modalidade.</Product>
     </Products>
-    <Url>https://www.bancooriginal.com.br</Url>
+    <Url>https://www.original.com.br</Url>
     <DateOperationStarted>2008-07-25</DateOperationStarted>
     <DatePixStarted>2023-04-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114694-03:00</DateRegistered>
@@ -1856,7 +1856,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.intesasanpaolobrasil.com.br</Url>
+    <Url>https://www.intesasanpaolobrasil.com.br/pt/</Url>
     <DateOperationStarted>2015-05-08</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115209-03:00</DateRegistered>
     <DateUpdated>2021-05-05T09:11:12.7115212-03:00</DateUpdated>
@@ -2463,7 +2463,7 @@
     <Products>
       <Product>Consignado</Product>
     </Products>
-    <Url>https://www.bs2.com/banco/</Url>
+    <Url>https://www.bancobs2.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115415-03:00</DateRegistered>
@@ -3853,7 +3853,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.c6bank.com</Url>
+    <Url>https://www.c6bank.com.br/</Url>
     <DateOperationStarted>2019-01-31</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115026-03:00</DateRegistered>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-02-17T12:17:13.6252117Z</DateUpdated>
+    <DateUpdated>2026-02-18T12:16:55.5998493Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -4406,7 +4406,7 @@
     <Products>
       <Product>Pessoal</Product>
     </Products>
-    <Url>https://www.jpmorgan.com</Url>
+    <Url>https://www.jpmorgan.com/global</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2022-10-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115066-03:00</DateRegistered>
@@ -4503,7 +4503,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <SalaryPortability>Destinatário</SalaryPortability>
-    <Url>https://www.picpay.com.br</Url>
+    <Url>https://picpay.com/pt-br/pf</Url>
     <DateOperationStarted>2020-10-15</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114941-03:00</DateRegistered>
@@ -4757,7 +4757,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancovw.com.br</Url>
+    <Url>https://www.vwfs.com.br</Url>
     <DateOperationStarted>2020-08-17</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115229-03:00</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7371618Z</DateUpdated>
@@ -4782,7 +4782,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bradescofinanciamentos.com.br</Url>
+    <Url>https://financiamentos.bradesco</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114609-03:00</DateRegistered>
     <DateUpdated>2023-10-21T12:05:56.175375Z</DateUpdated>
@@ -8697,7 +8697,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.bancovotorantim.com.br</Url>
+    <Url>https://www.bv.com.br</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115243-03:00</DateRegistered>
@@ -9709,7 +9709,7 @@
       <Product>Imobiliário</Product>
       <Product>Pessoal</Product>
     </Products>
-    <Url>https://www.citibank.com.br</Url>
+    <Url>https://corporateportal.brazil.citibank.com/index.htm</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2021-09-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115077-03:00</DateRegistered>
@@ -9783,7 +9783,7 @@
       <Product>Troca de Modalidade</Product>
       <Product>Veículos</Product>
     </Products>
-    <Url>https://www.sicredi.com.br</Url>
+    <Url>https://www.sicredi.com.br/home/</Url>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114428-03:00</DateRegistered>
