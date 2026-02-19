@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-02-18T12:16:55.5998493Z</DateUpdated>
+    <DateUpdated>2026-02-19T12:18:12.0925184Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -8627,8 +8627,8 @@
     <COMPE>653</COMPE>
     <ISPB>61024352</ISPB>
     <Document>61.024.352/0001-71</Document>
-    <LongName>BANCO PLENO S.A.</LongName>
-    <ShortName>BM PLENO S.A.</ShortName>
+    <LongName>BANCO PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>BM PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <Type>Banco Múltiplo</Type>
     <PixType>DRCT</PixType>
@@ -8642,7 +8642,7 @@
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711528-03:00</DateRegistered>
-    <DateUpdated>2025-08-07T12:10:38.4268007Z</DateUpdated>
+    <DateUpdated>2026-02-19T12:18:10.0236201Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>654</COMPE>
@@ -10264,6 +10264,26 @@
     <DateOperationStarted>2026-02-06</DateOperationStarted>
     <DateRegistered>2026-02-02T12:15:36.326175Z</DateRegistered>
     <DateUpdated>2026-02-02T12:15:36.3261964Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>783</COMPE>
+    <ISPB>31680151</ISPB>
+    <Document>31.680.151/0001-61</Document>
+    <LongName>SWAP INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>SWAP IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-02-19</DateOperationStarted>
+    <DatePixStarted>2025-06-25 10:10:00</DatePixStarted>
+    <DateRegistered>2026-02-19T12:18:12.1402397Z</DateRegistered>
+    <DateUpdated>2026-02-19T12:18:11.1628765Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>786</COMPE>

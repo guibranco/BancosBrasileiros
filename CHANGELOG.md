@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2026-02-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 783 - SWAP IP S.A. - 31.680.151/0001-61
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 653 - BM PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL - 61.024.352/0001-71
+    - **LongName** (STR): BANCO PLENO S.A. **->** BANCO PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): BM PLENO S.A. **->** BM PLENO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL
+
 ### 2026-02-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
