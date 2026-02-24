@@ -4,6 +4,20 @@
 
 ## Changelog
 
+### 2026-02-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 4 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 510 - FFCRED SCD S.A. - 39.738.065/0001-74
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-01-15 09:40:38 **->** 2026-02-23 11:10:00
+  - 566 - FLAGSHIP IP LTDA - 23.114.447/0001-97
+    - **LongName** (STR): FLAGSHIP INSTITUICAO DE PAGAMENTOS LTDA **->** FLAGSHIP INSTITUICAO DE PAGAMENTO LTDA
+  - 572 - ALL IN CRED SCD S.A. - 51.414.521/0001-26
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2026-02-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

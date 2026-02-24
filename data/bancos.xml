@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-02-23T12:18:02.5100114Z</DateUpdated>
+    <DateUpdated>2026-02-24T12:18:45.7658819Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6433,7 +6433,7 @@
     <LongName>FFCRED SOCIEDADE DE CRÉDITO DIRETO S.A..</LongName>
     <ShortName>FFCRED SCD S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6442,9 +6442,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-11-18</DateOperationStarted>
-    <DatePixStarted>2024-01-15 09:40:38</DatePixStarted>
+    <DatePixStarted>2026-02-23 11:10:00</DatePixStarted>
     <DateRegistered>2022-11-15T12:07:18.5294791Z</DateRegistered>
-    <DateUpdated>2024-01-16T12:08:17.4096514Z</DateUpdated>
+    <DateUpdated>2026-02-24T12:18:44.9094964Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>511</COMPE>
@@ -7482,7 +7482,7 @@
     <COMPE>566</COMPE>
     <ISPB>23114447</ISPB>
     <Document>23.114.447/0001-97</Document>
-    <LongName>FLAGSHIP INSTITUICAO DE PAGAMENTOS LTDA</LongName>
+    <LongName>FLAGSHIP INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>FLAGSHIP IP LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
@@ -7496,7 +7496,7 @@
     <DateOperationStarted>2023-10-30</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2023-10-24T12:06:14.1207735Z</DateRegistered>
-    <DateUpdated>2023-10-24T12:06:12.8841523Z</DateUpdated>
+    <DateUpdated>2026-02-24T12:18:43.7387372Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>567</COMPE>
@@ -7573,13 +7573,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-12-22</DateOperationStarted>
     <DatePixStarted>2024-12-10 11:00:00</DatePixStarted>
     <DateRegistered>2023-12-18T12:06:50.1170089Z</DateRegistered>
-    <DateUpdated>2024-12-05T12:08:35.7332513Z</DateUpdated>
+    <DateUpdated>2026-02-24T12:18:45.817452Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>573</COMPE>

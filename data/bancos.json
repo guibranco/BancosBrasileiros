@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-23T12:18:02.5100114+00:00"
+    "DateUpdated": "2026-02-24T12:18:45.7658819+00:00"
   },
   {
     "COMPE": "374",
@@ -7403,7 +7403,7 @@
     "ShortName": "FFCRED SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7414,9 +7414,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-11-18",
-    "DatePixStarted": "2024-01-15 09:40:38",
+    "DatePixStarted": "2026-02-23 11:10:00",
     "DateRegistered": "2022-11-15T12:07:18.5294791+00:00",
-    "DateUpdated": "2024-01-16T12:08:17.4096514+00:00"
+    "DateUpdated": "2026-02-24T12:18:44.9094964+00:00"
   },
   {
     "COMPE": "511",
@@ -8650,7 +8650,7 @@
     "COMPE": "566",
     "ISPB": "23114447",
     "Document": "23.114.447/0001-97",
-    "LongName": "FLAGSHIP INSTITUICAO DE PAGAMENTOS LTDA",
+    "LongName": "FLAGSHIP INSTITUICAO DE PAGAMENTO LTDA",
     "ShortName": "FLAGSHIP IP LTDA",
     "Network": "RSFN",
     "Type": null,
@@ -8667,7 +8667,7 @@
     "DateOperationStarted": "2023-10-30",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2023-10-24T12:06:14.1207735+00:00",
-    "DateUpdated": "2023-10-24T12:06:12.8841523+00:00"
+    "DateUpdated": "2026-02-24T12:18:43.7387372+00:00"
   },
   {
     "COMPE": "567",
@@ -8755,15 +8755,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-12-22",
     "DatePixStarted": "2024-12-10 11:00:00",
     "DateRegistered": "2023-12-18T12:06:50.1170089+00:00",
-    "DateUpdated": "2024-12-05T12:08:35.7332513+00:00"
+    "DateUpdated": "2026-02-24T12:18:45.817452+00:00"
   },
   {
     "COMPE": "573",
