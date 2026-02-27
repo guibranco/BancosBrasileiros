@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-02-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 418 - ZIPDIN SCD S.A. - 37.414.009/0001-59
+    - **Products** (CTC): Null **->** Crédito Consignado, Crédito Pessoal, Outros, Troca de Modalidade
+
 ### 2026-02-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

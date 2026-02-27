@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-02-26T12:18:39.5387336+00:00"
+    "DateUpdated": "2026-02-27T12:14:48.289836+00:00"
   },
   {
     "COMPE": "374",
@@ -5957,12 +5957,17 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Crédito Consignado",
+      "Crédito Pessoal",
+      "Outros",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "DateOperationStarted": "2021-08-26",
     "DatePixStarted": null,
     "DateRegistered": "2021-08-24T13:06:55.8926609-03:00",
-    "DateUpdated": "2021-08-24T13:06:55.8926612-03:00"
+    "DateUpdated": "2026-02-27T12:14:48.2901659+00:00"
   },
   {
     "COMPE": "419",
