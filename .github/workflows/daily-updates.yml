@@ -58,21 +58,21 @@ jobs:
                   data: '{ "error_code": "${{ env.exitcode }}" }'
 
             - name: Upload banks files
-              uses: actions/upload-artifact@v6
+              uses: actions/upload-artifact@v7
               if: env.exitcode == 0
               with:
                   name: bankFiles
                   path: ./BancosBrasileiros.MergeTool/result/bancos.*
 
             - name: Upload changelog file
-              uses: actions/upload-artifact@v6
+              uses: actions/upload-artifact@v7
               if: env.exitcode == 0
               with:
                   name: changeLogFile
                   path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md
 
             - name: Upload release-notes.md
-              uses: actions/upload-artifact@v6
+              uses: actions/upload-artifact@v7
               if: env.exitcode == 0
               with:
                   name: releaseNotesFile
@@ -93,13 +93,13 @@ jobs:
               uses: actions/checkout@v6
 
             - name: Download banks files
-              uses: actions/download-artifact@v7
+              uses: actions/download-artifact@v8
               with:
                   name: bankFiles
                   path: data/
 
             - name: Download change log file
-              uses: actions/download-artifact@v7
+              uses: actions/download-artifact@v8
               with:
                   name: changeLogFile
 
