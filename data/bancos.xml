@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-02T12:15:30.963364Z</DateUpdated>
+    <DateUpdated>2026-03-03T12:15:28.7986546Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10374,6 +10374,7 @@
     <LongName>NIXFIN SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>NIXFIN SCD</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -10382,7 +10383,8 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-02-02</DateOperationStarted>
+    <DatePixStarted>2026-03-05 09:00:00</DatePixStarted>
     <DateRegistered>2026-01-27T12:11:33.2913903Z</DateRegistered>
-    <DateUpdated>2026-01-27T12:11:33.2913904Z</DateUpdated>
+    <DateUpdated>2026-03-03T12:15:27.9355212Z</DateUpdated>
   </bank>
 </banks>

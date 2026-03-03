@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-02T12:15:30.963364+00:00"
+    "DateUpdated": "2026-03-03T12:15:28.7986546+00:00"
   },
   {
     "COMPE": "374",
@@ -11996,7 +11996,7 @@
     "ShortName": "NIXFIN SCD",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -12007,8 +12007,8 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-02-02",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-03-05 09:00:00",
     "DateRegistered": "2026-01-27T12:11:33.2913903+00:00",
-    "DateUpdated": "2026-01-27T12:11:33.2913904+00:00"
+    "DateUpdated": "2026-03-03T12:15:27.9355212+00:00"
   }
 ]
