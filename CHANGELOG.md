@@ -4,6 +4,18 @@
 
 ## Changelog
 
+### 2026-03-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 517 - PAGUEVELOZ IP LTDA. - 03.816.413/0001-37
+- Updated 3 banks
+  - 189 - HS FINANCEIRA - 07.512.441/0001-11
+    - **Products** (CTC): Consignado, Troca de Modalidade- 15 - **->** Consignado, Troca de Modalidade
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **Products** (CTC): Capital de Giro PJ, Crédito Consignado, Crédito Imobiliário, Crédito Pessoal, Troca de Modalidade **->** Capital de Giro PJ- 15 -, Crédito Consignado, Crédito Imobiliário, Crédito Pessoal, Troca de Modalidade
+
 ### 2026-03-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

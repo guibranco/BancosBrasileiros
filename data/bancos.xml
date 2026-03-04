@@ -2218,12 +2218,12 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Products>
       <Product>Consignado</Product>
-      <Product>Troca de Modalidade- 15 -</Product>
+      <Product>Troca de Modalidade</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-06-05</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.711462-03:00</DateRegistered>
-    <DateUpdated>2026-02-12T12:18:23.7155697Z</DateUpdated>
+    <DateUpdated>2026-03-04T12:15:01.975081Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>190</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-03T12:15:28.7986546Z</DateUpdated>
+    <DateUpdated>2026-03-04T12:15:01.9871042Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6552,6 +6552,26 @@
     <DateUpdated>2023-10-21T12:05:56.9602279Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>517</COMPE>
+    <ISPB>03816413</ISPB>
+    <Document>03.816.413/0001-37</Document>
+    <LongName>PAGUEVELOZ INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>PAGUEVELOZ IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-03-10</DateOperationStarted>
+    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DateRegistered>2026-03-04T12:15:02.0254241Z</DateRegistered>
+    <DateUpdated>2026-03-04T12:15:00.6531061Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>518</COMPE>
     <ISPB>37679449</ISPB>
     <Document>37.679.449/0001-38</Document>
@@ -6665,7 +6685,7 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <Products>
-      <Product>Capital de Giro PJ</Product>
+      <Product>Capital de Giro PJ- 15 -</Product>
       <Product>Crédito Consignado</Product>
       <Product>Crédito Imobiliário</Product>
       <Product>Crédito Pessoal</Product>
@@ -6675,7 +6695,7 @@
     <DateOperationStarted>2023-02-15</DateOperationStarted>
     <DatePixStarted>2024-12-05 11:10:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112611Z</DateRegistered>
-    <DateUpdated>2025-08-27T12:09:05.4174581Z</DateUpdated>
+    <DateUpdated>2026-03-04T12:15:01.9748418Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>524</COMPE>
