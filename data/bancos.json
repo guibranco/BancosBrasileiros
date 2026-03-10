@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-09T12:16:01.3685167+00:00"
+    "DateUpdated": "2026-03-10T12:16:19.3597519+00:00"
   },
   {
     "COMPE": "374",
@@ -8449,7 +8449,7 @@
     "ShortName": "PAN FINAN",
     "Network": null,
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8463,9 +8463,9 @@
     ],
     "Url": null,
     "DateOperationStarted": null,
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-03-09 15:11:38",
     "DateRegistered": "2023-08-30T15:00:47.667846+00:00",
-    "DateUpdated": "2025-12-11T12:10:25.1754704+00:00"
+    "DateUpdated": "2026-03-10T12:16:17.9963824+00:00"
   },
   {
     "COMPE": "556",

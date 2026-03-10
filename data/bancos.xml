@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-09T12:16:01.3685167Z</DateUpdated>
+    <DateUpdated>2026-03-10T12:16:19.3597519Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7316,6 +7316,7 @@
     <Document>02.682.287/0001-02</Document>
     <LongName>PAN FINANCEIRA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTOS</LongName>
     <ShortName>PAN FINAN</ShortName>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7327,8 +7328,9 @@
       <Product>Troca de Modalidade</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DatePixStarted>2026-03-09 15:11:38</DatePixStarted>
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
-    <DateUpdated>2025-12-11T12:10:25.1754704Z</DateUpdated>
+    <DateUpdated>2026-03-10T12:16:17.9963824Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>556</COMPE>
