@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-10T12:16:19.3597519+00:00"
+    "DateUpdated": "2026-03-11T12:16:21.448815+00:00"
   },
   {
     "COMPE": "374",
@@ -6513,8 +6513,8 @@
     "COMPE": "450",
     "ISPB": "13203354",
     "Document": "13.203.354/0001-85",
-    "LongName": "FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.",
-    "ShortName": "FITBANK IP",
+    "LongName": "FITS INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "FITS IP",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -6530,7 +6530,7 @@
     "DateOperationStarted": "2021-06-30",
     "DatePixStarted": "2022-03-08 10:30:00",
     "DateRegistered": "2021-07-06T07:20:49.2254617-03:00",
-    "DateUpdated": "2024-12-19T12:08:15.9507206+00:00"
+    "DateUpdated": "2026-03-11T12:16:19.2002591+00:00"
   },
   {
     "COMPE": "451",

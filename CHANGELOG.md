@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-03-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 450 - FITS IP - 13.203.354/0001-85
+    - **LongName** (STR): FITBANK INSTITUIÇÃO DE PAGAMENTO S.A. **->** FITS INSTITUIÇÃO DE PAGAMENTO S.A.
+    - **ShortName** (STR): FITBANK IP **->** FITS IP
+
 ### 2026-03-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

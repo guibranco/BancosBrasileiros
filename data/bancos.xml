@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-10T12:16:19.3597519Z</DateUpdated>
+    <DateUpdated>2026-03-11T12:16:21.448815Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -5691,8 +5691,8 @@
     <COMPE>450</COMPE>
     <ISPB>13203354</ISPB>
     <Document>13.203.354/0001-85</Document>
-    <LongName>FITBANK INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
-    <ShortName>FITBANK IP</ShortName>
+    <LongName>FITS INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>FITS IP</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -5705,7 +5705,7 @@
     <DateOperationStarted>2021-06-30</DateOperationStarted>
     <DatePixStarted>2022-03-08 10:30:00</DatePixStarted>
     <DateRegistered>2021-07-06T07:20:49.2254617-03:00</DateRegistered>
-    <DateUpdated>2024-12-19T12:08:15.9507206Z</DateUpdated>
+    <DateUpdated>2026-03-11T12:16:19.2002591Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>451</COMPE>
