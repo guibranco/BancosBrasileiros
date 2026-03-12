@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-11T12:16:21.448815Z</DateUpdated>
+    <DateUpdated>2026-03-12T12:15:25.4701929Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -8887,8 +8887,8 @@
     <COMPE>668</COMPE>
     <ISPB>48632754</ISPB>
     <Document>48.632.754/0001-90</Document>
-    <LongName>VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A</LongName>
-    <ShortName>VIA CAPITAL SCD S/A</ShortName>
+    <LongName>CELCOIN SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>CELCOIN SCD</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8903,7 +8903,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-02-04</DateOperationStarted>
     <DateRegistered>2025-01-29T12:33:42.9304264Z</DateRegistered>
-    <DateUpdated>2026-01-14T12:10:48.6886895Z</DateUpdated>
+    <DateUpdated>2026-03-12T12:15:23.278087Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>670</COMPE>

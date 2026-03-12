@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-11T12:16:21.448815+00:00"
+    "DateUpdated": "2026-03-12T12:15:25.4701929+00:00"
   },
   {
     "COMPE": "374",
@@ -10267,8 +10267,8 @@
     "COMPE": "668",
     "ISPB": "48632754",
     "Document": "48.632.754/0001-90",
-    "LongName": "VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A",
-    "ShortName": "VIA CAPITAL SCD S/A",
+    "LongName": "CELCOIN SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CELCOIN SCD",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -10287,7 +10287,7 @@
     "DateOperationStarted": "2025-02-04",
     "DatePixStarted": null,
     "DateRegistered": "2025-01-29T12:33:42.9304264+00:00",
-    "DateUpdated": "2026-01-14T12:10:48.6886895+00:00"
+    "DateUpdated": "2026-03-12T12:15:23.278087+00:00"
   },
   {
     "COMPE": "670",

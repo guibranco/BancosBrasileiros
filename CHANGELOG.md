@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-03-12 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 668 - CELCOIN SCD - 48.632.754/0001-90
+    - **LongName** (STR): VIA CAPITAL - SOCIEDADE DE CRÉDITO DIRETO S/A **->** CELCOIN SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): VIA CAPITAL SCD S/A **->** CELCOIN SCD
+
 ### 2026-03-11 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
