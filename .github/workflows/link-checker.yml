@@ -65,7 +65,7 @@ jobs:
                   content-filepath: ./lychee/out.md
 
             - name: Update PR with comment
-              uses: mshick/add-pr-comment@v2
+              uses: mshick/add-pr-comment@v3
               if: always() && github.event_name == 'pull_request' && steps.lychee.outputs.exit_code != 0
               with:
                   refresh-message-position: true
