@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-17T12:21:20.8752812+00:00"
+    "DateUpdated": "2026-03-18T12:22:06.0623763+00:00"
   },
   {
     "COMPE": "374",
@@ -10129,8 +10129,8 @@
     "COMPE": "661",
     "ISPB": "55428859",
     "Document": "55.428.859/0001-98",
-    "LongName": "FREEX CORRETORA DE CAMBIO S.A.",
-    "ShortName": "FREEX CC S.A.",
+    "LongName": "FREEX SOCIEDADE CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "FREEX SCC S.A.",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -10146,7 +10146,7 @@
     "DateOperationStarted": "2024-09-11",
     "DatePixStarted": null,
     "DateRegistered": "2024-09-05T12:33:05.3563736+00:00",
-    "DateUpdated": "2024-09-05T12:33:05.3564037+00:00"
+    "DateUpdated": "2026-03-18T12:22:04.0134291+00:00"
   },
   {
     "COMPE": "662",

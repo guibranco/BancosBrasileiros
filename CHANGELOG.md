@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 661 - FREEX SCC S.A. - 55.428.859/0001-98
+    - **LongName** (STR): FREEX CORRETORA DE CAMBIO S.A. **->** FREEX SOCIEDADE CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): FREEX CC S.A. **->** FREEX SCC S.A.
+
 ### 2026-03-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
