@@ -4154,7 +4154,7 @@
     "ShortName": "CARTOS SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "DRCT",
+    "PixType": "IDRT",
     "Charge": true,
     "CreditDocument": false,
     "LegalCheque": false,
@@ -4170,9 +4170,9 @@
     ],
     "Url": null,
     "DateOperationStarted": "2020-09-16",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2026-03-18 09:03:47",
     "DateRegistered": "2021-05-05T09:11:12.7114933-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7400004+00:00"
+    "DateUpdated": "2026-03-19T12:16:46.5063829+00:00"
   },
   {
     "COMPE": "325",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-18T12:22:06.0623763+00:00"
+    "DateUpdated": "2026-03-19T12:16:47.6079499+00:00"
   },
   {
     "COMPE": "374",
@@ -10569,6 +10569,29 @@
     "DateUpdated": "2025-11-17T12:09:54.7976235+00:00"
   },
   {
+    "COMPE": "683",
+    "ISPB": "30507541",
+    "Document": "30.507.541/0001-71",
+    "LongName": "BRASIL CASH INSTITUICAO DE PAGAMENTO S.A",
+    "ShortName": "BRASIL CASH IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-03-25",
+    "DatePixStarted": "2025-11-03 10:32:31",
+    "DateRegistered": "2026-03-19T12:16:47.6523154+00:00",
+    "DateUpdated": "2026-03-19T12:16:46.5794526+00:00"
+  },
+  {
     "COMPE": "684",
     "ISPB": "56392166",
     "Document": "56.392.166/0001-55",
@@ -11110,8 +11133,8 @@
     "COMPE": "719",
     "ISPB": "33884941",
     "Document": "33.884.941/0001-94",
-    "LongName": "BANCO MASTER MÚLTIPLO S.A. - SOB RAET",
-    "ShortName": "BANCO MASTER MÚLTIPLO - SOB RAET",
+    "LongName": "BANCO MASTER MÚLTIPLO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "BANCO MASTER MÚLTIPLO - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -11127,7 +11150,7 @@
     "DateOperationStarted": "2024-09-02",
     "DatePixStarted": null,
     "DateRegistered": "2024-08-29T12:32:25.2409945+00:00",
-    "DateUpdated": "2025-12-01T12:10:24.8462202+00:00"
+    "DateUpdated": "2026-03-19T12:16:45.4827582+00:00"
   },
   {
     "COMPE": "720",
