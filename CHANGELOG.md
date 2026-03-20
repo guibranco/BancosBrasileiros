@@ -4,6 +4,35 @@
 
 ## Changelog
 
+### 2026-03-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 683 - BRASIL CASH IP S.A. - 30.507.541/0001-71
+- Updated 3 banks
+  - 324 - CARTOS SCD S.A. - 21.332.862/0001-91
+    - **PixType** (SPI): DRCT **->** IDRT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2026-03-18 09:03:47
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 719 - BANCO MASTER MÚLTIPLO - EM LIQUIDAÇÃO EXTRAJUDICIAL - 33.884.941/0001-94
+    - **LongName** (STR): BANCO MASTER MÚLTIPLO S.A. - SOB RAET **->** BANCO MASTER MÚLTIPLO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): BANCO MASTER MÚLTIPLO - SOB RAET **->** BANCO MASTER MÚLTIPLO - EM LIQUIDAÇÃO EXTRAJUDICIAL
+
+### 2026-03-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 661 - FREEX SCC S.A. - 55.428.859/0001-98
+    - **LongName** (STR): FREEX CORRETORA DE CAMBIO S.A. **->** FREEX SOCIEDADE CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): FREEX CC S.A. **->** FREEX SCC S.A.
+
+### 2026-03-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-03-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
