@@ -549,7 +549,7 @@
     <COMPE>060</COMPE>
     <ISPB>04913129</ISPB>
     <Document>04.913.129/0001-41</Document>
-    <LongName>Confidence Corretora de Câmbio S.A.</LongName>
+    <LongName>CONFIDENCE SOCIEDADE CORRETORA DE CAMBIO S.A.</LongName>
     <ShortName>CONFIDENCE CC S.A.</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -561,7 +561,7 @@
     <Url>https://www.confidencecambio.com.br/</Url>
     <DateOperationStarted>2010-09-21</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114567-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114569-03:00</DateUpdated>
+    <DateUpdated>2026-03-25T12:20:50.2051342Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>062</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-23T12:20:41.6469599Z</DateUpdated>
+    <DateUpdated>2026-03-25T12:20:52.3096479Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
