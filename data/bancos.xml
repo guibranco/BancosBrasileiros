@@ -1471,7 +1471,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <Url>https://www.advancedcorretora.com.br/</Url>
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2011-10-03</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115481-03:00</DateRegistered>
     <DateUpdated>2026-01-19T12:11:46.7933669Z</DateUpdated>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-25T12:20:52.3096479Z</DateUpdated>
+    <DateUpdated>2026-03-26T12:24:23.723862Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6479,6 +6479,7 @@
     <LongName>FINVEST DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
     <ShortName>FINVEST DTVM</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6487,8 +6488,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-08-01</DateOperationStarted>
+    <DatePixStarted>2026-03-30 09:00:00</DatePixStarted>
     <DateRegistered>2022-07-20T12:06:03.4386093Z</DateRegistered>
-    <DateUpdated>2025-06-24T12:09:37.5744375Z</DateUpdated>
+    <DateUpdated>2026-03-26T12:24:22.8119133Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>513</COMPE>
