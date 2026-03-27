@@ -597,7 +597,7 @@
     "COMPE": "060",
     "ISPB": "04913129",
     "Document": "04.913.129/0001-41",
-    "LongName": "Confidence Corretora de Câmbio S.A.",
+    "LongName": "CONFIDENCE SOCIEDADE CORRETORA DE CAMBIO S.A.",
     "ShortName": "CONFIDENCE CC S.A.",
     "Network": "Internet",
     "Type": null,
@@ -614,7 +614,7 @@
     "DateOperationStarted": "2010-09-21",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114567-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114569-03:00"
+    "DateUpdated": "2026-03-25T12:20:50.2051342+00:00"
   },
   {
     "COMPE": "062",
@@ -1648,7 +1648,7 @@
     "PCRP": null,
     "SalaryPortability": null,
     "Products": null,
-    "Url": "https://www.advancedcorretora.com.br/",
+    "Url": null,
     "DateOperationStarted": "2011-10-03",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115481-03:00",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-23T12:20:41.6469599+00:00"
+    "DateUpdated": "2026-03-27T12:18:46.3635068+00:00"
   },
   {
     "COMPE": "374",
@@ -7454,7 +7454,7 @@
     "ShortName": "FINVEST DTVM",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7465,9 +7465,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2022-08-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-03-30 09:00:00",
     "DateRegistered": "2022-07-20T12:06:03.4386093+00:00",
-    "DateUpdated": "2025-06-24T12:09:37.5744375+00:00"
+    "DateUpdated": "2026-03-26T12:24:22.8119133+00:00"
   },
   {
     "COMPE": "513",
