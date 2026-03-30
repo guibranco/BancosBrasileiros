@@ -3515,8 +3515,8 @@
     "COMPE": "285",
     "ISPB": "71677850",
     "Document": "71.677.850/0001-77",
-    "LongName": "FRENTE CORRETORA DE CÂMBIO S.A.",
-    "ShortName": "FRENTE CC S.A.",
+    "LongName": "FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "FRENTE SCC S.A",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -3532,7 +3532,7 @@
     "DateOperationStarted": "2018-09-25",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115423-03:00",
-    "DateUpdated": "2023-03-18T12:06:14.6197474+00:00"
+    "DateUpdated": "2026-03-30T12:23:59.9783772+00:00"
   },
   {
     "COMPE": "286",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-03-29T12:14:23.7748684+00:00"
+    "DateUpdated": "2026-03-30T12:24:02.0010279+00:00"
   },
   {
     "COMPE": "374",
@@ -6375,8 +6375,8 @@
     "COMPE": "443",
     "ISPB": "39416705",
     "Document": "39.416.705/0001-20",
-    "LongName": "OCTA SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "OCTA SCD S.A.",
+    "LongName": "OCTA SOCIEDADE DE CRÉDITO DIRETO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "OCTA SCD S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -6392,7 +6392,7 @@
     "DateOperationStarted": "2021-11-18",
     "DatePixStarted": "2025-02-14 10:00:00",
     "DateRegistered": "2021-11-22T11:00:23.679021-03:00",
-    "DateUpdated": "2025-08-11T12:10:23.8891737+00:00"
+    "DateUpdated": "2026-03-30T12:23:59.9754785+00:00"
   },
   {
     "COMPE": "444",
@@ -9144,8 +9144,8 @@
     "COMPE": "588",
     "ISPB": "20308187",
     "Document": "20.308.187/0001-00",
-    "LongName": "PROVER PROMOCAO DE VENDAS INSTITUICAO DE PAGAMENTO LTDA",
-    "ShortName": "PROVER PROMOCAO DE VENDAS IP LTDA.",
+    "LongName": "AVANCARD PROVER INSTITUIÇÃO DE PAGAMENTO LTDA",
+    "ShortName": "AVANCARD PROVER IP LTDA",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -9161,7 +9161,7 @@
     "DateOperationStarted": "2024-03-04",
     "DatePixStarted": "2025-05-22 09:00:00",
     "DateRegistered": "2024-02-27T12:05:53.2736229+00:00",
-    "DateUpdated": "2025-05-21T12:09:23.1445857+00:00"
+    "DateUpdated": "2026-03-30T12:23:59.9731504+00:00"
   },
   {
     "COMPE": "589",
@@ -10288,6 +10288,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2025-01-29T12:33:42.9304264+00:00",
     "DateUpdated": "2026-03-12T12:15:23.278087+00:00"
+  },
+  {
+    "COMPE": "669",
+    "ISPB": "47133056",
+    "Document": "47.133.056/0001-88",
+    "LongName": "TRANSFERO INSTITUICAO DE PAGAMENTO LTDA.",
+    "ShortName": "TRANSFERO IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-04-06",
+    "DatePixStarted": "2024-11-14 16:05:39",
+    "DateRegistered": "2026-03-30T12:24:02.039235+00:00",
+    "DateUpdated": "2026-03-30T12:24:01.1769706+00:00"
   },
   {
     "COMPE": "670",

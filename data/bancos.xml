@@ -3081,8 +3081,8 @@
     <COMPE>285</COMPE>
     <ISPB>71677850</ISPB>
     <Document>71.677.850/0001-77</Document>
-    <LongName>FRENTE CORRETORA DE CÂMBIO S.A.</LongName>
-    <ShortName>FRENTE CC S.A.</ShortName>
+    <LongName>FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>FRENTE SCC S.A</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3093,7 +3093,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115423-03:00</DateRegistered>
-    <DateUpdated>2023-03-18T12:06:14.6197474Z</DateUpdated>
+    <DateUpdated>2026-03-30T12:23:59.9783772Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>286</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-03-29T12:14:23.7748684Z</DateUpdated>
+    <DateUpdated>2026-03-30T12:24:02.0010279Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -5577,8 +5577,8 @@
     <COMPE>443</COMPE>
     <ISPB>39416705</ISPB>
     <Document>39.416.705/0001-20</Document>
-    <LongName>OCTA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>OCTA SCD S.A.</ShortName>
+    <LongName>OCTA SOCIEDADE DE CRÉDITO DIRETO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>OCTA SCD S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5591,7 +5591,7 @@
     <DateOperationStarted>2021-11-18</DateOperationStarted>
     <DatePixStarted>2025-02-14 10:00:00</DatePixStarted>
     <DateRegistered>2021-11-22T11:00:23.679021-03:00</DateRegistered>
-    <DateUpdated>2025-08-11T12:10:23.8891737Z</DateUpdated>
+    <DateUpdated>2026-03-30T12:23:59.9754785Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>444</COMPE>
@@ -7896,8 +7896,8 @@
     <COMPE>588</COMPE>
     <ISPB>20308187</ISPB>
     <Document>20.308.187/0001-00</Document>
-    <LongName>PROVER PROMOCAO DE VENDAS INSTITUICAO DE PAGAMENTO LTDA</LongName>
-    <ShortName>PROVER PROMOCAO DE VENDAS IP LTDA.</ShortName>
+    <LongName>AVANCARD PROVER INSTITUIÇÃO DE PAGAMENTO LTDA</LongName>
+    <ShortName>AVANCARD PROVER IP LTDA</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7910,7 +7910,7 @@
     <DateOperationStarted>2024-03-04</DateOperationStarted>
     <DatePixStarted>2025-05-22 09:00:00</DatePixStarted>
     <DateRegistered>2024-02-27T12:05:53.2736229Z</DateRegistered>
-    <DateUpdated>2025-05-21T12:09:23.1445857Z</DateUpdated>
+    <DateUpdated>2026-03-30T12:23:59.9731504Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>589</COMPE>
@@ -8906,6 +8906,26 @@
     <DateOperationStarted>2025-02-04</DateOperationStarted>
     <DateRegistered>2025-01-29T12:33:42.9304264Z</DateRegistered>
     <DateUpdated>2026-03-12T12:15:23.278087Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>669</COMPE>
+    <ISPB>47133056</ISPB>
+    <Document>47.133.056/0001-88</Document>
+    <LongName>TRANSFERO INSTITUICAO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>TRANSFERO IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-04-06</DateOperationStarted>
+    <DatePixStarted>2024-11-14 16:05:39</DatePixStarted>
+    <DateRegistered>2026-03-30T12:24:02.039235Z</DateRegistered>
+    <DateUpdated>2026-03-30T12:24:01.1769706Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>670</COMPE>

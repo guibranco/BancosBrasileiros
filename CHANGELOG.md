@@ -4,6 +4,23 @@
 
 ## Changelog
 
+### 2026-03-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 669 - TRANSFERO IP LTDA. - 47.133.056/0001-88
+- Updated 4 banks
+  - 285 - FRENTE SCC S.A - 71.677.850/0001-77
+    - **LongName** (STR): FRENTE CORRETORA DE CÂMBIO S.A. **->** FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): FRENTE CC S.A. **->** FRENTE SCC S.A
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 443 - OCTA SCD S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL - 39.416.705/0001-20
+    - **LongName** (STR): OCTA SOCIEDADE DE CRÉDITO DIRETO S.A. **->** OCTA SOCIEDADE DE CRÉDITO DIRETO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): OCTA SCD S.A. **->** OCTA SCD S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL
+  - 588 - AVANCARD PROVER IP LTDA - 20.308.187/0001-00
+    - **LongName** (STR): PROVER PROMOCAO DE VENDAS INSTITUICAO DE PAGAMENTO LTDA **->** AVANCARD PROVER INSTITUIÇÃO DE PAGAMENTO LTDA
+    - **ShortName** (STR): PROVER PROMOCAO DE VENDAS IP LTDA. **->** AVANCARD PROVER IP LTDA
+
 ### 2026-03-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
