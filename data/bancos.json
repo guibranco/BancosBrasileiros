@@ -1141,7 +1141,7 @@
     "ShortName": "CREDISAN CC",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "DRCT",
+    "PixType": "IDRT",
     "Charge": true,
     "CreditDocument": true,
     "LegalCheque": false,
@@ -1159,9 +1159,9 @@
     ],
     "Url": "https://portal.credisan.com.br/",
     "DateOperationStarted": "2010-08-30",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2026-04-01 09:08:40",
     "DateRegistered": "2021-05-05T09:11:12.7115328-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7435348+00:00"
+    "DateUpdated": "2026-04-02T12:23:48.673911+00:00"
   },
   {
     "COMPE": "091",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-04-01T12:24:43.8761055+00:00"
+    "DateUpdated": "2026-04-02T12:23:49.4769519+00:00"
   },
   {
     "COMPE": "374",
