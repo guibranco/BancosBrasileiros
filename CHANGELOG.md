@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-04-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 89 - CREDISAN CC - 62.109.566/0001-03
+    - **PixType** (SPI): DRCT **->** IDRT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2026-04-01 09:08:40
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-04-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
