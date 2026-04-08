@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-04-07T12:24:43.5278924+00:00"
+    "DateUpdated": "2026-04-08T12:24:43.7825193+00:00"
   },
   {
     "COMPE": "374",
@@ -10783,7 +10783,7 @@
     "ShortName": "SQUID SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10794,9 +10794,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-06-27",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-04-07 16:36:42",
     "DateRegistered": "2025-06-23T12:09:36.2371877+00:00",
-    "DateUpdated": "2025-11-18T12:09:45.6075385+00:00"
+    "DateUpdated": "2026-04-08T12:24:42.9860316+00:00"
   },
   {
     "COMPE": "693",
