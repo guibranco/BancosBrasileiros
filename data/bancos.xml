@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-04-08T12:24:43.7825193Z</DateUpdated>
+    <DateUpdated>2026-04-09T12:27:17.5091164Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -8286,13 +8286,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-14</DateOperationStarted>
     <DatePixStarted>2024-11-05 09:00:00</DatePixStarted>
     <DateRegistered>2024-06-10T12:07:20.428794Z</DateRegistered>
-    <DateUpdated>2025-02-17T12:08:32.3387329Z</DateUpdated>
+    <DateUpdated>2026-04-09T12:27:17.5594314Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>615</COMPE>
@@ -10336,6 +10336,24 @@
     <DateOperationStarted>2026-02-06</DateOperationStarted>
     <DateRegistered>2026-02-02T12:15:36.326175Z</DateRegistered>
     <DateUpdated>2026-02-02T12:15:36.3261964Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>781</COMPE>
+    <ISPB>58006471</ISPB>
+    <Document>58.006.471/0001-97</Document>
+    <LongName>BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>BARU DTVM LTDA.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-04-15</DateOperationStarted>
+    <DateRegistered>2026-04-09T12:27:17.5606609Z</DateRegistered>
+    <DateUpdated>2026-04-09T12:27:17.560701Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>783</COMPE>

@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2026-04-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 781 - BARU DTVM LTDA. - 58.006.471/0001-97
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 614 - SANTS SCD S.A. - 52.440.987/0001-69
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+
 ### 2026-04-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
