@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-04-10T12:21:11.2026679Z</DateUpdated>
+    <DateUpdated>2026-04-11T12:14:51.2167162Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -9502,7 +9502,7 @@
     <LongName>INTEGRAÇÃO DE CRÉDITO E COBRANÇA SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -9511,9 +9511,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-06-20</DateOperationStarted>
-    <DatePixStarted>2025-12-12 17:51:41</DatePixStarted>
+    <DatePixStarted>2026-04-10 09:10:00</DatePixStarted>
     <DateRegistered>2025-06-13T12:09:22.5824913Z</DateRegistered>
-    <DateUpdated>2025-12-15T12:11:04.3648621Z</DateUpdated>
+    <DateUpdated>2026-04-11T12:14:50.4318491Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>703</COMPE>
