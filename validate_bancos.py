@@ -39,11 +39,11 @@ except ImportError:
 # ---------------------------------------------------------------------------
 
 RESET = "\033[0m"
-RED   = "\033[31m"
+RED = "\033[31m"
 GREEN = "\033[32m"
 YELLOW = "\033[33m"
-CYAN  = "\033[36m"
-BOLD  = "\033[1m"
+CYAN = "\033[36m"
+BOLD = "\033[1m"
 
 
 def _color(text: str, code: str, use_color: bool) -> str:
@@ -68,10 +68,11 @@ def load_json(path: Path) -> Any:
 # validation
 # ---------------------------------------------------------------------------
 
+
 def validate(data_path: Path, schema_path: Path, strict: bool, use_color: bool) -> int:
     """Executa a validação e imprime o relatório. Retorna o código de saída."""
 
-    data   = load_json(data_path)
+    data = load_json(data_path)
     schema = load_json(schema_path)
 
     validator = Draft7Validator(schema, format_checker=FormatChecker())
@@ -94,7 +95,9 @@ def validate(data_path: Path, schema_path: Path, strict: bool, use_color: bool) 
 
     # ---------- detalhamento dos erros ----------
     print(
-        _color(f"⚠️  {len(errors)} erro(s) de validação encontrado(s):\n", YELLOW, use_color)
+        _color(
+            f"⚠️  {len(errors)} erro(s) de validação encontrado(s):\n", YELLOW, use_color
+        )
     )
 
     grouped: dict[str, list[jsonschema.ValidationError]] = {}
@@ -126,8 +129,7 @@ def validate(data_path: Path, schema_path: Path, strict: bool, use_color: bool) 
     ok_count = total - len(grouped)
     print(
         _color(
-            f"Resumo: {ok_count}/{total} registros OK, "
-            f"{len(grouped)} com problema(s).",
+            f"Resumo: {ok_count}/{total} registros OK, {len(grouped)} com problema(s).",
             YELLOW,
             use_color,
         )
@@ -140,8 +142,8 @@ def _print_summary(data: list, use_color: bool) -> None:
     if not isinstance(data, list):
         return
 
-    pix_count     = sum(1 for b in data if b.get("PixType"))
-    charge_count  = sum(1 for b in data if b.get("Charge"))
+    pix_count = sum(1 for b in data if b.get("PixType"))
+    charge_count = sum(1 for b in data if b.get("Charge"))
     types: dict[str, int] = {}
     for b in data:
         t = b.get("Type") or "Não classificado"
@@ -162,6 +164,7 @@ def _print_summary(data: list, use_color: bool) -> None:
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
+
 
 def main() -> None:
     parser = argparse.ArgumentParser(
