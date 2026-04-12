@@ -78,7 +78,8 @@ class Bank
         $file_size = filesize(self::$jsonPath);
         $contents = fread($file, $file_size);
         fclose($file);
-        
-        return json_decode(preg_replace('/[\x00-\x1F\x80-\xFF]/', '', $contents));
+
+        $contents = preg_replace('/^\xEF\xBB\xBF/', '', $contents);
+        return json_decode(preg_replace('/[\x00-\x1F]/', '', $contents));
     } 
 }
