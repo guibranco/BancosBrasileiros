@@ -1,0 +1,138 @@
+# .github/workflows/validate-schema.yml
+#
+# Valida o arquivo data/bancos.json contra o JSON Schema (bancos.schema.json)
+# em todo Pull Request e push que toque nesses arquivos.
+#
+# Pré-requisitos no repositório:
+#   - bancos.schema.json  (na raiz)
+#   - validate_bancos.py  (na raiz)
+#   - data/bancos.json    (ou ajuste --data abaixo)
+
+name: Validate bancos.json Schema
+
+on:
+  push:
+    branches: ["main", "master"]
+    paths:
+      - "data/bancos.json"
+      - "bancos.schema.json"
+      - "validate_bancos.py"
+      - ".github/workflows/validate-schema.yml"
+
+  pull_request:
+    paths:
+      - "data/bancos.json"
+      - "bancos.schema.json"
+      - "validate_bancos.py"
+
+  # Permite disparar manualmente pela aba "Actions" do GitHub
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: JSON Schema Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      # ---------------------------------------------------------------
+      # 1. Checkout do código
+      # ---------------------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ---------------------------------------------------------------
+      # 2. Configura Python
+      # ---------------------------------------------------------------
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # ---------------------------------------------------------------
+      # 3. Cache de dependências pip
+      # ---------------------------------------------------------------
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-jsonschema
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # ---------------------------------------------------------------
+      # 4. Instala jsonschema
+      # ---------------------------------------------------------------
+      - name: Install dependencies
+        run: pip install "jsonschema[format-nongpl]>=4.0"
+
+      # ---------------------------------------------------------------
+      # 5. Executa a validação
+      #    --no-color: saída limpa nos logs do Actions
+      #    --strict  : mostra contexto extra de erros anyOf/oneOf
+      # ---------------------------------------------------------------
+      - name: Validate bancos.json against schema
+        id: validate
+        run: |
+          python validate_bancos.py \
+            --data   data/bancos.json \
+            --schema bancos.schema.json \
+            --strict \
+            --no-color
+
+      # ---------------------------------------------------------------
+      # 6. Salva o relatório como artefato (útil para debug em PRs)
+      # ---------------------------------------------------------------
+      - name: Save validation report
+        if: always()   # roda mesmo se o step anterior falhou
+        run: |
+          python validate_bancos.py \
+            --data   data/bancos.json \
+            --schema bancos.schema.json \
+            --strict \
+            --no-color > validation-report.txt 2>&1 || true
+
+      - name: Upload validation report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-report
+          path: validation-report.txt
+          retention-days: 14
+
+      # ---------------------------------------------------------------
+      # 7. Comentário automático no PR (opcional, mas muito útil)
+      #    Requer que o token padrão tenha permissão de escrita em PRs.
+      # ---------------------------------------------------------------
+      - name: Comment PR on failure
+        if: failure() && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let body = '## ❌ Validação de Schema falhou\n\n';
+            try {
+              const report = fs.readFileSync('validation-report.txt', 'utf8');
+              body += '```\n' + report.slice(0, 6000) + '\n```\n';
+            } catch {
+              body += '_Relatório não disponível._\n';
+            }
+            body += '\nPor favor, corrija os erros acima antes de fazer o merge.';
+
+            await github.rest.issues.createComment({
+              owner:  context.repo.owner,
+              repo:   context.repo.repo,
+              issue_number: context.issue.number,
+              body,
+            });
+
+      - name: Comment PR on success
+        if: success() && github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner:  context.repo.owner,
+              repo:   context.repo.repo,
+              issue_number: context.issue.number,
+              body: '## ✅ Validação de Schema passou\n\nTodos os registros em `data/bancos.json` estão em conformidade com o schema.',
+            });
