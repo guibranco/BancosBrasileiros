@@ -384,14 +384,21 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/deepsource-autofix[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/57168?v=4" width="100;" alt="deepsource-autofix[bot]"/>
+                    <br />
+                    <sub><b>deepsource-autofix[bot]</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/penify-dev[bot]">
                     <img src="https://avatars.githubusercontent.com/in/399279?v=4" width="100;" alt="penify-dev[bot]"/>
                     <br />
                     <sub><b>penify-dev[bot]</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/stack-file[bot]">
                     <img src="https://avatars.githubusercontent.com/in/408123?v=4" width="100;" alt="stack-file[bot]"/>
@@ -404,13 +411,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <img src="https://avatars.githubusercontent.com/in/16372?v=4" width="100;" alt="deepsource-io[bot]"/>
                     <br />
                     <sub><b>deepsource-io[bot]</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/deepsource-autofix[bot]">
-                    <img src="https://avatars.githubusercontent.com/in/57168?v=4" width="100;" alt="deepsource-autofix[bot]"/>
-                    <br />
-                    <sub><b>deepsource-autofix[bot]</b></sub>
                 </a>
             </td>
             <td align="center">
