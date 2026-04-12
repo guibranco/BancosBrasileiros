@@ -1,0 +1,194 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/guibranco/BancosBrasileiros/bancos.schema.json",
+  "title": "Bancos Brasileiros",
+  "description": "Schema de validação para o arquivo de dados de bancos brasileiros",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "$ref": "#/definitions/Banco"
+  },
+  "definitions": {
+    "Banco": {
+      "type": "object",
+      "title": "Banco",
+      "description": "Representa uma instituição financeira registrada no Brasil",
+      "required": [
+        "COMPE",
+        "ISPB",
+        "Document",
+        "LongName",
+        "ShortName",
+        "LegalCheque",
+        "DetectaFlow",
+        "DateRegistered",
+        "DateUpdated"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "COMPE": {
+          "type": "string",
+          "title": "Código COMPE",
+          "description": "Código de compensação do banco (3 dígitos)",
+          "pattern": "^\\d{3}$",
+          "examples": ["001", "033", "341"]
+        },
+        "ISPB": {
+          "type": "string",
+          "title": "Código ISPB",
+          "description": "Identificador do Sistema de Pagamentos Brasileiro (8 dígitos)",
+          "pattern": "^\\d{8}$",
+          "examples": ["00000000", "90400888", "60701190"]
+        },
+        "Document": {
+          "type": "string",
+          "title": "CNPJ",
+          "description": "CNPJ da instituição no formato XX.XXX.XXX/XXXX-XX",
+          "pattern": "^\\d{2}\\.\\d{3}\\.\\d{3}/\\d{4}-\\d{2}$",
+          "examples": ["00.000.000/0001-91", "90.400.888/0001-42"]
+        },
+        "LongName": {
+          "type": "string",
+          "title": "Nome Completo",
+          "description": "Nome completo da instituição financeira",
+          "minLength": 1,
+          "maxLength": 300,
+          "examples": ["Banco do Brasil S.A.", "BANCO SANTANDER (BRASIL) S.A."]
+        },
+        "ShortName": {
+          "type": "string",
+          "title": "Nome Abreviado",
+          "description": "Nome abreviado da instituição para exibição compacta",
+          "minLength": 1,
+          "maxLength": 100,
+          "examples": ["BCO DO BRASIL S.A.", "BCO SANTANDER (BRASIL) S.A."]
+        },
+        "Network": {
+          "type": ["string", "null"],
+          "title": "Rede",
+          "description": "Rede de comunicação utilizada pela instituição",
+          "enum": ["RSFN", "Internet", null],
+          "examples": ["RSFN", "Internet", null]
+        },
+        "Type": {
+          "type": ["string", "null"],
+          "title": "Tipo de Instituição",
+          "description": "Classificação do tipo de instituição financeira",
+          "examples": [
+            "Banco Múltiplo",
+            "Banco Comercial",
+            "Banco de Câmbio",
+            "Caixa Econômica Federal",
+            "Banco Múltiplo Cooperativo",
+            "Banco Comercial Estrangeiro - Filial no país",
+            null
+          ]
+        },
+        "PixType": {
+          "type": ["string", "null"],
+          "title": "Tipo de Participação no Pix",
+          "description": "Modalidade de participação da instituição no sistema Pix",
+          "enum": ["DRCT", "IDRT", null],
+          "examples": ["DRCT", "IDRT", null]
+        },
+        "Charge": {
+          "type": ["boolean", "null"],
+          "title": "Cobranças",
+          "description": "Indica se a instituição suporta cobranças (boletos)",
+          "examples": [true, false, null]
+        },
+        "CreditDocument": {
+          "type": ["boolean", "null"],
+          "title": "Documento de Crédito",
+          "description": "Indica se a instituição suporta documentos de crédito (DOC/TED)",
+          "examples": [true, false, null]
+        },
+        "LegalCheque": {
+          "type": "boolean",
+          "title": "Cheque Legal",
+          "description": "Indica se a instituição suporta cheques legais",
+          "examples": [true, false]
+        },
+        "DetectaFlow": {
+          "type": "boolean",
+          "title": "DetectaFlow",
+          "description": "Indica se a instituição participa do DetectaFlow",
+          "examples": [true, false]
+        },
+        "PCR": {
+          "type": ["boolean", "null"],
+          "title": "PCR",
+          "description": "Indica se a instituição suporta Portabilidade de Crédito (PCR)",
+          "examples": [true, false, null]
+        },
+        "PCRP": {
+          "type": ["boolean", "null"],
+          "title": "PCRP",
+          "description": "Indica se a instituição suporta Portabilidade de Crédito Pessoal (PCRP)",
+          "examples": [true, false, null]
+        },
+        "SalaryPortability": {
+          "type": ["string", "null"],
+          "title": "Portabilidade de Salário",
+          "description": "Tipo de portabilidade de salário suportada",
+          "examples": [
+            "Banco folha e Destinatário",
+            "Destinatário",
+            "Banco Folha",
+            "Banco folha",
+            null
+          ]
+        },
+        "Products": {
+          "type": ["array", "null"],
+          "title": "Produtos",
+          "description": "Lista de produtos de crédito oferecidos pela instituição",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": false,
+          "examples": [
+            ["Capital de Giro", "Cheque Especial", "Consignado", "Imobiliário"],
+            null
+          ]
+        },
+        "Url": {
+          "type": ["string", "null"],
+          "title": "URL",
+          "description": "Endereço do site oficial da instituição",
+          "format": "uri",
+          "examples": ["https://www.bb.com.br", null]
+        },
+        "DateOperationStarted": {
+          "type": ["string", "null"],
+          "title": "Data de Início das Operações",
+          "description": "Data de início das operações no formato YYYY-MM-DD",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+          "examples": ["2002-04-22", "2020-11-03", null]
+        },
+        "DatePixStarted": {
+          "type": ["string", "null"],
+          "title": "Data de Início no Pix",
+          "description": "Data e hora de início da operação no sistema Pix",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}$",
+          "examples": ["2020-11-03 06:30:00", null]
+        },
+        "DateRegistered": {
+          "type": "string",
+          "title": "Data de Registro",
+          "description": "Data e hora de registro do banco neste dataset (ISO 8601)",
+          "format": "date-time",
+          "examples": ["2021-05-05T09:11:12.7109988-03:00"]
+        },
+        "DateUpdated": {
+          "type": "string",
+          "title": "Data de Atualização",
+          "description": "Data e hora da última atualização do registro (ISO 8601)",
+          "format": "date-time",
+          "examples": ["2024-05-15T16:49:45.7277793+00:00"]
+        }
+      }
+    }
+  }
+}
