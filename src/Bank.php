@@ -1,4 +1,5 @@
 <?php
+
 namespace Guibranco\BancosBrasileiros;
 
 use Exception;
@@ -70,7 +71,8 @@ class Bank
 
     public static $jsonPath = __DIR__."/../data/bancos.json";
 
-    public static function all() {
+    public static function all()
+    {
         $file = fopen(self::$jsonPath, "r");
         if (! $file) {
             throw new Exception("Json File not found");
@@ -81,5 +83,5 @@ class Bank
 
         $contents = preg_replace('/^\xEF\xBB\xBF/', '', $contents);
         return json_decode(preg_replace('/[\x00-\x1F]/', '', $contents));
-    } 
+    }
 }
