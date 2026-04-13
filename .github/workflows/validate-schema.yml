@@ -38,7 +38,7 @@ jobs:
       # 1. Checkout do código
       # ---------------------------------------------------------------
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # ---------------------------------------------------------------
       # 2. Configura Python
