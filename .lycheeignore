@@ -24,7 +24,9 @@ br\.bk\.mufg\.jp
 brb\.com\.br
 brp\.com\.br
 btgpactual\.com
+c6bank\.com\.br
 caixa\.gov\.br
+credicoamo\.com\.br
 confidencecambio\.com\.br
 country\.db\.com
 daycoval\.com\.br
@@ -33,7 +35,6 @@ finaxis\.com\.br
 github\.com\/.+
 github\.com\/ghost
 haitongib\.com\.br
-credicoamo\.com\.br
 hipercard\.com\.br
 https?:\/\/localhost
 icbc\.com\.cn
