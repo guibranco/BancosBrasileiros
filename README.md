@@ -19,7 +19,6 @@
   <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg" alt="Daily updates"></a>
   <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg" alt="Link checker"></a>
   <a href="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros"><img src="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge" alt="CodeFactor"></a>
-  <a href="https://snyk.io/test/github/guibranco/BancosBrasileiros"><img src="https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic" alt="Known Vulnerabilities"></a>
   <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="GitHub issues"></a>
 </p>
 
@@ -257,12 +256,21 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mvanhorn">
+                    <img src="https://avatars.githubusercontent.com/u/455140?v=4" width="100;" alt="mvanhorn"/>
+                    <br />
+                    <sub><b>Matt Van Horn</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/leogregianin">
                     <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
                     <br />
                     <sub><b>Leonardo Gregianin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/joaovaladares">
                     <img src="https://avatars.githubusercontent.com/u/42593399?v=4" width="100;" alt="joaovaladares"/>
@@ -270,8 +278,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>João V. Valadares</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/jesobreira">
                     <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
@@ -307,6 +313,8 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Erick Bueno</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/sahalhes">
                     <img src="https://avatars.githubusercontent.com/u/146409442?v=4" width="100;" alt="sahalhes"/>
@@ -314,8 +322,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>E S Sahal Hussain</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/BrunoM90">
                     <img src="https://avatars.githubusercontent.com/u/152902220?v=4" width="100;" alt="BrunoM90"/>
