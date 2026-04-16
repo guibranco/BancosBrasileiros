@@ -19,7 +19,7 @@
   <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg" alt="Daily updates"></a>
   <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg" alt="Link checker"></a>
   <a href="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros"><img src="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge" alt="CodeFactor"></a>
-  <a href="https://snyk.io/test/github/guibranco/BancosBrasileiros"><img src="https://snyk.io/test/github/guibranco/BancosBrasileiros/badge.svg?style=plastic" alt="Known Vulnerabilities"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/security"><img src="https://img.shields.io/github/vulnerabilities/guibranco/BancosBrasileiros" alt="Known Vulnerabilities"></a>
   <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="GitHub issues"></a>
 </p>
 
@@ -199,6 +199,13 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/srineshr1">
+                    <img src="https://avatars.githubusercontent.com/u/255314924?v=4" width="100;" alt="srineshr1"/>
+                    <br />
+                    <sub><b>Srinesh R</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/raphaelcunha">
                     <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
                     <br />
@@ -219,6 +226,8 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Rodrigo Castro</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/luisccf">
                     <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
@@ -226,8 +235,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Luis Carlos Cardoso</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/AmolKumarGupta">
                     <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
@@ -257,6 +264,15 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mvanhorn">
+                    <img src="https://avatars.githubusercontent.com/u/455140?v=4" width="100;" alt="mvanhorn"/>
+                    <br />
+                    <sub><b>Matt Van Horn</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/leogregianin">
                     <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
                     <br />
@@ -270,8 +286,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>João V. Valadares</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/jesobreira">
                     <img src="https://avatars.githubusercontent.com/u/3002249?v=4" width="100;" alt="jesobreira"/>
@@ -300,6 +314,8 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Fabrício Pinto Ferreira</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Erick-Bueno">
                     <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
@@ -314,8 +330,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>E S Sahal Hussain</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/BrunoM90">
                     <img src="https://avatars.githubusercontent.com/u/152902220?v=4" width="100;" alt="BrunoM90"/>
