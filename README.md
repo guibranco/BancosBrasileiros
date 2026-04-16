@@ -19,6 +19,7 @@
   <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/daily-updates.yml/badge.svg" alt="Daily updates"></a>
   <a href="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml"><img src="https://github.com/guibranco/BancosBrasileiros/actions/workflows/link-checker.yml/badge.svg" alt="Link checker"></a>
   <a href="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros"><img src="https://www.codefactor.io/repository/github/guibranco/BancosBrasileiros/badge" alt="CodeFactor"></a>
+  <a href="https://github.com/guibranco/BancosBrasileiros/security"><img src="https://img.shields.io/github/vulnerabilities/guibranco/BancosBrasileiros" alt="Known Vulnerabilities"></a>
   <a href="https://github.com/guibranco/bancosbrasileiros/issues"><img src="https://img.shields.io/github/issues/guibranco/bancosbrasileiros" alt="GitHub issues"></a>
 </p>
 
@@ -198,6 +199,13 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/srineshr1">
+                    <img src="https://avatars.githubusercontent.com/u/255314924?v=4" width="100;" alt="srineshr1"/>
+                    <br />
+                    <sub><b>Srinesh R</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/raphaelcunha">
                     <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
                     <br />
@@ -218,6 +226,8 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Rodrigo Castro</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/luisccf">
                     <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
@@ -225,8 +235,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Luis Carlos Cardoso</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/AmolKumarGupta">
                     <img src="https://avatars.githubusercontent.com/u/88397611?v=4" width="100;" alt="AmolKumarGupta"/>
@@ -262,6 +270,8 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Matt Van Horn</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/leogregianin">
                     <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
@@ -269,8 +279,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Leonardo Gregianin</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/joaovaladares">
                     <img src="https://avatars.githubusercontent.com/u/42593399?v=4" width="100;" alt="joaovaladares"/>
@@ -306,6 +314,8 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Fabrício Pinto Ferreira</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Erick-Bueno">
                     <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
@@ -313,8 +323,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Erick Bueno</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/sahalhes">
                     <img src="https://avatars.githubusercontent.com/u/146409442?v=4" width="100;" alt="sahalhes"/>
