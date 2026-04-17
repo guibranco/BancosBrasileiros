@@ -4,6 +4,21 @@
 
 ## Changelog
 
+### 2026-04-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 4 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 400 - COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL - 05.491.616/0001-26
+    - **LongName** (STR): COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS **->** COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS - EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): COOP CREDITAG **->** COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL
+  - 517 - PAGUEVELOZ IP LTDA. - 03.816.413/0001-37
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2020-11-03 06:30:00 **->** 2026-04-16 09:40:00
+  - 562 - AZIMUT BRASIL DTVM LTDA - 18.684.408/0001-95
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-01-27 08:12:51 **->** 2026-04-16 09:10:00
+
 ### 2026-04-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

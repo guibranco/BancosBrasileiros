@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-04-16T12:28:59.3704387+00:00"
+    "DateUpdated": "2026-04-17T12:25:57.5283869+00:00"
   },
   {
     "COMPE": "374",
@@ -5587,8 +5587,8 @@
     "COMPE": "400",
     "ISPB": "05491616",
     "Document": "05.491.616/0001-26",
-    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS",
-    "ShortName": "COOP CREDITAG",
+    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "Internet",
     "Type": null,
     "PixType": "DRCT",
@@ -5604,7 +5604,7 @@
     "DateOperationStarted": "2021-02-24",
     "DatePixStarted": "2025-02-27 09:10:00",
     "DateRegistered": "2021-05-05T09:11:12.711459-03:00",
-    "DateUpdated": "2025-02-28T12:08:20.7399879+00:00"
+    "DateUpdated": "2026-04-17T12:25:55.515715+00:00"
   },
   {
     "COMPE": "401",
@@ -7550,7 +7550,7 @@
     "ShortName": "PAGUEVELOZ IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7561,9 +7561,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-03-10",
-    "DatePixStarted": "2020-11-03 06:30:00",
+    "DatePixStarted": "2026-04-16 09:40:00",
     "DateRegistered": "2026-03-04T12:15:02.0254241+00:00",
-    "DateUpdated": "2026-03-04T12:15:00.6531061+00:00"
+    "DateUpdated": "2026-04-17T12:25:56.2732931+00:00"
   },
   {
     "COMPE": "518",
@@ -8613,7 +8613,7 @@
     "ShortName": "AZIMUT BRASIL DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8624,9 +8624,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2024-01-08",
-    "DatePixStarted": "2025-01-27 08:12:51",
+    "DatePixStarted": "2026-04-16 09:10:00",
     "DateRegistered": "2024-01-09T12:06:15.1387174+00:00",
-    "DateUpdated": "2025-01-27T12:34:41.917063+00:00"
+    "DateUpdated": "2026-04-17T12:25:56.5157282+00:00"
   },
   {
     "COMPE": "563",

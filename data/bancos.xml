@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-04-16T12:28:59.3704387Z</DateUpdated>
+    <DateUpdated>2026-04-17T12:25:57.5283869Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -4888,8 +4888,8 @@
     <COMPE>400</COMPE>
     <ISPB>05491616</ISPB>
     <Document>05.491.616/0001-26</Document>
-    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS</LongName>
-    <ShortName>COOP CREDITAG</ShortName>
+    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>COOP CREDITAG - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>Internet</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4902,7 +4902,7 @@
     <DateOperationStarted>2021-02-24</DateOperationStarted>
     <DatePixStarted>2025-02-27 09:10:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711459-03:00</DateRegistered>
-    <DateUpdated>2025-02-28T12:08:20.7399879Z</DateUpdated>
+    <DateUpdated>2026-04-17T12:25:55.515715Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>401</COMPE>
@@ -6560,7 +6560,7 @@
     <LongName>PAGUEVELOZ INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
     <ShortName>PAGUEVELOZ IP LTDA.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6569,9 +6569,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-03-10</DateOperationStarted>
-    <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
+    <DatePixStarted>2026-04-16 09:40:00</DatePixStarted>
     <DateRegistered>2026-03-04T12:15:02.0254241Z</DateRegistered>
-    <DateUpdated>2026-03-04T12:15:00.6531061Z</DateUpdated>
+    <DateUpdated>2026-04-17T12:25:56.2732931Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>518</COMPE>
@@ -7457,7 +7457,7 @@
     <LongName>AZIMUT BRASIL DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
     <ShortName>AZIMUT BRASIL DTVM LTDA</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7466,9 +7466,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-01-08</DateOperationStarted>
-    <DatePixStarted>2025-01-27 08:12:51</DatePixStarted>
+    <DatePixStarted>2026-04-16 09:10:00</DatePixStarted>
     <DateRegistered>2024-01-09T12:06:15.1387174Z</DateRegistered>
-    <DateUpdated>2025-01-27T12:34:41.917063Z</DateUpdated>
+    <DateUpdated>2026-04-17T12:25:56.5157282Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>563</COMPE>
