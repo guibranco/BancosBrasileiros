@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-04-17T12:25:57.5283869Z</DateUpdated>
+    <DateUpdated>2026-04-18T12:16:25.2634629Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10117,13 +10117,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-07-28</DateOperationStarted>
     <DatePixStarted>2026-02-13 11:00:00</DatePixStarted>
     <DateRegistered>2025-07-22T12:09:54.9911786Z</DateRegistered>
-    <DateUpdated>2026-02-10T12:23:03.1509553Z</DateUpdated>
+    <DateUpdated>2026-04-18T12:16:25.3090984Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>764</COMPE>

@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-04-17T12:25:57.5283869+00:00"
+    "DateUpdated": "2026-04-18T12:16:25.2634629+00:00"
   },
   {
     "COMPE": "374",
@@ -11679,15 +11679,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2025-07-28",
     "DatePixStarted": "2026-02-13 11:00:00",
     "DateRegistered": "2025-07-22T12:09:54.9911786+00:00",
-    "DateUpdated": "2026-02-10T12:23:03.1509553+00:00"
+    "DateUpdated": "2026-04-18T12:16:25.3090984+00:00"
   },
   {
     "COMPE": "764",
