@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-04-26T12:20:19.9137924Z</DateUpdated>
+    <DateUpdated>2026-04-27T12:38:34.9189695Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6120,6 +6120,26 @@
     <DateOperationStarted>2022-09-05</DateOperationStarted>
     <DateRegistered>2022-09-02T12:07:04.257303Z</DateRegistered>
     <DateUpdated>2024-05-15T16:49:45.7383112Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>476</COMPE>
+    <ISPB>45860531</ISPB>
+    <Document>45.860.531/0001-92</Document>
+    <LongName>IDEA MAKER INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>IDEA MAKER IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-05-04</DateOperationStarted>
+    <DatePixStarted>2025-01-29 10:48:07</DatePixStarted>
+    <DateRegistered>2026-04-27T12:38:34.9569955Z</DateRegistered>
+    <DateUpdated>2026-04-27T12:38:34.0799591Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>477</COMPE>
