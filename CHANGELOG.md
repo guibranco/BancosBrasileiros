@@ -4,6 +4,18 @@
 
 ## Changelog
 
+### 2026-04-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 435 - DELFINANCE SCD S.A. - 38.224.857/0001-68
+    - **LongName** (STR): DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A. **->** DELFINANCE SOCIEDADE DE CREDITO DIRETO S.A.
+    - **ShortName** (STR): DELCRED SCD S.A. **->** DELFINANCE SCD S.A.
+  - 704 - FESTOR IP LTDA. - 44.663.846/0001-87
+    - **LongName** (STR): FEATBANK INSTITUICAO DE PAGAMENTO LTDA **->** FESTOR INSTITUIÇÃO DE PAGAMENTO LTDA.
+    - **ShortName** (STR): FEATBANK IP LTDA **->** FESTOR IP LTDA.
+
 ### 2026-04-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
