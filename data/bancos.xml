@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-04-27T12:38:34.9189695Z</DateUpdated>
+    <DateUpdated>2026-05-01T12:26:11.8630022Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -5477,8 +5477,8 @@
     <COMPE>435</COMPE>
     <ISPB>38224857</ISPB>
     <Document>38.224.857/0001-68</Document>
-    <LongName>DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>DELCRED SCD S.A.</ShortName>
+    <LongName>DELFINANCE SOCIEDADE DE CREDITO DIRETO S.A.</LongName>
+    <ShortName>DELFINANCE SCD S.A.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -5491,7 +5491,7 @@
     <DateOperationStarted>2021-08-27</DateOperationStarted>
     <DatePixStarted>2022-08-23 10:00:00</DatePixStarted>
     <DateRegistered>2021-08-24T13:06:55.8926615-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7440036Z</DateUpdated>
+    <DateUpdated>2026-04-29T12:38:53.1835528Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>438</COMPE>
@@ -7250,13 +7250,13 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-11</DateOperationStarted>
     <DatePixStarted>2023-11-10 17:10:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347541Z</DateRegistered>
-    <DateUpdated>2026-01-10T13:26:00.5415387Z</DateUpdated>
+    <DateUpdated>2026-04-30T12:38:33.3534458Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>551</COMPE>
@@ -9557,8 +9557,8 @@
     <COMPE>704</COMPE>
     <ISPB>44663846</ISPB>
     <Document>44.663.846/0001-87</Document>
-    <LongName>FEATBANK INSTITUICAO DE PAGAMENTO LTDA</LongName>
-    <ShortName>FEATBANK IP LTDA</ShortName>
+    <LongName>FESTOR INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>FESTOR IP LTDA.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -9569,7 +9569,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-10-01</DateOperationStarted>
     <DateRegistered>2025-09-25T12:40:48.6655149Z</DateRegistered>
-    <DateUpdated>2025-09-25T12:40:48.6655433Z</DateUpdated>
+    <DateUpdated>2026-04-29T12:38:53.1847184Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>707</COMPE>

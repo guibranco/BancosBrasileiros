@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-04-27T12:38:34.9189695+00:00"
+    "DateUpdated": "2026-05-01T12:26:11.8630022+00:00"
   },
   {
     "COMPE": "374",
@@ -6257,8 +6257,8 @@
     "COMPE": "435",
     "ISPB": "38224857",
     "Document": "38.224.857/0001-68",
-    "LongName": "DELCRED SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "DELCRED SCD S.A.",
+    "LongName": "DELFINANCE SOCIEDADE DE CREDITO DIRETO S.A.",
+    "ShortName": "DELFINANCE SCD S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -6274,7 +6274,7 @@
     "DateOperationStarted": "2021-08-27",
     "DatePixStarted": "2022-08-23 10:00:00",
     "DateRegistered": "2021-08-24T13:06:55.8926615-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7440036+00:00"
+    "DateUpdated": "2026-04-29T12:38:53.1835528+00:00"
   },
   {
     "COMPE": "438",
@@ -8362,15 +8362,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-11",
     "DatePixStarted": "2023-11-10 17:10:00",
     "DateRegistered": "2023-09-25T12:28:25.1347541+00:00",
-    "DateUpdated": "2026-01-10T13:26:00.5415387+00:00"
+    "DateUpdated": "2026-04-30T12:38:33.3534458+00:00"
   },
   {
     "COMPE": "551",
@@ -11055,8 +11055,8 @@
     "COMPE": "704",
     "ISPB": "44663846",
     "Document": "44.663.846/0001-87",
-    "LongName": "FEATBANK INSTITUICAO DE PAGAMENTO LTDA",
-    "ShortName": "FEATBANK IP LTDA",
+    "LongName": "FESTOR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "ShortName": "FESTOR IP LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -11072,7 +11072,7 @@
     "DateOperationStarted": "2025-10-01",
     "DatePixStarted": null,
     "DateRegistered": "2025-09-25T12:40:48.6655149+00:00",
-    "DateUpdated": "2025-09-25T12:40:48.6655433+00:00"
+    "DateUpdated": "2026-04-29T12:38:53.1847184+00:00"
   },
   {
     "COMPE": "707",
