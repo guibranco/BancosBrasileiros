@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-05-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 285 - FRENTE SCC S.A - EM LIQUIDAÇÃO EXTRAJUDICIAL - 71.677.850/0001-77
+    - **LongName** (STR): FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A. **->** FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): FRENTE SCC S.A **->** FRENTE SCC S.A - EM LIQUIDAÇÃO EXTRAJUDICIAL
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-05-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

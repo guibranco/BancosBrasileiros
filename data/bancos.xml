@@ -3081,8 +3081,8 @@
     <COMPE>285</COMPE>
     <ISPB>71677850</ISPB>
     <Document>71.677.850/0001-77</Document>
-    <LongName>FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A.</LongName>
-    <ShortName>FRENTE SCC S.A</ShortName>
+    <LongName>FRENTE SOCIEDADE CORRETORA DE CÂMBIO S.A. - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>FRENTE SCC S.A - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3093,7 +3093,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2018-09-25</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115423-03:00</DateRegistered>
-    <DateUpdated>2026-03-30T12:23:59.9783772Z</DateUpdated>
+    <DateUpdated>2026-05-04T12:40:24.1827811Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>286</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-03T12:22:38.0972997Z</DateUpdated>
+    <DateUpdated>2026-05-04T12:40:26.4142395Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
