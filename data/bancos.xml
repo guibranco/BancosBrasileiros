@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-04T12:40:26.4142395Z</DateUpdated>
+    <DateUpdated>2026-05-05T12:31:13.7700311Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10434,6 +10434,24 @@
     <DateUpdated>2026-01-15T12:11:13.7723542Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>789</COMPE>
+    <ISPB>57654096</ISPB>
+    <Document>57.654.096/0001-29</Document>
+    <LongName>APUSDIGITAL INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>APUSDIGITAL IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-05-11</DateOperationStarted>
+    <DateRegistered>2026-05-05T12:31:13.8205622Z</DateRegistered>
+    <DateUpdated>2026-05-05T12:31:13.8205623Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>790</COMPE>
     <ISPB>54024532</ISPB>
     <Document>54.024.532/0001-98</Document>
@@ -10490,5 +10508,23 @@
     <DatePixStarted>2026-03-05 09:00:00</DatePixStarted>
     <DateRegistered>2026-01-27T12:11:33.2913903Z</DateRegistered>
     <DateUpdated>2026-03-03T12:15:27.9355212Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>795</COMPE>
+    <ISPB>52067630</ISPB>
+    <Document>52.067.630/0001-87</Document>
+    <LongName>BANCO TRATON BRASIL S.A.</LongName>
+    <ShortName>BANCO TRATON BRASIL S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-05-11</DateOperationStarted>
+    <DateRegistered>2026-05-05T12:31:13.820508Z</DateRegistered>
+    <DateUpdated>2026-05-05T12:31:13.8205619Z</DateUpdated>
   </bank>
 </banks>

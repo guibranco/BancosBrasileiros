@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-05-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 795 - BANCO TRATON BRASIL S.A. - 52.067.630/0001-87
+  - 789 - APUSDIGITAL IP LTDA. - 57.654.096/0001-29
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-05-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
