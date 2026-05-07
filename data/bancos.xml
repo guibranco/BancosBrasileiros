@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-06T12:43:28.6548071Z</DateUpdated>
+    <DateUpdated>2026-05-07T12:43:49.2916328Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6894,8 +6894,8 @@
     <COMPE>532</COMPE>
     <ISPB>45745537</ISPB>
     <Document>45.745.537/0001-19</Document>
-    <LongName>EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>EAGLE SCD S.A.</ShortName>
+    <LongName>FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>FUTURO SCD</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6906,7 +6906,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-04-03</DateOperationStarted>
     <DateRegistered>2023-03-29T12:07:07.8301112Z</DateRegistered>
-    <DateUpdated>2023-03-29T12:07:07.8301112Z</DateUpdated>
+    <DateUpdated>2026-05-07T12:43:47.1941307Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>533</COMPE>
@@ -10164,6 +10164,26 @@
     <DatePixStarted>2024-05-24 09:52:22</DatePixStarted>
     <DateRegistered>2025-06-18T12:09:53.9567507Z</DateRegistered>
     <DateUpdated>2025-06-18T12:09:52.6472819Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>765</COMPE>
+    <ISPB>37753531</ISPB>
+    <Document>37.753.531/0001-65</Document>
+    <LongName>PAGSMILE INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
+    <ShortName>PAGSMILE IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-05-13</DateOperationStarted>
+    <DatePixStarted>2026-03-25 15:40:00</DatePixStarted>
+    <DateRegistered>2026-05-07T12:43:49.3341256Z</DateRegistered>
+    <DateUpdated>2026-05-07T12:43:48.3666214Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>766</COMPE>

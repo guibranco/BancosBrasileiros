@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-05-06T12:43:28.6548071+00:00"
+    "DateUpdated": "2026-05-07T12:43:49.2916328+00:00"
   },
   {
     "COMPE": "374",
@@ -7937,8 +7937,8 @@
     "COMPE": "532",
     "ISPB": "45745537",
     "Document": "45.745.537/0001-19",
-    "LongName": "EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "EAGLE SCD S.A.",
+    "LongName": "FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "FUTURO SCD",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7954,7 +7954,7 @@
     "DateOperationStarted": "2023-04-03",
     "DatePixStarted": null,
     "DateRegistered": "2023-03-29T12:07:07.8301112+00:00",
-    "DateUpdated": "2023-03-29T12:07:07.8301112+00:00"
+    "DateUpdated": "2026-05-07T12:43:47.1941307+00:00"
   },
   {
     "COMPE": "533",
@@ -11734,6 +11734,29 @@
     "DatePixStarted": "2024-05-24 09:52:22",
     "DateRegistered": "2025-06-18T12:09:53.9567507+00:00",
     "DateUpdated": "2025-06-18T12:09:52.6472819+00:00"
+  },
+  {
+    "COMPE": "765",
+    "ISPB": "37753531",
+    "Document": "37.753.531/0001-65",
+    "LongName": "PAGSMILE INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "ShortName": "PAGSMILE IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-05-13",
+    "DatePixStarted": "2026-03-25 15:40:00",
+    "DateRegistered": "2026-05-07T12:43:49.3341256+00:00",
+    "DateUpdated": "2026-05-07T12:43:48.3666214+00:00"
   },
   {
     "COMPE": "766",

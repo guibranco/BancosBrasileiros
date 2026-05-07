@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2026-05-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 765 - PAGSMILE IP LTDA. - 37.753.531/0001-65
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 532 - FUTURO SCD - 45.745.537/0001-19
+    - **LongName** (STR): EAGLE SOCIEDADE DE CRÉDITO DIRETO S.A. **->** FUTURO SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): EAGLE SCD S.A. **->** FUTURO SCD
+
 ### 2026-05-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
