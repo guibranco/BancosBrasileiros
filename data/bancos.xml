@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-07T12:43:49.2916328Z</DateUpdated>
+    <DateUpdated>2026-05-08T12:35:04.0687712Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10432,6 +10432,26 @@
     <DateOperationStarted>2026-01-13</DateOperationStarted>
     <DateRegistered>2026-01-10T13:26:02.7540734Z</DateRegistered>
     <DateUpdated>2026-01-10T13:26:02.7540734Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>787</COMPE>
+    <ISPB>10789035</ISPB>
+    <Document>10.789.035/0001-05</Document>
+    <LongName>ATTRUS INSTITUIÇÃO DE PAGAMENTO S/A</LongName>
+    <ShortName>ATTRUS IP S/A</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-05-14</DateOperationStarted>
+    <DatePixStarted>2025-01-06 11:16:40</DatePixStarted>
+    <DateRegistered>2026-05-08T12:35:04.1173529Z</DateRegistered>
+    <DateUpdated>2026-05-08T12:35:03.0172944Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>788</COMPE>
