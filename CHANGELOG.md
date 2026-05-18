@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-05-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 196 - FAIR SOCIEDADE CC - 32.648.370/0001-26
+    - **LongName** (STR): FAIR CORRETORA DE CAMBIO S.A. **->** FAIR SOCIEDADE CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): FAIR CC S.A. **->** FAIR SOCIEDADE CC
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-05-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

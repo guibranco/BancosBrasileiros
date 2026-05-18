@@ -2303,8 +2303,8 @@
     <COMPE>196</COMPE>
     <ISPB>32648370</ISPB>
     <Document>32.648.370/0001-26</Document>
-    <LongName>FAIR CORRETORA DE CAMBIO S.A.</LongName>
-    <ShortName>FAIR CC S.A.</ShortName>
+    <LongName>FAIR SOCIEDADE CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>FAIR SOCIEDADE CC</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -2315,7 +2315,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-09-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115043-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7115045-03:00</DateUpdated>
+    <DateUpdated>2026-05-18T13:20:52.9729633Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>197</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-17T12:25:29.0918067Z</DateUpdated>
+    <DateUpdated>2026-05-18T13:20:55.0902622Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>

@@ -2638,8 +2638,8 @@
     "COMPE": "196",
     "ISPB": "32648370",
     "Document": "32.648.370/0001-26",
-    "LongName": "FAIR CORRETORA DE CAMBIO S.A.",
-    "ShortName": "FAIR CC S.A.",
+    "LongName": "FAIR SOCIEDADE CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "FAIR SOCIEDADE CC",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -2655,7 +2655,7 @@
     "DateOperationStarted": "2017-09-11",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115043-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7115045-03:00"
+    "DateUpdated": "2026-05-18T13:20:52.9729633+00:00"
   },
   {
     "COMPE": "197",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-05-17T12:25:29.0918067+00:00"
+    "DateUpdated": "2026-05-18T13:20:55.0902622+00:00"
   },
   {
     "COMPE": "374",
