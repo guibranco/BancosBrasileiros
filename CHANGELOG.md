@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-05-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 794 - ATUAL CC LTDA - 44.323.831/0001-70
+  - 793 - MAGALUPAY SCFI S.A. - 61.021.673/0001-12
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-05-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

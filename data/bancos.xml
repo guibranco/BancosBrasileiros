@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-20T12:58:49.9425075Z</DateUpdated>
+    <DateUpdated>2026-05-21T13:14:14.5566743Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10548,6 +10548,42 @@
     <DatePixStarted>2026-03-05 09:00:00</DatePixStarted>
     <DateRegistered>2026-01-27T12:11:33.2913903Z</DateRegistered>
     <DateUpdated>2026-03-03T12:15:27.9355212Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>793</COMPE>
+    <ISPB>61021673</ISPB>
+    <Document>61.021.673/0001-12</Document>
+    <LongName>MAGALUPAY - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>MAGALUPAY SCFI S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-05-25</DateOperationStarted>
+    <DateRegistered>2026-05-21T13:14:14.5973235Z</DateRegistered>
+    <DateUpdated>2026-05-21T13:14:14.5973236Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>794</COMPE>
+    <ISPB>44323831</ISPB>
+    <Document>44.323.831/0001-70</Document>
+    <LongName>ATUAL SOCIEDADE CORRETORA DE CÂMBIO LTDA</LongName>
+    <ShortName>ATUAL CC LTDA</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-05-27</DateOperationStarted>
+    <DateRegistered>2026-05-21T13:14:14.5972811Z</DateRegistered>
+    <DateUpdated>2026-05-21T13:14:14.5973229Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>795</COMPE>
