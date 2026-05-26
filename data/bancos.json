@@ -2534,13 +2534,13 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Troca de Modalidade"
+      "Troca de Modalidade- 15 -"
     ],
     "Url": null,
     "DateOperationStarted": "2017-06-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711462-03:00",
-    "DateUpdated": "2026-03-04T12:15:01.975081+00:00"
+    "DateUpdated": "2026-05-26T15:31:14.5644503+00:00"
   },
   {
     "COMPE": "190",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-05-25T14:54:39.6025441+00:00"
+    "DateUpdated": "2026-05-26T15:31:14.576237+00:00"
   },
   {
     "COMPE": "374",
@@ -7648,7 +7648,7 @@
     "ShortName": "SOMAPAY SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7659,9 +7659,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-04",
-    "DatePixStarted": "2024-08-13 09:27:38",
+    "DatePixStarted": "2026-05-25 09:10:00",
     "DateRegistered": "2023-09-25T12:28:25.1347557+00:00",
-    "DateUpdated": "2024-08-14T12:07:34.3550167+00:00"
+    "DateUpdated": "2026-05-26T15:31:13.7069489+00:00"
   },
   {
     "COMPE": "521",
@@ -7726,7 +7726,7 @@
     "PCRP": true,
     "SalaryPortability": null,
     "Products": [
-      "Capital de Giro PJ- 15 -",
+      "Capital de Giro PJ",
       "Crédito Consignado",
       "Crédito Imobiliário",
       "Crédito Pessoal",
@@ -7736,7 +7736,7 @@
     "DateOperationStarted": "2023-02-15",
     "DatePixStarted": "2024-12-05 11:10:00",
     "DateRegistered": "2023-03-03T14:56:55.3112611+00:00",
-    "DateUpdated": "2026-03-04T12:15:01.9748418+00:00"
+    "DateUpdated": "2026-05-26T15:31:14.564172+00:00"
   },
   {
     "COMPE": "524",
@@ -10454,8 +10454,8 @@
     "COMPE": "675",
     "ISPB": "30723871",
     "Document": "30.723.871/0001-02",
-    "LongName": "BANQI INSTITUICAO DE PAGAMENTO LTDA.",
-    "ShortName": "BANQI",
+    "LongName": "CASAS BAHIA PAY INSTITUIÇÃO DE PAGAMENTO LTDA.",
+    "ShortName": "CASAS BAHIA PAY IP LTDA.",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -10471,7 +10471,7 @@
     "DateOperationStarted": "2025-05-07",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2025-04-30T12:08:51.4008729+00:00",
-    "DateUpdated": "2025-05-21T12:09:24.175717+00:00"
+    "DateUpdated": "2026-05-26T15:31:12.4252158+00:00"
   },
   {
     "COMPE": "676",
@@ -11955,15 +11955,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-01-13",
     "DatePixStarted": "2025-08-07 10:29:34",
     "DateRegistered": "2026-01-10T13:26:02.7540522+00:00",
-    "DateUpdated": "2026-01-10T13:26:01.8361588+00:00"
+    "DateUpdated": "2026-05-26T15:31:14.6168599+00:00"
   },
   {
     "COMPE": "780",
