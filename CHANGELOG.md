@@ -4,6 +4,25 @@
 
 ## Changelog
 
+### 2026-05-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 6 banks
+  - 189 - HS FINANCEIRA - 07.512.441/0001-11
+    - **Products** (CTC): Consignado, Troca de Modalidade **->** Consignado, Troca de Modalidade- 15 -
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 520 - SOMAPAY SCD S.A. - 44.705.774/0001-93
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-08-13 09:27:38 **->** 2026-05-25 09:10:00
+  - 523 - HR DIGITAL SCD - 44.292.580/0001-03
+    - **Products** (CTC): Capital de Giro PJ- 15 -, Crédito Consignado, Crédito Imobiliário, Crédito Pessoal, Troca de Modalidade **->** Capital de Giro PJ, Crédito Consignado, Crédito Imobiliário, Crédito Pessoal, Troca de Modalidade
+  - 675 - CASAS BAHIA PAY IP LTDA. - 30.723.871/0001-02
+    - **LongName** (STR): BANQI INSTITUICAO DE PAGAMENTO LTDA. **->** CASAS BAHIA PAY INSTITUIÇÃO DE PAGAMENTO LTDA.
+    - **ShortName** (STR): BANQI **->** CASAS BAHIA PAY IP LTDA.
+  - 775 - CONTAAZUL IP LTDA. - 47.381.104/0001-57
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+
 ### 2026-05-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
