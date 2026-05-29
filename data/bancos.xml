@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-27T15:43:08.9289381Z</DateUpdated>
+    <DateUpdated>2026-05-29T15:34:16.1213833Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -9340,6 +9340,26 @@
     <DatePixStarted>2025-04-22 09:10:00</DatePixStarted>
     <DateRegistered>2025-03-27T12:08:46.1786523Z</DateRegistered>
     <DateUpdated>2025-04-23T12:09:02.6884747Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>691</COMPE>
+    <ISPB>49686505</ISPB>
+    <Document>49.686.505/0001-40</Document>
+    <LongName>WASU - WALLET SUPPORT INSTITUIÇÃO DE PAGAMENTO LTDA</LongName>
+    <ShortName>WASU IP LTDA.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-06-05</DateOperationStarted>
+    <DatePixStarted>2025-12-29 09:00:00</DatePixStarted>
+    <DateRegistered>2026-05-29T15:34:16.1587531Z</DateRegistered>
+    <DateUpdated>2026-05-29T15:34:15.2895228Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>692</COMPE>

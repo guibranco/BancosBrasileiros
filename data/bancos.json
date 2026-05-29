@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-05-27T15:43:08.9289381+00:00"
+    "DateUpdated": "2026-05-29T15:34:16.1213833+00:00"
   },
   {
     "COMPE": "374",
@@ -10797,6 +10797,29 @@
     "DatePixStarted": "2025-04-22 09:10:00",
     "DateRegistered": "2025-03-27T12:08:46.1786523+00:00",
     "DateUpdated": "2025-04-23T12:09:02.6884747+00:00"
+  },
+  {
+    "COMPE": "691",
+    "ISPB": "49686505",
+    "Document": "49.686.505/0001-40",
+    "LongName": "WASU - WALLET SUPPORT INSTITUIÇÃO DE PAGAMENTO LTDA",
+    "ShortName": "WASU IP LTDA.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-06-05",
+    "DatePixStarted": "2025-12-29 09:00:00",
+    "DateRegistered": "2026-05-29T15:34:16.1587531+00:00",
+    "DateUpdated": "2026-05-29T15:34:15.2895228+00:00"
   },
   {
     "COMPE": "692",
