@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-05-31T13:46:07.1858352Z</DateUpdated>
+    <DateUpdated>2026-06-01T17:41:12.3524128Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7509,6 +7509,24 @@
     <DatePixStarted>2025-02-10 10:43:14</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347548Z</DateRegistered>
     <DateUpdated>2025-02-11T12:08:29.5215389Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>564</COMPE>
+    <ISPB>63019146</ISPB>
+    <Document>63.019.146/0001-07</Document>
+    <LongName>J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A</LongName>
+    <ShortName>J17 CFI S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-06-08</DateOperationStarted>
+    <DateRegistered>2026-06-01T17:41:12.3935045Z</DateRegistered>
+    <DateUpdated>2026-06-01T17:41:12.3935263Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>565</COMPE>
