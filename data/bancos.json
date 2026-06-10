@@ -1305,8 +1305,8 @@
     "COMPE": "097",
     "ISPB": "04632856",
     "Document": "04.632.856/0001-30",
-    "LongName": "Credisis - Central de Cooperativas de Crédito Ltda.",
-    "ShortName": "CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.",
+    "LongName": "CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO",
+    "ShortName": "CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -1322,7 +1322,7 @@
     "DateOperationStarted": "2011-02-08",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114549-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7418689+00:00"
+    "DateUpdated": "2026-06-10T13:17:13.0181359+00:00"
   },
   {
     "COMPE": "098",
@@ -4597,8 +4597,8 @@
     "COMPE": "350",
     "ISPB": "01330387",
     "Document": "01.330.387/0001-07",
-    "LongName": "COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL - CREHNOR",
-    "ShortName": "COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL",
+    "LongName": "COOPERATIVA DE CRÉDITO POPULAR DO BRASIL - CREHNOR",
+    "ShortName": "COOPERATIVA DE CRÉDITO POPULAR DO BRASIL",
     "Network": "Internet",
     "Type": null,
     "PixType": "DRCT",
@@ -4614,7 +4614,7 @@
     "DateOperationStarted": "2020-05-27",
     "DatePixStarted": "2022-01-07 08:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114431-03:00",
-    "DateUpdated": "2024-04-02T12:06:56.3558626+00:00"
+    "DateUpdated": "2026-06-10T13:17:13.0169725+00:00"
   },
   {
     "COMPE": "352",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-06-09T13:06:03.2926929+00:00"
+    "DateUpdated": "2026-06-10T13:17:15.0571821+00:00"
   },
   {
     "COMPE": "374",

@@ -1179,8 +1179,8 @@
     <COMPE>097</COMPE>
     <ISPB>04632856</ISPB>
     <Document>04.632.856/0001-30</Document>
-    <LongName>Credisis - Central de Cooperativas de Crédito Ltda.</LongName>
-    <ShortName>CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO LTDA.</ShortName>
+    <LongName>CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO</LongName>
+    <ShortName>CREDISIS - CENTRAL DE COOPERATIVAS DE CRÉDITO</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -1194,7 +1194,7 @@
     <DateOperationStarted>2011-02-08</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114549-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7418689Z</DateUpdated>
+    <DateUpdated>2026-06-10T13:17:13.0181359Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>098</COMPE>
@@ -4014,8 +4014,8 @@
     <COMPE>350</COMPE>
     <ISPB>01330387</ISPB>
     <Document>01.330.387/0001-07</Document>
-    <LongName>COOPERATIVA DE CRÉDITO, POUPANÇA E SERVIÇOS FINANCEIROS DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL - CREHNOR</LongName>
-    <ShortName>COOP DE AGRICULTORES E AEROPORTUÁRIOS DO BRASIL</ShortName>
+    <LongName>COOPERATIVA DE CRÉDITO POPULAR DO BRASIL - CREHNOR</LongName>
+    <ShortName>COOPERATIVA DE CRÉDITO POPULAR DO BRASIL</ShortName>
     <Network>Internet</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4028,7 +4028,7 @@
     <DateOperationStarted>2020-05-27</DateOperationStarted>
     <DatePixStarted>2022-01-07 08:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114431-03:00</DateRegistered>
-    <DateUpdated>2024-04-02T12:06:56.3558626Z</DateUpdated>
+    <DateUpdated>2026-06-10T13:17:13.0169725Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>352</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-06-09T13:06:03.2926929Z</DateUpdated>
+    <DateUpdated>2026-06-10T13:17:15.0571821Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
