@@ -24,7 +24,18 @@ jobs:
         steps:
             - uses: actions/checkout@v6
 
+            - name: Check for relevant file changes
+              uses: dorny/paths-filter@v3
+              id: filter
+              if: github.event_name == 'pull_request'
+              with:
+                  filters: |
+                      relevant:
+                          - 'data/**'
+                          - '**/*.md'
+
             - name: Restore lychee cache
+              if: github.event_name != 'pull_request' || steps.filter.outputs.relevant == 'true'
               uses: actions/cache@v5
               with:
                   path: .lycheecache
@@ -32,6 +43,7 @@ jobs:
                   restore-keys: cache-lychee-
 
             - name: Attach WireGuard connection
+              if: github.event_name != 'pull_request' || steps.filter.outputs.relevant == 'true'
               shell: bash
               run: |
                   sudo apt install resolvconf
@@ -41,6 +53,7 @@ jobs:
                   sudo wg-quick up ./wg0.conf
 
             - name: Run lychee
+              if: github.event_name != 'pull_request' || steps.filter.outputs.relevant == 'true'
               uses: lycheeverse/lychee-action@v2.8.0
               id: lychee
               with:
@@ -48,7 +61,7 @@ jobs:
 
             - name: Detach WireGuard connection
               shell: bash
-              if: always()
+              if: always() && (github.event_name != 'pull_request' || steps.filter.outputs.relevant == 'true')
               run: sudo wg-quick down ./wg0.conf
 
             - name: Create issue
@@ -66,7 +79,7 @@ jobs:
 
             - name: Update PR with comment
               uses: mshick/add-pr-comment@v3
-              if: always() && github.event_name == 'pull_request' && steps.lychee.outputs.exit_code != 0
+              if: always() && github.event_name == 'pull_request' && steps.filter.outputs.relevant == 'true' && steps.lychee.outputs.exit_code != 0
               with:
                   refresh-message-position: true
                   message-id: 'link-checker-result'
