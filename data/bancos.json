@@ -4210,8 +4210,8 @@
     "CreditDocument": false,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": [
       "Consignado",
@@ -4221,7 +4221,7 @@
     "DateOperationStarted": "2020-01-07",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114505-03:00",
-    "DateUpdated": "2023-10-21T12:05:56.9586131+00:00"
+    "DateUpdated": "2026-06-18T13:16:03.0515598+00:00"
   },
   {
     "COMPE": "328",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-06-17T13:21:54.7613564+00:00"
+    "DateUpdated": "2026-06-18T13:16:03.0015448+00:00"
   },
   {
     "COMPE": "374",
@@ -12208,15 +12208,15 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-02-20",
     "DatePixStarted": null,
     "DateRegistered": "2026-02-12T12:18:23.763228+00:00",
-    "DateUpdated": "2026-02-12T12:18:23.763249+00:00"
+    "DateUpdated": "2026-06-18T13:16:03.0488809+00:00"
   },
   {
     "COMPE": "792",
