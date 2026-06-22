@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-06-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 138 - GET MONEY CC LTDA. - 10.853.017/0001-45
+    - **LongName** (STR): Get Money Corretora de Câmbio S.A. **->** GET MONEY SOCIEDADE CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): GET MONEY CC LTDA **->** GET MONEY CC LTDA.
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-06-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

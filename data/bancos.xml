@@ -1828,8 +1828,8 @@
     <COMPE>138</COMPE>
     <ISPB>10853017</ISPB>
     <Document>10.853.017/0001-45</Document>
-    <LongName>Get Money Corretora de Câmbio S.A.</LongName>
-    <ShortName>GET MONEY CC LTDA</ShortName>
+    <LongName>GET MONEY SOCIEDADE CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>GET MONEY CC LTDA.</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -1840,7 +1840,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2014-07-14</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114719-03:00</DateRegistered>
-    <DateUpdated>2021-05-05T09:11:12.7114721-03:00</DateUpdated>
+    <DateUpdated>2026-06-22T13:57:25.8580194Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>139</COMPE>
@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-06-21T12:46:04.4514557Z</DateUpdated>
+    <DateUpdated>2026-06-22T13:57:28.0656252Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>

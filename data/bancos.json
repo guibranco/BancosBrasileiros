@@ -2055,8 +2055,8 @@
     "COMPE": "138",
     "ISPB": "10853017",
     "Document": "10.853.017/0001-45",
-    "LongName": "Get Money Corretora de Câmbio S.A.",
-    "ShortName": "GET MONEY CC LTDA",
+    "LongName": "GET MONEY SOCIEDADE CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "GET MONEY CC LTDA.",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -2072,7 +2072,7 @@
     "DateOperationStarted": "2014-07-14",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114719-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114721-03:00"
+    "DateUpdated": "2026-06-22T13:57:25.8580194+00:00"
   },
   {
     "COMPE": "139",
@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-06-21T12:46:04.4514557+00:00"
+    "DateUpdated": "2026-06-22T13:57:28.0656252+00:00"
   },
   {
     "COMPE": "374",
