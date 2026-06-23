@@ -5000,7 +5000,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-06-22T13:57:28.0656252+00:00"
+    "DateUpdated": "2026-06-23T13:04:12.8671751+00:00"
   },
   {
     "COMPE": "374",
@@ -12079,6 +12079,29 @@
     "DatePixStarted": "2025-06-25 10:10:00",
     "DateRegistered": "2026-02-19T12:18:12.1402397+00:00",
     "DateUpdated": "2026-02-19T12:18:11.1628765+00:00"
+  },
+  {
+    "COMPE": "785",
+    "ISPB": "53058329",
+    "Document": "53.058.329/0001-70",
+    "LongName": "LA FINTECA INSTITUICAO DE PAGAMENTO LTDA",
+    "ShortName": "LA FINTECA IP LTDA",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-06-29",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-06-23T13:04:12.9068354+00:00",
+    "DateUpdated": "2026-06-23T13:04:12.9068584+00:00"
   },
   {
     "COMPE": "786",
