@@ -4363,7 +4363,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-06-22T13:57:28.0656252Z</DateUpdated>
+    <DateUpdated>2026-06-23T13:04:12.8671751Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10452,6 +10452,24 @@
     <DatePixStarted>2025-06-25 10:10:00</DatePixStarted>
     <DateRegistered>2026-02-19T12:18:12.1402397Z</DateRegistered>
     <DateUpdated>2026-02-19T12:18:11.1628765Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>785</COMPE>
+    <ISPB>53058329</ISPB>
+    <Document>53.058.329/0001-70</Document>
+    <LongName>LA FINTECA INSTITUICAO DE PAGAMENTO LTDA</LongName>
+    <ShortName>LA FINTECA IP LTDA</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-06-29</DateOperationStarted>
+    <DateRegistered>2026-06-23T13:04:12.9068354Z</DateRegistered>
+    <DateUpdated>2026-06-23T13:04:12.9068584Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>786</COMPE>
