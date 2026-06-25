@@ -344,6 +344,29 @@
     "DateUpdated": "2024-05-15T16:49:45.7387704+00:00"
   },
   {
+    "COMPE": "023",
+    "ISPB": "53720128",
+    "Document": "53.720.128/0001-96",
+    "LongName": "CONTA SIMPLES SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "CONTA SIMPLES SCD S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-07-01",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-06-25T12:52:29.7129068+00:00",
+    "DateUpdated": "2026-06-25T12:52:29.7129242+00:00"
+  },
+  {
     "COMPE": "024",
     "ISPB": "10866788",
     "Document": "10.866.788/0001-77",
@@ -5000,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-06-24T12:51:01.6052036+00:00"
+    "DateUpdated": "2026-06-25T12:52:29.6747346+00:00"
   },
   {
     "COMPE": "374",

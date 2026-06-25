@@ -312,6 +312,24 @@
     <DateUpdated>2024-05-15T16:49:45.7387704Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>023</COMPE>
+    <ISPB>53720128</ISPB>
+    <Document>53.720.128/0001-96</Document>
+    <LongName>CONTA SIMPLES SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>CONTA SIMPLES SCD S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-07-01</DateOperationStarted>
+    <DateRegistered>2026-06-25T12:52:29.7129068Z</DateRegistered>
+    <DateUpdated>2026-06-25T12:52:29.7129242Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>024</COMPE>
     <ISPB>10866788</ISPB>
     <Document>10.866.788/0001-77</Document>
@@ -4363,7 +4381,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-06-24T12:51:01.6052036Z</DateUpdated>
+    <DateUpdated>2026-06-25T12:52:29.6747346Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
