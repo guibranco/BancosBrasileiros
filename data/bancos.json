@@ -2557,13 +2557,13 @@
     "SalaryPortability": null,
     "Products": [
       "Consignado",
-      "Troca de Modalidade- 15 -"
+      "Troca de Modalidade"
     ],
     "Url": null,
     "DateOperationStarted": "2017-06-05",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.711462-03:00",
-    "DateUpdated": "2026-05-26T15:31:14.5644503+00:00"
+    "DateUpdated": "2026-06-26T12:49:28.8544178+00:00"
   },
   {
     "COMPE": "190",
@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-06-25T12:52:29.6747346+00:00"
+    "DateUpdated": "2026-06-26T12:49:28.8663144+00:00"
   },
   {
     "COMPE": "374",

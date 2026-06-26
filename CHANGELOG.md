@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-06-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 189 - HS FINANCEIRA - 07.512.441/0001-11
+    - **Products** (CTC): Consignado, Troca de Modalidade- 15 - **->** Consignado, Troca de Modalidade
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-06-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Added 1 bank
