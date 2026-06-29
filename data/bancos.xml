@@ -4381,7 +4381,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-06-28T12:34:16.7117513Z</DateUpdated>
+    <DateUpdated>2026-06-29T13:35:25.348648Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -5031,8 +5031,8 @@
     <COMPE>407</COMPE>
     <ISPB>00329598</ISPB>
     <Document>00.329.598/0001-67</Document>
-    <LongName>SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>SEFER INVESTIMENTOS DTVM LTDA</ShortName>
+    <LongName>SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>SEFER INVESTIMENTOS DTVM LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5045,7 +5045,7 @@
     <DateOperationStarted>2021-02-22</DateOperationStarted>
     <DatePixStarted>2022-11-08 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.711258-03:00</DateRegistered>
-    <DateUpdated>2024-03-21T12:06:10.8550272Z</DateUpdated>
+    <DateUpdated>2026-06-29T13:35:23.1873703Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>408</COMPE>
@@ -10592,6 +10592,7 @@
     <LongName>MULTIPLIKE FINANCEIRA S.A. SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>MULTIPLIKE FINANCEIRA S.A. SCFI</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -10600,8 +10601,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-02-20</DateOperationStarted>
+    <DatePixStarted>2026-07-03 09:00:00</DatePixStarted>
     <DateRegistered>2026-02-12T12:18:23.763228Z</DateRegistered>
-    <DateUpdated>2026-06-18T13:16:03.0488809Z</DateUpdated>
+    <DateUpdated>2026-06-29T13:35:24.5365532Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>792</COMPE>

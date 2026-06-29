@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-06-28T12:34:16.7117513+00:00"
+    "DateUpdated": "2026-06-29T13:35:25.348648+00:00"
   },
   {
     "COMPE": "374",
@@ -5752,8 +5752,8 @@
     "COMPE": "407",
     "ISPB": "00329598",
     "Document": "00.329.598/0001-67",
-    "LongName": "SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "SEFER INVESTIMENTOS DTVM LTDA",
+    "LongName": "SEFER INVESTIMENTOS DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "SEFER INVESTIMENTOS DTVM LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5769,7 +5769,7 @@
     "DateOperationStarted": "2021-02-22",
     "DatePixStarted": "2022-11-08 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.711258-03:00",
-    "DateUpdated": "2024-03-21T12:06:10.8550272+00:00"
+    "DateUpdated": "2026-06-29T13:35:23.1873703+00:00"
   },
   {
     "COMPE": "408",
@@ -12249,7 +12249,7 @@
     "ShortName": "MULTIPLIKE FINANCEIRA S.A. SCFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -12260,9 +12260,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-02-20",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-07-03 09:00:00",
     "DateRegistered": "2026-02-12T12:18:23.763228+00:00",
-    "DateUpdated": "2026-06-18T13:16:03.0488809+00:00"
+    "DateUpdated": "2026-06-29T13:35:24.5365532+00:00"
   },
   {
     "COMPE": "792",
