@@ -318,6 +318,7 @@
     <LongName>CONTA SIMPLES SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
     <ShortName>CONTA SIMPLES SCD S.A.</ShortName>
     <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -326,8 +327,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-07-01</DateOperationStarted>
+    <DatePixStarted>2026-07-01 09:04:18</DatePixStarted>
     <DateRegistered>2026-06-25T12:52:29.7129068Z</DateRegistered>
-    <DateUpdated>2026-06-25T12:52:29.7129242Z</DateUpdated>
+    <DateUpdated>2026-07-02T12:43:21.1132605Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>024</COMPE>
@@ -4381,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-07-01T13:02:17.2488108Z</DateUpdated>
+    <DateUpdated>2026-07-02T12:43:21.9187122Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7435,7 +7437,7 @@
     <LongName>KANASTRA FINANCEIRA S.A, CREDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
     <ShortName>KANASTRA CFI</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -7444,9 +7446,9 @@
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-09-25</DateOperationStarted>
-    <DatePixStarted>2025-04-01 11:12:59</DatePixStarted>
+    <DatePixStarted>2026-07-01 10:10:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347563Z</DateRegistered>
-    <DateUpdated>2025-04-02T12:08:48.5042644Z</DateUpdated>
+    <DateUpdated>2026-07-02T12:43:21.0958271Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>560</COMPE>

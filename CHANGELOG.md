@@ -4,6 +4,18 @@
 
 ## Changelog
 
+### 2026-07-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 23 - CONTA SIMPLES SCD S.A. - 53.720.128/0001-96
+    - **PixType** (SPI): Null **->** IDRT
+    - **DatePixStarted** (SPI): Null **->** 2026-07-01 09:04:18
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 559 - KANASTRA CFI - 49.288.113/0001-23
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-04-01 11:12:59 **->** 2026-07-01 10:10:00
+
 ### 2026-07-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

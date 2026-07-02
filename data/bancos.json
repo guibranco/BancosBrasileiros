@@ -351,7 +351,7 @@
     "ShortName": "CONTA SIMPLES SCD S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "IDRT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -362,9 +362,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-07-01",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-07-01 09:04:18",
     "DateRegistered": "2026-06-25T12:52:29.7129068+00:00",
-    "DateUpdated": "2026-06-25T12:52:29.7129242+00:00"
+    "DateUpdated": "2026-07-02T12:43:21.1132605+00:00"
   },
   {
     "COMPE": "024",
@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-07-01T13:02:17.2488108+00:00"
+    "DateUpdated": "2026-07-02T12:43:21.9187122+00:00"
   },
   {
     "COMPE": "374",
@@ -8590,7 +8590,7 @@
     "ShortName": "KANASTRA CFI",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -8601,9 +8601,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2023-09-25",
-    "DatePixStarted": "2025-04-01 11:12:59",
+    "DatePixStarted": "2026-07-01 10:10:00",
     "DateRegistered": "2023-09-25T12:28:25.1347563+00:00",
-    "DateUpdated": "2025-04-02T12:08:48.5042644+00:00"
+    "DateUpdated": "2026-07-02T12:43:21.0958271+00:00"
   },
   {
     "COMPE": "560",
