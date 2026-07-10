@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-07-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 2 banks
+  - 770 - V3 IP S.A. - 38.320.462/0001-69
+  - 571 - MONTE BRAVO CTVM S.A. - 50.489.148/0001-00
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-07-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

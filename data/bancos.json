@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-07-09T15:10:25.2672674+00:00"
+    "DateUpdated": "2026-07-10T14:27:26.9390203+00:00"
   },
   {
     "COMPE": "374",
@@ -8840,6 +8840,29 @@
     "DateUpdated": "2025-01-08T12:08:14.4195839+00:00"
   },
   {
+    "COMPE": "571",
+    "ISPB": "50489148",
+    "Document": "50.489.148/0001-00",
+    "LongName": "MONTE BRAVO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "MONTE BRAVO CTVM S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-07-16",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-07-10T14:27:26.9899623+00:00",
+    "DateUpdated": "2026-07-10T14:27:26.9899623+00:00"
+  },
+  {
     "COMPE": "572",
     "ISPB": "51414521",
     "Document": "51.414.521/0001-26",
@@ -11918,6 +11941,29 @@
     "DatePixStarted": "2025-08-18 10:10:00",
     "DateRegistered": "2025-08-18T12:09:55.8198878+00:00",
     "DateUpdated": "2025-08-19T12:09:19.8698007+00:00"
+  },
+  {
+    "COMPE": "770",
+    "ISPB": "38320462",
+    "Document": "38.320.462/0001-69",
+    "LongName": "V3 INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "V3 IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "DateOperationStarted": "2026-07-16",
+    "DatePixStarted": "2024-04-16 10:29:20",
+    "DateRegistered": "2026-07-10T14:27:26.9899303+00:00",
+    "DateUpdated": "2026-07-10T14:27:26.0191037+00:00"
   },
   {
     "COMPE": "771",

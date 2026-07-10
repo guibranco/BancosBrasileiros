@@ -4383,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-07-09T15:10:25.2672674Z</DateUpdated>
+    <DateUpdated>2026-07-10T14:27:26.9390203Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7650,6 +7650,24 @@
     <DateUpdated>2025-01-08T12:08:14.4195839Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>571</COMPE>
+    <ISPB>50489148</ISPB>
+    <Document>50.489.148/0001-00</Document>
+    <LongName>MONTE BRAVO CORRETORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>MONTE BRAVO CTVM S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-07-16</DateOperationStarted>
+    <DateRegistered>2026-07-10T14:27:26.9899623Z</DateRegistered>
+    <DateUpdated>2026-07-10T14:27:26.9899623Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>572</COMPE>
     <ISPB>51414521</ISPB>
     <Document>51.414.521/0001-26</Document>
@@ -10318,6 +10336,26 @@
     <DatePixStarted>2025-08-18 10:10:00</DatePixStarted>
     <DateRegistered>2025-08-18T12:09:55.8198878Z</DateRegistered>
     <DateUpdated>2025-08-19T12:09:19.8698007Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>770</COMPE>
+    <ISPB>38320462</ISPB>
+    <Document>38.320.462/0001-69</Document>
+    <LongName>V3 INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>V3 IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-07-16</DateOperationStarted>
+    <DatePixStarted>2024-04-16 10:29:20</DatePixStarted>
+    <DateRegistered>2026-07-10T14:27:26.9899303Z</DateRegistered>
+    <DateUpdated>2026-07-10T14:27:26.0191037Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>771</COMPE>
