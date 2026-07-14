@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-07-13T14:34:49.2367362+00:00"
+    "DateUpdated": "2026-07-14T13:44:38.6710321+00:00"
   },
   {
     "COMPE": "374",
@@ -7056,7 +7056,7 @@
     "ShortName": "IDEA MAKER IP LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -7067,9 +7067,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-05-04",
-    "DatePixStarted": "2025-01-29 10:48:07",
+    "DatePixStarted": "2026-07-13 11:10:00",
     "DateRegistered": "2026-04-27T12:38:34.9569955+00:00",
-    "DateUpdated": "2026-04-27T12:38:34.0799591+00:00"
+    "DateUpdated": "2026-07-14T13:44:37.7870312+00:00"
   },
   {
     "COMPE": "477",

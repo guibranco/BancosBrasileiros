@@ -4383,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-07-13T14:34:49.2367362Z</DateUpdated>
+    <DateUpdated>2026-07-14T13:44:38.6710321Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6148,7 +6148,7 @@
     <LongName>IDEA MAKER INSTITUICAO DE PAGAMENTO LTDA</LongName>
     <ShortName>IDEA MAKER IP LTDA</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -6157,9 +6157,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-05-04</DateOperationStarted>
-    <DatePixStarted>2025-01-29 10:48:07</DatePixStarted>
+    <DatePixStarted>2026-07-13 11:10:00</DatePixStarted>
     <DateRegistered>2026-04-27T12:38:34.9569955Z</DateRegistered>
-    <DateUpdated>2026-04-27T12:38:34.0799591Z</DateUpdated>
+    <DateUpdated>2026-07-14T13:44:37.7870312Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>477</COMPE>

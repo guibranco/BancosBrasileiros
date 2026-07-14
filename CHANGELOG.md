@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-07-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 476 - IDEA MAKER IP LTDA - 45.860.531/0001-92
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-01-29 10:48:07 **->** 2026-07-13 11:10:00
+
 ### 2026-07-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
