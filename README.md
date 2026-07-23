@@ -229,6 +229,13 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
 		</tr>
 		<tr>
             <td align="center">
+                <a href="https://github.com/mirkosalvato1-ctrl">
+                    <img src="https://avatars.githubusercontent.com/u/227404546?v=4" width="100;" alt="mirkosalvato1-ctrl"/>
+                    <br />
+                    <sub><b>mirkosalvato1-ctrl</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/luisccf">
                     <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
                     <br />
@@ -263,6 +270,8 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Maurici Dmarco</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/mvanhorn">
                     <img src="https://avatars.githubusercontent.com/u/455140?v=4" width="100;" alt="mvanhorn"/>
@@ -270,8 +279,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Matt Van Horn</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/leogregianin">
                     <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
@@ -307,6 +314,8 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Guillermo Bueno Vargas</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/pferreirafabricio">
                     <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
@@ -314,8 +323,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <sub><b>Fabrício Pinto Ferreira</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Erick-Bueno">
                     <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
