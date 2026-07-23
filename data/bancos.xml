@@ -4383,7 +4383,7 @@
         <DateOperationStarted>2020-03-25</DateOperationStarted>
         <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
         <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-        <DateUpdated>2026-07-20T14:06:37.8327006Z</DateUpdated>
+        <DateUpdated>2026-07-22T13:55:06.2225229Z</DateUpdated>
     </bank>
     <bank>
         <COMPE>374</COMPE>
@@ -9138,6 +9138,26 @@
         <DateOperationStarted>2025-01-10</DateOperationStarted>
         <DateRegistered>2025-01-06T12:08:18.8941877Z</DateRegistered>
         <DateUpdated>2025-01-06T12:08:18.8942076Z</DateUpdated>
+    </bank>
+    <bank>
+        <COMPE>677</COMPE>
+        <ISPB>33630661</ISPB>
+        <Document>33.630.661/0001-50</Document>
+        <LongName>GOWD INSTITUIÇÃO DE PAGAMENTO LTDA.</LongName>
+        <ShortName>GOWD IP LTDA.</ShortName>
+        <Network>RSFN</Network>
+        <PixType>IDRT</PixType>
+        <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+        <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+        <LegalCheque>false</LegalCheque>
+        <DetectaFLow>false</DetectaFLow>
+        <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+        <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+        <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+        <DateOperationStarted>2026-07-22</DateOperationStarted>
+        <DatePixStarted>2024-09-17 16:04:50</DatePixStarted>
+        <DateRegistered>2026-07-21T13:51:13.0167612Z</DateRegistered>
+        <DateUpdated>2026-07-21T13:51:12.003591Z</DateUpdated>
     </bank>
     <bank>
         <COMPE>678</COMPE>
