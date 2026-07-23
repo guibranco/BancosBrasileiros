@@ -17,7 +17,7 @@ jobs:
 
         steps:
             - name: Checkout MergeTool
-              uses: actions/checkout@v7
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
               with:
                   repository: guibranco/BancosBrasileiros-MergeTool
 
@@ -49,7 +49,7 @@ jobs:
 
             - name: Send webhook
               if: env.exitcode != 0 && env.exitcode != 187
-              uses: distributhor/workflow-webhook@v3
+              uses: distributhor/workflow-webhook@2381f0e9c7b6bf061fb1405bd0804b8706116369 # v3
               with:
                   webhook_type: 'json-extended'
                   event_name: 'release'
@@ -58,21 +58,21 @@ jobs:
                   data: '{ "error_code": "${{ env.exitcode }}" }'
 
             - name: Upload banks files
-              uses: actions/upload-artifact@v7
+              uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
               if: env.exitcode == 0
               with:
                   name: bankFiles
                   path: ./BancosBrasileiros.MergeTool/result/bancos.*
 
             - name: Upload changelog file
-              uses: actions/upload-artifact@v7
+              uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
               if: env.exitcode == 0
               with:
                   name: changeLogFile
                   path: ./BancosBrasileiros.MergeTool/result/CHANGELOG.md
 
             - name: Upload release-notes.md
-              uses: actions/upload-artifact@v7
+              uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7
               if: env.exitcode == 0
               with:
                   name: releaseNotesFile
@@ -90,16 +90,16 @@ jobs:
         if: ${{ needs.build.outputs.exitcode == 0 }}
         steps:
             - name: Checkout
-              uses: actions/checkout@v7
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
             - name: Download banks files
-              uses: actions/download-artifact@v8
+              uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8
               with:
                   name: bankFiles
                   path: data/
 
             - name: Download change log file
-              uses: actions/download-artifact@v8
+              uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8
               with:
                   name: changeLogFile
 
