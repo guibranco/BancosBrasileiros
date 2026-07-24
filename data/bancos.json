@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-07-23T14:02:01.079556+00:00"
+    "DateUpdated": "2026-07-24T13:46:09.5035139+00:00"
   },
   {
     "COMPE": "374",
@@ -10573,7 +10573,7 @@
     "ShortName": "GOWD IP LTDA.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10584,9 +10584,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-07-22",
-    "DatePixStarted": "2024-09-17 16:04:50",
+    "DatePixStarted": "2026-07-23 10:10:00",
     "DateRegistered": "2026-07-21T13:51:13.0167612+00:00",
-    "DateUpdated": "2026-07-21T13:51:12.003591+00:00"
+    "DateUpdated": "2026-07-24T13:46:08.5796175+00:00"
   },
   {
     "COMPE": "678",
