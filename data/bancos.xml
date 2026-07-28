@@ -4383,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-07-27T14:35:05.7838484Z</DateUpdated>
+    <DateUpdated>2026-07-28T14:07:18.8961015Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -8133,6 +8133,7 @@
     <LongName>CACTVS INSTITUICAO DE PAGAMENTO S.A</LongName>
     <ShortName>CACTVS IP S.A.</ShortName>
     <Network>Internet</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -8141,8 +8142,9 @@
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-02-23</DateOperationStarted>
+    <DatePixStarted>2026-08-24 11:00:00</DatePixStarted>
     <DateRegistered>2026-02-13T12:15:25.9644294Z</DateRegistered>
-    <DateUpdated>2026-02-13T12:15:25.9644599Z</DateUpdated>
+    <DateUpdated>2026-07-28T14:07:18.2283022Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>597</COMPE>

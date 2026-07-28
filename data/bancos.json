@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-07-27T14:35:05.7838484+00:00"
+    "DateUpdated": "2026-07-28T14:07:18.8961015+00:00"
   },
   {
     "COMPE": "374",
@@ -9424,7 +9424,7 @@
     "ShortName": "CACTVS IP S.A.",
     "Network": "Internet",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -9435,9 +9435,9 @@
     "Products": null,
     "Url": null,
     "DateOperationStarted": "2026-02-23",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-08-24 11:00:00",
     "DateRegistered": "2026-02-13T12:15:25.9644294+00:00",
-    "DateUpdated": "2026-02-13T12:15:25.9644599+00:00"
+    "DateUpdated": "2026-07-28T14:07:18.2283022+00:00"
   },
   {
     "COMPE": "597",
