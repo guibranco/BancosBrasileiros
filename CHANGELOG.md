@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-07-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 484 - APEX DTVM - 36.864.992/0001-42
+    - **LongName** (STR): MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A. **->** APEX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): MAF DTVM SA **->** APEX DTVM
+
 ### 2026-07-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

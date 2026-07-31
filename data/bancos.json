@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-07-30T14:02:16.4149561+00:00"
+    "DateUpdated": "2026-07-31T14:07:24.0587081+00:00"
   },
   {
     "COMPE": "374",
@@ -7197,8 +7197,8 @@
     "COMPE": "484",
     "ISPB": "36864992",
     "Document": "36.864.992/0001-42",
-    "LongName": "MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
-    "ShortName": "MAF DTVM SA",
+    "LongName": "APEX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "APEX DTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7214,7 +7214,7 @@
     "DateOperationStarted": "2022-07-20",
     "DatePixStarted": null,
     "DateRegistered": "2022-07-16T12:07:46.2417741+00:00",
-    "DateUpdated": "2022-07-16T12:07:46.2417743+00:00"
+    "DateUpdated": "2026-07-31T14:07:22.1596872+00:00"
   },
   {
     "COMPE": "487",

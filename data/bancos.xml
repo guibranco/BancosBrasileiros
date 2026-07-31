@@ -4383,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-07-30T14:02:16.4149561Z</DateUpdated>
+    <DateUpdated>2026-07-31T14:07:24.0587081Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6271,8 +6271,8 @@
     <COMPE>484</COMPE>
     <ISPB>36864992</ISPB>
     <Document>36.864.992/0001-42</Document>
-    <LongName>MAF DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
-    <ShortName>MAF DTVM SA</ShortName>
+    <LongName>APEX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>APEX DTVM</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6283,7 +6283,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-07-20</DateOperationStarted>
     <DateRegistered>2022-07-16T12:07:46.2417741Z</DateRegistered>
-    <DateUpdated>2022-07-16T12:07:46.2417743Z</DateUpdated>
+    <DateUpdated>2026-07-31T14:07:22.1596872Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>487</COMPE>
