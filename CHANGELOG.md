@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-08-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 173 - APEX GROUP DTVM - 13.486.793/0001-42
+    - **LongName** (STR): BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A. **->** APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): BRL TRUST DTVM SA **->** APEX GROUP DTVM
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-08-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

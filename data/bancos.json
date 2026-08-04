@@ -2379,8 +2379,8 @@
     "COMPE": "173",
     "ISPB": "13486793",
     "Document": "13.486.793/0001-42",
-    "LongName": "BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.",
-    "ShortName": "BRL TRUST DTVM SA",
+    "LongName": "APEX GROUP DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "APEX GROUP DTVM",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -2396,7 +2396,7 @@
     "DateOperationStarted": "2016-11-28",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114826-03:00",
-    "DateUpdated": "2021-05-05T09:11:12.7114828-03:00"
+    "DateUpdated": "2026-08-04T14:11:49.217974+00:00"
   },
   {
     "COMPE": "174",
@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-08-03T14:39:10.6110022+00:00"
+    "DateUpdated": "2026-08-04T14:11:51.1688669+00:00"
   },
   {
     "COMPE": "374",
