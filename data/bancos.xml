@@ -4383,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-08-06T14:09:59.1843476Z</DateUpdated>
+    <DateUpdated>2026-08-07T13:03:49.82698Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7013,8 +7013,8 @@
     <COMPE>537</COMPE>
     <ISPB>45756448</ISPB>
     <Document>45.756.448/0001-78</Document>
-    <LongName>MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
-    <ShortName>MICROCASH SCMEPP LTDA.</ShortName>
+    <LongName>SELECT CREDIT SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.</LongName>
+    <ShortName>SELECT CREDIT SCMEPP LTDA.</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7027,7 +7027,7 @@
     <DateOperationStarted>2023-03-06</DateOperationStarted>
     <DatePixStarted>2023-03-28 10:00:00</DatePixStarted>
     <DateRegistered>2023-03-03T14:56:55.3112613Z</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0822977Z</DateUpdated>
+    <DateUpdated>2026-08-07T13:03:47.9812543Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>538</COMPE>

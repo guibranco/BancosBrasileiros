@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-08-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 537 - SELECT CREDIT SCMEPP LTDA. - 45.756.448/0001-78
+    - **LongName** (STR): MICROCASH SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA. **->** SELECT CREDIT SOCIEDADE DE CRÉDITO AO MICROEMPREENDEDOR E À EMPRESA DE PEQUENO PORTE LTDA.
+    - **ShortName** (STR): MICROCASH SCMEPP LTDA. **->** SELECT CREDIT SCMEPP LTDA.
+
 ### 2026-08-06 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
