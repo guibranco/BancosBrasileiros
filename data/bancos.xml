@@ -4383,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-08-09T12:50:58.0533786Z</DateUpdated>
+    <DateUpdated>2026-08-10T13:08:05.4745187Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6556,8 +6556,8 @@
     <COMPE>514</COMPE>
     <ISPB>73302408</ISPB>
     <Document>73.302.408/0001-91</Document>
-    <LongName>EXIM CORRETORA DE CAMBIO LTDA</LongName>
-    <ShortName>EXIM CC LTDA.</ShortName>
+    <LongName>EXIM SOCIEDADE CORRETORA DE CÂMBIO LTDA</LongName>
+    <ShortName>EXIM SCC</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6568,7 +6568,7 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-11-01</DateOperationStarted>
     <DateRegistered>2023-10-26T12:06:02.2870023Z</DateRegistered>
-    <DateUpdated>2023-10-26T12:06:02.2870283Z</DateUpdated>
+    <DateUpdated>2026-08-10T13:08:04.3657727Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>516</COMPE>

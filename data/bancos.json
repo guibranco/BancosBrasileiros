@@ -5023,7 +5023,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-08-09T12:50:58.0533786+00:00"
+    "DateUpdated": "2026-08-10T13:08:05.4745187+00:00"
   },
   {
     "COMPE": "374",
@@ -7542,8 +7542,8 @@
     "COMPE": "514",
     "ISPB": "73302408",
     "Document": "73.302.408/0001-91",
-    "LongName": "EXIM CORRETORA DE CAMBIO LTDA",
-    "ShortName": "EXIM CC LTDA.",
+    "LongName": "EXIM SOCIEDADE CORRETORA DE CÂMBIO LTDA",
+    "ShortName": "EXIM SCC",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -7559,7 +7559,7 @@
     "DateOperationStarted": "2023-11-01",
     "DatePixStarted": null,
     "DateRegistered": "2023-10-26T12:06:02.2870023+00:00",
-    "DateUpdated": "2023-10-26T12:06:02.2870283+00:00"
+    "DateUpdated": "2026-08-10T13:08:04.3657727+00:00"
   },
   {
     "COMPE": "516",

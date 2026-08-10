@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-08-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 514 - EXIM SCC - 73.302.408/0001-91
+    - **LongName** (STR): EXIM CORRETORA DE CAMBIO LTDA **->** EXIM SOCIEDADE CORRETORA DE CÂMBIO LTDA
+    - **ShortName** (STR): EXIM CC LTDA. **->** EXIM SCC
+
 ### 2026-08-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
