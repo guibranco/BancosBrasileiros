@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-08-14 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 326 - MEUTUDO SCFI - 03.311.443/0001-91
+    - **LongName** (STR): PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A. **->** MEUTUDO S.A - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): PARATI - CFI S.A. **->** MEUTUDO SCFI
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-08-13 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

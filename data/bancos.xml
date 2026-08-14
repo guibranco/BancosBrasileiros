@@ -3673,8 +3673,8 @@
     <COMPE>326</COMPE>
     <ISPB>03311443</ISPB>
     <Document>03.311.443/0001-91</Document>
-    <LongName>PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
-    <ShortName>PARATI - CFI S.A.</ShortName>
+    <LongName>MEUTUDO S.A - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>MEUTUDO SCFI</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge>true</Charge>
@@ -3691,7 +3691,7 @@
     <DateOperationStarted>2020-01-07</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114505-03:00</DateRegistered>
-    <DateUpdated>2026-06-18T13:16:03.0515598Z</DateUpdated>
+    <DateUpdated>2026-08-14T13:06:18.9080526Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>328</COMPE>
@@ -4383,7 +4383,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-08-13T13:11:06.2846381Z</DateUpdated>
+    <DateUpdated>2026-08-14T13:06:20.9198024Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
