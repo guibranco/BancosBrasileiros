@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 6.3 - 2026-08-20
+
+- Added the **LogoUrl** field (nullable URL of the institution's logo image) across the schema, published packages, and documentation:
+  - Schema: `bancos.schema.json`, `schemas/schema.json`, `schemas/schema.sql`, `schemas/schema.xml`
+  - Generated language models: C#, Dart, Go, Java, JavaScript, Kotlin, PHP, Python, Rust, TypeScript
+  - Package sources: `src/Bank.php`, `lib/src/bank_dto.dart`
+  - Docs: `README.md`, `README.pt-br.md`, `examples/dotnet/Readme.md`, `examples/php/Readme.md`
+  - Examples: `examples/php/index.php`, `examples/emberjs/app/components/bank.hbs`
+  - Tests: `test/bancos_brasileiros_test.dart`
+
 ### 2026-08-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 157 banks
