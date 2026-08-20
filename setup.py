@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="BancosBrasileiros",
-    version="5.0.0",
+    version="6.3.0",
     description="Brazilian commercial banks list",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
