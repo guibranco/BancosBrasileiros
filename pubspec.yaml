@@ -1,6 +1,6 @@
 name: bancos_brasileiros
 description: Brazilian commercial banks list.
-version: 5.0.0
+version: 6.3.0
 repository: https://github.com/guibranco/BancosBrasileiros
 
 environment:
