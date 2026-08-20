@@ -1,6 +1,6 @@
  [package]
  name = "bancos_brasileiros"
- version = "5.0.0"
+ version = "6.3.0"
  authors = ["Guilherme Branco Stracini <opensource@straccini.com>"]
  edition = "2021"
  description = "Brazilian commercial banks list"
