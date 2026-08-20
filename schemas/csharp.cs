@@ -56,6 +56,9 @@ namespace BancosBrasileiros
         [JsonProperty("Url")]
         public string Url { get; set; }
 
+        [JsonProperty("LogoUrl")]
+        public string LogoUrl { get; set; }
+
         [JsonProperty("DateOperationStarted")]
         public string DateOperationStarted { get; set; }
 

@@ -48,6 +48,7 @@ void main() {
         dto1.SalaryPortability == dto2.SalaryPortability &&
         areStringListsEqual(dto1.Products, dto2.Products) &&
         dto1.Url == dto2.Url &&
+        dto1.LogoUrl == dto2.LogoUrl &&
         dto1.DateOperationStarted == dto2.DateOperationStarted &&
         dto1.DatePixStarted == dto2.DatePixStarted &&
         dto1.DateRegistered == dto2.DateRegistered &&

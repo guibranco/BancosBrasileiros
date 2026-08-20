@@ -44,6 +44,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 "SalaryPortability",
 "Products",
 "Url",
+"LogoUrl",
 "DateOperationStarted",
 "DatePixStarted",
 "DateRegistered",
@@ -87,6 +88,8 @@ private Object salaryPortability;
 private Object products;
 @JsonProperty("Url")
 private Object url;
+@JsonProperty("LogoUrl")
+private Object logoUrl;
 @JsonProperty("DateOperationStarted")
 private String dateOperationStarted;
 @JsonProperty("DatePixStarted")
@@ -351,6 +354,21 @@ this.url = url;
 
 public Bank withUrl(Object url) {
 this.url = url;
+return this;
+}
+
+@JsonProperty("LogoUrl")
+public Object getLogoUrl() {
+return logoUrl;
+}
+
+@JsonProperty("LogoUrl")
+public void setLogoUrl(Object logoUrl) {
+this.logoUrl = logoUrl;
+}
+
+public Bank withLogoUrl(Object logoUrl) {
+this.logoUrl = logoUrl;
 return this;
 }
 

@@ -51,6 +51,7 @@ Each of the Collection has the following information (schema):
 | SalaryPortability | If does/accept salary portability | "Banco folha e Destinatário" - both operations, "Destinatário" - only receive, null |
 | Products | List of products offered | In Portuguese only |
 | Url | Website | - |
+| LogoUrl | Institution logo image | - |
 | DateOperationStarted | Commercial operation start date | - |
 | DatePixStarted | PIX operation start date | Only for those PSP of SPI |
 | DateRegistered | Registration date on schema | - |

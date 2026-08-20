@@ -25,6 +25,7 @@ export interface Bank {
     SalaryPortability:      null | string;
     Products:               null | string[];
     Url:                    null | string;
+    LogoUrl:                null | string;
     DateOperationStarted:   null | string;
     DatePixStarted:         null | string;
     DateRegistered:         Date;
@@ -191,6 +192,7 @@ const typeMap: any = {
         { json: "SalaryPortability", js: "SalaryPortability", typ: u("", null) },
         { json: "Products", js: "Products", typ: u("", null) },
         { json: "Url", js: "Url", typ: u("", null) },
+        { json: "LogoUrl", js: "LogoUrl", typ: u("", null) },
         { json: "DateOperationStarted", js: "DateOperationStarted", typ: u("", null) },
         { json: "DatePixStarted", js: "DatePixStarted", typ: u("", null) },   
         { json: "DateRegistered", js: "DateRegistered", typ: Date },

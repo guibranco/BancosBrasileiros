@@ -68,6 +68,9 @@ data class BankElement (
     @Json(name = "Url")
     val url: String? = null,
 
+    @Json(name = "LogoUrl")
+    val logoUrl: String? = null,
+
     @Json(name = "DateOperationStarted")
     val dateOperationStarted: String
 

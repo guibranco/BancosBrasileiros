@@ -34,6 +34,7 @@
                                 </xs:complexType>
                             </xs:element>
                             <xs:element name="Url" type="xs:string" />
+                            <xs:element name="LogoUrl" type="xs:string" />
                             <xs:element name="DateOperationStarted" type="xs:date" />
                             <xs:element name="DatePixStarted" type="xs:string" />
                             <xs:element name="DateRegistered" type="xs:dateTime" />

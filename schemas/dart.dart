@@ -17,6 +17,7 @@ class BankDTO {
   String _SalaryPortability;
   List<String> _Products;
   String _Url;
+  String _LogoUrl;
   String _DateOperationStarted;
   String _DatePixStarted;
   String _DateRegistered;
@@ -40,6 +41,7 @@ class BankDTO {
     String SalaryPortability,
     List<String> Products,
     String Url,
+    String LogoUrl,
     String DateOperationStarted,
     String DatePixStarted,
     String DateRegistered,
@@ -62,6 +64,7 @@ class BankDTO {
     _SalaryPortability = SalaryPortability;
     _Products = Products;
     _Url = Url;
+    _LogoUrl = LogoUrl;
     _DateOperationStarted = DateOperationStarted;
     _DatePixStarted = DatePixStarted;
     _DateRegistered = DateRegistered;
@@ -86,6 +89,7 @@ class BankDTO {
   String get SalaryPortability => _SalaryPortability;
   List<String> get Products => _Products;
   String get Url => _Url;
+  String get LogoUrl => _LogoUrl;
   String get DateOperationStarted => _DateOperationStarted;
   String get DatePixStarted => _DatePixStarted;
   String get DateRegistered => _DateRegistered;
@@ -109,6 +113,7 @@ class BankDTO {
   set SalaryPortability(String value) => _SalaryPortability = value;
   set Products(List<String> value) => _Products = value;
   set Url(String value) => _Url = value;
+  set LogoUrl(String value) => _LogoUrl = value;
   set DateOperationStarted(String value) => _DateOperationStarted = value;
   set DatePixStarted(String value) => _DatePixStarted = value;
   set DateRegistered(String value) => _DateRegistered = value;
@@ -133,6 +138,7 @@ class BankDTO {
       'SalaryPortability': _SalaryPortability,
       'Products': _Products,
       'Url': _Url,
+      'LogoUrl': _LogoUrl,
       'DateOperationStarted': _DateOperationStarted,
       'DatePixStarted': _DatePixStarted,
       'DateRegistered': _DateRegistered,
@@ -159,6 +165,7 @@ class BankDTO {
       SalaryPortability: json['SalaryPortability'],
       Products: List<String>.from(json['Products']),
       Url: json['Url'],
+      LogoUrl: json['LogoUrl'],
       DateOperationStarted: json['DateOperationStarted'],
       DatePixStarted: json['DatePixStarted'],
       DateRegistered: json['DateRegistered'],

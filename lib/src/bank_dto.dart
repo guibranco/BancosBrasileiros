@@ -16,6 +16,7 @@ class BankDTO {
   String? _SalaryPortability;
   List<String?>? _Products;
   String? _Url;
+  String? _LogoUrl;
   String? _DateOperationStarted;
   String? _DatePixStarted;
   String? _DateRegistered;
@@ -39,6 +40,7 @@ class BankDTO {
       this._SalaryPortability,
       this._Products,
       this._Url,
+      this._LogoUrl,
       this._DateOperationStarted,
       this._DatePixStarted,
       this._DateRegistered,
@@ -78,6 +80,8 @@ class BankDTO {
   List<String?>? get Products => _Products;
 
   String? get Url => _Url;
+
+  String? get LogoUrl => _LogoUrl;
 
   String? get DateOperationStarted => _DateOperationStarted;
 
@@ -122,6 +126,8 @@ class BankDTO {
 
   set Url(String? value) => _Url = value;
 
+  set LogoUrl(String? value) => _LogoUrl = value;
+
   set DateOperationStarted(String? value) => _DateOperationStarted = value;
 
   set DatePixStarted(String? value) => _DatePixStarted = value;
@@ -149,6 +155,7 @@ class BankDTO {
       'SalaryPortability': _SalaryPortability,
       'Products': _Products,
       'Url': _Url,
+      'LogoUrl': _LogoUrl,
       'DateOperationStarted': _DateOperationStarted,
       'DatePixStarted': _DatePixStarted,
       'DateRegistered': _DateRegistered,
@@ -175,6 +182,7 @@ class BankDTO {
       json['SalaryPortability'],
       List<String?>.from(json['Products'] ?? []),
       json['Url'],
+      json['LogoUrl'],
       json['DateOperationStarted'],
       json['DatePixStarted'],
       json['DateRegistered'],
@@ -202,6 +210,7 @@ class BankDTO {
         '"SalaryPortability": "$SalaryPortability", '
         '"Products": ${_listToJson(Products)}, '
         '"Url": "$Url", '
+        '"LogoUrl": "$LogoUrl", '
         '"DateOperationStarted": "$DateOperationStarted", '
         '"DatePixStarted": "$DatePixStarted", '
         '"DateRegistered": "$DateRegistered", '

@@ -66,6 +66,7 @@ Cada entrada na base de dados contém as seguintes informações:
 | **SalaryPortability** | Suporte à portabilidade salarial | "Banco folha e Destinatário" (ambos), "Destinatário" (apenas recebimento), ou nulo |
 | **Products** | Produtos financeiros oferecidos | Lista em português |
 | **Url** | Site oficial | Formato URL |
+| **LogoUrl** | Imagem do logotipo da instituição | Formato URL, ou nulo |
 | **DateOperationStarted** | Data de início das operações comerciais | Formato de data |
 | **DatePixStarted** | Data de início das operações PIX | Formato de data (apenas participantes PIX) |
 | **DateRegistered** | Data de criação da entrada no banco de dados | Formato de data |
