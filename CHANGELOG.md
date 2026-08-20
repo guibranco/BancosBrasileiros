@@ -4,6 +4,325 @@
 
 ## Changelog
 
+### 2026-08-20 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 157 banks
+  - 1 - BCO DO BRASIL S.A. - 00.000.000/0001-91
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00000000.svg
+  - 3 - BCO DA AMAZONIA S.A. - 04.902.979/0001-44
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/04902979.svg
+  - 4 - BCO DO NORDESTE DO BRASIL S.A. - 07.237.373/0001-20
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/07237373.svg
+  - 11 - UBS (BRASIL) CORRETORA DE VALORES S.A. - 61.809.182/0001-30
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/61809182.png
+  - 14 - STATE STREET BR S.A. BCO COMERCIAL - 09.274.232/0001-02
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/09274232.png
+  - 15 - UBS BB CCTVM S.A. - 02.819.125/0001-73
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/02819125.png
+  - 16 - CCM DESP TRÂNS SC E RS - 04.715.685/0001-03
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/04891850.svg
+  - 17 - BNY MELLON BCO S.A. - 42.272.526/0001-70
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/42272526.png
+  - 21 - BCO BANESTES S.A. - 28.127.603/0001-78
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/28127603.svg
+  - 33 - BCO SANTANDER (BRASIL) S.A. - 90.400.888/0001-42
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/90400888.svg
+  - 36 - BCO BBI S.A. - 06.271.464/0001-19
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/06271464.svg
+  - 37 - BCO DO EST. DO PA S.A. - 04.913.711/0001-08
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/04913711.svg
+  - 40 - BCO CARGILL S.A. - 03.609.817/0001-50
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/03609817.png
+  - 41 - BCO DO ESTADO DO RS S.A. - 92.702.067/0001-96
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/92702067.svg
+  - 47 - BCO DO EST. DE SE S.A. - 13.009.717/0001-46
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13009717.svg
+  - 63 - BANCO BRADESCARD - 04.184.779/0001-01
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/04184779.svg
+  - 64 - GOLDMAN SACHS DO BRASIL BM S.A - 04.332.281/0001-30
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/04332281.png
+  - 66 - BCO MORGAN STANLEY S.A. - 02.801.938/0001-36
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/02801938.png
+  - 69 - BCO CREFISA S.A. - 61.033.106/0001-86
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/61033106.svg
+  - 70 - BRB - BCO DE BRASILIA S.A. - 00.000.208/0001-00
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00000208.svg
+  - 74 - BCO. J.SAFRA S.A. - 03.017.677/0001-20
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/03017677.svg
+  - 77 - BANCO INTER - 00.416.968/0001-01
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00416968.svg
+  - 79 - PICPAY BANK - BANCO MÚLTIPLO S.A - 09.516.419/0001-75
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/09516419.svg
+  - 84 - SISPRIME DO BRASIL - COOP - 02.398.976/0001-90
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/02398976.svg
+  - 85 - COOPCENTRAL AILOS - 05.463.212/0001-29
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/05463212.svg
+  - 100 - PLANNER CV S.A. - 00.806.535/0001-54
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/00806535.png
+  - 101 - WARREN RENA DTVM - 62.287.735/0001-03
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/62287735.png
+  - 102 - XP INVESTIMENTOS CCTVM S/A - 02.332.886/0001-04
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/02332886.svg
+  - 104 - CAIXA ECONOMICA FEDERAL - 00.360.305/0001-04
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00360305.svg
+  - 105 - LECCA CFI S.A. - 07.652.226/0001-16
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/07652226.png
+  - 111 - OLIVEIRA TRUST DTVM S.A. - 36.113.876/0001-91
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/36113876.png
+  - 113 - NEON CTVM S.A. - 61.723.847/0001-99
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/61723847.svg
+  - 120 - BCO RODOBENS S.A. - 33.603.457/0001-40
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/33603457.png
+  - 121 - BCO AGIBANK S.A. - 10.664.513/0001-50
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10664513.svg
+  - 122 - BCO BRADESCO BERJ S.A. - 33.147.315/0001-15
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33147315.svg
+  - 125 - BANCO GENIAL - 45.246.410/0001-55
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/45246410.svg
+  - 129 - UBS BB BI S.A. - 18.520.834/0001-93
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/18520834.png
+  - 133 - CRESOL CONFEDERAÇÃO - 10.398.952/0001-69
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10398952.svg
+  - 136 - UNICRED DO BRASIL - 00.315.557/0001-11
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00315557.svg
+  - 140 - NU INVESTIMENTOS S.A. - CTVM - 62.169.875/0001-79
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/62169875.svg
+  - 143 - INTEX BANK BCO DE CÂMBIO S.A. - 02.992.317/0001-87
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/02992317.png
+  - 174 - PEFISA S.A. - C.F.I. - 43.180.355/0001-12
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/43180355.svg
+  - 197 - STONE IP S.A. - 16.501.555/0001-57
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/16501555.svg
+  - 208 - BANCO BTG PACTUAL S.A. - 30.306.294/0001-45
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/30306294.svg
+  - 213 - BCO ARBI S.A. - 54.403.563/0001-50
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/54403563.svg
+  - 218 - BCO BS2 S.A. - 71.027.866/0001-34
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/71027866.png
+  - 224 - BCO FIBRA S.A. - 58.616.418/0001-08
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/58616418.png
+  - 233 - BANCO BMG SOLUÇÕES FINANCEIRAS S.A. - 62.421.979/0001-29
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/62421979.svg
+  - 237 - BCO BRADESCO S.A. - 60.746.948/0001-12
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/60746948.svg
+  - 246 - BCO ABC BRASIL S.A. - 28.195.667/0001-06
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/28195667.svg
+  - 250 - BANCO BMG CONSIGNADO S.A. - 50.585.090/0001-06
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/50585090.svg
+  - 254 - PARANA BCO S.A. - 14.388.334/0001-99
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/14388334.png
+  - 260 - NU PAGAMENTOS - IP - 18.236.120/0001-58
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/18236120.svg
+  - 265 - BCO FATOR S.A. - 33.644.196/0001-06
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/33644196.png
+  - 268 - BARI CIA HIPOTECÁRIA - 14.511.781/0001-93
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/14511781.png
+  - 274 - BMP SCMEPP LTDA - 11.581.339/0001-45
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/11581339.svg
+  - 278 - GENIAL INVESTIMENTOS CVM S.A. - 27.652.684/0001-62
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/27652684.svg
+  - 290 - PAGSEGURO INTERNET IP S.A. - 08.561.701/0001-01
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/08561701.svg
+  - 292 - GALAPAGOS DTVM S.A. - 28.650.236/0001-92
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/28650236.png
+  - 300 - BCO LA NACION ARGENTINA - 33.042.151/0001-61
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33042151.svg
+  - 301 - DOCK IP S.A. - 13.370.835/0001-85
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13370835.svg
+  - 310 - VORTX DTVM LTDA. - 22.610.500/0001-88
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/22610500.png
+  - 318 - BCO BMG S.A. - 61.186.680/0001-74
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/61186680.svg
+  - 323 - MERCADO PAGO IP LTDA. - 10.573.521/0001-91
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10573521.svg
+  - 326 - MEUTUDO SCFI - 03.311.443/0001-91
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/03311443.svg
+  - 329 - QI SCD S.A. - 32.402.502/0001-35
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/32402502.svg
+  - 330 - BANCO BARI S.A. - 00.556.603/0001-74
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/00556603.png
+  - 332 - ACESSO SOLUÇÕES DE PAGAMENTO S.A. - INSTITUIÇÃO DE PAGAMENTO - 13.140.088/0001-99
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13140088.svg
+  - 335 - BANCO DIGIO - 27.098.060/0001-45
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/27098060.svg
+  - 336 - BCO C6 S.A. - 31.872.495/0001-72
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/31872495.svg
+  - 341 - ITAÚ UNIBANCO S.A. - 60.701.190/0001-04
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/60701190.svg
+  - 348 - BCO XP S.A. - 33.264.668/0001-03
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33264668.svg
+  - 352 - SANTANDER CTVM S.A. - 29.162.769/0001-98
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/29162769.svg
+  - 358 - MIDWAY S.A. - SCFI - 09.464.032/0001-12
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/09464032.svg
+  - 362 - CIELO IP S.A. - 01.027.058/0001-91
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/01027058.svg
+  - 363 - QI CTVM S.A. - 62.285.390/0001-40
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/62285390.svg
+  - 364 - EFÍ S.A. - IP - 09.089.356/0001-18
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/09089356.svg
+  - 368 - BCO CSF S.A. - 08.357.240/0001-50
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/08357240.svg
+  - 370 - BCO MIZUHO S.A. - 61.088.183/0001-33
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/61088183.png
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 374 - REALIZE SCFI S.A. - 27.351.731/0001-38
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/27351731.svg
+  - 376 - BCO J.P. MORGAN S.A. - 33.172.537/0001-98
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/33172537.png
+  - 380 - PICPAY - 22.896.431/0001-10
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/22896431.svg
+  - 381 - BCO MERCEDES-BENZ S.A. - 60.814.191/0001-57
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/60814191.png
+  - 383 - EBANX IP LTDA. - 21.018.182/0001-06
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/21018182.svg
+  - 386 - NU FINANCEIRA S.A. CFI - 30.680.829/0001-43
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/30680829.svg
+  - 389 - BCO MERCANTIL DO BRASIL S.A. - 17.184.037/0001-10
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/17184037.svg
+  - 393 - BCO VOLKSWAGEN S.A - 59.109.165/0001-49
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/59109165.png
+  - 394 - BCO BRADESCO FINANC. S.A. - 07.207.996/0001-50
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/07207996.png
+  - 396 - MAGALUPAY - 13.884.775/0001-19
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13884775.svg
+  - 397 - LISTO SCD S.A. - 34.088.029/0001-99
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/34088029.svg
+  - 401 - IUGU IP S.A. - 15.111.975/0001-64
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/15111975.svg
+  - 403 - CORA SCFI - 37.880.206/0001-63
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/37880206.svg
+  - 404 - SUMUP SCD S.A. - 37.241.230/0001-52
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/37241230.svg
+  - 406 - ACCREDITO SCD S.A. - 37.715.993/0001-98
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/37715993.svg
+  - 407 - SEFER INVESTIMENTOS DTVM LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL - 00.329.598/0001-67
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00329598.svg
+  - 412 - SOCIAL BANK S/A - 15.173.776/0001-80
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/15173776.png
+  - 413 - BCO BV S.A. - 01.858.774/0001-10
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/01858774.svg
+  - 422 - BCO SAFRA S.A. - 58.160.789/0001-28
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/58160789.svg
+  - 426 - NEON FINANCEIRA - SCFI S.A. - 11.285.104/0001-06
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/11285104.svg
+  - 428 - CREDSYSTEM SCD S.A. - 39.664.698/0001-85
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/39664698.svg
+  - 450 - FITS IP - 13.203.354/0001-85
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13203354.svg
+  - 461 - ASAAS IP S.A. - 19.540.550/0001-21
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/19540550.svg
+  - 469 - PICPAY INVEST - 07.138.049/0001-54
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/07138049.svg
+  - 477 - CITIBANK N.A. - 33.042.953/0001-71
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33042953.svg
+  - 479 - BCO ITAUBANK S.A. - 60.394.079/0001-04
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/60394079.svg
+  - 487 - DEUTSCHE BANK S.A.BCO ALEMAO - 62.331.228/0001-11
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/62331228.png
+  - 488 - JPMORGAN CHASE BANK - 46.518.205/0001-64
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/46518205.png
+  - 505 - BCO UBS BRASIL - 32.062.580/0001-38
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/32062580.png
+  - 507 - SCFI EFÍ S.A. - 37.229.413/0001-52
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/37229413.svg
+  - 509 - CELCOIN IP S.A. - 13.935.893/0001-09
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13935893.svg
+  - 517 - PAGUEVELOZ IP LTDA. - 03.816.413/0001-37
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/03816413.svg
+  - 518 - MERCADO CRÉDITO SCFI S.A. - 37.679.449/0001-38
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/37679449.svg
+  - 534 - EWALLY IP S.A. - 00.714.671/0001-14
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/00714671.png
+  - 536 - NEON PAGAMENTOS S.A. IP - 20.855.875/0001-82
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/20855875.svg
+  - 541 - FDO GARANTIDOR CRÉDITOS - 00.954.288/0001-33
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00954288.svg
+  - 542 - CLOUDWALK IP LTDA - 18.189.547/0001-42
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/18189547.svg
+  - 555 - PAN FINAN - 02.682.287/0001-02
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/02682287.svg
+  - 565 - ÁGORA CTVM S.A. - 74.014.747/0001-35
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/74014747.png
+  - 567 - MERCANTIL FINANCEIRA - 33.040.601/0001-87
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33040601.svg
+  - 576 - MERCADO BITCOIN IP LTDA - 11.351.086/0001-13
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/11351086.svg
+  - 580 - CCCPOUPINV SUL E SUDESTE - CENTRAL SUL/SUDESTE - 87.437.687/0001-05
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/87437687.svg
+  - 581 - CENTRAL NORDESTE - 70.119.680/0001-42
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/70119680.svg
+  - 582 - "CCC POUP INV DE MS, GO, DF E TO" - 33.737.818/0001-40
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33737818.svg
+  - 583 - CCC POUP INV DO CENTRO NORTE DO BRASIL - 33.667.205/0001-84
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33667205.svg
+  - 584 - "CCC POUP E INV DOS ESTADOS DO PR, SP E RJ" - 80.230.774/0001-48
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/80230774.svg
+  - 588 - AVANCARD PROVER IP LTDA - 20.308.187/0001-00
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/20308187.svg
+  - 594 - ASA SCFI S.A. - 48.703.388/0001-13
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/48703388.svg
+  - 595 - IFOOD PAGO IP - 19.468.242/0001-32
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/19468242.svg
+  - 611 - BCO PAULISTA S.A. - 61.820.817/0001-09
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/61820817.png
+  - 612 - BCO GUANABARA S.A. - 31.880.826/0001-16
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/31880826.svg
+  - 613 - OMNI BANCO S.A. - 60.850.229/0001-47
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/60850229.png
+  - 620 - REVOLUT SCD S.A. - 51.342.763/0001-51
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/51342763.svg
+  - 623 - BANCO PAN - 59.285.411/0001-13
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/59285411.svg
+  - 626 - BCO C6 CONSIG - 61.348.538/0001-86
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/61348538.svg
+  - 633 - BCO RENDIMENTO S.A. - 68.900.810/0001-38
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/68900810.svg
+  - 637 - BCO SOFISA S.A. - 60.889.128/0001-80
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/60889128.svg
+  - 643 - BCO PINE S.A. - 62.144.175/0001-20
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/62144175.svg
+  - 655 - BCO VOTORANTIM S.A. - 59.588.111/0001-03
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/59588111.svg
+  - 665 - STARK BANK S.A. - IP - 20.018.183/0001-80
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/20018183.png
+  - 668 - CELCOIN SCD - 48.632.754/0001-90
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/48632754.svg
+  - 672 - STONE CFI S.A. - 53.505.601/0001-12
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/53505601.svg
+  - 675 - CASAS BAHIA PAY IP LTDA. - 30.723.871/0001-02
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/30723871.svg
+  - 682 - MONERY IP S.A. - 46.505.612/0001-37
+    - **PixType** (SPI): DRCT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-12-30 09:00:00 **->** 2026-09-21 09:00:00
+  - 694 - WOOVI IP LTDA. - 54.811.417/0001-63
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/54811417.png
+  - 703 - GETNET IP - 10.440.482/0001-54
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10440482.svg
+  - 712 - OURIBANK S.A. - 78.632.767/0001-20
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/78632767.png
+  - 741 - BCO RIBEIRAO PRETO S.A. - 00.517.645/0001-04
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00517645.svg
+  - 743 - BANCO SEMEAR - 00.795.423/0001-45
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00795423.svg
+  - 745 - BCO CITIBANK S.A. - 33.479.023/0001-80
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33479023.svg
+  - 748 - BCO COOPERATIVO SICREDI S.A. - 01.181.521/0001-55
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/01181521.svg
+  - 756 - BANCO SICOOB S.A. - 02.038.232/0001-64
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/02038232.svg
+  - 769 - 99PAY IP S.A. - 24.313.102/0001-25
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/24313102.svg
+  - 773 - KIWIFY IP - 53.908.413/0001-35
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/53908413.svg
+  - 775 - CONTAAZUL IP LTDA. - 47.381.104/0001-57
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/47381104.png
+  - 783 - SWAP IP S.A. - 31.680.151/0001-61
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/31680151.svg
+  - 793 - MAGALUPAY SCFI S.A. - 61.021.673/0001-12
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/61021673.svg
+
 ### 2026-08-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
