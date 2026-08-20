@@ -97,6 +97,20 @@
                         }
                     ]
                 },
+                "LogoUrl": {
+                    "anyOf": [
+                        {
+                            "type": "null"
+                        },
+                        {
+                            "type": "string",
+                            "format": "uri",
+                            "qt-uri-protocols": [
+                                "https"
+                            ]
+                        }
+                    ]
+                },
                 "DateOperationStarted": {
                     "anyOf": [
                         {
@@ -145,7 +159,8 @@
                 "Products",
                 "ShortName",
                 "Type",
-                "Url"
+                "Url",
+                "LogoUrl"
             ],
             "title": "BankElement"
         }

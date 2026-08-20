@@ -51,6 +51,8 @@ pub struct BankElement {
     pub products: Vec<String>,
     #[serde(rename = "Url")]
     pub url: Option<String>,
+    #[serde(rename = "LogoUrl")]
+    pub logo_url: Option<String>,
     #[serde(rename = "DateOperationStarted")]
     pub date_operation_started: String,
     #[serde(rename = "DatePixStarted")]

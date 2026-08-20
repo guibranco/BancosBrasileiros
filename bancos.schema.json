@@ -160,6 +160,16 @@
           "format": "uri",
           "examples": ["https://www.bb.com.br", null]
         },
+        "LogoUrl": {
+          "type": ["string", "null"],
+          "title": "URL do Logotipo",
+          "description": "Endereço da imagem do logotipo da instituição",
+          "format": "uri",
+          "examples": [
+            "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/00000000.svg",
+            null
+          ]
+        },
         "DateOperationStarted": {
           "type": ["string", "null"],
           "title": "Data de Início das Operações",

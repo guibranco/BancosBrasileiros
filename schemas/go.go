@@ -41,6 +41,7 @@ type BankElement struct {
 	SalaryPortability    string    `json:"SalaryPortability"`
 	Products             []string  `json:"Products"`
 	URL                  string    `json:"Url"`
+	LogoURL              string    `json:"LogoUrl"`
 	DateOperationStarted string    `json:"DateOperationStarted"`
 	DatePixStarted       string    `json:"DatePixStarted"`
 	DateRegistered       string    `json:"DateRegistered"`

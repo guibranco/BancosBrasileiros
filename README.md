@@ -66,6 +66,7 @@ Each entry in the database contains the following information:
 | **SalaryPortability** | Salary portability support | "Banco folha e Destinatário" (both), "Destinatário" (receive only), or null |
 | **Products** | Offered financial products | List in Portuguese |
 | **Url** | Official website | URL format |
+| **LogoUrl** | Institution logo image | URL format, or null |
 | **DateOperationStarted** | Commercial operations start date | Date format |
 | **DatePixStarted** | PIX operations start date | Date format (PIX participants only) |
 | **DateRegistered** | Database entry creation date | Date format |

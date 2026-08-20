@@ -54,6 +54,9 @@ class Bank
     public $Url;
 
     /** @var string|null */
+    public $LogoUrl;
+
+    /** @var string|null */
     public $DateOperationStarted;
 
     /** @var string|null */

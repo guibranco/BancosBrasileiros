@@ -51,6 +51,14 @@ $banks = Bank::all();
                                 <span>N/A</span>
                             <?php } ?>
                         </div>
+                        <div class="detail logo">
+                            <span>Logo: </span>
+                            <?php if($bank->LogoUrl) { ?>
+                                <img src="<?php echo $bank->LogoUrl; ?>" alt="<?php echo $bank->ShortName; ?> logo" height="32">
+                            <?php } else{ ?>
+                                <span>N/A</span>
+                            <?php } ?>
+                        </div>
                         <div class="detail type">
                             <span>Date updated:</span> <?php echo date('Y-m-d H:i:s', strtotime($bank->DateUpdated)); ?>
                         </div>

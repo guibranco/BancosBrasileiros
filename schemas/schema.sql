@@ -17,6 +17,7 @@ CREATE TABLE Banks (
     SalaryPortability VARCHAR(100) NULL,
     Products TEXT NULL,
     Url VARCHAR(255) NULL,
+    LogoUrl VARCHAR(255) NULL,
     DateOperationStarted CHAR(10) NULL,
     DatePixStarted CHAR(10) NULL,
     DateRegistered DATETIME NOT NULL,
