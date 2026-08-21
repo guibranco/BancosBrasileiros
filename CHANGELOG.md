@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-08-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 673 - CCR DO AGRESTE ALAGOANO - 08.482.873/0001-90
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2025-03-24 08:27:14 **->** 2026-08-20 10:10:00
+
 ### 6.3 - 2026-08-20
 
 - Added the **LogoUrl** field (nullable URL of the institution's logo image) across the schema, published packages, and documentation:

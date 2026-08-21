@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-08-20T12:49:46.1284296+00:00"
+    "DateUpdated": "2026-08-21T12:47:39.4240845+00:00"
   },
   {
     "COMPE": "374",
@@ -10910,7 +10910,7 @@
     "ShortName": "CCR DO AGRESTE ALAGOANO",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -10922,9 +10922,9 @@
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2025-03-10",
-    "DatePixStarted": "2025-03-24 08:27:14",
+    "DatePixStarted": "2026-08-20 10:10:00",
     "DateRegistered": "2025-03-05T12:08:37.9410843+00:00",
-    "DateUpdated": "2025-03-24T17:11:53.1676576+00:00"
+    "DateUpdated": "2026-08-21T12:47:38.4243731+00:00"
   },
   {
     "COMPE": "674",
