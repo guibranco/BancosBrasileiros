@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-08-23T12:40:03.8427011+00:00"
+    "DateUpdated": "2026-08-24T12:50:21.1628333+00:00"
   },
   {
     "COMPE": "374",
@@ -12935,5 +12935,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2026-05-05T12:31:13.820508+00:00",
     "DateUpdated": "2026-05-05T12:31:13.8205619+00:00"
+  },
+  {
+    "COMPE": "804",
+    "ISPB": "32343119",
+    "Document": "32.343.119/0001-53",
+    "LongName": "MÊNTORE INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "MÊNTORE IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": null,
+    "DateOperationStarted": "2026-08-24",
+    "DatePixStarted": "2024-07-25 19:15:01",
+    "DateRegistered": "2026-08-24T12:50:21.2138687+00:00",
+    "DateUpdated": "2026-08-24T12:50:20.262336+00:00"
   }
 ]

@@ -4585,7 +4585,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-08-23T12:40:03.8427011Z</DateUpdated>
+    <DateUpdated>2026-08-24T12:50:21.1628333Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11251,5 +11251,26 @@
     <DateOperationStarted>2026-05-11</DateOperationStarted>
     <DateRegistered>2026-05-05T12:31:13.820508Z</DateRegistered>
     <DateUpdated>2026-05-05T12:31:13.8205619Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>804</COMPE>
+    <ISPB>32343119</ISPB>
+    <Document>32.343.119/0001-53</Document>
+    <LongName>MÊNTORE INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>MÊNTORE IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-08-24</DateOperationStarted>
+    <DatePixStarted>2024-07-25 19:15:01</DatePixStarted>
+    <DateRegistered>2026-08-24T12:50:21.2138687Z</DateRegistered>
+    <DateUpdated>2026-08-24T12:50:20.262336Z</DateUpdated>
   </bank>
 </banks>
