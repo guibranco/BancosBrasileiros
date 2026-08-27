@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-08-26T12:52:21.9615098+00:00"
+    "DateUpdated": "2026-08-27T21:52:52.2925627+00:00"
   },
   {
     "COMPE": "374",
@@ -5935,8 +5935,8 @@
     "COMPE": "404",
     "ISPB": "37241230",
     "Document": "37.241.230/0001-52",
-    "LongName": "SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "SUMUP SCD S.A.",
+    "LongName": "SUMUP SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.",
+    "ShortName": "SUMUP SCFI S.A",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5953,7 +5953,7 @@
     "DateOperationStarted": "2020-10-16",
     "DatePixStarted": "2021-04-19 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115136-03:00",
-    "DateUpdated": "2026-08-20T12:49:46.1622521+00:00"
+    "DateUpdated": "2026-08-27T21:52:50.3793156+00:00"
   },
   {
     "COMPE": "406",

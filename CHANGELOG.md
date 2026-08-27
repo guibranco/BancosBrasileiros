@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-08-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 404 - SUMUP SCFI S.A - 37.241.230/0001-52
+    - **LongName** (STR): SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A. **->** SUMUP SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.
+    - **ShortName** (STR): SUMUP SCD S.A. **->** SUMUP SCFI S.A
+
 ### 2026-08-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
