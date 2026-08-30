@@ -4585,7 +4585,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-08-24T12:50:21.1628333Z</DateUpdated>
+    <DateUpdated>2026-08-30T16:11:17.0662646Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -5222,8 +5222,8 @@
     <COMPE>404</COMPE>
     <ISPB>37241230</ISPB>
     <Document>37.241.230/0001-52</Document>
-    <LongName>SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>SUMUP SCD S.A.</ShortName>
+    <LongName>SUMUP SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>SUMUP SCFI S.A</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5237,7 +5237,7 @@
     <DateOperationStarted>2020-10-16</DateOperationStarted>
     <DatePixStarted>2021-04-19 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115136-03:00</DateRegistered>
-    <DateUpdated>2026-08-20T12:49:46.1622521Z</DateUpdated>
+    <DateUpdated>2026-08-27T21:52:50.3793156Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>406</COMPE>
@@ -7889,8 +7889,8 @@
     <COMPE>564</COMPE>
     <ISPB>63019146</ISPB>
     <Document>63.019.146/0001-07</Document>
-    <LongName>J17 - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A</LongName>
-    <ShortName>J17 CFI S.A.</ShortName>
+    <LongName>ANKOR CAPITAL - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A</LongName>
+    <ShortName>ANKOR CFI S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7902,7 +7902,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-06-08</DateOperationStarted>
     <DateRegistered>2026-06-01T17:41:12.3935045Z</DateRegistered>
-    <DateUpdated>2026-06-01T17:41:12.3935263Z</DateUpdated>
+    <DateUpdated>2026-08-28T21:46:00.1127102Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>565</COMPE>
