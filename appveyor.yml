@@ -19,22 +19,11 @@ environment:
   nodejs_version: 22
 
 install:
-- ps: Install-Product node $env:nodejs_version
 - choco install jq
-- ps: npm install --loglevel=error
 - choco install dart-sdk
 - refreshenv
 
 build_script:
-- mkdir -p dist
-- copy README.md dist\
-- copy package.json dist\
-- copy data\bancos.json dist\
-- cd dist
-- git config user.email "build@appveyor.com"
-- git config user.name "AppVeyor"
-- npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
-- cd ..
 - cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
 - ps: $response=Invoke-RestMethod 'https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile'
 - ps: $releaseNotesUrl=$response.artifacts[0].archive_download_url
