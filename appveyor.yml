@@ -23,6 +23,11 @@ install:
 - choco install jq
 - ps: npm install --loglevel=error
 - ps: Set-Content -Path "$env:USERPROFILE\.npmrc" -Value "//registry.npmjs.org/:_authToken=$env:npm_auth_token" -Encoding ASCII
+- ps: |
+    $t = $env:npm_auth_token
+    if ([string]::IsNullOrWhiteSpace($t)) { throw "npm_auth_token is empty or not defined" }
+    Write-Host "token length: $($t.Trim().Length)"
+    Set-Content -Path "$env:USERPROFILE\.npmrc" -Value "//registry.npmjs.org/:_authToken=$($t.Trim())" -Encoding ASCII
 - ps: npm whoami --registry https://registry.npmjs.org/
 - choco install dart-sdk
 - refreshenv
