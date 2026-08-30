@@ -16,7 +16,7 @@ skip_commits:
     - src/
 
 environment:
-  nodejs_version: 22
+  nodejs_version: 24
 
 install:
 - choco install jq
