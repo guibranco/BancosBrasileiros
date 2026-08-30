@@ -21,10 +21,9 @@ environment:
 install:
 - ps: Install-Product node $env:nodejs_version
 - choco install jq
-- ps: >-
-    npm install --loglevel=error
-
-    "//registry.npmjs.org/:_authToken=$env:npm_auth_token`n" | out-file "$env:userprofile\.npmrc" -Encoding ASCII
+- ps: npm install --loglevel=error
+- ps: Set-Content -Path "$env:USERPROFILE\.npmrc" -Value "//registry.npmjs.org/:_authToken=$env:npm_auth_token" -Encoding ASCII
+- ps: npm whoami --registry https://registry.npmjs.org/
 - choco install dart-sdk
 - refreshenv
 
