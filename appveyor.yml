@@ -22,21 +22,6 @@ install:
 - ps: Install-Product node $env:nodejs_version
 - choco install jq
 - ps: npm install --loglevel=error
-- ps: Set-Content -Path "$env:USERPROFILE\.npmrc" -Value "//registry.npmjs.org/:_authToken=$env:npm_auth_token" -Encoding ASCII
-- ps: |
-    $t = $env:npm_auth_token
-    if ([string]::IsNullOrWhiteSpace($t)) { throw "npm_auth_token is empty or not defined" }
-    Write-Host "token length: $($t.Trim().Length)"
-    Set-Content -Path "$env:USERPROFILE\.npmrc" -Value "//registry.npmjs.org/:_authToken=$($t.Trim())" -Encoding ASCII
-- ps: |
-    $h = @{ Authorization = "Bearer $($env:npm_auth_token.Trim())" }
-    try {
-      $r = Invoke-RestMethod -Uri 'https://registry.npmjs.org/-/whoami' -Headers $h
-      Write-Host "token is valid, user: $($r.username)"
-    } catch {
-      Write-Host "raw whoami failed: $($_.Exception.Response.StatusCode.value__)"
-    }
-- ps: npm whoami --registry https://registry.npmjs.org/
 - choco install dart-sdk
 - refreshenv
 
@@ -49,7 +34,6 @@ build_script:
 - git config user.email "build@appveyor.com"
 - git config user.name "AppVeyor"
 - npm version %APPVEYOR_BUILD_VERSION% -m 'v%APPVEYOR_BUILD_VERSION%'
-- npm publish
 - cd ..
 - cmd: nuget pack BancosBrasileiros.nuspec -Version %APPVEYOR_BUILD_VERSION%
 - ps: $response=Invoke-RestMethod 'https://api.github.com/repos/guibranco/bancosbrasileiros/actions/artifacts?name=releaseNotesFile'
