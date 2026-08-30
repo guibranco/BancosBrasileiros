@@ -54,8 +54,13 @@ build_script:
 - copy ..\..\test\resources\*.json resources\
 - cd ..
 - ps: >-
-    (Get-Content '.\pubspec.yaml') -replace "version: 5.0.0", "version: $env:APPVEYOR_BUILD_VERSION" | out-File '.\pubspec.yaml' -Encoding ASCII
-- echo "## [%APPVEYOR_BUILD_VERSION%] - %RELEASE_NOTES%" > CHANGELOG.md
+    (Get-Content '.\pubspec.yaml') -replace '^version:.*', "version: $env:APPVEYOR_BUILD_VERSION" | Out-File '.\pubspec.yaml' -Encoding ASCII
+- ps: |
+    $v = (Select-String -Path '.\pubspec.yaml' -Pattern '^version:\s*(.+)$').Matches[0].Groups[1].Value.Trim()
+    if ($v -ne $env:APPVEYOR_BUILD_VERSION) { throw "pubspec version is $v, expected $env:APPVEYOR_BUILD_VERSION" }
+- ps: |
+    $notes = Get-Content -Path "..\release-notes.md" -Encoding UTF8 -Raw
+    Set-Content -Path '.\CHANGELOG.md' -Value "## [$env:APPVEYOR_BUILD_VERSION]`n`n$notes" -Encoding UTF8
 - C:\tools\dart-sdk\bin\dart pub get
 - C:\tools\dart-sdk\bin\dart test
 - C:\tools\dart-sdk\bin\dart pub publish --dry-run
