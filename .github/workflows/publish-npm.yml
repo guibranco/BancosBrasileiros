@@ -1,0 +1,44 @@
+name: Publish to npm
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish, e.g. 6.3.16'
+        required: true
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ github.event.release.tag_name || format('v{0}', inputs.version) }}
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Upgrade npm for OIDC support
+        run: npm install -g npm@latest
+
+      - name: Assemble package
+        run: |
+          TAG="${{ github.event.release.tag_name || format('v{0}', inputs.version) }}"
+          VERSION="${TAG#v}"
+          mkdir -p dist
+          cp README.md package.json dist/
+          cp data/bancos.json dist/
+          cd dist
+          npm version "$VERSION" --no-git-tag-version --allow-same-version
+
+      - name: Publish
+        run: npm publish
+        working-directory: dist
