@@ -28,6 +28,14 @@ install:
     if ([string]::IsNullOrWhiteSpace($t)) { throw "npm_auth_token is empty or not defined" }
     Write-Host "token length: $($t.Trim().Length)"
     Set-Content -Path "$env:USERPROFILE\.npmrc" -Value "//registry.npmjs.org/:_authToken=$($t.Trim())" -Encoding ASCII
+- ps: |
+    $h = @{ Authorization = "Bearer $($env:npm_auth_token.Trim())" }
+    try {
+      $r = Invoke-RestMethod -Uri 'https://registry.npmjs.org/-/whoami' -Headers $h
+      Write-Host "token is valid, user: $($r.username)"
+    } catch {
+      Write-Host "raw whoami failed: $($_.Exception.Response.StatusCode.value__)"
+    }
 - ps: npm whoami --registry https://registry.npmjs.org/
 - choco install dart-sdk
 - refreshenv
