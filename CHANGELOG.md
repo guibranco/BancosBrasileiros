@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-08-31 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 748 - BANCO COOPERATIVO SICREDI - 01.181.521/0001-55
+    - **ShortName** (STR): BCO COOPERATIVO SICREDI S.A. **->** BANCO COOPERATIVO SICREDI
+
 ### 2026-08-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
