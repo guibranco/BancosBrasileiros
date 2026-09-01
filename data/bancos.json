@@ -3486,8 +3486,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -3495,7 +3495,7 @@
     "DateOperationStarted": "2018-04-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114649-03:00",
-    "DateUpdated": "2024-11-20T12:08:11.7822814+00:00"
+    "DateUpdated": "2026-09-01T16:10:26.8296151+00:00"
   },
   {
     "COMPE": "274",
@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-08-31T18:53:07.8921013+00:00"
+    "DateUpdated": "2026-09-01T16:10:26.7735237+00:00"
   },
   {
     "COMPE": "374",
@@ -8364,8 +8364,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -8373,7 +8373,7 @@
     "DateOperationStarted": "2023-02-10",
     "DatePixStarted": "2025-05-19 09:00:00",
     "DateRegistered": "2023-03-03T14:56:55.3112609+00:00",
-    "DateUpdated": "2025-04-12T12:07:48.1811728+00:00"
+    "DateUpdated": "2026-09-01T16:10:26.8320727+00:00"
   },
   {
     "COMPE": "536",
