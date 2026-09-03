@@ -4585,7 +4585,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-09-02T16:05:45.6827486Z</DateUpdated>
+    <DateUpdated>2026-09-03T15:55:19.6596043Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10973,6 +10973,25 @@
     <DatePixStarted>2025-08-07 10:29:34</DatePixStarted>
     <DateRegistered>2026-01-10T13:26:02.7540522Z</DateRegistered>
     <DateUpdated>2026-08-20T12:49:46.163004Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>778</COMPE>
+    <ISPB>58674454</ISPB>
+    <Document>58.674.454/0001-28</Document>
+    <LongName>PB SOCIEDADE DE CREDITO DIRETO S.A.</LongName>
+    <ShortName>PB SCD</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-09-10</DateOperationStarted>
+    <DateRegistered>2026-09-03T15:55:19.703685Z</DateRegistered>
+    <DateUpdated>2026-09-03T15:55:19.7037028Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>780</COMPE>

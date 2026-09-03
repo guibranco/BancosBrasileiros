@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-09-02T16:05:45.6827486+00:00"
+    "DateUpdated": "2026-09-03T15:55:19.6596043+00:00"
   },
   {
     "COMPE": "374",
@@ -12599,6 +12599,30 @@
     "DatePixStarted": "2025-08-07 10:29:34",
     "DateRegistered": "2026-01-10T13:26:02.7540522+00:00",
     "DateUpdated": "2026-08-20T12:49:46.163004+00:00"
+  },
+  {
+    "COMPE": "778",
+    "ISPB": "58674454",
+    "Document": "58.674.454/0001-28",
+    "LongName": "PB SOCIEDADE DE CREDITO DIRETO S.A.",
+    "ShortName": "PB SCD",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": null,
+    "DateOperationStarted": "2026-09-10",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-09-03T15:55:19.703685+00:00",
+    "DateUpdated": "2026-09-03T15:55:19.7037028+00:00"
   },
   {
     "COMPE": "780",
