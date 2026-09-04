@@ -4585,7 +4585,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-09-03T15:55:19.6596043Z</DateUpdated>
+    <DateUpdated>2026-09-04T15:53:03.8364954Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -5770,8 +5770,8 @@
     <COMPE>438</COMPE>
     <ISPB>67030395</ISPB>
     <Document>67.030.395/0001-46</Document>
-    <LongName>TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>TRUSTEE DTVM LTDA.</ShortName>
+    <LongName>TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>TRUSTEE DTVM LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -5783,7 +5783,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-05-04</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115365-03:00</DateRegistered>
-    <DateUpdated>2022-08-25T12:36:48.5303514Z</DateUpdated>
+    <DateUpdated>2026-09-04T15:53:01.8854416Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>439</COMPE>
@@ -8413,8 +8413,8 @@
     <COMPE>591</COMPE>
     <ISPB>02671743</ISPB>
     <Document>02.671.743/0001-19</Document>
-    <LongName>BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA</LongName>
-    <ShortName>BANVOX DTVM</ShortName>
+    <LongName>BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>BANVOX DTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -8426,7 +8426,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-06-28</DateOperationStarted>
     <DateRegistered>2024-06-24T12:07:25.1385983Z</DateRegistered>
-    <DateUpdated>2024-06-24T12:07:25.1386177Z</DateUpdated>
+    <DateUpdated>2026-09-04T15:53:01.8773652Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>592</COMPE>

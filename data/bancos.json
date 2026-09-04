@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-09-03T15:55:19.6596043+00:00"
+    "DateUpdated": "2026-09-04T15:53:03.8364954+00:00"
   },
   {
     "COMPE": "374",
@@ -6556,8 +6556,8 @@
     "COMPE": "438",
     "ISPB": "67030395",
     "Document": "67.030.395/0001-46",
-    "LongName": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "ShortName": "TRUSTEE DTVM LTDA.",
+    "LongName": "TRUSTEE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "TRUSTEE DTVM LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -6574,7 +6574,7 @@
     "DateOperationStarted": "2021-05-04",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115365-03:00",
-    "DateUpdated": "2022-08-25T12:36:48.5303514+00:00"
+    "DateUpdated": "2026-09-04T15:53:01.8854416+00:00"
   },
   {
     "COMPE": "439",
@@ -9686,8 +9686,8 @@
     "COMPE": "591",
     "ISPB": "02671743",
     "Document": "02.671.743/0001-19",
-    "LongName": "BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA",
-    "ShortName": "BANVOX DTVM",
+    "LongName": "BANVOX DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "BANVOX DTVM - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -9704,7 +9704,7 @@
     "DateOperationStarted": "2024-06-28",
     "DatePixStarted": null,
     "DateRegistered": "2024-06-24T12:07:25.1385983+00:00",
-    "DateUpdated": "2024-06-24T12:07:25.1386177+00:00"
+    "DateUpdated": "2026-09-04T15:53:01.8773652+00:00"
   },
   {
     "COMPE": "592",
