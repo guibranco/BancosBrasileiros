@@ -2394,6 +2394,7 @@
     <LongName>UNIDA DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
     <ShortName>UNIDA DTVM LTDA</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -2403,8 +2404,9 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-25</DateOperationStarted>
+    <DatePixStarted>2026-09-16 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114926-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0801983Z</DateUpdated>
+    <DateUpdated>2026-09-11T15:59:48.0961684Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>195</COMPE>
@@ -4585,7 +4587,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-09-10T15:57:02.4240466Z</DateUpdated>
+    <DateUpdated>2026-09-11T15:59:49.1394358Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10061,14 +10063,14 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-10-21</DateOperationStarted>
     <DatePixStarted>2025-10-28 09:00:00</DatePixStarted>
     <DateRegistered>2025-10-16T12:42:07.4681663Z</DateRegistered>
-    <DateUpdated>2025-10-22T12:09:52.9345243Z</DateUpdated>
+    <DateUpdated>2026-09-11T15:59:49.1957503Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>701</COMPE>
@@ -11205,14 +11207,14 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-02-02</DateOperationStarted>
     <DatePixStarted>2026-03-05 09:00:00</DatePixStarted>
     <DateRegistered>2026-01-27T12:11:33.2913903Z</DateRegistered>
-    <DateUpdated>2026-03-03T12:15:27.9355212Z</DateUpdated>
+    <DateUpdated>2026-09-11T15:59:49.1984168Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>793</COMPE>
