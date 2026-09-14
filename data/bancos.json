@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-09-13T15:44:07.5800062+00:00"
+    "DateUpdated": "2026-09-14T17:50:48.6411577+00:00"
   },
   {
     "COMPE": "374",
@@ -11153,7 +11153,7 @@
     "ShortName": "BRASIL CASH IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -11165,9 +11165,9 @@
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2026-03-25",
-    "DatePixStarted": "2025-11-03 10:32:31",
+    "DatePixStarted": "2026-09-11 10:10:00",
     "DateRegistered": "2026-03-19T12:16:47.6523154+00:00",
-    "DateUpdated": "2026-03-19T12:16:46.5794526+00:00"
+    "DateUpdated": "2026-09-14T17:50:47.6290462+00:00"
   },
   {
     "COMPE": "684",
