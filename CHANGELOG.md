@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2026-09-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 107 - BCO BOCOM BBM S.A. - 15.114.366/0001-69
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/15114366.png
+  - 144 - EBURY BCO DE CÂMBIO S.A. - 13.059.145/0001-00
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/13059145.png
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-09-15 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

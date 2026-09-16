@@ -1606,11 +1606,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/15114366.png",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114855-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7233843+00:00"
+    "DateUpdated": "2026-09-16T16:17:21.2639167+00:00"
   },
   {
     "COMPE": "108",
@@ -2317,11 +2317,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/13059145.png",
     "DateOperationStarted": "2016-05-23",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114803-03:00",
-    "DateUpdated": "2026-01-13T18:31:00+00:00"
+    "DateUpdated": "2026-09-16T16:17:21.2635662+00:00"
   },
   {
     "COMPE": "145",
@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-09-15T16:26:04.3102268+00:00"
+    "DateUpdated": "2026-09-16T16:17:21.2107682+00:00"
   },
   {
     "COMPE": "374",

@@ -1449,10 +1449,10 @@
     <PCR>true</PCR>
     <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/15114366.png</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114855-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7233843Z</DateUpdated>
+    <DateUpdated>2026-09-16T16:17:21.2639167Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>108</COMPE>
@@ -2055,11 +2055,11 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/13059145.png</LogoUrl>
     <DateOperationStarted>2016-05-23</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114803-03:00</DateRegistered>
-    <DateUpdated>2026-01-13T18:31:00Z</DateUpdated>
+    <DateUpdated>2026-09-16T16:17:21.2635662Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>145</COMPE>
@@ -4587,7 +4587,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-09-15T16:26:04.3102268Z</DateUpdated>
+    <DateUpdated>2026-09-16T16:17:21.2107682Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
