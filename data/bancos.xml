@@ -4587,7 +4587,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-09-21T17:56:53.9974733Z</DateUpdated>
+    <DateUpdated>2026-09-22T16:25:56.3579069Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6883,8 +6883,8 @@
     <COMPE>516</COMPE>
     <ISPB>36583700</ISPB>
     <Document>36.583.700/0001-01</Document>
-    <LongName>QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
-    <ShortName>QISTA S.A. CFI</ShortName>
+    <LongName>PLACARPAY S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO</LongName>
+    <ShortName>PLACARPAY S.A - SCFI</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -6901,7 +6901,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2022-10-24</DateOperationStarted>
     <DateRegistered>2022-10-21T12:08:38.2728811Z</DateRegistered>
-    <DateUpdated>2023-10-21T12:05:56.9602279Z</DateUpdated>
+    <DateUpdated>2026-09-22T16:25:54.3676295Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>517</COMPE>
@@ -7414,13 +7414,13 @@
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
-    <PCRP>false</PCRP>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-01-08</DateOperationStarted>
     <DatePixStarted>2025-01-10 11:30:00</DatePixStarted>
     <DateRegistered>2024-01-09T12:06:15.138698Z</DateRegistered>
-    <DateUpdated>2025-01-04T12:07:02.9553062Z</DateUpdated>
+    <DateUpdated>2026-09-22T16:25:56.4077744Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>541</COMPE>
