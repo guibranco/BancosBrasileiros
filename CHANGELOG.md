@@ -4,6 +4,17 @@
 
 ## Changelog
 
+### 2026-09-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 516 - PLACARPAY S.A - SCFI - 36.583.700/0001-01
+    - **LongName** (STR): QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO **->** PLACARPAY S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO
+    - **ShortName** (STR): QISTA S.A. CFI **->** PLACARPAY S.A - SCFI
+  - 540 - HBI SCD - 04.849.745/0001-80
+    - **Pcrp** (PCR): False **->** True
+
 ### 2026-09-21 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

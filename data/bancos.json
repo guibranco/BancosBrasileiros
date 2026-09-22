@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-09-21T17:56:53.9974733+00:00"
+    "DateUpdated": "2026-09-22T16:25:56.3579069+00:00"
   },
   {
     "COMPE": "374",
@@ -7872,8 +7872,8 @@
     "COMPE": "516",
     "ISPB": "36583700",
     "Document": "36.583.700/0001-01",
-    "LongName": "QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
-    "ShortName": "QISTA S.A. CFI",
+    "LongName": "PLACARPAY S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PLACARPAY S.A - SCFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7894,7 +7894,7 @@
     "DateOperationStarted": "2022-10-24",
     "DatePixStarted": null,
     "DateRegistered": "2022-10-21T12:08:38.2728811+00:00",
-    "DateUpdated": "2023-10-21T12:05:56.9602279+00:00"
+    "DateUpdated": "2026-09-22T16:25:54.3676295+00:00"
   },
   {
     "COMPE": "517",
@@ -8487,7 +8487,7 @@
     "LegalCheque": false,
     "DetectaFlow": false,
     "PCR": true,
-    "PCRP": false,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -8495,7 +8495,7 @@
     "DateOperationStarted": "2024-01-08",
     "DatePixStarted": "2025-01-10 11:30:00",
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2025-01-04T12:07:02.9553062+00:00"
+    "DateUpdated": "2026-09-22T16:25:56.4077744+00:00"
   },
   {
     "COMPE": "541",
