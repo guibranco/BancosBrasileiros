@@ -4587,7 +4587,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-09-22T16:25:56.3579069Z</DateUpdated>
+    <DateUpdated>2026-09-23T16:15:49.8432805Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -9893,8 +9893,8 @@
     <COMPE>692</COMPE>
     <ISPB>56198117</ISPB>
     <Document>56.198.117/0001-86</Document>
-    <LongName>SQUID SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>SQUID SCD S.A.</ShortName>
+    <LongName>ZYDI SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ZYDI</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -9908,7 +9908,7 @@
     <DateOperationStarted>2025-06-27</DateOperationStarted>
     <DatePixStarted>2026-04-07 16:36:42</DatePixStarted>
     <DateRegistered>2025-06-23T12:09:36.2371877Z</DateRegistered>
-    <DateUpdated>2026-04-08T12:24:42.9860316Z</DateUpdated>
+    <DateUpdated>2026-09-23T16:15:48.008533Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>693</COMPE>

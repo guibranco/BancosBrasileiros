@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-09-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 692 - ZYDI - 56.198.117/0001-86
+    - **LongName** (STR): SQUID SOCIEDADE DE CRÉDITO DIRETO S.A. **->** ZYDI SOCIEDADE DE CRÉDITO DIRETO S.A.
+    - **ShortName** (STR): SQUID SCD S.A. **->** ZYDI
+
 ### 2026-09-22 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks

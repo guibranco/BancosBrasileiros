@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-09-22T16:25:56.3579069+00:00"
+    "DateUpdated": "2026-09-23T16:15:49.8432805+00:00"
   },
   {
     "COMPE": "374",
@@ -11365,8 +11365,8 @@
     "COMPE": "692",
     "ISPB": "56198117",
     "Document": "56.198.117/0001-86",
-    "LongName": "SQUID SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "SQUID SCD S.A.",
+    "LongName": "ZYDI SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ZYDI",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -11383,7 +11383,7 @@
     "DateOperationStarted": "2025-06-27",
     "DatePixStarted": "2026-04-07 16:36:42",
     "DateRegistered": "2025-06-23T12:09:36.2371877+00:00",
-    "DateUpdated": "2026-04-08T12:24:42.9860316+00:00"
+    "DateUpdated": "2026-09-23T16:15:48.008533+00:00"
   },
   {
     "COMPE": "693",
