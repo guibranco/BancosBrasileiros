@@ -5056,8 +5056,8 @@
     "COMPE": "365",
     "ISPB": "68757681",
     "Document": "68.757.681/0001-70",
-    "LongName": "SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A.",
-    "ShortName": "SIMPAUL",
+    "LongName": "BINANCE BRASIL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "BINANCE BRASIL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5074,7 +5074,7 @@
     "DateOperationStarted": "2020-03-17",
     "DatePixStarted": "2024-01-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115408-03:00",
-    "DateUpdated": "2024-01-09T12:06:14.4953628+00:00"
+    "DateUpdated": "2026-10-02T17:33:57.072572+00:00"
   },
   {
     "COMPE": "366",
@@ -5225,7 +5225,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-01T18:07:46.238259+00:00"
+    "DateUpdated": "2026-10-02T17:33:58.5765332+00:00"
   },
   {
     "COMPE": "374",

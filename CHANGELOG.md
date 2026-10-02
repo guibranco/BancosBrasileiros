@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-10-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 365 - BINANCE BRASIL - 68.757.681/0001-70
+    - **LongName** (STR): SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A. **->** BINANCE BRASIL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.
+    - **ShortName** (STR): SIMPAUL **->** BINANCE BRASIL
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-10-01 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

@@ -4440,8 +4440,8 @@
     <COMPE>365</COMPE>
     <ISPB>68757681</ISPB>
     <Document>68.757.681/0001-70</Document>
-    <LongName>SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A.</LongName>
-    <ShortName>SIMPAUL</ShortName>
+    <LongName>BINANCE BRASIL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>BINANCE BRASIL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4455,7 +4455,7 @@
     <DateOperationStarted>2020-03-17</DateOperationStarted>
     <DatePixStarted>2024-01-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115408-03:00</DateRegistered>
-    <DateUpdated>2024-01-09T12:06:14.4953628Z</DateUpdated>
+    <DateUpdated>2026-10-02T17:33:57.072572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>366</COMPE>
@@ -4587,7 +4587,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-01T18:07:46.238259Z</DateUpdated>
+    <DateUpdated>2026-10-02T17:33:58.5765332Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
