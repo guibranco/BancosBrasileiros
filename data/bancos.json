@@ -2683,13 +2683,19 @@
     "PCR": true,
     "PCRP": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Cheque Especial",
+      "Consignado",
+      "Pessoal",
+      "Troca de Modalidade",
+      "Veículos"
+    ],
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2017-10-16",
     "DatePixStarted": "2025-03-11 08:08:29",
     "DateRegistered": "2021-05-05T09:11:12.7114527-03:00",
-    "DateUpdated": "2025-03-24T17:11:53.0238038+00:00"
+    "DateUpdated": "2026-10-03T15:50:36.2697643+00:00"
   },
   {
     "COMPE": "191",
@@ -5225,7 +5231,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-02T17:33:58.5765332+00:00"
+    "DateUpdated": "2026-10-03T15:50:36.2767484+00:00"
   },
   {
     "COMPE": "374",

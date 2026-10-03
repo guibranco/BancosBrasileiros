@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-10-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 190 - SERVICOOP - 03.973.814/0001-09
+    - **Products** (CTC): Null **->** Cheque Especial, Consignado, Pessoal, Troca de Modalidade, Veículos
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-10-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks

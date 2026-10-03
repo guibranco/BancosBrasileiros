@@ -2361,12 +2361,19 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Products>
+      <Product>Cheque Especial</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-16</DateOperationStarted>
     <DatePixStarted>2025-03-11 08:08:29</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
-    <DateUpdated>2025-03-24T17:11:53.0238038Z</DateUpdated>
+    <DateUpdated>2026-10-03T15:50:36.2697643Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>191</COMPE>
@@ -4587,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-02T17:33:58.5765332Z</DateUpdated>
+    <DateUpdated>2026-10-03T15:50:36.2767484Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
