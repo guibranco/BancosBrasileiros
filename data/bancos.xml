@@ -4594,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-04T16:32:41.1698573Z</DateUpdated>
+    <DateUpdated>2026-10-06T18:00:59.0183482Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11025,8 +11025,8 @@
     <COMPE>781</COMPE>
     <ISPB>58006471</ISPB>
     <Document>58.006.471/0001-97</Document>
-    <LongName>BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>BARU DTVM LTDA.</ShortName>
+    <LongName>BASE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>BASE DTVM</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -11038,7 +11038,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-04-15</DateOperationStarted>
     <DateRegistered>2026-04-09T12:27:17.5606609Z</DateRegistered>
-    <DateUpdated>2026-04-09T12:27:17.560701Z</DateUpdated>
+    <DateUpdated>2026-10-06T18:00:56.8120503Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>783</COMPE>

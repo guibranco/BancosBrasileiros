@@ -5231,7 +5231,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-04T16:32:41.1698573+00:00"
+    "DateUpdated": "2026-10-06T18:00:59.0183482+00:00"
   },
   {
     "COMPE": "374",
@@ -12658,8 +12658,8 @@
     "COMPE": "781",
     "ISPB": "58006471",
     "Document": "58.006.471/0001-97",
-    "LongName": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "ShortName": "BARU DTVM LTDA.",
+    "LongName": "BASE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "BASE DTVM",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -12676,7 +12676,7 @@
     "DateOperationStarted": "2026-04-15",
     "DatePixStarted": null,
     "DateRegistered": "2026-04-09T12:27:17.5606609+00:00",
-    "DateUpdated": "2026-04-09T12:27:17.560701+00:00"
+    "DateUpdated": "2026-10-06T18:00:56.8120503+00:00"
   },
   {
     "COMPE": "783",
