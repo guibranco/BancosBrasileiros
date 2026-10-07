@@ -1606,11 +1606,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/15114366.png",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7114855-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7233843+00:00"
+    "DateUpdated": "2026-09-16T16:17:21.2639167+00:00"
   },
   {
     "COMPE": "108",
@@ -2317,11 +2317,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/13059145.png",
     "DateOperationStarted": "2016-05-23",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114803-03:00",
-    "DateUpdated": "2026-01-13T18:31:00+00:00"
+    "DateUpdated": "2026-09-16T16:17:21.2635662+00:00"
   },
   {
     "COMPE": "145",
@@ -2683,13 +2683,19 @@
     "PCR": true,
     "PCRP": true,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Cheque Especial",
+      "Consignado",
+      "Pessoal",
+      "Troca de Modalidade",
+      "Veículos"
+    ],
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2017-10-16",
     "DatePixStarted": "2025-03-11 08:08:29",
     "DateRegistered": "2021-05-05T09:11:12.7114527-03:00",
-    "DateUpdated": "2025-03-24T17:11:53.0238038+00:00"
+    "DateUpdated": "2026-10-03T15:50:36.2697643+00:00"
   },
   {
     "COMPE": "191",
@@ -2723,7 +2729,7 @@
     "ShortName": "UNIDA DTVM LTDA",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -2735,9 +2741,9 @@
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2017-10-25",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-09-16 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114926-03:00",
-    "DateUpdated": "2023-09-25T12:28:23.0801983+00:00"
+    "DateUpdated": "2026-09-11T15:59:48.0961684+00:00"
   },
   {
     "COMPE": "195",
@@ -5056,8 +5062,8 @@
     "COMPE": "365",
     "ISPB": "68757681",
     "Document": "68.757.681/0001-70",
-    "LongName": "SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A.",
-    "ShortName": "SIMPAUL",
+    "LongName": "BINANCE BRASIL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.",
+    "ShortName": "BINANCE BRASIL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -5074,7 +5080,7 @@
     "DateOperationStarted": "2020-03-17",
     "DatePixStarted": "2024-01-15 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115408-03:00",
-    "DateUpdated": "2024-01-09T12:06:14.4953628+00:00"
+    "DateUpdated": "2026-10-02T17:33:57.072572+00:00"
   },
   {
     "COMPE": "366",
@@ -5225,7 +5231,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-09-07T17:23:24.0284588+00:00"
+    "DateUpdated": "2026-10-06T18:00:59.0183482+00:00"
   },
   {
     "COMPE": "374",
@@ -7872,8 +7878,8 @@
     "COMPE": "516",
     "ISPB": "36583700",
     "Document": "36.583.700/0001-01",
-    "LongName": "QISTA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
-    "ShortName": "QISTA S.A. CFI",
+    "LongName": "PLACARPAY S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO",
+    "ShortName": "PLACARPAY S.A - SCFI",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -7894,7 +7900,7 @@
     "DateOperationStarted": "2022-10-24",
     "DatePixStarted": null,
     "DateRegistered": "2022-10-21T12:08:38.2728811+00:00",
-    "DateUpdated": "2023-10-21T12:05:56.9602279+00:00"
+    "DateUpdated": "2026-09-22T16:25:54.3676295+00:00"
   },
   {
     "COMPE": "517",
@@ -8487,7 +8493,7 @@
     "LegalCheque": false,
     "DetectaFlow": false,
     "PCR": true,
-    "PCRP": false,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -8495,7 +8501,7 @@
     "DateOperationStarted": "2024-01-08",
     "DatePixStarted": "2025-01-10 11:30:00",
     "DateRegistered": "2024-01-09T12:06:15.138698+00:00",
-    "DateUpdated": "2025-01-04T12:07:02.9553062+00:00"
+    "DateUpdated": "2026-09-22T16:25:56.4077744+00:00"
   },
   {
     "COMPE": "541",
@@ -11153,7 +11159,7 @@
     "ShortName": "BRASIL CASH IP S.A.",
     "Network": "RSFN",
     "Type": null,
-    "PixType": "IDRT",
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -11165,9 +11171,9 @@
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2026-03-25",
-    "DatePixStarted": "2025-11-03 10:32:31",
+    "DatePixStarted": "2026-09-11 10:10:00",
     "DateRegistered": "2026-03-19T12:16:47.6523154+00:00",
-    "DateUpdated": "2026-03-19T12:16:46.5794526+00:00"
+    "DateUpdated": "2026-09-14T17:50:47.6290462+00:00"
   },
   {
     "COMPE": "684",
@@ -11365,8 +11371,8 @@
     "COMPE": "692",
     "ISPB": "56198117",
     "Document": "56.198.117/0001-86",
-    "LongName": "SQUID SOCIEDADE DE CRÉDITO DIRETO S.A.",
-    "ShortName": "SQUID SCD S.A.",
+    "LongName": "ZYDI SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ZYDI",
     "Network": "RSFN",
     "Type": null,
     "PixType": "IDRT",
@@ -11383,7 +11389,7 @@
     "DateOperationStarted": "2025-06-27",
     "DatePixStarted": "2026-04-07 16:36:42",
     "DateRegistered": "2025-06-23T12:09:36.2371877+00:00",
-    "DateUpdated": "2026-04-08T12:24:42.9860316+00:00"
+    "DateUpdated": "2026-09-23T16:15:48.008533+00:00"
   },
   {
     "COMPE": "693",
@@ -11566,8 +11572,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -11575,7 +11581,7 @@
     "DateOperationStarted": "2025-10-21",
     "DatePixStarted": "2025-10-28 09:00:00",
     "DateRegistered": "2025-10-16T12:42:07.4681663+00:00",
-    "DateUpdated": "2025-10-22T12:09:52.9345243+00:00"
+    "DateUpdated": "2026-09-11T15:59:49.1957503+00:00"
   },
   {
     "COMPE": "701",
@@ -12652,8 +12658,8 @@
     "COMPE": "781",
     "ISPB": "58006471",
     "Document": "58.006.471/0001-97",
-    "LongName": "BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
-    "ShortName": "BARU DTVM LTDA.",
+    "LongName": "BASE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.",
+    "ShortName": "BASE DTVM",
     "Network": "Internet",
     "Type": null,
     "PixType": null,
@@ -12670,7 +12676,7 @@
     "DateOperationStarted": "2026-04-15",
     "DatePixStarted": null,
     "DateRegistered": "2026-04-09T12:27:17.5606609+00:00",
-    "DateUpdated": "2026-04-09T12:27:17.560701+00:00"
+    "DateUpdated": "2026-10-06T18:00:56.8120503+00:00"
   },
   {
     "COMPE": "783",
@@ -12877,8 +12883,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -12886,7 +12892,7 @@
     "DateOperationStarted": "2026-02-02",
     "DatePixStarted": "2026-03-05 09:00:00",
     "DateRegistered": "2026-01-27T12:11:33.2913903+00:00",
-    "DateUpdated": "2026-03-03T12:15:27.9355212+00:00"
+    "DateUpdated": "2026-09-11T15:59:49.1984168+00:00"
   },
   {
     "COMPE": "793",
