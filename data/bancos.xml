@@ -2361,12 +2361,19 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR>true</PCR>
     <PCRP>true</PCRP>
+    <Products>
+      <Product>Cheque Especial</Product>
+      <Product>Consignado</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2017-10-16</DateOperationStarted>
     <DatePixStarted>2025-03-11 08:08:29</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114527-03:00</DateRegistered>
-    <DateUpdated>2025-03-24T17:11:53.0238038Z</DateUpdated>
+    <DateUpdated>2026-10-03T15:50:36.2697643Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>191</COMPE>
@@ -4440,8 +4447,8 @@
     <COMPE>365</COMPE>
     <ISPB>68757681</ISPB>
     <Document>68.757.681/0001-70</Document>
-    <LongName>SIMPAUL CORRETORA DE CAMBIO E VALORES MOBILIARIOS  S.A.</LongName>
-    <ShortName>SIMPAUL</ShortName>
+    <LongName>BINANCE BRASIL CORRETORA DE CÂMBIO E VALORES MOBILIÁRIOS S.A.</LongName>
+    <ShortName>BINANCE BRASIL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -4455,7 +4462,7 @@
     <DateOperationStarted>2020-03-17</DateOperationStarted>
     <DatePixStarted>2024-01-15 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115408-03:00</DateRegistered>
-    <DateUpdated>2024-01-09T12:06:14.4953628Z</DateUpdated>
+    <DateUpdated>2026-10-02T17:33:57.072572Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>366</COMPE>
@@ -4587,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-09-22T16:25:56.3579069Z</DateUpdated>
+    <DateUpdated>2026-10-06T18:00:59.0183482Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -9893,8 +9900,8 @@
     <COMPE>692</COMPE>
     <ISPB>56198117</ISPB>
     <Document>56.198.117/0001-86</Document>
-    <LongName>SQUID SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
-    <ShortName>SQUID SCD S.A.</ShortName>
+    <LongName>ZYDI SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ZYDI</ShortName>
     <Network>RSFN</Network>
     <PixType>IDRT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -9908,7 +9915,7 @@
     <DateOperationStarted>2025-06-27</DateOperationStarted>
     <DatePixStarted>2026-04-07 16:36:42</DatePixStarted>
     <DateRegistered>2025-06-23T12:09:36.2371877Z</DateRegistered>
-    <DateUpdated>2026-04-08T12:24:42.9860316Z</DateUpdated>
+    <DateUpdated>2026-09-23T16:15:48.008533Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>693</COMPE>
@@ -11018,8 +11025,8 @@
     <COMPE>781</COMPE>
     <ISPB>58006471</ISPB>
     <Document>58.006.471/0001-97</Document>
-    <LongName>BARU DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
-    <ShortName>BARU DTVM LTDA.</ShortName>
+    <LongName>BASE DISTRIBUIDORA DE TÍTULOS E VALORES MOBILIÁRIOS LTDA.</LongName>
+    <ShortName>BASE DTVM</ShortName>
     <Network>Internet</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -11031,7 +11038,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-04-15</DateOperationStarted>
     <DateRegistered>2026-04-09T12:27:17.5606609Z</DateRegistered>
-    <DateUpdated>2026-04-09T12:27:17.560701Z</DateUpdated>
+    <DateUpdated>2026-10-06T18:00:56.8120503Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>783</COMPE>
