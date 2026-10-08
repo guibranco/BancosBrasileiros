@@ -4,6 +4,15 @@
 
 ## Changelog
 
+### 2026-10-08 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 556 - SAYGO CC S.A. - 40.333.582/0001-42
+    - **LongName** (STR): SAYGO CORRETORA DE CÂMBIO S.A. **->** SAYGO SOCIEDADE CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): SAYGO CÂMBIO **->** SAYGO CC S.A.
+
 ### 2026-10-07 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

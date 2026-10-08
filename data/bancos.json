@@ -5231,7 +5231,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-07T18:32:37.4947292+00:00"
+    "DateUpdated": "2026-10-08T18:31:45.4084956+00:00"
   },
   {
     "COMPE": "374",
@@ -8870,8 +8870,8 @@
     "COMPE": "556",
     "ISPB": "40333582",
     "Document": "40.333.582/0001-42",
-    "LongName": "SAYGO CORRETORA DE CÂMBIO S.A.",
-    "ShortName": "SAYGO CÂMBIO",
+    "LongName": "SAYGO SOCIEDADE CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "SAYGO CC S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8888,7 +8888,7 @@
     "DateOperationStarted": "2023-08-03",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.134755+00:00",
-    "DateUpdated": "2024-10-01T12:08:18.4897466+00:00"
+    "DateUpdated": "2026-10-08T18:31:44.2121288+00:00"
   },
   {
     "COMPE": "557",
