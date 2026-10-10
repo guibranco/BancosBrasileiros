@@ -4,6 +4,21 @@
 
 ## Changelog
 
+### 2026-10-10 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 4 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 597 - ISSUER IP LTDA. - 34.747.388/0001-00
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** True
+  - 681 - MT IP S.A. - 50.871.921/0001-06
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+  - 701 - INTEGRAÇÃO DE CRÉDITO E COBRANÇA SCD - 51.118.615/0001-58
+    - **Pcr** (PCR): Null **->** True
+    - **Pcrp** (PCR): Null **->** False
+
 ### 2026-10-09 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
