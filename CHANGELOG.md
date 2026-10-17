@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-10-17 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 555 - PAN FINAN - 02.682.287/0001-02
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+
 ### 2026-10-16 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank

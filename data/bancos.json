@@ -5231,7 +5231,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-16T16:12:17.1182713+00:00"
+    "DateUpdated": "2026-10-17T15:05:41.3364124+00:00"
   },
   {
     "COMPE": "374",
@@ -8854,7 +8854,7 @@
     "DetectaFlow": false,
     "PCR": null,
     "PCRP": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
       "Troca de Modalidade"
@@ -8864,7 +8864,7 @@
     "DateOperationStarted": null,
     "DatePixStarted": "2026-03-09 15:11:38",
     "DateRegistered": "2023-08-30T15:00:47.667846+00:00",
-    "DateUpdated": "2026-08-20T12:49:46.167115+00:00"
+    "DateUpdated": "2026-10-17T15:05:41.3752097+00:00"
   },
   {
     "COMPE": "556",

@@ -4594,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-16T16:12:17.1182713Z</DateUpdated>
+    <DateUpdated>2026-10-17T15:05:41.3364124Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7720,6 +7720,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
       <Product>Troca de Modalidade</Product>
@@ -7728,7 +7729,7 @@
     <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/02682287.svg</LogoUrl>
     <DatePixStarted>2026-03-09 15:11:38</DatePixStarted>
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
-    <DateUpdated>2026-08-20T12:49:46.167115Z</DateUpdated>
+    <DateUpdated>2026-10-17T15:05:41.3752097Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>556</COMPE>
