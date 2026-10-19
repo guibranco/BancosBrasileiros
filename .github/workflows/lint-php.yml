@@ -11,4 +11,4 @@ jobs:
         steps:
             - uses: actions/checkout@v7
 
-            - uses: michaelw90/PHP-Lint@master
+            - uses: michaelw90/PHP-Lint@2.1.0
