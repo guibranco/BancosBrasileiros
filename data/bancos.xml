@@ -4594,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-07T18:32:37.4947292Z</DateUpdated>
+    <DateUpdated>2026-10-18T15:29:43.1010218Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -7720,6 +7720,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
       <Product>Troca de Modalidade</Product>
@@ -7728,14 +7729,14 @@
     <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/02682287.svg</LogoUrl>
     <DatePixStarted>2026-03-09 15:11:38</DatePixStarted>
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
-    <DateUpdated>2026-08-20T12:49:46.167115Z</DateUpdated>
+    <DateUpdated>2026-10-17T15:05:41.3752097Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>556</COMPE>
     <ISPB>40333582</ISPB>
     <Document>40.333.582/0001-42</Document>
-    <LongName>SAYGO CORRETORA DE CÂMBIO S.A.</LongName>
-    <ShortName>SAYGO CÂMBIO</ShortName>
+    <LongName>SAYGO SOCIEDADE CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>SAYGO CC S.A.</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -7747,7 +7748,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2023-08-03</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.134755Z</DateRegistered>
-    <DateUpdated>2024-10-01T12:08:18.4897466Z</DateUpdated>
+    <DateUpdated>2026-10-08T18:31:44.2121288Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>557</COMPE>
@@ -8554,14 +8555,14 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2024-03-08</DateOperationStarted>
     <DatePixStarted>2024-09-05 10:10:00</DatePixStarted>
     <DateRegistered>2024-03-04T12:10:35.0004133Z</DateRegistered>
-    <DateUpdated>2024-09-06T12:31:46.1754236Z</DateUpdated>
+    <DateUpdated>2026-10-10T17:02:58.0431931Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>598</COMPE>
@@ -9681,14 +9682,14 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-04-10</DateOperationStarted>
     <DatePixStarted>2025-06-10 09:00:00</DatePixStarted>
     <DateRegistered>2025-04-04T12:08:42.9013824Z</DateRegistered>
-    <DateUpdated>2025-06-06T12:09:16.3804336Z</DateUpdated>
+    <DateUpdated>2026-10-10T17:02:58.0452713Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>682</COMPE>
@@ -10091,14 +10092,14 @@
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
     <DetectaFLow>false</DetectaFLow>
-    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCR>true</PCR>
+    <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2025-06-20</DateOperationStarted>
     <DatePixStarted>2026-04-10 09:10:00</DatePixStarted>
     <DateRegistered>2025-06-13T12:09:22.5824913Z</DateRegistered>
-    <DateUpdated>2026-04-11T12:14:50.4318491Z</DateUpdated>
+    <DateUpdated>2026-10-10T17:02:58.041168Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>703</COMPE>
