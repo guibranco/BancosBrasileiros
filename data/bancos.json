@@ -110,11 +110,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bndes.gov.br/wps/portal/site/home",
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33657248.svg",
     "DateOperationStarted": "2014-06-30",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115088-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7328021+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3641646+00:00"
   },
   {
     "COMPE": "010",
@@ -426,11 +426,11 @@
       "Veículos"
     ],
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/03323840.svg",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114509-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7218759+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.36785+00:00"
   },
   {
     "COMPE": "029",
@@ -1760,11 +1760,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": "https://www.bancowesternunion.com.br",
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13720915.svg",
     "DateOperationStarted": "2011-10-10",
     "DatePixStarted": "2023-03-01 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114833-03:00",
-    "DateUpdated": "2023-03-03T14:56:54.2356798+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.362964+00:00"
   },
   {
     "COMPE": "120",
@@ -2875,11 +2875,11 @@
       "Troca de Modalidade"
     ],
     "Url": "https://www.original.com.br",
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/92894922.svg",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115492-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7330701+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3668062+00:00"
   },
   {
     "COMPE": "213",
@@ -2925,11 +2925,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/91884981.png",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115474-03:00",
-    "DateUpdated": "2022-06-23T13:48:15.3495801+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3665018+00:00"
   },
   {
     "COMPE": "218",
@@ -2975,11 +2975,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/75647891.png",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": null,
     "DateRegistered": "2021-05-05T09:11:12.7115434-03:00",
-    "DateUpdated": "2022-07-22T07:49:18.4031082+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3658218+00:00"
   },
   {
     "COMPE": "224",
@@ -3401,11 +3401,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/53518684.svg",
     "DateOperationStarted": "2018-02-07",
     "DatePixStarted": "2022-01-17 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115202-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7299517+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3647362+00:00"
   },
   {
     "COMPE": "270",
@@ -3552,11 +3552,11 @@
       "Consignado"
     ],
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/11970623.png",
     "DateOperationStarted": "2018-06-12",
     "DatePixStarted": "2021-04-16 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114792-03:00",
-    "DateUpdated": "2024-10-18T12:07:53.660978+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3627163+00:00"
   },
   {
     "COMPE": "278",
@@ -5231,7 +5231,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-06T18:00:59.0183482+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3180584+00:00"
   },
   {
     "COMPE": "374",
@@ -7333,11 +7333,11 @@
       "Veículos"
     ],
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10371492.svg",
     "DateOperationStarted": "2022-09-05",
     "DatePixStarted": null,
     "DateRegistered": "2022-09-02T12:07:04.257303+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7383112+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3623639+00:00"
   },
   {
     "COMPE": "476",
@@ -8220,11 +8220,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/17079937.png",
     "DateOperationStarted": "2022-11-16",
     "DatePixStarted": "2023-06-07 09:15:00",
     "DateRegistered": "2022-11-12T12:06:34.2025683+00:00",
-    "DateUpdated": "2024-05-15T16:49:45.7494567+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3631797+00:00"
   },
   {
     "COMPE": "530",
@@ -8279,11 +8279,11 @@
       "Troca de Modalidade"
     ],
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/34337707.svg",
     "DateOperationStarted": "2023-05-22",
     "DatePixStarted": "2025-01-08 08:00:00",
     "DateRegistered": "2023-09-25T12:28:25.1347544+00:00",
-    "DateUpdated": "2024-12-28T12:07:09.7162254+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3643093+00:00"
   },
   {
     "COMPE": "532",
@@ -8833,11 +8833,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/28811341.svg",
     "DateOperationStarted": "2023-07-24",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.1347539+00:00",
-    "DateUpdated": "2026-02-13T12:15:23.8386823+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3638467+00:00"
   },
   {
     "COMPE": "555",
@@ -8854,7 +8854,7 @@
     "DetectaFlow": false,
     "PCR": null,
     "PCRP": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": [
       "Consignado",
       "Troca de Modalidade"
@@ -8864,14 +8864,14 @@
     "DateOperationStarted": null,
     "DatePixStarted": "2026-03-09 15:11:38",
     "DateRegistered": "2023-08-30T15:00:47.667846+00:00",
-    "DateUpdated": "2026-08-20T12:49:46.167115+00:00"
+    "DateUpdated": "2026-10-17T15:05:41.3752097+00:00"
   },
   {
     "COMPE": "556",
     "ISPB": "40333582",
     "Document": "40.333.582/0001-42",
-    "LongName": "SAYGO CORRETORA DE CÂMBIO S.A.",
-    "ShortName": "SAYGO CÂMBIO",
+    "LongName": "SAYGO SOCIEDADE CORRETORA DE CÂMBIO S.A.",
+    "ShortName": "SAYGO CC S.A.",
     "Network": "RSFN",
     "Type": null,
     "PixType": null,
@@ -8888,7 +8888,7 @@
     "DateOperationStarted": "2023-08-03",
     "DatePixStarted": null,
     "DateRegistered": "2023-09-25T12:28:25.134755+00:00",
-    "DateUpdated": "2024-10-01T12:08:18.4897466+00:00"
+    "DateUpdated": "2026-10-08T18:31:44.2121288+00:00"
   },
   {
     "COMPE": "557",
@@ -9754,11 +9754,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/27084098.svg",
     "DateOperationStarted": "2024-05-15",
     "DatePixStarted": "2024-11-04 09:10:00",
     "DateRegistered": "2024-05-09T12:06:38.0035796+00:00",
-    "DateUpdated": "2025-12-08T12:10:16.4468751+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3636991+00:00"
   },
   {
     "COMPE": "594",
@@ -9845,8 +9845,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": true,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -9854,7 +9854,7 @@
     "DateOperationStarted": "2024-03-08",
     "DatePixStarted": "2024-09-05 10:10:00",
     "DateRegistered": "2024-03-04T12:10:35.0004133+00:00",
-    "DateUpdated": "2024-09-06T12:31:46.1754236+00:00"
+    "DateUpdated": "2026-10-10T17:02:58.0431931+00:00"
   },
   {
     "COMPE": "598",
@@ -10319,11 +10319,11 @@
       "Troca de Modalidade"
     ],
     "Url": "https://www.tribanco.com.br",
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/17351180.svg",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114888-03:00",
-    "DateUpdated": "2024-12-10T12:09:00.3599462+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3633253+00:00"
   },
   {
     "COMPE": "636",
@@ -10554,11 +10554,11 @@
       "Veículos"
     ],
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/92874270.svg",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115485-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7275492+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3666838+00:00"
   },
   {
     "COMPE": "655",
@@ -11116,8 +11116,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -11125,7 +11125,7 @@
     "DateOperationStarted": "2025-04-10",
     "DatePixStarted": "2025-06-10 09:00:00",
     "DateRegistered": "2025-04-04T12:08:42.9013824+00:00",
-    "DateUpdated": "2025-06-06T12:09:16.3804336+00:00"
+    "DateUpdated": "2026-10-10T17:02:58.0452713+00:00"
   },
   {
     "COMPE": "682",
@@ -11596,8 +11596,8 @@
     "CreditDocument": null,
     "LegalCheque": false,
     "DetectaFlow": false,
-    "PCR": null,
-    "PCRP": null,
+    "PCR": true,
+    "PCRP": false,
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
@@ -11605,7 +11605,7 @@
     "DateOperationStarted": "2025-06-20",
     "DatePixStarted": "2026-04-10 09:10:00",
     "DateRegistered": "2025-06-13T12:09:22.5824913+00:00",
-    "DateUpdated": "2026-04-11T12:14:50.4318491+00:00"
+    "DateUpdated": "2026-10-10T17:02:58.041168+00:00"
   },
   {
     "COMPE": "703",
@@ -11682,11 +11682,11 @@
       "Veículos"
     ],
     "Url": "https://www.daycoval.com.br",
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/62232889.svg",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7115338-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7268243+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3653263+00:00"
   },
   {
     "COMPE": "708",
@@ -12057,11 +12057,11 @@
       "veículos"
     ],
     "Url": "https://www.bnpparibas.com.br",
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/01522368.svg",
     "DateOperationStarted": "2002-04-22",
     "DatePixStarted": "2024-06-24 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7114435-03:00",
-    "DateUpdated": "2024-05-15T16:49:45.7231463+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3671949+00:00"
   },
   {
     "COMPE": "753",
@@ -12134,11 +12134,11 @@
       "Troca de Modalidade"
     ],
     "Url": "https://www.ml.com",
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/62073200.png",
     "DateOperationStarted": "2007-11-09",
     "DatePixStarted": "2023-01-23 09:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115324-03:00",
-    "DateUpdated": "2025-02-27T12:08:45.8426042+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3652004+00:00"
   },
   {
     "COMPE": "756",
@@ -12312,11 +12312,11 @@
     "SalaryPortability": null,
     "Products": null,
     "Url": null,
-    "LogoUrl": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/56106523.png",
     "DateOperationStarted": "2025-07-28",
     "DatePixStarted": "2026-05-26 10:00:00",
     "DateRegistered": "2025-07-22T12:09:54.9911786+00:00",
-    "DateUpdated": "2026-05-22T12:55:15.2117731+00:00"
+    "DateUpdated": "2026-10-19T18:25:36.3649402+00:00"
   },
   {
     "COMPE": "764",
