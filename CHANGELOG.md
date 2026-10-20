@@ -4,6 +4,50 @@
 
 ## Changelog
 
+### 2026-10-19 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 20 banks
+  - 7 - BNDES - 33.657.248/0001-89
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33657248.svg
+  - 25 - BCO ALFA S.A. - 03.323.840/0001-83
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/03323840.svg
+  - 119 - BCO WESTERN UNION - 13.720.915/0001-13
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13720915.svg
+  - 212 - BANCO ORIGINAL - 92.894.922/0001-08
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/92894922.svg
+  - 217 - BANCO JOHN DEERE S.A. - 91.884.981/0001-32
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/91884981.png
+  - 222 - BCO CRÉDIT AGRICOLE BR S.A. - 75.647.891/0001-71
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/75647891.png
+  - 269 - BCO HSBC S.A. - 53.518.684/0001-84
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/53518684.svg
+  - 276 - BCO SENFF S.A. - 11.970.623/0001-03
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/11970623.png
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 475 - BCO YAMAHA MOTOR S.A. - 10.371.492/0001-85
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10371492.svg
+  - 529 - PINBANK IP - 17.079.937/0001-05
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/17079937.png
+  - 531 - BMP SCD S.A. - 34.337.707/0001-00
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/34337707.svg
+  - 554 - BCO STONEX S.A. - 28.811.341/0001-66
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/28811341.svg
+  - 593 - TRANSFEERA IP S.A. - 27.084.098/0001-69
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/27084098.svg
+  - 634 - BCO TRIANGULO S.A. - 17.351.180/0001-59
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/17351180.svg
+  - 654 - BCO DIGIMAIS S.A. - 92.874.270/0001-40
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/92874270.svg
+  - 707 - BCO DAYCOVAL S.A - 62.232.889/0001-90
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/62232889.svg
+  - 752 - BCO BNP PARIBAS BRASIL S A - 01.522.368/0001-82
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/01522368.svg
+  - 755 - BOFA MERRILL LYNCH BM S.A. - 62.073.200/0001-21
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/62073200.png
+  - 763 - VUE IP S.A. - 56.106.523/0001-71
+    - **LogoUrl** (LogosBancosBr): Null **->** https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/56106523.png
+
 ### 2026-10-18 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
