@@ -4594,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-20T16:27:46.6289322Z</DateUpdated>
+    <DateUpdated>2026-10-21T16:44:22.2137541Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10906,8 +10906,8 @@
     <COMPE>772</COMPE>
     <ISPB>20833992</ISPB>
     <Document>20.833.992/0001-45</Document>
-    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA</LongName>
-    <ShortName>CC MECUNP</ShortName>
+    <LongName>COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>CC MECUNP - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -10921,7 +10921,7 @@
     <DateOperationStarted>2025-09-22</DateOperationStarted>
     <DatePixStarted>2025-12-03 10:00:00</DatePixStarted>
     <DateRegistered>2025-09-16T12:09:42.5446455Z</DateRegistered>
-    <DateUpdated>2025-12-01T12:10:26.1249014Z</DateUpdated>
+    <DateUpdated>2026-10-21T16:44:20.3649311Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>773</COMPE>
