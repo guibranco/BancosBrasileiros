@@ -106,10 +106,10 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <Url>https://www.bndes.gov.br/wps/portal/site/home</Url>
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/33657248.svg</LogoUrl>
     <DateOperationStarted>2014-06-30</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115088-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7328021Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3641646Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>010</COMPE>
@@ -386,11 +386,11 @@
       <Product>Veículos</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/03323840.svg</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114509-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7218759Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.36785Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>029</COMPE>
@@ -1577,11 +1577,11 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url>https://www.bancowesternunion.com.br</Url>
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/13720915.svg</LogoUrl>
     <DateOperationStarted>2011-10-10</DateOperationStarted>
     <DatePixStarted>2023-03-01 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114833-03:00</DateRegistered>
-    <DateUpdated>2023-03-03T14:56:54.2356798Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.362964Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>120</COMPE>
@@ -2533,11 +2533,11 @@
       <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.original.com.br</Url>
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/92894922.svg</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115492-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7330701Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3668062Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>213</COMPE>
@@ -2580,10 +2580,10 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/91884981.png</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115474-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:15.3495801Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3665018Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>218</COMPE>
@@ -2626,10 +2626,10 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/75647891.png</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7115434-03:00</DateRegistered>
-    <DateUpdated>2022-07-22T07:49:18.4031082Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3658218Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>224</COMPE>
@@ -3003,11 +3003,11 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/53518684.svg</LogoUrl>
     <DateOperationStarted>2018-02-07</DateOperationStarted>
     <DatePixStarted>2022-01-17 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115202-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7299517Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3647362Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>270</COMPE>
@@ -3135,11 +3135,11 @@
       <Product>Consignado</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/11970623.png</LogoUrl>
     <DateOperationStarted>2018-06-12</DateOperationStarted>
     <DatePixStarted>2021-04-16 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114792-03:00</DateRegistered>
-    <DateUpdated>2024-10-18T12:07:53.660978Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3627163Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>278</COMPE>
@@ -4594,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-13T18:57:33.9138849Z</DateUpdated>
+    <DateUpdated>2026-10-20T16:27:46.6289322Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -6430,10 +6430,10 @@
       <Product>Veículos</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10371492.svg</LogoUrl>
     <DateOperationStarted>2022-09-05</DateOperationStarted>
     <DateRegistered>2022-09-02T12:07:04.257303Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7383112Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3623639Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>476</COMPE>
@@ -7181,11 +7181,11 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/17079937.png</LogoUrl>
     <DateOperationStarted>2022-11-16</DateOperationStarted>
     <DatePixStarted>2023-06-07 09:15:00</DatePixStarted>
     <DateRegistered>2022-11-12T12:06:34.2025683Z</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7494567Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3631797Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>530</COMPE>
@@ -7236,11 +7236,11 @@
       <Product>Troca de Modalidade</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/34337707.svg</LogoUrl>
     <DateOperationStarted>2023-05-22</DateOperationStarted>
     <DatePixStarted>2025-01-08 08:00:00</DatePixStarted>
     <DateRegistered>2023-09-25T12:28:25.1347544Z</DateRegistered>
-    <DateUpdated>2024-12-28T12:07:09.7162254Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3643093Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>532</COMPE>
@@ -7702,10 +7702,10 @@
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/28811341.svg</LogoUrl>
     <DateOperationStarted>2023-07-24</DateOperationStarted>
     <DateRegistered>2023-09-25T12:28:25.1347539Z</DateRegistered>
-    <DateUpdated>2026-02-13T12:15:23.8386823Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3638467Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>555</COMPE>
@@ -7720,6 +7720,7 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <SalaryPortability>Banco folha e Destinatário</SalaryPortability>
     <Products>
       <Product>Consignado</Product>
       <Product>Troca de Modalidade</Product>
@@ -7728,7 +7729,7 @@
     <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/02682287.svg</LogoUrl>
     <DatePixStarted>2026-03-09 15:11:38</DatePixStarted>
     <DateRegistered>2023-08-30T15:00:47.667846Z</DateRegistered>
-    <DateUpdated>2026-08-20T12:49:46.167115Z</DateUpdated>
+    <DateUpdated>2026-10-17T15:05:41.3752097Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>556</COMPE>
@@ -8473,11 +8474,11 @@
     <PCR>true</PCR>
     <PCRP>false</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/27084098.svg</LogoUrl>
     <DateOperationStarted>2024-05-15</DateOperationStarted>
     <DatePixStarted>2024-11-04 09:10:00</DatePixStarted>
     <DateRegistered>2024-05-09T12:06:38.0035796Z</DateRegistered>
-    <DateUpdated>2025-12-08T12:10:16.4468751Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3636991Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>594</COMPE>
@@ -8987,11 +8988,11 @@
       <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.tribanco.com.br</Url>
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/17351180.svg</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114888-03:00</DateRegistered>
-    <DateUpdated>2024-12-10T12:09:00.3599462Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3633253Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>636</COMPE>
@@ -9197,11 +9198,11 @@
       <Product>Veículos</Product>
     </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/92874270.svg</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115485-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7275492Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3666838Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>655</COMPE>
@@ -10164,11 +10165,11 @@
       <Product>Veículos</Product>
     </Products>
     <Url>https://www.daycoval.com.br</Url>
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/62232889.svg</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2020-11-03 06:30:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115338-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7268243Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3653263Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>708</COMPE>
@@ -10505,11 +10506,11 @@
       <Product>veículos</Product>
     </Products>
     <Url>https://www.bnpparibas.com.br</Url>
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/01522368.svg</LogoUrl>
     <DateOperationStarted>2002-04-22</DateOperationStarted>
     <DatePixStarted>2024-06-24 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7114435-03:00</DateRegistered>
-    <DateUpdated>2024-05-15T16:49:45.7231463Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3671949Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>753</COMPE>
@@ -10576,11 +10577,11 @@
       <Product>Troca de Modalidade</Product>
     </Products>
     <Url>https://www.ml.com</Url>
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/62073200.png</LogoUrl>
     <DateOperationStarted>2007-11-09</DateOperationStarted>
     <DatePixStarted>2023-01-23 09:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115324-03:00</DateRegistered>
-    <DateUpdated>2025-02-27T12:08:45.8426042Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3652004Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>756</COMPE>
@@ -10731,11 +10732,11 @@
     <PCR>true</PCR>
     <PCRP>true</PCRP>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
-    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/png/56106523.png</LogoUrl>
     <DateOperationStarted>2025-07-28</DateOperationStarted>
     <DatePixStarted>2026-05-26 10:00:00</DatePixStarted>
     <DateRegistered>2025-07-22T12:09:54.9911786Z</DateRegistered>
-    <DateUpdated>2026-05-22T12:55:15.2117731Z</DateUpdated>
+    <DateUpdated>2026-10-19T18:25:36.3649402Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>764</COMPE>
