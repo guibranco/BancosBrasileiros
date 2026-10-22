@@ -4594,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-21T16:44:22.2137541Z</DateUpdated>
+    <DateUpdated>2026-10-22T16:44:53.6853848Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11280,6 +11280,27 @@
     <DateOperationStarted>2026-05-11</DateOperationStarted>
     <DateRegistered>2026-05-05T12:31:13.820508Z</DateRegistered>
     <DateUpdated>2026-05-05T12:31:13.8205619Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>803</COMPE>
+    <ISPB>25021356</ISPB>
+    <Document>25.021.356/0001-32</Document>
+    <LongName>DLOCAL BRASIL INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>DLOCAL BRASIL IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/25021356.svg</LogoUrl>
+    <DateOperationStarted>2026-10-22</DateOperationStarted>
+    <DatePixStarted>2025-07-10 10:10:00</DatePixStarted>
+    <DateRegistered>2026-10-22T16:44:53.7320739Z</DateRegistered>
+    <DateUpdated>2026-10-22T16:44:53.7236093Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>804</COMPE>
