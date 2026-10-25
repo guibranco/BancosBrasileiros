@@ -5231,7 +5231,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-20T16:27:46.6289322+00:00"
+    "DateUpdated": "2026-10-24T15:30:19.3395497+00:00"
   },
   {
     "COMPE": "374",
@@ -12514,8 +12514,8 @@
     "COMPE": "772",
     "ISPB": "20833992",
     "Document": "20.833.992/0001-45",
-    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA",
-    "ShortName": "CC MECUNP",
+    "LongName": "COOPERATIVA DE CRÉDITO MÚTUO DOS EMPREGADOS DO CENTRO UNIVERSITÁRIO NEWTON PAIVA LTDA. - CREDIPAIVA - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "CC MECUNP - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -12532,7 +12532,7 @@
     "DateOperationStarted": "2025-09-22",
     "DatePixStarted": "2025-12-03 10:00:00",
     "DateRegistered": "2025-09-16T12:09:42.5446455+00:00",
-    "DateUpdated": "2025-12-01T12:10:26.1249014+00:00"
+    "DateUpdated": "2026-10-21T16:44:20.3649311+00:00"
   },
   {
     "COMPE": "773",
@@ -12965,6 +12965,30 @@
     "DatePixStarted": null,
     "DateRegistered": "2026-05-05T12:31:13.820508+00:00",
     "DateUpdated": "2026-05-05T12:31:13.8205619+00:00"
+  },
+  {
+    "COMPE": "803",
+    "ISPB": "25021356",
+    "Document": "25.021.356/0001-32",
+    "LongName": "DLOCAL BRASIL INSTITUIÇÃO DE PAGAMENTO S.A.",
+    "ShortName": "DLOCAL BRASIL IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/25021356.svg",
+    "DateOperationStarted": "2026-10-22",
+    "DatePixStarted": "2025-07-10 10:10:00",
+    "DateRegistered": "2026-10-22T16:44:53.7320739+00:00",
+    "DateUpdated": "2026-10-22T16:44:53.7236093+00:00"
   },
   {
     "COMPE": "804",
