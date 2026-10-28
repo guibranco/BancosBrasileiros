@@ -4594,7 +4594,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-27T17:35:08.2545347Z</DateUpdated>
+    <DateUpdated>2026-10-28T17:57:50.2206601Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11322,5 +11322,24 @@
     <DatePixStarted>2024-07-25 19:15:01</DatePixStarted>
     <DateRegistered>2026-08-24T12:50:21.2138687Z</DateRegistered>
     <DateUpdated>2026-08-24T12:50:20.262336Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>805</COMPE>
+    <ISPB>38486817</ISPB>
+    <Document>38.486.817/0001-94</Document>
+    <LongName>BANCO DE DESENVOLVIMENTO DE MINAS GERAIS S.A.-BDMG</LongName>
+    <ShortName>BCO DES. DE MG S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-03</DateOperationStarted>
+    <DateRegistered>2026-10-28T17:57:50.2469866Z</DateRegistered>
+    <DateUpdated>2026-10-28T17:57:50.246997Z</DateUpdated>
   </bank>
 </banks>
