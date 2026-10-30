@@ -3,26 +3,54 @@ name: Codacy Security Scan
 on:
     push:
         branches:
-            - '!dependabot/**'
+            - main
     pull_request:
     schedule:
         - cron: '30 18 * * 2'
 
+permissions:
+    contents: read
+
 jobs:
     codacy-security-scan:
-        name: Codacy Security Scan
+        name: Codacy Security Scan (${{ matrix.tool }})
         runs-on: ubuntu-latest
+
+        permissions:
+            contents: read
+            security-events: write
+            actions: read
+
+        strategy:
+            fail-fast: false
+            matrix:
+                # One job per tool: GitHub code scanning no longer accepts a single SARIF file that
+                # bundles several runs under the same category, so each tool produces and uploads
+                # its own SARIF file under its own category. PMD is left out: it runs once per
+                # language it supports, so even alone it emits several runs in one SARIF file
+                # (and it has never reported an issue in this repository).
+                tool:
+                    - bandit
+                    - detekt
+                    - jacksonlinter
+                    - phpmd
+                    - prospector
+                    - pylintpython3
+                    - sonarcsharp
+                    - SQLint
+                    - tsqllint
 
         steps:
             - name: Checkout code
               uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
-            - name: Run Codacy Analysis CLI
+            - name: Run Codacy Analysis CLI (${{ matrix.tool }})
               uses: codacy/codacy-analysis-cli-action@562ee3e92b8e92df8b67e0a5ff8aa8e261919c08 # v4.4.7
               with:
                   project-token: ${{ secrets.CODACY_PROJECT_TOKEN }}
+                  tool: ${{ matrix.tool }}
                   verbose: true
-                  output: results.sarif
+                  output: results-${{ matrix.tool }}.sarif
                   format: sarif
                   gh-code-scanning-compat: true
                   max-allowed-issues: 2147483647
@@ -30,4 +58,5 @@ jobs:
             - name: Upload SARIF results file
               uses: github/codeql-action/upload-sarif@2892aa5e19bbd11bc0cff5427e3b750a04d9e3c2 # v4
               with:
-                  sarif_file: results.sarif
+                  sarif_file: results-${{ matrix.tool }}.sarif
+                  category: codacy-${{ matrix.tool }}

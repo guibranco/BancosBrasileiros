@@ -3389,8 +3389,8 @@
     <COMPE>296</COMPE>
     <ISPB>04062902</ISPB>
     <Document>04.062.902/0001-03</Document>
-    <LongName>OZ CORRETORA DE CÂMBIO S.A.</LongName>
-    <ShortName>OZ CORRETORA DE CÂMBIO S.A.</ShortName>
+    <LongName>OZ SOCIEDADE CORRETORA DE CÂMBIO S.A.</LongName>
+    <ShortName>OZ CÂMBIO</ShortName>
     <Network>RSFN</Network>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -3402,7 +3402,7 @@
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2019-02-11</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114531-03:00</DateRegistered>
-    <DateUpdated>2022-06-23T13:48:13.517057Z</DateUpdated>
+    <DateUpdated>2026-10-30T17:46:19.3830312Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>298</COMPE>
@@ -3886,11 +3886,20 @@
     <DetectaFLow>false</DetectaFLow>
     <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Products>
+      <Product>Capital de Giro</Product>
+      <Product>Cheque Especial</Product>
+      <Product>Consignado</Product>
+      <Product>Outros Créditos</Product>
+      <Product>Pessoal</Product>
+      <Product>Troca de Modalidade</Product>
+      <Product>Veículos</Product>
+    </Products>
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2021-03-22</DateOperationStarted>
     <DateRegistered>2021-05-05T09:11:12.7114602-03:00</DateRegistered>
-    <DateUpdated>2023-09-25T12:28:23.0775588Z</DateUpdated>
+    <DateUpdated>2026-10-30T17:46:20.552208Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>329</COMPE>
@@ -4594,7 +4603,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-10-27T17:35:08.2545347Z</DateUpdated>
+    <DateUpdated>2026-10-30T17:46:20.5676883Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10063,8 +10072,8 @@
     <COMPE>700</COMPE>
     <ISPB>53822116</ISPB>
     <Document>53.822.116/0001-72</Document>
-    <LongName>MW INSTITUICAO DE PAGAMENTO LTDA</LongName>
-    <ShortName>MW IP LTDA.</ShortName>
+    <LongName>MW INSTITUICAO DE PAGAMENTO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL</LongName>
+    <ShortName>MW IP LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL</ShortName>
     <Network>RSFN</Network>
     <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
@@ -10078,7 +10087,7 @@
     <DateOperationStarted>2025-10-21</DateOperationStarted>
     <DatePixStarted>2025-10-28 09:00:00</DatePixStarted>
     <DateRegistered>2025-10-16T12:42:07.4681663Z</DateRegistered>
-    <DateUpdated>2026-09-11T15:59:49.1957503Z</DateUpdated>
+    <DateUpdated>2026-10-30T17:46:19.3866469Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>701</COMPE>
@@ -11309,7 +11318,7 @@
     <LongName>MÊNTORE INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
     <ShortName>MÊNTORE IP S.A.</ShortName>
     <Network>RSFN</Network>
-    <PixType>IDRT</PixType>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -11319,8 +11328,27 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <DateOperationStarted>2026-08-24</DateOperationStarted>
-    <DatePixStarted>2024-07-25 19:15:01</DatePixStarted>
+    <DatePixStarted>2026-10-29 10:10:00</DatePixStarted>
     <DateRegistered>2026-08-24T12:50:21.2138687Z</DateRegistered>
-    <DateUpdated>2026-08-24T12:50:20.262336Z</DateUpdated>
+    <DateUpdated>2026-10-30T17:46:20.0496807Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>805</COMPE>
+    <ISPB>38486817</ISPB>
+    <Document>38.486.817/0001-94</Document>
+    <LongName>BANCO DE DESENVOLVIMENTO DE MINAS GERAIS S.A.-BDMG</LongName>
+    <ShortName>BCO DES. DE MG S.A.</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-03</DateOperationStarted>
+    <DateRegistered>2026-10-28T17:57:50.2469866Z</DateRegistered>
+    <DateUpdated>2026-10-28T17:57:50.246997Z</DateUpdated>
   </bank>
 </banks>

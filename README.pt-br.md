@@ -214,12 +214,21 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/claude">
+                    <img src="https://avatars.githubusercontent.com/u/81847?v=4" width="100;" alt="claude"/>
+                    <br />
+                    <sub><b>Claude</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/vduggen">
                     <img src="https://avatars.githubusercontent.com/u/53385727?v=4" width="100;" alt="vduggen"/>
                     <br />
                     <sub><b>Vitor Duggen</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/rodrigondec">
                     <img src="https://avatars.githubusercontent.com/u/3301060?v=4" width="100;" alt="rodrigondec"/>
@@ -227,8 +236,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Rodrigo Castro</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/luisccf">
                     <img src="https://avatars.githubusercontent.com/u/14101365?v=4" width="100;" alt="luisccf"/>
@@ -264,6 +271,8 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Maurici Dmarco</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/mvanhorn">
                     <img src="https://avatars.githubusercontent.com/u/455140?v=4" width="100;" alt="mvanhorn"/>
@@ -271,8 +280,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Matt Van Horn</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/leogregianin">
                     <img src="https://avatars.githubusercontent.com/u/1684053?v=4" width="100;" alt="leogregianin"/>
@@ -308,6 +315,8 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Guillermo Bueno Vargas</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/pferreirafabricio">
                     <img src="https://avatars.githubusercontent.com/u/42717522?v=4" width="100;" alt="pferreirafabricio"/>
@@ -315,8 +324,6 @@ Veja nosso [registro de alterações](/CHANGELOG.md) completo para um histórico
                     <sub><b>Fabrício Pinto Ferreira</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Erick-Bueno">
                     <img src="https://avatars.githubusercontent.com/u/101439440?v=4" width="100;" alt="Erick-Bueno"/>
