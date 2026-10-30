@@ -26,13 +26,14 @@ jobs:
             matrix:
                 # One job per tool: GitHub code scanning no longer accepts a single SARIF file that
                 # bundles several runs under the same category, so each tool produces and uploads
-                # its own SARIF file under its own category.
+                # its own SARIF file under its own category. PMD is left out: it runs once per
+                # language it supports, so even alone it emits several runs in one SARIF file
+                # (and it has never reported an issue in this repository).
                 tool:
                     - bandit
                     - detekt
                     - jacksonlinter
                     - phpmd
-                    - pmd
                     - prospector
                     - pylintpython3
                     - sonarcsharp
