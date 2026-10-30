@@ -1,0 +1,3 @@
+# Infisical secrets-scan fingerprints to ignore (format: commit:file:rule:line)
+# appveyor.yml @ 2020 commit — a GITHUB_TOKEN environment-variable reference inside a git credential line, not a real credential
+25e388a9bcf0b7f5b2573f9d875d1301500d676a:appveyor.yml:generic-credential-uri:20
