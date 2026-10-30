@@ -4,6 +4,61 @@
 
 ## Changelog
 
+### 2026-10-30 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 5 banks
+  - 296 - OZ CÂMBIO - 04.062.902/0001-03
+    - **LongName** (STR): OZ CORRETORA DE CÂMBIO S.A. **->** OZ SOCIEDADE CORRETORA DE CÂMBIO S.A.
+    - **ShortName** (STR): OZ CORRETORA DE CÂMBIO S.A. **->** OZ CÂMBIO
+  - 328 - CECM FABRIC CALÇADOS SAPIRANGA - 05.841.967/0001-10
+    - **Products** (CTC): Null **->** Capital de Giro, Cheque Especial, Consignado, Outros Créditos, Pessoal, Troca de Modalidade, Veículos
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 700 - MW IP LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL - 53.822.116/0001-72
+    - **LongName** (STR): MW INSTITUICAO DE PAGAMENTO LTDA **->** MW INSTITUICAO DE PAGAMENTO LTDA - EM LIQUIDAÇÃO EXTRAJUDICIAL
+    - **ShortName** (STR): MW IP LTDA. **->** MW IP LTDA. - EM LIQUIDAÇÃO EXTRAJUDICIAL
+  - 804 - MÊNTORE IP S.A. - 32.343.119/0001-53
+    - **PixType** (SPI): IDRT **->** DRCT
+    - **DatePixStarted** (SPI): 2024-07-25 19:15:01 **->** 2026-10-29 10:10:00
+
+### 2026-10-29 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
+### 2026-10-28 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Added 1 bank
+  - 805 - BCO DES. DE MG S.A. - 38.486.817/0001-94
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
+### 2026-10-27 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
+### 2026-10-26 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
+### 2026-10-25 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
+### 2026-10-24 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-10-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
