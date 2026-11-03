@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-11-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 273 - COOP SULCREDI AMPLEA - 08.253.539/0001-64
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-11-02 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 1 bank
