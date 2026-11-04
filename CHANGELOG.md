@@ -4,6 +4,16 @@
 
 ## Changelog
 
+### 2026-11-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 3 banks
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+  - 452 - CREDIFIT SCD S.A. - 39.676.772/0001-83
+    - **Products** (CTC): Null **->** Consignado, Pessoal, Troca de Modalidade
+  - 563 - PROTEGE CASH - 40.276.692/0001-10
+    - **SalaryPortability** (PCPS): Null **->** Banco folha e Destinatário
+
 ### 2026-11-03 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 2 banks
