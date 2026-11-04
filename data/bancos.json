@@ -3494,14 +3494,14 @@
     "DetectaFlow": false,
     "PCR": true,
     "PCRP": true,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2018-04-24",
     "DatePixStarted": "2020-11-03 06:30:00",
     "DateRegistered": "2021-05-05T09:11:12.7114649-03:00",
-    "DateUpdated": "2026-09-01T16:10:26.8296151+00:00"
+    "DateUpdated": "2026-11-03T19:09:42.9262992+00:00"
   },
   {
     "COMPE": "274",
@@ -5239,7 +5239,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-10-30T17:46:20.5676883+00:00"
+    "DateUpdated": "2026-11-03T19:09:42.8832336+00:00"
   },
   {
     "COMPE": "374",
