@@ -4,6 +4,14 @@
 
 ## Changelog
 
+### 2026-11-05 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
+- Updated 2 banks
+  - 364 - EFÍ S.A. - IP - 09.089.356/0001-18
+    - **Pcrp** (PCR): False **->** True
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
 ### 2026-11-04 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
 - Updated 3 banks
