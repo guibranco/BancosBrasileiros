@@ -5239,7 +5239,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-11-03T19:09:42.8832336+00:00"
+    "DateUpdated": "2026-11-04T19:26:57.9697754+00:00"
   },
   {
     "COMPE": "374",
@@ -6873,13 +6873,17 @@
     "PCR": null,
     "PCRP": null,
     "SalaryPortability": null,
-    "Products": null,
+    "Products": [
+      "Consignado",
+      "Pessoal",
+      "Troca de Modalidade"
+    ],
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2021-09-15",
     "DatePixStarted": "2023-04-03 11:00:00",
     "DateRegistered": "2021-09-13T19:08:16.9817378-03:00",
-    "DateUpdated": "2023-03-29T12:07:06.886751+00:00"
+    "DateUpdated": "2026-11-04T19:26:57.9540738+00:00"
   },
   {
     "COMPE": "454",
@@ -9057,14 +9061,14 @@
     "DetectaFlow": false,
     "PCR": null,
     "PCRP": null,
-    "SalaryPortability": null,
+    "SalaryPortability": "Banco folha e Destinatário",
     "Products": null,
     "Url": null,
     "LogoUrl": null,
     "DateOperationStarted": "2023-09-18",
     "DatePixStarted": "2025-02-10 10:43:14",
     "DateRegistered": "2023-09-25T12:28:25.1347548+00:00",
-    "DateUpdated": "2025-02-11T12:08:29.5215389+00:00"
+    "DateUpdated": "2026-11-04T19:26:58.0020128+00:00"
   },
   {
     "COMPE": "564",
