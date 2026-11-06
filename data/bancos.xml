@@ -112,6 +112,27 @@
     <DateUpdated>2026-10-19T18:25:36.3641646Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>009</COMPE>
+    <ISPB>00394460</ISPB>
+    <Document>00.394.460/0001-41</Document>
+    <LongName>Secretaria do Tesouro Nacional - STN</LongName>
+    <ShortName>STN</ShortName>
+    <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2002-04-22</DateOperationStarted>
+    <DatePixStarted>2020-11-11 06:30:00</DatePixStarted>
+    <DateRegistered>2026-11-06T18:58:06.2702293Z</DateRegistered>
+    <DateUpdated>2026-11-06T18:58:05.250091Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>010</COMPE>
     <ISPB>81723108</ISPB>
     <Document>81.723.108/0001-04</Document>
@@ -4604,7 +4625,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-11-05T19:36:48.7158769Z</DateUpdated>
+    <DateUpdated>2026-11-06T18:58:06.2456926Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>

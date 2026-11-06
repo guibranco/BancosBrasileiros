@@ -117,6 +117,30 @@
     "DateUpdated": "2026-10-19T18:25:36.3641646+00:00"
   },
   {
+    "COMPE": "009",
+    "ISPB": "00394460",
+    "Document": "00.394.460/0001-41",
+    "LongName": "Secretaria do Tesouro Nacional - STN",
+    "ShortName": "STN",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "DRCT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": null,
+    "DateOperationStarted": "2002-04-22",
+    "DatePixStarted": "2020-11-11 06:30:00",
+    "DateRegistered": "2026-11-06T18:58:06.2702293+00:00",
+    "DateUpdated": "2026-11-06T18:58:05.250091+00:00"
+  },
+  {
     "COMPE": "010",
     "ISPB": "81723108",
     "Document": "81.723.108/0001-04",
@@ -5239,7 +5263,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-11-05T19:36:48.7158769+00:00"
+    "DateUpdated": "2026-11-06T18:58:06.2456926+00:00"
   },
   {
     "COMPE": "374",
