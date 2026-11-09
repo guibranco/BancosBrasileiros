@@ -12,14 +12,14 @@ jobs:
 
         steps:
             - name: Contribute List
-              uses: guibranco/github-contributors-readme-action@ee43b29920fefad71276c2428fb3297f2914066a # v2.3.12
+              uses: guibranco/github-contributors-readme-action@1340204dabb6d94dba64819a748961155b19b751 # v2.3.12
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
                   readme_path: README.md
 
             - name: Contribute List
-              uses: guibranco/github-contributors-readme-action@ee43b29920fefad71276c2428fb3297f2914066a # v2.3.12
+              uses: guibranco/github-contributors-readme-action@1340204dabb6d94dba64819a748961155b19b751 # v2.3.12
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
