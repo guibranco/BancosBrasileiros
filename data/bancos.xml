@@ -4625,7 +4625,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-11-08T17:41:45.555381Z</DateUpdated>
+    <DateUpdated>2026-11-09T21:59:31.8593167Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -10145,6 +10145,7 @@
     <LongName>GETNET ADQUIRÊNCIA E SERVIÇOS PARA MEIOS DE PAGAMENTO S.A. INSTITUIÇÃO DE PAGAMENTO</LongName>
     <ShortName>GETNET IP</ShortName>
     <Network>RSFN</Network>
+    <PixType>DRCT</PixType>
     <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LegalCheque>false</LegalCheque>
@@ -10154,8 +10155,9 @@
     <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
     <LogoUrl>https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10440482.svg</LogoUrl>
     <DateOperationStarted>2025-08-13</DateOperationStarted>
+    <DatePixStarted>2026-11-12 10:00:00</DatePixStarted>
     <DateRegistered>2025-08-07T12:10:40.5358274Z</DateRegistered>
-    <DateUpdated>2026-08-20T12:49:46.1588426Z</DateUpdated>
+    <DateUpdated>2026-11-09T21:59:30.9821852Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>704</COMPE>
