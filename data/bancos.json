@@ -5263,7 +5263,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-11-08T17:41:45.555381+00:00"
+    "DateUpdated": "2026-11-09T21:59:31.8593167+00:00"
   },
   {
     "COMPE": "374",
@@ -11651,7 +11651,7 @@
     "ShortName": "GETNET IP",
     "Network": "RSFN",
     "Type": null,
-    "PixType": null,
+    "PixType": "DRCT",
     "Charge": null,
     "CreditDocument": null,
     "LegalCheque": false,
@@ -11663,9 +11663,9 @@
     "Url": null,
     "LogoUrl": "https://cdn.jsdelivr.net/npm/logos-bancos-br@0/logos/svg/10440482.svg",
     "DateOperationStarted": "2025-08-13",
-    "DatePixStarted": null,
+    "DatePixStarted": "2026-11-12 10:00:00",
     "DateRegistered": "2025-08-07T12:10:40.5358274+00:00",
-    "DateUpdated": "2026-08-20T12:49:46.1588426+00:00"
+    "DateUpdated": "2026-11-09T21:59:30.9821852+00:00"
   },
   {
     "COMPE": "704",
