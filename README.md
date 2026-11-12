@@ -359,7 +359,7 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
 		</tr>
-	<tbody>
+	</tbody>
 </table>
 <!-- readme: collaborators,contributors,snyk-bot/-,guistracini-outsurance-ie/- -end -->
 
@@ -442,6 +442,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
 		</tr>
-	<tbody>
+	</tbody>
 </table>
 <!-- readme: snyk-bot,bots -end -->
