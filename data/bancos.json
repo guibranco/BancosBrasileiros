@@ -5263,7 +5263,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-11-11T19:18:25.3324241+00:00"
+    "DateUpdated": "2026-11-12T19:37:25.9168677+00:00"
   },
   {
     "COMPE": "374",
@@ -12641,6 +12641,30 @@
     "DatePixStarted": "2025-08-07 10:29:34",
     "DateRegistered": "2026-01-10T13:26:02.7540522+00:00",
     "DateUpdated": "2026-08-20T12:49:46.163004+00:00"
+  },
+  {
+    "COMPE": "776",
+    "ISPB": "44650156",
+    "Document": "44.650.156/0001-93",
+    "LongName": "ONCRED - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ONCRED - SCD S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": null,
+    "DateOperationStarted": "2026-11-18",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-11-12T19:37:25.9698535+00:00",
+    "DateUpdated": "2026-11-12T19:37:25.9698771+00:00"
   },
   {
     "COMPE": "778",
