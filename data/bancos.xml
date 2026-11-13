@@ -4625,7 +4625,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-11-09T21:59:31.8593167Z</DateUpdated>
+    <DateUpdated>2026-11-12T19:37:25.9168677Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11024,6 +11024,25 @@
     <DateUpdated>2026-08-20T12:49:46.163004Z</DateUpdated>
   </bank>
   <bank>
+    <COMPE>776</COMPE>
+    <ISPB>44650156</ISPB>
+    <Document>44.650.156/0001-93</Document>
+    <LongName>ONCRED - SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>ONCRED - SCD S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-18</DateOperationStarted>
+    <DateRegistered>2026-11-12T19:37:25.9698535Z</DateRegistered>
+    <DateUpdated>2026-11-12T19:37:25.9698771Z</DateUpdated>
+  </bank>
+  <bank>
     <COMPE>778</COMPE>
     <ISPB>58674454</ISPB>
     <Document>58.674.454/0001-28</Document>
@@ -11319,6 +11338,27 @@
     <DateOperationStarted>2026-05-11</DateOperationStarted>
     <DateRegistered>2026-05-05T12:31:13.820508Z</DateRegistered>
     <DateUpdated>2026-05-05T12:31:13.8205619Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>798</COMPE>
+    <ISPB>01648418</ISPB>
+    <Document>01.648.418/0001-72</Document>
+    <LongName>NSTECH IP INSTITUICAO DE PAGAMENTO S.A.</LongName>
+    <ShortName>NSTECH IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-17</DateOperationStarted>
+    <DatePixStarted>2024-03-14 07:44:34</DatePixStarted>
+    <DateRegistered>2026-11-11T19:18:25.3966276Z</DateRegistered>
+    <DateUpdated>2026-11-11T19:18:23.7836047Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>803</COMPE>
