@@ -5263,7 +5263,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-11-12T19:37:25.9168677+00:00"
+    "DateUpdated": "2026-11-13T19:17:18.6455558+00:00"
   },
   {
     "COMPE": "374",
@@ -10948,8 +10948,8 @@
     "COMPE": "673",
     "ISPB": "08482873",
     "Document": "08.482.873/0001-90",
-    "LongName": "COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE",
-    "ShortName": "CCR DO AGRESTE ALAGOANO",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "CCR DO AGRESTE ALAGOANO - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -10966,7 +10966,7 @@
     "DateOperationStarted": "2025-03-10",
     "DatePixStarted": "2026-08-20 10:10:00",
     "DateRegistered": "2025-03-05T12:08:37.9410843+00:00",
-    "DateUpdated": "2026-08-21T12:47:38.4243731+00:00"
+    "DateUpdated": "2026-11-13T19:17:17.533996+00:00"
   },
   {
     "COMPE": "674",
