@@ -5263,7 +5263,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-11-10T19:24:37.8473592+00:00"
+    "DateUpdated": "2026-11-13T19:17:18.6455558+00:00"
   },
   {
     "COMPE": "374",
@@ -10948,8 +10948,8 @@
     "COMPE": "673",
     "ISPB": "08482873",
     "Document": "08.482.873/0001-90",
-    "LongName": "COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE",
-    "ShortName": "CCR DO AGRESTE ALAGOANO",
+    "LongName": "COOPERATIVA DE CRÉDITO RURAL DO AGRESTE ALAGOANO - COOPERAGRE - EM LIQUIDAÇÃO EXTRAJUDICIAL",
+    "ShortName": "CCR DO AGRESTE ALAGOANO - EM LIQUIDAÇÃO EXTRAJUDICIAL",
     "Network": "RSFN",
     "Type": null,
     "PixType": "DRCT",
@@ -10966,7 +10966,7 @@
     "DateOperationStarted": "2025-03-10",
     "DatePixStarted": "2026-08-20 10:10:00",
     "DateRegistered": "2025-03-05T12:08:37.9410843+00:00",
-    "DateUpdated": "2026-08-21T12:47:38.4243731+00:00"
+    "DateUpdated": "2026-11-13T19:17:17.533996+00:00"
   },
   {
     "COMPE": "674",
@@ -12643,6 +12643,30 @@
     "DateUpdated": "2026-08-20T12:49:46.163004+00:00"
   },
   {
+    "COMPE": "776",
+    "ISPB": "44650156",
+    "Document": "44.650.156/0001-93",
+    "LongName": "ONCRED - SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "ONCRED - SCD S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": null,
+    "DateOperationStarted": "2026-11-18",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-11-12T19:37:25.9698535+00:00",
+    "DateUpdated": "2026-11-12T19:37:25.9698771+00:00"
+  },
+  {
     "COMPE": "778",
     "ISPB": "58674454",
     "Document": "58.674.454/0001-28",
@@ -13001,6 +13025,30 @@
     "DatePixStarted": null,
     "DateRegistered": "2026-05-05T12:31:13.820508+00:00",
     "DateUpdated": "2026-05-05T12:31:13.8205619+00:00"
+  },
+  {
+    "COMPE": "798",
+    "ISPB": "01648418",
+    "Document": "01.648.418/0001-72",
+    "LongName": "NSTECH IP INSTITUICAO DE PAGAMENTO S.A.",
+    "ShortName": "NSTECH IP S.A.",
+    "Network": "RSFN",
+    "Type": null,
+    "PixType": "IDRT",
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": null,
+    "DateOperationStarted": "2026-11-17",
+    "DatePixStarted": "2024-03-14 07:44:34",
+    "DateRegistered": "2026-11-11T19:18:25.3966276+00:00",
+    "DateUpdated": "2026-11-11T19:18:23.7836047+00:00"
   },
   {
     "COMPE": "803",
