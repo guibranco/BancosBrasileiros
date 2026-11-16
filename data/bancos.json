@@ -5263,7 +5263,7 @@
     "DateOperationStarted": "2020-03-25",
     "DatePixStarted": "2024-04-04 10:00:00",
     "DateRegistered": "2021-05-05T09:11:12.7115121-03:00",
-    "DateUpdated": "2026-11-15T18:32:49.9903896+00:00"
+    "DateUpdated": "2026-11-16T21:42:16.5867534+00:00"
   },
   {
     "COMPE": "374",
@@ -13121,5 +13121,29 @@
     "DatePixStarted": null,
     "DateRegistered": "2026-10-28T17:57:50.2469866+00:00",
     "DateUpdated": "2026-10-28T17:57:50.246997+00:00"
+  },
+  {
+    "COMPE": "807",
+    "ISPB": "63822040",
+    "Document": "63.822.040/0001-39",
+    "LongName": "GUARDIAN SOCIEDADE DE CRÉDITO DIRETO S.A.",
+    "ShortName": "GUARDIAN SCD S.A.",
+    "Network": "Internet",
+    "Type": null,
+    "PixType": null,
+    "Charge": null,
+    "CreditDocument": null,
+    "LegalCheque": false,
+    "DetectaFlow": false,
+    "PCR": null,
+    "PCRP": null,
+    "SalaryPortability": null,
+    "Products": null,
+    "Url": null,
+    "LogoUrl": null,
+    "DateOperationStarted": "2026-11-23",
+    "DatePixStarted": null,
+    "DateRegistered": "2026-11-16T21:42:16.6340378+00:00",
+    "DateUpdated": "2026-11-16T21:42:16.6340625+00:00"
   }
 ]
