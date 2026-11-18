@@ -4625,7 +4625,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-11-13T19:17:18.6455558Z</DateUpdated>
+    <DateUpdated>2026-11-17T20:31:32.9936995Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11420,5 +11420,24 @@
     <DateOperationStarted>2026-11-03</DateOperationStarted>
     <DateRegistered>2026-10-28T17:57:50.2469866Z</DateRegistered>
     <DateUpdated>2026-10-28T17:57:50.246997Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>807</COMPE>
+    <ISPB>63822040</ISPB>
+    <Document>63.822.040/0001-39</Document>
+    <LongName>GUARDIAN SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>GUARDIAN SCD S.A.</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-23</DateOperationStarted>
+    <DateRegistered>2026-11-16T21:42:16.6340378Z</DateRegistered>
+    <DateUpdated>2026-11-16T21:42:16.6340625Z</DateUpdated>
   </bank>
 </banks>
