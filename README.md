@@ -384,17 +384,17 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/github-actions[bot]">
-                    <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
-                    <br />
-                    <sub><b>github-actions[bot]</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/gstraccini[bot]">
                     <img src="https://avatars.githubusercontent.com/in/480132?v=4" width="100;" alt="gstraccini[bot]"/>
                     <br />
                     <sub><b>gstraccini[bot]</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/github-actions[bot]">
+                    <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
+                    <br />
+                    <sub><b>github-actions[bot]</b></sub>
                 </a>
             </td>
             <td align="center">
