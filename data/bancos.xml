@@ -4625,7 +4625,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-11-17T20:31:32.9936995Z</DateUpdated>
+    <DateUpdated>2026-11-19T20:02:49.4096747Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11338,6 +11338,25 @@
     <DateOperationStarted>2026-05-11</DateOperationStarted>
     <DateRegistered>2026-05-05T12:31:13.820508Z</DateRegistered>
     <DateUpdated>2026-05-05T12:31:13.8205619Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>796</COMPE>
+    <ISPB>48786608</ISPB>
+    <Document>48.786.608/0001-10</Document>
+    <LongName>ASAAS SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.</LongName>
+    <ShortName>ASAAS CFI S.A</ShortName>
+    <Network>RSFN</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-25</DateOperationStarted>
+    <DateRegistered>2026-11-18T20:03:24.4507337Z</DateRegistered>
+    <DateUpdated>2026-11-18T20:03:24.4507574Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>798</COMPE>
