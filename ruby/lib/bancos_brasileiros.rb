@@ -18,7 +18,7 @@ module BancosBrasileiros
 
     # Parses data/bancos.json (which starts with a UTF-8 BOM).
     def load_data
-      JSON.parse(File.read(DATA_PATH, mode: "r:bom|utf-8")).each(&:freeze).freeze
+      deep_freeze(JSON.parse(File.read(DATA_PATH, mode: "r:bom|utf-8")))
     end
 
     # Finds a bank by its COMPE code. Accepts "1", "001" or 1.
@@ -63,6 +63,16 @@ module BancosBrasileiros
         bank["LongName"].to_s.downcase.include?(needle) ||
           bank["ShortName"].to_s.downcase.include?(needle)
       end
+    end
+
+    private
+
+    def deep_freeze(value)
+      case value
+      when Hash then value.each_value { |v| deep_freeze(v) }
+      when Array then value.each { |v| deep_freeze(v) }
+      end
+      value.freeze
     end
   end
 end

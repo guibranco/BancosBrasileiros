@@ -26,6 +26,14 @@ class BancosBrasileirosTest < Minitest::Test
     assert banks.first.frozen?
   end
 
+  def test_cached_data_is_deeply_frozen
+    bank = BancosBrasileiros.find_bank_by_compe("001")
+    assert bank["LongName"].frozen?
+    assert bank["Products"].frozen?
+    assert(bank["Products"].all?(&:frozen?))
+    assert_raises(FrozenError) { bank["Products"] << "x" }
+  end
+
   def test_every_bank_has_ispb_and_long_name
     BancosBrasileiros.all_banks.each do |bank|
       assert_match(/\A\d{8}\z/, bank["ISPB"])
