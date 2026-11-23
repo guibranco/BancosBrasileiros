@@ -16,3 +16,7 @@
 /SECURITY.md export-ignore
 /logo.png export-ignore
 /pubspec.yaml
+/ruby export-ignore
+/Gemfile export-ignore
+/Rakefile export-ignore
+/bancos_brasileiros.gemspec export-ignore

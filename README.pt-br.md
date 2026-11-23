@@ -115,6 +115,7 @@ Exemplos práticos de implementação estão disponíveis na pasta [examples](/e
 | [.NET/C#](/examples/dotnet) | `/examples/dotnet/` | <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /><img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=dotnet&logoColor=white" /> |
 | [EmberJS](/examples/emberjs) | `/examples/emberjs/` | <img alt="Ember.js" src="https://img.shields.io/badge/-Emberjs-E04E39?style=flat-square&logo=ember.js&logoColor=white" /> |
 | [PHP](/examples/php) | `/examples/php/` | <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> |
+| [Ruby](/examples/ruby) | `/examples/ruby/` | <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" /> |
 
 </div>
 
@@ -158,6 +159,27 @@ dotnet add package BancosBrasileiros
 ```bash
 composer require guibranco/bancos-brasileiros
 ```
+
+### Ruby (RubyGems)
+
+[![Gem Version](https://img.shields.io/gem/v/bancos_brasileiros.svg?style=flat)](https://rubygems.org/gems/bancos_brasileiros)
+[![Gem Downloads](https://img.shields.io/gem/dt/bancos_brasileiros.svg?style=flat)](https://rubygems.org/gems/bancos_brasileiros)
+
+```bash
+gem install bancos_brasileiros
+```
+
+```ruby
+require "bancos_brasileiros"
+
+BancosBrasileiros.find_bank_by_compe("341")["LongName"] # => "ITAÚ UNIBANCO S.A."
+BancosBrasileiros.find_bank_by_ispb("00000000")
+BancosBrasileiros.find_bank_by_document("00.000.000/0001-91")
+BancosBrasileiros.find_banks_by_pix_type("DRCT")
+BancosBrasileiros.search("nubank")
+```
+
+> Agradecimentos a [@eltonsantos](https://github.com/eltonsantos) pela [gem Ruby](https://github.com/eltonsantos/bancos_brasileiros) original.
 
 ## 📚 Siglas do Sistema Financeiro
 

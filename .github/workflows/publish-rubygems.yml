@@ -1,0 +1,46 @@
+name: Publish to RubyGems
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish, e.g. 6.3.16'
+        required: true
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.release.tag_name || format('v{0}', inputs.version) }}
+
+      - uses: ruby/setup-ruby@v1.343.0
+        with:
+          ruby-version: '3.3'
+
+      - name: Set gem version
+        run: |
+          TAG="${{ github.event.release.tag_name || format('v{0}', inputs.version) }}"
+          VERSION="${TAG#v}"
+          sed -i -E "s/VERSION = \"[^\"]*\"/VERSION = \"${VERSION}\"/" ruby/lib/bancos_brasileiros/version.rb
+          grep -q "VERSION = \"${VERSION}\"" ruby/lib/bancos_brasileiros/version.rb
+          echo "GEM_VERSION=${VERSION}" >> "$GITHUB_ENV"
+
+      - name: Test
+        run: ruby -Iruby/lib -e 'Dir["ruby/test/**/*_test.rb"].each { |f| require File.expand_path(f) }'
+
+      - name: Build gem
+        run: gem build bancos_brasileiros.gemspec
+
+      - name: Configure RubyGems credentials (trusted publishing)
+        uses: rubygems/configure-rubygems-credentials@v2.1.0
+
+      - name: Publish
+        run: gem push "bancos_brasileiros-${GEM_VERSION}.gem"

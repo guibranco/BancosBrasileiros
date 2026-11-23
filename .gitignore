@@ -388,3 +388,7 @@ pullRequest.txt
 /vendor/
 vendor
 composer.lock
+### Ruby ###
+*.gem
+Gemfile.lock
+.bundle/
