@@ -45,8 +45,33 @@ jobs:
       - name: Build gem
         run: gem build bancos_brasileiros_data.gemspec
 
+      # Exchanges the GitHub OIDC token for a short-lived RubyGems API key.
+      # Done by hand (instead of rubygems/configure-rubygems-credentials) because the
+      # first push of a new gem must name the RubyGems.org account that will own it,
+      # and no released version of that action sends the `owner` parameter yet.
+      # RUBYGEMS_OWNER: the owning account's ID (shown on its Pending Trusted
+      # Publishers page) or its handle. Not needed once the gem exists, but harmless.
       - name: Configure RubyGems credentials (trusted publishing)
-        uses: rubygems/configure-rubygems-credentials@dc5a8d8553e6ee01fc26761a49e99e733d17954a # v2.1.0
+        env:
+          RUBYGEMS_OWNER: ${{ vars.RUBYGEMS_OWNER }}
+        run: |
+          set -euo pipefail
+          jwt=$(curl -fsS -H "Authorization: bearer ${ACTIONS_ID_TOKEN_REQUEST_TOKEN}" \
+            "${ACTIONS_ID_TOKEN_REQUEST_URL}&audience=rubygems.org" | jq -r '.value')
+          payload=$(jq -n --arg jwt "$jwt" --arg owner "${RUBYGEMS_OWNER:-}" \
+            '{jwt: $jwt} + (if $owner == "" then {} else {owner: $owner} end)')
+          response=$(curl -sS -w '\n%{http_code}' -X POST \
+            -H 'Content-Type: application/json' -H 'Accept: application/json' \
+            --data "$payload" https://rubygems.org/api/v1/oidc/trusted_publisher/exchange_token)
+          status=$(tail -n1 <<< "$response")
+          body=$(sed '$d' <<< "$response")
+          if [[ "$status" != 2* ]]; then
+            echo "Trusted publisher token exchange failed (HTTP $status): $body" >&2
+            exit 1
+          fi
+          key=$(jq -r '.rubygems_api_key' <<< "$body")
+          echo "::add-mask::$key"
+          echo "GEM_HOST_API_KEY=$key" >> "$GITHUB_ENV"
 
       - name: Publish
         run: gem push "bancos_brasileiros_data-${GEM_VERSION}.gem"
