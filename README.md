@@ -214,6 +214,13 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/claude">
+                    <img src="https://avatars.githubusercontent.com/u/81847?v=4" width="100;" alt="claude"/>
+                    <br />
+                    <sub><b>Claude</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/icarusiftctts">
                     <img src="https://avatars.githubusercontent.com/u/174119232?v=4" width="100;" alt="icarusiftctts"/>
                     <br />
@@ -232,13 +239,6 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                     <img src="https://avatars.githubusercontent.com/u/3853552?v=4" width="100;" alt="raphaelcunha"/>
                     <br />
                     <sub><b>Raphael Cunha</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/claude">
-                    <img src="https://avatars.githubusercontent.com/u/81847?v=4" width="100;" alt="claude"/>
-                    <br />
-                    <sub><b>Claude</b></sub>
                 </a>
             </td>
             <td align="center">
