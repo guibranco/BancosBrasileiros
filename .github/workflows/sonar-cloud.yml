@@ -27,8 +27,28 @@ jobs:
                   gem install simplecov --no-document
                   ruby -Iruby/lib -rsimplecov -e 'Dir["ruby/test/**/*_test.rb"].each { |f| require File.expand_path(f) }'
 
+            # On pull requests, pass the PR coordinates explicitly so the scanner does not
+            # auto-configure them through SonarCloud's GitHub lookup
+            # (api/alm_integration/show_pullrequest), which intermittently fails with
+            # "Something went wrong while trying to get the pullrequest with key ...".
+            - name: Prepare SonarCloud arguments
+              id: sonar-args
+              shell: bash
+              env:
+                  PR_NUMBER: ${{ github.event.pull_request.number }}
+                  PR_HEAD: ${{ github.head_ref }}
+                  PR_BASE: ${{ github.base_ref }}
+              run: |
+                  if [[ "${GITHUB_EVENT_NAME}" == "pull_request" ]]; then
+                      echo "args=-Dsonar.pullrequest.key=${PR_NUMBER} -Dsonar.pullrequest.branch=${PR_HEAD} -Dsonar.pullrequest.base=${PR_BASE}" >> "${GITHUB_OUTPUT}"
+                  else
+                      echo "args=" >> "${GITHUB_OUTPUT}"
+                  fi
+
             - name: SonarCloud Scan
               uses: sonarsource/sonarqube-scan-action@v8.4.0
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                   SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+              with:
+                  args: ${{ steps.sonar-args.outputs.args }}
