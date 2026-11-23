@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative "ruby/lib/bancos_brasileiros/version"
+require_relative "ruby/lib/bancos_brasileiros_data/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "bancos_brasileiros"
+  spec.name = "bancos_brasileiros_data"
   spec.version = BancosBrasileiros::VERSION
   spec.authors = ["Guilherme Branco Stracini", "Elton Santos"]
   spec.email = ["opensource@straccini.com"]
