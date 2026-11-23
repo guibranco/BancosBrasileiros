@@ -59,7 +59,6 @@ jobs:
               shell: bash
               env:
                   WIREGUARD_CONFIG: ${{ secrets.WIREGUARD_CONFIG }}
-                  WG_CONF: ${{ runner.temp }}/wg0.conf
               run: |
                   set -euo pipefail
                   if [[ -z "${WIREGUARD_CONFIG}" ]]; then
@@ -77,10 +76,11 @@ jobs:
                       sudo ln -sf "$(command -v resolvectl)" /usr/local/sbin/resolvconf
                   fi
 
-                  umask 077
-                  printf '%s\n' "${WIREGUARD_CONFIG}" > "${WG_CONF}"
-                  chmod 600 "${WG_CONF}"
-                  sudo wg-quick up "${WG_CONF}"
+                  # Ubuntu 26 confines wg-quick with AppArmor, so it can only read configs
+                  # from /etc/wireguard (a file in $RUNNER_TEMP fails with "Permission denied").
+                  # Write it there directly, root-owned and 0600, without a copy in the workspace.
+                  printf '%s\n' "${WIREGUARD_CONFIG}" | sudo install -D -m 600 -o root -g root /dev/stdin /etc/wireguard/wg0.conf
+                  sudo wg-quick up wg0
 
                   sudo wg show wg0 | grep -vi 'private key'
                   resolvectl status wg0 || true
@@ -100,12 +100,10 @@ jobs:
             - name: Detach WireGuard connection
               shell: bash
               if: always() && steps.wireguard.outcome != 'skipped' && steps.wireguard-lock.outcome == 'success'
-              env:
-                  WG_CONF: ${{ runner.temp }}/wg0.conf
               run: |
-                  if [[ -f "${WG_CONF}" ]]; then
-                      sudo wg-quick down "${WG_CONF}" || true
-                      rm -f "${WG_CONF}"
+                  if sudo test -f /etc/wireguard/wg0.conf; then
+                      sudo wg-quick down wg0 || true
+                      sudo rm -f /etc/wireguard/wg0.conf
                   fi
 
             - name: Release WireGuard lock
