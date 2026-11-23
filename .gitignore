@@ -392,3 +392,4 @@ composer.lock
 *.gem
 Gemfile.lock
 .bundle/
+coverage/
