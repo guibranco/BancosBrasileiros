@@ -80,6 +80,13 @@ jobs:
                   # from /etc/wireguard (a file in $RUNNER_TEMP fails with "Permission denied").
                   # Write it there directly, root-owned and 0600, without a copy in the workspace.
                   printf '%s\n' "${WIREGUARD_CONFIG}" | sudo install -D -m 600 -o root -g root /dev/stdin /etc/wireguard/wg0.conf
+                  # Hosted runners have a jumbo-frame NIC (MTU 9000+), so wg-quick would derive
+                  # an MTU of ~8921 for wg0. Packets that large are dropped on the internet path:
+                  # DNS works but TLS handshakes stall (curl exit 35). Use WireGuard's standard
+                  # 1420 unless the config sets its own MTU.
+                  if ! sudo grep -qiE '^[[:space:]]*MTU[[:space:]]*=' /etc/wireguard/wg0.conf; then
+                      sudo sed -i '/^\[Interface\]/a MTU = 1420' /etc/wireguard/wg0.conf
+                  fi
                   sudo wg-quick up wg0
 
                   sudo wg show wg0 | grep -vi 'private key'
@@ -88,7 +95,11 @@ jobs:
                       echo "::error::DNS resolution failed after bringing up the WireGuard tunnel."
                       exit 1
                   fi
-                  echo "WireGuard tunnel is up and DNS resolves."
+                  if ! curl -sS -o /dev/null --max-time 30 https://api.github.com; then
+                      echo "::error::HTTPS through the WireGuard tunnel failed (check MTU / peer routing)."
+                      exit 1
+                  fi
+                  echo "WireGuard tunnel is up, DNS resolves and HTTPS works."
 
             - name: Run lychee
               if: steps.wireguard.outcome == 'success'
