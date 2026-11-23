@@ -1,0 +1,52 @@
+name: Publish to RubyGems
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Version to publish, e.g. 6.3.16'
+        required: true
+
+permissions:
+  contents: read
+  id-token: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.release.tag_name || format('v{0}', inputs.version) }}
+          persist-credentials: false
+
+      - uses: ruby/setup-ruby@be3c7df29b3349ec6bcfc6b4792f1cf9f5237d18 # v1.343.0
+        with:
+          ruby-version: '3.3'
+
+      - name: Set gem version
+        env:
+          TAG: ${{ github.event.release.tag_name || format('v{0}', inputs.version) }}
+        run: |
+          VERSION="${TAG#v}"
+          if ! [[ "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+            echo "Invalid version: $VERSION" >&2
+            exit 1
+          fi
+          sed -i -E "s/VERSION = \"[^\"]*\"/VERSION = \"${VERSION}\"/" ruby/lib/bancos_brasileiros/version.rb
+          grep -q "VERSION = \"${VERSION}\"" ruby/lib/bancos_brasileiros/version.rb
+          echo "GEM_VERSION=${VERSION}" >> "$GITHUB_ENV"
+
+      - name: Test
+        run: ruby -Iruby/lib -e 'Dir["ruby/test/**/*_test.rb"].each { |f| require File.expand_path(f) }'
+
+      - name: Build gem
+        run: gem build bancos_brasileiros.gemspec
+
+      - name: Configure RubyGems credentials (trusted publishing)
+        uses: rubygems/configure-rubygems-credentials@dc5a8d8553e6ee01fc26761a49e99e733d17954a # v2.1.0
+
+      - name: Publish
+        run: gem push "bancos_brasileiros-${GEM_VERSION}.gem"

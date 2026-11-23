@@ -1,0 +1,28 @@
+PATH
+  remote: .
+  specs:
+    bancos_brasileiros (6.3.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.27.0)
+    rake (13.4.2)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  bancos_brasileiros!
+  minitest (~> 5.0)
+  rake (~> 13.0)
+
+CHECKSUMS
+  bancos_brasileiros (6.3.0)
+  bundler (4.0.18) sha256=02d9a17429de1847b4e0c9f27a9ee4b20c0a74c0a641b4e77195d6019e3618ac
+  minitest (5.27.0) sha256=2d3b17f8a36fe7801c1adcffdbc38233b938eb0b4966e97a6739055a45fa77d5
+  rake (13.4.2) sha256=cb825b2bd5f1f8e91ca37bddb4b9aaf345551b4731da62949be002fa89283701
+
+BUNDLED WITH
+  4.0.18
