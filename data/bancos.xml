@@ -4625,7 +4625,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-11-22T19:07:58.9041452Z</DateUpdated>
+    <DateUpdated>2026-11-23T19:53:37.1532134Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11458,5 +11458,24 @@
     <DateOperationStarted>2026-11-23</DateOperationStarted>
     <DateRegistered>2026-11-16T21:42:16.6340378Z</DateRegistered>
     <DateUpdated>2026-11-16T21:42:16.6340625Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>808</COMPE>
+    <ISPB>40867163</ISPB>
+    <Document>40.867.163/0001-90</Document>
+    <LongName>RENDIMENTO SOCIEDADE DE CRÉDITO DIRETO S.A.</LongName>
+    <ShortName>RENDIMENTO SCD</ShortName>
+    <Network>Internet</Network>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-27</DateOperationStarted>
+    <DateRegistered>2026-11-23T19:53:37.1952273Z</DateRegistered>
+    <DateUpdated>2026-11-23T19:53:37.1952443Z</DateUpdated>
   </bank>
 </banks>
