@@ -16,8 +16,9 @@ concurrency:
 jobs:
     link-checker:
         if: github.event.pull_request.user.login != 'dependabot[bot]'
-        runs-on: ubuntu-latest
+        runs-on: ubuntu-26.04
         permissions:
+            actions: write # required by the artifact lock (create/delete lock artifact)
             issues: write
             contents: read
             pull-requests: write
@@ -43,18 +44,54 @@ jobs:
                   key: cache-lychee-${{ github.sha }}
                   restore-keys: cache-lychee-
 
-            - name: Attach WireGuard connection
+            - name: Acquire WireGuard lock
+              id: wireguard-lock
               if: github.event_name != 'pull_request' || steps.filter.outputs.relevant == 'true'
+              uses: guibranco/github-artifact-lock-action@v3.0.24
+              with:
+                  lock-name: wireguard-tunnel
+                  retry-wait: 30
+                  retry-max: 40
+
+            - name: Attach WireGuard connection
+              id: wireguard
+              if: steps.wireguard-lock.outcome == 'success'
               shell: bash
+              env:
+                  WIREGUARD_CONFIG: ${{ secrets.WIREGUARD_CONFIG }}
+                  WG_CONF: ${{ runner.temp }}/wg0.conf
               run: |
-                  sudo apt install resolvconf
-                  sudo apt install wireguard
-                  echo "${{ secrets.WIREGUARD_CONFIG }}" > wg0.conf
-                  sudo chmod 600 wg0.conf
-                  sudo wg-quick up ./wg0.conf
+                  set -euo pipefail
+                  if [[ -z "${WIREGUARD_CONFIG}" ]]; then
+                      echo "::error::WIREGUARD_CONFIG secret is not available to this run."
+                      exit 1
+                  fi
+
+                  sudo apt-get update -qq
+                  sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -qq --no-install-recommends wireguard-tools
+
+                  # wg-quick calls `resolvconf` to apply the DNS= setting. Ubuntu runners use
+                  # systemd-resolved, so point `resolvconf` at resolvectl (its resolvconf
+                  # compatibility mode) instead of installing the resolvconf package.
+                  if ! command -v resolvconf > /dev/null; then
+                      sudo ln -sf "$(command -v resolvectl)" /usr/local/sbin/resolvconf
+                  fi
+
+                  umask 077
+                  printf '%s\n' "${WIREGUARD_CONFIG}" > "${WG_CONF}"
+                  chmod 600 "${WG_CONF}"
+                  sudo wg-quick up "${WG_CONF}"
+
+                  sudo wg show wg0 | grep -vi 'private key'
+                  resolvectl status wg0 || true
+                  if ! getent hosts www.bcb.gov.br > /dev/null; then
+                      echo "::error::DNS resolution failed after bringing up the WireGuard tunnel."
+                      exit 1
+                  fi
+                  echo "WireGuard tunnel is up and DNS resolves."
 
             - name: Run lychee
-              if: github.event_name != 'pull_request' || steps.filter.outputs.relevant == 'true'
+              if: steps.wireguard.outcome == 'success'
               uses: lycheeverse/lychee-action@v2.9.0
               id: lychee
               with:
@@ -62,11 +99,25 @@ jobs:
 
             - name: Detach WireGuard connection
               shell: bash
-              if: always() && (github.event_name != 'pull_request' || steps.filter.outputs.relevant == 'true')
-              run: sudo wg-quick down ./wg0.conf
+              if: always() && steps.wireguard.outcome != 'skipped' && steps.wireguard-lock.outcome == 'success'
+              env:
+                  WG_CONF: ${{ runner.temp }}/wg0.conf
+              run: |
+                  if [[ -f "${WG_CONF}" ]]; then
+                      sudo wg-quick down "${WG_CONF}" || true
+                      rm -f "${WG_CONF}"
+                  fi
+
+            - name: Release WireGuard lock
+              # Only release a lock this run actually acquired, otherwise we would delete
+              # the lock artifact held by another run.
+              if: always() && steps.wireguard-lock.outcome == 'success'
+              uses: guibranco/github-artifact-lock-action/release-lock@v3.0.24
+              with:
+                  lock-name: wireguard-tunnel
 
             - name: Create issue
-              if: always() && github.event_name != 'pull_request' && steps.lychee.outputs.exit_code != 0
+              if: always() && github.event_name != 'pull_request' && steps.lychee.outcome != 'skipped' && steps.lychee.outputs.exit_code != 0
               uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710  # v6
               with:
                   title: 🔗✅ Link checker report
@@ -80,7 +131,7 @@ jobs:
 
             - name: Update PR with comment
               uses: mshick/add-pr-comment@v3
-              if: always() && github.event_name == 'pull_request' && steps.filter.outputs.relevant == 'true' && steps.lychee.outputs.exit_code != 0
+              if: always() && github.event_name == 'pull_request' && steps.lychee.outcome != 'skipped' && steps.lychee.outputs.exit_code != 0
               with:
                   refresh-message-position: true
                   message-id: 'link-checker-result'
