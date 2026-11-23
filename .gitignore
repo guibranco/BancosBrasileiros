@@ -390,6 +390,5 @@ vendor
 composer.lock
 ### Ruby ###
 *.gem
-Gemfile.lock
 .bundle/
 coverage/

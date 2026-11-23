@@ -1,15 +1,5 @@
 # frozen_string_literal: true
 
-begin
-  require "simplecov"
-  SimpleCov.start do
-    add_filter "/ruby/test/"
-    add_filter "/examples/"
-  end
-rescue LoadError
-  # SimpleCov is optional; coverage is only collected in the SonarCloud workflow.
-end
-
 require "minitest/autorun"
 require_relative "../lib/bancos_brasileiros"
 
