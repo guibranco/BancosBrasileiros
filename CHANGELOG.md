@@ -6,6 +6,12 @@
 
 ### 2026-11-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
 
+- Updated 1 bank
+  - 373 - UP.P SEP S.A. - 35.977.097/0001-71
+    - **Products** (CTC): Capital de Giro, Outros Créditos, Pessoal, Troca de Modalidade, Veiculos **->** Consignado, Pessoal
+
+### 2026-11-23 - [MergeTool](https://github.com/guibranco/BancosBrasileiros-MergeTool)
+
 - Added 1 bank
   - 808 - RENDIMENTO SCD - 40.867.163/0001-90
 - Updated 1 bank
