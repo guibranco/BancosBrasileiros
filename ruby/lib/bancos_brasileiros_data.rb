@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require "json"
-require_relative "bancos_brasileiros/version"
+require_relative "bancos_brasileiros_data/version"
 
 # Brazilian commercial banks list, backed by data/bancos.json.
 #

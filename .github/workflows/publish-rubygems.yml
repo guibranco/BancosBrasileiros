@@ -35,18 +35,18 @@ jobs:
             echo "Invalid version: $VERSION" >&2
             exit 1
           fi
-          sed -i -E "s/VERSION = \"[^\"]*\"/VERSION = \"${VERSION}\"/" ruby/lib/bancos_brasileiros/version.rb
-          grep -q "VERSION = \"${VERSION}\"" ruby/lib/bancos_brasileiros/version.rb
+          sed -i -E "s/VERSION = \"[^\"]*\"/VERSION = \"${VERSION}\"/" ruby/lib/bancos_brasileiros_data/version.rb
+          grep -q "VERSION = \"${VERSION}\"" ruby/lib/bancos_brasileiros_data/version.rb
           echo "GEM_VERSION=${VERSION}" >> "$GITHUB_ENV"
 
       - name: Test
         run: ruby -Iruby/lib -e 'Dir["ruby/test/**/*_test.rb"].each { |f| require File.expand_path(f) }'
 
       - name: Build gem
-        run: gem build bancos_brasileiros.gemspec
+        run: gem build bancos_brasileiros_data.gemspec
 
       - name: Configure RubyGems credentials (trusted publishing)
         uses: rubygems/configure-rubygems-credentials@dc5a8d8553e6ee01fc26761a49e99e733d17954a # v2.1.0
 
       - name: Publish
-        run: gem push "bancos_brasileiros-${GEM_VERSION}.gem"
+        run: gem push "bancos_brasileiros_data-${GEM_VERSION}.gem"

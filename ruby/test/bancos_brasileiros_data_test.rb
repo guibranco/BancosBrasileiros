@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require "minitest/autorun"
-require_relative "../lib/bancos_brasileiros"
+require_relative "../lib/bancos_brasileiros_data"
 
 class BancosBrasileirosTest < Minitest::Test
   def test_version

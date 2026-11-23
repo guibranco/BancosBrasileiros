@@ -161,15 +161,15 @@ composer require guibranco/bancos-brasileiros
 
 ### Ruby (RubyGems)
 
-[![Gem Version](https://img.shields.io/gem/v/bancos_brasileiros.svg?style=flat)](https://rubygems.org/gems/bancos_brasileiros)
-[![Gem Downloads](https://img.shields.io/gem/dt/bancos_brasileiros.svg?style=flat)](https://rubygems.org/gems/bancos_brasileiros)
+[![Gem Version](https://img.shields.io/gem/v/bancos_brasileiros_data.svg?style=flat)](https://rubygems.org/gems/bancos_brasileiros_data)
+[![Gem Downloads](https://img.shields.io/gem/dt/bancos_brasileiros_data.svg?style=flat)](https://rubygems.org/gems/bancos_brasileiros_data)
 
 ```bash
-gem install bancos_brasileiros
+gem install bancos_brasileiros_data
 ```
 
 ```ruby
-require "bancos_brasileiros"
+require "bancos_brasileiros_data"
 
 BancosBrasileiros.find_bank_by_compe("341")["LongName"] # => "ITAÚ UNIBANCO S.A."
 BancosBrasileiros.find_bank_by_ispb("00000000")

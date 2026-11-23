@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 # Usage:
-#   gem install bancos_brasileiros
+#   gem install bancos_brasileiros_data
 #   ruby examples/ruby/example.rb
 #
 # To run against the code in this repository instead of the published gem:
 #   ruby -Iruby/lib examples/ruby/example.rb
 
-require "bancos_brasileiros"
+require "bancos_brasileiros_data"
 
 puts "Total banks: #{BancosBrasileiros.all_banks.size}"
 

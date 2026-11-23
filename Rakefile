@@ -7,9 +7,9 @@ Rake::TestTask.new(:test) do |t|
   t.test_files = FileList["ruby/test/**/*_test.rb"]
 end
 
-desc "Build the bancos_brasileiros gem"
+desc "Build the bancos_brasileiros_data gem"
 task :build do
-  sh "gem build bancos_brasileiros.gemspec"
+  sh "gem build bancos_brasileiros_data.gemspec"
 end
 
 task default: :test

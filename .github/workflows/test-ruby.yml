@@ -5,7 +5,7 @@ on:
     paths:
       - 'ruby/**'
       - 'data/bancos.json'
-      - 'bancos_brasileiros.gemspec'
+      - 'bancos_brasileiros_data.gemspec'
       - 'Rakefile'
       - 'Gemfile'
       - '.github/workflows/test-ruby.yml'
@@ -14,7 +14,7 @@ on:
     paths:
       - 'ruby/**'
       - 'data/bancos.json'
-      - 'bancos_brasileiros.gemspec'
+      - 'bancos_brasileiros_data.gemspec'
 
 permissions:
   contents: read
@@ -39,4 +39,4 @@ jobs:
         run: ruby -Iruby/lib -e 'Dir["ruby/test/**/*_test.rb"].each { |f| require File.expand_path(f) }'
 
       - name: Build gem
-        run: gem build bancos_brasileiros.gemspec
+        run: gem build bancos_brasileiros_data.gemspec
