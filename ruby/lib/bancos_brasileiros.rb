@@ -23,14 +23,20 @@ module BancosBrasileiros
 
     # Finds a bank by its COMPE code. Accepts "1", "001" or 1.
     def find_bank_by_compe(compe)
-      code = compe.to_s.strip.rjust(3, "0")
+      code = compe.to_s.strip
+      return nil if code.empty?
+
+      code = code.rjust(3, "0")
       all_banks.find { |bank| bank["COMPE"] == code }
     end
     alias find_bank_by_codigo_compe find_bank_by_compe
 
     # Finds a bank by its ISPB code. Accepts "0", "00000000" or 0.
     def find_bank_by_ispb(ispb)
-      code = ispb.to_s.strip.rjust(8, "0")
+      code = ispb.to_s.strip
+      return nil if code.empty?
+
+      code = code.rjust(8, "0")
       all_banks.find { |bank| bank["ISPB"] == code }
     end
 
@@ -71,6 +77,7 @@ module BancosBrasileiros
       case value
       when Hash then value.each_value { |v| deep_freeze(v) }
       when Array then value.each { |v| deep_freeze(v) }
+      else value
       end
       value.freeze
     end

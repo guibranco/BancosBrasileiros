@@ -37,6 +37,7 @@ class BancosBrasileirosTest < Minitest::Test
     assert_equal bank, BancosBrasileiros.find_bank_by_compe(1)
     assert_equal bank, BancosBrasileiros.find_bank_by_compe("1")
     assert_nil BancosBrasileiros.find_bank_by_compe("abc")
+    [nil, "", "   "].each { |blank| assert_nil BancosBrasileiros.find_bank_by_compe(blank) }
   end
 
   def test_find_bank_by_codigo_compe_alias_kept_for_compatibility
@@ -48,6 +49,8 @@ class BancosBrasileirosTest < Minitest::Test
     bank = BancosBrasileiros.find_bank_by_ispb("00000000")
     assert_equal "001", bank["COMPE"]
     assert_equal bank, BancosBrasileiros.find_bank_by_ispb(0)
+    assert_equal bank, BancosBrasileiros.find_bank_by_ispb("0")
+    [nil, "", "   "].each { |blank| assert_nil BancosBrasileiros.find_bank_by_ispb(blank) }
   end
 
   def test_find_bank_by_document
