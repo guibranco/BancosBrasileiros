@@ -4625,7 +4625,7 @@
     <DateOperationStarted>2020-03-25</DateOperationStarted>
     <DatePixStarted>2024-04-04 10:00:00</DatePixStarted>
     <DateRegistered>2021-05-05T09:11:12.7115121-03:00</DateRegistered>
-    <DateUpdated>2026-11-23T23:29:01.9891096Z</DateUpdated>
+    <DateUpdated>2026-11-24T21:58:43.9035168Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>374</COMPE>
@@ -11119,6 +11119,27 @@
     <DatePixStarted>2025-06-25 10:10:00</DatePixStarted>
     <DateRegistered>2026-02-19T12:18:12.1402397Z</DateRegistered>
     <DateUpdated>2026-08-20T12:49:46.1611598Z</DateUpdated>
+  </bank>
+  <bank>
+    <COMPE>784</COMPE>
+    <ISPB>17768068</ISPB>
+    <Document>17.768.068/0001-18</Document>
+    <LongName>PINPAG INSTITUIÇÃO DE PAGAMENTO S.A.</LongName>
+    <ShortName>PINPAG IP S.A.</ShortName>
+    <Network>RSFN</Network>
+    <PixType>IDRT</PixType>
+    <Charge p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <CreditDocument p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LegalCheque>false</LegalCheque>
+    <DetectaFLow>false</DetectaFLow>
+    <PCR p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <PCRP p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <Url p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <LogoUrl p3:nil="true" xmlns:p3="http://www.w3.org/2001/XMLSchema-instance" />
+    <DateOperationStarted>2026-11-30</DateOperationStarted>
+    <DatePixStarted>2024-05-06 09:22:34</DatePixStarted>
+    <DateRegistered>2026-11-24T21:58:43.9411656Z</DateRegistered>
+    <DateUpdated>2026-11-24T21:58:43.0514934Z</DateUpdated>
   </bank>
   <bank>
     <COMPE>785</COMPE>
