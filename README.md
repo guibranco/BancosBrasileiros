@@ -374,6 +374,15 @@ View our complete [changelog](/CHANGELOG.md) for detailed update history.
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/arianvaldivieso">
+                    <img src="https://avatars.githubusercontent.com/u/9378982?v=4" width="100;" alt="arianvaldivieso"/>
+                    <br />
+                    <sub><b>Arian Valdivieso</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/apoorvdarshan">
                     <img src="https://avatars.githubusercontent.com/u/90602809?v=4" width="100;" alt="apoorvdarshan"/>
                     <br />
